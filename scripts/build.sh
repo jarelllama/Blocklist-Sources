@@ -26,8 +26,8 @@ build() {
     sort -u compiled.tmp -o compiled.tmp
 
     # Remove dead domains
-    printf "\n"
-    dead-domains-linter -a -i compiled.tmp
+    #printf "\n"
+    #dead-domains-linter -a -i compiled.tmp
 
     # Deploy blocklist
     append_header
