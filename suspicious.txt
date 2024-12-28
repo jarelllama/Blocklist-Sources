@@ -3,22 +3,25 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.28.200057.2024
+! Version: 12.28.203057.2024
 ! Expires: 30 minutes
-! Last modified: Sat Dec 28 20:00:57 UTC 2024
+! Last modified: Sat Dec 28 20:30:57 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 41
+! Number of entries: 50
 ||278.hnyuanoo.top^
+||affiliatemarketlite.com^
 ||amazonsellersappeal.com^
 ||arcmine.com^
 ||biglotsclosures.com^
 ||btc913.com^
 ||btc933.com^
 ||buletboard.com^
+||casetesy.com^
 ||cvstrx.vip^
 ||drawmaniauk.shop^
 ||fjallravenvip.shop^
 ||forbiddenpant.com^
+||fundxrecover.com^
 ||gambyllion.com^
 ||game.zone.pro^
 ||gorouslook.com^
@@ -28,11 +31,15 @@
 ||hotbvetovu.cc^
 ||justwatch.com^
 ||lawnagain.com^
+||limeremce.com^
 ||luatypticures.co.in^
 ||lucky888.top^
+||mayzik.com^
 ||news.jufife.com^
 ||nodepay.ai^
+||ourruless.store^
 ||outfitloft.com^
+||pairrelax.com^
 ||pefctiordent.com^
 ||playfortune.cc^
 ||quvrmh.com^
@@ -41,11 +48,13 @@
 ||synthealth.com^
 ||talklikesm.best^
 ||trahia.com^
+||trejoapp.com^
 ||tymcra.com^
 ||uhbideal.store^
 ||usdtmall.co^
 ||va835.rokinat.co.in^
 ||volcminer.store^
+||web3.gpt.shop^
 ||xsdvdeal.store^
 ||xyzverse.io^
 ||yunpso.com^
