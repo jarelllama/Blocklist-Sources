@@ -38,7 +38,7 @@ append_header() {
     cat << EOF > suspicious.txt
 [Adblock Plus]
 ! Title: Gridinsoft Suspicious Domains Blocklsit
-! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist).
+! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
 ! Version: $(date -u +"%m.%d.%H%M%S.%Y")
