@@ -42,7 +42,7 @@ append_header() {
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
 ! Version: $(date -u +"%m.%d.%H%M%S.%Y")
-! Expires: 1 hour
+! Expires: 30 minutes
 ! Last modified: $(date -u)
 ! Syntax: Adblock Plus
 ! Number of entries: $(wc -l < compiled.tmp)
