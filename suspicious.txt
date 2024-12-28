@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.28.173056.2024
+! Version: 12.28.180103.2024
 ! Expires: 30 minutes
-! Last modified: Sat Dec 28 17:30:56 UTC 2024
+! Last modified: Sat Dec 28 18:01:03 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 28
+! Number of entries: 31
 ||278.hnyuanoo.top^
 ||arcmine.com^
 ||biglotsclosures.com^
@@ -19,11 +19,14 @@
 ||forbiddenpant.com^
 ||gambyllion.com^
 ||game.zone.pro^
+||hotbtujeka.cc^
+||hotbvamove.today^
 ||hotbveleki.cc^
 ||hotbvetovu.cc^
 ||justwatch.com^
 ||lawnagain.com^
 ||luatypticures.co.in^
+||news.jufife.com^
 ||nodepay.ai^
 ||playfortune.cc^
 ||quvrmh.com^
