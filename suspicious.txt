@@ -3,22 +3,25 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.28.223224.2024
+! Version: 12.28.230052.2024
 ! Expires: 30 minutes
-! Last modified: Sat Dec 28 22:32:24 UTC 2024
+! Last modified: Sat Dec 28 23:00:52 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 66
+! Number of entries: 72
+||24proleverage.com^
 ||278.hnyuanoo.top^
 ||82lottery9.in^
 ||affiliatemarketlite.com^
 ||alo88.black^
 ||amazonsellersappeal.com^
+||arakaxabux.com^
 ||arcmine.com^
 ||bedtige.top^
 ||biglotsclosures.com^
 ||bikinibossmiamieu.com^
 ||bit.binary.org^
 ||bmwstore.eu.com^
+||bphash.top^
 ||btc913.com^
 ||btc933.com^
 ||buletboard.com^
@@ -41,6 +44,7 @@
 ||justwatch.com^
 ||lawnagain.com^
 ||limeremce.com^
+||liveccvv.mp^
 ||luatypticures.co.in^
 ||lucky888.top^
 ||lulusafh.com^
@@ -48,12 +52,14 @@
 ||mayzik.com^
 ||news.jufife.com^
 ||nodepay.ai^
+||offersheres.net^
 ||ourruless.store^
 ||outfitloft.com^
 ||pairrelax.com^
 ||pefctiordent.com^
 ||playfortune.cc^
 ||quvrmh.com^
+||roll2x.com^
 ||rpmvape.com^
 ||sedonainvestments.co.uk^
 ||smith.newyork.com^
