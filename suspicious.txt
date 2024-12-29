@@ -3,11 +3,12 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.103307.2024
+! Version: 12.29.110050.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 10:33:07 UTC 2024
+! Last modified: Sun Dec 29 11:00:50 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 198
+! Number of entries: 207
+||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
 ||777color87.com^
@@ -50,6 +51,7 @@
 ||bulanjitu.org^
 ||buletboard.com^
 ||casetesy.com^
+||caveysrestaurant.com^
 ||cbex3.com^
 ||celebprize.com^
 ||cheqseep.online^
@@ -57,7 +59,10 @@
 ||co.financing.cc^
 ||cobaltsunsetberry.xyz^
 ||cobatis.sm.com^
+||com.513i.cfd^
+||compare.deals.online.info^
 ||construction.jobs.nz.online^
+||contactconsultingservices.com^
 ||crsverify.online^
 ||cryptoids.info^
 ||cuan66.co^
@@ -100,6 +105,7 @@
 ||insightdreams.online^
 ||iranfinance.info^
 ||jaysranchhamden.online^
+||johncrestani.online.com^
 ||jumper.lvlnk.com^
 ||justanorganizedhome.online^
 ||justanothercarpenter.online^
@@ -108,6 +114,7 @@
 ||kefu.swapbit.top^
 ||kirillviktoriawedding.online^
 ||ksda.online.org^
+||landmark.online.workers.dev^
 ||lawnagain.com^
 ||limeremce.com^
 ||liveccvv.mp^
@@ -128,6 +135,7 @@
 ||nodepay.ai^
 ||nomisite8.online^
 ||obalaso.online^
+||ofertabook.online^
 ||offersheres.net^
 ||oneclickmart.online^
 ||online.courses.classes.21368.bond^
@@ -198,6 +206,7 @@
 ||waxx.network^
 ||web3.gpt.shop^
 ||wegmansmall.shop^
+||windcapitalsinfo.us^
 ||xfnwnw.com^
 ||xsdvdeal.store^
 ||xtremediscount.net^
