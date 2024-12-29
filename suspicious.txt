@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.070056.2024
+! Version: 12.29.073053.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 07:00:56 UTC 2024
+! Last modified: Sun Dec 29 07:30:53 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 136
+! Number of entries: 146
 ||24proleverage.com^
 ||278.hnyuanoo.top^
 ||777color87.com^
@@ -15,6 +15,7 @@
 ||acceleratew.com^
 ||account.cardplus.cc^
 ||acrossfold.com^
+||adminpg.online^
 ||affiliatemarketlite.com^
 ||alo88.black^
 ||amazonsellersappeal.com^
@@ -24,6 +25,7 @@
 ||artwareworld.com^
 ||atlaspays.com^
 ||auth.mashash.co^
+||avlissatdnagait.online^
 ||ayridchandler.shop^
 ||bagsupermarket.com^
 ||bcapstaking.com^
@@ -44,11 +46,14 @@
 ||casetesy.com^
 ||celebprize.com^
 ||co.financing.cc^
+||cobaltsunsetberry.xyz^
+||cobatis.sm.com^
 ||cryptoids.info^
 ||customscool.com^
 ||cvstrx.vip^
 ||cyberguardforchrome.com^
 ||digestionscience.com^
+||docs.connect.wallet.teachable.com^
 ||dogooddaldaadw.com^
 ||drawmaniauk.shop^
 ||dvdsociety.shop^
@@ -70,12 +75,14 @@
 ||gorouslook.com^
 ||grindsoft.com^
 ||guabsons.com^
+||harveylux.com^
 ||hotbtujeka.cc^
 ||hotbvamove.today^
 ||hotbveleki.cc^
 ||hotbvetovu.cc^
 ||iranfinance.info^
 ||jumper.lvlnk.com^
+||justanorganizedhome.online^
 ||justwatch.com^
 ||kefu.swapbit.top^
 ||lawnagain.com^
@@ -92,6 +99,8 @@
 ||myetherwzallet.com^
 ||news.jufife.com^
 ||nodepay.ai^
+||nomisite8.online^
+||obalaso.online^
 ||offersheres.net^
 ||optnutritips.com^
 ||orionbitmarket.online^
@@ -133,6 +142,7 @@
 ||usdtmall.co^
 ||va835.rokinat.co.in^
 ||vc66.net^
+||video4k.site^
 ||volcminer.store^
 ||wavytalkza.store^
 ||waxx.network^
