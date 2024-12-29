@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.220105.2024
+! Version: 12.29.223222.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 22:01:05 UTC 2024
+! Last modified: Sun Dec 29 22:32:22 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 349
+! Number of entries: 357
 ||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
@@ -119,6 +119,7 @@
 ||dogooddaldaadw.com^
 ||drapehue.com^
 ||drawmaniauk.shop^
+||du.fastopay.my.uae.com^
 ||dvdsociety.shop^
 ||dystarwears.com^
 ||egyptiantech.org^
@@ -208,6 +209,7 @@
 ||mkurtos.com^
 ||mncr.club^
 ||monetoad.com^
+||mundoonline.link^
 ||mvknnd.online^
 ||myetherwzallet.com^
 ||nefera.online^
@@ -225,7 +227,10 @@
 ||online.courses.classes.21368.bond^
 ||online.courses.classes.44486.bond^
 ||online.courses.de.2618.click^
+||online.degree.fr.en.9888354.fyi^
+||online.events.net^
 ||onlinematpilates.com^
+||onlinestoretechshop.com^
 ||onlinewealthmantra.com^
 ||optnutritips.com^
 ||orionbitmarket.online^
@@ -278,12 +283,14 @@
 ||solaxy.io^
 ||sparkflr.info^
 ||spinslot88won.online^
+||sprunkiphase.online^
 ||srchfst.com^
 ||starofliberty.online^
 ||storeyork.com.mx^
 ||subscribelg.my^
 ||sugarsyncglycooptimizer.com^
 ||summeyco.online^
+||surfing777.online^
 ||synthealth.com^
 ||talklikesm.best^
 ||taqwapublications.com^
@@ -326,6 +333,7 @@
 ||validatemypimainnetwallet.online^
 ||vc66.net^
 ||venarose.online^
+||vendorbroz.com^
 ||venotem.com^
 ||ventalor.com^
 ||vexunax.com^
