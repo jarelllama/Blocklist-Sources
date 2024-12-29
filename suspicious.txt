@@ -3,16 +3,17 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.124132.2024
+! Version: 12.29.130342.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 12:41:32 UTC 2024
+! Last modified: Sun Dec 29 13:03:42 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 230
+! Number of entries: 240
 ||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
 ||777color87.com^
 ||82lottery9.in^
+||abdullahonline.store^
 ||acceleratew.com^
 ||account.cardplus.cc^
 ||achadosonline2790.com^
@@ -68,6 +69,7 @@
 ||com.513i.cfd^
 ||com.nx1t.cfd^
 ||compare.deals.online.info^
+||connectdefix.online^
 ||consorciosrt.online^
 ||construction.jobs.nz.online^
 ||contactconsultingservices.com^
@@ -78,6 +80,7 @@
 ||customscool.com^
 ||cvstrx.vip^
 ||cyberguardforchrome.com^
+||dailytehillim.online^
 ||dghv.store^
 ||digestionscience.com^
 ||digiterminator.online^
@@ -114,10 +117,12 @@
 ||hotbveleki.cc^
 ||hotbvetovu.cc^
 ||inamksa.icu^
+||incart.co.za^
 ||insightdreams.online^
 ||iranfinance.info^
 ||jaysranchhamden.online^
 ||johncrestani.online.com^
+||joingy.online^
 ||jumper.lvlnk.com^
 ||justanorganizedhome.online^
 ||justanothercarpenter.online^
@@ -128,6 +133,7 @@
 ||ksda.online.org^
 ||landmark.online.workers.dev^
 ||lawnagain.com^
+||light.casino2024.online^
 ||limeremce.com^
 ||liveccvv.mp^
 ||lopa.store^
@@ -196,6 +202,7 @@
 ||talklikesm.best^
 ||taqwapublications.com^
 ||tfalcon.online^
+||theoryar.com^
 ||thestylefoundrycle.store^
 ||thomashouseofdigitals.store^
 ||tiffanymart.online^
@@ -214,12 +221,14 @@
 ||tymcra.com^
 ||uhbideal.store^
 ||upayy.online^
+||us.alpinestars.com^
 ||usdtmall.co^
 ||user.abmining.pro^
 ||va835.rokinat.co.in^
 ||valeriehouseofdigital.online^
 ||vc66.net^
 ||video4k.site^
+||videoperkstream.com^
 ||volcminer.store^
 ||wavytalkza.store^
 ||waxx.network^
@@ -228,6 +237,7 @@
 ||wegmansmall.shop^
 ||wegovy.shop.online^
 ||wheelpg777.online^
+||williamarnold.online^
 ||windcapitalsinfo.us^
 ||xfnwnw.com^
 ||xpertlex.online^
