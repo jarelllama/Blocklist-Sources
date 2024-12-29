@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.140100.2024
+! Version: 12.29.143136.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 14:01:00 UTC 2024
+! Last modified: Sun Dec 29 14:31:36 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 256
+! Number of entries: 266
 ||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
@@ -27,6 +27,7 @@
 ||alo88.black^
 ||amazonsellersappeal.com^
 ||appanalytics.online^
+||ar68bc2h0d78l4saqd0.heldit.shop^
 ||arakaxabux.com^
 ||arcmine.com^
 ||artwareworld.com^
@@ -36,8 +37,10 @@
 ||auth.mashash.co^
 ||avlissatdnagait.online^
 ||ayridchandler.shop^
+||backtoblu.online^
 ||bagsupermarket.com^
 ||bcapstaking.com^
+||beat.sticker.online^
 ||bedtige.top^
 ||beltlox.top^
 ||besthealth24.online^
@@ -61,6 +64,7 @@
 ||cbex3.com^
 ||celebprize.com^
 ||cheqseep.online^
+||cloudgeardesign.com^
 ||clqbd.edistolife.com^
 ||cltlbuslncssonlne.com^
 ||cmarinfla.com^
@@ -87,12 +91,14 @@
 ||dghv.store^
 ||digestionscience.com^
 ||digiterminator.online^
+||direktori.online^
 ||docs.connect.wallet.teachable.com^
 ||dogooddaldaadw.com^
 ||drawmaniauk.shop^
 ||dvdsociety.shop^
 ||dystarwears.com^
 ||elysiumvip.top^
+||emergencyplumbingservices3009.online^
 ||enjoy99.org^
 ||esquentabet.online^
 ||eurovs.com^
@@ -152,6 +158,7 @@
 ||mayzik.com^
 ||meb.budget.com^
 ||mednakit.com^
+||metodolog.online^
 ||mkurtos.com^
 ||mncr.club^
 ||monetoad.com^
@@ -195,6 +202,7 @@
 ||searchnow.online^
 ||sedonainvestments.co.uk^
 ||shedrickcdigital.pro^
+||sinxed.com^
 ||skandere.online^
 ||skidipapap.online^
 ||skymine.online^
@@ -233,6 +241,7 @@
 ||tronminingfarm.com^
 ||tymcra.com^
 ||uhbideal.store^
+||umarinfomobiles.online^
 ||upayy.online^
 ||us.alpinestars.com^
 ||usahawanlg.my^
@@ -244,6 +253,7 @@
 ||video4k.site^
 ||videoperkstream.com^
 ||volcminer.store^
+||warunggolkuat.online^
 ||washerdryer.my^
 ||wavytalkza.store^
 ||waxx.network^
