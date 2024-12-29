@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.190053.2024
+! Version: 12.29.193051.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 19:00:53 UTC 2024
+! Last modified: Sun Dec 29 19:30:51 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 316
+! Number of entries: 323
 ||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
@@ -146,6 +146,7 @@
 ||guabsons.com^
 ||gunluksevilenkampanyalarsizlerle.online^
 ||harveylux.com^
+||henglai.online^
 ||hotbtujeka.cc^
 ||hotbvamove.today^
 ||hotbveleki.cc^
@@ -191,6 +192,7 @@
 ||mkurtos.com^
 ||mncr.club^
 ||monetoad.com^
+||mvknnd.online^
 ||myetherwzallet.com^
 ||nefera.online^
 ||newlearning.icu^
@@ -218,6 +220,7 @@
 ||parkit.nc.com^
 ||pefctiordent.com^
 ||playfortune.cc^
+||policja.pl112.online^
 ||procim.online^
 ||productonline.cloud^
 ||projectplaygroundtech.com^
@@ -234,6 +237,7 @@
 ||sagkjsd.com^
 ||samseven.com^
 ||saotex.com^
+||savvyessence.com^
 ||sbk.trx1.com^
 ||searchednow.com^
 ||searchnow.online^
@@ -265,6 +269,7 @@
 ||thedollar.online^
 ||theoryar.com^
 ||thestylefoundrycle.store^
+||thetodayhealth.xyz^
 ||thomashouseofdigitals.store^
 ||tiffanymart.online^
 ||tiffanymart.site^
@@ -294,6 +299,7 @@
 ||valeriehouseofdigital.online^
 ||validatemypimainnetwallet.online^
 ||vc66.net^
+||venarose.online^
 ||venotem.com^
 ||ventalor.com^
 ||vexunax.com^
@@ -321,6 +327,7 @@
 ||xtremediscount.net^
 ||xvkdfashion.shop^
 ||xyzverse.io^
+||youxiangonline.live^
 ||yunpso.com^
 ||zeharris.online^
 ||zxzclitin.shop^
