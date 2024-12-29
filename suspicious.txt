@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.180057.2024
+! Version: 12.29.183417.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 18:00:57 UTC 2024
+! Last modified: Sun Dec 29 18:34:17 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 304
+! Number of entries: 312
 ||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
@@ -33,6 +33,7 @@
 ||arakaxabux.com^
 ||arcmine.com^
 ||artwareworld.com^
+||asap777.online^
 ||asiacargo.online^
 ||atamedya.shop^
 ||atlaspays.com^
@@ -93,10 +94,13 @@
 ||crsverify.online^
 ||cryptoids.info^
 ||cuan66.co^
+||cupomdepix.online^
+||cursomarderesina.online^
 ||customscool.com^
 ||cvstrx.vip^
 ||cyberguardforchrome.com^
 ||dailytehillim.online^
+||ddsteel.online^
 ||dghv.store^
 ||digestionscience.com^
 ||digiterminator.online^
@@ -122,6 +126,7 @@
 ||flexjobhubs.com^
 ||flexswiftways.online^
 ||forbiddenpant.com^
+||frontbulletin.com^
 ||funcapsnl.com^
 ||fundxrecover.com^
 ||gambyllion.com^
@@ -161,6 +166,7 @@
 ||kadobarvapesstore.com^
 ||kapten178.com^
 ||kefu.swapbit.top^
+||khipp.com^
 ||kirillviktoriawedding.online^
 ||ksda.online.org^
 ||landmark.online.workers.dev^
@@ -211,6 +217,7 @@
 ||pefctiordent.com^
 ||playfortune.cc^
 ||procim.online^
+||productonline.cloud^
 ||projectplaygroundtech.com^
 ||pulsepicks.pro^
 ||quantumdigitalmatket.com^
@@ -259,6 +266,7 @@
 ||tiffanymart.online^
 ||tiffanymart.site^
 ||tiktokshopte.com^
+||tldindia.online^
 ||tokentrade.top^
 ||topflixtv.online^
 ||trackqsu.top^
