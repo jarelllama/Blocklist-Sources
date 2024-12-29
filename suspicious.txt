@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.133051.2024
+! Version: 12.29.140100.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 13:30:51 UTC 2024
+! Last modified: Sun Dec 29 14:01:00 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 247
+! Number of entries: 256
 ||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
@@ -46,6 +46,7 @@
 ||bigsales.top^
 ||bikinibossmiamieu.com^
 ||bit.binary.org^
+||bitcexpro.vip^
 ||bitzoy.com^
 ||bmwstore.eu.com^
 ||bphash.top^
@@ -99,6 +100,7 @@
 ||fineprint.online^
 ||fjallravenvip.shop^
 ||flexjobhubs.com^
+||flexswiftways.online^
 ||forbiddenpant.com^
 ||funcapsnl.com^
 ||fundxrecover.com^
@@ -109,6 +111,7 @@
 ||gel9.online^
 ||globalcapitalista.com^
 ||globalnotelab.com^
+||golat.online^
 ||goodserchez.com^
 ||gorouslook.com^
 ||grindsoft.com^
@@ -122,12 +125,14 @@
 ||incart.co.za^
 ||insightdreams.online^
 ||iranfinance.info^
+||iyilikler.online^
 ||jaysranchhamden.online^
 ||johncrestani.online.com^
 ||joingy.online^
 ||jumper.lvlnk.com^
 ||justanorganizedhome.online^
 ||justanothercarpenter.online^
+||justinyourhead.online^
 ||justwatch.com^
 ||kapten178.com^
 ||kefu.swapbit.top^
@@ -145,11 +150,13 @@
 ||mahadev.id.online^
 ||mainelobstersstore.com^
 ||mayzik.com^
+||meb.budget.com^
 ||mednakit.com^
 ||mkurtos.com^
 ||mncr.club^
 ||monetoad.com^
 ||myetherwzallet.com^
+||nefera.online^
 ||newlearning.icu^
 ||news.jufife.com^
 ||nodepay.ai^
@@ -167,6 +174,7 @@
 ||orionbitmarket.online^
 ||ourruless.store^
 ||outfitloft.com^
+||pagmseguro.online^
 ||pairrelax.com^
 ||palloda.com^
 ||parkit.nc.com^
@@ -191,6 +199,7 @@
 ||skidipapap.online^
 ||skymine.online^
 ||smith.newyork.com^
+||softgama.online^
 ||sohosquare.online^
 ||solanamining.net^
 ||solaxy.io^
