@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.130342.2024
+! Version: 12.29.133051.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 13:03:42 UTC 2024
+! Last modified: Sun Dec 29 13:30:51 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 240
+! Number of entries: 247
 ||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
@@ -60,6 +60,8 @@
 ||cbex3.com^
 ||celebprize.com^
 ||cheqseep.online^
+||clqbd.edistolife.com^
+||cltlbuslncssonlne.com^
 ||cmarinfla.com^
 ||cmbet888.net^
 ||co.financing.cc^
@@ -152,6 +154,7 @@
 ||news.jufife.com^
 ||nodepay.ai^
 ||nomisite8.online^
+||nowmining.fun^
 ||obalaso.online^
 ||ofertabook.online^
 ||offersheres.net^
@@ -196,6 +199,7 @@
 ||srchfst.com^
 ||starofliberty.online^
 ||storeyork.com.mx^
+||subscribelg.my^
 ||sugarsyncglycooptimizer.com^
 ||summeyco.online^
 ||synthealth.com^
@@ -222,6 +226,7 @@
 ||uhbideal.store^
 ||upayy.online^
 ||us.alpinestars.com^
+||usahawanlg.my^
 ||usdtmall.co^
 ||user.abmining.pro^
 ||va835.rokinat.co.in^
@@ -230,6 +235,7 @@
 ||video4k.site^
 ||videoperkstream.com^
 ||volcminer.store^
+||washerdryer.my^
 ||wavytalkza.store^
 ||waxx.network^
 ||web3.gpt.shop^
@@ -240,6 +246,7 @@
 ||williamarnold.online^
 ||windcapitalsinfo.us^
 ||xfnwnw.com^
+||xmbroker.click^
 ||xpertlex.online^
 ||xsdvdeal.store^
 ||xtremediscount.net^
