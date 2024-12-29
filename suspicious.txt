@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.143136.2024
+! Version: 12.29.150052.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 14:31:36 UTC 2024
+! Last modified: Sun Dec 29 15:00:52 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 266
+! Number of entries: 272
 ||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
@@ -35,10 +35,12 @@
 ||atamedya.shop^
 ||atlaspays.com^
 ||auth.mashash.co^
+||aviation.ancienne.forumactif.com^
 ||avlissatdnagait.online^
 ||ayridchandler.shop^
 ||backtoblu.online^
 ||bagsupermarket.com^
+||bancaseguraporlnternetdeempresas.scotialbanrkperu.online^
 ||bcapstaking.com^
 ||beat.sticker.online^
 ||bedtige.top^
@@ -99,6 +101,7 @@
 ||dystarwears.com^
 ||elysiumvip.top^
 ||emergencyplumbingservices3009.online^
+||encomendas.importacao.online^
 ||enjoy99.org^
 ||esquentabet.online^
 ||eurovs.com^
@@ -130,6 +133,7 @@
 ||inamksa.icu^
 ||incart.co.za^
 ||insightdreams.online^
+||inter.entregas.online^
 ||iranfinance.info^
 ||iyilikler.online^
 ||jaysranchhamden.online^
@@ -173,6 +177,7 @@
 ||ofertabook.online^
 ||offersheres.net^
 ||oneclickmart.online^
+||online.aktarmalar.hizmeti.store^
 ||online.courses.classes.21368.bond^
 ||online.courses.classes.44486.bond^
 ||online.courses.de.2618.click^
@@ -182,6 +187,7 @@
 ||ourruless.store^
 ||outfitloft.com^
 ||pagmseguro.online^
+||pagprotegido.online^
 ||pairrelax.com^
 ||palloda.com^
 ||parkit.nc.com^
