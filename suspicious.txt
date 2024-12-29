@@ -3,15 +3,17 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.060102.2024
+! Version: 12.29.063519.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 06:01:02 UTC 2024
+! Last modified: Sun Dec 29 06:35:19 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 125
+! Number of entries: 132
 ||24proleverage.com^
 ||278.hnyuanoo.top^
+||777color87.com^
 ||82lottery9.in^
 ||acceleratew.com^
+||account.cardplus.cc^
 ||acrossfold.com^
 ||affiliatemarketlite.com^
 ||alo88.black^
@@ -24,8 +26,10 @@
 ||ayridchandler.shop^
 ||bagsupermarket.com^
 ||bedtige.top^
+||besthealth24.online^
 ||biglotsclosures.com^
 ||biglotsusa.sale.com^
+||bigsales.top^
 ||bikinibossmiamieu.com^
 ||bit.binary.org^
 ||bitzoy.com^
@@ -95,6 +99,7 @@
 ||pefctiordent.com^
 ||playfortune.cc^
 ||pulsepicks.pro^
+||quantumdigitalmatket.com^
 ||quvrmh.com^
 ||ralkem.com^
 ||researchchemicalskopen.net^
@@ -108,10 +113,12 @@
 ||solanamining.net^
 ||solaxy.io^
 ||srchfst.com^
+||starofliberty.online^
 ||storeyork.com.mx^
 ||synthealth.com^
 ||talklikesm.best^
 ||tiktokshopte.com^
+||tokentrade.top^
 ||trahia.com^
 ||trejoapp.com^
 ||tronholdingsllc.com^
