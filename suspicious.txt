@@ -3,23 +3,31 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.024742.2024
+! Version: 12.29.030850.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 02:47:42 UTC 2024
+! Last modified: Sun Dec 29 03:08:50 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 98
+! Number of entries: 108
 ||24proleverage.com^
 ||278.hnyuanoo.top^
 ||82lottery9.in^
+||acceleratew.com^
+||acrossfold.com^
 ||affiliatemarketlite.com^
 ||alo88.black^
 ||amazonsellersappeal.com^
 ||arakaxabux.com^
 ||arcmine.com^
+||artwareworld.com^
+||auth.mashash.co^
+||ayridchandler.shop^
+||bagsupermarket.com^
 ||bedtige.top^
 ||biglotsclosures.com^
+||biglotsusa.sale.com^
 ||bikinibossmiamieu.com^
 ||bit.binary.org^
+||bitzoy.com^
 ||bmwstore.eu.com^
 ||bphash.top^
 ||btc913.com^
@@ -72,6 +80,7 @@
 ||ourruless.store^
 ||outfitloft.com^
 ||pairrelax.com^
+||parkit.nc.com^
 ||pefctiordent.com^
 ||playfortune.cc^
 ||quvrmh.com^
@@ -106,3 +115,4 @@
 ||xvkdfashion.shop^
 ||xyzverse.io^
 ||yunpso.com^
+||zxzclitin.shop^
