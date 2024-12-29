@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.012823.2024
+! Version: 12.29.020747.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 01:28:23 UTC 2024
+! Last modified: Sun Dec 29 02:07:47 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 91
+! Number of entries: 97
 ||24proleverage.com^
 ||278.hnyuanoo.top^
 ||82lottery9.in^
@@ -27,11 +27,14 @@
 ||buletboard.com^
 ||casetesy.com^
 ||celebprize.com^
+||co.financing.cc^
 ||cryptoids.info^
 ||customscool.com^
 ||cvstrx.vip^
+||digestionscience.com^
 ||dogooddaldaadw.com^
 ||drawmaniauk.shop^
+||dvdsociety.shop^
 ||dystarwears.com^
 ||eurovs.com^
 ||fjallravenvip.shop^
@@ -40,6 +43,7 @@
 ||funcapsnl.com^
 ||fundxrecover.com^
 ||gambyllion.com^
+||game.zixia.com^
 ||game.zone.pro^
 ||gel9.online^
 ||gorouslook.com^
@@ -77,6 +81,7 @@
 ||sedonainvestments.co.uk^
 ||skymine.online^
 ||smith.newyork.com^
+||solanamining.net^
 ||solaxy.io^
 ||storeyork.com.mx^
 ||synthealth.com^
@@ -97,5 +102,6 @@
 ||wegmansmall.shop^
 ||xsdvdeal.store^
 ||xtremediscount.net^
+||xvkdfashion.shop^
 ||xyzverse.io^
 ||yunpso.com^
