@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.120101.2024
+! Version: 12.29.124132.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 12:01:01 UTC 2024
+! Last modified: Sun Dec 29 12:41:32 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 225
+! Number of entries: 230
 ||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
@@ -68,6 +68,7 @@
 ||com.513i.cfd^
 ||com.nx1t.cfd^
 ||compare.deals.online.info^
+||consorciosrt.online^
 ||construction.jobs.nz.online^
 ||contactconsultingservices.com^
 ||cosometaldetector.com^
@@ -184,6 +185,7 @@
 ||sohosquare.online^
 ||solanamining.net^
 ||solaxy.io^
+||sparkflr.info^
 ||spinslot88won.online^
 ||srchfst.com^
 ||starofliberty.online^
@@ -193,6 +195,7 @@
 ||synthealth.com^
 ||talklikesm.best^
 ||taqwapublications.com^
+||tfalcon.online^
 ||thestylefoundrycle.store^
 ||thomashouseofdigitals.store^
 ||tiffanymart.online^
@@ -221,7 +224,9 @@
 ||wavytalkza.store^
 ||waxx.network^
 ||web3.gpt.shop^
+||weetarget.online^
 ||wegmansmall.shop^
+||wegovy.shop.online^
 ||wheelpg777.online^
 ||windcapitalsinfo.us^
 ||xfnwnw.com^
