@@ -3,17 +3,18 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.083337.2024
+! Version: 12.29.090056.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 08:33:37 UTC 2024
+! Last modified: Sun Dec 29 09:00:56 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 165
+! Number of entries: 173
 ||24proleverage.com^
 ||278.hnyuanoo.top^
 ||777color87.com^
 ||82lottery9.in^
 ||acceleratew.com^
 ||account.cardplus.cc^
+||achadosonline2790.com^
 ||acrossfold.com^
 ||adminpg.online^
 ||affiliatemarketlite.com^
@@ -92,6 +93,7 @@
 ||justwatch.com^
 ||kefu.swapbit.top^
 ||kirillviktoriawedding.online^
+||ksda.online.org^
 ||lawnagain.com^
 ||limeremce.com^
 ||liveccvv.mp^
@@ -110,7 +112,9 @@
 ||nomisite8.online^
 ||obalaso.online^
 ||offersheres.net^
+||oneclickmart.online^
 ||online.courses.de.2618.click^
+||onlinematpilates.com^
 ||optnutritips.com^
 ||orionbitmarket.online^
 ||ourruless.store^
@@ -134,6 +138,7 @@
 ||skandere.online^
 ||skymine.online^
 ||smith.newyork.com^
+||sohosquare.online^
 ||solanamining.net^
 ||solaxy.io^
 ||srchfst.com^
@@ -141,6 +146,7 @@
 ||storeyork.com.mx^
 ||synthealth.com^
 ||talklikesm.best^
+||thestylefoundrycle.store^
 ||thomashouseofdigitals.store^
 ||tiffanymart.online^
 ||tiffanymart.site^
@@ -167,9 +173,11 @@
 ||waxx.network^
 ||web3.gpt.shop^
 ||wegmansmall.shop^
+||xfnwnw.com^
 ||xsdvdeal.store^
 ||xtremediscount.net^
 ||xvkdfashion.shop^
 ||xyzverse.io^
 ||yunpso.com^
+||zeharris.online^
 ||zxzclitin.shop^
