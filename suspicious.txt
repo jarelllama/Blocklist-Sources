@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.080109.2024
+! Version: 12.29.083337.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 08:01:09 UTC 2024
+! Last modified: Sun Dec 29 08:33:37 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 156
+! Number of entries: 165
 ||24proleverage.com^
 ||278.hnyuanoo.top^
 ||777color87.com^
@@ -17,6 +17,7 @@
 ||acrossfold.com^
 ||adminpg.online^
 ||affiliatemarketlite.com^
+||alectomedia.online^
 ||alo88.black^
 ||amazonsellersappeal.com^
 ||appanalytics.online^
@@ -46,6 +47,7 @@
 ||casetesy.com^
 ||cbex3.com^
 ||celebprize.com^
+||cheqseep.online^
 ||co.financing.cc^
 ||cobaltsunsetberry.xyz^
 ||cobatis.sm.com^
@@ -128,6 +130,7 @@
 ||sbk.trx1.com^
 ||searchednow.com^
 ||sedonainvestments.co.uk^
+||shedrickcdigital.pro^
 ||skandere.online^
 ||skymine.online^
 ||smith.newyork.com^
@@ -138,10 +141,15 @@
 ||storeyork.com.mx^
 ||synthealth.com^
 ||talklikesm.best^
+||thomashouseofdigitals.store^
+||tiffanymart.online^
+||tiffanymart.site^
 ||tiktokshopte.com^
 ||tokentrade.top^
 ||trackqsu.top^
+||tracy925digital.pro^
 ||trahia.com^
+||trantnguyentech.store^
 ||trejoapp.com^
 ||tronholdingsllc.com^
 ||tronminingfarm.com^
@@ -151,6 +159,7 @@
 ||usdtmall.co^
 ||user.abmining.pro^
 ||va835.rokinat.co.in^
+||valeriehouseofdigital.online^
 ||vc66.net^
 ||video4k.site^
 ||volcminer.store^
