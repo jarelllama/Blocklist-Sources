@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.170057.2024
+! Version: 12.29.173124.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 17:00:57 UTC 2024
+! Last modified: Sun Dec 29 17:31:24 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 294
+! Number of entries: 301
 ||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
@@ -26,6 +26,7 @@
 ||alectomedia.online^
 ||alo88.black^
 ||amazonsellersappeal.com^
+||angelicstoragebv.com^
 ||appanalytics.online^
 ||ar68bc2h0d78l4saqd0.heldit.shop^
 ||arakaxabux.com^
@@ -84,6 +85,7 @@
 ||consorciosrt.online^
 ||construction.jobs.nz.online^
 ||contactconsultingservices.com^
+||coolbet.peru.online^
 ||cosometaldetector.com^
 ||couturedrift.com^
 ||crsverify.online^
@@ -126,12 +128,14 @@
 ||gaspol268.com^
 ||gel9.online^
 ||globalcapitalista.com^
+||globalflashco.com^
 ||globalnotelab.com^
 ||golat.online^
 ||goodserchez.com^
 ||gorouslook.com^
 ||grindsoft.com^
 ||guabsons.com^
+||gunluksevilenkampanyalarsizlerle.online^
 ||harveylux.com^
 ||hotbtujeka.cc^
 ||hotbvamove.today^
@@ -173,6 +177,7 @@
 ||meb.budget.com^
 ||mednakit.com^
 ||metodolog.online^
+||mimosabarkhaven.com^
 ||mkurtos.com^
 ||mncr.club^
 ||monetoad.com^
@@ -220,6 +225,7 @@
 ||searchednow.com^
 ||searchnow.online^
 ||sedonainvestments.co.uk^
+||setes.live^
 ||shedrickcdigital.pro^
 ||shoponlinesale.shop^
 ||sinxed.com^
@@ -264,6 +270,7 @@
 ||uhbideal.store^
 ||umarinfomobiles.online^
 ||upayy.online^
+||upizoneltd.com^
 ||us.alpinestars.com^
 ||usahawanlg.my^
 ||usdtmall.co^
