@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.163349.2024
+! Version: 12.29.170057.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 16:33:49 UTC 2024
+! Last modified: Sun Dec 29 17:00:57 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 289
+! Number of entries: 294
 ||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
@@ -41,6 +41,7 @@
 ||backtoblu.online^
 ||bagsupermarket.com^
 ||bancaseguraporlnternetdeempresas.scotialbanrkperu.online^
+||bbc.tv.org^
 ||bcapstaking.com^
 ||beat.sticker.online^
 ||bedtige.top^
@@ -102,6 +103,7 @@
 ||drawmaniauk.shop^
 ||dvdsociety.shop^
 ||dystarwears.com^
+||egyptiantech.org^
 ||elysiumvip.top^
 ||emergencyplumbingservices3009.online^
 ||encomendas.importacao.online^
@@ -110,6 +112,7 @@
 ||esquentabet.online^
 ||eurovs.com^
 ||expand.experts.com^
+||fedilitylogistics.com^
 ||fineprint.online^
 ||fjallravenvip.shop^
 ||flexjobhubs.com^
@@ -149,12 +152,14 @@
 ||justanothercarpenter.online^
 ||justinyourhead.online^
 ||justwatch.com^
+||kadobarvapesstore.com^
 ||kapten178.com^
 ||kefu.swapbit.top^
 ||kirillviktoriawedding.online^
 ||ksda.online.org^
 ||landmark.online.workers.dev^
 ||lawnagain.com^
+||ledsmdlight.com^
 ||light.casino2024.online^
 ||limeremce.com^
 ||liveccvv.mp^
