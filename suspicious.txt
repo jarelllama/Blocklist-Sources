@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.090056.2024
+! Version: 12.29.093052.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 09:00:56 UTC 2024
+! Last modified: Sun Dec 29 09:30:52 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 173
+! Number of entries: 180
 ||24proleverage.com^
 ||278.hnyuanoo.top^
 ||777color87.com^
@@ -64,6 +64,7 @@
 ||drawmaniauk.shop^
 ||dvdsociety.shop^
 ||dystarwears.com^
+||elysiumvip.top^
 ||esquentabet.online^
 ||eurovs.com^
 ||expand.experts.com^
@@ -87,9 +88,11 @@
 ||hotbvamove.today^
 ||hotbveleki.cc^
 ||hotbvetovu.cc^
+||insightdreams.online^
 ||iranfinance.info^
 ||jumper.lvlnk.com^
 ||justanorganizedhome.online^
+||justanothercarpenter.online^
 ||justwatch.com^
 ||kefu.swapbit.top^
 ||kirillviktoriawedding.online^
@@ -113,6 +116,8 @@
 ||obalaso.online^
 ||offersheres.net^
 ||oneclickmart.online^
+||online.courses.classes.21368.bond^
+||online.courses.classes.44486.bond^
 ||online.courses.de.2618.click^
 ||onlinematpilates.com^
 ||optnutritips.com^
@@ -123,6 +128,7 @@
 ||parkit.nc.com^
 ||pefctiordent.com^
 ||playfortune.cc^
+||procim.online^
 ||projectplaygroundtech.com^
 ||pulsepicks.pro^
 ||quantumdigitalmatket.com^
@@ -152,6 +158,7 @@
 ||tiffanymart.site^
 ||tiktokshopte.com^
 ||tokentrade.top^
+||topflixtv.online^
 ||trackqsu.top^
 ||tracy925digital.pro^
 ||trahia.com^
