@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.113047.2024
+! Version: 12.29.120101.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 11:30:47 UTC 2024
+! Last modified: Sun Dec 29 12:01:01 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 216
+! Number of entries: 225
 ||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
@@ -52,26 +52,32 @@
 ||btc933.com^
 ||bulanjitu.org^
 ||buletboard.com^
+||caminoverdadyvida.online^
 ||careeredge.online^
 ||casetesy.com^
 ||caveysrestaurant.com^
 ||cbex3.com^
 ||celebprize.com^
 ||cheqseep.online^
+||cmarinfla.com^
 ||cmbet888.net^
 ||co.financing.cc^
 ||cobaltsunsetberry.xyz^
 ||cobatis.sm.com^
+||code.getoffus.site^
 ||com.513i.cfd^
+||com.nx1t.cfd^
 ||compare.deals.online.info^
 ||construction.jobs.nz.online^
 ||contactconsultingservices.com^
+||cosometaldetector.com^
 ||crsverify.online^
 ||cryptoids.info^
 ||cuan66.co^
 ||customscool.com^
 ||cvstrx.vip^
 ||cyberguardforchrome.com^
+||dghv.store^
 ||digestionscience.com^
 ||digiterminator.online^
 ||docs.connect.wallet.teachable.com^
@@ -183,6 +189,7 @@
 ||starofliberty.online^
 ||storeyork.com.mx^
 ||sugarsyncglycooptimizer.com^
+||summeyco.online^
 ||synthealth.com^
 ||talklikesm.best^
 ||taqwapublications.com^
@@ -215,8 +222,10 @@
 ||waxx.network^
 ||web3.gpt.shop^
 ||wegmansmall.shop^
+||wheelpg777.online^
 ||windcapitalsinfo.us^
 ||xfnwnw.com^
+||xpertlex.online^
 ||xsdvdeal.store^
 ||xtremediscount.net^
 ||xvkdfashion.shop^
