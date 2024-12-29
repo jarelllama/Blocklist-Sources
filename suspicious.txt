@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.110050.2024
+! Version: 12.29.113047.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 11:00:50 UTC 2024
+! Last modified: Sun Dec 29 11:30:47 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 207
+! Number of entries: 216
 ||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
@@ -17,6 +17,7 @@
 ||account.cardplus.cc^
 ||achadosonline2790.com^
 ||acrossfold.com^
+||adgkj.com^
 ||adminpg.online^
 ||affiliatemarketlite.com^
 ||ahhaqq.com^
@@ -28,6 +29,7 @@
 ||arakaxabux.com^
 ||arcmine.com^
 ||artwareworld.com^
+||asiacargo.online^
 ||atamedya.shop^
 ||atlaspays.com^
 ||auth.mashash.co^
@@ -50,6 +52,7 @@
 ||btc933.com^
 ||bulanjitu.org^
 ||buletboard.com^
+||careeredge.online^
 ||casetesy.com^
 ||caveysrestaurant.com^
 ||cbex3.com^
@@ -70,6 +73,7 @@
 ||cvstrx.vip^
 ||cyberguardforchrome.com^
 ||digestionscience.com^
+||digiterminator.online^
 ||docs.connect.wallet.teachable.com^
 ||dogooddaldaadw.com^
 ||drawmaniauk.shop^
@@ -80,6 +84,7 @@
 ||esquentabet.online^
 ||eurovs.com^
 ||expand.experts.com^
+||fineprint.online^
 ||fjallravenvip.shop^
 ||flexjobhubs.com^
 ||forbiddenpant.com^
@@ -147,6 +152,7 @@
 ||ourruless.store^
 ||outfitloft.com^
 ||pairrelax.com^
+||palloda.com^
 ||parkit.nc.com^
 ||pefctiordent.com^
 ||playfortune.cc^
@@ -162,6 +168,7 @@
 ||rpmvape.com^
 ||sbk.trx1.com^
 ||searchednow.com^
+||searchnow.online^
 ||sedonainvestments.co.uk^
 ||shedrickcdigital.pro^
 ||skandere.online^
@@ -175,6 +182,7 @@
 ||srchfst.com^
 ||starofliberty.online^
 ||storeyork.com.mx^
+||sugarsyncglycooptimizer.com^
 ||synthealth.com^
 ||talklikesm.best^
 ||taqwapublications.com^
@@ -190,6 +198,7 @@
 ||trahia.com^
 ||trantnguyentech.store^
 ||trejoapp.com^
+||tremvolknipi.online^
 ||tronholdingsllc.com^
 ||tronminingfarm.com^
 ||tymcra.com^
