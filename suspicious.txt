@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.210056.2024
+! Version: 12.29.213056.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 21:00:56 UTC 2024
+! Last modified: Sun Dec 29 21:30:56 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 336
+! Number of entries: 344
 ||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
@@ -33,6 +33,7 @@
 ||arabwood.ir^
 ||arakaxabux.com^
 ||arcmine.com^
+||ars88safe.online^
 ||artwareworld.com^
 ||asap777.online^
 ||asiacargo.online^
@@ -50,6 +51,7 @@
 ||beat.sticker.online^
 ||bedtige.top^
 ||beltlox.top^
+||beseenmarketing.online^
 ||besthealth24.online^
 ||biglotsclosures.com^
 ||biglotsusa.sale.com^
@@ -109,6 +111,7 @@
 ||dghv.store^
 ||digestionscience.com^
 ||digiterminator.online^
+||digitsagency.online^
 ||direktori.online^
 ||docs.connect.wallet.teachable.com^
 ||dogooddaldaadw.com^
@@ -157,6 +160,7 @@
 ||hotbvamove.today^
 ||hotbveleki.cc^
 ||hotbvetovu.cc^
+||iconicinternational.online^
 ||inamksa.icu^
 ||incart.co.za^
 ||insightdreams.online^
@@ -167,6 +171,7 @@
 ||jaysranchhamden.online^
 ||johncrestani.online.com^
 ||joingy.online^
+||jpgcompressor.online^
 ||jumper.lvlnk.com^
 ||justanorganizedhome.online^
 ||justanothercarpenter.online^
@@ -176,6 +181,7 @@
 ||kapten178.com^
 ||kefu.swapbit.top^
 ||khipp.com^
+||kijl.online^
 ||kirillviktoriawedding.online^
 ||ksda.online.org^
 ||landmark.online.workers.dev^
@@ -203,6 +209,7 @@
 ||mvknnd.online^
 ||myetherwzallet.com^
 ||nefera.online^
+||netdcbf.com^
 ||newlearning.icu^
 ||news.jufife.com^
 ||nodepay.ai^
@@ -291,6 +298,7 @@
 ||topflixtv.online^
 ||trackqsu.top^
 ||tracy925digital.pro^
+||traffictrack.online^
 ||trahia.com^
 ||trantnguyentech.store^
 ||trejoapp.com^
