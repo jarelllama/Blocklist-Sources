@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.100106.2024
+! Version: 12.29.103307.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 10:01:06 UTC 2024
+! Last modified: Sun Dec 29 10:33:07 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 189
+! Number of entries: 198
 ||24proleverage.com^
 ||278.hnyuanoo.top^
 ||777color87.com^
@@ -27,6 +27,7 @@
 ||arakaxabux.com^
 ||arcmine.com^
 ||artwareworld.com^
+||atamedya.shop^
 ||atlaspays.com^
 ||auth.mashash.co^
 ||avlissatdnagait.online^
@@ -95,8 +96,10 @@
 ||hotbvamove.today^
 ||hotbveleki.cc^
 ||hotbvetovu.cc^
+||inamksa.icu^
 ||insightdreams.online^
 ||iranfinance.info^
+||jaysranchhamden.online^
 ||jumper.lvlnk.com^
 ||justanorganizedhome.online^
 ||justanothercarpenter.online^
@@ -108,6 +111,7 @@
 ||lawnagain.com^
 ||limeremce.com^
 ||liveccvv.mp^
+||lopa.store^
 ||luatypticures.co.in^
 ||lucky888.top^
 ||lulusafh.com^
@@ -115,9 +119,11 @@
 ||mainelobstersstore.com^
 ||mayzik.com^
 ||mednakit.com^
+||mkurtos.com^
 ||mncr.club^
 ||monetoad.com^
 ||myetherwzallet.com^
+||newlearning.icu^
 ||news.jufife.com^
 ||nodepay.ai^
 ||nomisite8.online^
@@ -151,16 +157,19 @@
 ||sedonainvestments.co.uk^
 ||shedrickcdigital.pro^
 ||skandere.online^
+||skidipapap.online^
 ||skymine.online^
 ||smith.newyork.com^
 ||sohosquare.online^
 ||solanamining.net^
 ||solaxy.io^
+||spinslot88won.online^
 ||srchfst.com^
 ||starofliberty.online^
 ||storeyork.com.mx^
 ||synthealth.com^
 ||talklikesm.best^
+||taqwapublications.com^
 ||thestylefoundrycle.store^
 ||thomashouseofdigitals.store^
 ||tiffanymart.online^
