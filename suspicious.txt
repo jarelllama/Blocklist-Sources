@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.193051.2024
+! Version: 12.29.200054.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 19:30:51 UTC 2024
+! Last modified: Sun Dec 29 20:00:54 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 323
+! Number of entries: 330
 ||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
@@ -27,6 +27,7 @@
 ||alo88.black^
 ||amazonsellersappeal.com^
 ||angelicstoragebv.com^
+||angiechew.online^
 ||appanalytics.online^
 ||ar68bc2h0d78l4saqd0.heldit.shop^
 ||arabwood.ir^
@@ -71,6 +72,8 @@
 ||celebprize.com^
 ||chalaorry.shop^
 ||cheqseep.online^
+||climbcourse.cam^
+||clime.mastercasc.top^
 ||cloc.mastercasc.top^
 ||cloudgeardesign.com^
 ||clqbd.edistolife.com^
@@ -121,6 +124,7 @@
 ||eschallengersmode.com^
 ||esquentabet.online^
 ||eurovs.com^
+||eventscodm.com^
 ||expand.experts.com^
 ||fedilitylogistics.com^
 ||fineprint.online^
@@ -177,6 +181,7 @@
 ||ledsmdlight.com^
 ||light.casino2024.online^
 ||limeremce.com^
+||linkgurd.online^
 ||liveccvv.mp^
 ||lopa.store^
 ||luatypticures.co.in^
@@ -209,6 +214,7 @@
 ||online.courses.classes.44486.bond^
 ||online.courses.de.2618.click^
 ||onlinematpilates.com^
+||onlinewealthmantra.com^
 ||optnutritips.com^
 ||orionbitmarket.online^
 ||ourruless.store^
@@ -218,6 +224,7 @@
 ||pairrelax.com^
 ||palloda.com^
 ||parkit.nc.com^
+||pedrosantosblog.online^
 ||pefctiordent.com^
 ||playfortune.cc^
 ||policja.pl112.online^
