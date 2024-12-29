@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.29.073053.2024
+! Version: 12.29.080109.2024
 ! Expires: 30 minutes
-! Last modified: Sun Dec 29 07:30:53 UTC 2024
+! Last modified: Sun Dec 29 08:01:09 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 146
+! Number of entries: 156
 ||24proleverage.com^
 ||278.hnyuanoo.top^
 ||777color87.com^
@@ -44,10 +44,13 @@
 ||btc933.com^
 ||buletboard.com^
 ||casetesy.com^
+||cbex3.com^
 ||celebprize.com^
 ||co.financing.cc^
 ||cobaltsunsetberry.xyz^
 ||cobatis.sm.com^
+||construction.jobs.nz.online^
+||crsverify.online^
 ||cryptoids.info^
 ||customscool.com^
 ||cvstrx.vip^
@@ -58,6 +61,7 @@
 ||drawmaniauk.shop^
 ||dvdsociety.shop^
 ||dystarwears.com^
+||esquentabet.online^
 ||eurovs.com^
 ||expand.experts.com^
 ||fjallravenvip.shop^
@@ -85,12 +89,14 @@
 ||justanorganizedhome.online^
 ||justwatch.com^
 ||kefu.swapbit.top^
+||kirillviktoriawedding.online^
 ||lawnagain.com^
 ||limeremce.com^
 ||liveccvv.mp^
 ||luatypticures.co.in^
 ||lucky888.top^
 ||lulusafh.com^
+||mahadev.id.online^
 ||mainelobstersstore.com^
 ||mayzik.com^
 ||mednakit.com^
@@ -102,6 +108,7 @@
 ||nomisite8.online^
 ||obalaso.online^
 ||offersheres.net^
+||online.courses.de.2618.click^
 ||optnutritips.com^
 ||orionbitmarket.online^
 ||ourruless.store^
@@ -110,6 +117,7 @@
 ||parkit.nc.com^
 ||pefctiordent.com^
 ||playfortune.cc^
+||projectplaygroundtech.com^
 ||pulsepicks.pro^
 ||quantumdigitalmatket.com^
 ||quvrmh.com^
@@ -120,6 +128,7 @@
 ||sbk.trx1.com^
 ||searchednow.com^
 ||sedonainvestments.co.uk^
+||skandere.online^
 ||skymine.online^
 ||smith.newyork.com^
 ||solanamining.net^
@@ -140,6 +149,7 @@
 ||uhbideal.store^
 ||upayy.online^
 ||usdtmall.co^
+||user.abmining.pro^
 ||va835.rokinat.co.in^
 ||vc66.net^
 ||video4k.site^
