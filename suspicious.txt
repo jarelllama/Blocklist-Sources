@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.30.024520.2024
+! Version: 12.30.030707.2024
 ! Expires: 30 minutes
-! Last modified: Mon Dec 30 02:45:20 UTC 2024
+! Last modified: Mon Dec 30 03:07:07 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 390
+! Number of entries: 394
 ||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
@@ -43,6 +43,7 @@
 ||atamedya.shop^
 ||atlaspays.com^
 ||auth.mashash.co^
+||avalontrdpro.com^
 ||aviation.ancienne.forumactif.com^
 ||avlissatdnagait.online^
 ||ayridchandler.shop^
@@ -71,6 +72,7 @@
 ||btc933.com^
 ||bulanjitu.org^
 ||buletboard.com^
+||bursaelitescorthatun.com^
 ||caminoverdadyvida.online^
 ||canconsulting.in^
 ||careeredge.online^
@@ -183,6 +185,7 @@
 ||hotbveleki.cc^
 ||hotbvetovu.cc^
 ||hotelvalues.com^
+||i.apple.com.tr^
 ||iconicinternational.online^
 ||inamksa.icu^
 ||incart.co.za^
@@ -322,6 +325,7 @@
 ||subscribelg.my^
 ||sugarsyncglycooptimizer.com^
 ||summeyco.online^
+||sundararajanneurohospital.com^
 ||surfing777.online^
 ||synthealth.com^
 ||talklikesm.best^
