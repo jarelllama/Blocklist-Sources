@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.30.020328.2024
+! Version: 12.30.024520.2024
 ! Expires: 30 minutes
-! Last modified: Mon Dec 30 02:03:28 UTC 2024
+! Last modified: Mon Dec 30 02:45:20 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 385
+! Number of entries: 390
 ||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
@@ -107,6 +107,7 @@
 ||coolbet.peru.online^
 ||cosometaldetector.com^
 ||couturedrift.com^
+||cqzywhisper.shop^
 ||crsverify.online^
 ||cryptoids.info^
 ||cuan66.co^
@@ -117,6 +118,7 @@
 ||cyberguardforchrome.com^
 ||cybex.360.com^
 ||dailytehillim.online^
+||dbbjrhhn.guru^
 ||ddsteel.online^
 ||dentalclinicgreaternoida.com^
 ||dghv.store^
@@ -132,6 +134,7 @@
 ||du.fastopay.my.uae.com^
 ||dvdsociety.shop^
 ||dystarwears.com^
+||earringssale.com^
 ||egyptiantech.org^
 ||elysiumvip.top^
 ||emergencyplumbingservices3009.online^
@@ -223,6 +226,7 @@
 ||lwbbc.com^
 ||mahadev.id.online^
 ||mainelobstersstore.com^
+||mallprix.com^
 ||mayzik.com^
 ||meb.budget.com^
 ||mednakit.com^
@@ -286,6 +290,7 @@
 ||rpmvape.com^
 ||sagkjsd.com^
 ||salewaoutletsespana.es^
+||samimpex.org^
 ||samseven.com^
 ||samsonitedeals.com^
 ||saotex.com^
