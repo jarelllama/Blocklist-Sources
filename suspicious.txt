@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.30.053303.2024
+! Version: 12.30.060104.2024
 ! Expires: 30 minutes
-! Last modified: Mon Dec 30 05:33:03 UTC 2024
+! Last modified: Mon Dec 30 06:01:04 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 426
+! Number of entries: 431
 ||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
@@ -57,6 +57,7 @@
 ||bdjf2ls.com^
 ||beat.sticker.online^
 ||bedtige.top^
+||belkcaseshop.com^
 ||beltlox.top^
 ||beseenmarketing.online^
 ||besthealth24.online^
@@ -140,6 +141,7 @@
 ||docs.connect.wallet.teachable.com^
 ||dogepick.io^
 ||dogooddaldaadw.com^
+||dpboss.services^
 ||drapehue.com^
 ||drawmaniauk.shop^
 ||du.fastopay.my.uae.com^
@@ -191,6 +193,7 @@
 ||guabsons.com^
 ||gunluksevilenkampanyalarsizlerle.online^
 ||harveylux.com^
+||hello.hello.site^
 ||henglai.online^
 ||hermez4dx500.com^
 ||hireuphelp.online^
@@ -202,6 +205,7 @@
 ||htadz.online^
 ||i.apple.com.tr^
 ||iconicinternational.online^
+||ilclawgroup.com^
 ||inamksa.icu^
 ||incart.co.za^
 ||insightdreams.online^
@@ -327,6 +331,7 @@
 ||saotex.com^
 ||savvyessence.com^
 ||sbk.trx1.com^
+||sdx96.com^
 ||searchednow.com^
 ||searchnow.online^
 ||securedjointnetwork.co.in^
