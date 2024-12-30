@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.30.200058.2024
+! Version: 12.30.203139.2024
 ! Expires: 30 minutes
-! Last modified: Mon Dec 30 20:00:58 UTC 2024
+! Last modified: Mon Dec 30 20:31:39 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 512
+! Number of entries: 519
 ||2040stage.online^
 ||244buildschile.com^
 ||24proleverage.com^
@@ -195,6 +195,7 @@
 ||frontbulletin.com^
 ||funcapsnl.com^
 ||fundxrecover.com^
+||fungretail.shop^
 ||fxddarab.online^
 ||fxminedeotra.com^
 ||gambyllion.com^
@@ -307,6 +308,7 @@
 ||mvknnd.online^
 ||myetherwzallet.com^
 ||mygardenhelper.online^
+||mytraveldaddy.us^
 ||neesedresses.com^
 ||nefera.online^
 ||nestedfashion.com^
@@ -327,6 +329,7 @@
 ||ofertabook.online^
 ||offersheres.net^
 ||okjg13.icu^
+||oluwasegunakinyemi.com^
 ||ondasvirtuais.online^
 ||oneclickmart.online^
 ||onefarm.pro^
@@ -360,12 +363,14 @@
 ||pippopet.store^
 ||playfortune.cc^
 ||policja.pl112.online^
+||poseidoncoin.top^
 ||primeinvest.app^
 ||procim.online^
 ||productonline.cloud^
 ||projectplaygroundtech.com^
 ||propfirmpassingservice.net^
 ||psicologiaencasa.online^
+||psschool.edu.bd^
 ||pulsepicks.pro^
 ||quantumdigitalmatket.com^
 ||quvrmh.com^
@@ -397,6 +402,7 @@
 ||sdxsjc.com^
 ||searchednow.com^
 ||searchnow.online^
+||sec.loanbusiness.com^
 ||securedjointnetwork.co.in^
 ||sedonainvestments.co.uk^
 ||setes.live^
@@ -454,6 +460,7 @@
 ||tofro.com^
 ||tokentrade.top^
 ||topflixtv.online^
+||topthingsinlife.com^
 ||tozc.online^
 ||trackqsu.top^
 ||tracy925digital.pro^
