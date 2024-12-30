@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.30.203139.2024
+! Version: 12.30.210105.2024
 ! Expires: 30 minutes
-! Last modified: Mon Dec 30 20:31:39 UTC 2024
+! Last modified: Mon Dec 30 21:01:05 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 519
+! Number of entries: 528
 ||2040stage.online^
 ||244buildschile.com^
 ||24proleverage.com^
@@ -23,6 +23,7 @@
 ||adgkj.com^
 ||adminpg.online^
 ||affiliatemarketlite.com^
+||agonas.techubz.com^
 ||ahhaqq.com^
 ||akurat33.com^
 ||alectomedia.online^
@@ -58,6 +59,7 @@
 ||backtoblu.online^
 ||bagsupermarket.com^
 ||bancaseguraporlnternetdeempresas.scotialbanrkperu.online^
+||bar47menu.online^
 ||bbc.tv.org^
 ||bcapstaking.com^
 ||bdjf2ls.com^
@@ -115,6 +117,7 @@
 ||cmarinfla.com^
 ||cmbet888.net^
 ||co.financing.cc^
+||coach.factoryoutletonline.com^
 ||cobaltsunsetberry.xyz^
 ||cobatis.sm.com^
 ||code.getoffus.site^
@@ -167,6 +170,7 @@
 ||earringssale.com^
 ||eclatlumiere.com^
 ||egyptiantech.org^
+||eldercity.xyz^
 ||elysiumvip.top^
 ||emergencyplumbingservices3009.online^
 ||emetom.com^
@@ -294,11 +298,14 @@
 ||m.pocketoption.com^
 ||mahadev.id.online^
 ||mainelobstersstore.com^
+||maisonjardina.com^
 ||mallprix.com^
+||malltrabaho.online^
 ||mayzik.com^
 ||meb.budget.com^
 ||mednakit.com^
 ||metodolog.online^
+||metropolidata.com^
 ||mimosabarkhaven.com^
 ||mkurtos.com^
 ||mncr.club^
@@ -469,6 +476,7 @@
 ||trantnguyentech.store^
 ||trejoapp.com^
 ||tremvolknipi.online^
+||trend.shop9.space^
 ||trendly24.com^
 ||trolleytimes.online^
 ||tronholdingsllc.com^
@@ -509,6 +517,7 @@
 ||weetarget.online^
 ||wegmansmall.shop^
 ||wegovy.shop.online^
+||welovegenshinimpact.com^
 ||wheelpg777.online^
 ||williamarnold.online^
 ||windcapitalsinfo.us^
