@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.30.033527.2024
+! Version: 12.30.040058.2024
 ! Expires: 30 minutes
-! Last modified: Mon Dec 30 03:35:27 UTC 2024
+! Last modified: Mon Dec 30 04:00:58 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 404
+! Number of entries: 412
 ||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
@@ -43,6 +43,7 @@
 ||atamedya.shop^
 ||atb14.com^
 ||atlaspays.com^
+||auroracherie.com^
 ||auth.mashash.co^
 ||avalontrdpro.com^
 ||aviation.ancienne.forumactif.com^
@@ -83,6 +84,7 @@
 ||celebprize.com^
 ||chalaorry.shop^
 ||cheqseep.online^
+||cleanquest.xyz^
 ||cled.euteschan.top^
 ||clever.buffalo.pejrxqol.sandboxcms.com^
 ||clever.turtle.1plivsii.sandboxcms.com^
@@ -103,6 +105,7 @@
 ||com.513i.cfd^
 ||com.nx1t.cfd^
 ||compare.deals.online.info^
+||comprasdigitaisglobais.online^
 ||connectdefix.online^
 ||consorciosrt.online^
 ||construction.jobs.nz.online^
@@ -139,6 +142,7 @@
 ||dvdsociety.shop^
 ||dystarwears.com^
 ||earringssale.com^
+||eclatlumiere.com^
 ||egyptiantech.org^
 ||elysiumvip.top^
 ||emergencyplumbingservices3009.online^
@@ -218,6 +222,7 @@
 ||ksda.online.org^
 ||landmark.online.workers.dev^
 ||lawnagain.com^
+||leakrepair30091.online^
 ||ledsmdlight.com^
 ||light.casino2024.online^
 ||limeremce.com^
@@ -247,6 +252,7 @@
 ||mundoonline.link^
 ||mvknnd.online^
 ||myetherwzallet.com^
+||mygardenhelper.online^
 ||nefera.online^
 ||nestedfashion.com^
 ||netdcbf.com^
@@ -280,6 +286,7 @@
 ||parkit.nc.com^
 ||pedrosantosblog.online^
 ||pefctiordent.com^
+||phillipa.online^
 ||playfortune.cc^
 ||policja.pl112.online^
 ||primeinvest.app^
@@ -343,6 +350,7 @@
 ||tc126.xyz^
 ||tfalcon.online^
 ||thedollar.online^
+||theleolab.online^
 ||theoryar.com^
 ||thestylefoundrycle.store^
 ||thetodayhealth.xyz^
