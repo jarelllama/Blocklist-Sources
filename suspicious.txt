@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.30.210105.2024
+! Version: 12.30.213044.2024
 ! Expires: 30 minutes
-! Last modified: Mon Dec 30 21:01:05 UTC 2024
+! Last modified: Mon Dec 30 21:30:44 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 528
+! Number of entries: 534
 ||2040stage.online^
 ||244buildschile.com^
 ||24proleverage.com^
@@ -148,6 +148,7 @@
 ||dbbjrhhn.guru^
 ||ddsteel.online^
 ||dentalclinicgreaternoida.com^
+||devzone2.online^
 ||dghv.store^
 ||digestionscience.com^
 ||digitalsmartone.online^
@@ -163,6 +164,7 @@
 ||dpboss.services^
 ||drapehue.com^
 ||drawmaniauk.shop^
+||dreamcazin.com^
 ||drmartensnews.com^
 ||du.fastopay.my.uae.com^
 ||dvdsociety.shop^
@@ -171,9 +173,11 @@
 ||eclatlumiere.com^
 ||egyptiantech.org^
 ||eldercity.xyz^
+||elixrium.online^
 ||elysiumvip.top^
 ||emergencyplumbingservices3009.online^
 ||emetom.com^
+||empiric.online^
 ||encomendas.importacao.online^
 ||enjoy99.org^
 ||entrustify.co.in^
@@ -207,6 +211,7 @@
 ||game.zone.pro^
 ||gaspol268.com^
 ||gel9.online^
+||geographz.com^
 ||glasslockmart.shop^
 ||globalcapitalista.com^
 ||globalflashco.com^
@@ -296,6 +301,7 @@
 ||lwbbc.com^
 ||m.bitunixex.com^
 ||m.pocketoption.com^
+||mablehelp.online^
 ||mahadev.id.online^
 ||mainelobstersstore.com^
 ||maisonjardina.com^
