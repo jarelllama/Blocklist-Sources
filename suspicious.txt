@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.30.030707.2024
+! Version: 12.30.033527.2024
 ! Expires: 30 minutes
-! Last modified: Mon Dec 30 03:07:07 UTC 2024
+! Last modified: Mon Dec 30 03:35:27 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 394
+! Number of entries: 404
 ||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
@@ -41,6 +41,7 @@
 ||asap777.online^
 ||asiacargo.online^
 ||atamedya.shop^
+||atb14.com^
 ||atlaspays.com^
 ||auth.mashash.co^
 ||avalontrdpro.com^
@@ -125,6 +126,7 @@
 ||dentalclinicgreaternoida.com^
 ||dghv.store^
 ||digestionscience.com^
+||digitalsmartone.online^
 ||digiterminator.online^
 ||digitsagency.online^
 ||direktori.online^
@@ -172,6 +174,7 @@
 ||gorouslook.com^
 ||gotospares.com^
 ||grassroot.impact.centre.org^
+||griefquotes.xyz^
 ||grindsoft.com^
 ||grupohersa.org^
 ||guabsons.com^
@@ -185,6 +188,7 @@
 ||hotbveleki.cc^
 ||hotbvetovu.cc^
 ||hotelvalues.com^
+||htadz.online^
 ||i.apple.com.tr^
 ||iconicinternational.online^
 ||inamksa.icu^
@@ -222,6 +226,7 @@
 ||liveccvv.mp^
 ||lockheed3.com^
 ||lopa.store^
+||lourdeswestleyhawk.org^
 ||ltcxminer.pro^
 ||luatypticures.co.in^
 ||lucky888.top^
@@ -238,10 +243,12 @@
 ||mkurtos.com^
 ||mncr.club^
 ||monetoad.com^
+||mttathletics.com^
 ||mundoonline.link^
 ||mvknnd.online^
 ||myetherwzallet.com^
 ||nefera.online^
+||nestedfashion.com^
 ||netdcbf.com^
 ||newlearning.icu^
 ||news.jufife.com^
@@ -287,6 +294,7 @@
 ||ralkem.com^
 ||reoe.shop^
 ||researchchemicalskopen.net^
+||resortburg.online^
 ||retrofxmarkets.com^
 ||roll2x.com^
 ||roofing.services.fb.online^
@@ -308,6 +316,7 @@
 ||shoponlinesale.shop^
 ||sinxed.com^
 ||skandere.online^
+||skhealthline.com^
 ||skidipapap.online^
 ||skymine.online^
 ||slmsbz.com^
@@ -321,6 +330,7 @@
 ||sprunkiphase.online^
 ||srchfst.com^
 ||starofliberty.online^
+||startingstrong.life^
 ||storeyork.com.mx^
 ||subscribelg.my^
 ||sugarsyncglycooptimizer.com^
