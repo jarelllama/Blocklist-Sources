@@ -3,12 +3,13 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.30.180101.2024
+! Version: 12.30.183539.2024
 ! Expires: 30 minutes
-! Last modified: Mon Dec 30 18:01:01 UTC 2024
+! Last modified: Mon Dec 30 18:35:39 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 490
+! Number of entries: 495
 ||2040stage.online^
+||244buildschile.com^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
 ||777color87.com^
@@ -48,6 +49,7 @@
 ||avalontrdpro.com^
 ||aviation.ancienne.forumactif.com^
 ||avlissatdnagait.online^
+||avrixdynamiservices.com^
 ||ayridchandler.shop^
 ||baccarats.com.au^
 ||backtoblu.online^
@@ -340,6 +342,7 @@
 ||palloda.com^
 ||parisdocase.com^
 ||parkit.nc.com^
+||partecularly.com^
 ||pedrosantosblog.online^
 ||pefctiordent.com^
 ||phillipa.online^
@@ -358,6 +361,7 @@
 ||radianters.com^
 ||ralkem.com^
 ||readermodeext.info^
+||reegwallet.store^
 ||reoe.shop^
 ||researchchemicalskopen.net^
 ||resortburg.online^
@@ -393,6 +397,7 @@
 ||skidipapap.online^
 ||skymine.online^
 ||slmsbz.com^
+||smartrecoup.com^
 ||smith.newyork.com^
 ||softgama.online^
 ||sohosquare.online^
