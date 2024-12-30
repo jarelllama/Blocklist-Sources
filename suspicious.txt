@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.30.073143.2024
+! Version: 12.30.080101.2024
 ! Expires: 30 minutes
-! Last modified: Mon Dec 30 07:31:43 UTC 2024
+! Last modified: Mon Dec 30 08:01:01 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 440
+! Number of entries: 446
 ||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
@@ -69,6 +69,7 @@
 ||bileerrero.shop^
 ||bit.binary.org^
 ||bitcexpro.vip^
+||bitcoinfreemining.com^
 ||bithub.bot^
 ||bitzoy.com^
 ||bmwstore.eu.com^
@@ -180,6 +181,7 @@
 ||game.zone.pro^
 ||gaspol268.com^
 ||gel9.online^
+||glasslockmart.shop^
 ||globalcapitalista.com^
 ||globalflashco.com^
 ||globalnotelab.com^
@@ -303,6 +305,7 @@
 ||paintingservices2us0507.online^
 ||pairrelax.com^
 ||palloda.com^
+||parisdocase.com^
 ||parkit.nc.com^
 ||pedrosantosblog.online^
 ||pefctiordent.com^
@@ -339,6 +342,7 @@
 ||savvyessence.com^
 ||sbk.trx1.com^
 ||sdx96.com^
+||sdxsjc.com^
 ||searchednow.com^
 ||searchnow.online^
 ||securedjointnetwork.co.in^
@@ -376,6 +380,7 @@
 ||tc126.xyz^
 ||tfalcon.online^
 ||thedollar.online^
+||thehygienefree.top^
 ||theleolab.online^
 ||thenorthernlabs.com^
 ||theoryar.com^
@@ -413,6 +418,7 @@
 ||va835.rokinat.co.in^
 ||valeriehouseofdigital.online^
 ||validatemypimainnetwallet.online^
+||valueversion.com^
 ||vc66.net^
 ||venarose.online^
 ||vendorbroz.com^
