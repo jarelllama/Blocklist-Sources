@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.30.193056.2024
+! Version: 12.30.200058.2024
 ! Expires: 30 minutes
-! Last modified: Mon Dec 30 19:30:56 UTC 2024
+! Last modified: Mon Dec 30 20:00:58 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 504
+! Number of entries: 512
 ||2040stage.online^
 ||244buildschile.com^
 ||24proleverage.com^
@@ -33,6 +33,8 @@
 ||angelicstoragebv.com^
 ||angiechew.online^
 ||apanharwatch.com^
+||apkft.xyz^
+||apkhot.xyz^
 ||appanalytics.online^
 ||ar68bc2h0d78l4saqd0.heldit.shop^
 ||arabwood.ir^
@@ -65,6 +67,7 @@
 ||beltlox.top^
 ||beseenmarketing.online^
 ||besthealth24.online^
+||betnight.online^
 ||biglotsclosures.com^
 ||biglotsusa.sale.com^
 ||bigsales.top^
@@ -148,6 +151,7 @@
 ||digiterminator.online^
 ||digitsagency.online^
 ||diptyque.shop^
+||directoryofus.online^
 ||direktori.online^
 ||docs.connect.wallet.teachable.com^
 ||dogepick.io^
@@ -228,6 +232,7 @@
 ||htadz.online^
 ||i.apple.com.tr^
 ||iconicinternational.online^
+||idtumy.com^
 ||ilclawgroup.com^
 ||inamksa.icu^
 ||incart.co.za^
@@ -324,6 +329,7 @@
 ||okjg13.icu^
 ||ondasvirtuais.online^
 ||oneclickmart.online^
+||onefarm.pro^
 ||online.aktarmalar.hizmeti.store^
 ||online.courses.classes.21368.bond^
 ||online.courses.classes.44486.bond^
@@ -413,6 +419,7 @@
 ||sos.bg.sof.1.exo.io^
 ||sparkflr.info^
 ||spinslot88won.online^
+||sport.prints.online^
 ||sprunkiphase.online^
 ||srchfst.com^
 ||sstdocumentos.com^
@@ -483,6 +490,7 @@
 ||vflmo.online^
 ||video4k.site^
 ||videoperkstream.com^
+||vigkes.shop^
 ||volcminer.store^
 ||warunggolkuat.online^
 ||washerdryer.my^
