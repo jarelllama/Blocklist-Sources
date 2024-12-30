@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.30.040058.2024
+! Version: 12.30.043410.2024
 ! Expires: 30 minutes
-! Last modified: Mon Dec 30 04:00:58 UTC 2024
+! Last modified: Mon Dec 30 04:34:10 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 412
+! Number of entries: 421
 ||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
@@ -78,6 +78,7 @@
 ||caminoverdadyvida.online^
 ||canconsulting.in^
 ||careeredge.online^
+||carrepairus0507.online^
 ||casetesy.com^
 ||caveysrestaurant.com^
 ||cbex3.com^
@@ -162,6 +163,8 @@
 ||flexjobhubs.com^
 ||flexswiftways.online^
 ||forbiddenpant.com^
+||foundationrepair0407.online^
+||foundationrepair3009.online^
 ||frontbulletin.com^
 ||funcapsnl.com^
 ||fundxrecover.com^
@@ -199,6 +202,7 @@
 ||incart.co.za^
 ||insightdreams.online^
 ||inter.entregas.online^
+||ipctd.online^
 ||iranfinance.info^
 ||iris.tech.online^
 ||iyilikler.online^
@@ -264,12 +268,14 @@
 ||obalaso.online^
 ||ofertabook.online^
 ||offersheres.net^
+||ondasvirtuais.online^
 ||oneclickmart.online^
 ||online.aktarmalar.hizmeti.store^
 ||online.courses.classes.21368.bond^
 ||online.courses.classes.44486.bond^
 ||online.courses.de.2618.click^
 ||online.degree.fr.en.9888354.fyi^
+||online.english.classes641012.xyz^
 ||online.events.net^
 ||online.marketing.degree.901935125.zone^
 ||onlinematpilates.com^
@@ -281,6 +287,7 @@
 ||outfitloft.com^
 ||pagmseguro.online^
 ||pagprotegido.online^
+||paintingservices2us0507.online^
 ||pairrelax.com^
 ||palloda.com^
 ||parkit.nc.com^
@@ -305,6 +312,7 @@
 ||retrofxmarkets.com^
 ||roll2x.com^
 ||roofing.services.fb.online^
+||royal.marines.online^
 ||rpmvape.com^
 ||sagkjsd.com^
 ||salewaoutletsespana.es^
@@ -361,6 +369,7 @@
 ||tldindia.online^
 ||tokentrade.top^
 ||topflixtv.online^
+||tozc.online^
 ||trackqsu.top^
 ||tracy925digital.pro^
 ||traffictrack.online^
