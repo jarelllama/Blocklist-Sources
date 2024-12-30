@@ -3,11 +3,12 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.30.220057.2024
+! Version: 12.30.223253.2024
 ! Expires: 30 minutes
-! Last modified: Mon Dec 30 22:00:57 UTC 2024
+! Last modified: Mon Dec 30 22:32:53 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 541
+! Number of entries: 548
+||2023brl.online^
 ||2040stage.online^
 ||244buildschile.com^
 ||24proleverage.com^
@@ -27,6 +28,7 @@
 ||ahhaqq.com^
 ||akurat33.com^
 ||alectomedia.online^
+||alfianacendani.online^
 ||allicross.online^
 ||alo88.black^
 ||amalbio.shop^
@@ -241,6 +243,7 @@
 ||hotbvetovu.cc^
 ||hotelvalues.com^
 ||htadz.online^
+||hyph666.win^
 ||i.apple.com.tr^
 ||iconicinternational.online^
 ||idtumy.com^
@@ -278,6 +281,7 @@
 ||khipp.com^
 ||kijl.online^
 ||kirillviktoriawedding.online^
+||kreed5425210621621.online^
 ||ksda.online.org^
 ||laboratoire.osmose.com^
 ||landmark.online.workers.dev^
@@ -315,6 +319,7 @@
 ||metodolog.online^
 ||metropolidata.com^
 ||mimosabarkhaven.com^
+||mkcgopdregistration.online^
 ||mkurtos.com^
 ||mncr.club^
 ||monetoad.com^
@@ -357,6 +362,7 @@
 ||online.events.net^
 ||online.marketing.degree.901935125.zone^
 ||onlinematpilates.com^
+||onlineotizmdanisma.com^
 ||onlinestoretechshop.com^
 ||onlinewealthmantra.com^
 ||optnutritips.com^
@@ -517,6 +523,7 @@
 ||videoperkstream.com^
 ||vigkes.shop^
 ||volcminer.store^
+||warehousesstores.com^
 ||warehouseudeals.com^
 ||warunggolkuat.online^
 ||washerdryer.my^
