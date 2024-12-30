@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.30.004529.2024
+! Version: 12.30.012808.2024
 ! Expires: 30 minutes
-! Last modified: Mon Dec 30 00:45:29 UTC 2024
+! Last modified: Mon Dec 30 01:28:08 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 370
+! Number of entries: 379
 ||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
@@ -26,6 +26,7 @@
 ||akurat33.com^
 ||alectomedia.online^
 ||alo88.black^
+||amalbio.shop^
 ||amazonsellersappeal.com^
 ||angelicstoragebv.com^
 ||angiechew.online^
@@ -78,6 +79,8 @@
 ||celebprize.com^
 ||chalaorry.shop^
 ||cheqseep.online^
+||clever.buffalo.pejrxqol.sandboxcms.com^
+||clever.turtle.1plivsii.sandboxcms.com^
 ||clickclpwages.buzz^
 ||clids.mastercasc.top^
 ||climbcourse.cam^
@@ -113,6 +116,7 @@
 ||cybex.360.com^
 ||dailytehillim.online^
 ||ddsteel.online^
+||dentalclinicgreaternoida.com^
 ||dghv.store^
 ||digestionscience.com^
 ||digiterminator.online^
@@ -158,6 +162,7 @@
 ||goodserchez.com^
 ||gorouslook.com^
 ||gotospares.com^
+||grassroot.impact.centre.org^
 ||grindsoft.com^
 ||grupohersa.org^
 ||guabsons.com^
@@ -191,6 +196,7 @@
 ||kadobarvapesstore.com^
 ||kapten178.com^
 ||kefu.swapbit.top^
+||kesan888.com^
 ||khipp.com^
 ||kijl.online^
 ||kirillviktoriawedding.online^
@@ -239,6 +245,7 @@
 ||online.courses.de.2618.click^
 ||online.degree.fr.en.9888354.fyi^
 ||online.events.net^
+||online.marketing.degree.901935125.zone^
 ||onlinematpilates.com^
 ||onlinestoretechshop.com^
 ||onlinewealthmantra.com^
@@ -259,6 +266,7 @@
 ||procim.online^
 ||productonline.cloud^
 ||projectplaygroundtech.com^
+||psicologiaencasa.online^
 ||pulsepicks.pro^
 ||quantumdigitalmatket.com^
 ||quvrmh.com^
@@ -273,6 +281,7 @@
 ||sagkjsd.com^
 ||salewaoutletsespana.es^
 ||samseven.com^
+||samsonitedeals.com^
 ||saotex.com^
 ||savvyessence.com^
 ||sbk.trx1.com^
