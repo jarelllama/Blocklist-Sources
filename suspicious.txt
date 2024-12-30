@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.30.190105.2024
+! Version: 12.30.193056.2024
 ! Expires: 30 minutes
-! Last modified: Mon Dec 30 19:01:05 UTC 2024
+! Last modified: Mon Dec 30 19:30:56 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 498
+! Number of entries: 504
 ||2040stage.online^
 ||244buildschile.com^
 ||24proleverage.com^
@@ -32,6 +32,7 @@
 ||amazonsellersappeal.com^
 ||angelicstoragebv.com^
 ||angiechew.online^
+||apanharwatch.com^
 ||appanalytics.online^
 ||ar68bc2h0d78l4saqd0.heldit.shop^
 ||arabwood.ir^
@@ -230,6 +231,7 @@
 ||ilclawgroup.com^
 ||inamksa.icu^
 ||incart.co.za^
+||indpeapract.cfd^
 ||insightdreams.online^
 ||inter.entregas.online^
 ||ipctd.online^
@@ -349,6 +351,7 @@
 ||pefctiordent.com^
 ||phillipa.online^
 ||pip4gains.com^
+||pippopet.store^
 ||playfortune.cc^
 ||policja.pl112.online^
 ||primeinvest.app^
@@ -369,6 +372,7 @@
 ||researchchemicalskopen.net^
 ||resortburg.online^
 ||retrofxmarkets.com^
+||robin.joy.com^
 ||rokinat.co.in^
 ||roll2x.com^
 ||roofing.services.fb.online^
@@ -411,6 +415,7 @@
 ||spinslot88won.online^
 ||sprunkiphase.online^
 ||srchfst.com^
+||sstdocumentos.com^
 ||starofliberty.online^
 ||startingstrong.life^
 ||storeyork.com.mx^
@@ -425,6 +430,7 @@
 ||taqwapublications.com^
 ||tc126.xyz^
 ||tfalcon.online^
+||thebestofferforyoutoday.online^
 ||thedollar.online^
 ||thehygienefree.top^
 ||theleolab.online^
