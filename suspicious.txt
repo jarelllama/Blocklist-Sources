@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.30.012808.2024
+! Version: 12.30.020328.2024
 ! Expires: 30 minutes
-! Last modified: Mon Dec 30 01:28:08 UTC 2024
+! Last modified: Mon Dec 30 02:03:28 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 379
+! Number of entries: 385
 ||2040stage.online^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
@@ -25,6 +25,7 @@
 ||ahhaqq.com^
 ||akurat33.com^
 ||alectomedia.online^
+||allicross.online^
 ||alo88.black^
 ||amalbio.shop^
 ||amazonsellersappeal.com^
@@ -79,6 +80,7 @@
 ||celebprize.com^
 ||chalaorry.shop^
 ||cheqseep.online^
+||cled.euteschan.top^
 ||clever.buffalo.pejrxqol.sandboxcms.com^
 ||clever.turtle.1plivsii.sandboxcms.com^
 ||clickclpwages.buzz^
@@ -123,6 +125,7 @@
 ||digitsagency.online^
 ||direktori.online^
 ||docs.connect.wallet.teachable.com^
+||dogepick.io^
 ||dogooddaldaadw.com^
 ||drapehue.com^
 ||drawmaniauk.shop^
@@ -140,6 +143,7 @@
 ||eurovs.com^
 ||eventscodm.com^
 ||expand.experts.com^
+||fastbrush.online^
 ||fedilitylogistics.com^
 ||fineprint.online^
 ||fjallravenvip.shop^
@@ -170,6 +174,7 @@
 ||harveylux.com^
 ||henglai.online^
 ||hermez4dx500.com^
+||hireuphelp.online^
 ||hotbtujeka.cc^
 ||hotbvamove.today^
 ||hotbveleki.cc^
@@ -211,6 +216,7 @@
 ||liveccvv.mp^
 ||lockheed3.com^
 ||lopa.store^
+||ltcxminer.pro^
 ||luatypticures.co.in^
 ||lucky888.top^
 ||lulusafh.com^
