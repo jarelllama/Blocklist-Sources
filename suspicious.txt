@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.31.163510.2024
+! Version: 12.31.170058.2024
 ! Expires: 30 minutes
-! Last modified: Tue Dec 31 16:35:10 UTC 2024
+! Last modified: Tue Dec 31 17:00:58 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 660
+! Number of entries: 664
 ||1wqydy.top^
 ||2023brl.online^
 ||2040stage.online^
@@ -37,6 +37,7 @@
 ||allicross.online^
 ||alo88.black^
 ||amalbio.shop^
+||amaznmarket.shop^
 ||amazonsellersappeal.com^
 ||amzkdt.online^
 ||angelicstoragebv.com^
@@ -442,6 +443,7 @@
 ||parisdocase.com^
 ||parkit.nc.com^
 ||partecularly.com^
+||pasion.padel.com^
 ||pawns.app^
 ||peacheck.com^
 ||pedrosantosblog.online^
@@ -542,6 +544,7 @@
 ||sstdocumentos.com^
 ||starofliberty.online^
 ||startingstrong.life^
+||store.belgianshop.com^
 ||storeyork.com.mx^
 ||subscribelg.my^
 ||sugarsyncglycooptimizer.com^
@@ -663,6 +666,7 @@
 ||yunpso.com^
 ||yupoo.vip^
 ||zadig.et.voltaire.eu.com^
+||zdigitalagencymt.cc^
 ||zeharris.online^
 ||zerocodeblock.com^
 ||zetdax.top^
