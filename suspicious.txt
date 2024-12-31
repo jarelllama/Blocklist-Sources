@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.31.140059.2024
+! Version: 12.31.143224.2024
 ! Expires: 30 minutes
-! Last modified: Tue Dec 31 14:00:59 UTC 2024
+! Last modified: Tue Dec 31 14:32:24 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 642
+! Number of entries: 648
 ||1wqydy.top^
 ||2023brl.online^
 ||2040stage.online^
@@ -67,6 +67,7 @@
 ||baccarats.com.au^
 ||backtoblu.online^
 ||bagsupermarket.com^
+||bamajt.world^
 ||bancaseguraporlnternetdeempresas.scotialbanrkperu.online^
 ||bar47menu.online^
 ||bbc.tv.org^
@@ -113,6 +114,7 @@
 ||carrepairus0507.online^
 ||casetesy.com^
 ||catenarydojo.com^
+||catx.bar^
 ||caveysrestaurant.com^
 ||cbex3.com^
 ||celebprize.com^
@@ -265,6 +267,7 @@
 ||hianime.to^
 ||hireuphelp.online^
 ||hm.ru^
+||hollden.shop^
 ||homebaseinuk.com^
 ||homersimpson.fun^
 ||honey.bee.iptv.com^
@@ -359,6 +362,7 @@
 ||mayzik.com^
 ||meb.budget.com^
 ||mednakit.com^
+||metatrader5.com^
 ||methodeversohnungvonbeziehungen.online^
 ||metodolog.online^
 ||metropolidata.com^
@@ -477,6 +481,7 @@
 ||royal.marines.online^
 ||royalmail.i78.xyz^
 ||rpmvape.com^
+||sag.quantify.com^
 ||sagkjsd.com^
 ||sale.oggi.com^
 ||salewaoutletsespana.es^
@@ -500,6 +505,7 @@
 ||shedrickcdigital.pro^
 ||shopeevip.shop^
 ||shoponlinesale.shop^
+||shorturl.at^
 ||sinneery.com^
 ||sinxed.com^
 ||skandere.online^
