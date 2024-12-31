@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.31.150056.2024
+! Version: 12.31.153144.2024
 ! Expires: 30 minutes
-! Last modified: Tue Dec 31 15:00:56 UTC 2024
+! Last modified: Tue Dec 31 15:31:44 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 654
+! Number of entries: 658
 ||1wqydy.top^
 ||2023brl.online^
 ||2040stage.online^
@@ -104,6 +104,7 @@
 ||briansclub.cm.shop^
 ||btc913.com^
 ||btc933.com^
+||buenomarket.store^
 ||bulanjitu.org^
 ||buletboard.com^
 ||bursaelitescorthatun.com^
@@ -117,6 +118,7 @@
 ||catenarydojo.com^
 ||catx.bar^
 ||caveysrestaurant.com^
+||cbex.cx^
 ||cbex3.com^
 ||celebprize.com^
 ||chalaorry.shop^
@@ -263,6 +265,7 @@
 ||guabsons.com^
 ||gunluksevilenkampanyalarsizlerle.online^
 ||h5.amengine.top^
+||h5.doieu.com^
 ||harveylux.com^
 ||hello.hello.site^
 ||henglai.online^
@@ -427,6 +430,7 @@
 ||outfitloft.com^
 ||p2btradehubx.info^
 ||padelofficiel.com^
+||pages.tempisite.com^
 ||pagmseguro.online^
 ||pagprotegido.online^
 ||paintingservices2us0507.online^
