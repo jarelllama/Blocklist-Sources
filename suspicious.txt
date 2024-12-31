@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.31.173120.2024
+! Version: 12.31.180100.2024
 ! Expires: 30 minutes
-! Last modified: Tue Dec 31 17:31:20 UTC 2024
+! Last modified: Tue Dec 31 18:01:00 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 669
+! Number of entries: 674
 ||1wqydy.top^
 ||2023brl.online^
 ||2040stage.online^
@@ -201,6 +201,7 @@
 ||du.fastopay.my.uae.com^
 ||dvdsociety.shop^
 ||dystarwears.com^
+||eaglecrestonline.com^
 ||earringssale.com^
 ||eclatlumiere.com^
 ||edmxed66.com^
@@ -250,6 +251,7 @@
 ||gaspol268.com^
 ||gel9.online^
 ||geographz.com^
+||gfslsecurities.cc^
 ||glasslockmart.shop^
 ||globalcapitalista.com^
 ||globalflashco.com^
@@ -337,6 +339,7 @@
 ||lawnagain.com^
 ||leakrepair30091.online^
 ||ledsmdlight.com^
+||lfj.gg^
 ||lifesgoood.space^
 ||light.casino2024.online^
 ||lightchain.ai^
@@ -454,6 +457,7 @@
 ||phillipa.online^
 ||pip4gains.com^
 ||pippopet.store^
+||pityeon.com^
 ||playfortune.cc^
 ||pnusaa.com^
 ||policja.pl112.online^
@@ -585,6 +589,7 @@
 ||topsmanings.top^
 ||topthingsinlife.com^
 ||tozc.online^
+||track.ptctt.com^
 ||trackqsu.top^
 ||tracy925digital.pro^
 ||traffictrack.online^
