@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.31.223237.2024
+! Version: 12.31.230058.2024
 ! Expires: 30 minutes
-! Last modified: Tue Dec 31 22:32:37 UTC 2024
+! Last modified: Tue Dec 31 23:00:58 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 701
+! Number of entries: 708
 ||1wqydy.top^
 ||2023brl.online^
 ||2040stage.online^
@@ -36,6 +36,8 @@
 ||all.chems.com^
 ||allicross.online^
 ||alo88.black^
+||altano.store^
+||alwaysfindonline.shop^
 ||amalbio.shop^
 ||amaznmarket.shop^
 ||amazonsellersappeal.com^
@@ -50,6 +52,7 @@
 ||arabwood.ir^
 ||arakaxabux.com^
 ||arcmine.com^
+||arirak.online^
 ||arldeemix.com^
 ||ars88safe.online^
 ||artwareworld.com^
@@ -77,6 +80,7 @@
 ||bdjf2ls.com^
 ||beat.sticker.online^
 ||bedtige.top^
+||bekerja.online^
 ||belkcaseshop.com^
 ||beltlox.top^
 ||bernardex.com^
@@ -176,6 +180,7 @@
 ||dbbjrhhn.guru^
 ||dcard50.ru^
 ||ddsteel.online^
+||demogamingsalam123.online^
 ||dentalclinicgreaternoida.com^
 ||devzone2.online^
 ||dex.trade.global^
@@ -299,6 +304,7 @@
 ||iconicinternational.online^
 ||idtumy.com^
 ||ilclawgroup.com^
+||in.tmwn.online^
 ||inamksa.icu^
 ||incart.co.za^
 ||indpeapract.cfd^
@@ -497,6 +503,7 @@
 ||radianters.com^
 ||raineyeshadowguilty.com^
 ||ralkem.com^
+||rapidtransitmodels.com^
 ||readermodeext.info^
 ||reallilya.com^
 ||reddit.streams.online^
