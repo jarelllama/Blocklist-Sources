@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.31.110105.2024
+! Version: 12.31.113057.2024
 ! Expires: 30 minutes
-! Last modified: Tue Dec 31 11:01:05 UTC 2024
+! Last modified: Tue Dec 31 11:30:57 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 632
+! Number of entries: 637
 ||1wqydy.top^
 ||2023brl.online^
 ||2040stage.online^
@@ -81,6 +81,7 @@
 ||betnight.online^
 ||biglotsclosures.com^
 ||biglotsusa.sale.com^
+||bigminings.pro^
 ||bigsales.top^
 ||bikinibossmiamieu.com^
 ||bileerrero.shop^
@@ -175,6 +176,7 @@
 ||directoryofus.online^
 ||direktori.online^
 ||discount.area.com^
+||divinark.store^
 ||docs.connect.wallet.teachable.com^
 ||docs.shibariumtech.com^
 ||dogepick.io^
@@ -250,6 +252,7 @@
 ||griefquotes.xyz^
 ||grindsoft.com^
 ||grupohersa.org^
+||gtkjean.com^
 ||guabsons.com^
 ||gunluksevilenkampanyalarsizlerle.online^
 ||h5.amengine.top^
@@ -468,6 +471,7 @@
 ||roll2x.com^
 ||roofing.services.fb.online^
 ||royal.marines.online^
+||royalmail.i78.xyz^
 ||rpmvape.com^
 ||sagkjsd.com^
 ||sale.oggi.com^
@@ -502,6 +506,7 @@
 ||smartns.ink^
 ||smartrecoup.com^
 ||smith.newyork.com^
+||soankelle.vip^
 ||softgama.online^
 ||sohosquare.online^
 ||solanamining.net^
