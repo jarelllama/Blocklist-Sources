@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.31.020130.2024
+! Version: 12.31.024357.2024
 ! Expires: 30 minutes
-! Last modified: Tue Dec 31 02:01:30 UTC 2024
+! Last modified: Tue Dec 31 02:43:57 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 566
+! Number of entries: 570
 ||2023brl.online^
 ||2040stage.online^
 ||244buildschile.com^
@@ -196,6 +196,7 @@
 ||eurovs.com^
 ||eventscodm.com^
 ||expand.experts.com^
+||f2pool.com^
 ||faredglorias.com^
 ||fastbrush.online^
 ||fedilitylogistics.com^
@@ -338,6 +339,7 @@
 ||myetherwzallet.com^
 ||mygardenhelper.online^
 ||mytraveldaddy.us^
+||narvafinance.com^
 ||neesedresses.com^
 ||nefera.online^
 ||nestedfashion.com^
@@ -478,6 +480,7 @@
 ||talklikesm.best^
 ||taqwapublications.com^
 ||tc126.xyz^
+||tenadex.com^
 ||tfalcon.online^
 ||thebestofferforyoutoday.online^
 ||thedollar.online^
@@ -546,6 +549,7 @@
 ||waxx.network^
 ||wbocash.online^
 ||wealthassets.app^
+||wealthbaseinvestment.com^
 ||web3.gpt.shop^
 ||weetarget.online^
 ||wegmansmall.shop^
