@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.31.060101.2024
+! Version: 12.31.063551.2024
 ! Expires: 30 minutes
-! Last modified: Tue Dec 31 06:01:01 UTC 2024
+! Last modified: Tue Dec 31 06:35:51 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 585
+! Number of entries: 589
 ||1wqydy.top^
 ||2023brl.online^
 ||2040stage.online^
@@ -287,6 +287,7 @@
 ||jysk.sale.com^
 ||kadobarvapesstore.com^
 ||kapten178.com^
+||karavvan.com^
 ||keencn.com^
 ||kefu.swapbit.top^
 ||kesan888.com^
@@ -346,6 +347,7 @@
 ||mygardenhelper.online^
 ||mytraveldaddy.us^
 ||narvafinance.com^
+||nearriot.com^
 ||neesedresses.com^
 ||nefera.online^
 ||nestedfashion.com^
@@ -395,6 +397,7 @@
 ||parisdocase.com^
 ||parkit.nc.com^
 ||partecularly.com^
+||peacheck.com^
 ||pedrosantosblog.online^
 ||pefctiordent.com^
 ||pg77.game^
@@ -524,6 +527,7 @@
 ||tremvolknipi.online^
 ||trend.shop9.space^
 ||trendly24.com^
+||trendyhubllc.shop^
 ||trolleytimes.online^
 ||tronholdingsllc.com^
 ||tronminingfarm.com^
