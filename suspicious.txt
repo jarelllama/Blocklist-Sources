@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.31.213050.2024
+! Version: 12.31.220057.2024
 ! Expires: 30 minutes
-! Last modified: Tue Dec 31 21:30:50 UTC 2024
+! Last modified: Tue Dec 31 22:00:57 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 687
+! Number of entries: 695
 ||1wqydy.top^
 ||2023brl.online^
 ||2040stage.online^
@@ -224,6 +224,7 @@
 ||eschallengersmode.com^
 ||esquentabet.online^
 ||establishmentlottery.top^
+||estarenergy.ltd^
 ||eurovs.com^
 ||eventscodm.com^
 ||expand.experts.com^
@@ -256,6 +257,7 @@
 ||gel9.online^
 ||geographz.com^
 ||gfslsecurities.cc^
+||gggwg.online^
 ||glasslockmart.shop^
 ||globalcapitalista.com^
 ||globalflashco.com^
@@ -377,6 +379,7 @@
 ||maisonjardina.com^
 ||mallprix.com^
 ||malltrabaho.online^
+||marketing4solutionsblog.online^
 ||mavocossycloud.com^
 ||mayzik.com^
 ||meb.budget.com^
@@ -419,6 +422,7 @@
 ||noveraxcapital.com^
 ||nowmining.fun^
 ||obalaso.online^
+||obraspublicaschaco2024.online^
 ||ofertabook.online^
 ||offersheres.net^
 ||ojrq.net^
@@ -427,6 +431,7 @@
 ||ondasvirtuais.online^
 ||oneclickmart.online^
 ||onefarm.pro^
+||online.advertising.73412.bond^
 ||online.aktarmalar.hizmeti.store^
 ||online.courses.classes.21368.bond^
 ||online.courses.classes.44486.bond^
@@ -517,7 +522,9 @@
 ||samseven.com^
 ||samsonitedeals.com^
 ||samsoniteoutlets.com^
+||saobentofaculdade.online^
 ||saotex.com^
+||sarangpuradharamashala.online^
 ||sato.castle.com^
 ||savvyessence.com^
 ||sbk.trx1.com^
@@ -600,6 +607,7 @@
 ||topsmanings.top^
 ||topthingsinlife.com^
 ||tozc.online^
+||tqwin.online^
 ||track.ptctt.com^
 ||trackqsu.top^
 ||tracy925digital.pro^
