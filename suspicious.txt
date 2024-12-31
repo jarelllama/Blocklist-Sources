@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.31.200101.2024
+! Version: 12.31.203125.2024
 ! Expires: 30 minutes
-! Last modified: Tue Dec 31 20:01:01 UTC 2024
+! Last modified: Tue Dec 31 20:31:25 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 680
+! Number of entries: 684
 ||1wqydy.top^
 ||2023brl.online^
 ||2040stage.online^
@@ -60,6 +60,7 @@
 ||atlaspays.com^
 ||auroracherie.com^
 ||auth.mashash.co^
+||autotracksolution.com^
 ||avalontrdpro.com^
 ||aviation.ancienne.forumactif.com^
 ||avlissatdnagait.online^
@@ -211,6 +212,7 @@
 ||eldercity.xyz^
 ||elixrium.online^
 ||elysiumvip.top^
+||emea01.safelinks.protection.outlook.com^
 ||emergencyplumbingservices3009.online^
 ||emetom.com^
 ||empiric.online^
@@ -475,6 +477,7 @@
 ||psicologiaencasa.online^
 ||psschool.edu.bd^
 ||pulsepicks.pro^
+||pumacolombia.net^
 ||puregoodsfy.com^
 ||qdiminers.com^
 ||qfsbackupassets.ltd^
@@ -555,6 +558,7 @@
 ||starofliberty.online^
 ||startingstrong.life^
 ||stavelux.net^
+||steamcomumnitty.com^
 ||store.belgianshop.com^
 ||storeyork.com.mx^
 ||subscribelg.my^
