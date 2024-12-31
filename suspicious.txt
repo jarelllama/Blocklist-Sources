@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.31.050101.2024
+! Version: 12.31.053253.2024
 ! Expires: 30 minutes
-! Last modified: Tue Dec 31 05:01:01 UTC 2024
+! Last modified: Tue Dec 31 05:32:53 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 578
+! Number of entries: 582
 ||1wqydy.top^
 ||2023brl.online^
 ||2040stage.online^
@@ -45,6 +45,7 @@
 ||arabwood.ir^
 ||arakaxabux.com^
 ||arcmine.com^
+||arldeemix.com^
 ||ars88safe.online^
 ||artwareworld.com^
 ||asap777.online^
@@ -218,6 +219,7 @@
 ||fungretail.shop^
 ||fxddarab.online^
 ||fxminedeotra.com^
+||galacvy.com^
 ||gambyllion.com^
 ||game.zixia.com^
 ||game.zone.pro^
@@ -417,6 +419,7 @@
 ||radianters.com^
 ||ralkem.com^
 ||readermodeext.info^
+||reallilya.com^
 ||reddit.streams.online^
 ||redeemai.site^
 ||reegwallet.store^
@@ -572,6 +575,7 @@
 ||xfnwnw.com^
 ||xmbroker.click^
 ||xpertlex.online^
+||xpresswealthbnk.com^
 ||xsdvdeal.store^
 ||xtremediscount.net^
 ||xvkdfashion.shop^
