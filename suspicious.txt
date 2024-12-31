@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.31.143224.2024
+! Version: 12.31.150056.2024
 ! Expires: 30 minutes
-! Last modified: Tue Dec 31 14:32:24 UTC 2024
+! Last modified: Tue Dec 31 15:00:56 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 648
+! Number of entries: 654
 ||1wqydy.top^
 ||2023brl.online^
 ||2040stage.online^
@@ -77,6 +77,7 @@
 ||bedtige.top^
 ||belkcaseshop.com^
 ||beltlox.top^
+||bernardex.com^
 ||beseenmarketing.online^
 ||besthealth24.online^
 ||betnight.online^
@@ -187,6 +188,7 @@
 ||dogooddaldaadw.com^
 ||download.wondershare.net^
 ||dpboss.services^
+||dragonfly.shop.com^
 ||drapehue.com^
 ||drawmaniauk.shop^
 ||dreamcazin.com^
@@ -250,6 +252,7 @@
 ||golat.online^
 ||golditry.com^
 ||goodserchez.com^
+||google.com.gt^
 ||gorouslook.com^
 ||gotospares.com^
 ||grassroot.impact.centre.org^
@@ -309,6 +312,7 @@
 ||kadobarvapesstore.com^
 ||kapten178.com^
 ||karavvan.com^
+||kcexai.com^
 ||keencn.com^
 ||kefu.swapbit.top^
 ||kesan888.com^
@@ -456,6 +460,7 @@
 ||psschool.edu.bd^
 ||pulsepicks.pro^
 ||puregoodsfy.com^
+||qdiminers.com^
 ||qfsbackupassets.ltd^
 ||quantumdigitalmatket.com^
 ||quvrmh.com^
@@ -613,6 +618,7 @@
 ||videoperkstream.com^
 ||viemia.com^
 ||vigkes.shop^
+||vioratricot.com^
 ||volcminer.store^
 ||warehousesstores.com^
 ||warehouseudeals.com^
