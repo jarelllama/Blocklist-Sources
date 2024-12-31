@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.31.100058.2024
+! Version: 12.31.103408.2024
 ! Expires: 30 minutes
-! Last modified: Tue Dec 31 10:00:58 UTC 2024
+! Last modified: Tue Dec 31 10:34:08 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 614
+! Number of entries: 622
 ||1wqydy.top^
 ||2023brl.online^
 ||2040stage.online^
@@ -135,6 +135,7 @@
 ||com.513i.cfd^
 ||com.nx1t.cfd^
 ||com.rb45.cfd^
+||comic.hupshop.com^
 ||compare.deals.online.info^
 ||comprasdigitaisglobais.online^
 ||connectdefix.online^
@@ -306,6 +307,8 @@
 ||kijl.online^
 ||kirillviktoriawedding.online^
 ||kishka.co^
+||kleinanzeigen.de^
+||konigsbruder.com^
 ||kreed5425210621621.online^
 ||ksda.online.org^
 ||laboratoire.osmose.com^
@@ -413,6 +416,7 @@
 ||parisdocase.com^
 ||parkit.nc.com^
 ||partecularly.com^
+||pawns.app^
 ||peacheck.com^
 ||pedrosantosblog.online^
 ||pefctiordent.com^
@@ -466,6 +470,7 @@
 ||samsonitedeals.com^
 ||samsoniteoutlets.com^
 ||saotex.com^
+||sato.castle.com^
 ||savvyessence.com^
 ||sbk.trx1.com^
 ||sdx96.com^
@@ -494,6 +499,7 @@
 ||sohosquare.online^
 ||solanamining.net^
 ||solaxy.io^
+||sophie.paris.com^
 ||sos.bg.sof.1.exo.io^
 ||sparkflr.info^
 ||spinslot88won.online^
@@ -532,6 +538,7 @@
 ||tinfoil.io^
 ||titan13.com^
 ||tldindia.online^
+||tmgmoo.com^
 ||tofro.com^
 ||tokentrade.top^
 ||topflixtv.online^
@@ -559,6 +566,7 @@
 ||upayy.online^
 ||upizoneltd.com^
 ||uploadhaven.com^
+||urlsing.com^
 ||us.alpinestars.com^
 ||us.viiceemall.com^
 ||usahawanlg.my^
