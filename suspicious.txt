@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.31.093129.2024
+! Version: 12.31.100058.2024
 ! Expires: 30 minutes
-! Last modified: Tue Dec 31 09:31:29 UTC 2024
+! Last modified: Tue Dec 31 10:00:58 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 610
+! Number of entries: 614
 ||1wqydy.top^
 ||2023brl.online^
 ||2040stage.online^
@@ -170,6 +170,7 @@
 ||diptyque.shop^
 ||directoryofus.online^
 ||direktori.online^
+||discount.area.com^
 ||docs.connect.wallet.teachable.com^
 ||docs.shibariumtech.com^
 ||dogepick.io^
@@ -450,6 +451,7 @@
 ||resortburg.online^
 ||retoswap.com^
 ||retrofxmarkets.com^
+||ritoudown.com^
 ||robin.joy.com^
 ||rokinat.co.in^
 ||roll2x.com^
@@ -541,6 +543,7 @@
 ||traffictrack.online^
 ||trahia.com^
 ||trantnguyentech.store^
+||treatmeinty.com^
 ||trejoapp.com^
 ||tremvolknipi.online^
 ||trend.shop9.space^
@@ -617,4 +620,5 @@
 ||zeharris.online^
 ||zerocodeblock.com^
 ||zetdax.top^
+||zlibrary.to^
 ||zxzclitin.shop^
