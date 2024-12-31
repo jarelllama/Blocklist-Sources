@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.31.220057.2024
+! Version: 12.31.223237.2024
 ! Expires: 30 minutes
-! Last modified: Tue Dec 31 22:00:57 UTC 2024
+! Last modified: Tue Dec 31 22:32:37 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 695
+! Number of entries: 701
 ||1wqydy.top^
 ||2023brl.online^
 ||2040stage.online^
@@ -349,6 +349,7 @@
 ||lifesgoood.space^
 ||light.casino2024.online^
 ||lightchain.ai^
+||lightsha.com^
 ||limeremce.com^
 ||linkaa.cyou^
 ||linkgurd.online^
@@ -395,6 +396,7 @@
 ||monetoad.com^
 ||monnromall.com^
 ||mttathletics.com^
+||multiverse.retifications.netlify.app^
 ||mundoonline.link^
 ||mvknnd.online^
 ||mvrglobal.online^
@@ -493,6 +495,7 @@
 ||quvrmh.com^
 ||raceprep.site^
 ||radianters.com^
+||raineyeshadowguilty.com^
 ||ralkem.com^
 ||readermodeext.info^
 ||reallilya.com^
@@ -513,6 +516,7 @@
 ||royal.marines.online^
 ||royalmail.i78.xyz^
 ||rpmvape.com^
+||rpnodes.tech^
 ||sag.quantify.com^
 ||sagkjsd.com^
 ||sale.oggi.com^
@@ -558,6 +562,7 @@
 ||solanamining.net^
 ||solaxy.io^
 ||sophie.paris.com^
+||soportestreaming.online^
 ||sos.bg.sof.1.exo.io^
 ||sparkflr.info^
 ||spinslot88won.online^
@@ -630,6 +635,7 @@
 ||tymcra.com^
 ||typoair.com^
 ||uhbideal.store^
+||ulmire.com^
 ||umarinfomobiles.online^
 ||upayy.online^
 ||upizoneltd.com^
