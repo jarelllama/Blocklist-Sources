@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.31.230058.2024
+! Version: 12.31.233043.2024
 ! Expires: 30 minutes
-! Last modified: Tue Dec 31 23:00:58 UTC 2024
+! Last modified: Tue Dec 31 23:30:43 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 708
+! Number of entries: 716
 ||1wqydy.top^
 ||2023brl.online^
 ||2040stage.online^
@@ -30,6 +30,7 @@
 ||ahhaqq.com^
 ||aietftoken.com^
 ||airobotsmart.net^
+||aixomi.com^
 ||akurat33.com^
 ||alectomedia.online^
 ||alfianacendani.online^
@@ -95,6 +96,7 @@
 ||bikinibossmiamieu.com^
 ||bileerrero.shop^
 ||bioanalysis.lt^
+||bisalex.com^
 ||bit.binary.org^
 ||bitblockasset.com^
 ||bitcexpro.vip^
@@ -168,6 +170,7 @@
 ||cqzywhisper.shop^
 ||crsverify.online^
 ||cryptoids.info^
+||cryptoxwave.com^
 ||cuan66.co^
 ||cupomdepix.online^
 ||cursomarderesina.online^
@@ -399,6 +402,7 @@
 ||mkcgopdregistration.online^
 ||mkurtos.com^
 ||mncr.club^
+||mondiairelay.livraison.com^
 ||monetoad.com^
 ||monnromall.com^
 ||mttathletics.com^
@@ -593,6 +597,8 @@
 ||talklikesm.best^
 ||taqwapublications.com^
 ||tc126.xyz^
+||technozone.com.au^
+||tedexy.com^
 ||tenadex.com^
 ||tfalcon.online^
 ||thebestofferforyoutoday.online^
@@ -663,6 +669,7 @@
 ||vendorbroz.com^
 ||venotem.com^
 ||ventalor.com^
+||vepnext.com^
 ||vexunax.com^
 ||vexunox.com^
 ||vflmo.online^
@@ -694,6 +701,7 @@
 ||winfy.top^
 ||wmartrewards.com^
 ||wndzs.com^
+||woxdem.com^
 ||www.y2mate.com^
 ||xfnwnw.com^
 ||xmbroker.click^
