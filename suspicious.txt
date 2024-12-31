@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.31.083431.2024
+! Version: 12.31.090100.2024
 ! Expires: 30 minutes
-! Last modified: Tue Dec 31 08:34:31 UTC 2024
+! Last modified: Tue Dec 31 09:01:00 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 603
+! Number of entries: 607
 ||1wqydy.top^
 ||2023brl.online^
 ||2040stage.online^
@@ -89,6 +89,7 @@
 ||bithub.bot^
 ||bitzoy.com^
 ||bmwstore.eu.com^
+||bondicurls.com^
 ||bookmarkfc.info^
 ||bostakingu.com^
 ||bphash.top^
@@ -272,6 +273,7 @@
 ||incart.co.za^
 ||indpeapract.cfd^
 ||insightdreams.online^
+||inspirighty.com^
 ||inter.entregas.online^
 ||ipctd.online^
 ||iranfinance.info^
@@ -525,6 +527,7 @@
 ||tiffanymart.site^
 ||tiktokshopte.com^
 ||tinfoil.io^
+||titan13.com^
 ||tldindia.online^
 ||tofro.com^
 ||tokentrade.top^
@@ -587,6 +590,7 @@
 ||wegovy.shop.online^
 ||welovegenshinimpact.com^
 ||wheelpg777.online^
+||wheybit.com^
 ||williamarnold.online^
 ||windcapitalsinfo.us^
 ||winfy.top^
