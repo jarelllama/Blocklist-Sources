@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.31.000153.2024
+! Version: 12.31.004524.2024
 ! Expires: 30 minutes
-! Last modified: Tue Dec 31 00:01:53 UTC 2024
+! Last modified: Tue Dec 31 00:45:24 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 557
+! Number of entries: 561
 ||2023brl.online^
 ||2040stage.online^
 ||244buildschile.com^
@@ -161,6 +161,7 @@
 ||directoryofus.online^
 ||direktori.online^
 ||docs.connect.wallet.teachable.com^
+||docs.shibariumtech.com^
 ||dogepick.io^
 ||dogooddaldaadw.com^
 ||download.wondershare.net^
@@ -174,6 +175,7 @@
 ||dystarwears.com^
 ||earringssale.com^
 ||eclatlumiere.com^
+||edmxed66.com^
 ||egyptiantech.org^
 ||eldercity.xyz^
 ||elixrium.online^
@@ -205,6 +207,7 @@
 ||foundationrepair0407.online^
 ||foundationrepair3009.online^
 ||frontbulletin.com^
+||fudianbank.win^
 ||funcapsnl.com^
 ||fundxrecover.com^
 ||fungretail.shop^
@@ -433,6 +436,7 @@
 ||securedjointnetwork.co.in^
 ||sedonainvestments.co.uk^
 ||setes.live^
+||sfardlanka.com^
 ||shedrickcdigital.pro^
 ||shopeevip.shop^
 ||shoponlinesale.shop^
