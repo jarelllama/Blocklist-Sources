@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.01.070101.2025
+! Version: 01.01.073052.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  1 07:01:01 UTC 2025
+! Last modified: Wed Jan  1 07:30:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 775
+! Number of entries: 780
 ||1wqydy.top^
 ||1xbet.com^
 ||2023brl.online^
@@ -25,6 +25,7 @@
 ||account.cardplus.cc^
 ||achadosonline2790.com^
 ||acrossfold.com^
+||addressfinancial.com^
 ||adgkj.com^
 ||adminpg.online^
 ||affiliatemarketlite.com^
@@ -44,6 +45,7 @@
 ||altano.store^
 ||alwaysfindonline.shop^
 ||amalbio.shop^
+||amazingfindsonline.com^
 ||amaznmarket.shop^
 ||amazonsellersappeal.com^
 ||amgesic.com^
@@ -459,6 +461,7 @@
 ||nodelyai.org^
 ||nodepay.ai^
 ||nomisite8.online^
+||norionbusiness.top^
 ||noveraxcapital.com^
 ||nowmining.fun^
 ||obalaso.online^
@@ -555,6 +558,7 @@
 ||resortburg.online^
 ||retoswap.com^
 ||retrofxmarkets.com^
+||reventa.co^
 ||ritoudown.com^
 ||robin.joy.com^
 ||rokinat.co.in^
@@ -757,6 +761,7 @@
 ||wndzs.com^
 ||womoke.com^
 ||woxdem.com^
+||wwtchain.top^
 ||www.y2mate.com^
 ||xanarx.live^
 ||xdopig.com^
