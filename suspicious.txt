@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.01.090105.2025
+! Version: 01.01.093137.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  1 09:01:05 UTC 2025
+! Last modified: Wed Jan  1 09:31:37 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 794
+! Number of entries: 799
 ||1wqydy.top^
 ||1xbet.com^
 ||2023brl.online^
@@ -129,11 +129,13 @@
 ||briansclub.cm.shop^
 ||btc913.com^
 ||btc933.com^
+||btcotcvip.net^
 ||buenomarket.store^
 ||bulanjitu.org^
 ||buletboard.com^
 ||bursaelitescorthatun.com^
 ||buyado.de^
+||bveusdt.com^
 ||caminoverdadyvida.online^
 ||canconsulting.in^
 ||car.zhouznq.cn^
@@ -302,6 +304,7 @@
 ||google.com.gt^
 ||gorouslook.com^
 ||gotospares.com^
+||gptaiminds.com^
 ||grassroot.impact.centre.org^
 ||griefquotes.xyz^
 ||grindsoft.com^
@@ -346,6 +349,7 @@
 ||inspirighty.com^
 ||inter.entregas.online^
 ||ipctd.online^
+||iqmind.co^
 ||iranfinance.info^
 ||iris.tech.online^
 ||itau.com.py^
@@ -764,6 +768,7 @@
 ||wegmansmall.shop^
 ||wegovy.shop.online^
 ||welovegenshinimpact.com^
+||wfoqfashion.shop^
 ||wheelpg777.online^
 ||wheybit.com^
 ||williamarnold.online^
