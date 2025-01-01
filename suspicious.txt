@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 12.31.233043.2024
+! Version: 01.01.000202.2025
 ! Expires: 30 minutes
-! Last modified: Tue Dec 31 23:30:43 UTC 2024
+! Last modified: Wed Jan  1 00:02:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 716
+! Number of entries: 726
 ||1wqydy.top^
 ||2023brl.online^
 ||2040stage.online^
@@ -42,6 +42,7 @@
 ||amalbio.shop^
 ||amaznmarket.shop^
 ||amazonsellersappeal.com^
+||amgesic.com^
 ||amzkdt.online^
 ||angelicstoragebv.com^
 ||angiechew.online^
@@ -79,6 +80,7 @@
 ||bbc.tv.org^
 ||bcapstaking.com^
 ||bdjf2ls.com^
+||beastter.com^
 ||beat.sticker.online^
 ||bedtige.top^
 ||bekerja.online^
@@ -104,6 +106,7 @@
 ||bitcoinfreemining.com^
 ||bitharvest.io^
 ||bithub.bot^
+||bitzealy.com^
 ||bitzoy.com^
 ||blue798798.com^
 ||bmwstore.eu.com^
@@ -394,6 +397,7 @@
 ||mayzik.com^
 ||meb.budget.com^
 ||mednakit.com^
+||memubit.com^
 ||metatrader5.com^
 ||methodeversohnungvonbeziehungen.online^
 ||metodolog.online^
@@ -484,6 +488,7 @@
 ||pityeon.com^
 ||playfortune.cc^
 ||pnusaa.com^
+||pokexperiment.com^
 ||policja.pl112.online^
 ||poseidoncoin.top^
 ||poudresdenarco.com^
@@ -585,6 +590,7 @@
 ||startingstrong.life^
 ||stavelux.net^
 ||steamcomumnitty.com^
+||stonxdex.com^
 ||store.belgianshop.com^
 ||storeyork.com.mx^
 ||subscribelg.my^
@@ -680,6 +686,8 @@
 ||vigkes.shop^
 ||vioratricot.com^
 ||volcminer.store^
+||votelya.com^
+||wagexera.com^
 ||warehousesstores.com^
 ||warehouseudeals.com^
 ||warunggolkuat.online^
@@ -690,6 +698,7 @@
 ||wealthassets.app^
 ||wealthbaseinvestment.com^
 ||web3.gpt.shop^
+||wedexy.com^
 ||weetarget.online^
 ||wegmansmall.shop^
 ||wegovy.shop.online^
@@ -699,6 +708,7 @@
 ||williamarnold.online^
 ||windcapitalsinfo.us^
 ||winfy.top^
+||wizonex.com^
 ||wmartrewards.com^
 ||wndzs.com^
 ||woxdem.com^
