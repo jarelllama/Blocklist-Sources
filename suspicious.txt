@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.01.190052.2025
+! Version: 01.01.193055.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  1 19:00:52 UTC 2025
+! Last modified: Wed Jan  1 19:30:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 837
+! Number of entries: 841
 ||1wqydy.top^
 ||1xbet.com^
 ||2023brl.online^
@@ -76,6 +76,7 @@
 ||aubuds.com^
 ||auroracherie.com^
 ||auth.mashash.co^
+||auto.downloads.com^
 ||autotracksolution.com^
 ||avalontrdpro.com^
 ||aviation.ancienne.forumactif.com^
@@ -182,6 +183,7 @@
 ||cobaltsunsetberry.xyz^
 ||cobatis.sm.com^
 ||code.getoffus.site^
+||coin.go.in^
 ||coinebc.com^
 ||com.513i.cfd^
 ||com.nx1t.cfd^
@@ -574,6 +576,7 @@
 ||procim.online^
 ||productonline.cloud^
 ||projectplaygroundtech.com^
+||propandcounterfietmoney.com^
 ||propfirmpassingservice.net^
 ||proswapex.com^
 ||proteinbestsell.com^
@@ -692,6 +695,7 @@
 ||sunbit.ren^
 ||sundararajanneurohospital.com^
 ||surfing777.online^
+||survyhelp.com^
 ||synthealth.com^
 ||talentstreamnet.com^
 ||talklikesm.best^
