@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.01.043410.2025
+! Version: 01.01.050059.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  1 04:34:10 UTC 2025
+! Last modified: Wed Jan  1 05:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 757
+! Number of entries: 761
 ||1wqydy.top^
 ||2023brl.online^
 ||2040stage.online^
@@ -38,6 +38,7 @@
 ||all.chems.com^
 ||allicross.online^
 ||alo88.black^
+||alppouchh.com^
 ||altano.store^
 ||alwaysfindonline.shop^
 ||amalbio.shop^
@@ -64,6 +65,7 @@
 ||atamedya.shop^
 ||atb14.com^
 ||atlaspays.com^
+||aubuds.com^
 ||auroracherie.com^
 ||auth.mashash.co^
 ||autotracksolution.com^
@@ -552,6 +554,7 @@
 ||royalmail.i78.xyz^
 ||rpmvape.com^
 ||rpnodes.tech^
+||s.dz.com^
 ||sag.quantify.com^
 ||sagkjsd.com^
 ||sale.oggi.com^
@@ -742,6 +745,7 @@
 ||woxdem.com^
 ||www.y2mate.com^
 ||xanarx.live^
+||xdopig.com^
 ||xfnwnw.com^
 ||xmbroker.click^
 ||xpertlex.online^
