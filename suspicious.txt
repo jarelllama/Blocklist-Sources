@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.01.183508.2025
+! Version: 01.01.190052.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  1 18:35:08 UTC 2025
+! Last modified: Wed Jan  1 19:00:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 832
+! Number of entries: 837
 ||1wqydy.top^
 ||1xbet.com^
 ||2023brl.online^
@@ -54,6 +54,7 @@
 ||angelicstoragebv.com^
 ||angiechew.online^
 ||annuallye.com^
+||anshela.com^
 ||apanharwatch.com^
 ||apkft.xyz^
 ||apkhot.xyz^
@@ -216,6 +217,7 @@
 ||dcard50.ru^
 ||ddsteel.online^
 ||demogamingsalam123.online^
+||deniise.com^
 ||dentalclinicgreaternoida.com^
 ||devzone2.online^
 ||dex.trade.global^
@@ -316,6 +318,7 @@
 ||go.alphalamenace.com^
 ||golat.online^
 ||golditry.com^
+||gominer.net^
 ||goodserchez.com^
 ||google.com.gt^
 ||gorouslook.com^
@@ -371,6 +374,7 @@
 ||itau.com.py^
 ||itsssl.com^
 ||iujuc.shop^
+||iuredd.com^
 ||iyilikler.online^
 ||jaysranchhamden.online^
 ||joanonline.shop^
@@ -580,6 +584,7 @@
 ||pumacolombia.net^
 ||puregoodsfy.com^
 ||q.usdnba.cc^
+||qcstar.com^
 ||qdiminers.com^
 ||qfsbackupassets.ltd^
 ||quantumdigitalmatket.com^
