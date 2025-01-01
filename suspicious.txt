@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.01.180055.2025
+! Version: 01.01.183508.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  1 18:00:55 UTC 2025
+! Last modified: Wed Jan  1 18:35:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 827
+! Number of entries: 832
 ||1wqydy.top^
 ||1xbet.com^
 ||2023brl.online^
@@ -68,6 +68,7 @@
 ||artwareworld.com^
 ||asap777.online^
 ||asiacargo.online^
+||assetxchangee.com^
 ||atamedya.shop^
 ||atb14.com^
 ||atlaspays.com^
@@ -247,6 +248,7 @@
 ||eaglecrestonline.com^
 ||earncrash.in^
 ||earringssale.com^
+||easyrcashdae.buzz^
 ||eclatlumiere.com^
 ||eddyconstructions.com^
 ||edmxed66.com^
@@ -382,6 +384,7 @@
 ||justanothercarpenter.online^
 ||justinyourhead.online^
 ||justwatch.com^
+||jysk.online.com^
 ||jysk.sale.com^
 ||kadobarvapesstore.com^
 ||kapten178.com^
@@ -441,6 +444,7 @@
 ||m.pocketoption.com^
 ||mablehelp.online^
 ||mahadev.id.online^
+||mainelobsterget.shop^
 ||mainelobstersstore.com^
 ||maisonjardina.com^
 ||mallprix.com^
@@ -787,6 +791,7 @@
 ||washerdryer.my^
 ||wavytalkza.store^
 ||waxx.network^
+||wayestyle.store^
 ||wbocash.online^
 ||wealthassets.app^
 ||wealthbaseinvestment.com^
