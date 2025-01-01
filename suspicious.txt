@@ -3,12 +3,13 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.01.063646.2025
+! Version: 01.01.070101.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  1 06:36:46 UTC 2025
+! Last modified: Wed Jan  1 07:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 769
+! Number of entries: 775
 ||1wqydy.top^
+||1xbet.com^
 ||2023brl.online^
 ||2040stage.online^
 ||244buildschile.com^
@@ -38,6 +39,7 @@
 ||all.chems.com^
 ||allicross.online^
 ||alo88.black^
+||aloidvg.com^
 ||alppouchh.com^
 ||altano.store^
 ||alwaysfindonline.shop^
@@ -302,6 +304,7 @@
 ||h5.amengine.top^
 ||h5.doieu.com^
 ||harveylux.com^
+||hashfactor.net^
 ||hello.hello.site^
 ||henglai.online^
 ||hermez4dx500.com^
@@ -327,6 +330,7 @@
 ||in.tmwn.online^
 ||inamksa.icu^
 ||incart.co.za^
+||inclutde.com^
 ||indpeapract.cfd^
 ||informed.deliveryqbnsk.top^
 ||insightdreams.online^
@@ -337,6 +341,7 @@
 ||iris.tech.online^
 ||itau.com.py^
 ||itsssl.com^
+||iujuc.shop^
 ||iyilikler.online^
 ||jaysranchhamden.online^
 ||johncrestani.online.com^
@@ -697,6 +702,7 @@
 ||urefie.net^
 ||urlsing.com^
 ||us.alpinestars.com^
+||us.amtmodels.com^
 ||us.viiceemall.com^
 ||usahawanlg.my^
 ||usdpick.io^
