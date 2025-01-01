@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.01.040057.2025
+! Version: 01.01.043410.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  1 04:00:57 UTC 2025
+! Last modified: Wed Jan  1 04:34:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 752
+! Number of entries: 757
 ||1wqydy.top^
 ||2023brl.online^
 ||2040stage.online^
@@ -221,6 +221,7 @@
 ||dvdsociety.shop^
 ||dystarwears.com^
 ||eaglecrestonline.com^
+||earncrash.in^
 ||earringssale.com^
 ||eclatlumiere.com^
 ||edmxed66.com^
@@ -471,6 +472,7 @@
 ||onlineotizmdanisma.com^
 ||onlinestoretechshop.com^
 ||onlinewealthmantra.com^
+||onlyterrific.com^
 ||optnutritips.com^
 ||orionbitmarket.online^
 ||ourruless.store^
@@ -486,6 +488,7 @@
 ||pairrelax.com^
 ||palliee.com^
 ||palloda.com^
+||paramediavideo.blogspot.com^
 ||parisdocase.com^
 ||parkit.nc.com^
 ||partecularly.com^
@@ -500,6 +503,7 @@
 ||pippopet.store^
 ||pityeon.com^
 ||playfortune.cc^
+||pledgeoffers.com^
 ||pnusaa.com^
 ||pokexperiment.com^
 ||policja.pl112.online^
@@ -676,6 +680,7 @@
 ||uhbideal.store^
 ||ulmire.com^
 ||umarinfomobiles.online^
+||uniquepropertygroup.co.uk^
 ||upayy.online^
 ||upizoneltd.com^
 ||uploadhaven.com^
