@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.01.080057.2025
+! Version: 01.01.083429.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  1 08:00:57 UTC 2025
+! Last modified: Wed Jan  1 08:34:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 783
+! Number of entries: 791
 ||1wqydy.top^
 ||1xbet.com^
 ||2023brl.online^
@@ -109,6 +109,7 @@
 ||bioanalysis.lt^
 ||bisalex.com^
 ||bit.binary.org^
+||bit.stocks.com^
 ||bitblockasset.com^
 ||bitcexpro.vip^
 ||bitcoin.laundry2.net^
@@ -119,6 +120,7 @@
 ||bitzoy.com^
 ||blue798798.com^
 ||bmwstore.eu.com^
+||bnextrade.com^
 ||bondicurls.com^
 ||bookmarkfc.info^
 ||bostakingu.com^
@@ -223,6 +225,7 @@
 ||drapehue.com^
 ||drawmaniauk.shop^
 ||dreamcazin.com^
+||drivesafeinspects.com^
 ||drmartensnews.com^
 ||du.fastopay.my.uae.com^
 ||dvdsociety.shop^
@@ -257,6 +260,7 @@
 ||f2pool.com^
 ||falalamxn.vip^
 ||faredglorias.com^
+||fasdja.com^
 ||fastbrush.online^
 ||fedilitylogistics.com^
 ||fic.cc^
@@ -347,6 +351,7 @@
 ||iujuc.shop^
 ||iyilikler.online^
 ||jaysranchhamden.online^
+||joanonline.shop^
 ||johncrestani.online.com^
 ||joingy.online^
 ||jollypulse.co.in^
@@ -368,6 +373,7 @@
 ||kesngg.com^
 ||kesngl.com^
 ||khipp.com^
+||kickscrew.com^
 ||kijl.online^
 ||kirillviktoriawedding.online^
 ||kishka.co^
@@ -523,6 +529,7 @@
 ||playfortune.cc^
 ||pledgeoffers.com^
 ||pnusaa.com^
+||pokebooster.fr^
 ||pokexperiment.com^
 ||policja.pl112.online^
 ||poseidoncoin.top^
@@ -675,6 +682,7 @@
 ||topflixtv.online^
 ||topsmanings.top^
 ||topthingsinlife.com^
+||topvibes.top^
 ||tozc.online^
 ||tqwin.online^
 ||track.ptctt.com^
