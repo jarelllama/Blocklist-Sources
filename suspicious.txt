@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.01.203144.2025
+! Version: 01.01.210055.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  1 20:31:44 UTC 2025
+! Last modified: Wed Jan  1 21:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 850
+! Number of entries: 855
 ||1wqydy.top^
 ||1xbet.com^
 ||2023brl.online^
@@ -301,6 +301,7 @@
 ||foundryusa.com^
 ||frontbulletin.com^
 ||fudianbank.win^
+||fulenix.com^
 ||funcapsnl.com^
 ||fundxrecover.com^
 ||fungretail.shop^
@@ -342,6 +343,7 @@
 ||harveylux.com^
 ||hashfactor.net^
 ||hello.hello.site^
+||helps.sbs^
 ||henglai.online^
 ||hermez4dx500.com^
 ||hianime.to^
@@ -431,6 +433,7 @@
 ||linkaa.cyou^
 ||linkgurd.online^
 ||linkmcltogel3.org^
+||lipozemus.com^
 ||lippizapatillaes.shop^
 ||liveccvv.mp^
 ||lmhous.net^
@@ -702,6 +705,7 @@
 ||sundararajanneurohospital.com^
 ||surfing777.online^
 ||survyhelp.com^
+||swiftfinverge.com^
 ||synthealth.com^
 ||talentstreamnet.com^
 ||talklikesm.best^
@@ -793,6 +797,7 @@
 ||vepnext.com^
 ||vexunax.com^
 ||vexunox.com^
+||vflcsz.info^
 ||vflmo.online^
 ||video.earns.top^
 ||video4k.site^
