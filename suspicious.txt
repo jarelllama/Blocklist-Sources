@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.01.000202.2025
+! Version: 01.01.004537.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  1 00:02:02 UTC 2025
+! Last modified: Wed Jan  1 00:45:37 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 726
+! Number of entries: 736
 ||1wqydy.top^
 ||2023brl.online^
 ||2040stage.online^
@@ -137,6 +137,7 @@
 ||chalaorry.shop^
 ||changeip.net^
 ||cheqseep.online^
+||citxion.top^
 ||cleanquest.xyz^
 ||cled.euteschan.top^
 ||clever.buffalo.pejrxqol.sandboxcms.com^
@@ -232,6 +233,7 @@
 ||enerpinpellets.shop^
 ||enjoy99.org^
 ||entrustify.co.in^
+||erybdu.com^
 ||eschallengersmode.com^
 ||esquentabet.online^
 ||establishmentlottery.top^
@@ -314,6 +316,7 @@
 ||inamksa.icu^
 ||incart.co.za^
 ||indpeapract.cfd^
+||informed.deliveryqbnsk.top^
 ||insightdreams.online^
 ||inspirighty.com^
 ||inter.entregas.online^
@@ -368,6 +371,7 @@
 ||linkmcltogel3.org^
 ||lippizapatillaes.shop^
 ||liveccvv.mp^
+||lmhous.net^
 ||lockheed3.com^
 ||longchampespana.cc^
 ||lootbar.gg^
@@ -464,6 +468,8 @@
 ||orionbitmarket.online^
 ||ourruless.store^
 ||outfitloft.com^
+||overep.com^
+||owfori.net^
 ||p2btradehubx.info^
 ||padelofficiel.com^
 ||pages.tempisite.com^
@@ -513,6 +519,7 @@
 ||raineyeshadowguilty.com^
 ||ralkem.com^
 ||rapidtransitmodels.com^
+||rdapie.net^
 ||readermodeext.info^
 ||reallilya.com^
 ||reddit.streams.online^
@@ -622,6 +629,7 @@
 ||tiffanymart.site^
 ||tiktokshopte.com^
 ||tinfoil.io^
+||tionoc.net^
 ||titan13.com^
 ||tldindia.online^
 ||tmgmoo.com^
@@ -648,6 +656,7 @@
 ||trolleytimes.online^
 ||tronholdingsllc.com^
 ||tronminingfarm.com^
+||tructi.com^
 ||trustgreenfirm.live^
 ||trx.earning.pro^
 ||twiney.shop^
@@ -659,6 +668,7 @@
 ||upayy.online^
 ||upizoneltd.com^
 ||uploadhaven.com^
+||urefie.net^
 ||urlsing.com^
 ||us.alpinestars.com^
 ||us.viiceemall.com^
