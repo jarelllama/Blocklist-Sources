@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.01.012819.2025
+! Version: 01.01.020716.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  1 01:28:19 UTC 2025
+! Last modified: Wed Jan  1 02:07:16 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 737
+! Number of entries: 746
 ||1wqydy.top^
 ||2023brl.online^
 ||2040stage.online^
@@ -134,6 +134,7 @@
 ||cbex.cx^
 ||cbex3.com^
 ||celebprize.com^
+||cenutix.com^
 ||chalaorry.shop^
 ||changeip.net^
 ||cheqseep.online^
@@ -172,6 +173,7 @@
 ||cosometaldetector.com^
 ||couturedrift.com^
 ||cqzywhisper.shop^
+||cripexbit.com^
 ||crsverify.online^
 ||cryptoids.info^
 ||cryptoxwave.com^
@@ -298,6 +300,7 @@
 ||hireuphelp.online^
 ||hm.ru^
 ||hollden.shop^
+||holonova.store^
 ||homebaseinuk.com^
 ||homersimpson.fun^
 ||honey.bee.iptv.com^
@@ -505,6 +508,7 @@
 ||productonline.cloud^
 ||projectplaygroundtech.com^
 ||propfirmpassingservice.net^
+||proswapex.com^
 ||proveedor.io^
 ||psicologiaencasa.online^
 ||psschool.edu.bd^
@@ -719,11 +723,14 @@
 ||williamarnold.online^
 ||windcapitalsinfo.us^
 ||winfy.top^
+||wittweidende.store^
 ||wizonex.com^
 ||wmartrewards.com^
 ||wndzs.com^
+||womoke.com^
 ||woxdem.com^
 ||www.y2mate.com^
+||xanarx.live^
 ||xfnwnw.com^
 ||xmbroker.click^
 ||xpertlex.online^
@@ -732,6 +739,7 @@
 ||xtremediscount.net^
 ||xvkdfashion.shop^
 ||xyzverse.io^
+||yocart.vip^
 ||yomovies1.skin^
 ||youareanidiot.org^
 ||yourwebarmorsolutions.com^
@@ -744,4 +752,5 @@
 ||zerocodeblock.com^
 ||zetdax.top^
 ||zlibrary.to^
+||zorunex.com^
 ||zxzclitin.shop^
