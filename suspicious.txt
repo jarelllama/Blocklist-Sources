@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.01.053309.2025
+! Version: 01.01.060102.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  1 05:33:09 UTC 2025
+! Last modified: Wed Jan  1 06:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 762
+! Number of entries: 766
 ||1wqydy.top^
 ||2023brl.online^
 ||2040stage.online^
@@ -48,6 +48,7 @@
 ||amzkdt.online^
 ||angelicstoragebv.com^
 ||angiechew.online^
+||annuallye.com^
 ||apanharwatch.com^
 ||apkft.xyz^
 ||apkhot.xyz^
@@ -226,6 +227,7 @@
 ||earncrash.in^
 ||earringssale.com^
 ||eclatlumiere.com^
+||eddyconstructions.com^
 ||edmxed66.com^
 ||egyptiantech.org^
 ||eileenfisher.us.com^
@@ -417,6 +419,7 @@
 ||metodolog.online^
 ||metropolidata.com^
 ||mimosabarkhaven.com^
+||mjir.shop^
 ||mkcgopdregistration.online^
 ||mkurtos.com^
 ||mncr.club^
@@ -701,6 +704,7 @@
 ||validatemypimainnetwallet.online^
 ||valueversion.com^
 ||vc66.net^
+||velogisc.com^
 ||venarose.online^
 ||vendorbroz.com^
 ||venotem.com^
