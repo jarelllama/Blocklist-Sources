@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.01.193055.2025
+! Version: 01.01.200059.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  1 19:30:55 UTC 2025
+! Last modified: Wed Jan  1 20:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 841
+! Number of entries: 847
 ||1wqydy.top^
 ||1xbet.com^
 ||2023brl.online^
@@ -109,6 +109,7 @@
 ||bigsales.top^
 ||bikinibossmiamieu.com^
 ||bileerrero.shop^
+||bingo.ba^
 ||bio.drop.com^
 ||bioanalysis.lt^
 ||bisalex.com^
@@ -418,6 +419,7 @@
 ||leakrepair30091.online^
 ||ledsmdlight.com^
 ||lfj.gg^
+||lidifitnessam.eu.shop^
 ||lifesgoood.space^
 ||light.casino2024.online^
 ||lightchain.ai^
@@ -461,6 +463,7 @@
 ||meb.budget.com^
 ||mednakit.com^
 ||memubit.com^
+||meta.cafe.net^
 ||metatrader5.com^
 ||methodeversohnungvonbeziehungen.online^
 ||metodolog.online^
@@ -708,6 +711,7 @@
 ||thebestofferforyoutoday.online^
 ||thecapitalholdings.io^
 ||thedollar.online^
+||thefurniturestudio.store^
 ||thehygienefree.top^
 ||theleolab.online^
 ||thenorthernlabs.com^
@@ -749,9 +753,11 @@
 ||tronholdingsllc.com^
 ||tronminingfarm.com^
 ||tructi.com^
+||trustedvincheck.com^
 ||trustgreenfirm.live^
 ||trustphin.com^
 ||trx.earning.pro^
+||tsauvip.ing^
 ||twiney.shop^
 ||tymcra.com^
 ||typoair.com^
