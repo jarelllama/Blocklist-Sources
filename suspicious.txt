@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.02.073103.2025
+! Version: 01.02.080102.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  2 07:31:03 UTC 2025
+! Last modified: Thu Jan  2 08:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 890
+! Number of entries: 898
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -24,6 +24,7 @@
 ||aboutamir.com^
 ||acceleratew.com^
 ||account.cardplus.cc^
+||acessoftog.com^
 ||achadosonline2790.com^
 ||acrossfold.com^
 ||addressfinancial.com^
@@ -280,6 +281,7 @@
 ||emetom.com^
 ||empiric.online^
 ||encomendas.importacao.online^
+||enegsseinvestmentteam.info^
 ||enerpinpellets.shop^
 ||enjoy99.org^
 ||entrustify.co.in^
@@ -447,6 +449,7 @@
 ||lexingtonhazelwoodstylist.com^
 ||lfj.gg^
 ||lidifitnessam.eu.shop^
+||lifeproofsales.com^
 ||lifesgoood.space^
 ||light.casino2024.online^
 ||lightchain.ai^
@@ -587,6 +590,7 @@
 ||peacheck.com^
 ||pedrosantosblog.online^
 ||pefctiordent.com^
+||penetratea.com^
 ||petermillarsale.shop^
 ||pg77.game^
 ||phillipa.online^
@@ -654,6 +658,7 @@
 ||rpmvape.com^
 ||rpnodes.tech^
 ||rugbywow.com^
+||russesale.shop^
 ||s.dz.com^
 ||safeapk.net^
 ||sag.quantify.com^
@@ -705,6 +710,7 @@
 ||softgama.online^
 ||sohosquare.online^
 ||solanamining.net^
+||solarhude.com^
 ||solaxy.io^
 ||somolarlp.com^
 ||sophie.paris.com^
@@ -860,6 +866,7 @@
 ||wfoqfashion.shop^
 ||wheelpg777.online^
 ||wheybit.com^
+||whmcmanus.shop^
 ||williamarnold.online^
 ||windcapitalsinfo.us^
 ||winfy.top^
@@ -896,5 +903,6 @@
 ||zetdax.top^
 ||zlibrary.to^
 ||zorunex.com^
+||ztxzhb.shop^
 ||zxzclitin.shop^
 ||zyxelia.com^
