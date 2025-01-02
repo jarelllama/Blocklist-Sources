@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.02.190056.2025
+! Version: 01.02.193056.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  2 19:00:56 UTC 2025
+! Last modified: Thu Jan  2 19:30:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 959
+! Number of entries: 965
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -328,6 +328,7 @@
 ||flexswiftways.online^
 ||fluctz.xyz^
 ||forbiddenpant.com^
+||forge.wallet.com^
 ||foundationrepair0407.online^
 ||foundationrepair3009.online^
 ||foundryusa.com^
@@ -423,6 +424,7 @@
 ||iqmind.co^
 ||iranfinance.info^
 ||iris.tech.online^
+||itactivejobs.xyz^
 ||itau.com.py^
 ||itsemelf.com^
 ||itsssl.com^
@@ -731,6 +733,7 @@
 ||senso.cat^
 ||setes.live^
 ||sfardlanka.com^
+||shamfreshen.com^
 ||shedrickcdigital.pro^
 ||shinelyjews.shop^
 ||shopeevip.shop^
@@ -738,6 +741,7 @@
 ||shorturl.at^
 ||signalarchitects.cloud^
 ||simon.frei.pc.online^
+||singingfiles.com^
 ||sinneery.com^
 ||sinxed.com^
 ||sk5698.com^
@@ -855,6 +859,7 @@
 ||tzoneip.vip^
 ||uehdspecial.shop^
 ||uhbideal.store^
+||ukhomebase.com^
 ||ulmire.com^
 ||umarinfomobiles.online^
 ||undressbaby.com^
@@ -923,6 +928,7 @@
 ||wegovy.shop.online^
 ||welovegenshinimpact.com^
 ||wfoqfashion.shop^
+||wftqatar.com^
 ||wheelpg777.online^
 ||wheybit.com^
 ||whmcmanus.shop^
