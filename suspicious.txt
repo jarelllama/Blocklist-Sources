@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.02.203152.2025
+! Version: 01.02.210059.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  2 20:31:52 UTC 2025
+! Last modified: Thu Jan  2 21:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 973
+! Number of entries: 977
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -293,6 +293,7 @@
 ||emetom.com^
 ||empiric.online^
 ||encomendas.importacao.online^
+||endeavourmarketing.global.vip^
 ||enegsseinvestmentteam.info^
 ||enerpinpellets.shop^
 ||enhanceprotocol.co.in^
@@ -328,6 +329,7 @@
 ||flexjobhubs.com^
 ||flexswiftways.online^
 ||fluctz.xyz^
+||flwoertime.de^
 ||forbiddenpant.com^
 ||forge.wallet.com^
 ||foundationrepair0407.online^
@@ -657,6 +659,7 @@
 ||policja.pl112.online^
 ||poseidoncoin.top^
 ||poudresdenarco.com^
+||powerelixir.online^
 ||powertools.market.com^
 ||primeinvest.app^
 ||pro.cion.com^
@@ -943,6 +946,7 @@
 ||williamarnold.online^
 ||windcapitalsinfo.us^
 ||winfy.top^
+||winviag.com^
 ||wittweidende.store^
 ||wizonex.com^
 ||wmartrewards.com^
