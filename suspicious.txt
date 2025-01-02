@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.02.070110.2025
+! Version: 01.02.073103.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  2 07:01:10 UTC 2025
+! Last modified: Thu Jan  2 07:31:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 884
+! Number of entries: 890
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -41,6 +41,7 @@
 ||alectomedia.online^
 ||alfianacendani.online^
 ||all.chems.com^
+||allianceroyals.com^
 ||allicross.online^
 ||alo88.black^
 ||aloidvg.com^
@@ -366,6 +367,7 @@
 ||hollden.shop^
 ||holonova.store^
 ||homebaseinuk.com^
+||homeika.com^
 ||homersimpson.fun^
 ||honey.bee.iptv.com^
 ||hotbtujeka.cc^
@@ -394,6 +396,7 @@
 ||iranfinance.info^
 ||iris.tech.online^
 ||itau.com.py^
+||itsemelf.com^
 ||itsssl.com^
 ||iujuc.shop^
 ||iuredd.com^
@@ -650,6 +653,7 @@
 ||royalmail.i78.xyz^
 ||rpmvape.com^
 ||rpnodes.tech^
+||rugbywow.com^
 ||s.dz.com^
 ||safeapk.net^
 ||sag.quantify.com^
@@ -681,6 +685,7 @@
 ||shopeevip.shop^
 ||shoponlinesale.shop^
 ||shorturl.at^
+||simon.frei.pc.online^
 ||sinneery.com^
 ||sinxed.com^
 ||sk5698.com^
@@ -701,6 +706,7 @@
 ||sohosquare.online^
 ||solanamining.net^
 ||solaxy.io^
+||somolarlp.com^
 ||sophie.paris.com^
 ||soportestreaming.online^
 ||sos.bg.sof.1.exo.io^
