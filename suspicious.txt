@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.02.180109.2025
+! Version: 01.02.183548.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  2 18:01:09 UTC 2025
+! Last modified: Thu Jan  2 18:35:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 951
+! Number of entries: 955
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -199,6 +199,7 @@
 ||cmail.com^
 ||cmarinfla.com^
 ||cmbet888.net^
+||cmodams.shop^
 ||cnkjhfyhposjmndh.378wugnima.shop^
 ||co.financing.cc^
 ||coach.factoryoutletonline.com^
@@ -375,6 +376,7 @@
 ||gunluksevilenkampanyalarsizlerle.online^
 ||h5.amengine.top^
 ||h5.doieu.com^
+||h5.koinexbit.com^
 ||hansen.oslo.com^
 ||harveylux.com^
 ||hashfactor.net^
@@ -415,6 +417,7 @@
 ||inter.entregas.online^
 ||investor.digiestate.online^
 ||ipctd.online^
+||iptvkaufen24.de^
 ||iqmind.co^
 ||iranfinance.info^
 ||iris.tech.online^
@@ -691,6 +694,7 @@
 ||rokinat.co.in^
 ||roll2x.com^
 ||roofing.services.fb.online^
+||roveaskin.fr^
 ||royal.marines.online^
 ||royalmail.i78.xyz^
 ||rpmvape.com^
