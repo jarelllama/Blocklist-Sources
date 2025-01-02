@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.02.110053.2025
+! Version: 01.02.113048.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  2 11:00:53 UTC 2025
+! Last modified: Thu Jan  2 11:30:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 914
+! Number of entries: 920
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -339,6 +339,7 @@
 ||gel9.online^
 ||genesisminingbot.com^
 ||geographz.com^
+||getdrant.shop^
 ||gfslsecurities.cc^
 ||gggwg.online^
 ||ghsyps.ca^
@@ -365,6 +366,7 @@
 ||gunluksevilenkampanyalarsizlerle.online^
 ||h5.amengine.top^
 ||h5.doieu.com^
+||hansen.oslo.com^
 ||harveylux.com^
 ||hashfactor.net^
 ||hello.hello.site^
@@ -402,6 +404,7 @@
 ||insightdreams.online^
 ||inspirighty.com^
 ||inter.entregas.online^
+||investor.digiestate.online^
 ||ipctd.online^
 ||iqmind.co^
 ||iranfinance.info^
@@ -501,6 +504,7 @@
 ||malltrabaho.online^
 ||marketing4solutionsblog.online^
 ||mavocossycloud.com^
+||mayer.boutique.de^
 ||mayzik.com^
 ||meb.budget.com^
 ||mednakit.com^
@@ -702,6 +706,7 @@
 ||shopeevip.shop^
 ||shoponlinesale.shop^
 ||shorturl.at^
+||signalarchitects.cloud^
 ||simon.frei.pc.online^
 ||sinneery.com^
 ||sinxed.com^
@@ -895,6 +900,7 @@
 ||wwtchain.top^
 ||www.y2mate.com^
 ||xanarx.live^
+||xapool.com^
 ||xdopig.com^
 ||xfnwnw.com^
 ||xmbroker.click^
