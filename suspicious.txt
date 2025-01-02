@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.02.230103.2025
+! Version: 01.02.233050.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  2 23:01:03 UTC 2025
+! Last modified: Thu Jan  2 23:30:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 983
+! Number of entries: 987
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -127,6 +127,7 @@
 ||bit.binary.org^
 ||bit.btc.com^
 ||bit.stocks.com^
+||bitantea.cc^
 ||bitblockasset.com^
 ||bitcexpro.vip^
 ||bitcoin.laundry2.net^
@@ -156,6 +157,7 @@
 ||bulanjitu.org^
 ||buletboard.com^
 ||bursaelitescorthatun.com^
+||burtoneu.shop^
 ||buyado.de^
 ||bveusdt.com^
 ||bybit.nidx.com^
@@ -239,6 +241,7 @@
 ||cyberhavenext.pro^
 ||cybex.360.com^
 ||dailytehillim.online^
+||dappschainapp.com^
 ||dbbjrhhn.guru^
 ||dcard50.ru^
 ||ddsteel.online^
@@ -433,6 +436,7 @@
 ||ipctd.online^
 ||iptvkaufen24.de^
 ||iqmind.co^
+||iralarkincoach.com^
 ||iranfinance.info^
 ||iris.tech.online^
 ||itactivejobs.xyz^
