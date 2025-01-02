@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.02.183548.2025
+! Version: 01.02.190056.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  2 18:35:48 UTC 2025
+! Last modified: Thu Jan  2 19:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 955
+! Number of entries: 959
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -306,6 +306,7 @@
 ||estarenergy.ltd^
 ||estherwinter.eu^
 ||eurovs.com^
+||euroyalexpress.com^
 ||eventscodm.com^
 ||exnori.com^
 ||expand.experts.com^
@@ -402,6 +403,7 @@
 ||htadz.online^
 ||hyph666.win^
 ||i.apple.com.tr^
+||iceriver.company^
 ||iconicinternational.online^
 ||idtumy.com^
 ||ilclawgroup.com^
@@ -588,6 +590,7 @@
 ||ondasvirtuais.online^
 ||oneclickmart.online^
 ||onefarm.pro^
+||onerosey.com^
 ||online.advertising.73412.bond^
 ||online.aktarmalar.hizmeti.store^
 ||online.courses.classes.21368.bond^
@@ -849,6 +852,7 @@
 ||twiney.shop^
 ||tymcra.com^
 ||typoair.com^
+||tzoneip.vip^
 ||uehdspecial.shop^
 ||uhbideal.store^
 ||ulmire.com^
