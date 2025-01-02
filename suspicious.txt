@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.02.173151.2025
+! Version: 01.02.180109.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  2 17:31:51 UTC 2025
+! Last modified: Thu Jan  2 18:01:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 946
+! Number of entries: 951
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -501,6 +501,8 @@
 ||luatypticures.co.in^
 ||lucky888.top^
 ||lulusafh.com^
+||luminassociate.com^
+||lushyedge.com^
 ||lwbbc.com^
 ||lylussplus.com^
 ||m.bitunixex.com^
@@ -658,6 +660,7 @@
 ||pumacolombia.net^
 ||puregoodsfy.com^
 ||q.usdnba.cc^
+||qalrlr.shop^
 ||qcstar.com^
 ||qdiminers.com^
 ||qfsbackupassets.ltd^
@@ -754,6 +757,7 @@
 ||soportestreaming.online^
 ||sos.bg.sof.1.exo.io^
 ||sparkflr.info^
+||special.sale.sbs^
 ||spinslot88won.online^
 ||sport.prints.online^
 ||sprunkiphase.online^
@@ -859,6 +863,7 @@
 ||usahawanlg.my^
 ||usahellyhansen.com^
 ||usdpick.io^
+||usdtbb.com^
 ||usdtmall.co^
 ||usdtworlds.com^
 ||useproakira.com^
