@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.02.140102.2025
+! Version: 01.02.143252.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  2 14:01:02 UTC 2025
+! Last modified: Thu Jan  2 14:32:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 927
+! Number of entries: 931
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -169,6 +169,7 @@
 ||catzilla.meme^
 ||caveysrestaurant.com^
 ||cbex.cx^
+||cbex18.com^
 ||cbex3.com^
 ||celebprize.com^
 ||cenutix.com^
@@ -194,6 +195,7 @@
 ||cmail.com^
 ||cmarinfla.com^
 ||cmbet888.net^
+||cnkjhfyhposjmndh.378wugnima.shop^
 ||co.financing.cc^
 ||coach.factoryoutletonline.com^
 ||cobaltsunsetberry.xyz^
@@ -545,6 +547,7 @@
 ||nestedfashion.com^
 ||netdcbf.com^
 ||newlearning.icu^
+||news.bgitagu.cc^
 ||news.bmeximu.cc^
 ||news.bmezele.cc^
 ||news.bmisubu.cc^
@@ -885,6 +888,7 @@
 ||wealthassets.app^
 ||wealthbaseinvestment.com^
 ||web3.gpt.shop^
+||web3.olmaxsc.com^
 ||wedexy.com^
 ||weetarget.online^
 ||wegmansmall.shop^
