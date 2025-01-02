@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.02.090104.2025
+! Version: 01.02.093146.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  2 09:01:04 UTC 2025
+! Last modified: Thu Jan  2 09:31:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 902
+! Number of entries: 906
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -112,6 +112,7 @@
 ||biglotsclosures.com^
 ||biglotsshoppingplaza.com^
 ||biglotsusa.sale.com^
+||bigminings.org^
 ||bigminings.pro^
 ||bigsales.top^
 ||bikinibossmiamieu.com^
@@ -474,6 +475,7 @@
 ||lourdeswestleyhawk.org^
 ||lovemyparfum.com^
 ||lpr.articlefindpro.com^
+||ltcautomining.com^
 ||ltcpay.net^
 ||ltcxminer.pro^
 ||luatypticures.co.in^
@@ -690,6 +692,7 @@
 ||setes.live^
 ||sfardlanka.com^
 ||shedrickcdigital.pro^
+||shinelyjews.shop^
 ||shopeevip.shop^
 ||shoponlinesale.shop^
 ||shorturl.at^
@@ -847,6 +850,7 @@
 ||viemia.com^
 ||vigkes.shop^
 ||vioratricot.com^
+||viviokko.com^
 ||volcminer.store^
 ||votelya.com^
 ||wagexera.com^
