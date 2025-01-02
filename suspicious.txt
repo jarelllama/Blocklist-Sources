@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.02.060107.2025
+! Version: 01.02.063605.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  2 06:01:07 UTC 2025
+! Last modified: Thu Jan  2 06:36:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 876
+! Number of entries: 880
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -145,6 +145,7 @@
 ||btc933.com^
 ||btcotcvip.net^
 ||buenomarket.store^
+||builderall.net^
 ||bulanjitu.org^
 ||buletboard.com^
 ||bursaelitescorthatun.com^
@@ -252,6 +253,7 @@
 ||drapehue.com^
 ||drawmaniauk.shop^
 ||dreamcazin.com^
+||dremio.life^
 ||drivesafeinspects.com^
 ||drmartensnews.com^
 ||du.fastopay.my.uae.com^
@@ -784,6 +786,7 @@
 ||twiney.shop^
 ||tymcra.com^
 ||typoair.com^
+||uehdspecial.shop^
 ||uhbideal.store^
 ||ulmire.com^
 ||umarinfomobiles.online^
@@ -831,6 +834,7 @@
 ||warehouseudeals.com^
 ||warunggolkuat.online^
 ||washerdryer.my^
+||wave.trader.com^
 ||wavytalkza.store^
 ||waxx.network^
 ||wayestyle.store^
