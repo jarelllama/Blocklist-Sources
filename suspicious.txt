@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.03.063603.2025
+! Version: 01.03.070103.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan  3 06:36:03 UTC 2025
+! Last modified: Fri Jan  3 07:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1047
+! Number of entries: 1051
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -191,6 +191,7 @@
 ||charmcot.com^
 ||cheqseep.online^
 ||chiccraftz.com^
+||cintuwron.shop^
 ||cipaclimited.com^
 ||cisneseyker.info^
 ||cisuzou.com^
@@ -546,6 +547,7 @@
 ||lootbar.gg^
 ||lopa.store^
 ||loranza.nl^
+||loreall.gp.top^
 ||loryvel.com^
 ||lourdeswestleyhawk.org^
 ||lovemyparfum.com^
@@ -637,6 +639,7 @@
 ||nuroswealth.org^
 ||obalaso.online^
 ||obraspublicaschaco2024.online^
+||oceanprotocol2.life^
 ||oemete.com^
 ||ofertabook.online^
 ||offersheres.net^
@@ -1019,6 +1022,7 @@
 ||wmartrewards.com^
 ||wndzs.com^
 ||womoke.com^
+||woonr.top^
 ||woxdem.com^
 ||wwtchain.top^
 ||www.y2mate.com^
