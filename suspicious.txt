@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.02.233050.2025
+! Version: 01.03.000204.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  2 23:30:50 UTC 2025
+! Last modified: Fri Jan  3 00:02:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 987
+! Number of entries: 992
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -139,6 +139,7 @@
 ||bitzoy.com^
 ||blackfridaywholesale.ru^
 ||blockdag.network^
+||bloginnet.in^
 ||blombard.com^
 ||blue798798.com^
 ||bmwstore.eu.com^
@@ -491,6 +492,7 @@
 ||leakrepair30091.online^
 ||ledsmdlight.com^
 ||leparis.club^
+||leupold.us.shop^
 ||lexingtonhazelwoodstylist.com^
 ||lfj.gg^
 ||lidifitnessam.eu.shop^
@@ -536,9 +538,11 @@
 ||mahadev.id.online^
 ||mainelobsterget.shop^
 ||mainelobstersstore.com^
+||mainstreetmall.shop^
 ||maisonjardina.com^
 ||mallprix.com^
 ||malltrabaho.online^
+||mariswiss.com^
 ||marketing4solutionsblog.online^
 ||mavocossycloud.com^
 ||mayer.boutique.de^
@@ -551,6 +555,7 @@
 ||methodeversohnungvonbeziehungen.online^
 ||metodolog.online^
 ||metropolidata.com^
+||milwakusharetexa.com^
 ||mimosabarkhaven.com^
 ||missav.cam^
 ||mjir.shop^
