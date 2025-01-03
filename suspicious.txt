@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.03.103416.2025
+! Version: 01.03.110109.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan  3 10:34:16 UTC 2025
+! Last modified: Fri Jan  3 11:01:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1077
+! Number of entries: 1082
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -157,6 +157,7 @@
 ||bostakingu.com^
 ||bpee.top^
 ||bphash.top^
+||branch.forex.com^
 ||briansclub.cm.shop^
 ||btc913.com^
 ||btc933.com^
@@ -231,6 +232,7 @@
 ||code.getoffus.site^
 ||coin.go.in^
 ||coinebc.com^
+||coinlocally.forex^
 ||coinomi.com^
 ||com.513i.cfd^
 ||com.nx1t.cfd^
@@ -491,6 +493,7 @@
 ||iyilikler.online^
 ||jadloresga.shop^
 ||jaysranchhamden.online^
+||jikinideals.shop^
 ||joanonline.shop^
 ||johncrestani.online.com^
 ||joingy.online^
@@ -1011,6 +1014,7 @@
 ||violate.igrq.online^
 ||vioratricot.com^
 ||viviokko.com^
+||vntgvogue.com^
 ||volcminer.store^
 ||votelya.com^
 ||vtwinschool.com^
@@ -1043,6 +1047,7 @@
 ||windcapitalsinfo.us^
 ||winfy.top^
 ||winviag.com^
+||winwin.bet^
 ||wittweidende.store^
 ||wizonex.com^
 ||wmartrewards.com^
