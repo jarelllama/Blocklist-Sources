@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.03.120113.2025
+! Version: 01.03.124216.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan  3 12:01:13 UTC 2025
+! Last modified: Fri Jan  3 12:42:16 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1091
+! Number of entries: 1095
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -64,6 +64,7 @@
 ||annuallye.com^
 ||anonym.ninja^
 ||anshela.com^
+||aouve.store^
 ||apanharwatch.com^
 ||apexcapitallimited.com^
 ||apkft.xyz^
@@ -105,6 +106,7 @@
 ||bar47menu.online^
 ||bbc.tv.org^
 ||bcapstaking.com^
+||bchminer.com^
 ||bdjf2ls.com^
 ||bearatten.com^
 ||beastter.com^
@@ -248,6 +250,7 @@
 ||coolbet.peru.online^
 ||cosometaldetector.com^
 ||couturedrift.com^
+||couturevista.com^
 ||cqzywhisper.shop^
 ||cripexbit.com^
 ||cripto.keys.store^
@@ -859,6 +862,7 @@
 ||slmsbz.com^
 ||smartgyro.es^
 ||smartns.ink^
+||smartphone.ue.shop^
 ||smartrecoup.com^
 ||smith.newyork.com^
 ||soankelle.vip^
