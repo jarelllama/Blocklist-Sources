@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.03.053305.2025
+! Version: 01.03.060102.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan  3 05:33:05 UTC 2025
+! Last modified: Fri Jan  3 06:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1038
+! Number of entries: 1042
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -63,9 +63,11 @@
 ||anonym.ninja^
 ||anshela.com^
 ||apanharwatch.com^
+||apexcapitallimited.com^
 ||apkft.xyz^
 ||apkhot.xyz^
 ||appanalytics.online^
+||aprontify.de^
 ||ar68bc2h0d78l4saqd0.heldit.shop^
 ||arabwood.ir^
 ||arakaxabux.com^
@@ -322,6 +324,7 @@
 ||entrustify.co.in^
 ||eobot.net^
 ||erybdu.com^
+||es.bankinter.usuario.com^
 ||eschallengersmode.com^
 ||esquentabet.online^
 ||establishmentlottery.top^
@@ -845,6 +848,7 @@
 ||stonxdex.com^
 ||store.belgianshop.com^
 ||storeyork.com.mx^
+||strattrade.org^
 ||strikearchive.com^
 ||subscribelg.my^
 ||sugarsyncglycooptimizer.com^
