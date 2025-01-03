@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.03.200100.2025
+! Version: 01.03.203146.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan  3 20:01:00 UTC 2025
+! Last modified: Fri Jan  3 20:31:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1146
+! Number of entries: 1153
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -130,6 +130,7 @@
 ||betsclub.pro^
 ||betwave.vip^
 ||beyondstandard.org^
+||bicicletaoficial.com^
 ||biglotsclosures.com^
 ||biglotsshoppingplaza.com^
 ||biglotsusa.sale.com^
@@ -153,6 +154,7 @@
 ||bitharvest.io^
 ||bithub.bot^
 ||bitly.net^
+||bitmamining.com^
 ||bitzealy.com^
 ||bitzoy.com^
 ||blackfridaywholesale.ru^
@@ -542,6 +544,7 @@
 ||kesan888.com^
 ||kesngg.com^
 ||kesngl.com^
+||kg11india.online^
 ||khipp.com^
 ||kickscrew.com^
 ||kijl.online^
@@ -768,6 +771,7 @@
 ||pip4gains.com^
 ||pippopet.store^
 ||pityeon.com^
+||play.qqvip303.online^
 ||playfortune.cc^
 ||pledgeoffers.com^
 ||pnusaa.com^
@@ -973,6 +977,7 @@
 ||tiffanymart.site^
 ||tiktokshopte.com^
 ||tinfoil.io^
+||tiny.one^
 ||tionoc.net^
 ||titan13.com^
 ||tldindia.online^
@@ -1072,6 +1077,7 @@
 ||violate.igrq.online^
 ||vioratricot.com^
 ||viviokko.com^
+||vizivu.one^
 ||vntgvogue.com^
 ||vocabularye.com^
 ||volcminer.store^
@@ -1080,6 +1086,7 @@
 ||wagexera.com^
 ||wananle.com^
 ||warehousesstores.com^
+||warehouseudeals.co^
 ||warehouseudeals.com^
 ||warunggolkuat.online^
 ||washerdryer.my^
