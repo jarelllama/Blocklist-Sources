@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.03.033510.2025
+! Version: 01.03.040104.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan  3 03:35:10 UTC 2025
+! Last modified: Fri Jan  3 04:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1013
+! Number of entries: 1021
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -69,6 +69,7 @@
 ||ar68bc2h0d78l4saqd0.heldit.shop^
 ||arabwood.ir^
 ||arakaxabux.com^
+||arbicryptos.com^
 ||arcmine.com^
 ||argosnop.com^
 ||arirak.online^
@@ -715,8 +716,10 @@
 ||raceprep.site^
 ||radianters.com^
 ||raineyeshadowguilty.com^
+||rajatsinghchauhan.com^
 ||ralkem.com^
 ||rapidtransitmodels.com^
+||rclicks.in^
 ||rdapie.net^
 ||readermodeext.info^
 ||reallilya.com^
@@ -741,6 +744,7 @@
 ||roveaskin.fr^
 ||royal.marines.online^
 ||royalmail.i78.xyz^
+||royalpinkcreations.com^
 ||rpmvape.com^
 ||rpnodes.tech^
 ||rugbywow.com^
@@ -749,6 +753,7 @@
 ||safeapk.net^
 ||sag.quantify.com^
 ||sagkjsd.com^
+||saibabaweldings.xyz^
 ||sale.oggi.com^
 ||salewaoutletsespana.es^
 ||samimpex.org^
@@ -781,6 +786,7 @@
 ||shorturl.at^
 ||signalarchitects.cloud^
 ||simon.frei.pc.online^
+||simranparajapati.com^
 ||singingfiles.com^
 ||sinneery.com^
 ||sinxed.com^
@@ -1006,6 +1012,7 @@
 ||yocart.vip^
 ||yomovies1.skin^
 ||youareanidiot.org^
+||youngglobalinvestmentsinc.com^
 ||yourwebarmorsolutions.com^
 ||youxiangonline.live^
 ||yunpso.com^
@@ -1016,6 +1023,7 @@
 ||zerocodeblock.com^
 ||zetdax.top^
 ||zfp.zfppool.com^
+||zjulpujub.wlasnnz.cn^
 ||zlibrary.to^
 ||zorunex.com^
 ||ztxzhb.shop^
