@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.03.140056.2025
+! Version: 01.03.143300.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan  3 14:00:56 UTC 2025
+! Last modified: Fri Jan  3 14:33:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1103
+! Number of entries: 1107
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -304,6 +304,7 @@
 ||download.wondershare.net^
 ||dpboss.services^
 ||dragonfly.shop.com^
+||draliko.com^
 ||drapehue.com^
 ||drawmaniauk.shop^
 ||dreamcazin.com^
@@ -383,6 +384,7 @@
 ||footjoyofficial.com^
 ||footjoysale.shop^
 ||forbiddenpant.com^
+||fordeeal.shop^
 ||forge.wallet.com^
 ||foundationrepair0407.online^
 ||foundationrepair3009.online^
@@ -730,6 +732,7 @@
 ||pasion.padel.com^
 ||patek.ydx.com^
 ||pawns.app^
+||pe.trabajosdiarios.com^
 ||peacheck.com^
 ||pedrosantosblog.online^
 ||pefctiordent.com^
@@ -1081,6 +1084,7 @@
 ||xanarx.live^
 ||xapool.com^
 ||xdopig.com^
+||xegukiy.shop^
 ||xfnwnw.com^
 ||xmbroker.click^
 ||xpertlex.online^
