@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.03.220055.2025
+! Version: 01.03.223257.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan  3 22:00:55 UTC 2025
+! Last modified: Fri Jan  3 22:32:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1167
+! Number of entries: 1171
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -146,6 +146,7 @@
 ||bileerrero.shop^
 ||bingo.ba^
 ||bio.drop.com^
+||bioairdrop.com^
 ||bioanalysis.lt^
 ||bisalex.com^
 ||bit.binary.org^
@@ -314,6 +315,7 @@
 ||direktori.online^
 ||discount.area.com^
 ||discountamzn.com^
+||discountshypermarket.com^
 ||discttime.shop^
 ||divinark.store^
 ||docs.connect.wallet.teachable.com^
@@ -848,6 +850,7 @@
 ||reventa.co^
 ||ritoudown.com^
 ||robin.joy.com^
+||robinhoodgroupltd.com^
 ||rockhillcapital.org^
 ||rokinat.co.in^
 ||roll2x.com^
@@ -959,6 +962,7 @@
 ||survyhelp.com^
 ||svip.work46.com^
 ||swiftfinverge.com^
+||swiss.mo.inv.com^
 ||synthealth.com^
 ||tads.baker.co.za^
 ||talentstreamnet.com^
