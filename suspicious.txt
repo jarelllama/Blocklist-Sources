@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.03.040104.2025
+! Version: 01.03.043402.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan  3 04:01:04 UTC 2025
+! Last modified: Fri Jan  3 04:34:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1021
+! Number of entries: 1027
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -190,6 +190,7 @@
 ||chiccraftz.com^
 ||cipaclimited.com^
 ||cit.invests.com^
+||citibanamex.serv00.net^
 ||citxion.top^
 ||cleanquest.xyz^
 ||cled.euteschan.top^
@@ -284,6 +285,7 @@
 ||drivesafeinspects.com^
 ||drmartensnews.com^
 ||du.fastopay.my.uae.com^
+||dundundumpling.online^
 ||dvdsociety.shop^
 ||dystarwears.com^
 ||eaglecrestonline.com^
@@ -346,6 +348,7 @@
 ||flirtingplaza.com^
 ||fluctz.xyz^
 ||flwoertime.de^
+||focusmarkets.com^
 ||footjoyofficial.com^
 ||forbiddenpant.com^
 ||forge.wallet.com^
@@ -673,6 +676,7 @@
 ||pedrosantosblog.online^
 ||pefctiordent.com^
 ||penetratea.com^
+||personalloans30096.online^
 ||petermillarsale.shop^
 ||pg77.game^
 ||phillipa.online^
@@ -711,6 +715,7 @@
 ||qcstar.com^
 ||qdiminers.com^
 ||qfsbackupassets.ltd^
+||qqbit.net^
 ||quantumdigitalmatket.com^
 ||quvrmh.com^
 ||raceprep.site^
@@ -874,6 +879,7 @@
 ||tokenhedg.com^
 ||tokentrade.top^
 ||topflixtv.online^
+||topinfoarticlesforu.com^
 ||topsmanings.top^
 ||topthingsinlife.com^
 ||topvibes.top^
