@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.03.080102.2025
+! Version: 01.03.083425.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan  3 08:01:02 UTC 2025
+! Last modified: Fri Jan  3 08:34:25 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1059
+! Number of entries: 1063
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -36,6 +36,7 @@
 ||agonas.techubz.com^
 ||ahhaqq.com^
 ||aietftoken.com^
+||airdropclaims.netlify.app^
 ||airdropusdt.shop^
 ||airobotsmart.net^
 ||aitransactionplatform.com^
@@ -191,6 +192,7 @@
 ||charmcot.com^
 ||cheqseep.online^
 ||chiccraftz.com^
+||cimarronclub.com^
 ||cintuwron.shop^
 ||cipaclimited.com^
 ||cisneseyker.info^
@@ -226,6 +228,7 @@
 ||code.getoffus.site^
 ||coin.go.in^
 ||coinebc.com^
+||coinomi.com^
 ||com.513i.cfd^
 ||com.nx1t.cfd^
 ||com.rb45.cfd^
@@ -281,6 +284,7 @@
 ||direktori.online^
 ||discount.area.com^
 ||discountamzn.com^
+||discttime.shop^
 ||divinark.store^
 ||docs.connect.wallet.teachable.com^
 ||docs.shibariumtech.com^
