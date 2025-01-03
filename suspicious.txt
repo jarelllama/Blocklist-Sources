@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.03.050055.2025
+! Version: 01.03.053305.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan  3 05:00:55 UTC 2025
+! Last modified: Fri Jan  3 05:33:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1034
+! Number of entries: 1038
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -236,6 +236,7 @@
 ||couturedrift.com^
 ||cqzywhisper.shop^
 ||cripexbit.com^
+||cripto.keys.store^
 ||crsverify.online^
 ||crypto.motorsports.com^
 ||cryptoids.info^
@@ -513,6 +514,7 @@
 ||lawnagain.com^
 ||leakrepair30091.online^
 ||ledsmdlight.com^
+||leonemicrofinance.com^
 ||leparis.club^
 ||leupold.us.shop^
 ||lexingtonhazelwoodstylist.com^
@@ -562,6 +564,7 @@
 ||mainelobstersstore.com^
 ||mainstreetmall.shop^
 ||maisonjardina.com^
+||majulahfm.com^
 ||mallprix.com^
 ||malltrabaho.online^
 ||mariswiss.com^
@@ -739,6 +742,7 @@
 ||redeemai.site^
 ||redgol.cl^
 ||reegwallet.store^
+||reelshort.2025.com^
 ||refefshopin.top^
 ||reoe.shop^
 ||researchchemicalskopen.net^
