@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.03.043402.2025
+! Version: 01.03.050055.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan  3 04:34:02 UTC 2025
+! Last modified: Fri Jan  3 05:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1027
+! Number of entries: 1034
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -189,7 +189,10 @@
 ||cheqseep.online^
 ||chiccraftz.com^
 ||cipaclimited.com^
+||cisneseyker.info^
+||cisuzou.com^
 ||cit.invests.com^
+||cite.architecture.org^
 ||citibanamex.serv00.net^
 ||citxion.top^
 ||cleanquest.xyz^
@@ -247,6 +250,7 @@
 ||cyberguardforchrome.com^
 ||cyberhavenext.pro^
 ||cybex.360.com^
+||czvinwqzs.zjxjmp.cn^
 ||dailytehillim.online^
 ||dailyuploads.net^
 ||dappschainapp.com^
@@ -442,6 +446,7 @@
 ||incart.co.za^
 ||inclutde.com^
 ||indpeapract.cfd^
+||informed.deliveryghfgh.top^
 ||informed.deliveryqbnsk.top^
 ||insads.net^
 ||insightdreams.online^
@@ -612,6 +617,7 @@
 ||news.bponeyu.cc^
 ||news.bpotibu.cc^
 ||news.jufife.com^
+||nft.babydoge.com^
 ||nodelyai.org^
 ||nodepay.ai^
 ||nomisite8.online^
@@ -785,6 +791,7 @@
 ||sfardlanka.com^
 ||shamfreshen.com^
 ||shedrickcdigital.pro^
+||shibaarmy.world^
 ||shinelyjews.shop^
 ||shopeevip.shop^
 ||shoponlinesale.shop^
