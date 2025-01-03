@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.03.073052.2025
+! Version: 01.03.080102.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan  3 07:30:52 UTC 2025
+! Last modified: Fri Jan  3 08:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1054
+! Number of entries: 1059
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -199,6 +199,7 @@
 ||cite.architecture.org^
 ||citibanamex.serv00.net^
 ||citxion.top^
+||claimgrass.netlify.app^
 ||cleanquest.xyz^
 ||cled.euteschan.top^
 ||clever.buffalo.pejrxqol.sandboxcms.com^
@@ -341,6 +342,7 @@
 ||expand.experts.com^
 ||f2pool.com^
 ||falalamxn.vip^
+||falconfxtrading.com^
 ||faredglorias.com^
 ||fasdja.com^
 ||fashionworldcc.shop^
@@ -632,6 +634,7 @@
 ||news.bpotibu.cc^
 ||news.jufife.com^
 ||nft.babydoge.com^
+||nikocanvas.com^
 ||nodelyai.org^
 ||nodepay.ai^
 ||nomisite8.online^
@@ -669,6 +672,7 @@
 ||onlyterrific.com^
 ||onruning.top^
 ||optnutritips.com^
+||orange.co.uk^
 ||orionbitmarket.online^
 ||orourkeapp.com^
 ||otherstoriessale.shop^
@@ -934,6 +938,7 @@
 ||trxbee.io^
 ||tsauvip.ing^
 ||tusheedrosep.net^
+||tuuoi.shop^
 ||twiney.shop^
 ||tymcra.com^
 ||typoair.com^
