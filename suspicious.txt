@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.03.110109.2025
+! Version: 01.03.113053.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan  3 11:01:09 UTC 2025
+! Last modified: Fri Jan  3 11:30:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1082
+! Number of entries: 1088
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -120,6 +120,7 @@
 ||besthealth24.online^
 ||betnight.online^
 ||betwave.vip^
+||beyondstandard.org^
 ||biglotsclosures.com^
 ||biglotsshoppingplaza.com^
 ||biglotsusa.sale.com^
@@ -394,6 +395,7 @@
 ||game.zixia.com^
 ||game.zone.pro^
 ||gaspol268.com^
+||gdqai.com^
 ||gel9.online^
 ||genesisminingbot.com^
 ||geographz.com^
@@ -482,6 +484,7 @@
 ||iqmind.co^
 ||iralarkincoach.com^
 ||iranfinance.info^
+||ird.govt.nz^
 ||iris.tech.online^
 ||itactivejobs.xyz^
 ||itau.com.py^
@@ -536,6 +539,7 @@
 ||laboratoire.osmose.com^
 ||lacefaves.com^
 ||lacostes.com.mx^
+||ladysstreet.com^
 ||landmark.online.workers.dev^
 ||larkinashlandstylist.com^
 ||lawnagain.com^
@@ -624,6 +628,7 @@
 ||moonlightmint.co^
 ||mqyn.odqmjbta.shop^
 ||mttathletics.com^
+||muke.ai^
 ||multiverse.retifications.netlify.app^
 ||mundoonline.link^
 ||mvknnd.online^
@@ -938,6 +943,7 @@
 ||track.ptctt.com^
 ||trackqsu.top^
 ||tracy925digital.pro^
+||tradiso.com^
 ||traffictrack.online^
 ||trahia.com^
 ||trantnguyentech.store^
