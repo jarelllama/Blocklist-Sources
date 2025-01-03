@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.03.183530.2025
+! Version: 01.03.190056.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan  3 18:35:30 UTC 2025
+! Last modified: Fri Jan  3 19:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1126
+! Number of entries: 1132
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -51,6 +51,7 @@
 ||allicross.online^
 ||alo88.black^
 ||aloidvg.com^
+||alphahashes.com^
 ||alppouchh.com^
 ||altano.store^
 ||alwaysfindonline.shop^
@@ -87,6 +88,7 @@
 ||asap777.online^
 ||asiacargo.online^
 ||assetxchangee.com^
+||assiseaulosdansy.online^
 ||atamedya.shop^
 ||atb14.com^
 ||atlaspays.com^
@@ -811,6 +813,7 @@
 ||reelshort.2025.com^
 ||refefshopin.top^
 ||reoe.shop^
+||repaircontractors2us0507.online^
 ||researchchemicalskopen.net^
 ||resortburg.online^
 ||retoswap.com^
@@ -863,6 +866,7 @@
 ||sfardlanka.com^
 ||shamfreshen.com^
 ||shedrickcdigital.pro^
+||shelee.vip^
 ||shibaarmy.world^
 ||shinelyjews.shop^
 ||shopeevip.shop^
@@ -929,6 +933,7 @@
 ||svip.work46.com^
 ||swiftfinverge.com^
 ||synthealth.com^
+||tads.baker.co.za^
 ||talentstreamnet.com^
 ||talklikesm.best^
 ||taqwapublications.com^
@@ -1017,6 +1022,7 @@
 ||urlsing.com^
 ||us.alpinestars.com^
 ||us.amtmodels.com^
+||us.retgdsence.com^
 ||us.viiceemall.com^
 ||usahawanlg.my^
 ||usahellyhansen.com^
