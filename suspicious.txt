@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.03.153153.2025
+! Version: 01.03.160058.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan  3 15:31:53 UTC 2025
+! Last modified: Fri Jan  3 16:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1108
+! Number of entries: 1112
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -33,6 +33,7 @@
 ||adjacentin.com^
 ||adminpg.online^
 ||affiliatemarketlite.com^
+||affirmgrowth.co^
 ||agonas.techubz.com^
 ||ahhaqq.com^
 ||ai.kraken2025.com^
@@ -68,6 +69,7 @@
 ||aouve.store^
 ||apanharwatch.com^
 ||apexcapitallimited.com^
+||apexcapltd.com^
 ||apkft.xyz^
 ||apkhot.xyz^
 ||appanalytics.online^
@@ -595,6 +597,7 @@
 ||lulusafh.com^
 ||luminassociate.com^
 ||lushyedge.com^
+||luxeflairz.com^
 ||lwbbc.com^
 ||lylussplus.com^
 ||m.bitunixex.com^
@@ -1021,6 +1024,7 @@
 ||vendorbroz.com^
 ||venotem.com^
 ||ventalor.com^
+||ventness.com^
 ||ventrobi.io^
 ||vepnext.com^
 ||vexunax.com^
