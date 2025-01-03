@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.03.060102.2025
+! Version: 01.03.063603.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan  3 06:01:02 UTC 2025
+! Last modified: Fri Jan  3 06:36:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1042
+! Number of entries: 1047
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -116,6 +116,7 @@
 ||beseenmarketing.online^
 ||besthealth24.online^
 ||betnight.online^
+||betwave.vip^
 ||biglotsclosures.com^
 ||biglotsshoppingplaza.com^
 ||biglotsusa.sale.com^
@@ -323,6 +324,7 @@
 ||enjoy99.org^
 ||entrustify.co.in^
 ||eobot.net^
+||epeweko.info^
 ||erybdu.com^
 ||es.bankinter.usuario.com^
 ||eschallengersmode.com^
@@ -408,6 +410,7 @@
 ||grindsoft.com^
 ||growthcapinc.com^
 ||grupohersa.org^
+||gten956.vip^
 ||gtkjean.com^
 ||guabsons.com^
 ||guide.sante.space^
@@ -688,6 +691,7 @@
 ||pedrosantosblog.online^
 ||pefctiordent.com^
 ||penetratea.com^
+||perfectideas.store^
 ||personalloans30096.online^
 ||petermillarsale.shop^
 ||pg77.game^
@@ -933,6 +937,7 @@
 ||ukhomebase.com^
 ||ulmire.com^
 ||umarinfomobiles.online^
+||undetectedbanknotes.com^
 ||undressbaby.com^
 ||uniquepropertygroup.co.uk^
 ||upayy.online^
