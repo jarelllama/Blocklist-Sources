@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.03.083425.2025
+! Version: 01.03.090105.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan  3 08:34:25 UTC 2025
+! Last modified: Fri Jan  3 09:01:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1063
+! Number of entries: 1068
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -195,6 +195,7 @@
 ||cimarronclub.com^
 ||cintuwron.shop^
 ||cipaclimited.com^
+||cisalfasport.it.com^
 ||cisneseyker.info^
 ||cisuzou.com^
 ||cit.invests.com^
@@ -400,12 +401,14 @@
 ||globalcapitalista.com^
 ||globalflashco.com^
 ||globalnotelab.com^
+||globalsmartrade.com^
 ||globeathome.online^
 ||go.alphalamenace.com^
 ||goapoachowoovol.net^
 ||golat.online^
 ||golderagifts.com^
 ||golditry.com^
+||goldstradeapp.com^
 ||gominer.net^
 ||goodserchez.com^
 ||goodyouco.com^
@@ -482,6 +485,7 @@
 ||iunia.eap.com^
 ||iuredd.com^
 ||iyilikler.online^
+||jadloresga.shop^
 ||jaysranchhamden.online^
 ||joanonline.shop^
 ||johncrestani.online.com^
@@ -700,6 +704,7 @@
 ||partecularly.com^
 ||pascoprime.com^
 ||pasion.padel.com^
+||patek.ydx.com^
 ||pawns.app^
 ||peacheck.com^
 ||pedrosantosblog.online^
