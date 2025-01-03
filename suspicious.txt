@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.03.173136.2025
+! Version: 01.03.180100.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan  3 17:31:36 UTC 2025
+! Last modified: Fri Jan  3 18:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1119
+! Number of entries: 1123
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -124,6 +124,7 @@
 ||beseenmarketing.online^
 ||besthealth24.online^
 ||betnight.online^
+||betsclub.pro^
 ||betwave.vip^
 ||beyondstandard.org^
 ||biglotsclosures.com^
@@ -253,6 +254,7 @@
 ||construction.jobs.nz.online^
 ||contactconsultingservices.com^
 ||coolbet.peru.online^
+||cosmayae.com^
 ||cosometaldetector.com^
 ||couturedrift.com^
 ||couturevista.com^
@@ -693,6 +695,7 @@
 ||ojrq.net^
 ||okjg13.icu^
 ||oluwasegunakinyemi.com^
+||on.shoes.uae.com^
 ||ondasvirtuais.online^
 ||oneclickmart.online^
 ||onefarm.pro^
@@ -908,6 +911,7 @@
 ||stavelux.net^
 ||steamcommunmutty.com^
 ||steamcomumnitty.com^
+||steamcomunnuity.com^
 ||stellwisestore.com^
 ||stonxdex.com^
 ||store.belgianshop.com^
