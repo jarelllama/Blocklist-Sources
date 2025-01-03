@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.03.020205.2025
+! Version: 01.03.024433.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan  3 02:02:05 UTC 2025
+! Last modified: Fri Jan  3 02:44:33 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1001
+! Number of entries: 1006
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -246,6 +246,7 @@
 ||cyberhavenext.pro^
 ||cybex.360.com^
 ||dailytehillim.online^
+||dailyuploads.net^
 ||dappschainapp.com^
 ||dbbjrhhn.guru^
 ||dcard50.ru^
@@ -259,6 +260,7 @@
 ||dghv.store^
 ||digestionscience.com^
 ||digihash.io^
+||digiqhub.com^
 ||digitalsmartone.online^
 ||digiterminator.online^
 ||digitsagency.online^
@@ -342,6 +344,7 @@
 ||flexswiftways.online^
 ||fluctz.xyz^
 ||flwoertime.de^
+||footjoyofficial.com^
 ||forbiddenpant.com^
 ||forge.wallet.com^
 ||foundationrepair0407.online^
@@ -366,6 +369,7 @@
 ||genesisminingbot.com^
 ||geographz.com^
 ||getdrant.shop^
+||getsoothesmooth.com^
 ||gfslsecurities.cc^
 ||gggwg.online^
 ||ghsyps.ca^
@@ -833,6 +837,7 @@
 ||tedexy.com^
 ||tenadex.com^
 ||tfalcon.online^
+||tgbtest.com^
 ||thebestofferforyoutoday.online^
 ||thecapitalholdings.io^
 ||thedollar.online^
