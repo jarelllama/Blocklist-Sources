@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.03.090105.2025
+! Version: 01.03.093148.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan  3 09:01:05 UTC 2025
+! Last modified: Fri Jan  3 09:31:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1068
+! Number of entries: 1072
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -85,6 +85,7 @@
 ||atamedya.shop^
 ||atb14.com^
 ||atlaspays.com^
+||au24shop.com^
 ||aubuds.com^
 ||auroracherie.com^
 ||auth.mashash.co^
@@ -589,6 +590,7 @@
 ||malltrabaho.online^
 ||mariswiss.com^
 ||marketing4solutionsblog.online^
+||matteomarcelli.com^
 ||mavocossycloud.com^
 ||mayer.boutique.de^
 ||mayzik.com^
@@ -641,6 +643,7 @@
 ||news.bponeyu.cc^
 ||news.bpotibu.cc^
 ||news.jufife.com^
+||newulife.com^
 ||nft.babydoge.com^
 ||nikocanvas.com^
 ||nodelyai.org^
@@ -808,6 +811,7 @@
 ||sato.castle.com^
 ||savvyessence.com^
 ||sbk.trx1.com^
+||scholar.achiever.xyz^
 ||sdx96.com^
 ||sdxsjc.com^
 ||searchednow.com^
