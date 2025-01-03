@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.03.124216.2025
+! Version: 01.03.130504.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan  3 12:42:16 UTC 2025
+! Last modified: Fri Jan  3 13:05:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1095
+! Number of entries: 1099
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -379,6 +379,7 @@
 ||flwoertime.de^
 ||focusmarkets.com^
 ||footjoyofficial.com^
+||footjoysale.shop^
 ||forbiddenpant.com^
 ||forge.wallet.com^
 ||foundationrepair0407.online^
@@ -425,6 +426,7 @@
 ||goodsixsk.best^
 ||goodyouco.com^
 ||google.com.gt^
+||goosecreekcandle.com^
 ||gorouslook.com^
 ||gotospares.com^
 ||gptaiminds.com^
@@ -1017,6 +1019,7 @@
 ||vexunox.com^
 ||vflcsz.info^
 ||vflmo.online^
+||vibyage.com^
 ||video.earns.top^
 ||video4k.site^
 ||videoperkstream.com^
@@ -1027,6 +1030,7 @@
 ||vioratricot.com^
 ||viviokko.com^
 ||vntgvogue.com^
+||vocabularye.com^
 ||volcminer.store^
 ||votelya.com^
 ||vtwinschool.com^
