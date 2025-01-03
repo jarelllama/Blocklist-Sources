@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.03.203146.2025
+! Version: 01.03.210055.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan  3 20:31:46 UTC 2025
+! Last modified: Fri Jan  3 21:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1153
+! Number of entries: 1157
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -18,6 +18,7 @@
 ||278.hnyuanoo.top^
 ||5movierulz.gay^
 ||777color87.com^
+||7k.casino.16.online^
 ||82lottery9.in^
 ||988359.com^
 ||abdullahonline.store^
@@ -131,6 +132,7 @@
 ||betwave.vip^
 ||beyondstandard.org^
 ||bicicletaoficial.com^
+||bielsko.biala.online^
 ||biglotsclosures.com^
 ||biglotsshoppingplaza.com^
 ||biglotsusa.sale.com^
@@ -972,6 +974,7 @@
 ||thestylefoundrycle.store^
 ||thetodayhealth.xyz^
 ||thomashouseofdigitals.store^
+||tiendaplethora.online^
 ||tiendassalomoncolombia.com.co^
 ||tiffanymart.online^
 ||tiffanymart.site^
@@ -1157,6 +1160,7 @@
 ||zfp.zfppool.com^
 ||zjulpujub.wlasnnz.cn^
 ||zlibrary.to^
+||zoodel.online^
 ||zorunex.com^
 ||ztxzhb.shop^
 ||zxzclitin.shop^
