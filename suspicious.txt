@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.04.080056.2025
+! Version: 01.04.083332.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan  4 08:00:56 UTC 2025
+! Last modified: Sat Jan  4 08:33:32 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1216
+! Number of entries: 1220
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -73,6 +73,7 @@
 ||annuallye.com^
 ||anonym.ninja^
 ||anshela.com^
+||antautosurf.com^
 ||aouve.store^
 ||apanharwatch.com^
 ||apexcapitallimited.com^
@@ -333,6 +334,7 @@
 ||docs.shibariumtech.com^
 ||dogepick.io^
 ||dogooddaldaadw.com^
+||dominatei.shop^
 ||download.wondershare.net^
 ||dpboss.services^
 ||dragonfly.shop.com^
@@ -462,6 +464,7 @@
 ||gnde.shop^
 ||go.alphalamenace.com^
 ||goapoachowoovol.net^
+||goblinx.org^
 ||golat.online^
 ||golderagifts.com^
 ||golditry.com^
@@ -863,6 +866,7 @@
 ||rajatsinghchauhan.com^
 ||ralkem.com^
 ||rapidtransitmodels.com^
+||rbs55.top^
 ||rclicks.in^
 ||rdapie.net^
 ||readermodeext.info^
