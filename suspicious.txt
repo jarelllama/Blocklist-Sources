@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.04.220059.2025
+! Version: 01.04.223213.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan  4 22:00:59 UTC 2025
+! Last modified: Sat Jan  4 22:32:13 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1295
+! Number of entries: 1300
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -46,6 +46,7 @@
 ||aietftoken.com^
 ||airdropclaims.netlify.app^
 ||airdropusdt.shop^
+||airobotplatform888.com^
 ||airobotsmart.net^
 ||aitimart.com^
 ||aitransactionplatform.com^
@@ -410,6 +411,7 @@
 ||estherwinter.eu^
 ||eurovs.com^
 ||euroyalexpress.com^
+||evenflofeedingsuperstore.shop^
 ||eventscodm.com^
 ||exnori.com^
 ||expand.experts.com^
@@ -902,6 +904,7 @@
 ||proveedor.io^
 ||psicologiaencasa.online^
 ||psschool.edu.bd^
+||psychrine.com^
 ||pth223.com^
 ||pulsepicks.pro^
 ||pumacolombia.net^
@@ -1004,6 +1007,7 @@
 ||shorturl.at^
 ||shotzon.com^
 ||signalarchitects.cloud^
+||simmsfishingonsale.shop^
 ||simon.frei.pc.online^
 ||simranparajapati.com^
 ||singingfiles.com^
@@ -1259,6 +1263,7 @@
 ||wndzs.com^
 ||womoke.com^
 ||woonr.top^
+||world.delivery.service.com^
 ||woxdem.com^
 ||wwtchain.top^
 ||www.y2mate.com^
