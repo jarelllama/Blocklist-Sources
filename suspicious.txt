@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.04.193057.2025
+! Version: 01.04.200100.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan  4 19:30:57 UTC 2025
+! Last modified: Sat Jan  4 20:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1267
+! Number of entries: 1277
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -172,6 +172,7 @@
 ||bithub.bot^
 ||bitly.net^
 ||bitmamining.com^
+||bitunix.com^
 ||bitzealy.com^
 ||bitzoy.com^
 ||blackfridaywholesale.ru^
@@ -515,6 +516,7 @@
 ||helps.sbs^
 ||henglai.online^
 ||hermez4dx500.com^
+||hh.click.com^
 ||hianime.to^
 ||hireuphelp.online^
 ||hm.ru^
@@ -534,6 +536,7 @@
 ||hotvxfs.shop^
 ||htadz.online^
 ||htxsbot.com^
+||hudsonclassic.com^
 ||hugoprimetradefx.com^
 ||hunnybank.com^
 ||hyph666.win^
@@ -576,6 +579,7 @@
 ||jadloresga.shop^
 ||jamai.top^
 ||jaysranchhamden.online^
+||jewelrygiftcenter.com^
 ||jikinideals.shop^
 ||joanonline.shop^
 ||johncrestani.online.com^
@@ -1010,11 +1014,13 @@
 ||sofiahalbofanimeworld.blogspot.co.uk^
 ||sofiahalbofanimeworld.blogspot.nl^
 ||softgama.online^
+||sogoode.store^
 ||sohosquare.online^
 ||solanamining.net^
 ||solarhude.com^
 ||solaxy.io^
 ||somolarlp.com^
+||sopenny.com^
 ||sophie.paris.com^
 ||soportestreaming.online^
 ||sos.bg.sof.1.exo.io^
@@ -1034,6 +1040,7 @@
 ||steamcomumnitty.com^
 ||steamcomunnuity.com^
 ||stellwisestore.com^
+||steparian.com^
 ||stoigr.org^
 ||stonxdex.com^
 ||store.belgianshop.com^
@@ -1090,11 +1097,14 @@
 ||tofro.com^
 ||tokenhedg.com^
 ||tokentrade.top^
+||toolstationsale.com^
+||toolstationuk.shop^
 ||topflixtv.online^
 ||topinfoarticlesforu.com^
 ||topsmanings.top^
 ||topthingsinlife.com^
 ||topvibes.top^
+||totalwellstore.com^
 ||toyzboutique.com^
 ||tozc.online^
 ||tqwin.online^
