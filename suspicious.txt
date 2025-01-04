@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.04.223213.2025
+! Version: 01.04.230057.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan  4 22:32:13 UTC 2025
+! Last modified: Sat Jan  4 23:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1300
+! Number of entries: 1304
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -791,6 +791,7 @@
 ||nodelyai.org^
 ||nodepay.ai^
 ||nomisite8.online^
+||nordyen.nl^
 ||norionbusiness.top^
 ||noveraxcapital.com^
 ||nowmining.fun^
@@ -928,6 +929,7 @@
 ||rbs55.top^
 ||rclicks.in^
 ||rdapie.net^
+||readbay.ai^
 ||readermodeext.info^
 ||reallilya.com^
 ||realmoney.live^
@@ -1102,6 +1104,7 @@
 ||thestylefoundrycle.store^
 ||thetodayhealth.xyz^
 ||thomashouseofdigitals.store^
+||threadsvault.com^
 ||tiendaplethora.online^
 ||tiendassalomoncolombia.com.co^
 ||tiffanymart.online^
@@ -1223,6 +1226,7 @@
 ||volcminer.store^
 ||votelya.com^
 ||vtwinschool.com^
+||vudu.top^
 ||wagexera.com^
 ||wananle.com^
 ||warehousesstores.com^
