@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.03.233049.2025
+! Version: 01.04.000153.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan  3 23:30:49 UTC 2025
+! Last modified: Sat Jan  4 00:01:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1177
+! Number of entries: 1181
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -17,6 +17,7 @@
 ||244buildschile.com^
 ||24proleverage.com^
 ||278.hnyuanoo.top^
+||2llcc.vip^
 ||5movierulz.gay^
 ||777color87.com^
 ||7k.casino.16.online^
@@ -446,6 +447,7 @@
 ||globalnotelab.com^
 ||globalsmartrade.com^
 ||globeathome.online^
+||gnde.shop^
 ||go.alphalamenace.com^
 ||goapoachowoovol.net^
 ||golat.online^
@@ -887,6 +889,7 @@
 ||sarangpuradharamashala.online^
 ||sato.castle.com^
 ||savvyessence.com^
+||saylor.giftx2.com^
 ||sbk.trx1.com^
 ||scholar.achiever.xyz^
 ||sdx96.com^
@@ -974,6 +977,7 @@
 ||talentstreamnet.com^
 ||talklikesm.best^
 ||taqwapublications.com^
+||tarionus.shop^
 ||tc126.xyz^
 ||technozone.com.au^
 ||tedexy.com^
