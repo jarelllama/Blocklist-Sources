@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.04.012758.2025
+! Version: 01.04.020031.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan  4 01:27:58 UTC 2025
+! Last modified: Sat Jan  4 02:00:31 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1191
+! Number of entries: 1195
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -39,6 +39,7 @@
 ||affiliatemarketlite.com^
 ||affirmgrowth.co^
 ||agonas.techubz.com^
+||agyabashipping.com^
 ||ahhaqq.com^
 ||ai.kraken2025.com^
 ||aietftoken.com^
@@ -147,6 +148,7 @@
 ||bigminings.pro^
 ||bigsales.top^
 ||bikinibossmiamieu.com^
+||bikobabybus.com^
 ||bileerrero.shop^
 ||bingo.ba^
 ||bio.drop.com^
@@ -237,6 +239,7 @@
 ||clever.turtle.1plivsii.sandboxcms.com^
 ||click5tawages.buzz^
 ||clickclpwages.buzz^
+||clickyfwprize.buzz^
 ||clids.mastercasc.top^
 ||climbcourse.cam^
 ||clime.mastercasc.top^
@@ -1035,6 +1038,7 @@
 ||tradiso.com^
 ||traffictrack.online^
 ||trahia.com^
+||trantbitf.astpro.top^
 ||trantnguyentech.store^
 ||treatmeinty.com^
 ||trejoapp.com^
