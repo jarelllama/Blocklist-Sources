@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.04.230057.2025
+! Version: 01.04.233053.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan  4 23:00:57 UTC 2025
+! Last modified: Sat Jan  4 23:30:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1304
+! Number of entries: 1310
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -140,6 +140,7 @@
 ||belmondagency.com^
 ||beltlox.top^
 ||bernardex.com^
+||bervospace.com^
 ||beseenmarketing.online^
 ||besthealth24.online^
 ||betnight.online^
@@ -295,6 +296,7 @@
 ||coolbet.peru.online^
 ||cosmayae.com^
 ||cosometaldetector.com^
+||cotizadorsoat.segurosdelestado.com^
 ||couturedrift.com^
 ||couturevista.com^
 ||cqzywhisper.shop^
@@ -327,6 +329,7 @@
 ||dbbjrhhn.guru^
 ||dcard50.ru^
 ||ddsteel.online^
+||deenext.com^
 ||defidappsrestore.web.app^
 ||deltadex.io^
 ||demogamingsalam123.online^
@@ -375,6 +378,7 @@
 ||earnscashmb.buzz^
 ||earringssale.com^
 ||easyrcashdae.buzz^
+||ebay.mall.net^
 ||eclatlumiere.com^
 ||eddyconstructions.com^
 ||edekn.com^
@@ -940,6 +944,7 @@
 ||reelshort.2025.com^
 ||refefshopin.top^
 ||reg.yourgamebuilder.com^
+||renmsuq.shop^
 ||reoe.shop^
 ||repaircontractors2us0507.online^
 ||researchchemicalskopen.net^
@@ -1150,6 +1155,7 @@
 ||trolleytimes.online^
 ||tronholdingsllc.com^
 ||tronminingfarm.com^
+||trophycase.cc^
 ||tructi.com^
 ||trustedvincheck.com^
 ||trustgreenfirm.live^
