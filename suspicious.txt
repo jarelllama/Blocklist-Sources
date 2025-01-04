@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.04.004517.2025
+! Version: 01.04.012758.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan  4 00:45:17 UTC 2025
+! Last modified: Sat Jan  4 01:27:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1186
+! Number of entries: 1191
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -88,6 +88,7 @@
 ||argosnop.com^
 ||arirak.online^
 ||arldeemix.com^
+||armani.ai.com^
 ||ars88safe.online^
 ||artabusiness.com^
 ||artwareworld.com^
@@ -119,6 +120,7 @@
 ||bbc.tv.org^
 ||bcapstaking.com^
 ||bchminer.com^
+||bcplgi.shop^
 ||bdjf2ls.com^
 ||bearatten.com^
 ||beastter.com^
@@ -241,6 +243,7 @@
 ||cloc.mastercasc.top^
 ||cloudgeardesign.com^
 ||cloudimpactx.com^
+||clqazxvc.com^
 ||clqbd.edistolife.com^
 ||cltlbuslncssonlne.com^
 ||cmail.com^
@@ -521,6 +524,7 @@
 ||insads.net^
 ||insightdreams.online^
 ||inspirighty.com^
+||intelligiencehub.com^
 ||inter.entregas.online^
 ||investor.digiestate.online^
 ||ipctd.online^
@@ -1022,6 +1026,7 @@
 ||topsmanings.top^
 ||topthingsinlife.com^
 ||topvibes.top^
+||toyzboutique.com^
 ||tozc.online^
 ||tqwin.online^
 ||track.ptctt.com^
