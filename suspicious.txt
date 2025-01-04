@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.04.000153.2025
+! Version: 01.04.004517.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan  4 00:01:53 UTC 2025
+! Last modified: Sat Jan  4 00:45:17 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1181
+! Number of entries: 1186
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -115,6 +115,7 @@
 ||bamajt.world^
 ||bancaseguraporlnternetdeempresas.scotialbanrkperu.online^
 ||bar47menu.online^
+||basedturbo.io^
 ||bbc.tv.org^
 ||bcapstaking.com^
 ||bchminer.com^
@@ -299,6 +300,7 @@
 ||dbbjrhhn.guru^
 ||dcard50.ru^
 ||ddsteel.online^
+||deltadex.io^
 ||demogamingsalam123.online^
 ||deniise.com^
 ||dent.code.com^
@@ -455,6 +457,7 @@
 ||golditry.com^
 ||goldstradeapp.com^
 ||gominer.net^
+||goodoutweighs.top^
 ||goodserchez.com^
 ||goodsixsk.best^
 ||goodyouco.com^
@@ -782,6 +785,7 @@
 ||pe.trabajosdiarios.com^
 ||peacheck.com^
 ||pedrosantosblog.online^
+||peekyn.us.com^
 ||pefctiordent.com^
 ||penetratea.com^
 ||perfectideas.store^
@@ -878,6 +882,7 @@
 ||sagkjsd.com^
 ||saibabaweldings.xyz^
 ||sale.oggi.com^
+||salebeddingus.com^
 ||salewaoutletsespana.es^
 ||samimpex.org^
 ||samsa.pro^
