@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.04.170053.2025
+! Version: 01.04.173103.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan  4 17:00:53 UTC 2025
+! Last modified: Sat Jan  4 17:31:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1252
+! Number of entries: 1258
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -47,6 +47,7 @@
 ||airdropclaims.netlify.app^
 ||airdropusdt.shop^
 ||airobotsmart.net^
+||aitimart.com^
 ||aitransactionplatform.com^
 ||aixomi.com^
 ||akurat33.com^
@@ -562,6 +563,7 @@
 ||iris.tech.online^
 ||itactivejobs.xyz^
 ||itau.com.py^
+||itorrents.igruha.org^
 ||itsemelf.com^
 ||itsssl.com^
 ||iujuc.shop^
@@ -649,6 +651,7 @@
 ||ln.run^
 ||lockheed3.com^
 ||login.microsoft.com^
+||lolex.net^
 ||longchampespana.cc^
 ||lootbar.gg^
 ||lopa.store^
@@ -774,6 +777,7 @@
 ||oceanprotocol2.life^
 ||oemete.com^
 ||ofertabook.online^
+||ofertadomostruario.com^
 ||offersheres.net^
 ||oguiadossonhos15anos.online^
 ||ojrq.net^
@@ -904,6 +908,7 @@
 ||reegwallet.store^
 ||reelshort.2025.com^
 ||refefshopin.top^
+||reg.yourgamebuilder.com^
 ||reoe.shop^
 ||repaircontractors2us0507.online^
 ||researchchemicalskopen.net^
@@ -1209,6 +1214,7 @@
 ||windcapitalsinfo.us^
 ||winfy.top^
 ||winner.com^
+||winuno55.com^
 ||winviag.com^
 ||winwin.bet^
 ||wittweidende.store^
