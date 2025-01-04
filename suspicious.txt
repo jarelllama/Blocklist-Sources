@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.04.213106.2025
+! Version: 01.04.220059.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan  4 21:31:06 UTC 2025
+! Last modified: Sat Jan  4 22:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1291
+! Number of entries: 1295
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -185,6 +185,7 @@
 ||bmwstore.eu.com^
 ||bnextrade.com^
 ||bodegaaureramx.shop^
+||bonanza.usdt.com^
 ||bondicurls.com^
 ||boodiecawquaw.top^
 ||bookmarkfc.info^
@@ -832,6 +833,7 @@
 ||orange.co.uk^
 ||orionbitmarket.online^
 ||orourkeapp.com^
+||ostehard.com^
 ||otherstoriessale.shop^
 ||ourruless.store^
 ||outfitloft.com^
@@ -942,6 +944,7 @@
 ||reventa.co^
 ||revvedsupply.com^
 ||ritoudown.com^
+||robertslogisticsenterprise.com^
 ||robin.joy.com^
 ||robinhoodgroupltd.com^
 ||rockhillcapital.org^
@@ -1270,6 +1273,7 @@
 ||xsdvdeal.store^
 ||xtb.com^
 ||xtremediscount.net^
+||xtremeiptv.online^
 ||xvkdfashion.shop^
 ||xyzverse.io^
 ||ybycmeds.com^
