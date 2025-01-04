@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.04.200100.2025
+! Version: 01.04.203116.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan  4 20:01:00 UTC 2025
+! Last modified: Sat Jan  4 20:31:16 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1277
+! Number of entries: 1284
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -116,6 +116,7 @@
 ||avlissatdnagait.online^
 ||avrixdynamiservices.com^
 ||ayridchandler.shop^
+||babytoll.shop^
 ||baccarats.com.au^
 ||backtoblu.online^
 ||bagsupermarket.com^
@@ -191,6 +192,7 @@
 ||bphash.top^
 ||branch.forex.com^
 ||briansclub.cm.shop^
+||brilliantlyouth.store^
 ||btc913.com^
 ||btc933.com^
 ||btceex.com^
@@ -299,11 +301,13 @@
 ||cryptoids.info^
 ||cryptolios.net^
 ||cryptoxwave.com^
+||crystalglobalwealth.com^
 ||cuan66.co^
 ||cupomdepix.online^
 ||cursomarderesina.online^
 ||customscool.com^
 ||cuty.io^
+||cvlholding.co.uk^
 ||cvstrx.vip^
 ||cvuire.vip^
 ||cyberguardforchrome.com^
@@ -395,6 +399,7 @@
 ||erybdu.com^
 ||es.bankinter.usuario.com^
 ||eschallengersmode.com^
+||escrowpi.com^
 ||esquentabet.online^
 ||establishmentlottery.top^
 ||estarenergy.ltd^
@@ -462,6 +467,7 @@
 ||gdqai.com^
 ||gel9.online^
 ||genesisminingbot.com^
+||geninsur.com^
 ||geographz.com^
 ||getdrant.shop^
 ||getsoothesmooth.com^
@@ -1101,6 +1107,7 @@
 ||toolstationuk.shop^
 ||topflixtv.online^
 ||topinfoarticlesforu.com^
+||topmall.life^
 ||topsmanings.top^
 ||topthingsinlife.com^
 ||topvibes.top^
