@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.05.230052.2025
+! Version: 01.05.233055.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan  5 23:00:52 UTC 2025
+! Last modified: Sun Jan  5 23:30:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1428
+! Number of entries: 1432
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -40,6 +40,7 @@
 ||adidas.rest^
 ||adjacentin.com^
 ||adminpg.online^
+||adsarp.com^
 ||affiliatemarketlite.com^
 ||affirmgrowth.co^
 ||agonas.techubz.com^
@@ -785,6 +786,7 @@
 ||mariswiss.com^
 ||marketing4solutionsblog.online^
 ||markminer.net^
+||markservers.com^
 ||marsincfog.com^
 ||marvelusdt.com^
 ||matteomarcelli.com^
@@ -796,6 +798,7 @@
 ||meb.budget.com^
 ||mediamartk.xyz^
 ||mednakit.com^
+||megaflix.co^
 ||memubit.com^
 ||meta.cafe.net^
 ||metatrader5.com^
@@ -927,6 +930,7 @@
 ||outfitloft.com^
 ||overep.com^
 ||owfori.net^
+||oxblockmines.com^
 ||p2btradehubx.info^
 ||padelofficiel.com^
 ||pageindustriesltd.com^
