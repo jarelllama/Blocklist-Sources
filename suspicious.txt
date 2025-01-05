@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.04.233053.2025
+! Version: 01.05.000157.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan  4 23:30:53 UTC 2025
+! Last modified: Sun Jan  5 00:01:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1310
+! Number of entries: 1314
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -133,6 +133,7 @@
 ||bearatten.com^
 ||beastter.com^
 ||beat.sticker.online^
+||beaucham.com^
 ||bedtige.top^
 ||beedermaus.com^
 ||bekerja.online^
@@ -307,6 +308,7 @@
 ||crypto.motorsports.com^
 ||cryptoids.info^
 ||cryptolios.net^
+||cryptoneerpro.com^
 ||cryptoxwave.com^
 ||crystalglobalwealth.com^
 ||cuan66.co^
@@ -872,6 +874,7 @@
 ||peekyn.us.com^
 ||pefctiordent.com^
 ||penetratea.com^
+||peraplay.ph^
 ||perfectideas.store^
 ||personalloans30096.online^
 ||petermillarsale.shop^
@@ -1208,6 +1211,7 @@
 ||venarose.online^
 ||vendorbroz.com^
 ||venotem.com^
+||venotux.com^
 ||ventalor.com^
 ||ventness.com^
 ||ventrobi.io^
