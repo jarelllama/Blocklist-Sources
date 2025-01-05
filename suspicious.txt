@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.05.012812.2025
+! Version: 01.05.020639.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan  5 01:28:12 UTC 2025
+! Last modified: Sun Jan  5 02:06:39 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1327
+! Number of entries: 1334
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -36,6 +36,7 @@
 ||acrossfold.com^
 ||addressfinancial.com^
 ||adgkj.com^
+||adidas.rest^
 ||adjacentin.com^
 ||adminpg.online^
 ||affiliatemarketlite.com^
@@ -733,11 +734,14 @@
 ||marketing4solutionsblog.online^
 ||markminer.net^
 ||marsincfog.com^
+||marvelusdt.com^
 ||matteomarcelli.com^
 ||mavocossycloud.com^
+||maxices.com^
 ||mayer.boutique.de^
 ||mayzik.com^
 ||meb.budget.com^
+||mediamartk.xyz^
 ||mednakit.com^
 ||memubit.com^
 ||meta.cafe.net^
@@ -1025,6 +1029,7 @@
 ||shelee.vip^
 ||shibaarmy.world^
 ||shinelyjews.shop^
+||shirudigiseo.top^
 ||shopeevip.shop^
 ||shoponlinesale.shop^
 ||shorturl.at^
@@ -1195,6 +1200,7 @@
 ||undetectedbanknotes.com^
 ||undressbaby.com^
 ||uniquepropertygroup.co.uk^
+||universalwealth.org^
 ||unltee.com^
 ||upayy.online^
 ||upb.edu.co^
@@ -1219,6 +1225,7 @@
 ||valeriehouseofdigital.online^
 ||validatemypimainnetwallet.online^
 ||valueversion.com^
+||vbdigitalcard.in^
 ||vc66.net^
 ||velogisc.com^
 ||venarose.online^
