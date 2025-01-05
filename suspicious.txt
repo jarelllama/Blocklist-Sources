@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.05.200052.2025
+! Version: 01.05.203058.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan  5 20:00:52 UTC 2025
+! Last modified: Sun Jan  5 20:30:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1402
+! Number of entries: 1406
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -649,6 +649,7 @@
 ||jaysranchhamden.online^
 ||jewelrygiftcenter.com^
 ||jikinideals.shop^
+||jmitdk9.szvne337c.org^
 ||joanonline.shop^
 ||johncrestani.online.com^
 ||join.lavishivy.com^
@@ -774,6 +775,7 @@
 ||matteomarcelli.com^
 ||mavocossycloud.com^
 ||maxices.com^
+||maxmaraluxury.shop^
 ||mayer.boutique.de^
 ||mayzik.com^
 ||meb.budget.com^
@@ -940,6 +942,7 @@
 ||peraplay.ph^
 ||perfectideas.store^
 ||personalloans30096.online^
+||pesdnfeje.shop^
 ||petermillarsale.shop^
 ||pg77.game^
 ||phillipa.online^
@@ -1179,6 +1182,7 @@
 ||thedollar.online^
 ||thefurniturestudio.store^
 ||thehygienefree.top^
+||theinvisibleaffiliate.com^
 ||theleolab.online^
 ||thenorthernlabs.com^
 ||theonlinejob.co.in^
