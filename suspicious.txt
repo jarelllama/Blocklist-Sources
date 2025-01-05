@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.05.030808.2025
+! Version: 01.05.033558.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan  5 03:08:08 UTC 2025
+! Last modified: Sun Jan  5 03:35:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1343
+! Number of entries: 1347
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -602,6 +602,7 @@
 ||investor.digiestate.online^
 ||ipctd.online^
 ||iptvkaufen24.de^
+||iptvnexus.com^
 ||iqmind.co^
 ||iralarkincoach.com^
 ||iranfinance.info^
@@ -773,6 +774,7 @@
 ||modilimitado.io^
 ||mondiairelay.livraison.com^
 ||monetoad.com^
+||moneyfarms.club^
 ||monnromall.com^
 ||monofilsawali.top^
 ||moonlightmint.co^
@@ -975,6 +977,7 @@
 ||renmsuq.shop^
 ||reoe.shop^
 ||repaircontractors2us0507.online^
+||res.ldrescdn.com^
 ||researchchemicalskopen.net^
 ||resortburg.online^
 ||retoswap.com^
@@ -1174,6 +1177,7 @@
 ||trahia.com^
 ||trantbitf.astpro.top^
 ||trantnguyentech.store^
+||treasurenft.xyz^
 ||treatmeinty.com^
 ||trejoapp.com^
 ||tremvolknipi.online^
