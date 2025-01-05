@@ -3,9 +3,9 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.05.083314.2025
+! Version: 01.05.090102.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan  5 08:33:14 UTC 2025
+! Last modified: Sun Jan  5 09:01:02 UTC 2025
 ! Syntax: Adblock Plus
 ! Number of entries: 1356
 ||123notices.com^
