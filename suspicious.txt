@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.05.000157.2025
+! Version: 01.05.004533.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan  5 00:01:57 UTC 2025
+! Last modified: Sun Jan  5 00:45:33 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1314
+! Number of entries: 1319
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -55,6 +55,7 @@
 ||alectomedia.online^
 ||alfianacendani.online^
 ||all.chems.com^
+||alleycatsol.xyz^
 ||allianceroyals.com^
 ||allicross.online^
 ||alo88.black^
@@ -263,6 +264,7 @@
 ||cloudgateflowershop.com^
 ||cloudgeardesign.com^
 ||cloudimpactx.com^
+||cloudstream.pro^
 ||clqazxvc.com^
 ||clqbd.edistolife.com^
 ||cltlbuslncssonlne.com^
@@ -339,6 +341,7 @@
 ||dent.code.com^
 ||dentalclinicgreaternoida.com^
 ||devzone2.online^
+||dewsenergyconstruction.com^
 ||dex.trade.global^
 ||dghv.store^
 ||digestionscience.com^
@@ -458,6 +461,7 @@
 ||forbiddenpant.com^
 ||fordeeal.shop^
 ||forge.wallet.com^
+||fotytv.com^
 ||foundationrepair0407.online^
 ||foundationrepair3009.online^
 ||foundryusa.com^
@@ -496,6 +500,7 @@
 ||globalnotelab.com^
 ||globalsmartrade.com^
 ||globeathome.online^
+||glowpast.com^
 ||gnde.shop^
 ||go.alphalamenace.com^
 ||goapoachowoovol.net^
