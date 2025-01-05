@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.05.203058.2025
+! Version: 01.05.210052.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan  5 20:30:58 UTC 2025
+! Last modified: Sun Jan  5 21:00:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1406
+! Number of entries: 1413
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -358,6 +358,7 @@
 ||ddsteel.online^
 ||deenext.com^
 ||defidappsrestore.web.app^
+||delicatede.com^
 ||deltadex.io^
 ||deluxe.goods.uk^
 ||demogamingsalam123.online^
@@ -437,8 +438,10 @@
 ||enerpinpellets.shop^
 ||enhanceprotocol.co.in^
 ||enjoy99.org^
+||ens36.sfe.infd.edu.ar^
 ||entrustify.co.in^
 ||eobot.net^
+||eonsalestore.com^
 ||epeweko.info^
 ||epoiu.com^
 ||erybdu.com^
@@ -655,6 +658,7 @@
 ||join.lavishivy.com^
 ||joingy.online^
 ||jollypulse.co.in^
+||josephina.shop^
 ||jpgcompressor.online^
 ||jradx.ca^
 ||jump.panel.surprise.clever.top^
@@ -751,6 +755,7 @@
 ||luminassociate.com^
 ||lushyedge.com^
 ||luxeflairz.com^
+||luxewatchus.com^
 ||lwbbc.com^
 ||lylussplus.com^
 ||m.bitunixex.com^
@@ -966,6 +971,7 @@
 ||powerelixir.online^
 ||powermaxph.com^
 ||powertools.market.com^
+||practicalss.com^
 ||primeinvest.app^
 ||pro.cion.com^
 ||procim.online^
@@ -1323,6 +1329,7 @@
 ||vocabularye.com^
 ||vokryer.com^
 ||volcminer.store^
+||volmar.sinformations.cfd^
 ||votelya.com^
 ||vtwinschool.com^
 ||vudu.top^
