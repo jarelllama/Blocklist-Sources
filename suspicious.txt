@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.05.213049.2025
+! Version: 01.05.220058.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan  5 21:30:49 UTC 2025
+! Last modified: Sun Jan  5 22:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1414
+! Number of entries: 1420
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -121,6 +121,7 @@
 ||authenticreplicanotes.com^
 ||auto.downloads.com^
 ||autotracksolution.com^
+||autry.eu.shop^
 ||avalontrdpro.com^
 ||aviation.ancienne.forumactif.com^
 ||avlissatdnagait.online^
@@ -132,6 +133,7 @@
 ||bagsupermarket.com^
 ||bamajt.world^
 ||bancaseguraporlnternetdeempresas.scotialbanrkperu.online^
+||bank.sepah.com^
 ||bar47menu.online^
 ||basedturbo.io^
 ||bbc.tv.org^
@@ -169,6 +171,7 @@
 ||bikinibossmiamieu.com^
 ||bikobabybus.com^
 ||bileerrero.shop^
+||binariumy.com^
 ||bingo.ba^
 ||bio.drop.com^
 ||bioairdrop.com^
@@ -211,6 +214,7 @@
 ||bphash.top^
 ||branch.forex.com^
 ||briansclub.cm.shop^
+||brighodew.com^
 ||brilliantlyouth.store^
 ||btc913.com^
 ||btc933.com^
@@ -237,6 +241,7 @@
 ||campershoessales1.best^
 ||canconsulting.in^
 ||car.zhouznq.cn^
+||cardmasparamiempresa.wuaze.com^
 ||careeredge.online^
 ||carrepairus0507.online^
 ||casetesy.com^
@@ -1328,6 +1333,7 @@
 ||vizivu.one^
 ||vntgvogue.com^
 ||vocabularye.com^
+||vocationay.com^
 ||vokryer.com^
 ||volcminer.store^
 ||volmar.sinformations.cfd^
