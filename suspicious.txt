@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.05.050103.2025
+! Version: 01.05.053211.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan  5 05:01:03 UTC 2025
+! Last modified: Sun Jan  5 05:32:11 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1349
+! Number of entries: 1353
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -784,6 +784,7 @@
 ||mqyn.odqmjbta.shop^
 ||mttathletics.com^
 ||muke.ai^
+||multicanais.games^
 ||multiverse.retifications.netlify.app^
 ||mundoonline.link^
 ||mvknnd.online^
@@ -910,6 +911,8 @@
 ||phillipa.online^
 ||pip4gains.com^
 ||pippopet.store^
+||pirlotvhd.lol^
+||pirlotvhd.org^
 ||pityeon.com^
 ||play.qqvip303.online^
 ||playfortune.cc^
@@ -991,6 +994,7 @@
 ||robin.joy.com^
 ||robinhoodgroupltd.com^
 ||rockhillcapital.org^
+||rojadirectvonline.com^
 ||rokinat.co.in^
 ||roll2x.com^
 ||roofing.services.fb.online^
