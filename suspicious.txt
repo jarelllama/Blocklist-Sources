@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.05.173059.2025
+! Version: 01.05.180059.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan  5 17:30:59 UTC 2025
+! Last modified: Sun Jan  5 18:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1383
+! Number of entries: 1387
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -501,6 +501,7 @@
 ||fundxrecover.com^
 ||fungretail.shop^
 ||furniturej.shop^
+||futurofinanzachile.com^
 ||fxddarab.online^
 ||fxminedeotra.com^
 ||fxnexapipstream.com^
@@ -734,6 +735,7 @@
 ||ltcpay.net^
 ||ltcxminer.pro^
 ||luatypticures.co.in^
+||lucky.motorcycles.com^
 ||lucky888.top^
 ||lulusafh.com^
 ||luminassociate.com^
@@ -1060,6 +1062,7 @@
 ||sec.loanbusiness.com^
 ||securedjointnetwork.co.in^
 ||sedonainvestments.co.uk^
+||semello.fr^
 ||senso.cat^
 ||seokore.com^
 ||setes.live^
@@ -1270,6 +1273,7 @@
 ||valeriehouseofdigital.online^
 ||validatemypimainnetwallet.online^
 ||valueversion.com^
+||valxcane.lol^
 ||vbdigitalcard.in^
 ||vc66.net^
 ||velogisc.com^
