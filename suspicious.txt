@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.05.183431.2025
+! Version: 01.05.190057.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan  5 18:34:31 UTC 2025
+! Last modified: Sun Jan  5 19:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1391
+! Number of entries: 1396
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -54,6 +54,7 @@
 ||aitimart.com^
 ||aitransactionplatform.com^
 ||aixomi.com^
+||aiyibay.com^
 ||akurat33.com^
 ||alectomedia.online^
 ||alfianacendani.online^
@@ -215,6 +216,7 @@
 ||btc933.com^
 ||btceex.com^
 ||btcotcvip.net^
+||btfxtraders.com^
 ||buenomarket.store^
 ||builderall.net^
 ||buiudr.com^
@@ -427,6 +429,7 @@
 ||emergencyplumbingservices3009.online^
 ||emetom.com^
 ||empiric.online^
+||enclarhealth.com^
 ||encomendas.importacao.online^
 ||endeavourmarketing.global.vip^
 ||enegsseinvestmentteam.info^
@@ -496,6 +499,7 @@
 ||foundryusa.com^
 ||free.ethereum.io^
 ||freebitco.in^
+||frienditeglobal.online^
 ||frontbulletin.com^
 ||fruit777.tech^
 ||ftx.global.site^
@@ -1017,6 +1021,7 @@
 ||retrofxmarkets.com^
 ||reventa.co^
 ||revvedsupply.com^
+||rewardy.io^
 ||ritoudown.com^
 ||robertslogisticsenterprise.com^
 ||robin.joy.com^
