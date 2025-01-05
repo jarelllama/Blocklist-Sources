@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.05.220058.2025
+! Version: 01.05.223224.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan  5 22:00:58 UTC 2025
+! Last modified: Sun Jan  5 22:32:24 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1420
+! Number of entries: 1425
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -371,11 +371,13 @@
 ||dent.code.com^
 ||dentalclinicgreaternoida.com^
 ||departmentstoreclearance.com^
+||determin.shop^
 ||devzone2.online^
 ||dewsenergyconstruction.com^
 ||dex.trade.global^
 ||dexboss.io^
 ||dghv.store^
+||dhlmall.vip^
 ||digestionscience.com^
 ||digihash.io^
 ||digiqhub.com^
@@ -429,6 +431,7 @@
 ||eileenfisher.us.com^
 ||einhell.eusite.com^
 ||eldercity.xyz^
+||eliteminingresource.org^
 ||elixrium.online^
 ||elysiumvip.top^
 ||emcustomstudios.com^
@@ -844,6 +847,7 @@
 ||nefera.online^
 ||nestedfashion.com^
 ||netdcbf.com^
+||netfucks1.com^
 ||newlearning.icu^
 ||news.bfowago.cc^
 ||news.bgitagu.cc^
@@ -934,6 +938,7 @@
 ||paramediavideo.blogspot.com^
 ||parisdocase.com^
 ||parkit.nc.com^
+||parksideatvip.shop^
 ||parksidestores.com^
 ||partecularly.com^
 ||pascoprime.com^
