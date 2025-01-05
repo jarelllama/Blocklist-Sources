@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.05.020639.2025
+! Version: 01.05.024652.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan  5 02:06:39 UTC 2025
+! Last modified: Sun Jan  5 02:46:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1334
+! Number of entries: 1339
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -109,6 +109,7 @@
 ||atb14.com^
 ||atlaspays.com^
 ||atomishine.com^
+||atouchofgreenboutique.com^
 ||au24shop.com^
 ||aubuds.com^
 ||auroracherie.com^
@@ -182,12 +183,14 @@
 ||bitunix.com^
 ||bitzealy.com^
 ||bitzoy.com^
+||bjfdyh.com^
 ||blackfridaywholesale.ru^
 ||blackshelter.org^
 ||blockdag.network^
 ||bloginnet.in^
 ||blombard.com^
 ||blue798798.com^
+||blushx.co^
 ||bmwstore.eu.com^
 ||bnextrade.com^
 ||bodegaaureramx.shop^
@@ -485,6 +488,7 @@
 ||fxminedeotra.com^
 ||fxnexapipstream.com^
 ||galacvy.com^
+||galaxiumtoken.com^
 ||gambyllion.com^
 ||game.zixia.com^
 ||game.zone.pro^
@@ -1127,6 +1131,7 @@
 ||theonlinejob.co.in^
 ||theoryar.com^
 ||thespotifypremiumapk.com^
+||thestockstandout.com^
 ||thestylefoundrycle.store^
 ||thetodayhealth.xyz^
 ||thomashouseofdigitals.store^
