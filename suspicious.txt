@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.05.180059.2025
+! Version: 01.05.183431.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan  5 18:00:59 UTC 2025
+! Last modified: Sun Jan  5 18:34:31 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1387
+! Number of entries: 1391
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -23,6 +23,7 @@
 ||5movierulz.gay^
 ||777color87.com^
 ||7k.casino.16.online^
+||7starbet.com^
 ||82lottery9.in^
 ||988359.com^
 ||abdullahonline.store^
@@ -228,6 +229,7 @@
 ||bveusdt.com^
 ||bxfinvestment.com^
 ||bybit.nidx.com^
+||cadogoa.shop^
 ||camelmining.com^
 ||caminoverdadyvida.online^
 ||campershoessales1.best^
@@ -301,6 +303,7 @@
 ||coinlocally.forex^
 ||coinomi.com^
 ||coinswift.exchange^
+||cointir.cc^
 ||com.513i.cfd^
 ||com.nx1t.cfd^
 ||com.rb45.cfd^
@@ -384,6 +387,7 @@
 ||dogepick.io^
 ||dogooddaldaadw.com^
 ||dominatei.shop^
+||dopehungary.hu.com^
 ||download.wondershare.net^
 ||downloadfiles.link^
 ||dpboss.services^
