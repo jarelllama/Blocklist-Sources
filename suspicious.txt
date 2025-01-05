@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.05.004533.2025
+! Version: 01.05.012812.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan  5 00:45:33 UTC 2025
+! Last modified: Sun Jan  5 01:28:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1319
+! Number of entries: 1327
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -19,6 +19,7 @@
 ||24proleverage.com^
 ||278.hnyuanoo.top^
 ||2llcc.vip^
+||552059.com^
 ||5movierulz.gay^
 ||777color87.com^
 ||7k.casino.16.online^
@@ -214,6 +215,7 @@
 ||buyado.de^
 ||buyantibiotics24h.net^
 ||bveusdt.com^
+||bxfinvestment.com^
 ||bybit.nidx.com^
 ||camelmining.com^
 ||caminoverdadyvida.online^
@@ -261,6 +263,7 @@
 ||climbcourse.cam^
 ||clime.mastercasc.top^
 ||cloc.mastercasc.top^
+||cloud.mining.cc^
 ||cloudgateflowershop.com^
 ||cloudgeardesign.com^
 ||cloudimpactx.com^
@@ -336,6 +339,7 @@
 ||deenext.com^
 ||defidappsrestore.web.app^
 ||deltadex.io^
+||deluxe.goods.uk^
 ||demogamingsalam123.online^
 ||deniise.com^
 ||dent.code.com^
@@ -351,6 +355,7 @@
 ||digiterminator.online^
 ||digitsagency.online^
 ||diptyque.shop^
+||diptysales.com^
 ||directoryofus.online^
 ||direktori.online^
 ||discount.area.com^
@@ -418,6 +423,7 @@
 ||establishmentlottery.top^
 ||estarenergy.ltd^
 ||estherwinter.eu^
+||eu.venum.shop^
 ||eurovs.com^
 ||euroyalexpress.com^
 ||evenflofeedingsuperstore.shop^
@@ -564,6 +570,7 @@
 ||hudsonclassic.com^
 ||hugoprimetradefx.com^
 ||hunnybank.com^
+||hvuaill.com^
 ||hyph666.win^
 ||i.apple.com.tr^
 ||iceriver.company^
@@ -908,6 +915,7 @@
 ||procim.online^
 ||productonline.cloud^
 ||projectplaygroundtech.com^
+||promo.offer.com^
 ||promptfunds.org^
 ||propandcounterfietmoney.com^
 ||propfirmpassingservice.net^
