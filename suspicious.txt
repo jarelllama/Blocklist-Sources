@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.06.020451.2025
+! Version: 01.06.024623.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan  6 02:04:51 UTC 2025
+! Last modified: Mon Jan  6 02:46:23 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1448
+! Number of entries: 1452
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -435,6 +435,7 @@
 ||eileenfisher.us.com^
 ||einhell.eusite.com^
 ||eldercity.xyz^
+||eliteclonecards.com^
 ||eliteminingresource.org^
 ||elixrium.online^
 ||elysiumvip.top^
@@ -704,6 +705,7 @@
 ||kishka.co^
 ||kittycomfortstore.com^
 ||kleinanzeigen.de^
+||klim.us.store.shop^
 ||klixglobal.net^
 ||kloomba.com^
 ||kmspico.ltd^
@@ -1241,6 +1243,7 @@
 ||tiny.one^
 ||tionoc.net^
 ||titan13.com^
+||tkshopp.vip^
 ||tkxxtk.com^
 ||tldindia.online^
 ||tmgmoo.com^
@@ -1319,6 +1322,7 @@
 ||us.amtmodels.com^
 ||us.retgdsence.com^
 ||us.viiceemall.com^
+||usa.mito.com^
 ||usahawanlg.my^
 ||usahellyhansen.com^
 ||usdpick.io^
