@@ -3,12 +3,13 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.06.124233.2025
+! Version: 01.06.130548.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan  6 12:42:33 UTC 2025
+! Last modified: Mon Jan  6 13:05:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1552
+! Number of entries: 1558
 ||123notices.com^
+||1woqab.top^
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
@@ -201,6 +202,7 @@
 ||bitblockasset.com^
 ||bitcexpro.vip^
 ||bitcoin.laundry2.net^
+||bitcoin.pays.com^
 ||bitcoinfreemining.com^
 ||bitconemine.com^
 ||bitdolphx.com^
@@ -208,6 +210,7 @@
 ||bithub.bot^
 ||bitly.net^
 ||bitmamining.com^
+||bitpaymentstore.com^
 ||bitunix.com^
 ||bitvipenuss.com^
 ||bitzealy.com^
@@ -522,6 +525,8 @@
 ||fapy.ai^
 ||faraira.fun^
 ||faredglorias.com^
+||farmaciafrancesa.com^
+||farmaciasenovillasancho.com^
 ||farmapram.com^
 ||fasdja.com^
 ||fashionworldcc.shop^
@@ -895,6 +900,7 @@
 ||mondiairelay.livraison.com^
 ||monetoad.com^
 ||moneyfarms.club^
+||monipoints.com^
 ||monnromall.com^
 ||monofilsawali.top^
 ||moonlightmint.co^
