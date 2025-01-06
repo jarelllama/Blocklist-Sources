@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.06.163537.2025
+! Version: 01.06.170102.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan  6 16:35:37 UTC 2025
+! Last modified: Mon Jan  6 17:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1572
+! Number of entries: 1577
 ||123notices.com^
 ||1woqab.top^
 ||1worldtraining.com^
@@ -292,6 +292,7 @@
 ||chalaorry.shop^
 ||changeip.net^
 ||charmcot.com^
+||chassoutlel.shop^
 ||chemicaltiger.com^
 ||cheqseep.online^
 ||chiccraftz.com^
@@ -315,6 +316,7 @@
 ||clever.turtle.1plivsii.sandboxcms.com^
 ||click5tawages.buzz^
 ||clickclpwages.buzz^
+||clickwages.buzz^
 ||clickyfwprize.buzz^
 ||clids.mastercasc.top^
 ||climbcourse.cam^
@@ -676,6 +678,7 @@
 ||hotelvalues.com^
 ||hotspingames.top^
 ||hotvxfs.shop^
+||hoylitecandle.store^
 ||htadz.online^
 ||htxsbot.com^
 ||hudsonclassic.com^
@@ -897,6 +900,7 @@
 ||milisoil.com^
 ||milwakusharetexa.com^
 ||mimosabarkhaven.com^
+||mini.well.store^
 ||minibitcoin.xyz^
 ||minibuzzy.online^
 ||miningcompany.ltd^
@@ -1311,6 +1315,7 @@
 ||survyhelp.com^
 ||svip.work46.com^
 ||swiftfinverge.com^
+||swipelake.shop^
 ||swiss.mo.inv.com^
 ||synthealth.com^
 ||tads.baker.co.za^
