@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.06.203122.2025
+! Version: 01.06.210104.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan  6 20:31:22 UTC 2025
+! Last modified: Mon Jan  6 21:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1607
+! Number of entries: 1613
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -365,6 +365,7 @@
 ||comic.hupshop.com^
 ||compare.deals.online.info^
 ||comprasdigitaisglobais.online^
+||coninvestholdingsltd.com^
 ||connectdefix.online^
 ||connectionos.xyz^
 ||consorciosrt.online^
@@ -411,6 +412,7 @@
 ||dashboard.teneo.pro^
 ||dawnfelt.com^
 ||dbbjrhhn.guru^
+||dbmsurvey.com^
 ||dcard50.ru^
 ||ddsteel.online^
 ||deenext.com^
@@ -584,6 +586,7 @@
 ||foundationrepair3009.online^
 ||foundryusa.com^
 ||fra.grandado.com^
+||fragrancesrealms.com^
 ||free.ethereum.io^
 ||freebitco.in^
 ||freestar.buzz^
@@ -836,6 +839,7 @@
 ||llbeanfactoryoutlets.shop^
 ||lmhous.net^
 ||ln.run^
+||loanfundsonline.com^
 ||lockheed3.com^
 ||login.microsoft.com^
 ||lolex.net^
@@ -1575,6 +1579,7 @@
 ||xmbroker.click^
 ||xpertlex.online^
 ||xpresswealthbnk.com^
+||xrpofficial.reward.com^
 ||xsdvdeal.store^
 ||xtb.com^
 ||xtremediscount.net^
@@ -1596,6 +1601,7 @@
 ||yourwebarmorsolutions.com^
 ||youtube85.com^
 ||youxiangonline.live^
+||yozabit.com^
 ||yunpso.com^
 ||yupoo.vip^
 ||z2u.com^
