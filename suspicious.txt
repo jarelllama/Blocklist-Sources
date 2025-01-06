@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.06.043437.2025
+! Version: 01.06.050059.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan  6 04:34:37 UTC 2025
+! Last modified: Mon Jan  6 05:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1468
+! Number of entries: 1474
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -24,6 +24,7 @@
 ||777color87.com^
 ||7k.casino.16.online^
 ||7starbet.com^
+||80.25.pcs.com^
 ||82lottery9.in^
 ||988359.com^
 ||abdullahonline.store^
@@ -50,6 +51,7 @@
 ||ahhaqq.com^
 ||ai.kraken2025.com^
 ||aietftoken.com^
+||ainology.com^
 ||airdropclaims.netlify.app^
 ||airdropusdt.shop^
 ||airobotplatform888.com^
@@ -340,6 +342,7 @@
 ||creneau.2025.mondial.com^
 ||cripexbit.com^
 ||cripto.keys.store^
+||cristianmartinez.online^
 ||crsverify.online^
 ||crypto.com^
 ||crypto.motorsports.com^
@@ -653,6 +656,7 @@
 ||intelligiencehub.com^
 ||inter.entregas.online^
 ||investor.digiestate.online^
+||ip.hz.com^
 ||ipctd.online^
 ||iptvkaufen24.de^
 ||iptvnexus.com^
@@ -834,6 +838,7 @@
 ||milisoil.com^
 ||milwakusharetexa.com^
 ||mimosabarkhaven.com^
+||minibitcoin.xyz^
 ||minibuzzy.online^
 ||miningcompany.ltd^
 ||missav.cam^
@@ -1192,6 +1197,7 @@
 ||spctravelads.com^
 ||special.sale.sbs^
 ||spinslot88won.online^
+||spoorme.com^
 ||sport.prints.online^
 ||sprunkiphase.online^
 ||srchfst.com^
