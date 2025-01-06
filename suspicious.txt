@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.06.060109.2025
+! Version: 01.06.063659.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan  6 06:01:09 UTC 2025
+! Last modified: Mon Jan  6 06:36:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1485
+! Number of entries: 1490
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -24,6 +24,7 @@
 ||777color87.com^
 ||7k.casino.16.online^
 ||7starbet.com^
+||80.25.buu.com^
 ||80.25.pcs.com^
 ||82lottery9.in^
 ||988359.com^
@@ -487,6 +488,7 @@
 ||euroyalexpress.com^
 ||evenflofeedingsuperstore.shop^
 ||eventscodm.com^
+||evil.com^
 ||exnori.com^
 ||expand.experts.com^
 ||expert.coinasset.com^
@@ -795,6 +797,7 @@
 ||lucky.motorcycles.com^
 ||lucky888.top^
 ||lulusafh.com^
+||lumacex.com^
 ||luminassociate.com^
 ||lushyedge.com^
 ||luxeflairz.com^
@@ -922,6 +925,7 @@
 ||nyc3.digitaloceanspaces.com^
 ||obalaso.online^
 ||obraspublicaschaco2024.online^
+||obuchenie.taro.online^
 ||oceanprotocol2.life^
 ||oemete.com^
 ||ofertabook.online^
@@ -1148,6 +1152,7 @@
 ||secured.triumphfx.com^
 ||securedjointnetwork.co.in^
 ||sedonainvestments.co.uk^
+||seephotograp.top^
 ||semello.fr^
 ||senso.cat^
 ||seokore.com^
