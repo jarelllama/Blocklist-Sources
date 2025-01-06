@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.06.170102.2025
+! Version: 01.06.173208.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan  6 17:01:02 UTC 2025
+! Last modified: Mon Jan  6 17:32:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1577
+! Number of entries: 1582
 ||123notices.com^
 ||1woqab.top^
 ||1worldtraining.com^
@@ -352,6 +352,7 @@
 ||coinomi.com^
 ||coinswift.exchange^
 ||cointir.cc^
+||colosseumdiroma.tickets.com^
 ||com.513i.cfd^
 ||com.nx1t.cfd^
 ||com.rb45.cfd^
@@ -546,6 +547,7 @@
 ||fget.career.com^
 ||fic.cc^
 ||fieldloom.com^
+||fiheos.co.in^
 ||fileplanet.com^
 ||files.fm^
 ||fineprint.online^
@@ -571,6 +573,7 @@
 ||foundationrepair0407.online^
 ||foundationrepair3009.online^
 ||foundryusa.com^
+||fra.grandado.com^
 ||free.ethereum.io^
 ||freebitco.in^
 ||freestar.buzz^
@@ -1153,6 +1156,7 @@
 ||reelshort.2025.com^
 ||refefshopin.top^
 ||reg.yourgamebuilder.com^
+||relaymondial.net^
 ||renmsuq.shop^
 ||reoe.shop^
 ||repaircontractors2us0507.online^
@@ -1556,6 +1560,7 @@
 ||xyzverse.io^
 ||yanwosu.com^
 ||ybycmeds.com^
+||yieldboostinvests.com^
 ||yinxing.info^
 ||ynmufr.9l5lortoe.top^
 ||ynmufr.h2os7lzt7.top^
