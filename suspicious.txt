@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.06.033635.2025
+! Version: 01.06.040058.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan  6 03:36:35 UTC 2025
+! Last modified: Mon Jan  6 04:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1462
+! Number of entries: 1468
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -42,6 +42,7 @@
 ||adjacentin.com^
 ||adminpg.online^
 ||adsarp.com^
+||adsphericalsuits.com^
 ||affiliatemarketlite.com^
 ||affirmgrowth.co^
 ||agonas.techubz.com^
@@ -205,6 +206,7 @@
 ||bloginnet.in^
 ||blombard.com^
 ||blue798798.com^
+||bluewhaleapps.life^
 ||blushx.co^
 ||bmwstore.eu.com^
 ||bnextrade.com^
@@ -581,6 +583,7 @@
 ||gotospares.com^
 ||gptaiminds.com^
 ||grassroot.impact.centre.org^
+||greenlanemarketing.bond^
 ||griefquotes.xyz^
 ||grindsoft.com^
 ||growthcapinc.com^
@@ -683,6 +686,7 @@
 ||josephina.shop^
 ||jpgcompressor.online^
 ||jradx.ca^
+||jrelievedy.monster^
 ||jump.panel.surprise.clever.top^
 ||jumper.lvlnk.com^
 ||justanorganizedhome.online^
@@ -818,6 +822,7 @@
 ||memubit.com^
 ||meta.cafe.net^
 ||metatrader5.com^
+||metatradingai.co^
 ||methodeversohnungvonbeziehungen.online^
 ||metodolog.online^
 ||metropolidata.com^
@@ -1040,6 +1045,7 @@
 ||qfsnesara.io^
 ||qqbit.net^
 ||quantumdigitalmatket.com^
+||quarkaitrade.com^
 ||quvrmh.com^
 ||raceprep.site^
 ||radianters.com^
