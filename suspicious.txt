@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.06.053322.2025
+! Version: 01.06.060109.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan  6 05:33:22 UTC 2025
+! Last modified: Mon Jan  6 06:01:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1476
+! Number of entries: 1485
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -107,6 +107,7 @@
 ||armani.ai.com^
 ||ars88safe.online^
 ||artabusiness.com^
+||artsyfame.homes^
 ||artwareworld.com^
 ||asap777.online^
 ||asiacargo.online^
@@ -205,6 +206,7 @@
 ||bjfdyh.com^
 ||blackfridaywholesale.ru^
 ||blackshelter.org^
+||blast.tv.org^
 ||blockdag.network^
 ||bloginnet.in^
 ||blombard.com^
@@ -226,6 +228,7 @@
 ||briansclub.cm.shop^
 ||brighodew.com^
 ||brilliantlyouth.store^
+||brushbeacon.homes^
 ||btc913.com^
 ||btc933.com^
 ||btceex.com^
@@ -250,6 +253,8 @@
 ||caminoverdadyvida.online^
 ||campershoessales1.best^
 ||canconsulting.in^
+||canvaschronicle.homes^
+||canvasgenius.homes^
 ||car.zhouznq.cn^
 ||cardmasparamiempresa.wuaze.com^
 ||careeredge.online^
@@ -315,6 +320,7 @@
 ||cobatis.sm.com^
 ||code.getoffus.site^
 ||coin.go.in^
+||coin.gofastgo.online^
 ||coinebc.com^
 ||coinfet.net^
 ||coinget.online^
@@ -815,6 +821,7 @@
 ||markservers.com^
 ||marsincfog.com^
 ||marvelusdt.com^
+||masterfulart.homes^
 ||matteomarcelli.com^
 ||mavocossycloud.com^
 ||maxices.com^
@@ -967,8 +974,10 @@
 ||pages.tempisite.com^
 ||pagmseguro.online^
 ||pagprotegido.online^
+||painterlyco.homes^
 ||paintingservices2us0507.online^
 ||pairrelax.com^
+||palettepro.homes^
 ||palliee.com^
 ||palloda.com^
 ||palmettostatearmoryam.store^
