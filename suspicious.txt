@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.06.133357.2025
+! Version: 01.06.140108.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan  6 13:33:57 UTC 2025
+! Last modified: Mon Jan  6 14:01:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1561
+! Number of entries: 1563
 ||123notices.com^
 ||1woqab.top^
 ||1worldtraining.com^
@@ -558,6 +558,7 @@
 ||forbiddenpant.com^
 ||fordeeal.shop^
 ||forge.wallet.com^
+||forsage.io^
 ||fotytv.com^
 ||foundationrepair0407.online^
 ||foundationrepair3009.online^
@@ -984,6 +985,7 @@
 ||okjg13.icu^
 ||oldendroff.com^
 ||oluwasegunakinyemi.com^
+||olux.to^
 ||omgprice10.cc^
 ||on.shoes.uae.com^
 ||oncees.live^
