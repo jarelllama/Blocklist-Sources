@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.06.120106.2025
+! Version: 01.06.124233.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan  6 12:01:06 UTC 2025
+! Last modified: Mon Jan  6 12:42:33 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1546
+! Number of entries: 1552
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -55,6 +55,7 @@
 ||ai.kraken2025.com^
 ||aietftoken.com^
 ||ainology.com^
+||airbagtravel.store^
 ||airdropclaims.netlify.app^
 ||airdropusdt.shop^
 ||airobotplatform888.com^
@@ -389,6 +390,7 @@
 ||dagahna.fun^
 ||dailytehillim.online^
 ||dailyuploads.net^
+||dainese.sale.shop^
 ||dappschainapp.com^
 ||dashboard.teneo.pro^
 ||dawnfelt.com^
@@ -542,6 +544,7 @@
 ||fluctz.xyz^
 ||fluminer.org^
 ||flwoertime.de^
+||fmovies.co^
 ||focusmarkets.com^
 ||footjoyofficial.com^
 ||footjoysale.shop^
@@ -670,6 +673,7 @@
 ||iceriver.company^
 ||iconicinternational.online^
 ||idtumy.com^
+||ifast2.com^
 ||ilclawgroup.com^
 ||imbictoz.com^
 ||immediatepump.com^
@@ -848,6 +852,7 @@
 ||markservers.com^
 ||marsincfog.com^
 ||marvelusdt.com^
+||massgrave.dev^
 ||masterfulart.homes^
 ||matteomarcelli.com^
 ||mavocossycloud.com^
@@ -1262,6 +1267,7 @@
 ||sstdocumentos.com^
 ||stablest.shop^
 ||starofliberty.online^
+||starplancrypto.com^
 ||startingstrong.life^
 ||startperfectsolutions.com^
 ||startwrit.com^
