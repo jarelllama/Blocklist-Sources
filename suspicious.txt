@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.06.190101.2025
+! Version: 01.06.193056.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan  6 19:01:01 UTC 2025
+! Last modified: Mon Jan  6 19:30:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1593
+! Number of entries: 1597
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -517,6 +517,7 @@
 ||establishmentlottery.top^
 ||estarenergy.ltd^
 ||estherwinter.eu^
+||eterminal.net^
 ||eu.venum.shop^
 ||eurocheapoonline.advanced.com^
 ||eurovs.com^
@@ -700,6 +701,7 @@
 ||i.apple.com.tr^
 ||iceriver.company^
 ||iconicinternational.online^
+||idjqwinla.net^
 ||idtumy.com^
 ||ifast2.com^
 ||ilclawgroup.com^
@@ -905,6 +907,7 @@
 ||metropolidata.com^
 ||mgiga2.com^
 ||microdr.ones.com.ng^
+||midsizedcars.com^
 ||mightycleansolutions.com^
 ||miiiralo.com^
 ||mikage.online^
@@ -955,6 +958,7 @@
 ||nearriot.com^
 ||neesedresses.com^
 ||nefera.online^
+||nefmw.top^
 ||nestedfashion.com^
 ||netdcbf.com^
 ||netfucks1.com^
