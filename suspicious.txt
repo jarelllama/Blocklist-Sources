@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.06.230056.2025
+! Version: 01.06.233057.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan  6 23:00:56 UTC 2025
+! Last modified: Mon Jan  6 23:30:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1628
+! Number of entries: 1633
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -173,6 +173,7 @@
 ||belkcaseshop.com^
 ||belmondagency.com^
 ||beltlox.top^
+||benjamindavispersonaltrainer.com^
 ||bernardex.com^
 ||bervospace.com^
 ||beseenmarketing.online^
@@ -510,6 +511,7 @@
 ||enegsseinvestmentteam.info^
 ||enerpinpellets.shop^
 ||enhanceprotocol.co.in^
+||eniqai.com^
 ||enjoy99.org^
 ||ens36.sfe.infd.edu.ar^
 ||entrustify.co.in^
@@ -916,6 +918,7 @@
 ||meistrgold.com^
 ||memubit.com^
 ||meta.cafe.net^
+||metascorex.com^
 ||metatrader5.com^
 ||metatradingai.co^
 ||methodeversohnungvonbeziehungen.online^
@@ -1390,6 +1393,7 @@
 ||tiffanymart.online^
 ||tiffanymart.site^
 ||tiktokshopte.com^
+||timestrendd.com^
 ||tinfoil.io^
 ||tiny.one^
 ||tioctrically.com^
@@ -1415,6 +1419,7 @@
 ||topsmanings.top^
 ||topthingsinlife.com^
 ||topvibes.top^
+||tosdex.com^
 ||totalwellstore.com^
 ||toyzboutique.com^
 ||tozc.online^
