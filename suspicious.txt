@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.06.012810.2025
+! Version: 01.06.020451.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan  6 01:28:10 UTC 2025
+! Last modified: Mon Jan  6 02:04:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1443
+! Number of entries: 1448
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -116,6 +116,7 @@
 ||atlaspays.com^
 ||atomishine.com^
 ||atouchofgreenboutique.com^
+||attriaction.com^
 ||au24shop.com^
 ||aubuds.com^
 ||auroracherie.com^
@@ -285,6 +286,7 @@
 ||clids.mastercasc.top^
 ||climbcourse.cam^
 ||clime.mastercasc.top^
+||clkiva.shop^
 ||clladss.com^
 ||cloc.mastercasc.top^
 ||cloud.mining.cc^
@@ -440,6 +442,7 @@
 ||emea01.safelinks.protection.outlook.com^
 ||emergencyplumbingservices3009.online^
 ||emetom.com^
+||empireminers.com^
 ||empiric.online^
 ||enclarhealth.com^
 ||encomendas.importacao.online^
@@ -1125,6 +1128,7 @@
 ||shopa66.com^
 ||shopeevip.shop^
 ||shoponlinesale.shop^
+||shoptastic.io^
 ||shorturl.at^
 ||shotzon.com^
 ||signalarchitects.cloud^
@@ -1245,6 +1249,7 @@
 ||tokentrade.top^
 ||toolstationsale.com^
 ||toolstationuk.shop^
+||topdailyfanaticspips.com^
 ||topflixtv.online^
 ||topinfoarticlesforu.com^
 ||topmall.life^
