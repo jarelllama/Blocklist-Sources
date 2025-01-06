@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.06.100104.2025
+! Version: 01.06.103511.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan  6 10:01:04 UTC 2025
+! Last modified: Mon Jan  6 10:35:11 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1524
+! Number of entries: 1529
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -297,6 +297,7 @@
 ||claimgrass.netlify.app^
 ||cleanquest.xyz^
 ||cled.euteschan.top^
+||cleshy.com^
 ||clever.buffalo.pejrxqol.sandboxcms.com^
 ||clever.turtle.1plivsii.sandboxcms.com^
 ||click5tawages.buzz^
@@ -602,6 +603,7 @@
 ||goodoutweighs.top^
 ||goodserchez.com^
 ||goodsixsk.best^
+||goodvigorous.com^
 ||goodyouco.com^
 ||google.com.gt^
 ||goosecreekcandle.com^
@@ -1218,6 +1220,7 @@
 ||smartphone.ue.shop^
 ||smartrecoup.com^
 ||smith.newyork.com^
+||snapbuy.us^
 ||snapsave.app^
 ||sneakersfaclub.com^
 ||snowdaycalculator.online^
@@ -1244,6 +1247,7 @@
 ||sprunkiphase.online^
 ||srchfst.com^
 ||sstdocumentos.com^
+||stablest.shop^
 ||starofliberty.online^
 ||startingstrong.life^
 ||startperfectsolutions.com^
@@ -1346,6 +1350,7 @@
 ||trendiano.in^
 ||trendly24.com^
 ||trendyhubllc.shop^
+||trimalajucredit.com^
 ||trmanifesto.com^
 ||trolleytimes.online^
 ||tronholdingsllc.com^
