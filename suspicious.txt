@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.06.193056.2025
+! Version: 01.06.200102.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan  6 19:30:56 UTC 2025
+! Last modified: Mon Jan  6 20:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1597
+! Number of entries: 1601
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -88,6 +88,7 @@
 ||amaznmarket.shop^
 ||amazonsellersappeal.com^
 ||amgesic.com^
+||amniktechnologies.com^
 ||amzkdt.online^
 ||angelicstoragebv.com^
 ||angiechew.online^
@@ -1486,6 +1487,7 @@
 ||ventness.com^
 ||ventrobi.io^
 ||vepnext.com^
+||verpeliculasultra.com^
 ||vexunax.com^
 ||vexunox.com^
 ||vflcsz.info^
@@ -1581,6 +1583,7 @@
 ||ynmufr.h2os7lzt7.top^
 ||yocart.vip^
 ||yomovies1.skin^
+||yoomiy.shop^
 ||youareanidiot.org^
 ||youmeya.online^
 ||youngglobalinvestmentsinc.com^
@@ -1589,6 +1592,7 @@
 ||youxiangonline.live^
 ||yunpso.com^
 ||yupoo.vip^
+||z2u.com^
 ||zadig.et.voltaire.eu.com^
 ||zdigitalagencymt.cc^
 ||zeharris.online^
