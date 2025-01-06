@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.06.080059.2025
+! Version: 01.06.083506.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan  6 08:00:59 UTC 2025
+! Last modified: Mon Jan  6 08:35:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1508
+! Number of entries: 1514
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -158,6 +158,7 @@
 ||beaucham.com^
 ||bedtige.top^
 ||beedermaus.com^
+||beijingwatches.com^
 ||bekerja.online^
 ||belkcaseshop.com^
 ||belmondagency.com^
@@ -352,6 +353,7 @@
 ||couturedrift.com^
 ||couturevista.com^
 ||cqzywhisper.shop^
+||crazediscount.com^
 ||creneau.2025.mondial.com^
 ||cripexbit.com^
 ||cripto.keys.store^
@@ -750,6 +752,7 @@
 ||kulken.com^
 ||kurtastudio.com^
 ||laboratoire.osmose.com^
+||labrary.store^
 ||laceandlush.com^
 ||lacefaves.com^
 ||lacostes.com.mx^
@@ -1235,6 +1238,7 @@
 ||starofliberty.online^
 ||startingstrong.life^
 ||startperfectsolutions.com^
+||startwrit.com^
 ||stavelux.net^
 ||steamcommunmutty.com^
 ||steamcomumnitty.com^
@@ -1487,6 +1491,7 @@
 ||xtremeiptv.online^
 ||xvkdfashion.shop^
 ||xyzverse.io^
+||yanwosu.com^
 ||ybycmeds.com^
 ||yinxing.info^
 ||ynmufr.9l5lortoe.top^
@@ -1507,6 +1512,7 @@
 ||zerocodeblock.com^
 ||zetdax.top^
 ||zfp.zfppool.com^
+||zhuan2345.com^
 ||zimasilkt.com^
 ||zjulpujub.wlasnnz.cn^
 ||zlibrary.to^
