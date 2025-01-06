@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.06.073052.2025
+! Version: 01.06.080059.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan  6 07:30:52 UTC 2025
+! Last modified: Mon Jan  6 08:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1502
+! Number of entries: 1508
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -582,6 +582,7 @@
 ||globalnotelab.com^
 ||globalsmartrade.com^
 ||globeathome.online^
+||glod.usdeth.top^
 ||glowpast.com^
 ||gnde.shop^
 ||go.alphalamenace.com^
@@ -915,6 +916,9 @@
 ||news.bpotibu.cc^
 ||news.jufife.com^
 ||newulife.com^
+||nfs.eletronica.dezembro.com^
+||nfs.fazenda.empresas.com^
+||nfseletronica.fazenda.com^
 ||nft.babydoge.com^
 ||nikocanvas.com^
 ||nodelyai.org^
@@ -976,6 +980,7 @@
 ||otherstoriessale.shop^
 ||ourruless.store^
 ||outfitloft.com^
+||outlook.8i7.net^
 ||overep.com^
 ||owfori.net^
 ||oxblockmines.com^
@@ -1288,6 +1293,7 @@
 ||tiktokshopte.com^
 ||tinfoil.io^
 ||tiny.one^
+||tioctrically.com^
 ||tionoc.net^
 ||titan13.com^
 ||tkshopp.vip^
