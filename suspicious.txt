@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.06.024623.2025
+! Version: 01.06.030739.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan  6 02:46:23 UTC 2025
+! Last modified: Mon Jan  6 03:07:39 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1452
+! Number of entries: 1457
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -362,6 +362,7 @@
 ||dailyuploads.net^
 ||dappschainapp.com^
 ||dashboard.teneo.pro^
+||dawnfelt.com^
 ||dbbjrhhn.guru^
 ||dcard50.ru^
 ||ddsteel.online^
@@ -375,6 +376,7 @@
 ||dent.code.com^
 ||dentalclinicgreaternoida.com^
 ||departmentstoreclearance.com^
+||destinypulseprize.com^
 ||determin.shop^
 ||devzone2.online^
 ||dewsenergyconstruction.com^
@@ -518,6 +520,7 @@
 ||foundryusa.com^
 ||free.ethereum.io^
 ||freebitco.in^
+||freestar.buzz^
 ||frienditeglobal.online^
 ||frontbulletin.com^
 ||fruit777.tech^
@@ -629,6 +632,7 @@
 ||idtumy.com^
 ||ilclawgroup.com^
 ||imbictoz.com^
+||immediatepump.com^
 ||in.tmwn.online^
 ||inamksa.icu^
 ||incart.co.za^
@@ -956,6 +960,7 @@
 ||parisdocase.com^
 ||parkit.nc.com^
 ||parksideatvip.shop^
+||parksides.net^
 ||parksidestores.com^
 ||partecularly.com^
 ||pascoprime.com^
