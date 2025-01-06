@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.06.200102.2025
+! Version: 01.06.203122.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan  6 20:01:02 UTC 2025
+! Last modified: Mon Jan  6 20:31:22 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1601
+! Number of entries: 1607
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -213,6 +213,7 @@
 ||bitcoinfreemining.com^
 ||bitconemine.com^
 ||bitdolphx.com^
+||bitget.cloud^
 ||bitharvest.io^
 ||bithub.bot^
 ||bitly.net^
@@ -558,6 +559,7 @@
 ||fiheos.co.in^
 ||fileplanet.com^
 ||files.fm^
+||finder2loans.com^
 ||fineprint.online^
 ||firmdrexworld.com^
 ||fjallravenvip.shop^
@@ -1040,6 +1042,7 @@
 ||onrunning.top^
 ||optnutritips.com^
 ||orange.co.uk^
+||org.pay.9t03.cfd^
 ||orionbitmarket.online^
 ||orourkeapp.com^
 ||ostehard.com^
@@ -1092,6 +1095,7 @@
 ||petermillarsale.shop^
 ||pg77.game^
 ||phillipa.online^
+||pinnacle.equitygroup.com^
 ||pip4gains.com^
 ||pippopet.store^
 ||pirlotvhd.lol^
@@ -1322,6 +1326,7 @@
 ||storeyork.com.mx^
 ||strattrade.org^
 ||strikearchive.com^
+||stylesock.com^
 ||subscribelg.my^
 ||sugarsyncglycooptimizer.com^
 ||summeyco.online^
@@ -1381,6 +1386,7 @@
 ||tofro.com^
 ||tokenhedg.com^
 ||tokentrade.top^
+||tonbig.com^
 ||tonpick.game^
 ||toolstationsale.com^
 ||toolstationuk.shop^
