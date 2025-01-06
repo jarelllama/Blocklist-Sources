@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.06.113038.2025
+! Version: 01.06.120106.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan  6 11:30:38 UTC 2025
+! Last modified: Mon Jan  6 12:01:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1542
+! Number of entries: 1546
 ||123notices.com^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -558,6 +558,7 @@
 ||frienditeglobal.online^
 ||frontbulletin.com^
 ||fruit777.tech^
+||frutopy.com^
 ||ftx.global.site^
 ||fudianbank.win^
 ||fulenix.com^
@@ -859,6 +860,7 @@
 ||mediamartk.xyz^
 ||mednakit.com^
 ||megaflix.co^
+||meistrgold.com^
 ||memubit.com^
 ||meta.cafe.net^
 ||metatrader5.com^
@@ -919,6 +921,7 @@
 ||nestedfashion.com^
 ||netdcbf.com^
 ||netfucks1.com^
+||neuratech.global^
 ||newlearning.icu^
 ||newrocksouthafrica.com^
 ||news.bfowago.cc^
@@ -1279,6 +1282,7 @@
 ||summeyco.online^
 ||sunbit.ren^
 ||sundararajanneurohospital.com^
+||supplycenterusa.com^
 ||surfing777.online^
 ||survyhelp.com^
 ||svip.work46.com^
