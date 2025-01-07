@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.07.004531.2025
+! Version: 01.07.012757.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan  7 00:45:31 UTC 2025
+! Last modified: Tue Jan  7 01:27:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1642
+! Number of entries: 1651
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -810,6 +810,7 @@
 ||klixglobal.net^
 ||kloomba.com^
 ||kmspico.ltd^
+||knighted.shop^
 ||knoblatter.com^
 ||kobaltoutletstore.com^
 ||konigsbruder.com^
@@ -896,9 +897,13 @@
 ||mahadev.id.online^
 ||mainelobsterget.shop^
 ||mainelobstersstore.com^
+||mainmarketshop.shop^
 ||mainstreetmall.shop^
 ||maisonjardina.com^
 ||majere44.ffn.com^
+||majorhitsmart.shop^
+||majoritemsboutique.shop^
+||majorsavingsmall.shop^
 ||majulahfm.com^
 ||mallprix.com^
 ||malltrabaho.online^
@@ -922,6 +927,7 @@
 ||mediamartk.xyz^
 ||mednakit.com^
 ||megaflix.co^
+||megatrendsplaza.shop^
 ||meistrgold.com^
 ||memubit.com^
 ||meta.cafe.net^
@@ -949,6 +955,7 @@
 ||mjir.shop^
 ||mkcgopdregistration.online^
 ||mkurtos.com^
+||mmrtb.com^
 ||mncr.club^
 ||modeflair.com^
 ||modilimitado.io^
@@ -1013,6 +1020,7 @@
 ||nfs.fazenda.empresas.com^
 ||nfseletronica.fazenda.com^
 ||nft.babydoge.com^
+||nicolcssubreville.shop^
 ||nikocanvas.com^
 ||nodelyai.org^
 ||nodepay.ai^
@@ -1200,6 +1208,7 @@
 ||refefshopin.top^
 ||reg.yourgamebuilder.com^
 ||relaymondial.net^
+||reloadingstocks.com^
 ||renmsuq.shop^
 ||reoe.shop^
 ||repaircontractors2us0507.online^
