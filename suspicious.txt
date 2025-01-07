@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.07.155234.2025
+! Version: 01.07.161343.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan  7 15:52:34 UTC 2025
+! Last modified: Tue Jan  7 16:13:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1757
+! Number of entries: 1763
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -323,6 +323,7 @@
 ||cimarronclub.com^
 ||cintuwron.shop^
 ||cipaclimited.com^
+||circle.s.com^
 ||cisalfasport.it.com^
 ||cisneseyker.info^
 ||cisuzou.com^
@@ -508,6 +509,7 @@
 ||easyrcashdae.buzz^
 ||ebay.mall.net^
 ||eclatlumiere.com^
+||ecos.am^
 ||eddyconstructions.com^
 ||edekn.com^
 ||edmxed66.com^
@@ -551,6 +553,7 @@
 ||establishmentlottery.top^
 ||estarenergy.ltd^
 ||estherwinter.eu^
+||estiloargento.com.ar^
 ||eterminal.net^
 ||eu.venum.shop^
 ||eurocheapoonline.advanced.com^
@@ -654,6 +657,7 @@
 ||game.zone.pro^
 ||gapconnectionbridge.co.in^
 ||gaspol268.com^
+||gdmining.site^
 ||gdqai.com^
 ||gel9.online^
 ||genesisminingbot.com^
@@ -879,6 +883,7 @@
 ||leniaudelectromenager.com^
 ||leonemicrofinance.com^
 ||leparis.club^
+||letsgotothemoon.travel.com^
 ||leupold.us.shop^
 ||lexingtonhazelwoodstylist.com^
 ||lfj.gg^
@@ -1486,6 +1491,7 @@
 ||thespotifypremiumapk.com^
 ||thestockstandout.com^
 ||thestylefoundrycle.store^
+||thetaus.top^
 ||thetodayhealth.xyz^
 ||thomashouseofdigitals.store^
 ||threadsvault.com^
