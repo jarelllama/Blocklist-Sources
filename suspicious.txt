@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.07.090058.2025
+! Version: 01.07.093228.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan  7 09:00:58 UTC 2025
+! Last modified: Tue Jan  7 09:32:28 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1721
+! Number of entries: 1726
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -456,6 +456,7 @@
 ||digihash.io^
 ||digiqhub.com^
 ||digital.usdt.com^
+||digitalkeysoftware.com^
 ||digitalsmartone.online^
 ||digiterminator.online^
 ||digitsagency.online^
@@ -861,6 +862,7 @@
 ||leadadream.top^
 ||leadership.development.online^
 ||leakrepair30091.online^
+||ledger.connect.app^
 ||ledsmdlight.com^
 ||leniaudelectromenager.com^
 ||leonemicrofinance.com^
@@ -1014,6 +1016,7 @@
 ||mvrglobal.online^
 ||my.bebes.com^
 ||my.commbank.com.au^
+||my.fxmt.tech^
 ||myetherwzallet.com^
 ||mygardenhelper.online^
 ||mymap.quest^
@@ -1181,6 +1184,7 @@
 ||pippopet.store^
 ||pirlotvhd.lol^
 ||pirlotvhd.org^
+||piteos.com^
 ||pityeon.com^
 ||pixbay.online^
 ||play.qqvip303.online^
@@ -1637,6 +1641,7 @@
 ||wbocash.online^
 ||wealthassets.app^
 ||wealthbaseinvestment.com^
+||wealthwavestocks.org^
 ||web.nnleas.top^
 ||web3.gpt.shop^
 ||web3.olmaxsc.com^
