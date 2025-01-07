@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.07.193055.2025
+! Version: 01.07.200107.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan  7 19:30:55 UTC 2025
+! Last modified: Tue Jan  7 20:01:07 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1802
+! Number of entries: 1810
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -161,6 +161,7 @@
 ||bagsupermarket.com^
 ||bamajt.world^
 ||bancaseguraporlnternetdeempresas.scotialbanrkperu.online^
+||bangunbersama.online^
 ||bank.sepah.com^
 ||baominpower.com^
 ||bar47menu.online^
@@ -795,6 +796,7 @@
 ||intelligiencehub.com^
 ||inter.entregas.online^
 ||investor.digiestate.online^
+||ionmining.com^
 ||ip.hz.com^
 ||ipctd.online^
 ||iptvkaufen24.de^
@@ -898,6 +900,7 @@
 ||leakrepair30091.online^
 ||ledger.connect.app^
 ||ledsmdlight.com^
+||legendwox.online^
 ||leniaudelectromenager.com^
 ||leonemicrofinance.com^
 ||leparis.club^
@@ -1102,6 +1105,7 @@
 ||nfs.fazenda.empresas.com^
 ||nfseletronica.fazenda.com^
 ||nft.babydoge.com^
+||nftcolo.com^
 ||nicolcssubreville.shop^
 ||nikocanvas.com^
 ||nodelyai.org^
@@ -1148,6 +1152,7 @@
 ||online.courses.classes.21368.bond^
 ||online.courses.classes.44486.bond^
 ||online.courses.de.2618.click^
+||online.dating.sk.1481.today^
 ||online.degree.fr.en.9888354.fyi^
 ||online.english.classes641012.xyz^
 ||online.events.net^
@@ -1155,6 +1160,7 @@
 ||onlinematpilates.com^
 ||onlineotizmdanisma.com^
 ||onlineoverstock.cc^
+||onlinesevafine.com^
 ||onlinestoretechshop.com^
 ||onlinewealthmantra.com^
 ||onlyterrific.com^
@@ -1447,6 +1453,7 @@
 ||soportestreaming.online^
 ||sos.bg.sof.1.exo.io^
 ||sparkflr.info^
+||spartanbusinesssystems.com^
 ||spctravelads.com^
 ||special.sale.sbs^
 ||spinslot88won.online^
@@ -1468,6 +1475,7 @@
 ||steamcomunnuity.com^
 ||stellarskyline.com^
 ||stellwisestore.com^
+||stemncommunity.com^
 ||steparian.com^
 ||stocklogs.info^
 ||stoigr.org^
