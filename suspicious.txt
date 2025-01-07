@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.07.173224.2025
+! Version: 01.07.180106.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan  7 17:32:24 UTC 2025
+! Last modified: Tue Jan  7 18:01:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1778
+! Number of entries: 1784
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -323,6 +323,7 @@
 ||cheqseep.online^
 ||chiccraftz.com^
 ||chillpotrandom.com^
+||christopherchaves.com^
 ||ciekawoscobywateli.click^
 ||cimarronclub.com^
 ||cintuwron.shop^
@@ -606,6 +607,7 @@
 ||fineprint.online^
 ||firmdrexworld.com^
 ||fitgirl.repacks.site^
+||fjallraven.eu.com^
 ||fjallravenvip.shop^
 ||flashremitt.com^
 ||flashusdt.shop^
@@ -813,6 +815,7 @@
 ||jadloresga.shop^
 ||jamai.top^
 ||jaysranchhamden.online^
+||jbei99.vip^
 ||jewelrygiftcenter.com^
 ||jikinideals.shop^
 ||jlkwelding.online^
@@ -997,6 +1000,7 @@
 ||methodeversohnungvonbeziehungen.online^
 ||metodolog.online^
 ||metropolidata.com^
+||mexcgpt.com^
 ||mgiga2.com^
 ||mickeliuiu.shop^
 ||microdr.ones.com.ng^
@@ -1626,6 +1630,7 @@
 ||user.abmining.pro^
 ||user.ecosminer.io^
 ||usp773.com^
+||usps.tracking.helepoanx.cc^
 ||uvkxe.co^
 ||v2.youconvert.net^
 ||valeriehouseofdigital.online^
@@ -1706,6 +1711,7 @@
 ||whimsywagonn.com^
 ||white.fox.us.com^
 ||whmcmanus.shop^
+||wiaa.in^
 ||wichhistor.co.uk^
 ||williamarnold.online^
 ||windcapitalsinfo.us^
