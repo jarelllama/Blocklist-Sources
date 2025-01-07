@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.07.020242.2025
+! Version: 01.07.024449.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan  7 02:02:42 UTC 2025
+! Last modified: Tue Jan  7 02:44:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1657
+! Number of entries: 1664
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -125,6 +125,7 @@
 ||aslminer.com^
 ||assetxchangee.com^
 ||assiseaulosdansy.online^
+||assortedtechnology.com^
 ||atamedya.shop^
 ||atb14.com^
 ||atb15.com^
@@ -150,6 +151,7 @@
 ||babytoll.shop^
 ||baccarats.com.au^
 ||backtoblu.online^
+||bagii.shop^
 ||bagsupermarket.com^
 ||bamajt.world^
 ||bancaseguraporlnternetdeempresas.scotialbanrkperu.online^
@@ -180,6 +182,7 @@
 ||bestbiccle.shop^
 ||bestgreensuperfood.com^
 ||besthealth24.online^
+||bestnationalcreditunion.com^
 ||bet4.pe^
 ||betnight.online^
 ||betsclub.pro^
@@ -252,7 +255,9 @@
 ||briansclub.cm.shop^
 ||brighodew.com^
 ||brilliantlyouth.store^
+||britishairwaysroyaldeliverycompany.com^
 ||brushbeacon.homes^
+||brutus.xyz^
 ||btc913.com^
 ||btc933.com^
 ||btceex.com^
@@ -886,6 +891,7 @@
 ||lumacex.com^
 ||luminassociate.com^
 ||lushyedge.com^
+||luxebazaar.online^
 ||luxeflairz.com^
 ||luxewatchus.com^
 ||lwbbc.com^
@@ -1126,6 +1132,7 @@
 ||peekyn.us.com^
 ||pefctiordent.com^
 ||penetratea.com^
+||penguin.zkirc.com^
 ||peraplay.ph^
 ||perfectideas.store^
 ||personalloans30096.online^
