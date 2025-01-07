@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.07.080100.2025
+! Version: 01.07.083448.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan  7 08:01:00 UTC 2025
+! Last modified: Tue Jan  7 08:34:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1712
+! Number of entries: 1716
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -34,6 +34,7 @@
 ||a1b2c4.shop^
 ||aattechnologies.net^
 ||abdullahonline.store^
+||aberfields.com^
 ||aboutamir.com^
 ||abra.pico.top^
 ||acceleratew.com^
@@ -627,6 +628,7 @@
 ||funcapsnl.com^
 ||fundxrecover.com^
 ||fungretail.shop^
+||funnel.peonlyshop.com^
 ||furniturej.shop^
 ||futurofinanzachile.com^
 ||fxddarab.online^
@@ -953,6 +955,7 @@
 ||mednakit.com^
 ||megaflix.co^
 ||megatrendsplaza.shop^
+||meindl.norge.com^
 ||meistrgold.com^
 ||memubit.com^
 ||meta.cafe.net^
@@ -990,6 +993,7 @@
 ||mondiairelay.livraison.com^
 ||monetoad.com^
 ||moneyfarms.club^
+||moneyseasilyaogt.buzz^
 ||monipoints.com^
 ||monnromall.com^
 ||monofilsawali.top^
