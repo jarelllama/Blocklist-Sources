@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.07.213108.2025
+! Version: 01.07.220051.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan  7 21:31:08 UTC 2025
+! Last modified: Tue Jan  7 22:00:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1820
+! Number of entries: 1824
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -334,6 +334,7 @@
 ||cintuwron.shop^
 ||cipaclimited.com^
 ||circle.s.com^
+||cirquemusicz.com^
 ||cisalfasport.it.com^
 ||cisneseyker.info^
 ||cisuzou.com^
@@ -352,6 +353,7 @@
 ||clickwages.buzz^
 ||clickyfwprize.buzz^
 ||clids.mastercasc.top^
+||clientesparcel.dhl.es^
 ||climbcourse.cam^
 ||clime.mastercasc.top^
 ||clkiva.shop^
@@ -1191,6 +1193,7 @@
 ||oxblockmines.com^
 ||p2btradehubx.info^
 ||padelofficiel.com^
+||pagalopount.site^
 ||pageindustriesltd.com^
 ||pages.tempisite.com^
 ||pagmseguro.online^
@@ -1581,6 +1584,7 @@
 ||topvibes.top^
 ||tosdex.com^
 ||totalwellstore.com^
+||towork.998.vip^
 ||toyzboutique.com^
 ||tozc.online^
 ||tqwin.online^
