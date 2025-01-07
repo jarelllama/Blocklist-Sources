@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.07.200107.2025
+! Version: 01.07.203203.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan  7 20:01:07 UTC 2025
+! Last modified: Tue Jan  7 20:32:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1810
+! Number of entries: 1819
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -115,6 +115,7 @@
 ||arakaxabux.com^
 ||arbicryptos.com^
 ||arcmine.com^
+||aregalex.monster^
 ||argosnop.com^
 ||arirak.online^
 ||arldeemix.com^
@@ -264,6 +265,7 @@
 ||bphash.top^
 ||branch.forex.com^
 ||brandingacademy.online^
+||breakmine.online^
 ||briansclub.cm.shop^
 ||bridgeconnection.co.in^
 ||brighodew.com^
@@ -879,7 +881,9 @@
 ||kobaltoutletstore.com^
 ||konigsbruder.com^
 ||kpmy556.cc^
+||krecociler.monster^
 ||kreed5425210621621.online^
+||krefractoryr.lol^
 ||ksda.online.org^
 ||kubabuy.com^
 ||kulken.com^
@@ -945,6 +949,7 @@
 ||lourdeswestleyhawk.org^
 ||lovemyparfum.com^
 ||lpr.articlefindpro.com^
+||lrefraine.lol^
 ||ltcautomining.com^
 ||ltcpay.net^
 ||ltcxminer.pro^
@@ -1050,6 +1055,7 @@
 ||movenzo.com^
 ||mpc7.cc^
 ||mqyn.odqmjbta.shop^
+||mrefractiont.lol^
 ||mttathletics.com^
 ||muke.ai^
 ||mulherstore.shop^
@@ -1161,6 +1167,7 @@
 ||onlineotizmdanisma.com^
 ||onlineoverstock.cc^
 ||onlinesevafine.com^
+||onlinessyodobashis.cc^
 ||onlinestoretechshop.com^
 ||onlinewealthmantra.com^
 ||onlyterrific.com^
@@ -1238,6 +1245,7 @@
 ||piteos.com^
 ||pityeon.com^
 ||pixbay.online^
+||pkvn68.online^
 ||play.qqvip303.online^
 ||playfortune.cc^
 ||playgmz.online^
@@ -1286,6 +1294,7 @@
 ||qfsbackupassets.ltd^
 ||qfsnesara.io^
 ||qqbit.net^
+||qrefuishz.monster^
 ||quantumdigitalmatket.com^
 ||quarkaitrade.com^
 ||quillpunt.online^
