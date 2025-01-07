@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.07.164030.2025
+! Version: 01.07.170123.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan  7 16:40:30 UTC 2025
+! Last modified: Tue Jan  7 17:01:23 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1769
+! Number of entries: 1775
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -119,6 +119,7 @@
 ||arirak.online^
 ||arldeemix.com^
 ||armani.ai.com^
+||arnavix.online^
 ||ars88safe.online^
 ||artabusiness.com^
 ||artsyfame.homes^
@@ -131,6 +132,7 @@
 ||assiseaulosdansy.online^
 ||assortedtechnology.com^
 ||atamedya.shop^
+||ataraxonline.net^
 ||atb14.com^
 ||atb15.com^
 ||atlaspays.com^
@@ -575,6 +577,7 @@
 ||fakaira.space^
 ||falalamxn.vip^
 ||falconfxtrading.com^
+||fancyfont.online^
 ||faphouse.com^
 ||fapy.ai^
 ||faraira.fun^
@@ -1096,6 +1099,7 @@
 ||nudify.online^
 ||nuroswealth.org^
 ||nutraway.top^
+||nvidiaair.com^
 ||nyc3.digitaloceanspaces.com^
 ||oandaelitetrading.com^
 ||obagee.com^
@@ -1396,6 +1400,7 @@
 ||skywing.ltd.com^
 ||sleekfitz.com^
 ||slmsbz.com^
+||slot7.onlinecasino.com^
 ||smartearningpool.online^
 ||smartgyro.es^
 ||smartns.ink^
@@ -1718,6 +1723,7 @@
 ||woonr.top^
 ||workshop.forex.com^
 ||world.delivery.service.com^
+||wowonlinestores.co.in^
 ||woxdem.com^
 ||wwtchain.top^
 ||www.y2mate.com^
