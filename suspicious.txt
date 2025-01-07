@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.07.024449.2025
+! Version: 01.07.030622.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan  7 02:44:49 UTC 2025
+! Last modified: Tue Jan  7 03:06:22 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1664
+! Number of entries: 1670
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -501,6 +501,7 @@
 ||egyptiantech.org^
 ||eileenfisher.us.com^
 ||einhell.eusite.com^
+||elabd.online^
 ||eldercity.xyz^
 ||eliteclonecards.com^
 ||eliteminingresource.org^
@@ -732,6 +733,7 @@
 ||ilclawgroup.com^
 ||imbictoz.com^
 ||immediatepump.com^
+||importantstuff.online^
 ||in.tmwn.online^
 ||inamksa.icu^
 ||incart.co.za^
@@ -772,6 +774,7 @@
 ||jaysranchhamden.online^
 ||jewelrygiftcenter.com^
 ||jikinideals.shop^
+||jlkwelding.online^
 ||jmitdk9.szvne337c.org^
 ||joanonline.shop^
 ||johncrestani.online.com^
@@ -1140,6 +1143,7 @@
 ||petermillarsale.shop^
 ||pg77.game^
 ||phillipa.online^
+||pinkonline.store^
 ||pinnacle.equitygroup.com^
 ||pip4gains.com^
 ||pippopet.store^
@@ -1391,6 +1395,7 @@
 ||sxyprn.net^
 ||synthealth.com^
 ||tads.baker.co.za^
+||takchu.com^
 ||talentstreamnet.com^
 ||talklikesm.best^
 ||taqwapublications.com^
@@ -1399,6 +1404,7 @@
 ||technozone.com.au^
 ||tedexy.com^
 ||teiagrma.pub^
+||telelabs.online^
 ||tenadex.com^
 ||tfalcon.online^
 ||tgbtest.com^
