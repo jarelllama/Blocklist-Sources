@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.07.040054.2025
+! Version: 01.07.043336.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan  7 04:00:54 UTC 2025
+! Last modified: Tue Jan  7 04:33:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1679
+! Number of entries: 1686
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -31,6 +31,7 @@
 ||80.25.pcs.com^
 ||82lottery9.in^
 ||988359.com^
+||a1b2c4.shop^
 ||aattechnologies.net^
 ||abdullahonline.store^
 ||aboutamir.com^
@@ -604,10 +605,12 @@
 ||foundationrepair3009.online^
 ||foundryusa.com^
 ||foxsofe.app.bond^
+||fozan.online^
 ||fra.grandado.com^
 ||fragrancesrealms.com^
 ||free.ethereum.io^
 ||freebitco.in^
+||freesamplesprousa.com^
 ||freestar.buzz^
 ||frienditeglobal.online^
 ||frontbulletin.com^
@@ -1121,6 +1124,7 @@
 ||palliee.com^
 ||palloda.com^
 ||palmettostatearmoryam.store^
+||palyzoo.online^
 ||panel.toolspik.com^
 ||paramediavideo.blogspot.com^
 ||parisdocase.com^
@@ -1158,8 +1162,10 @@
 ||pirlotvhd.lol^
 ||pirlotvhd.org^
 ||pityeon.com^
+||pixbay.online^
 ||play.qqvip303.online^
 ||playfortune.cc^
+||playgmz.online^
 ||playstation.stores.com^
 ||pledgeoffers.com^
 ||pnusaa.com^
@@ -1620,6 +1626,7 @@
 ||windcapitalsinfo.us^
 ||winfy.top^
 ||winner.com^
+||winplay.online^
 ||winuno55.com^
 ||winviag.com^
 ||winwin.bet^
