@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.07.043336.2025
+! Version: 01.07.050105.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan  7 04:33:36 UTC 2025
+! Last modified: Tue Jan  7 05:01:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1686
+! Number of entries: 1694
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -253,6 +253,7 @@
 ||bpee.top^
 ||bphash.top^
 ||branch.forex.com^
+||brandingacademy.online^
 ||briansclub.cm.shop^
 ||brighodew.com^
 ||brilliantlyouth.store^
@@ -1080,6 +1081,7 @@
 ||onefarm.pro^
 ||onerosey.com^
 ||online.advertising.73412.bond^
+||online.advertising.96909.bond^
 ||online.aktarmalar.hizmeti.store^
 ||online.courses.classes.21368.bond^
 ||online.courses.classes.44486.bond^
@@ -1297,6 +1299,8 @@
 ||sbk.trx1.com^
 ||scard50.ru^
 ||scholar.achiever.xyz^
+||sciatica.massage.16.online^
+||sciaticnerve.treatment.16.online^
 ||sdx96.com^
 ||sdxsjc.com^
 ||searchednow.com^
@@ -1346,6 +1350,7 @@
 ||smartns.ink^
 ||smartphone.ue.shop^
 ||smartrecoup.com^
+||smesk.online^
 ||smith.newyork.com^
 ||snapbuy.us^
 ||snapsave.app^
@@ -1468,6 +1473,7 @@
 ||topflixtv.online^
 ||topinfoarticlesforu.com^
 ||topmall.life^
+||toppipoptions.online^
 ||topsmanings.top^
 ||topthingsinlife.com^
 ||topvibes.top^
@@ -1542,6 +1548,7 @@
 ||usa.mito.com^
 ||usahawanlg.my^
 ||usahellyhansen.com^
+||usarmunukr.online^
 ||usdpick.io^
 ||usdtbb.com^
 ||usdtmall.co^
@@ -1618,6 +1625,7 @@
 ||wfoqfashion.shop^
 ||wftqatar.com^
 ||wheelpg777.online^
+||wheelresq.online^
 ||wheybit.com^
 ||white.fox.us.com^
 ||whmcmanus.shop^
