@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.07.103523.2025
+! Version: 01.07.110102.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan  7 10:35:23 UTC 2025
+! Last modified: Tue Jan  7 11:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1730
+! Number of entries: 1738
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -1131,6 +1131,7 @@
 ||outfitloft.com^
 ||outlook.8i7.net^
 ||overep.com^
+||owerexs.com^
 ||owfori.net^
 ||ox.fun^
 ||oxblockmines.com^
@@ -1317,6 +1318,7 @@
 ||san.stores.com^
 ||saobentofaculdade.online^
 ||saotex.com^
+||saoxdex.com^
 ||sarangpuradharamashala.online^
 ||sato.castle.com^
 ||savvyessence.com^
@@ -1337,7 +1339,9 @@
 ||sedonainvestments.co.uk^
 ||seephotograp.top^
 ||semello.fr^
+||semphasize.com^
 ||senso.cat^
+||senteted.com^
 ||seokore.com^
 ||setes.live^
 ||sfardlanka.com^
@@ -1355,6 +1359,7 @@
 ||shotzon.com^
 ||signalarchitects.cloud^
 ||silegx.org^
+||silviicia.com^
 ||simmsfishingonsale.shop^
 ||simon.frei.pc.online^
 ||simpsonai.club^
@@ -1439,6 +1444,7 @@
 ||swiftfinverge.com^
 ||swipelake.shop^
 ||swiss.mo.inv.com^
+||swminex.com^
 ||sxyprn.net^
 ||synthealth.com^
 ||tads.baker.co.za^
@@ -1472,6 +1478,7 @@
 ||thetodayhealth.xyz^
 ||thomashouseofdigitals.store^
 ||threadsvault.com^
+||tickfyx.shop^
 ||tiendaplethora.online^
 ||tiendassalomoncolombia.com.co^
 ||tiffanymart.online^
@@ -1602,6 +1609,7 @@
 ||ventalor.com^
 ||ventness.com^
 ||ventrobi.io^
+||ventulor.com^
 ||vepnext.com^
 ||verpeliculasultra.com^
 ||vexunax.com^
