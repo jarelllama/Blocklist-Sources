@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.07.033533.2025
+! Version: 01.07.040054.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan  7 03:35:33 UTC 2025
+! Last modified: Tue Jan  7 04:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1673
+! Number of entries: 1679
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -847,6 +847,7 @@
 ||leadership.development.online^
 ||leakrepair30091.online^
 ||ledsmdlight.com^
+||leniaudelectromenager.com^
 ||leonemicrofinance.com^
 ||leparis.club^
 ||leupold.us.shop^
@@ -997,6 +998,7 @@
 ||myetherwzallet.com^
 ||mygardenhelper.online^
 ||mymap.quest^
+||mymindwellness.co.uk^
 ||mypassivetrade.com^
 ||myplatform.top^
 ||mytraveldaddy.us^
@@ -1005,6 +1007,7 @@
 ||nationalcasinolp.com^
 ||nc.ph.2974.zerads.com^
 ||nearriot.com^
+||nebluscommercial.com^
 ||neesedresses.com^
 ||nefera.online^
 ||nefmw.top^
@@ -1050,6 +1053,7 @@
 ||nuroswealth.org^
 ||nutraway.top^
 ||nyc3.digitaloceanspaces.com^
+||oandaelitetrading.com^
 ||obalaso.online^
 ||obraspublicaschaco2024.online^
 ||obuchenie.taro.online^
@@ -1139,6 +1143,7 @@
 ||pefctiordent.com^
 ||penetratea.com^
 ||penguin.zkirc.com^
+||penguinmalil.com^
 ||peraplay.ph^
 ||perfectideas.store^
 ||personalloans30096.online^
@@ -1240,6 +1245,7 @@
 ||revvedsupply.com^
 ||rewardy.io^
 ||rewmplkkf.beauty^
+||rightgist.com^
 ||ritoudown.com^
 ||robertslogisticsenterprise.com^
 ||robin.joy.com^
