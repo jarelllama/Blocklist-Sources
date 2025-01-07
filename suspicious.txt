@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.07.161343.2025
+! Version: 01.07.164030.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan  7 16:13:43 UTC 2025
+! Last modified: Tue Jan  7 16:40:30 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1763
+! Number of entries: 1769
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -124,6 +124,7 @@
 ||artsyfame.homes^
 ||artwareworld.com^
 ||asap777.online^
+||ascensionio.online^
 ||asiacargo.online^
 ||aslminer.com^
 ||assetxchangee.com^
@@ -222,6 +223,7 @@
 ||bitcoinfreemining.com^
 ||bitconemine.com^
 ||bitdolphx.com^
+||bitfufu.com^
 ||bitget.cloud^
 ||bitharvest.io^
 ||bithub.bot^
@@ -792,6 +794,7 @@
 ||ird.govt.nz^
 ||iris.tech.online^
 ||itactivejobs.xyz^
+||italybookofra.online^
 ||itau.com.py^
 ||itorrents.igruha.org^
 ||itsemelf.com^
@@ -1013,6 +1016,7 @@
 ||modeflair.com^
 ||modernwristwatches.shop^
 ||modilimitado.io^
+||mokshatravels.online^
 ||mondiairelay.livraison.com^
 ||monetoad.com^
 ||moneyfarms.club^
@@ -1457,6 +1461,7 @@
 ||surfing777.online^
 ||survyhelp.com^
 ||svip.work46.com^
+||sweet.paradise.online^
 ||swiftfinverge.com^
 ||swipelake.shop^
 ||swiss.mo.inv.com^
@@ -1471,6 +1476,7 @@
 ||tarionus.shop^
 ||tc126.xyz^
 ||technozone.com.au^
+||tecnorn.online^
 ||tedexy.com^
 ||teiagrma.pub^
 ||telelabs.online^
