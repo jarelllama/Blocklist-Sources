@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.07.012757.2025
+! Version: 01.07.020242.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan  7 01:27:57 UTC 2025
+! Last modified: Tue Jan  7 02:02:42 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1651
+! Number of entries: 1657
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -283,6 +283,7 @@
 ||car.zhouznq.cn^
 ||cardmasparamiempresa.wuaze.com^
 ||careeredge.online^
+||carolbradley.shop^
 ||carrepairus0507.online^
 ||casetesy.com^
 ||catenarydojo.com^
@@ -778,6 +779,7 @@
 ||jrelievedy.monster^
 ||jump.panel.surprise.clever.top^
 ||jumper.lvlnk.com^
+||juno.download.promo.com^
 ||justanorganizedhome.online^
 ||justanothercarpenter.online^
 ||justinyourhead.online^
@@ -938,6 +940,7 @@
 ||metodolog.online^
 ||metropolidata.com^
 ||mgiga2.com^
+||mickeliuiu.shop^
 ||microdr.ones.com.ng^
 ||midsizedcars.com^
 ||mightycleansolutions.com^
@@ -1097,6 +1100,7 @@
 ||painterlyco.homes^
 ||paintingservices2us0507.online^
 ||pairrelax.com^
+||palessaint.com^
 ||palettepro.homes^
 ||palliee.com^
 ||palloda.com^
@@ -1217,6 +1221,7 @@
 ||resortburg.online^
 ||retoswap.com^
 ||retrofxmarkets.com^
+||reupsupplies.com^
 ||reventa.co^
 ||revvedsupply.com^
 ||rewardy.io^
@@ -1229,6 +1234,7 @@
 ||rojadirectvonline.com^
 ||rokinat.co.in^
 ||roll2x.com^
+||rominance.com^
 ||roofing.services.fb.online^
 ||roveaskin.fr^
 ||royal.marines.online^
