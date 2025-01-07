@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.07.083448.2025
+! Version: 01.07.090058.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan  7 08:34:48 UTC 2025
+! Last modified: Tue Jan  7 09:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1716
+! Number of entries: 1721
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -588,6 +588,7 @@
 ||finder2loans.com^
 ||fineprint.online^
 ||firmdrexworld.com^
+||fitgirl.repacks.site^
 ||fjallravenvip.shop^
 ||flashremitt.com^
 ||flawflessas.com^
@@ -600,6 +601,7 @@
 ||flwoertime.de^
 ||fmovies.co^
 ||focusmarkets.com^
+||footballdisease.com^
 ||footjoyofficial.com^
 ||footjoysale.shop^
 ||forbiddenpant.com^
@@ -626,6 +628,7 @@
 ||fudianbank.win^
 ||fulenix.com^
 ||funcapsnl.com^
+||fundedbullfx.com^
 ||fundxrecover.com^
 ||fungretail.shop^
 ||funnel.peonlyshop.com^
@@ -1638,6 +1641,7 @@
 ||web3.gpt.shop^
 ||web3.olmaxsc.com^
 ||wedexy.com^
+||weebull.co^
 ||weetarget.online^
 ||wegmansmall.shop^
 ||wegovy.shop.online^
@@ -1674,6 +1678,7 @@
 ||x.ua.com^
 ||xanarx.live^
 ||xapool.com^
+||xcyera.com^
 ||xdopig.com^
 ||xegukiy.shop^
 ||xfnwnw.com^
