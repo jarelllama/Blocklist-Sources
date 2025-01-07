@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.07.152724.2025
+! Version: 01.07.155234.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan  7 15:27:24 UTC 2025
+! Last modified: Tue Jan  7 15:52:34 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1751
+! Number of entries: 1757
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -259,6 +259,7 @@
 ||branch.forex.com^
 ||brandingacademy.online^
 ||briansclub.cm.shop^
+||bridgeconnection.co.in^
 ||brighodew.com^
 ||brilliantlyouth.store^
 ||britishairwaysroyaldeliverycompany.com^
@@ -651,6 +652,7 @@
 ||gambyllion.com^
 ||game.zixia.com^
 ||game.zone.pro^
+||gapconnectionbridge.co.in^
 ||gaspol268.com^
 ||gdqai.com^
 ||gel9.online^
@@ -1514,6 +1516,7 @@
 ||topdailyfanaticspips.com^
 ||topflex.web.com^
 ||topflixtv.online^
+||topgreenview.com^
 ||topinfoarticlesforu.com^
 ||topmall.life^
 ||toppipoptions.online^
@@ -1656,6 +1659,7 @@
 ||warehouseudeals.com^
 ||warunggolkuat.online^
 ||washerdryer.my^
+||watchivo.shop^
 ||wave.trader.com^
 ||wavytalkza.store^
 ||waxx.network^
@@ -1679,11 +1683,13 @@
 ||wheelpg777.online^
 ||wheelresq.online^
 ||wheybit.com^
+||whimsywagonn.com^
 ||white.fox.us.com^
 ||whmcmanus.shop^
 ||wichhistor.co.uk^
 ||williamarnold.online^
 ||windcapitalsinfo.us^
+||windliy.com^
 ||winfy.top^
 ||winner.com^
 ||winplay.online^
