@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.07.190107.2025
+! Version: 01.07.193055.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan  7 19:01:07 UTC 2025
+! Last modified: Tue Jan  7 19:30:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1795
+! Number of entries: 1802
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -739,6 +739,7 @@
 ||hermez4dx500.com^
 ||hh.click.com^
 ||hianime.to^
+||hijra7.online^
 ||hireuphelp.online^
 ||hm.ru^
 ||hollden.shop^
@@ -750,6 +751,7 @@
 ||homersimpson.fun^
 ||honey.bee.iptv.com^
 ||hongruialliance.com^
+||hookah4dayli.online^
 ||horizoncapitals.org^
 ||hotbtujeka.cc^
 ||hotbvamove.today^
@@ -848,6 +850,7 @@
 ||kapten178.com^
 ||karavvan.com^
 ||kcexai.com^
+||kedaivgg.online^
 ||keencn.com^
 ||kefu.swapbit.top^
 ||kesan888.com^
@@ -1050,6 +1053,7 @@
 ||multicanais.games^
 ||multiverse.retifications.netlify.app^
 ||mundoonline.link^
+||music8.online^
 ||mvknnd.online^
 ||mvrglobal.online^
 ||my.bebes.com^
@@ -1278,6 +1282,7 @@
 ||qqbit.net^
 ||quantumdigitalmatket.com^
 ||quarkaitrade.com^
+||quillpunt.online^
 ||quvrmh.com^
 ||raceprep.site^
 ||radianters.com^
@@ -1451,6 +1456,7 @@
 ||srchfst.com^
 ||sstdocumentos.com^
 ||stablest.shop^
+||staregyptgame.online^
 ||starofliberty.online^
 ||starplancrypto.com^
 ||startingstrong.life^
@@ -1745,6 +1751,7 @@
 ||world.delivery.service.com^
 ||wowonlinestores.co.in^
 ||woxdem.com^
+||ww7.lemoniada.online^
 ||wwtchain.top^
 ||www.y2mate.com^
 ||x.ua.com^
