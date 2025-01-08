@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.08.124231.2025
+! Version: 01.08.130529.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  8 12:42:31 UTC 2025
+! Last modified: Wed Jan  8 13:05:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1943
+! Number of entries: 1948
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -321,6 +321,7 @@
 ||canconsulting.in^
 ||canvaschronicle.homes^
 ||canvasgenius.homes^
+||capital.shares.com^
 ||car.zhouznq.cn^
 ||cardmasparamiempresa.wuaze.com^
 ||careeredge.online^
@@ -643,6 +644,7 @@
 ||farmapram.com^
 ||fasdja.com^
 ||fashionworldcc.shop^
+||fashioze.com^
 ||fastbrush.online^
 ||fastswap.one^
 ||fazmex.com^
@@ -1507,6 +1509,7 @@
 ||shedrickcdigital.pro^
 ||shelee.vip^
 ||shibaarmy.world^
+||shibahash.com^
 ||shinelyjews.shop^
 ||shirudigiseo.top^
 ||shopa66.com^
@@ -1732,6 +1735,7 @@
 ||tsauvip.ing^
 ||tshilaige.com^
 ||tt.tiktokmarketplace.online^
+||ttoeore.com^
 ||tusheedrosep.net^
 ||tuuoi.shop^
 ||twiney.shop^
@@ -1770,6 +1774,7 @@
 ||usarmunukr.online^
 ||usdpick.io^
 ||usdtbb.com^
+||usdtboost.com^
 ||usdtflasher.org^
 ||usdtmall.co^
 ||usdtworlds.com^
