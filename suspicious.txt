@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.08.030436.2025
+! Version: 01.08.033433.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  8 03:04:36 UTC 2025
+! Last modified: Wed Jan  8 03:34:33 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1860
+! Number of entries: 1869
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -951,6 +951,7 @@
 ||linkmcltogel3.org^
 ||lipozemus.com^
 ||lippizapatillaes.shop^
+||liquidationpalletshub.top^
 ||liveccvv.mp^
 ||llbeanfactoryoutlets.shop^
 ||lmhous.net^
@@ -1150,6 +1151,7 @@
 ||nomisite8.online^
 ||nordyen.de^
 ||nordyen.nl^
+||nordyen.no.com^
 ||norionbusiness.top^
 ||nouert.com^
 ||noveraxcapital.com^
@@ -1299,6 +1301,7 @@
 ||powertools.market.com^
 ||practicalss.com^
 ||premiumbankleyfx.com^
+||pretiboiy.com^
 ||primeinvest.app^
 ||pro.cion.com^
 ||procim.online^
@@ -1357,11 +1360,13 @@
 ||reelshort.2025.com^
 ||refefshopin.top^
 ||reg.yourgamebuilder.com^
+||relayl.ink^
 ||relaymondial.net^
 ||reloadingstocks.com^
 ||renmsuq.shop^
 ||reoe.shop^
 ||repaircontractors2us0507.online^
+||reploysai.io^
 ||res.ldrescdn.com^
 ||researchchemicalskopen.net^
 ||resortburg.online^
@@ -1370,6 +1375,10 @@
 ||reupsupplies.com^
 ||reventa.co^
 ||revvedsupply.com^
+||reward.treasuredao.com^
+||rewards.axon.net^
+||rewards.mantle.co^
+||rewards.verticalstudio.com^
 ||rewardy.io^
 ||rewmplkkf.beauty^
 ||rightgist.com^
