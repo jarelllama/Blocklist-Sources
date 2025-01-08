@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.08.020218.2025
+! Version: 01.08.024420.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  8 02:02:18 UTC 2025
+! Last modified: Wed Jan  8 02:44:20 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1843
+! Number of entries: 1852
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -53,15 +53,20 @@
 ||adminpg.online^
 ||adsarp.com^
 ||adsphericalsuits.com^
+||aerodromefi.claims.app^
+||aerosdromes.net^
 ||affiliatemarketlite.com^
 ||affirmgrowth.co^
 ||agonas.techubz.com^
 ||agyabashipping.com^
 ||ahhaqq.com^
 ||ai.kraken2025.com^
+||ai.pool.trading^
 ||aietftoken.com^
+||aiignedfoundation.genesis.com^
 ||ainology.com^
 ||airbagtravel.store^
+||airdrop.flock.com^
 ||airdropclaims.netlify.app^
 ||airdropusdt.shop^
 ||airobotplatform888.com^
@@ -192,6 +197,7 @@
 ||bestbiccle.shop^
 ||bestgreensuperfood.com^
 ||besthealth24.online^
+||bestmayoreo.com.mx^
 ||bestnationalcreditunion.com^
 ||bet4.pe^
 ||betnight.online^
@@ -430,9 +436,11 @@
 ||cryptoxwave.com^
 ||crystalglobalwealth.com^
 ||cuan66.co^
+||cuisineskit.com^
 ||cupomdepix.online^
 ||cursomarderesina.online^
 ||customscool.com^
+||customspresent.com^
 ||cuty.io^
 ||cvlholding.co.uk^
 ||cvstrx.vip^
@@ -969,6 +977,7 @@
 ||lumacex.com^
 ||luminassociate.com^
 ||lushyedge.com^
+||luvwehair.com^
 ||luxebazaar.online^
 ||luxeflairz.com^
 ||luxewatchus.com^
