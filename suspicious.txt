@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.08.173207.2025
+! Version: 01.08.180104.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  8 17:32:07 UTC 2025
+! Last modified: Wed Jan  8 18:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1959
+! Number of entries: 1965
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -270,6 +270,7 @@
 ||bnextrade.com^
 ||bnhuf.com^
 ||boardgamesoutletstore.com^
+||boclothes.com^
 ||bodegaaureramx.shop^
 ||bodegaaurrera.mex.com^
 ||bonanza.usdt.com^
@@ -940,6 +941,7 @@
 ||kishka.co^
 ||kissminis.com^
 ||kittycomfortstore.com^
+||kixaikisuccessful.net^
 ||kkminer.top^
 ||kleinanzeigen.de^
 ||klim.us.store.shop^
@@ -1376,6 +1378,7 @@
 ||psschool.edu.bd^
 ||psychrine.com^
 ||pth223.com^
+||pth668.com^
 ||pulsed.fr^
 ||pulsepicks.pro^
 ||pumacolombia.net^
@@ -1392,6 +1395,7 @@
 ||qfsnesara.io^
 ||qqbit.net^
 ||qrefuishz.monster^
+||qualityresells.shop^
 ||quantumdigitalmatket.com^
 ||quarkaitrade.com^
 ||quillpunt.online^
@@ -1845,6 +1849,7 @@
 ||wagexera.com^
 ||wallstreetpepe.com^
 ||wananle.com^
+||wardlushy.com^
 ||warehousesstores.com^
 ||warehouseudeals.co^
 ||warehouseudeals.com^
@@ -1903,6 +1908,7 @@
 ||world.delivery.service.com^
 ||wowonlinestores.co.in^
 ||woxdem.com^
+||wtcentral.com^
 ||ww7.lemoniada.online^
 ||wwtchain.top^
 ||www.y2mate.com^
