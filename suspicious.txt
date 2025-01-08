@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.08.113057.2025
+! Version: 01.08.120112.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  8 11:30:57 UTC 2025
+! Last modified: Wed Jan  8 12:01:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1928
+! Number of entries: 1933
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -43,6 +43,7 @@
 ||accu.tech.pro^
 ||acessoftog.com^
 ||achadosonline2790.com^
+||ackstar.top^
 ||acnetratamientofacial.com^
 ||acrossfold.com^
 ||adatenight.com^
@@ -817,6 +818,7 @@
 ||htadz.online^
 ||htxsbot.com^
 ||hudsonclassic.com^
+||hugopdgr.com^
 ||hugoprimetradefx.com^
 ||hululusol.com^
 ||hunnybank.com^
@@ -828,6 +830,7 @@
 ||idjqwinla.net^
 ||idtumy.com^
 ||ifast2.com^
+||iklktec.com^
 ||ilclawgroup.com^
 ||imbictoz.com^
 ||immediatepump.com^
@@ -881,6 +884,7 @@
 ||jlkwelding.online^
 ||jmitdk9.szvne337c.org^
 ||joanonline.shop^
+||jobmarketwatch.com^
 ||johncrestani.online.com^
 ||johnhearingaids.com^
 ||join.lavishivy.com^
@@ -1590,6 +1594,7 @@
 ||summeyco.online^
 ||sunbit.ren^
 ||sundararajanneurohospital.com^
+||superakbov.best^
 ||superamzdu.store^
 ||supplycenterusa.com^
 ||surfing777.online^
