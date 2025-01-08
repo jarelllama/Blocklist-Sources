@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.08.103419.2025
+! Version: 01.08.110111.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  8 10:34:19 UTC 2025
+! Last modified: Wed Jan  8 11:01:11 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1919
+! Number of entries: 1923
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -125,6 +125,7 @@
 ||aregalex.monster^
 ||argosnop.com^
 ||arirak.online^
+||aris.mall.com^
 ||arldeemix.com^
 ||armani.ai.com^
 ||arnavix.online^
@@ -306,6 +307,7 @@
 ||buy.dogizen.io^
 ||buyado.de^
 ||buyantibiotics24h.net^
+||buythepencil.com^
 ||buzdikstore.com^
 ||bveusdt.com^
 ||bxfinvestment.com^
@@ -965,6 +967,7 @@
 ||librosymascotas.com^
 ||licengo.com^
 ||lidifitnessam.eu.shop^
+||lifeneed.online^
 ||lifeproofsales.com^
 ||lifesgoood.space^
 ||light.casino2024.online^
@@ -1574,6 +1577,7 @@
 ||stoigr.org^
 ||stonxdex.com^
 ||store.belgianshop.com^
+||store.creedhouse.online^
 ||storeyork.com.mx^
 ||strattrade.org^
 ||strikearchive.com^
