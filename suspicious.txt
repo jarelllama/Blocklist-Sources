@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.08.183602.2025
+! Version: 01.08.190053.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  8 18:36:02 UTC 2025
+! Last modified: Wed Jan  8 19:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1970
+! Number of entries: 1976
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -210,6 +210,7 @@
 ||betnight.online^
 ||betsclub.pro^
 ||betwave.vip^
+||beyondprostate.com^
 ||beyondstandard.org^
 ||bggbet.com^
 ||bgoyia.vip^
@@ -657,6 +658,7 @@
 ||fenovur.com^
 ||fenryon.com^
 ||fermebuche.com^
+||festival88.online^
 ||fget.career.com^
 ||fhusg.com^
 ||fic.cc^
@@ -820,6 +822,7 @@
 ||homeika.com^
 ||homersimpson.fun^
 ||honey.bee.iptv.com^
+||honeyskin.online^
 ||hongruialliance.com^
 ||hookah4dayli.online^
 ||horizoncapitals.org^
@@ -832,6 +835,7 @@
 ||hotvxfs.shop^
 ||hoylitecandle.store^
 ||htadz.online^
+||htoi.online^
 ||htxsbot.com^
 ||hudsonclassic.com^
 ||hugopdgr.com^
@@ -1085,6 +1089,7 @@
 ||meb.budget.com^
 ||mediamartk.xyz^
 ||mednakit.com^
+||mega.easy.prize.pro^
 ||megaflix.co^
 ||megatrendsplaza.shop^
 ||meindl.norge.com^
@@ -1474,6 +1479,7 @@
 ||rugbywow.com^
 ||russesale.shop^
 ||s.dz.com^
+||s1gamer.online^
 ||s2.skladchinmore.net^
 ||s66639.co^
 ||safeapk.net^
