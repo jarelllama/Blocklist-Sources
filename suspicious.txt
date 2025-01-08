@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.08.043400.2025
+! Version: 01.08.050105.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  8 04:34:00 UTC 2025
+! Last modified: Wed Jan  8 05:01:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1883
+! Number of entries: 1887
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -245,6 +245,7 @@
 ||bitpaymentstore.com^
 ||bitronce.com^
 ||bitunix.com^
+||bitusdt.biz^
 ||bitvipenuss.com^
 ||bitzealy.com^
 ||bitzoy.com^
@@ -547,6 +548,7 @@
 ||ebay.mall.net^
 ||eclatlumiere.com^
 ||ecos.am^
+||ecovipshop.top^
 ||eddyconstructions.com^
 ||edekn.com^
 ||edmxed66.com^
@@ -952,6 +954,7 @@
 ||lightchain.ai^
 ||lightsha.com^
 ||likebargainsothers.world^
+||limdex.capital.com^
 ||limeremce.com^
 ||linkaa.cyou^
 ||linkgurd.online^
@@ -1555,6 +1558,7 @@
 ||summeyco.online^
 ||sunbit.ren^
 ||sundararajanneurohospital.com^
+||superamzdu.store^
 ||supplycenterusa.com^
 ||surfing777.online^
 ||survyhelp.com^
