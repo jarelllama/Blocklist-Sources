@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.08.012802.2025
+! Version: 01.08.020218.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  8 01:28:02 UTC 2025
+! Last modified: Wed Jan  8 02:02:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1835
+! Number of entries: 1843
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -1019,6 +1019,7 @@
 ||meistrgold.com^
 ||memubit.com^
 ||meta.cafe.net^
+||metafight.airdrop.com^
 ||metascorex.com^
 ||metatrader5.com^
 ||metatradingai.co^
@@ -1031,6 +1032,7 @@
 ||microdr.ones.com.ng^
 ||midsizedcars.com^
 ||mightycleansolutions.com^
+||migration.dioneprotocol.pages.dev^
 ||miiiralo.com^
 ||mikage.online^
 ||milisoil.com^
@@ -1060,6 +1062,7 @@
 ||monnromall.com^
 ||monofilsawali.top^
 ||moonlightmint.co^
+||moonwell.fl.xyz^
 ||movenzo.com^
 ||mpc7.cc^
 ||mqyn.odqmjbta.shop^
@@ -1068,6 +1071,7 @@
 ||muke.ai^
 ||mulherstore.shop^
 ||multicanais.games^
+||multismart.solve.pages.dev^
 ||multiverse.retifications.netlify.app^
 ||mundoonline.link^
 ||music8.online^
@@ -1084,6 +1088,7 @@
 ||myplatform.top^
 ||mytraveldaddy.us^
 ||myvanomi.com^
+||naorisprotocol.web.app^
 ||narvafinance.com^
 ||nationalcasinolp.com^
 ||nc.ph.2974.zerads.com^
@@ -1119,11 +1124,13 @@
 ||nfs.fazenda.empresas.com^
 ||nfseletronica.fazenda.com^
 ||nft.babydoge.com^
+||nft.fantasyapp.pages.dev^
 ||nftcolo.com^
 ||nicolcssubreville.shop^
 ||nikocanvas.com^
 ||nodelyai.org^
 ||nodepay.ai^
+||nodess.pages.dev^
 ||nomisite8.online^
 ||nordyen.de^
 ||nordyen.nl^
@@ -1149,6 +1156,7 @@
 ||oguiadossonhos15anos.online^
 ||ojrq.net^
 ||okjg13.icu^
+||okk.16s.pages.dev^
 ||oldendroff.com^
 ||oluwasegunakinyemi.com^
 ||olux.to^
