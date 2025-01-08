@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.08.120112.2025
+! Version: 01.08.124231.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  8 12:01:12 UTC 2025
+! Last modified: Wed Jan  8 12:42:31 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1933
+! Number of entries: 1943
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -248,6 +248,7 @@
 ||bitly.net^
 ||bitmamining.com^
 ||bitpaymentstore.com^
+||bitprogain.com^
 ||bitronce.com^
 ||bitunix.com^
 ||bitusdt.biz^
@@ -576,6 +577,7 @@
 ||eliteminingresource.org^
 ||elitevac.uk^
 ||elixrium.online^
+||elonbet.com^
 ||elysiumvip.top^
 ||emcustomstudios.com^
 ||emea01.safelinks.protection.outlook.com^
@@ -602,6 +604,7 @@
 ||epoiu.com^
 ||erybdu.com^
 ||es.bankinter.usuario.com^
+||escapitals.com^
 ||eschallengersmode.com^
 ||escrowpi.com^
 ||esquentabet.online^
@@ -648,6 +651,7 @@
 ||fenryon.com^
 ||fermebuche.com^
 ||fget.career.com^
+||fhusg.com^
 ||fic.cc^
 ||fieldloom.com^
 ||fiheos.co.in^
@@ -656,6 +660,7 @@
 ||financeusdt.com^
 ||finder2loans.com^
 ||fineprint.online^
+||finmaza.com^
 ||firmdrexworld.com^
 ||fitgirl.repacks.site^
 ||fivon.online^
@@ -705,6 +710,7 @@
 ||fungretail.shop^
 ||funnel.peonlyshop.com^
 ||furniturej.shop^
+||futuresprous.com^
 ||futurofinanzachile.com^
 ||fxddarab.online^
 ||fxminedeotra.com^
@@ -788,6 +794,7 @@
 ||hedgeincrease.com^
 ||hello.hello.site^
 ||hellokitty.store.com^
+||hellotripsitters.com^
 ||helps.sbs^
 ||henglai.online^
 ||hermez4dx500.com^
@@ -1092,6 +1099,7 @@
 ||milisoil.com^
 ||milwakusharetexa.com^
 ||mimosabarkhaven.com^
+||mine.bnb.com^
 ||mini.well.store^
 ||minibitcoin.xyz^
 ||minibuzzy.online^
@@ -1105,6 +1113,7 @@
 ||mmrtb.com^
 ||mncr.club^
 ||modeflair.com^
+||modehouse.melbourne.com^
 ||modernwristwatches.shop^
 ||modilimitado.io^
 ||mokshatravels.online^
@@ -1181,6 +1190,7 @@
 ||nft.fantasyapp.pages.dev^
 ||nftcolo.com^
 ||nicolcssubreville.shop^
+||niffyhub.com^
 ||nikocanvas.com^
 ||nodelyai.org^
 ||nodepay.ai^
