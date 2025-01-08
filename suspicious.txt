@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.08.213111.2025
+! Version: 01.08.220055.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  8 21:31:11 UTC 2025
+! Last modified: Wed Jan  8 22:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1998
+! Number of entries: 2005
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -33,6 +33,7 @@
 ||988359.com^
 ||a1b2c4.shop^
 ||aattechnologies.net^
+||abaok.vip^
 ||abdullahonline.store^
 ||aberfields.com^
 ||aboutamir.com^
@@ -74,6 +75,7 @@
 ||airdropusdt.shop^
 ||airobotplatform888.com^
 ||airobotsmart.net^
+||aisfcth.ink^
 ||aitimart.com^
 ||aitransactionplatform.com^
 ||aixomi.com^
@@ -93,6 +95,7 @@
 ||alpinestars.vip.com^
 ||alppouchh.com^
 ||altano.store^
+||altieer.com^
 ||alwaysfindonline.shop^
 ||am.usdenelx.com^
 ||amalbio.shop^
@@ -777,6 +780,7 @@
 ||goldstradeapp.com^
 ||goldstrategyvip.com^
 ||gominer.net^
+||goo.su^
 ||goodonee.com^
 ||goodoutweighs.top^
 ||goodserchez.com^
@@ -1143,6 +1147,7 @@
 ||mkurtos.com^
 ||mmrtb.com^
 ||mncr.club^
+||mobilecasino88.com^
 ||modeflair.com^
 ||modehouse.melbourne.com^
 ||modernwristwatches.shop^
@@ -1184,6 +1189,7 @@
 ||myvanomi.com^
 ||naorisprotocol.web.app^
 ||narvafinance.com^
+||naseebetiris.naseebet77.com^
 ||nationalcasinolp.com^
 ||nc.ph.2974.zerads.com^
 ||nearriot.com^
@@ -1485,6 +1491,7 @@
 ||rokinat.co.in^
 ||roll2x.com^
 ||rominance.com^
+||romsfun.com^
 ||roofing.services.fb.online^
 ||roveaskin.fr^
 ||royal.marines.online^
