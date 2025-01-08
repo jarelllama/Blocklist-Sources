@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.08.040056.2025
+! Version: 01.08.043400.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  8 04:00:56 UTC 2025
+! Last modified: Wed Jan  8 04:34:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1876
+! Number of entries: 1883
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -53,6 +53,7 @@
 ||adminpg.online^
 ||adsarp.com^
 ||adsphericalsuits.com^
+||adyenn.com^
 ||aerodromefi.claims.app^
 ||aerosdromes.net^
 ||affiliatemarketlite.com^
@@ -638,6 +639,7 @@
 ||fineprint.online^
 ||firmdrexworld.com^
 ||fitgirl.repacks.site^
+||fivon.online^
 ||fjallraven.eu.com^
 ||fjallravenvip.shop^
 ||flashremitt.com^
@@ -1355,10 +1357,13 @@
 ||rdapie.net^
 ||readbay.ai^
 ||readermodeext.info^
+||realionetwork.claims^
 ||reallilya.com^
 ||realmoney.live^
+||rebasedex.cloud^
 ||rebelsatoshi.com^
 ||recetasexpres.com^
+||rect.reward.glacier.website^
 ||reddit.streams.online^
 ||redeemai.site^
 ||redgol.cl^
@@ -1366,6 +1371,7 @@
 ||reelshort.2025.com^
 ||refefshopin.top^
 ||reg.yourgamebuilder.com^
+||register.bckrcoin.com^
 ||relayl.ink^
 ||relaymondial.net^
 ||reloadingstocks.com^
@@ -1786,6 +1792,7 @@
 ||web.nnleas.top^
 ||web3.gpt.shop^
 ||web3.olmaxsc.com^
+||web3app.org^
 ||wedexy.com^
 ||weebull.co^
 ||weetarget.online^
