@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.08.190053.2025
+! Version: 01.08.193058.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  8 19:00:53 UTC 2025
+! Last modified: Wed Jan  8 19:30:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1976
+! Number of entries: 1981
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -59,6 +59,7 @@
 ||aerosdromes.net^
 ||affiliatemarketlite.com^
 ||affirmgrowth.co^
+||agarwoody.shop^
 ||agonas.techubz.com^
 ||agyabashipping.com^
 ||ahhaqq.com^
@@ -441,6 +442,7 @@
 ||connectdefix.online^
 ||connectionos.xyz^
 ||consorciosrt.online^
+||constipation.relieve.16.online^
 ||construction.jobs.nz.online^
 ||contactconsultingservices.com^
 ||coolbet.peru.online^
@@ -1109,6 +1111,7 @@
 ||microdr.ones.com.ng^
 ||midsizedcars.com^
 ||mightycleansolutions.com^
+||migraine.massage.service.988.online^
 ||migration.dioneprotocol.pages.dev^
 ||miiiralo.com^
 ||mikage.online^
@@ -1525,6 +1528,7 @@
 ||senteted.com^
 ||seokore.com^
 ||setes.live^
+||setyobim.online^
 ||sexyforums.com^
 ||sfardlanka.com^
 ||shamfreshen.com^
@@ -1967,6 +1971,7 @@
 ||z2u.com^
 ||zadig.et.voltaire.eu.com^
 ||zadigvoltairevip.com^
+||zakds.info^
 ||zalurex.com^
 ||zdigitalagencymt.cc^
 ||zeharris.online^
