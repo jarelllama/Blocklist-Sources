@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.08.200102.2025
+! Version: 01.08.203226.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  8 20:01:02 UTC 2025
+! Last modified: Wed Jan  8 20:32:26 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1986
+! Number of entries: 1990
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -400,6 +400,7 @@
 ||cloudgateflowershop.com^
 ||cloudgeardesign.com^
 ||cloudimpactx.com^
+||cloudsoft.ae^
 ||cloudstream.pro^
 ||clqazxvc.com^
 ||clqbd.edistolife.com^
@@ -1020,6 +1021,7 @@
 ||lmhous.net^
 ||ln.run^
 ||loanfundsonline.com^
+||localsgowild.com^
 ||lockheed3.com^
 ||login.microsoft.com^
 ||lolex.net^
@@ -1095,6 +1097,7 @@
 ||meb.budget.com^
 ||mediamartk.xyz^
 ||mednakit.com^
+||meerai.io^
 ||mega.easy.prize.pro^
 ||megaflix.co^
 ||megatrendsplaza.shop^
@@ -1845,6 +1848,7 @@
 ||vflcsz.info^
 ||vflmo.online^
 ||vibyage.com^
+||victordle.net^
 ||video.earns.top^
 ||video4k.site^
 ||videoperkstream.com^
