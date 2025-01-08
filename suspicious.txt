@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.08.193058.2025
+! Version: 01.08.200102.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  8 19:30:58 UTC 2025
+! Last modified: Wed Jan  8 20:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1981
+! Number of entries: 1986
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -273,6 +273,7 @@
 ||bnextrade.com^
 ||bnhuf.com^
 ||boardgamesoutletstore.com^
+||bobclaim.cfd^
 ||boclothes.com^
 ||bodegaaureramx.shop^
 ||bodegaaurrera.mex.com^
@@ -299,6 +300,7 @@
 ||btceex.com^
 ||btcotcvip.net^
 ||btfxtraders.com^
+||buble.com.cn^
 ||buenomarket.store^
 ||buff.163cd.com^
 ||buffboycrops.com^
@@ -393,6 +395,7 @@
 ||clkiva.shop^
 ||clladss.com^
 ||cloc.mastercasc.top^
+||cloud.mail.ru^
 ||cloud.mining.cc^
 ||cloudgateflowershop.com^
 ||cloudgeardesign.com^
@@ -1069,6 +1072,7 @@
 ||majoritemsboutique.shop^
 ||majorsavingsmall.shop^
 ||majulahfm.com^
+||makinfra.online^
 ||mallprix.com^
 ||malltrabaho.online^
 ||mariswiss.com^
@@ -1409,6 +1413,7 @@
 ||qualityresells.shop^
 ||quantumdigitalmatket.com^
 ||quarkaitrade.com^
+||qubetics.com^
 ||quillpunt.online^
 ||quvrmh.com^
 ||raceprep.site^
