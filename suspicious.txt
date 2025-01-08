@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.08.110111.2025
+! Version: 01.08.113057.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  8 11:01:11 UTC 2025
+! Last modified: Wed Jan  8 11:30:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1923
+! Number of entries: 1928
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -541,6 +541,7 @@
 ||drawmaniauk.shop^
 ||dreamcazin.com^
 ||dremio.life^
+||dressglowz.com^
 ||drivesafeinspects.com^
 ||drmartensnews.com^
 ||ds2play.com^
@@ -876,6 +877,7 @@
 ||jbei99.vip^
 ||jewelrygiftcenter.com^
 ||jikinideals.shop^
+||jiuyu.fit^
 ||jlkwelding.online^
 ||jmitdk9.szvne337c.org^
 ||joanonline.shop^
@@ -1027,6 +1029,7 @@
 ||m.parrotes.com^
 ||m.pocketoption.com^
 ||mablehelp.online^
+||macpac.ts.shop^
 ||macystoreclothing.com^
 ||mahadev.id.online^
 ||mainelobsterget.shop^
@@ -1686,6 +1689,7 @@
 ||trahia.com^
 ||trantbitf.astpro.top^
 ||trantnguyentech.store^
+||trbowtie.shop^
 ||treasurenft.xyz^
 ||treatmeinty.com^
 ||treblesltd.com^
@@ -1780,6 +1784,7 @@
 ||ventulor.com^
 ||vepnext.com^
 ||verpeliculasultra.com^
+||verticalvinvehicle.com^
 ||vexunax.com^
 ||vexunox.com^
 ||vflcsz.info^
