@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.08.093212.2025
+! Version: 01.08.100104.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  8 09:32:12 UTC 2025
+! Last modified: Wed Jan  8 10:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1914
+! Number of entries: 1917
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -102,6 +102,7 @@
 ||amzkdt.online^
 ||angelicstoragebv.com^
 ||angiechew.online^
+||animvip.com^
 ||annuallye.com^
 ||anonhost.xyz^
 ||anonym.ninja^
@@ -713,6 +714,7 @@
 ||gdmining.site^
 ||gdqai.com^
 ||gel9.online^
+||gemini.ai.net^
 ||genesisminingbot.com^
 ||geninsur.com^
 ||geographz.com^
@@ -1918,6 +1920,7 @@
 ||zlibrary.to^
 ||zoodel.online^
 ||zorunex.com^
+||ztudim.work.top^
 ||ztxzhb.shop^
 ||zx3.io^
 ||zxzclitin.shop^
