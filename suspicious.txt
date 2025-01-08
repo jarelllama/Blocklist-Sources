@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.08.180104.2025
+! Version: 01.08.183602.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  8 18:01:04 UTC 2025
+! Last modified: Wed Jan  8 18:36:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1965
+! Number of entries: 1970
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -127,6 +127,7 @@
 ||argosnop.com^
 ||arirak.online^
 ||aris.mall.com^
+||arkacoin.com^
 ||arldeemix.com^
 ||armani.ai.com^
 ||arnavix.online^
@@ -373,6 +374,7 @@
 ||claims.sonicfoundation.com^
 ||claims.sonicfoundation.org^
 ||claimweby.live^
+||classicteefox.com^
 ||cleanquest.xyz^
 ||cled.euteschan.top^
 ||cleshy.com^
@@ -1362,6 +1364,7 @@
 ||premiumbankleyfx.com^
 ||pretiboiy.com^
 ||primeinvest.app^
+||primitivesystem.online^
 ||pro.cion.com^
 ||procim.online^
 ||productonline.cloud^
@@ -1516,6 +1519,7 @@
 ||senteted.com^
 ||seokore.com^
 ||setes.live^
+||sexyforums.com^
 ||sfardlanka.com^
 ||shamfreshen.com^
 ||shedrickcdigital.pro^
@@ -1544,6 +1548,7 @@
 ||skandere.online^
 ||skhealthline.com^
 ||skidipapap.online^
+||skirtvibez.com^
 ||skymine.online^
 ||skyplusevtr.com^
 ||skywing.ltd.com^
