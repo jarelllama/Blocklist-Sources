@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.08.143337.2025
+! Version: 01.08.150101.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  8 14:33:37 UTC 2025
+! Last modified: Wed Jan  8 15:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1949
+! Number of entries: 1951
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -412,6 +412,7 @@
 ||coin.go.in^
 ||coin.gofastgo.online^
 ||coinbasesupport.blog^
+||coincrapex.com^
 ||coinebc.com^
 ||coinfet.net^
 ||coinget.online^
@@ -760,6 +761,7 @@
 ||goldstradeapp.com^
 ||goldstrategyvip.com^
 ||gominer.net^
+||goodonee.com^
 ||goodoutweighs.top^
 ||goodserchez.com^
 ||goodsixsk.best^
