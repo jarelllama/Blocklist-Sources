@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.08.024420.2025
+! Version: 01.08.030436.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  8 02:44:20 UTC 2025
+! Last modified: Wed Jan  8 03:04:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1852
+! Number of entries: 1860
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -194,6 +194,7 @@
 ||bernardex.com^
 ||bervospace.com^
 ||beseenmarketing.online^
+||best.expertonline.com^
 ||bestbiccle.shop^
 ||bestgreensuperfood.com^
 ||besthealth24.online^
@@ -350,6 +351,10 @@
 ||citibanamex.serv00.net^
 ||citxion.top^
 ||claimgrass.netlify.app^
+||claiming.movementlabs.com^
+||claims.freedumfighter.com.pages.dev^
+||claims.sonicfoundation.com^
+||claims.sonicfoundation.org^
 ||cleanquest.xyz^
 ||cled.euteschan.top^
 ||cleshy.com^
@@ -389,6 +394,7 @@
 ||code.getoffus.site^
 ||coin.go.in^
 ||coin.gofastgo.online^
+||coinbasesupport.blog^
 ||coinebc.com^
 ||coinfet.net^
 ||coinget.online^
@@ -405,6 +411,7 @@
 ||comfortpatv.com^
 ||comfy.vibes.fr^
 ||comic.hupshop.com^
+||communaltrades.com^
 ||compare.deals.online.info^
 ||comprasdigitaisglobais.online^
 ||coninvestholdingsltd.com^
@@ -1251,6 +1258,7 @@
 ||peekyn.us.com^
 ||pefctiordent.com^
 ||pempekrahayu.online^
+||pendowoolenmills.us^
 ||penetratea.com^
 ||penguin.zkirc.com^
 ||penguinmalil.com^
