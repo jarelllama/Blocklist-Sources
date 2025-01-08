@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.08.150101.2025
+! Version: 01.08.153246.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  8 15:01:01 UTC 2025
+! Last modified: Wed Jan  8 15:32:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1951
+! Number of entries: 1953
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -1043,7 +1043,6 @@
 ||lyycs.store^
 ||m.bitunixex.com^
 ||m.parrotes.com^
-||m.pocketoption.com^
 ||mablehelp.online^
 ||macpac.ts.shop^
 ||macystoreclothing.com^
@@ -1064,6 +1063,7 @@
 ||marketing4solutionsblog.online^
 ||markminer.net^
 ||markservers.com^
+||maroyia.com^
 ||marsincfog.com^
 ||marvelusdt.com^
 ||massgrave.dev^
@@ -1344,6 +1344,7 @@
 ||pledgeoffers.com^
 ||pnusaa.com^
 ||pocketoption.bwgcompany.com^
+||pocketoption.com^
 ||pokebooster.fr^
 ||pokexperiment.com^
 ||policja.pl112.online^
@@ -1610,6 +1611,7 @@
 ||summeyco.online^
 ||sunbit.ren^
 ||sundararajanneurohospital.com^
+||suny77.online^
 ||superakbov.best^
 ||superamzdu.store^
 ||supplycenterusa.com^
