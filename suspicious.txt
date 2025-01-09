@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.08.233056.2025
+! Version: 01.09.000204.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan  8 23:30:56 UTC 2025
+! Last modified: Thu Jan  9 00:02:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2007
+! Number of entries: 2010
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -246,6 +246,7 @@
 ||bitcoin.laundry2.net^
 ||bitcoin.pays.com^
 ||bitcoinfreemining.com^
+||bitcoinwell.com^
 ||bitconemine.com^
 ||bitdolphx.com^
 ||bitfufu.com^
@@ -1242,6 +1243,7 @@
 ||nouert.com^
 ||noveraxcapital.com^
 ||nowmining.fun^
+||nudevista.com^
 ||nudify.online^
 ||nuroswealth.org^
 ||nutraway.top^
@@ -1785,6 +1787,7 @@
 ||trustphin.com^
 ||trx.earning.pro^
 ||trxbee.io^
+||trxminerboost.com^
 ||tsauvip.ing^
 ||tshilaige.com^
 ||tt.tiktokmarketplace.online^
