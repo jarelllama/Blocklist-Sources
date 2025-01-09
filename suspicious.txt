@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.09.050058.2025
+! Version: 01.09.053238.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  9 05:00:58 UTC 2025
+! Last modified: Thu Jan  9 05:32:38 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2046
+! Number of entries: 2051
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -124,6 +124,7 @@
 ||apexcapltd.com^
 ||apkft.xyz^
 ||apkhot.xyz^
+||apkturbo.com^
 ||apounes.com^
 ||app.lockswallet.net^
 ||appanalytics.online^
@@ -294,6 +295,7 @@
 ||boodiecawquaw.top^
 ||bookmarkfc.info^
 ||bostakingu.com^
+||boundary.metal.com^
 ||bpee.top^
 ||bphash.top^
 ||branch.forex.com^
@@ -519,6 +521,7 @@
 ||deenext.com^
 ||defidappsrestore.web.app^
 ||delicatede.com^
+||delilahskittenparadise.com^
 ||deltadex.io^
 ||deltausdt.site^
 ||deluxe.goods.uk^
@@ -574,6 +577,7 @@
 ||drawmaniauk.shop^
 ||dreamcazin.com^
 ||dremio.life^
+||dresscorez.com^
 ||dressglowz.com^
 ||drivesafeinspects.com^
 ||drmartensnews.com^
@@ -811,6 +815,7 @@
 ||goosecreekcandle.com^
 ||gorouslook.com^
 ||gotospares.com^
+||gowenuy.info^
 ||gptaiminds.com^
 ||grassroot.impact.centre.org^
 ||greatsealbadge.com^
