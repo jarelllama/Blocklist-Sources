@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.09.223344.2025
+! Version: 01.09.230104.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  9 22:33:44 UTC 2025
+! Last modified: Thu Jan  9 23:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2140
+! Number of entries: 2144
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -145,6 +145,7 @@
 ||argosnop.com^
 ||arirak.online^
 ||aris.mall.com^
+||ark888.vip^
 ||arkacoin.com^
 ||arldeemix.com^
 ||armani.ai.com^
@@ -284,6 +285,7 @@
 ||bitzoy.com^
 ||bjfdyh.com^
 ||blackfridaywholesale.ru^
+||blackjack888.ph^
 ||blackshelter.org^
 ||blast.tv.org^
 ||blockdag.network^
@@ -361,6 +363,7 @@
 ||cardmasparamiempresa.wuaze.com^
 ||careeredge.online^
 ||carharttsalevip.shop^
+||carharttssvip.shop^
 ||carolbradley.shop^
 ||carrepairus0507.online^
 ||casetesy.com^
@@ -896,6 +899,7 @@
 ||home.pl.60184f67bfd.henriquehulse.com.br^
 ||homebaseinuk.com^
 ||homeika.com^
+||homepillowfort.com^
 ||homersimpson.fun^
 ||honey.bee.iptv.com^
 ||honeyskin.online^
