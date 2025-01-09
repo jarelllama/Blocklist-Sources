@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.09.213057.2025
+! Version: 01.09.220103.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  9 21:30:57 UTC 2025
+! Last modified: Thu Jan  9 22:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2134
+! Number of entries: 2139
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -128,6 +128,7 @@
 ||apexcapital.wealth.com^
 ||apexcapitallimited.com^
 ||apexcapltd.com^
+||apexfep.com^
 ||apkft.xyz^
 ||apkhot.xyz^
 ||apkturbo.com^
@@ -1776,6 +1777,7 @@
 ||swminex.com^
 ||sxjxjcc.com^
 ||sxyprn.net^
+||sycuantime.com^
 ||synthealth.com^
 ||t2.awagama2.org^
 ||tads.baker.co.za^
@@ -1867,6 +1869,7 @@
 ||track718.com^
 ||trackqsu.top^
 ||tracy925digital.pro^
+||tradeforger.online^
 ||tradiso.com^
 ||traffictrack.online^
 ||trahia.com^
@@ -1961,6 +1964,7 @@
 ||vbdigitalcard.in^
 ||vc66.net^
 ||veepee.fr.shop^
+||veezpass.com^
 ||vegobit.com^
 ||velivyne.com^
 ||velogisc.com^
@@ -2058,6 +2062,7 @@
 ||winuno55.com^
 ||winviag.com^
 ||winwin.bet^
+||wisemean.top^
 ||witimselsolar.com^
 ||wittweidende.store^
 ||wizonex.com^
