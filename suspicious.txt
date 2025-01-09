@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.09.163538.2025
+! Version: 01.09.170101.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  9 16:35:38 UTC 2025
+! Last modified: Thu Jan  9 17:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2101
+! Number of entries: 2106
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -503,6 +503,7 @@
 ||cryptoneerpro.com^
 ||cryptoxwave.com^
 ||crystalglobalwealth.com^
+||ctvvpue071bc73b7gmug.protocolchainflow.com^
 ||cuan66.co^
 ||cuisineskit.com^
 ||cupomdepix.online^
@@ -1043,6 +1044,7 @@
 ||landmark.online.workers.dev^
 ||lap136.78e2.xyz^
 ||larkinashlandstylist.com^
+||lavishsupply.net^
 ||law.blade.solutions.com^
 ||lawnagain.com^
 ||leadadream.top^
@@ -1733,6 +1735,7 @@
 ||subscribelg.my^
 ||sugarsyncglycooptimizer.com^
 ||summeyco.online^
+||summitsage.org^
 ||sunbit.ren^
 ||sundararajanneurohospital.com^
 ||suny77.online^
@@ -2045,6 +2048,7 @@
 ||wwtchain.top^
 ||www.virtual.vip^
 ||www.y2mate.com^
+||wwwwscsb500comios2ser.wscbs.vip^
 ||x.ua.com^
 ||xanarx.live^
 ||xapool.com^
@@ -2084,6 +2088,7 @@
 ||youxiangonline.live^
 ||yowin.site^
 ||yozabit.com^
+||ysafei.vip^
 ||yunpso.com^
 ||yupoo.vip^
 ||yzonaautomotive.shop^
