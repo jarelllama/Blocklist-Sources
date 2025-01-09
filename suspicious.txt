@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.09.203224.2025
+! Version: 01.09.210057.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  9 20:32:24 UTC 2025
+! Last modified: Thu Jan  9 21:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2124
+! Number of entries: 2127
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -213,6 +213,7 @@
 ||beijingwatches.com^
 ||bekerja.online^
 ||belkcaseshop.com^
+||bellcasual.com^
 ||belmondagency.com^
 ||beltlox.top^
 ||benjamindavispersonaltrainer.com^
@@ -1232,6 +1233,7 @@
 ||monipoints.com^
 ||monnromall.com^
 ||monofilsawali.top^
+||moonflexmagement.com^
 ||moonlightmint.co^
 ||moonwell.fl.xyz^
 ||movenzo.com^
@@ -1783,6 +1785,7 @@
 ||teiagrma.pub^
 ||telelabs.online^
 ||tenadex.com^
+||terestdeals.shop^
 ||tfalcon.online^
 ||tfvpm.org^
 ||tgbtest.com^
