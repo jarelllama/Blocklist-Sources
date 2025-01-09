@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.09.230104.2025
+! Version: 01.09.233058.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  9 23:01:04 UTC 2025
+! Last modified: Thu Jan  9 23:30:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2144
+! Number of entries: 2148
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -645,6 +645,7 @@
 ||eliteminingresource.org^
 ||elitevac.uk^
 ||elixrium.online^
+||ellamode.nl^
 ||elonbet.com^
 ||elyaevents.com^
 ||elysiumvip.top^
@@ -1133,6 +1134,7 @@
 ||luatypticures.co.in^
 ||lucky.motorcycles.com^
 ||lucky888.top^
+||luckypro.store^
 ||lulalola.com^
 ||lulusafh.com^
 ||lumacex.com^
@@ -1513,6 +1515,7 @@
 ||pulsed.fr^
 ||pulsepicks.pro^
 ||pumacolombia.net^
+||puravive.net^
 ||puregoodsfy.com^
 ||pvgpassd.com^
 ||pzlcbshop.com^
@@ -1846,6 +1849,7 @@
 ||tofro.com^
 ||tokenhedg.com^
 ||tokentrade.top^
+||tokxon.com^
 ||tonbig.com^
 ||tonpick.game^
 ||toolspik.com^
