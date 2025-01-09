@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.09.210057.2025
+! Version: 01.09.213057.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  9 21:00:57 UTC 2025
+! Last modified: Thu Jan  9 21:30:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2127
+! Number of entries: 2134
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -212,6 +212,7 @@
 ||beedermaus.com^
 ||beijingwatches.com^
 ||bekerja.online^
+||belinggift.com^
 ||belkcaseshop.com^
 ||bellcasual.com^
 ||belmondagency.com^
@@ -375,6 +376,7 @@
 ||cenutix.com^
 ||cerabiapparels.com^
 ||cerebrumiq.com^
+||chainfun.click^
 ||chalaorry.shop^
 ||changeip.net^
 ||charmcot.com^
@@ -640,6 +642,7 @@
 ||elitevac.uk^
 ||elixrium.online^
 ||elonbet.com^
+||elyaevents.com^
 ||elysiumvip.top^
 ||emcustomstudios.com^
 ||emea01.safelinks.protection.outlook.com^
@@ -1321,6 +1324,7 @@
 ||nouert.com^
 ||noveraxcapital.com^
 ||nowmining.fun^
+||nubil.nl^
 ||nudevista.com^
 ||nudify.online^
 ||nuroswealth.org^
@@ -1373,6 +1377,7 @@
 ||onlinessyodobashis.cc^
 ||onlinestoretechshop.com^
 ||onlinewealthmantra.com^
+||onlymodels.me^
 ||onlyterrific.com^
 ||onruning.top^
 ||onrunning.top^
@@ -1666,6 +1671,7 @@
 ||shotzon.com^
 ||signalarchitects.cloud^
 ||silegx.org^
+||silentun.com^
 ||silviicia.com^
 ||simmsfishingonsale.shop^
 ||simon.frei.pc.online^
@@ -1951,6 +1957,7 @@
 ||validatemypimainnetwallet.online^
 ||valueversion.com^
 ||valxcane.lol^
+||vaultperth.com^
 ||vbdigitalcard.in^
 ||vc66.net^
 ||veepee.fr.shop^
