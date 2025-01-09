@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.09.021625.2025
+! Version: 01.09.025950.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  9 02:16:25 UTC 2025
+! Last modified: Thu Jan  9 02:59:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2022
+! Number of entries: 2028
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -30,8 +30,10 @@
 ||80.25.buu.com^
 ||80.25.pcs.com^
 ||82lottery9.in^
+||8xfilms.living^
 ||988359.com^
 ||9jwjegw.mmdlkx.info^
+||9xmoviies.xyz^
 ||a1b2c4.shop^
 ||aattechnologies.net^
 ||abaok.vip^
@@ -364,6 +366,7 @@
 ||chillpotrandom.com^
 ||christianlouboutinmexicos.top^
 ||christopherchaves.com^
+||cicc.ink^
 ||ciekawoscobywateli.click^
 ||cimarronclub.com^
 ||cintuwron.shop^
@@ -598,6 +601,7 @@
 ||einhell.eusite.com^
 ||elabd.online^
 ||eldercity.xyz^
+||eleganthush.com^
 ||eliteclonecards.com^
 ||eliteminingresource.org^
 ||elitevac.uk^
@@ -711,6 +715,7 @@
 ||footjoysale.shop^
 ||forbiddenpant.com^
 ||fordeeal.shop^
+||forex.autotrades.com^
 ||forge.wallet.com^
 ||forsage.io^
 ||fotytv.com^
@@ -1872,6 +1877,7 @@
 ||vepnext.com^
 ||verpeliculasultra.com^
 ||verticalvinvehicle.com^
+||vevorheater.com^
 ||vexunax.com^
 ||vexunox.com^
 ||vflcsz.info^
