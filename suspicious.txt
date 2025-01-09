@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.09.070055.2025
+! Version: 01.09.073049.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  9 07:00:55 UTC 2025
+! Last modified: Thu Jan  9 07:30:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2058
+! Number of entries: 2063
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -346,6 +346,7 @@
 ||car.zhouznq.cn^
 ||cardmasparamiempresa.wuaze.com^
 ||careeredge.online^
+||carharttsalevip.shop^
 ||carolbradley.shop^
 ||carrepairus0507.online^
 ||casetesy.com^
@@ -612,6 +613,7 @@
 ||elabd.online^
 ||eldercity.xyz^
 ||eleganthush.com^
+||elitecapitalmarket.com^
 ||eliteclonecards.com^
 ||eliteminingresource.org^
 ||elitevac.uk^
@@ -1309,6 +1311,7 @@
 ||oneclickmart.online^
 ||onefarm.pro^
 ||onerosey.com^
+||onestopvalue44.info^
 ||online.advertising.73412.bond^
 ||online.advertising.96909.bond^
 ||online.aktarmalar.hizmeti.store^
@@ -1369,6 +1372,7 @@
 ||parksidept.shop.com^
 ||parksides.net^
 ||parksidestores.com^
+||parksldeshop.com^
 ||partecularly.com^
 ||pascoprime.com^
 ||pasion.padel.com^
@@ -1597,6 +1601,7 @@
 ||sexyforums.com^
 ||sfardlanka.com^
 ||shamfreshen.com^
+||shapeitstore.com^
 ||shedrickcdigital.pro^
 ||shelee.vip^
 ||shibaarmy.world^
