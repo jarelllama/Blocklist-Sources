@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.09.180114.2025
+! Version: 01.09.183628.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  9 18:01:14 UTC 2025
+! Last modified: Thu Jan  9 18:36:28 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2111
+! Number of entries: 2115
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -493,6 +493,7 @@
 ||crazediscount.com^
 ||crazybody.online^
 ||creneau.2025.mondial.com^
+||crestprofits.com^
 ||cripexbit.com^
 ||cripto.keys.store^
 ||cristianmartinez.online^
@@ -547,6 +548,7 @@
 ||dent.code.com^
 ||dentalclinicgreaternoida.com^
 ||departmentstoreclearance.com^
+||desipin.com^
 ||destinypulseprize.com^
 ||determin.shop^
 ||devzone2.online^
@@ -1007,6 +1009,7 @@
 ||kesan888.com^
 ||kesngg.com^
 ||kesngl.com^
+||key.wrld.com^
 ||kg11india.online^
 ||khipp.com^
 ||kickscrew.com^
@@ -2109,6 +2112,7 @@
 ||zetdax.top^
 ||zfp.zfppool.com^
 ||zhuan2345.com^
+||zielbioinc.com^
 ||zimasilkt.com^
 ||zjulpujub.wlasnnz.cn^
 ||zlibrary.to^
