@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.09.190053.2025
+! Version: 01.09.193057.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  9 19:00:53 UTC 2025
+! Last modified: Thu Jan  9 19:30:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2115
+! Number of entries: 2119
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -22,6 +22,7 @@
 ||278.hnyuanoo.top^
 ||2llcc.vip^
 ||34k.site^
+||3549urk.kipkeo.info^
 ||552059.com^
 ||5movierulz.gay^
 ||63810.com^
@@ -60,6 +61,7 @@
 ||adminpg.online^
 ||adsarp.com^
 ||adsphericalsuits.com^
+||advetex.net^
 ||adyenn.com^
 ||aerodromefi.claims.app^
 ||aerosdromes.net^
@@ -1472,6 +1474,7 @@
 ||pretiboiy.com^
 ||primeinvest.app^
 ||primitivesystem.online^
+||prizerebel.com^
 ||pro.cion.com^
 ||procim.online^
 ||productonline.cloud^
@@ -1943,6 +1946,7 @@
 ||vbdigitalcard.in^
 ||vc66.net^
 ||veepee.fr.shop^
+||vegobit.com^
 ||velivyne.com^
 ||velogisc.com^
 ||venarose.online^
