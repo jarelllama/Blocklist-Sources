@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.09.025950.2025
+! Version: 01.09.032332.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  9 02:59:50 UTC 2025
+! Last modified: Thu Jan  9 03:23:32 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2028
+! Number of entries: 2033
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -24,6 +24,7 @@
 ||34k.site^
 ||552059.com^
 ||5movierulz.gay^
+||63810.com^
 ||777color87.com^
 ||7k.casino.16.online^
 ||7starbet.com^
@@ -705,6 +706,7 @@
 ||flexswiftways.online^
 ||flirtingplaza.com^
 ||flomac.shop^
+||flrdroplines.com^
 ||fluctz.xyz^
 ||fluminer.org^
 ||flwoertime.de^
@@ -1552,6 +1554,7 @@
 ||sciaticnerve.treatment.16.online^
 ||sdx96.com^
 ||sdxsjc.com^
+||sea.hecategames.com^
 ||search.great.com^
 ||searchednow.com^
 ||searchnow.online^
@@ -1722,6 +1725,7 @@
 ||thestylefoundrycle.store^
 ||thetaus.top^
 ||thetodayhealth.xyz^
+||thgworldwide.com^
 ||thomashouseofdigitals.store^
 ||threadsvault.com^
 ||tickfyx.shop^
@@ -1818,6 +1822,7 @@
 ||u.usd.com^
 ||ucboc.com^
 ||uehdspecial.shop^
+||ugksq.merganser.cn^
 ||uhbideal.store^
 ||uhorix.online^
 ||ukhomebase.com^
