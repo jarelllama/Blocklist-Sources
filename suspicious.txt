@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.09.103449.2025
+! Version: 01.09.110057.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  9 10:34:49 UTC 2025
+! Last modified: Thu Jan  9 11:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2077
+! Number of entries: 2082
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -344,6 +344,7 @@
 ||canconsulting.in^
 ||canvaschronicle.homes^
 ||canvasgenius.homes^
+||capaciousdrewreligion.com^
 ||capital.shares.com^
 ||car.zhouznq.cn^
 ||cardmasparamiempresa.wuaze.com^
@@ -473,6 +474,7 @@
 ||constipation.relieve.16.online^
 ||construction.jobs.nz.online^
 ||contactconsultingservices.com^
+||controlnetworks.com.au^
 ||coolbet.peru.online^
 ||cosmayae.com^
 ||cosometaldetector.com^
@@ -501,6 +503,7 @@
 ||cuan66.co^
 ||cuisineskit.com^
 ||cupomdepix.online^
+||curatidle.com^
 ||cursomarderesina.online^
 ||customscool.com^
 ||customspresent.com^
@@ -1653,6 +1656,7 @@
 ||smartns.ink^
 ||smartphone.ue.shop^
 ||smartrecoup.com^
+||smeftoredu.com^
 ||smesk.online^
 ||smith.newyork.com^
 ||snapbuy.us^
@@ -1912,6 +1916,7 @@
 ||vbdigitalcard.in^
 ||vc66.net^
 ||veepee.fr.shop^
+||velivyne.com^
 ||velogisc.com^
 ||venarose.online^
 ||vendorbroz.com^
