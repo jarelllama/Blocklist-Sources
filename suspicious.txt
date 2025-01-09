@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.09.000204.2025
+! Version: 01.09.004518.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  9 00:02:04 UTC 2025
+! Last modified: Thu Jan  9 00:45:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2010
+! Number of entries: 2016
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -31,6 +31,7 @@
 ||80.25.pcs.com^
 ||82lottery9.in^
 ||988359.com^
+||9jwjegw.mmdlkx.info^
 ||a1b2c4.shop^
 ||aattechnologies.net^
 ||abaok.vip^
@@ -1194,6 +1195,7 @@
 ||naseebetiris.naseebet77.com^
 ||nationalcasinolp.com^
 ||nc.ph.2974.zerads.com^
+||ncbofficielfr.com^
 ||nearriot.com^
 ||nebluscommercial.com^
 ||neesedresses.com^
@@ -1352,10 +1354,12 @@
 ||penetratea.com^
 ||penguin.zkirc.com^
 ||penguinmalil.com^
+||pepeto.io^
 ||pepeunchained.io^
 ||peraplay.ph^
 ||percyverencecoin.com^
 ||perfectideas.store^
+||permblox.com^
 ||personalloans30096.online^
 ||pesdnfeje.shop^
 ||petermillarsale.shop^
@@ -1726,6 +1730,7 @@
 ||tkxxtk.com^
 ||tldindia.online^
 ||tmgmoo.com^
+||tockexa.shop^
 ||todayyouwin.com^
 ||tofro.com^
 ||tokenhedg.com^
@@ -1928,6 +1933,7 @@
 ||white.fox.us.com^
 ||whitelist.pro^
 ||whmcmanus.shop^
+||whubaesingotbrewer.com^
 ||wiaa.in^
 ||wichhistor.co.uk^
 ||williamarnold.online^
