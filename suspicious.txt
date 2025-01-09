@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.09.032332.2025
+! Version: 01.09.034100.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  9 03:23:32 UTC 2025
+! Last modified: Thu Jan  9 03:41:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2033
+! Number of entries: 2039
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -642,6 +642,7 @@
 ||estarenergy.ltd^
 ||estherwinter.eu^
 ||estiloargento.com.ar^
+||esysgb.com^
 ||eterminal.net^
 ||eu.venum.shop^
 ||eurocheapoonline.advanced.com^
@@ -767,6 +768,7 @@
 ||geographz.com^
 ||getdrant.shop^
 ||getsoothesmooth.com^
+||gfgsdgkgk.com^
 ||gfslsecurities.cc^
 ||gggwg.online^
 ||ghsyps.ca^
@@ -861,6 +863,7 @@
 ||hotspingames.top^
 ||hotvxfs.shop^
 ||hoylitecandle.store^
+||hozpetro.com^
 ||htadz.online^
 ||htoi.online^
 ||htxsbot.com^
@@ -870,6 +873,7 @@
 ||hululusol.com^
 ||hunnybank.com^
 ||hvuaill.com^
+||hxxokerase.fyi^
 ||hyph666.win^
 ||i.apple.com.tr^
 ||iastfund.com^
@@ -1692,6 +1696,7 @@
 ||sxjxjcc.com^
 ||sxyprn.net^
 ||synthealth.com^
+||t2.awagama2.org^
 ||tads.baker.co.za^
 ||takchu.com^
 ||talentstreamnet.com^
@@ -1734,6 +1739,7 @@
 ||tiffanymart.online^
 ||tiffanymart.site^
 ||tikmining.com^
+||tiktoks8007.com^
 ||tiktokshopte.com^
 ||timestrendd.com^
 ||tinfoil.io^
