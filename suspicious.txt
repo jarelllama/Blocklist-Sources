@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.09.060100.2025
+! Version: 01.09.063547.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  9 06:01:00 UTC 2025
+! Last modified: Thu Jan  9 06:35:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2053
+! Number of entries: 2056
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -434,6 +434,7 @@
 ||cobatis.sm.com^
 ||cocooutlets.shop^
 ||code.getoffus.site^
+||codflict.com^
 ||coin.go.in^
 ||coin.gofastgo.online^
 ||coinbasesupport.blog^
@@ -634,6 +635,7 @@
 ||eniqai.com^
 ||enjoy99.org^
 ||ens36.sfe.infd.edu.ar^
+||entreur.com^
 ||entrustify.co.in^
 ||eobot.net^
 ||eonsalestore.com^
@@ -1362,6 +1364,7 @@
 ||parisdocase.com^
 ||parkit.nc.com^
 ||parksideatvip.shop^
+||parksidept.shop.com^
 ||parksides.net^
 ||parksidestores.com^
 ||partecularly.com^
