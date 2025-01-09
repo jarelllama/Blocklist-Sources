@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.09.012754.2025
+! Version: 01.09.021625.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  9 01:27:54 UTC 2025
+! Last modified: Thu Jan  9 02:16:25 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2017
+! Number of entries: 2022
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -121,6 +121,7 @@
 ||apexcapltd.com^
 ||apkft.xyz^
 ||apkhot.xyz^
+||apounes.com^
 ||app.lockswallet.net^
 ||appanalytics.online^
 ||aprontify.de^
@@ -361,6 +362,7 @@
 ||cheqseep.online^
 ||chiccraftz.com^
 ||chillpotrandom.com^
+||christianlouboutinmexicos.top^
 ||christopherchaves.com^
 ||ciekawoscobywateli.click^
 ||cimarronclub.com^
@@ -528,6 +530,7 @@
 ||dghv.store^
 ||dhlmall.vip^
 ||dickies.com.es^
+||dickssportingofficial.com^
 ||digestionscience.com^
 ||digihash.io^
 ||digiqhub.com^
@@ -554,6 +557,7 @@
 ||dogooddaldaadw.com^
 ||dominatei.shop^
 ||dopehungary.hu.com^
+||dopesneakers.shop^
 ||dork.baby^
 ||download.wondershare.net^
 ||downloadfiles.link^
@@ -1049,6 +1053,7 @@
 ||lottobet.online^
 ||lourdeswestleyhawk.org^
 ||lovemyparfum.com^
+||loverzsk.best^
 ||lpr.articlefindpro.com^
 ||lrefraine.lol^
 ||ltcautomining.com^
