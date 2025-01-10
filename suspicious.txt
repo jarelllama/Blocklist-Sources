@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.10.080113.2025
+! Version: 01.10.083449.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 08:01:13 UTC 2025
+! Last modified: Fri Jan 10 08:34:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2230
+! Number of entries: 2236
 ||05012025.info^
 ||1024tera.com^
 ||123notices.com^
@@ -494,6 +494,7 @@
 ||communaltrades.com^
 ||compare.deals.online.info^
 ||comprasdigitaisglobais.online^
+||computarius.online^
 ||coninvestholdingsltd.com^
 ||connectdefix.online^
 ||connectionos.xyz^
@@ -989,6 +990,7 @@
 ||inter.entregas.online^
 ||interactive.pov.com^
 ||investor.digiestate.online^
+||invitrofertilizationtreatment001.online^
 ||ionmining.com^
 ||ip.hz.com^
 ||ipctd.online^
@@ -1036,6 +1038,7 @@
 ||jpgcompressor.online^
 ||jradx.ca^
 ||jrelievedy.monster^
+||jrqyonline.com^
 ||juinfd.com^
 ||jump.panel.surprise.clever.top^
 ||jumper.lvlnk.com^
@@ -1426,6 +1429,7 @@
 ||online.events.net^
 ||online.juctice.com^
 ||online.marketing.degree.901935125.zone^
+||onlinebettingidprovider.co.in^
 ||onlinegalaxus.net^
 ||onlinematpilates.com^
 ||onlineotizmdanisma.com^
@@ -1523,6 +1527,7 @@
 ||pixbay.online^
 ||pkvn68.online^
 ||play.qqvip303.online^
+||play.regal.fr.online^
 ||playfortune.cc^
 ||playgmz.online^
 ||playstation.stores.com^
@@ -2009,6 +2014,7 @@
 ||uniquetrustrades.com^
 ||universalwealth.org^
 ||unltee.com^
+||unnatitoys.com^
 ||upayy.online^
 ||upb.edu.co^
 ||upizoneltd.com^
