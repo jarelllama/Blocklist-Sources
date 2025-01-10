@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.09.233058.2025
+! Version: 01.10.000204.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan  9 23:30:58 UTC 2025
+! Last modified: Fri Jan 10 00:02:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2148
+! Number of entries: 2153
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -777,6 +777,8 @@
 ||fragrancesrealms.com^
 ||free.ethereum.io^
 ||freebitco.in^
+||freebnbgo.com^
+||freebnbgo.net^
 ||freesamplesprousa.com^
 ||freestar.buzz^
 ||frienditeglobal.online^
@@ -980,6 +982,7 @@
 ||iujuc.shop^
 ||iunia.eap.com^
 ||iuredd.com^
+||ivendart.com^
 ||iyilikler.online^
 ||ja.cat^
 ||jadloresga.shop^
@@ -1497,6 +1500,7 @@
 ||pro.cion.com^
 ||procim.online^
 ||productonline.cloud^
+||profittrade.live^
 ||projectplaygroundtech.com^
 ||promo.offer.com^
 ||promptfunds.org^
@@ -2050,6 +2054,7 @@
 ||wegmansmall.shop^
 ||wegovy.shop.online^
 ||welovegenshinimpact.com^
+||westtic.com^
 ||wfoqfashion.shop^
 ||wftqatar.com^
 ||wheelpg777.online^
