@@ -1,13 +1,13 @@
 [Adblock Plus]
-! Title: Gridinsoft Suspicious Domains Blocklsit
-! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
-! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
-! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.10.090104.2025
+! Title: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist
+! Description: Domains scraped every 30 mins to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
+! Homepage: https://github.com/jarelllama/Blocklist-Sources
+! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
+! Version: 01.10.092636.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 09:01:04 UTC 2025
+! Last modified: Fri Jan 10 09:26:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2244
+! Number of entries: 2250
 ||05012025.info^
 ||1024tera.com^
 ||123notices.com^
@@ -94,7 +94,9 @@
 ||al.rafidahcapital.com^
 ||alectomedia.online^
 ||alfianacendani.online^
+||aliquotes.online^
 ||all.chems.com^
+||all.pcb.online^
 ||alleycatsol.xyz^
 ||allianceroyals.com^
 ||allicross.online^
@@ -964,6 +966,7 @@
 ||i.apple.com.tr^
 ||iamnew.powerappsportals.com^
 ||iastfund.com^
+||ibisnashikhotel.online^
 ||iceriver.company^
 ||iconicinternational.online^
 ||idjqwinla.net^
@@ -1198,6 +1201,7 @@
 ||lyycs.store^
 ||m.bitunixex.com^
 ||m.parrotes.com^
+||mabar88go.online^
 ||mablehelp.online^
 ||macpac.ts.shop^
 ||macystoreclothing.com^
@@ -1923,6 +1927,7 @@
 ||tkshopp.vip^
 ||tkxxtk.com^
 ||tldindia.online^
+||tlklwruwbjekpxu.online^
 ||tmgmoo.com^
 ||tockexa.shop^
 ||todayyouwin.com^
@@ -2249,6 +2254,7 @@
 ||zorunex.com^
 ||ztudim.work.top^
 ||ztxzhb.shop^
+||zutaonline.com^
 ||zx3.io^
 ||zxzclitin.shop^
 ||zyxelia.com^
