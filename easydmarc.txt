@@ -3,18 +3,23 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.10.113059.2025
+! Version: 01.10.120113.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 11:30:59 UTC 2025
+! Last modified: Fri Jan 10 12:01:13 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 16
+! Number of entries: 21
 ||app.mailinblack.com^
+||bit.ly^
 ||chat.whatsapp.com^
 ||dhl.plushy.cfd^
+||donate.wfp.org^
 ||emea01.safelinks.protection.outlook.com^
+||idilang.com^
 ||iflychat-files-v2.s3.amazonaws.com^
 ||link.advance-he.ac.uk^
+||m.tneu.in^
 ||maps.app.goo.gl^
+||nam12.safelinks.protection.outlook.com^
 ||nobellstore.com^
 ||restorecord.com^
 ||scuremnge8490appsxvefiy.work.gd^
