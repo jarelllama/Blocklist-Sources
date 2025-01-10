@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.10.012803.2025
+! Version: 01.10.020350.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 01:28:03 UTC 2025
+! Last modified: Fri Jan 10 02:03:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2163
+! Number of entries: 2167
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -118,6 +118,7 @@
 ||angelicstoragebv.com^
 ||angiechew.online^
 ||animvip.com^
+||annafieldshops.fr^
 ||annuallye.com^
 ||anonhost.xyz^
 ||anonym.ninja^
@@ -660,6 +661,7 @@
 ||emkqh.shop^
 ||empireminers.com^
 ||empiric.online^
+||emttrading.com^
 ||enclarhealth.com^
 ||encomendas.importacao.online^
 ||endeavourmarketing.global.vip^
@@ -669,6 +671,7 @@
 ||eniqai.com^
 ||enjoy99.org^
 ||ens36.sfe.infd.edu.ar^
+||entiq.co^
 ||entreur.com^
 ||entrustify.co.in^
 ||eobot.net^
@@ -1927,6 +1930,7 @@
 ||tshilaige.com^
 ||tt.tiktokmarketplace.online^
 ||ttoeore.com^
+||turbotrump.info^
 ||tusheedrosep.net^
 ||tuuoi.shop^
 ||twiney.shop^
