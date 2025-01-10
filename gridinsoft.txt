@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.10.100103.2025
+! Version: 01.10.103448.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 10:01:03 UTC 2025
+! Last modified: Fri Jan 10 10:34:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2260
+! Number of entries: 2269
 ||05012025.info^
 ||1024tera.com^
 ||123notices.com^
@@ -180,6 +180,7 @@
 ||atomishine.com^
 ||atouchofgreenboutique.com^
 ||attriaction.com^
+||atualcance.online^
 ||au24shop.com^
 ||aubuds.com^
 ||auroracherie.com^
@@ -241,6 +242,7 @@
 ||bestnationalcreditunion.com^
 ||bet4.pe^
 ||betnight.online^
+||betonline.love^
 ||betsclub.pro^
 ||betwave.vip^
 ||beyondprostate.com^
@@ -320,6 +322,7 @@
 ||bonta.store^
 ||boodiecawquaw.top^
 ||bookmarkfc.info^
+||boomerenginvestitionen.com^
 ||bostakingu.com^
 ||boundary.metal.com^
 ||bowscalessales.com^
@@ -593,6 +596,7 @@
 ||digihash.io^
 ||digiqhub.com^
 ||digital.usdt.com^
+||digitalfolio.online^
 ||digitalkeysoftware.com^
 ||digitalolive.shop^
 ||digitalsmartone.online^
@@ -731,6 +735,7 @@
 ||f2pool.com^
 ||facebook.busines.tempisite.com^
 ||fadedarkspotsfast.com^
+||faithfultly.com^
 ||fakaira.space^
 ||falalamxn.vip^
 ||falconfxtrading.com^
@@ -1059,6 +1064,7 @@
 ||jvault.xyz^
 ||jysk.online.com^
 ||jysk.sale.com^
+||jyskhome.eu.com^
 ||kadobarvapesstore.com^
 ||kagevest.org^
 ||kalpwd.vip^
@@ -1095,6 +1101,7 @@
 ||kobaltoutletstore.com^
 ||kongva.com^
 ||konigsbruder.com^
+||korucc.com^
 ||kpmy556.cc^
 ||krecociler.monster^
 ||kreed5425210621621.online^
@@ -2029,6 +2036,7 @@
 ||undressbaby.com^
 ||uniquepropertygroup.co.uk^
 ||uniquetrustrades.com^
+||unitedparcelexpress.online^
 ||universalwealth.org^
 ||unltee.com^
 ||unnatitoys.com^
@@ -2115,6 +2123,7 @@
 ||volcminer.store^
 ||volmar.sinformations.cfd^
 ||vopifg.com^
+||vorgang.abschliessen.online^
 ||votelya.com^
 ||vtwinschool.com^
 ||vudu.top^
