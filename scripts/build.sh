@@ -6,10 +6,10 @@
 readonly DOMAIN_REGEX='[[:alnum:]][[:alnum:].-]*[[:alnum:]]\.[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*'
 
 source_gridinsoft() {
-    local URL='https://gridinsoft.com/website-reputation-checker'
+    local url='https://gridinsoft.com/website-reputation-checker'
 
     # Some entries have '_' instead of '-' in the domain name
-    curl -sS --retry 2 --retry-all-errors "$URL" \
+    curl -sS --retry 2 --retry-all-errors "$url" \
         | grep -Po "online-virus-scanner/url/\K[[:alnum:].-_]+-[[:alnum:]-]+(?=\".*--suspicious\">)" \
         | mawk '{gsub(/_/, "-"); gsub(/-/, "."); print}' >> gridinsoft.txt
 
