@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.10.213055.2025
+! Version: 01.10.220059.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 21:30:55 UTC 2025
+! Last modified: Fri Jan 10 22:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2369
+! Number of entries: 2374
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -406,6 +406,7 @@
 ||cbex.cx^
 ||cbex18.com^
 ||cbex3.com^
+||cbtfturbo99.com^
 ||cdonnsauw.top^
 ||celebprize.com^
 ||celeharm.com^
@@ -727,6 +728,7 @@
 ||eonsalestore.com^
 ||epeweko.info^
 ||epoiu.com^
+||ermsty.com^
 ||erybdu.com^
 ||es.bankinter.usuario.com^
 ||escapitals.com^
@@ -1398,6 +1400,7 @@
 ||mymindwellness.co.uk^
 ||mypassivetrade.com^
 ||myplatform.top^
+||mysticstonesgallery.com^
 ||mytraveldaddy.us^
 ||myvanomi.com^
 ||naorisprotocol.web.app^
@@ -1609,6 +1612,7 @@
 ||pg77.game^
 ||phillipa.online^
 ||photographingge.com^
+||pillowhubglobal.com^
 ||pinkonline.store^
 ||pinnacle.equitygroup.com^
 ||pip4gains.com^
@@ -2058,6 +2062,7 @@
 ||toppipoptions.online^
 ||topsmanings.top^
 ||topthingsinlife.com^
+||toptoolskits.com^
 ||topvibes.top^
 ||torresip.com^
 ||tosdex.com^
