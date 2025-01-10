@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.10.050057.2025
+! Version: 01.10.053312.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 05:00:57 UTC 2025
+! Last modified: Fri Jan 10 05:33:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2188
+! Number of entries: 2194
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -260,6 +260,7 @@
 ||bio.protocol.xyz^
 ||bioairdrop.com^
 ||bioanalysis.lt^
+||birtox.biz^
 ||bisalex.com^
 ||bit.binary.org^
 ||bit.btc.com^
@@ -536,6 +537,7 @@
 ||cvlholding.co.uk^
 ||cvstrx.vip^
 ||cvuire.vip^
+||cyber.fuck.com^
 ||cyberguardforchrome.com^
 ||cyberhavenext.pro^
 ||cybex.360.com^
@@ -627,6 +629,7 @@
 ||dystarwears.com^
 ||dzan23.cn^
 ||eaglecrestonline.com^
+||eaglepointx.org^
 ||earncrash.in^
 ||earnscashmb.buzz^
 ||earringssale.com^
@@ -894,6 +897,7 @@
 ||hashfactor.net^
 ||healthtimers.com^
 ||hedgeincrease.com^
+||helenaatelier.com^
 ||hello.hello.site^
 ||hellokitty.store.com^
 ||hellotripsitters.com^
@@ -934,6 +938,7 @@
 ||hudsonclassic.com^
 ||hugopdgr.com^
 ||hugoprimetradefx.com^
+||hulonqgroup.com^
 ||hululusol.com^
 ||hunnybank.com^
 ||hvuaill.com^
@@ -1835,6 +1840,7 @@
 ||teiagrma.pub^
 ||telelabs.online^
 ||tenadex.com^
+||tenek.vip^
 ||terestdeals.shop^
 ||tfalcon.online^
 ||tfvpm.org^
