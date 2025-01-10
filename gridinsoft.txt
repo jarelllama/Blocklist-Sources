@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.10.230056.2025
+! Version: 01.10.233049.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 23:00:56 UTC 2025
+! Last modified: Fri Jan 10 23:30:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2381
+! Number of entries: 2384
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -638,6 +638,7 @@
 ||discountamzn.com^
 ||discountshypermarket.com^
 ||discttime.shop^
+||divicast.com^
 ||divinark.store^
 ||divingcentercadaques.com^
 ||docker.1ms.run^
@@ -1614,6 +1615,7 @@
 ||personalloans30096.online^
 ||pesdnfeje.shop^
 ||petermillarsale.shop^
+||petronordstorage.nl^
 ||pg77.game^
 ||phillipa.online^
 ||photographingge.com^
@@ -1879,6 +1881,7 @@
 ||skandere.online^
 ||skhealthline.com^
 ||skidipapap.online^
+||skinrave.gg^
 ||skirtvibez.com^
 ||skymine.online^
 ||skyplusevtr.com^
