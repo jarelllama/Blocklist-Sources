@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.10.033540.2025
+! Version: 01.10.040059.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 03:35:40 UTC 2025
+! Last modified: Fri Jan 10 04:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2178
+! Number of entries: 2182
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -1265,6 +1265,7 @@
 ||movenzo.com^
 ||mpc7.cc^
 ||mqyn.odqmjbta.shop^
+||mr.verify.net^
 ||mrefractiont.lol^
 ||mttathletics.com^
 ||mujeresconbienestar.gob.mx.info^
@@ -1372,6 +1373,7 @@
 ||oldendroff.com^
 ||oluwasegunakinyemi.com^
 ||olux.to^
+||omgminer.vip^
 ||omgprice10.cc^
 ||on.shoes.uae.com^
 ||oncees.live^
@@ -1522,6 +1524,7 @@
 ||promptfunds.org^
 ||propandcounterfietmoney.com^
 ||propfirmpassingservice.net^
+||prospero.ae^
 ||proswapex.com^
 ||proteinbestsell.com^
 ||protocolsafe.co.in^
@@ -2140,6 +2143,7 @@
 ||xvkdfashion.shop^
 ||xyzverse.io^
 ||yanwosu.com^
+||yavarifx.com^
 ||ybycmeds.com^
 ||ycrxys.com^
 ||yepbit4.com^
