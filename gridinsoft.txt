@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.10.093223.2025
+! Version: 01.10.100103.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 09:32:23 UTC 2025
+! Last modified: Fri Jan 10 10:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2255
+! Number of entries: 2260
 ||05012025.info^
 ||1024tera.com^
 ||123notices.com^
@@ -327,6 +327,7 @@
 ||bphash.top^
 ||branch.forex.com^
 ||brandingacademy.online^
+||brandtrendp.com^
 ||breakmine.online^
 ||breathingottersca.com^
 ||briansclub.cm.shop^
@@ -1754,6 +1755,7 @@
 ||shoponlinesale.shop^
 ||shoppingmall11.top^
 ||shoppingmall22.top^
+||shoppingmall44.top^
 ||shoptastic.io^
 ||shorturl.at^
 ||shotzon.com^
@@ -2116,6 +2118,9 @@
 ||votelya.com^
 ||vtwinschool.com^
 ||vudu.top^
+||vx88.vx.com^
+||vx8802.com^
+||vx88t.com^
 ||wagexera.com^
 ||wallstreetpepe.com^
 ||wananle.com^
