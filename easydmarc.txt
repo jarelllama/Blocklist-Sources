@@ -3,17 +3,20 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.10.153218.2025
+! Version: 01.10.160107.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 15:32:18 UTC 2025
+! Last modified: Fri Jan 10 16:01:07 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 32
+! Number of entries: 39
 ||app.mailinblack.com^
 ||bit.ly^
 ||chat.whatsapp.com^
 ||dhl.plushy.cfd^
 ||donate.wfp.org^
+||drive.google.com^
+||elsinta.el.itera.ac.id^
 ||emea01.safelinks.protection.outlook.com^
+||eupanel.org^
 ||flipkartz.dealxnew.shop^
 ||forms.gle^
 ||free-gifts.website^
@@ -25,8 +28,10 @@
 ||m.tneu.in^
 ||maps.app.goo.gl^
 ||me-qr.com^
+||myaccount.e-zpassnyv.top^
 ||nam12.safelinks.protection.outlook.com^
 ||nobellstore.com^
+||notifications.googleapis.com^
 ||restorecord.com^
 ||scuremnge8490appsxvefiy.work.gd^
 ||secmail.bankofamerica.com^
@@ -37,6 +42,8 @@
 ||unlocktoearn.com^
 ||www.expressfinanceonline.com^
 ||www.facebook.com^
+||www.lion777.club^
 ||www.nagem.com.br^
+||www.sihub.in^
 ||www.zoblox.com^
 ||zskldf.sbpnm.click^

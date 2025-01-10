@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.10.153217.2025
+! Version: 01.10.160106.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 15:32:17 UTC 2025
+! Last modified: Fri Jan 10 16:01:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2329
+! Number of entries: 2332
 ||0.miniya.us.kg^
 ||05012025.info^
 ||1024tera.com^
@@ -1293,6 +1293,7 @@
 ||metascorex.com^
 ||metatrader5.com^
 ||metatradingai.co^
+||metatransaction.org^
 ||methodeversohnungvonbeziehungen.online^
 ||metodolog.online^
 ||metropolidata.com^
@@ -1753,6 +1754,7 @@
 ||sale.oggi.com^
 ||salebeddingus.com^
 ||salewaoutletsespana.es^
+||samaucy.com^
 ||samimpex.org^
 ||samsa.pro^
 ||samseven.com^
@@ -1951,6 +1953,7 @@
 ||tenek.vip^
 ||terbangria.online^
 ||terestdeals.shop^
+||tesolarhubs.buzz^
 ||tfalcon.online^
 ||tfvpm.org^
 ||tgbtest.com^
