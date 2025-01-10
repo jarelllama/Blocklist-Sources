@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.10.143337.2025
+! Version: 01.10.150104.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 14:33:37 UTC 2025
+! Last modified: Fri Jan 10 15:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2317
+! Number of entries: 2324
 ||0.miniya.us.kg^
 ||05012025.info^
 ||1024tera.com^
@@ -546,6 +546,7 @@
 ||cryptoneerpro.com^
 ||cryptoxwave.com^
 ||crystalglobalwealth.com^
+||csfpromocao2024.online^
 ||ctvvpue071bc73b7gmug.protocolchainflow.com^
 ||cuan66.co^
 ||cuisineskit.com^
@@ -593,6 +594,7 @@
 ||desipin.com^
 ||destinypulseprize.com^
 ||determin.shop^
+||devcrack.org^
 ||devzone2.online^
 ||dewsenergyconstruction.com^
 ||dex.trade.global^
@@ -1503,6 +1505,7 @@
 ||ostehard.com^
 ||otherstoriessale.shop^
 ||ourruless.store^
+||out.parks.es.com^
 ||outfitloft.com^
 ||outlook.8i7.net^
 ||overep.com^
@@ -1589,6 +1592,7 @@
 ||pocketoption.com^
 ||pokebooster.fr^
 ||pokexperiment.com^
+||pokharaapartment.com^
 ||policja.pl112.online^
 ||popmartonline.my.asia^
 ||portaldedicasonline.com^
@@ -1782,6 +1786,7 @@
 ||senso.cat^
 ||senteted.com^
 ||seokore.com^
+||serviteccr.com^
 ||setes.live^
 ||setyobim.online^
 ||sexanzeigen.huren.online^
@@ -1936,6 +1941,7 @@
 ||tedexy.com^
 ||teiagrma.pub^
 ||telelabs.online^
+||telezgram.org^
 ||tenadex.com^
 ||tenek.vip^
 ||terbangria.online^
@@ -2255,6 +2261,7 @@
 ||www1.thepiratebay3.to^
 ||wwwwscsb500comios2ser.wscbs.vip^
 ||x.ua.com^
+||xai79a.com^
 ||xanarx.live^
 ||xapool.com^
 ||xcyera.com^
