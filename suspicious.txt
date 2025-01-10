@@ -3,11 +3,12 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.10.053312.2025
+! Version: 01.10.060105.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 05:33:12 UTC 2025
+! Last modified: Fri Jan 10 06:01:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2194
+! Number of entries: 2203
+||05012025.info^
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -133,6 +134,7 @@
 ||apexcapitallimited.com^
 ||apexcapltd.com^
 ||apexfep.com^
+||apicddn.com^
 ||apkft.xyz^
 ||apkhot.xyz^
 ||apkturbo.com^
@@ -405,6 +407,7 @@
 ||circle.s.com^
 ||cirquemusicz.com^
 ||cisalfasport.it.com^
+||cisionppc.top^
 ||cisneseyker.info^
 ||cisuzou.com^
 ||cit.invests.com^
@@ -520,6 +523,7 @@
 ||crypto.com^
 ||crypto.motorsports.com^
 ||cryptoassetfortressltd.com^
+||cryptocurrency.events.com^
 ||cryptoids.info^
 ||cryptolios.net^
 ||cryptoneerpro.com^
@@ -1850,6 +1854,7 @@
 ||thecryptobullrun.life^
 ||thedollar.online^
 ||thefurniturestudio.store^
+||thegoodguyssignup.com^
 ||thehygienefree.top^
 ||theinvisibleaffiliate.com^
 ||theleolab.online^
@@ -1971,6 +1976,7 @@
 ||uhorix.online^
 ||ukhomebase.com^
 ||ulmire.com^
+||umamiicrate.store^
 ||umarinfomobiles.online^
 ||undetectedbanknotes.com^
 ||undressbaby.com^
@@ -2036,6 +2042,7 @@
 ||vexunox.com^
 ||vflcsz.info^
 ||vflmo.online^
+||vhufdiu.com^
 ||vibyage.com^
 ||victordle.net^
 ||video.earns.top^
@@ -2101,6 +2108,7 @@
 ||wheelresq.online^
 ||wheybit.com^
 ||whimsywagonn.com^
+||whisky.shop.top^
 ||white.fox.us.com^
 ||whitelist.pro^
 ||whmcmanus.shop^
@@ -2161,6 +2169,7 @@
 ||yepbit4.com^
 ||yetupstairsaccount.com^
 ||yieldboostinvests.com^
+||yiminstyle.com^
 ||yinxing.info^
 ||ynmufr.9l5lortoe.top^
 ||ynmufr.h2os7lzt7.top^
