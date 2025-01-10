@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.10.004526.2025
+! Version: 01.10.012803.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 00:45:26 UTC 2025
+! Last modified: Fri Jan 10 01:28:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2155
+! Number of entries: 2163
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -107,6 +107,7 @@
 ||alwaysfindonline.shop^
 ||am.usdenelx.com^
 ||amalbio.shop^
+||amanwarehouse.com^
 ||amazingfindsonline.com^
 ||amaznmarket.shop^
 ||amazonsellersappeal.com^
@@ -493,6 +494,7 @@
 ||contactconsultingservices.com^
 ||controlnetworks.com.au^
 ||coolbet.peru.online^
+||corporalgaming.com^
 ||cosmayae.com^
 ||cosometaldetector.com^
 ||costexcorporation.com^
@@ -1006,6 +1008,7 @@
 ||jpgcompressor.online^
 ||jradx.ca^
 ||jrelievedy.monster^
+||juinfd.com^
 ||jump.panel.surprise.clever.top^
 ||jumper.lvlnk.com^
 ||juno.download.promo.com^
@@ -1051,11 +1054,13 @@
 ||knighted.shop^
 ||knoblatter.com^
 ||kobaltoutletstore.com^
+||kongva.com^
 ||konigsbruder.com^
 ||kpmy556.cc^
 ||krecociler.monster^
 ||kreed5425210621621.online^
 ||krefractoryr.lol^
+||krpod.com^
 ||ksda.online.org^
 ||kubabuy.com^
 ||kulken.com^
@@ -1225,6 +1230,7 @@
 ||minibitcoin.xyz^
 ||minibuzzy.online^
 ||miningcompany.ltd^
+||mintooshop.com^
 ||missav.cam^
 ||mitoleyn.com^
 ||mixtsp.com^
@@ -1640,6 +1646,7 @@
 ||sarangpuradharamashala.online^
 ||sato.castle.com^
 ||saveconsulting.si^
+||saveweb2zip.com^
 ||savvyessence.com^
 ||saylor.giftx2.com^
 ||sbk.trx1.com^
@@ -1702,6 +1709,7 @@
 ||skymine.online^
 ||skyplusevtr.com^
 ||skywing.ltd.com^
+||slecks.shop^
 ||sleekfitz.com^
 ||slmsbz.com^
 ||slot7.onlinecasino.com^
