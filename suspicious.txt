@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.10.060105.2025
+! Version: 01.10.063632.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 06:01:05 UTC 2025
+! Last modified: Fri Jan 10 06:36:32 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2203
+! Number of entries: 2212
 ||05012025.info^
 ||1024tera.com^
 ||123notices.com^
@@ -85,6 +85,7 @@
 ||airobotplatform888.com^
 ||airobotsmart.net^
 ||aisfcth.ink^
+||aitgiant.com^
 ||aitimart.com^
 ||aitransactionplatform.com^
 ||aixomi.com^
@@ -699,7 +700,9 @@
 ||estherwinter.eu^
 ||estiloargento.com.ar^
 ||esysgb.com^
+||etdase.com^
 ||eterminal.net^
+||ethjpn.com^
 ||eu.venum.shop^
 ||eumarijuanashop.com^
 ||eurocheapoonline.advanced.com^
@@ -1093,6 +1096,7 @@
 ||landmark.online.workers.dev^
 ||lap136.78e2.xyz^
 ||larkinashlandstylist.com^
+||lasopaclan897.weebly.com^
 ||lavishsupply.net^
 ||law.blade.solutions.com^
 ||lawnagain.com^
@@ -1383,6 +1387,7 @@
 ||ojrq.net^
 ||okjg13.icu^
 ||okk.16s.pages.dev^
+||okwintss.com^
 ||oldendroff.com^
 ||oluwasegunakinyemi.com^
 ||olux.to^
@@ -1580,6 +1585,7 @@
 ||rajatsinghchauhan.com^
 ||ralkem.com^
 ||ranoz.gg^
+||ranthambhoresafaritour.in^
 ||rapidtransitmodels.com^
 ||raweggs.cc^
 ||rbs55.top^
@@ -1728,6 +1734,7 @@
 ||simpsonai.club^
 ||simranparajapati.com^
 ||singingfiles.com^
+||singlaarchitects.info^
 ||sinneery.com^
 ||sinxed.com^
 ||sk5698.com^
@@ -1782,6 +1789,7 @@
 ||sport.prints.online^
 ||sprunkiphase.online^
 ||srchfst.com^
+||srimuthappanholidayscoorg.com^
 ||sstdocumentos.com^
 ||stablest.shop^
 ||staregyptgame.online^
@@ -1837,6 +1845,7 @@
 ||talklikesm.best^
 ||taqwapublications.com^
 ||tarionus.shop^
+||tbkis.com^
 ||tc126.xyz^
 ||technozone.com.au^
 ||tecnorn.online^
