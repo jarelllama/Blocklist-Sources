@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.10.124224.2025
+! Version: 01.10.130453.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 12:42:24 UTC 2025
+! Last modified: Fri Jan 10 13:04:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2291
+! Number of entries: 2301
 ||05012025.info^
 ||1024tera.com^
 ||123notices.com^
@@ -44,6 +44,7 @@
 ||abdullahonline.store^
 ||aberfields.com^
 ||aboutamir.com^
+||abppbsdlex.de^
 ||abra.pico.top^
 ||acceleratew.com^
 ||account.cardplus.cc^
@@ -98,6 +99,7 @@
 ||aliquotes.online^
 ||all.chems.com^
 ||all.pcb.online^
+||allegrolokalniepl.9683081239018571985139763.online^
 ||alleycatsol.xyz^
 ||allianceroyals.com^
 ||allicross.online^
@@ -272,6 +274,7 @@
 ||bisalex.com^
 ||bit.binary.org^
 ||bit.btc.com^
+||bit.now.com^
 ||bit.stocks.com^
 ||bitantea.cc^
 ||bitblockasset.com^
@@ -604,6 +607,7 @@
 ||digitalkeysoftware.com^
 ||digitalolive.shop^
 ||digitalsmartone.online^
+||digitalwebchain.xyz^
 ||digiterminator.online^
 ||digitsagency.online^
 ||diptyque.shop^
@@ -943,6 +947,7 @@
 ||hlamw.top^
 ||hlgonaricks.com^
 ||hm.ru^
+||hobokenheadshots.com^
 ||hollden.shop^
 ||hollyholl.com^
 ||holonova.store^
@@ -1257,6 +1262,7 @@
 ||maxices.com^
 ||maximinxassetltd.com^
 ||maxmaraluxury.shop^
+||mayavatifashion.in^
 ||mayer.boutique.de^
 ||mayzik.com^
 ||meantallie.com^
@@ -1609,6 +1615,7 @@
 ||psychrine.com^
 ||pth223.com^
 ||pth668.com^
+||pub.c5acfd5a4f1943a7bfc858676472adce.r2.dev^
 ||pulaski.towing.top^
 ||pulsed.fr^
 ||pulsepicks.pro^
@@ -1624,6 +1631,7 @@
 ||qcstar.com^
 ||qdiminers.com^
 ||qfsbackupassets.ltd^
+||qfslite.sbs^
 ||qfsnesara.io^
 ||qqbit.net^
 ||qrefuishz.monster^
@@ -1987,11 +1995,13 @@
 ||topsmanings.top^
 ||topthingsinlife.com^
 ||topvibes.top^
+||torresip.com^
 ||tosdex.com^
 ||totalwellstore.com^
 ||towork.998.vip^
 ||toyzboutique.com^
 ||tozc.online^
+||tpotraders.com^
 ||tqwin.online^
 ||track.ptctt.com^
 ||track718.com^
