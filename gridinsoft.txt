@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.10.173208.2025
+! Version: 01.10.180102.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 17:32:08 UTC 2025
+! Last modified: Fri Jan 10 18:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2342
+! Number of entries: 2344
 ||0.miniya.us.kg^
 ||05012025.info^
 ||1024tera.com^
@@ -772,6 +772,7 @@
 ||fastswap.one^
 ||fazmex.com^
 ||fedilitylogistics.com^
+||fenben.pro^
 ||fenovur.com^
 ||fenryon.com^
 ||fermebuche.com^
@@ -1515,6 +1516,7 @@
 ||orionbitmarket.online^
 ||orourkeapp.com^
 ||orzenge.com^
+||osirisshoesfactory.com^
 ||ostehard.com^
 ||otherstoriessale.shop^
 ||ourruless.store^
