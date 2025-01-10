@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.10.073050.2025
+! Version: 01.10.080113.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 07:30:50 UTC 2025
+! Last modified: Fri Jan 10 08:01:13 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2222
+! Number of entries: 2230
 ||05012025.info^
 ||1024tera.com^
 ||123notices.com^
@@ -555,6 +555,7 @@
 ||dappschainapp.com^
 ||dashboard.teneo.pro^
 ||datadexterity.online^
+||datmyx.online^
 ||dawnfelt.com^
 ||dbbjrhhn.guru^
 ||dbmsurvey.com^
@@ -838,6 +839,7 @@
 ||geninsur.com^
 ||geographz.com^
 ||getdrant.shop^
+||getimage.online^
 ||getsoothesmooth.com^
 ||gfgsdgkgk.com^
 ||gfslsecurities.cc^
@@ -1016,6 +1018,7 @@
 ||jamai.top^
 ||jaysranchhamden.online^
 ||jbei99.vip^
+||jetmarssofertas.online^
 ||jewelrygiftcenter.com^
 ||jewelrysgiftstore.com^
 ||jikinideals.shop^
@@ -1110,6 +1113,7 @@
 ||leakrepair30091.online^
 ||ledger.connect.app^
 ||ledsmdlight.com^
+||legendplay.online.com^
 ||legendwox.online^
 ||leniaudelectromenager.com^
 ||leonemicrofinance.com^
@@ -1144,6 +1148,7 @@
 ||ln.run^
 ||loanfundsonline.com^
 ||localsgowild.com^
+||localsinglesnearmefree0.online^
 ||lockheed3.com^
 ||login.microsoft.com^
 ||lolex.net^
@@ -1369,6 +1374,7 @@
 ||nordyen.nl^
 ||nordyen.no.com^
 ||norionbusiness.top^
+||nosso.online^
 ||nouert.com^
 ||noveraxcapital.com^
 ||nowmining.fun^
@@ -2104,6 +2110,7 @@
 ||wavytalkza.store^
 ||waxx.network^
 ||wayestyle.store^
+||wayfairclearance.online^
 ||wbocash.online^
 ||wealthassetcapital.org^
 ||wealthassets.app^
@@ -2154,6 +2161,7 @@
 ||woonr.top^
 ||workshop.forex.com^
 ||world.delivery.service.com^
+||worldofhurtonline.com^
 ||wowonlinestores.co.in^
 ||woxdem.com^
 ||wtcentral.com^
