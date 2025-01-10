@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.10.220059.2025
+! Version: 01.10.223337.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 22:00:59 UTC 2025
+! Last modified: Fri Jan 10 22:33:37 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2374
+! Number of entries: 2378
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -506,6 +506,7 @@
 ||coinswift.exchange^
 ||cointir.cc^
 ||coinvale.io^
+||coinwbga.com^
 ||colosseumdiroma.tickets.com^
 ||com.513i.cfd^
 ||com.businesstrackyrbd.top^
@@ -574,6 +575,7 @@
 ||cvlholding.co.uk^
 ||cvstrx.vip^
 ||cvuire.vip^
+||cxglobal.co^
 ||cyber.fuck.com^
 ||cyberguardforchrome.com^
 ||cyberhavenext.pro^
@@ -1325,6 +1327,7 @@
 ||metodolog.online^
 ||metropolidata.com^
 ||mexcgpt.com^
+||mexcter.cc^
 ||mgiga2.com^
 ||michaelkorseu.shop^
 ||mickeliuiu.shop^
@@ -1582,6 +1585,7 @@
 ||partecularly.com^
 ||pascoprime.com^
 ||pasion.padel.com^
+||pataugasenligne.com^
 ||patek.ydx.com^
 ||patioupre.com^
 ||paulheilman.shop^

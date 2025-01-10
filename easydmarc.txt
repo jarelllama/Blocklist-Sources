@@ -3,12 +3,13 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.10.220100.2025
+! Version: 01.10.223338.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 22:01:00 UTC 2025
+! Last modified: Fri Jan 10 22:33:38 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 59
+! Number of entries: 64
 ||1drv.ms^
+||app.jotform.com^
 ||app.mailinblack.com^
 ||axbk.io^
 ||bit.ly^
@@ -16,6 +17,7 @@
 ||chat.whatsapp.com^
 ||click.pstmrk.it^
 ||dhl.de-ufch.top^
+||dhl.de-ydlh.top^
 ||dhl.plushy.cfd^
 ||discord.gg^
 ||docs.google.com^
@@ -23,6 +25,7 @@
 ||drive.google.com^
 ||elsinta.el.itera.ac.id^
 ||emea01.safelinks.protection.outlook.com^
+||eulink.smartrecruiters.com^
 ||eupanel.org^
 ||flipkartz.dealxnew.shop^
 ||forms.gle^
@@ -53,9 +56,11 @@
 ||sukryqs.com^
 ||tinyurl.com^
 ||toph.pages.dev^
+||u10168449.ct.sendgrid.net^
 ||u8410123.ct.sendgrid.net^
 ||unlocktoearn.com^
 ||usps.com-tarjfxv.top^
+||vvww--roblox.com^
 ||www.amazon.in^
 ||www.expressfinanceonline.com^
 ||www.facebook.com^
