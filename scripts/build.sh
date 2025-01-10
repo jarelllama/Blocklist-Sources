@@ -61,7 +61,7 @@ append_header() {
     cat << EOF > "$1"
 [Adblock Plus]
 ! Title: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist
-! Description: Domains scraped every 30 mins to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
+! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
 ! Version: $(date -u +"%m.%d.%H%M%S.%Y")
