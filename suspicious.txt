@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.10.024549.2025
+! Version: 01.10.030653.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 02:45:49 UTC 2025
+! Last modified: Fri Jan 10 03:06:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2169
+! Number of entries: 2175
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -223,6 +223,7 @@
 ||belmondagency.com^
 ||beltlox.top^
 ||benjamindavispersonaltrainer.com^
+||bergmannmodehaus.com^
 ||bernardex.com^
 ||bervospace.com^
 ||beseenmarketing.online^
@@ -800,6 +801,7 @@
 ||fungretail.shop^
 ||funnel.peonlyshop.com^
 ||furniturej.shop^
+||fusion.gain.cfd^
 ||futuresprous.com^
 ||futurofinanzachile.com^
 ||fxddarab.online^
@@ -1571,12 +1573,14 @@
 ||rebasedex.cloud^
 ||rebelsatoshi.com^
 ||recetasexpres.com^
+||recruit.threadsstaffs.com^
 ||rect.reward.glacier.website^
 ||reddit.streams.online^
 ||redeemai.site^
 ||redgol.cl^
 ||reegwallet.store^
 ||reelshort.2025.com^
+||ref2tron.top^
 ||refefshopin.top^
 ||reg.yourgamebuilder.com^
 ||register.bckrcoin.com^
@@ -1700,6 +1704,7 @@
 ||silviicia.com^
 ||simmsfishingonsale.shop^
 ||simon.frei.pc.online^
+||simontok.fans^
 ||simpsonai.club^
 ||simranparajapati.com^
 ||singingfiles.com^
@@ -1919,6 +1924,7 @@
 ||tronholdingsllc.com^
 ||tronlok.tv^
 ||tronminingfarm.com^
+||tronok.cloud^
 ||trophycase.cc^
 ||tructi.com^
 ||trustcoin.vip^
