@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.10.223337.2025
+! Version: 01.10.230056.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 22:33:37 UTC 2025
+! Last modified: Fri Jan 10 23:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2378
+! Number of entries: 2381
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -895,6 +895,7 @@
 ||ghsgdkag.com^
 ||ghsyps.ca^
 ||giftbasketonlines.com^
+||giftvalidator.com^
 ||gihsfilm.weebly.com^
 ||girlfriendwisely.com^
 ||glasslockmart.shop^
@@ -1882,6 +1883,7 @@
 ||skymine.online^
 ||skyplusevtr.com^
 ||skywing.ltd.com^
+||slashfilm.perfect.com^
 ||slecks.shop^
 ||sleekfitz.com^
 ||slmsbz.com^
@@ -1921,6 +1923,7 @@
 ||spartanbusinesssystems.com^
 ||spctravelads.com^
 ||special.sale.sbs^
+||spincex.com^
 ||spinslot88won.online^
 ||spoorme.com^
 ||sport.prints.online^
