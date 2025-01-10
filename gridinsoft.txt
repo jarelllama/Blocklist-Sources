@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.10.210059.2025
+! Version: 01.10.213055.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 21:00:59 UTC 2025
+! Last modified: Fri Jan 10 21:30:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2365
+! Number of entries: 2369
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -310,6 +310,7 @@
 ||bitzealy.com^
 ||bitzoy.com^
 ||bjfdyh.com^
+||bkcryptotrade.com^
 ||blackfridaywholesale.ru^
 ||blackjack888.ph^
 ||blackshelter.org^
@@ -718,6 +719,7 @@
 ||eniqai.com^
 ||enjoy99.org^
 ||ens36.sfe.infd.edu.ar^
+||entegcis.com^
 ||entiq.co^
 ||entreur.com^
 ||entrustify.co.in^
@@ -898,6 +900,7 @@
 ||globalflashco.com^
 ||globalnotelab.com^
 ||globalsmartrade.com^
+||globalswift.access.com^
 ||globeathome.online^
 ||globexedge.com^
 ||glod.usdeth.top^
@@ -906,6 +909,7 @@
 ||go.alphalamenace.com^
 ||goapoachowoovol.net^
 ||goblinx.org^
+||goinvest.credit.com^
 ||golat.online^
 ||goldengooseselect.com^
 ||golderagifts.com^
