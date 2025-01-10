@@ -3,11 +3,11 @@
 ! Description: Suspicious domains scraped hourly from https://gridinsoft.com/website-reputation-checker and meant for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Gridinsoft-Blocklist
 ! License: https://github.com/jarelllama/Gridinsoft-Blocklist/blob/main/LICENSE
-! Version: 01.10.040059.2025
+! Version: 01.10.043424.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 04:00:59 UTC 2025
+! Last modified: Fri Jan 10 04:34:24 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2182
+! Number of entries: 2186
 ||1024tera.com^
 ||123notices.com^
 ||1woqab.top^
@@ -115,6 +115,7 @@
 ||amgesic.com^
 ||amniktechnologies.com^
 ||amontreupfr.shop^
+||amouzo.com^
 ||amzkdt.online^
 ||angelicstoragebv.com^
 ||angiechew.online^
@@ -1352,6 +1353,7 @@
 ||nubil.nl^
 ||nudevista.com^
 ||nudify.online^
+||nupdhyzetb.com^
 ||nuroswealth.org^
 ||nutraway.top^
 ||nvidiaair.com^
@@ -1508,6 +1510,7 @@
 ||powerelixir.online^
 ||powermaxph.com^
 ||powertools.market.com^
+||pprrc.com^
 ||practicalss.com^
 ||premiumbankleyfx.com^
 ||pretiboiy.com^
@@ -1990,6 +1993,7 @@
 ||usdtworlds.com^
 ||useproakira.com^
 ||user.abmining.pro^
+||user.ecosbitcoinmining.com^
 ||user.ecosminer.io^
 ||usp773.com^
 ||usps.tracking.helepoanx.cc^
