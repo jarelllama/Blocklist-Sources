@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.230100.2025
+! Version: 01.11.233057.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 23:01:00 UTC 2025
+! Last modified: Sat Jan 11 23:30:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2535
+! Number of entries: 2539
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -159,6 +159,7 @@
 ||apnef.shop^
 ||apods1spain.com^
 ||apounes.com^
+||app.city2000.cc^
 ||app.lockswallet.net^
 ||app.olet8.com^
 ||appanalytics.online^
@@ -193,6 +194,7 @@
 ||assetxchangee.com^
 ||assiseaulosdansy.online^
 ||assortedtechnology.com^
+||ast2025.shop^
 ||atamedya.shop^
 ||ataraxonline.net^
 ||atb14.com^
@@ -1414,6 +1416,7 @@
 ||metropolidata.com^
 ||mexcgpt.com^
 ||mexcter.cc^
+||mexicoour.com^
 ||mgiga2.com^
 ||michaelkorseu.shop^
 ||mickeliuiu.shop^
@@ -1427,6 +1430,7 @@
 ||milisoil.com^
 ||milwakusharetexa.com^
 ||mimosabarkhaven.com^
+||minavip.top^
 ||mine.bnb.com^
 ||mini.well.store^
 ||minibitcoin.xyz^
