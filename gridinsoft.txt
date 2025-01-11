@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.103304.2025
+! Version: 01.11.110051.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 10:33:04 UTC 2025
+! Last modified: Sat Jan 11 11:00:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2465
+! Number of entries: 2471
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -125,6 +125,7 @@
 ||amazingfindsonline.com^
 ||amaznmarket.shop^
 ||amazonsellersappeal.com^
+||americanfunds.com^
 ||amgesic.com^
 ||ammobigsale.shop^
 ||amniktechnologies.com^
@@ -617,6 +618,7 @@
 ||dash.optimus.vip^
 ||dashboard.teneo.pro^
 ||datadexterity.online^
+||datempire.com^
 ||datmyx.online^
 ||dawnfelt.com^
 ||dbbjrhhn.guru^
@@ -909,6 +911,7 @@
 ||fxminedeotra.com^
 ||fxnexapipstream.com^
 ||fxprom.cc^
+||fxtrinity.com^
 ||g.newpoint.com^
 ||galacvy.com^
 ||galaxiumtoken.com^
@@ -1529,6 +1532,7 @@
 ||norsewebdesign.co.uk^
 ||nosso.online^
 ||nouert.com^
+||novaspire.live^
 ||noveraxcapital.com^
 ||nowmining.fun^
 ||nt.h5.com^
@@ -1942,6 +1946,7 @@
 ||singlaarchitects.info^
 ||sinneery.com^
 ||sinxed.com^
+||sjtmv.com^
 ||sk5698.com^
 ||skandere.online^
 ||skhealthline.com^
@@ -1971,6 +1976,7 @@
 ||snowdaycalculator.online^
 ||soankelle.vip^
 ||soccerlive.app^
+||socioplanet.com^
 ||sofiahalbofanimeworld.blogspot.co.uk^
 ||sofiahalbofanimeworld.blogspot.nl^
 ||softgama.online^
