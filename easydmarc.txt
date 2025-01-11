@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.160104.2025
+! Version: 01.11.163413.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 16:01:04 UTC 2025
+! Last modified: Sat Jan 11 16:34:13 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 132
+! Number of entries: 135
 ||1drv.ms^
 ||accounts.google.com^
 ||app.jotform.com^
@@ -78,6 +78,7 @@
 ||nsfas.whoyou.co.za^
 ||paket.ewgcwa.cyou^
 ||payoutdone.com^
+||paystack.shop^
 ||photos.app.goo.gl^
 ||piedmont1-my.sharepoint.com^
 ||pkonuadian.com^
@@ -108,6 +109,7 @@
 ||stimulantonline.click^
 ||sukryqs.com^
 ||t18.iluv.southwest.com^
+||terabox.com^
 ||throne.com^
 ||tinyurl.com^
 ||toph.pages.dev^
@@ -118,6 +120,7 @@
 ||us02web.zoom.us^
 ||us06web.zoom.us^
 ||usps.com-tarjfxv.top^
+||vicky-858435.thompson633.sbs^
 ||vvww--roblox.com^
 ||wizehire.com^
 ||www.amazon.in^

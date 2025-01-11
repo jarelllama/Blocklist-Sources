@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.160103.2025
+! Version: 01.11.163412.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 16:01:03 UTC 2025
+! Last modified: Sat Jan 11 16:34:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2487
+! Number of entries: 2491
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -915,6 +915,7 @@
 ||fusion.gain.cfd^
 ||futuresprous.com^
 ||futurofinanzachile.com^
+||fwpy.swelucky.com^
 ||fxclr.com^
 ||fxddarab.online^
 ||fxminedeotra.com^
@@ -1070,6 +1071,7 @@
 ||hululusol.com^
 ||hunnybank.com^
 ||hvuaill.com^
+||hxsc.store^
 ||hxxokerase.fyi^
 ||hyph666.win^
 ||i.apple.com.tr^
@@ -2321,6 +2323,7 @@
 ||vigkes.shop^
 ||vincecomfort.com^
 ||vineyardsoutlet.com^
+||vintagewholesalesupplyltd.com^
 ||violate.igrq.online^
 ||vioratricot.com^
 ||vitalpetlife.com^
@@ -2354,6 +2357,7 @@
 ||warsawsneakers.pl^
 ||warunggolkuat.online^
 ||washerdryer.my^
+||watch.us.live^
 ||watchivo.shop^
 ||wave.trader.com^
 ||wavytalkza.store^
