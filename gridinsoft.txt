@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.203126.2025
+! Version: 01.11.210054.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 20:31:26 UTC 2025
+! Last modified: Sat Jan 11 21:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2518
+! Number of entries: 2526
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -1233,6 +1233,7 @@
 ||konigsbruder.com^
 ||korucc.com^
 ||kpmy556.cc^
+||kreashops.com^
 ||krecociler.monster^
 ||kreed5425210621621.online^
 ||krefractoryr.lol^
@@ -1645,6 +1646,7 @@
 ||owfori.net^
 ||ox.fun^
 ||oxblockmines.com^
+||oxylersess.co.in^
 ||p2btradehubx.info^
 ||padelofficiel.com^
 ||pagalopount.site^
@@ -1675,9 +1677,11 @@
 ||partecularly.com^
 ||pascoprime.com^
 ||pasion.padel.com^
+||pastelunm.com^
 ||pataugasenligne.com^
 ||patek.ydx.com^
 ||patioupre.com^
+||patsao.com^
 ||paulheilman.shop^
 ||pawns.app^
 ||paybaz.com^
@@ -1709,6 +1713,7 @@
 ||phamcore.com^
 ||phillipa.online^
 ||photographingge.com^
+||pietrodiuccio.com^
 ||pillowhubglobal.com^
 ||pinkonline.store^
 ||pinnacle.equitygroup.com^
@@ -2036,6 +2041,7 @@
 ||spinslot88won.online^
 ||spoorme.com^
 ||sport.prints.online^
+||spraisy.live^
 ||sprunkiphase.online^
 ||srchfst.com^
 ||srimuthappanholidayscoorg.com^
@@ -2084,6 +2090,7 @@
 ||survyhelp.com^
 ||svip.work46.com^
 ||sweet.paradise.online^
+||swiftcryptox.com^
 ||swiftfinverge.com^
 ||swipelake.shop^
 ||swiss.mo.inv.com^
@@ -2432,6 +2439,7 @@
 ||winuno55.com^
 ||winviag.com^
 ||winwin.bet^
+||wise.casino.bet^
 ||wisemean.top^
 ||witimselsolar.com^
 ||wittweidende.store^
