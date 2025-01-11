@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.140102.2025
+! Version: 01.11.143143.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 14:01:02 UTC 2025
+! Last modified: Sat Jan 11 14:31:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2476
+! Number of entries: 2477
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -2011,6 +2011,7 @@
 ||srimuthappanholidayscoorg.com^
 ||sstdocumentos.com^
 ||stablest.shop^
+||starcici.com^
 ||staregyptgame.online^
 ||starofliberty.online^
 ||starplancrypto.com^

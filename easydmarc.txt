@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.140104.2025
+! Version: 01.11.143144.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 14:01:04 UTC 2025
+! Last modified: Sat Jan 11 14:31:44 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 126
+! Number of entries: 128
 ||1drv.ms^
 ||accounts.google.com^
 ||app.jotform.com^
@@ -92,8 +92,10 @@
 ||secmail.bankofamerica.com^
 ||secure.chase.com^
 ||secureidorder.com^
+||sellercentral.amazon.com^
 ||sellgift.info^
 ||servicesaustraliacareers.nga.net.au^
+||shorturl.at^
 ||shorturl.win^
 ||sio-store.com^
 ||start.makesaveretire.com^
