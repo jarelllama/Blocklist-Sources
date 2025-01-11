@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.093057.2025
+! Version: 01.11.100058.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 09:30:57 UTC 2025
+! Last modified: Sat Jan 11 10:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2456
+! Number of entries: 2462
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -107,6 +107,7 @@
 ||alleycatsol.xyz^
 ||allianceroyals.com^
 ||allicross.online^
+||alltrainerspc.com^
 ||alo88.black^
 ||aloidvg.com^
 ||alpaboost.com^
@@ -572,6 +573,7 @@
 ||crsverify.online^
 ||cryptallstars.online^
 ||crypto.com^
+||crypto.hold.com^
 ||crypto.motorsports.com^
 ||cryptoassetfortressltd.com^
 ||cryptocurrency.events.com^
@@ -610,6 +612,7 @@
 ||dainese.sale.shop^
 ||daltonitsolutions.com^
 ||dappschainapp.com^
+||dash.optimus.vip^
 ||dashboard.teneo.pro^
 ||datadexterity.online^
 ||datmyx.online^
@@ -747,6 +750,7 @@
 ||enerpinpellets.shop^
 ||enhanceprotocol.co.in^
 ||eniqai.com^
+||enjify.com^
 ||enjoy99.org^
 ||ens36.sfe.infd.edu.ar^
 ||entegcis.com^
@@ -1906,6 +1910,7 @@
 ||shedrickcdigital.pro^
 ||shelee.vip^
 ||shesherose.net^
+||shib.icu^
 ||shibaarmy.world^
 ||shibahash.com^
 ||shinelyjews.shop^
@@ -2305,6 +2310,7 @@
 ||voguervault.co^
 ||vokryer.com^
 ||volcminer.store^
+||voleoex.com^
 ||volmar.sinformations.cfd^
 ||vopifg.com^
 ||vorgang.abschliessen.online^
