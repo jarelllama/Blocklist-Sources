@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.10.233049.2025
+! Version: 01.11.000153.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 10 23:30:49 UTC 2025
+! Last modified: Sat Jan 11 00:01:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2384
+! Number of entries: 2391
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -209,6 +209,7 @@
 ||babytoll.shop^
 ||baccarats.com.au^
 ||backtoblu.online^
+||baffinca.com^
 ||bagii.shop^
 ||bagsupermarket.com^
 ||bamajt.world^
@@ -390,6 +391,7 @@
 ||canvasgenius.homes^
 ||capaciousdrewreligion.com^
 ||capital.shares.com^
+||capitaltradestartlimited.com^
 ||car.zhouznq.cn^
 ||cardmasparamiempresa.wuaze.com^
 ||careeredge.online^
@@ -755,6 +757,7 @@
 ||evenflofeedingsuperstore.shop^
 ||eventscodm.com^
 ||evil.com^
+||evli.fr^
 ||exnori.com^
 ||expand.experts.com^
 ||expert.coinasset.com^
@@ -884,6 +887,7 @@
 ||gdqai.com^
 ||gel9.online^
 ||gemini.ai.net^
+||general.xchange.pro^
 ||genesisminingbot.com^
 ||geninsur.com^
 ||geographz.com^
@@ -1422,6 +1426,7 @@
 ||nefmw.top^
 ||nemalur.com^
 ||nemovix.com^
+||neomaven.pro^
 ||nestedfashion.com^
 ||netdcbf.com^
 ||netfucks1.com^
@@ -1992,6 +1997,7 @@
 ||tarionus.shop^
 ||tbkis.com^
 ||tc126.xyz^
+||techberry.online.com^
 ||technozone.com.au^
 ||tecnorn.online^
 ||tedexy.com^
@@ -2290,6 +2296,7 @@
 ||wiaa.in^
 ||wichhistor.co.uk^
 ||williamarnold.online^
+||wilsoncrypto.pro^
 ||windcapitalsinfo.us^
 ||windliy.com^
 ||winfy.top^
