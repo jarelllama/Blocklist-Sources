@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.190050.2025
+! Version: 01.11.193102.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 19:00:50 UTC 2025
+! Last modified: Sat Jan 11 19:31:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2509
+! Number of entries: 2515
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -101,6 +101,7 @@
 ||al.rafidahcapital.com^
 ||alectomedia.online^
 ||alfianacendani.online^
+||aliex.proxy.robot.shop^
 ||aliquotes.online^
 ||all.chems.com^
 ||all.pcb.online^
@@ -771,6 +772,7 @@
 ||enjify.com^
 ||enjoy99.org^
 ||ens36.sfe.infd.edu.ar^
+||entanglecoin.com^
 ||entegcis.com^
 ||entiq.co^
 ||entreur.com^
@@ -1433,6 +1435,7 @@
 ||mjir.shop^
 ||mkcgopdregistration.online^
 ||mkurtos.com^
+||mmdbill.com^
 ||mmrtb.com^
 ||mncr.club^
 ||mobilecasino88.com^
@@ -1697,6 +1700,7 @@
 ||perfectideas.store^
 ||permblox.com^
 ||personalloans30096.online^
+||pesaksh.org^
 ||pesdnfeje.shop^
 ||petermillarsale.shop^
 ||petronordstorage.nl^
@@ -2310,6 +2314,7 @@
 ||veepee.fr.shop^
 ||veezpass.com^
 ||vegobit.com^
+||velari.nl^
 ||velivyne.com^
 ||velogisc.com^
 ||venarose.online^
@@ -2508,6 +2513,7 @@
 ||zielbioinc.com^
 ||zimasilkt.com^
 ||zjulpujub.wlasnnz.cn^
+||zks7.com^
 ||zlibrary.to^
 ||zoodel.online^
 ||zorunex.com^
