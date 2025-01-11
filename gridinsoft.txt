@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.050052.2025
+! Version: 01.11.053225.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 05:00:52 UTC 2025
+! Last modified: Sat Jan 11 05:32:25 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2412
+! Number of entries: 2418
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -360,6 +360,7 @@
 ||britishairwaysroyaldeliverycompany.com^
 ||brushbeacon.homes^
 ||brutus.xyz^
+||bsdgyfv.shop^
 ||btc913.com^
 ||btc933.com^
 ||btceex.com^
@@ -582,6 +583,7 @@
 ||cvlholding.co.uk^
 ||cvstrx.vip^
 ||cvuire.vip^
+||cvvclub.in^
 ||cxglobal.co^
 ||cyber.fuck.com^
 ||cyberguardforchrome.com^
@@ -1059,6 +1061,7 @@
 ||informed.deliveryqbnsk.top^
 ||innovayours.store^
 ||insads.net^
+||insadspro.com^
 ||insightdreams.online^
 ||inspirighty.com^
 ||install.protected.net^
@@ -1699,6 +1702,7 @@
 ||pth223.com^
 ||pth668.com^
 ||pub.c5acfd5a4f1943a7bfc858676472adce.r2.dev^
+||puffinvapesehopgv.shop^
 ||pulaski.towing.top^
 ||pulsed.fr^
 ||pulsepicks.pro^
@@ -1712,6 +1716,7 @@
 ||qalrlr.shop^
 ||qcitpros.com^
 ||qcstar.com^
+||qcxmall.com^
 ||qdiminers.com^
 ||qfsbackupassets.ltd^
 ||qfslite.sbs^
@@ -2088,6 +2093,7 @@
 ||top.sportinggoods.shop^
 ||topdailyfanaticspips.com^
 ||toperomantic.com^
+||topfansway.com^
 ||topflex.web.com^
 ||topflixtv.online^
 ||topgreenview.com^

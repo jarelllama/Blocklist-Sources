@@ -3,16 +3,18 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.050053.2025
+! Version: 01.11.053226.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 05:00:53 UTC 2025
+! Last modified: Sat Jan 11 05:32:26 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 89
+! Number of entries: 94
 ||1drv.ms^
 ||accounts.google.com^
 ||app.jotform.com^
 ||app.mailinblack.com^
+||auspost.y8l51a.life^
 ||axbk.io^
+||b.iheart.southwest.com^
 ||bit.ly^
 ||bowersins-my.sharepoint.com^
 ||cash-real.xyz^
@@ -65,6 +67,7 @@
 ||scuremnge8490appsxvefiy.work.gd^
 ||secmail.bankofamerica.com^
 ||secure.chase.com^
+||secureidorder.com^
 ||sellgift.info^
 ||start.makesaveretire.com^
 ||steamcommunity.com^
@@ -72,6 +75,7 @@
 ||steampowered.nextplaytest.com^
 ||stimulantonline.click^
 ||sukryqs.com^
+||t18.iluv.southwest.com^
 ||throne.com^
 ||tinyurl.com^
 ||toph.pages.dev^
@@ -85,6 +89,7 @@
 ||www.amazon.in^
 ||www.expressfinanceonline.com^
 ||www.facebook.com^
+||www.google.com^
 ||www.gymjapan.shop^
 ||www.hlz78caz-pyycz.org^
 ||www.jerrtrt.com^
