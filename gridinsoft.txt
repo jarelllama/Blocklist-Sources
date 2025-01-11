@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.124158.2025
+! Version: 01.11.130401.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 12:41:58 UTC 2025
+! Last modified: Sat Jan 11 13:04:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2473
+! Number of entries: 2474
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -747,6 +747,7 @@
 ||emkqh.shop^
 ||empireminers.com^
 ||empiric.online^
+||empowerforward.cy^
 ||emttrading.com^
 ||enclarhealth.com^
 ||encomendas.importacao.online^
