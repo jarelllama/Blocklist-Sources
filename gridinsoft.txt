@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.043348.2025
+! Version: 01.11.050052.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 04:33:48 UTC 2025
+! Last modified: Sat Jan 11 05:00:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2408
+! Number of entries: 2412
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -55,6 +55,7 @@
 ||acesports.world^
 ||acessoftog.com^
 ||achadosonline2790.com^
+||acheterdrogues.com^
 ||ackstar.top^
 ||acnetratamientofacial.com^
 ||acrossfold.com^
@@ -196,6 +197,7 @@
 ||auth.mashash.co^
 ||authenticreplicanotes.com^
 ||auto.downloads.com^
+||automegaoption.com^
 ||autotracksolution.com^
 ||autry.eu.shop^
 ||autryzzt.online^
@@ -638,6 +640,7 @@
 ||diptyque.shop^
 ||diptysales.com^
 ||directoryofus.online^
+||directseville.shop^
 ||direktori.online^
 ||discount.area.com^
 ||discountamzn.com^
@@ -1005,6 +1008,7 @@
 ||hongruialliance.com^
 ||hookah4dayli.online^
 ||horizoncapitals.org^
+||horyx.shop^
 ||hotbtujeka.cc^
 ||hotbvamove.today^
 ||hotbveleki.cc^
