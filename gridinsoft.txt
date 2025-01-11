@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.063505.2025
+! Version: 01.11.070105.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 06:35:05 UTC 2025
+! Last modified: Sat Jan 11 07:01:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2425
+! Number of entries: 2428
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -161,6 +161,7 @@
 ||arbicryptos.com^
 ||arcmine.com^
 ||aregalex.monster^
+||argonixhacktech.com^
 ||argosnop.com^
 ||arirak.online^
 ||aris.mall.com^
@@ -384,6 +385,7 @@
 ||buy.dogizen.io^
 ||buyado.de^
 ||buyantibiotics24h.net^
+||buyclonedcards.co.uk^
 ||buythepencil.com^
 ||buzdikstore.com^
 ||bveusdt.com^
@@ -1214,6 +1216,7 @@
 ||leniaudelectromenager.com^
 ||leonemicrofinance.com^
 ||leparis.club^
+||lepetitportailbasque.com^
 ||letsgotothemoon.travel.com^
 ||leupold.us.shop^
 ||lexingtonhazelwoodstylist.com^
