@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.153049.2025
+! Version: 01.11.160103.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 15:30:49 UTC 2025
+! Last modified: Sat Jan 11 16:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2485
+! Number of entries: 2487
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -705,6 +705,7 @@
 ||dstockaffaires.com^
 ||du.fastopay.my.uae.com^
 ||dundundumpling.online^
+||dunekhing.com^
 ||duod03.com^
 ||dutchstorebv.nl^
 ||dvdsociety.shop^
@@ -2034,6 +2035,7 @@
 ||stellwisestore.com^
 ||stemncommunity.com^
 ||steparian.com^
+||steroidskaufen.com^
 ||stocklogs.info^
 ||stoigr.org^
 ||stonxdex.com^
