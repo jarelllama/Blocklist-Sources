@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.130402.2025
+! Version: 01.11.133113.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 13:04:02 UTC 2025
+! Last modified: Sat Jan 11 13:31:13 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 121
+! Number of entries: 126
 ||1drv.ms^
 ||accounts.google.com^
 ||app.jotform.com^
@@ -17,10 +17,12 @@
 ||b.iheart.southwest.com^
 ||bb7722.net^
 ||bit.ly^
+||blakebruno.com^
 ||bowersins-my.sharepoint.com^
 ||cash-real.xyz^
 ||chat.whatsapp.com^
 ||chng.it^
+||clck.ru^
 ||click.pstmrk.it^
 ||cnc.jpmorgan.com^
 ||d2slx104.na1.hubspotlinks.com^
@@ -39,6 +41,7 @@
 ||eupanel.org^
 ||ezdrivema.com-ezdrivemalsp.top^
 ||faceit.cup158.com^
+||fiverr.ordersverification.com^
 ||flipkartz.dealxnew.shop^
 ||forms.gle^
 ||free-gifts.website^
@@ -57,6 +60,7 @@
 ||l.facebook.com^
 ||lap325.773d.xyz^
 ||levelbucks.com^
+||link-center.net^
 ||link.advance-he.ac.uk^
 ||links.podia.com^
 ||login-micorsoftonline.github.io^
@@ -81,6 +85,7 @@
 ||profresh.vn^
 ||resellervoucher.com^
 ||restorecord.com^
+||roblox.com.py^
 ||robuxlimitedtime-here-ekslusif.blogspot.com^
 ||rv2.io^
 ||scuremnge8490appsxvefiy.work.gd^
