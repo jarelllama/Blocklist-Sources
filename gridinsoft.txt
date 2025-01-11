@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.073050.2025
+! Version: 01.11.080058.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 07:30:50 UTC 2025
+! Last modified: Sat Jan 11 08:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2432
+! Number of entries: 2438
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -253,6 +253,7 @@
 ||best.expertonline.com^
 ||best4youu.info^
 ||bestbiccle.shop^
+||bestbuy.ink^
 ||bestgreensuperfood.com^
 ||besthealth24.online^
 ||bestmayoreo.com.mx^
@@ -412,6 +413,7 @@
 ||carrepairus0507.online^
 ||casetesy.com^
 ||casinofree2.online^
+||cassappcard.com^
 ||catenarydojo.com^
 ||catx.bar^
 ||catzilla.meme^
@@ -918,6 +920,7 @@
 ||ghsgdkag.com^
 ||ghsyps.ca^
 ||giftbasketonlines.com^
+||giftshining.com^
 ||giftvalidator.com^
 ||gihsfilm.weebly.com^
 ||girlfriendwisely.com^
@@ -1849,6 +1852,7 @@
 ||saoxdex.com^
 ||sarangpuradharamashala.online^
 ||sato.castle.com^
+||sauconysneakersdiscount.shop^
 ||saveconsulting.si^
 ||saveweb2zip.com^
 ||savvyessence.com^
@@ -2032,6 +2036,7 @@
 ||tarionus.shop^
 ||tbkis.com^
 ||tc126.xyz^
+||te.currency.xshares.site^
 ||techberry.online.com^
 ||technozone.com.au^
 ||tecnorn.online^
@@ -2253,6 +2258,7 @@
 ||vepnext.com^
 ||verpeliculasultra.com^
 ||verticalvinvehicle.com^
+||vetusgifts.com^
 ||vevorheater.com^
 ||vexunax.com^
 ||vexunox.com^
