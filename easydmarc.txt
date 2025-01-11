@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.090053.2025
+! Version: 01.11.093059.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 09:00:53 UTC 2025
+! Last modified: Sat Jan 11 09:30:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 108
+! Number of entries: 113
 ||1drv.ms^
 ||accounts.google.com^
 ||app.jotform.com^
@@ -53,6 +53,7 @@
 ||krs.microsoft.com^
 ||kupoan-2024-2025.drepv9.my.id^
 ||l.facebook.com^
+||lap325.773d.xyz^
 ||levelbucks.com^
 ||link.advance-he.ac.uk^
 ||links.podia.com^
@@ -67,6 +68,8 @@
 ||nam12.safelinks.protection.outlook.com^
 ||nobellstore.com^
 ||notifications.googleapis.com^
+||nsfas.whoyou.co.za^
+||paket.ewgcwa.cyou^
 ||payoutdone.com^
 ||piedmont1-my.sharepoint.com^
 ||processing.network^
@@ -81,6 +84,7 @@
 ||secureidorder.com^
 ||sellgift.info^
 ||servicesaustraliacareers.nga.net.au^
+||sio-store.com^
 ||start.makesaveretire.com^
 ||steamcommunity.com^
 ||steamcomnnunity.com^
@@ -96,6 +100,7 @@
 ||u8410123.ct.sendgrid.net^
 ||unlocktoearn.com^
 ||us02web.zoom.us^
+||us06web.zoom.us^
 ||usps.com-tarjfxv.top^
 ||vvww--roblox.com^
 ||wizehire.com^

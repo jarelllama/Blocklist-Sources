@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.090052.2025
+! Version: 01.11.093057.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 09:00:52 UTC 2025
+! Last modified: Sat Jan 11 09:30:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2448
+! Number of entries: 2456
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -225,6 +225,7 @@
 ||baominpower.com^
 ||bar47menu.online^
 ||basedturbo.io^
+||basennt.com^
 ||basithjewellerspvtltd.com^
 ||bathroomremodelingus1207.online^
 ||bbc.tv.org^
@@ -574,12 +575,14 @@
 ||crypto.motorsports.com^
 ||cryptoassetfortressltd.com^
 ||cryptocurrency.events.com^
+||cryptocurrency.recovery.com^
 ||cryptoids.info^
 ||cryptolios.net^
 ||cryptoneerpro.com^
 ||cryptoxwave.com^
 ||crystalglobalwealth.com^
 ||csfpromocao2024.online^
+||csoejgd.com^
 ||ctvvpue071bc73b7gmug.protocolchainflow.com^
 ||cuan66.co^
 ||cuisineskit.com^
@@ -754,6 +757,7 @@
 ||eonsalestore.com^
 ||epeweko.info^
 ||epoiu.com^
+||equistak.com^
 ||ermsty.com^
 ||erybdu.com^
 ||es.bankinter.usuario.com^
@@ -845,6 +849,7 @@
 ||flexjobhubs.com^
 ||flexswiftways.online^
 ||flirtingplaza.com^
+||floattrust.com^
 ||flomac.shop^
 ||flrdroplines.com^
 ||fluctz.xyz^
@@ -1040,6 +1045,7 @@
 ||htoi.online^
 ||htxsbot.com^
 ||hudsonclassic.com^
+||huggwaii.com^
 ||hugopdgr.com^
 ||hugoprimetradefx.com^
 ||hulonqgroup.com^
@@ -1359,6 +1365,7 @@
 ||meistrgold.com^
 ||memubit.com^
 ||menorul.com^
+||messiah777.com^
 ||meta.cafe.net^
 ||metafight.airdrop.com^
 ||metascorex.com^
@@ -1436,6 +1443,7 @@
 ||mvrglobal.online^
 ||my.bebes.com^
 ||my.commbank.com.au^
+||my.deco.shop.com^
 ||my.fxmt.tech^
 ||myetherwzallet.com^
 ||myg01d.com^
