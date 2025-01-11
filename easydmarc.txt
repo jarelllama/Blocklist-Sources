@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.020206.2025
+! Version: 01.11.024427.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 02:02:06 UTC 2025
+! Last modified: Sat Jan 11 02:44:27 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 77
+! Number of entries: 82
 ||1drv.ms^
 ||accounts.google.com^
 ||app.jotform.com^
@@ -28,6 +28,8 @@
 ||emea01.safelinks.protection.outlook.com^
 ||eulink.smartrecruiters.com^
 ||eupanel.org^
+||ezdrivema.com-ezdrivemalsp.top^
+||faceit.cup158.com^
 ||flipkartz.dealxnew.shop^
 ||forms.gle^
 ||free-gifts.website^
@@ -35,6 +37,7 @@
 ||iflychat-files-v2.s3.amazonaws.com^
 ||is.gd^
 ||iwyvwnn.uafcwh28.my.id^
+||keno0.com^
 ||krs.microsoft.com^
 ||l.facebook.com^
 ||link.advance-he.ac.uk^
@@ -69,6 +72,7 @@
 ||u4183812.ct.sendgrid.net^
 ||u8410123.ct.sendgrid.net^
 ||unlocktoearn.com^
+||us02web.zoom.us^
 ||usps.com-tarjfxv.top^
 ||vvww--roblox.com^
 ||www.amazon.in^
@@ -76,6 +80,7 @@
 ||www.facebook.com^
 ||www.gymjapan.shop^
 ||www.hlz78caz-pyycz.org^
+||www.jerrtrt.com^
 ||www.lion777.club^
 ||www.nagem.com.br^
 ||www.oneric.xyz^

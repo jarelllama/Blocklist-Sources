@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.020205.2025
+! Version: 01.11.024426.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 02:02:05 UTC 2025
+! Last modified: Sat Jan 11 02:44:26 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2401
+! Number of entries: 2403
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -840,6 +840,7 @@
 ||forex.autotrades.com^
 ||forge.wallet.com^
 ||forsage.io^
+||fortuneinterest.com^
 ||fotytv.com^
 ||foundationrepair0407.online^
 ||foundationrepair3009.online^
@@ -2062,6 +2063,7 @@
 ||tldindia.online^
 ||tlklwruwbjekpxu.online^
 ||tmgmoo.com^
+||tobysph.shop^
 ||tockexa.shop^
 ||todayyouwin.com^
 ||tofro.com^
