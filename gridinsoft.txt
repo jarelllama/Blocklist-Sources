@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.213048.2025
+! Version: 01.11.220101.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 21:30:48 UTC 2025
+! Last modified: Sat Jan 11 22:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2528
+! Number of entries: 2529
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -1343,6 +1343,7 @@
 ||lwbbc.com^
 ||lylussplus.com^
 ||lyycs.store^
+||lzminer.com^
 ||m.bitunixex.com^
 ||m.parrotes.com^
 ||mabar88go.online^
