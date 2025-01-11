@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.024426.2025
+! Version: 01.11.030506.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 02:44:26 UTC 2025
+! Last modified: Sat Jan 11 03:05:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2403
+! Number of entries: 2406
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -466,6 +466,7 @@
 ||clientesparcel.dhl.es^
 ||climbcourse.cam^
 ||clime.mastercasc.top^
+||clipr.cc^
 ||clkiva.shop^
 ||clladss.com^
 ||cloc.mastercasc.top^
@@ -759,6 +760,7 @@
 ||eventscodm.com^
 ||evil.com^
 ||evli.fr^
+||evmprime.com^
 ||exnori.com^
 ||expand.experts.com^
 ||expert.coinasset.com^
@@ -1928,6 +1930,7 @@
 ||solarhude.com^
 ||solaxy.io^
 ||solpick.io^
+||solrand.com^
 ||somolarlp.com^
 ||songreviewere.com^
 ||songreviewerww.com^
