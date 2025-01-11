@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.040102.2025
+! Version: 01.11.043349.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 04:01:02 UTC 2025
+! Last modified: Sat Jan 11 04:33:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 84
+! Number of entries: 89
 ||1drv.ms^
 ||accounts.google.com^
 ||app.jotform.com^
@@ -15,6 +15,7 @@
 ||axbk.io^
 ||bit.ly^
 ||bowersins-my.sharepoint.com^
+||cash-real.xyz^
 ||chat.whatsapp.com^
 ||click.pstmrk.it^
 ||dhl.de-ufch.top^
@@ -26,6 +27,7 @@
 ||drive.google.com^
 ||elsinta.el.itera.ac.id^
 ||emea01.safelinks.protection.outlook.com^
+||eu.docusign.net^
 ||eulink.smartrecruiters.com^
 ||eupanel.org^
 ||ezdrivema.com-ezdrivemalsp.top^
@@ -35,11 +37,14 @@
 ||free-gifts.website^
 ||idilang.com^
 ||iflychat-files-v2.s3.amazonaws.com^
+||ilang.in^
 ||is.gd^
 ||iwyvwnn.uafcwh28.my.id^
 ||keno0.com^
 ||krs.microsoft.com^
+||kupoan-2024-2025.drepv9.my.id^
 ||l.facebook.com^
+||levelbucks.com^
 ||link.advance-he.ac.uk^
 ||links.podia.com^
 ||login-micorsoftonline.github.io^
