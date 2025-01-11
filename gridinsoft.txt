@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.223237.2025
+! Version: 01.11.230100.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 22:32:37 UTC 2025
+! Last modified: Sat Jan 11 23:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2533
+! Number of entries: 2535
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -1936,6 +1936,7 @@
 ||searchednow.com^
 ||searchnow.online^
 ||sec.loanbusiness.com^
+||secure.ccleaner.com^
 ||securecryptorecovery.com^
 ||secured.triumphfx.com^
 ||securedjointnetwork.co.in^
@@ -2105,6 +2106,7 @@
 ||sxyprn.net^
 ||sycuantime.com^
 ||synthealth.com^
+||syuffxx.ee^
 ||t2.awagama2.org^
 ||tads.baker.co.za^
 ||takchu.com^
