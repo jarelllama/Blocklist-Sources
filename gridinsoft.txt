@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.080058.2025
+! Version: 01.11.083331.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 08:00:58 UTC 2025
+! Last modified: Sat Jan 11 08:33:31 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2438
+! Number of entries: 2442
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -604,6 +604,7 @@
 ||dailytehillim.online^
 ||dailyuploads.net^
 ||dainese.sale.shop^
+||daltonitsolutions.com^
 ||dappschainapp.com^
 ||dashboard.teneo.pro^
 ||datadexterity.online^
@@ -712,6 +713,7 @@
 ||egyptiantech.org^
 ||eileenfisher.us.com^
 ||einhell.eusite.com^
+||ekbrick.com^
 ||elabd.online^
 ||eldercity.xyz^
 ||eleganthush.com^
@@ -1088,6 +1090,7 @@
 ||ipctd.online^
 ||iptvkaufen24.de^
 ||iptvnexus.com^
+||iptvproducts.com^
 ||iqmind.co^
 ||iralarkincoach.com^
 ||iranfinance.info^
@@ -2039,6 +2042,7 @@
 ||te.currency.xshares.site^
 ||techberry.online.com^
 ||technozone.com.au^
+||techsecurebase.com^
 ||tecnorn.online^
 ||tedexy.com^
 ||teiagrma.pub^
