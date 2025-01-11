@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.183445.2025
+! Version: 01.11.190050.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 18:34:45 UTC 2025
+! Last modified: Sat Jan 11 19:00:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2503
+! Number of entries: 2509
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -342,6 +342,7 @@
 ||bnbpick.io^
 ||bnextrade.com^
 ||bnhuf.com^
+||bntrading.pro^
 ||boardgamesoutletstore.com^
 ||boassey.shop^
 ||bobclaim.cfd^
@@ -589,6 +590,7 @@
 ||cryptocurrency.events.com^
 ||cryptocurrency.recovery.com^
 ||cryptoids.info^
+||cryptolesolution.org^
 ||cryptolios.net^
 ||cryptoneerpro.com^
 ||cryptoxwave.com^
@@ -855,6 +857,7 @@
 ||financehub.help^
 ||financeusdt.com^
 ||finder2loans.com^
+||finefestool.com^
 ||fineprint.online^
 ||finmaza.com^
 ||firmdrexworld.com^
@@ -970,6 +973,7 @@
 ||glod.usdeth.top^
 ||glowpast.com^
 ||gnde.shop^
+||gnulahd.org^
 ||go.alphalamenace.com^
 ||goapoachowoovol.net^
 ||goblinx.org^
@@ -1983,6 +1987,7 @@
 ||slashfilm.perfect.com^
 ||slecks.shop^
 ||sleekfitz.com^
+||slexionz.cc^
 ||slmsbz.com^
 ||slot7.onlinecasino.com^
 ||smartearningpool.online^
@@ -2322,6 +2327,7 @@
 ||vevorheater.com^
 ||vexunax.com^
 ||vexunox.com^
+||vf555.wiki^
 ||vflcsz.info^
 ||vflmo.online^
 ||vhufdiu.com^
