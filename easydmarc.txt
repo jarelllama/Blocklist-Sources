@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.060102.2025
+! Version: 01.11.063506.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 06:01:02 UTC 2025
+! Last modified: Sat Jan 11 06:35:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 94
+! Number of entries: 99
 ||1drv.ms^
 ||accounts.google.com^
 ||app.jotform.com^
@@ -15,11 +15,13 @@
 ||auspost.y8l51a.life^
 ||axbk.io^
 ||b.iheart.southwest.com^
+||bb7722.net^
 ||bit.ly^
 ||bowersins-my.sharepoint.com^
 ||cash-real.xyz^
 ||chat.whatsapp.com^
 ||click.pstmrk.it^
+||cnc.jpmorgan.com^
 ||dhl.de-ufch.top^
 ||dhl.de-ydlh.top^
 ||dhl.plushy.cfd^
@@ -40,6 +42,7 @@
 ||idilang.com^
 ||iflychat-files-v2.s3.amazonaws.com^
 ||ilang.in^
+||induseasycredit.indusind.com^
 ||is.gd^
 ||iwyvwnn.uafcwh28.my.id^
 ||keno0.com^
@@ -54,6 +57,7 @@
 ||m.tneu.in^
 ||maps.app.goo.gl^
 ||me-qr.com^
+||mvc.us11.list-manage.com^
 ||myaccount.e-zpassnyv.top^
 ||nam12.safelinks.protection.outlook.com^
 ||nobellstore.com^
@@ -63,6 +67,7 @@
 ||profresh.vn^
 ||resellervoucher.com^
 ||restorecord.com^
+||robuxlimitedtime-here-ekslusif.blogspot.com^
 ||rv2.io^
 ||scuremnge8490appsxvefiy.work.gd^
 ||secmail.bankofamerica.com^
