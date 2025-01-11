@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.070106.2025
+! Version: 01.11.073051.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 07:01:06 UTC 2025
+! Last modified: Sat Jan 11 07:30:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 99
+! Number of entries: 105
 ||1drv.ms^
 ||accounts.google.com^
 ||app.jotform.com^
@@ -39,9 +39,11 @@
 ||flipkartz.dealxnew.shop^
 ||forms.gle^
 ||free-gifts.website^
+||hsseworld.com^
 ||idilang.com^
 ||iflychat-files-v2.s3.amazonaws.com^
 ||ilang.in^
+||images.app.goo.gl^
 ||induseasycredit.indusind.com^
 ||is.gd^
 ||iwyvwnn.uafcwh28.my.id^
@@ -57,11 +59,13 @@
 ||m.tneu.in^
 ||maps.app.goo.gl^
 ||me-qr.com^
+||meet.google.com^
 ||mvc.us11.list-manage.com^
 ||myaccount.e-zpassnyv.top^
 ||nam12.safelinks.protection.outlook.com^
 ||nobellstore.com^
 ||notifications.googleapis.com^
+||payoutdone.com^
 ||piedmont1-my.sharepoint.com^
 ||processing.network^
 ||profresh.vn^
@@ -74,6 +78,7 @@
 ||secure.chase.com^
 ||secureidorder.com^
 ||sellgift.info^
+||servicesaustraliacareers.nga.net.au^
 ||start.makesaveretire.com^
 ||steamcommunity.com^
 ||steamcomnnunity.com^
@@ -106,4 +111,5 @@
 ||www.zoblox.com^
 ||xhamster43.desi^
 ||yhrkh.com^
+||youshouldgotothe.chillcrew.net^
 ||zskldf.sbpnm.click^

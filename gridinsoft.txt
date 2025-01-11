@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.070105.2025
+! Version: 01.11.073050.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 07:01:05 UTC 2025
+! Last modified: Sat Jan 11 07:30:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2428
+! Number of entries: 2432
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -45,6 +45,7 @@
 ||abaok.vip^
 ||abdullahonline.store^
 ||aberfields.com^
+||abestcloths.com^
 ||aboutamir.com^
 ||abppbsdlex.de^
 ||abra.pico.top^
@@ -1118,6 +1119,9 @@
 ||jiuyu.fit^
 ||jlkwelding.online^
 ||jmitdk9.szvne337c.org^
+||jnjus.cc^
+||jnjus.net^
+||jnjus.vip^
 ||joanonline.shop^
 ||jobmarketwatch.com^
 ||johncrestani.online.com^
