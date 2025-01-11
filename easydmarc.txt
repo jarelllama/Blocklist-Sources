@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.150057.2025
+! Version: 01.11.153050.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 15:00:57 UTC 2025
+! Last modified: Sat Jan 11 15:30:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 128
+! Number of entries: 132
 ||1drv.ms^
 ||accounts.google.com^
 ||app.jotform.com^
@@ -19,6 +19,7 @@
 ||bit.ly^
 ||blakebruno.com^
 ||bowersins-my.sharepoint.com^
+||buy.stripe.com^
 ||cash-real.xyz^
 ||chat.whatsapp.com^
 ||chng.it^
@@ -79,6 +80,7 @@
 ||payoutdone.com^
 ||photos.app.goo.gl^
 ||piedmont1-my.sharepoint.com^
+||pkonuadian.com^
 ||play.google.com^
 ||processing.network^
 ||prod-cdn.preprod.co-vin.in^
@@ -95,6 +97,7 @@
 ||sellercentral.amazon.com^
 ||sellgift.info^
 ||servicesaustraliacareers.nga.net.au^
+||shelterrockchurch.churchcenter.com^
 ||shorturl.at^
 ||shorturl.win^
 ||sio-store.com^
@@ -121,6 +124,7 @@
 ||www.expressfinanceonline.com^
 ||www.facebook.com^
 ||www.google.com^
+||www.googleadservices.com^
 ||www.gymjapan.shop^
 ||www.hlz78caz-pyycz.org^
 ||www.instagram.com^

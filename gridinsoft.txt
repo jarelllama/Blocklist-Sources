@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.150055.2025
+! Version: 01.11.153049.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 15:00:55 UTC 2025
+! Last modified: Sat Jan 11 15:30:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2480
+! Number of entries: 2485
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -155,6 +155,7 @@
 ||apkhot.xyz^
 ||apkturbo.com^
 ||apnef.shop^
+||apods1spain.com^
 ||apounes.com^
 ||app.lockswallet.net^
 ||appanalytics.online^
@@ -697,6 +698,7 @@
 ||dremio.life^
 ||dresscorez.com^
 ||dressglowz.com^
+||dripcenters.com^
 ||drivesafeinspects.com^
 ||drmartensnews.com^
 ||ds2play.com^
@@ -774,6 +776,7 @@
 ||ermsty.com^
 ||erybdu.com^
 ||es.bankinter.usuario.com^
+||es.ccm.net^
 ||escapitals.com^
 ||eschallengersmode.com^
 ||escrowpi.com^
@@ -1721,6 +1724,7 @@
 ||pprrc.com^
 ||practicalss.com^
 ||practicemakesperfect.online^
+||premium.iptvpro.com^
 ||premiumbankleyfx.com^
 ||pretiboiy.com^
 ||primeinvest.app^
@@ -1754,6 +1758,7 @@
 ||pulsepicks.pro^
 ||pumacolombia.net^
 ||puravive.net^
+||purbat.com^
 ||puregoodsfy.com^
 ||pvgpassd.com^
 ||pzlcbshop.com^
