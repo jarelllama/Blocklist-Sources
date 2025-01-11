@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.180100.2025
+! Version: 01.11.183445.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 18:01:00 UTC 2025
+! Last modified: Sat Jan 11 18:34:45 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2500
+! Number of entries: 2503
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -372,6 +372,7 @@
 ||britishairwaysroyaldeliverycompany.com^
 ||brushbeacon.homes^
 ||brutus.xyz^
+||bsbjnlzdq.org^
 ||bsdgyfv.shop^
 ||btc913.com^
 ||btc933.com^
@@ -706,6 +707,7 @@
 ||ds2play.com^
 ||dstockaffaires.com^
 ||du.fastopay.my.uae.com^
+||duluthtradingusasale.com^
 ||dundundumpling.online^
 ||dunekhing.com^
 ||duod03.com^
@@ -2055,6 +2057,7 @@
 ||strattrade.org^
 ||strikearchive.com^
 ||stroyblock.online^
+||stuncreditfb.com^
 ||stylesock.com^
 ||subscribelg.my^
 ||sugarsyncglycooptimizer.com^
