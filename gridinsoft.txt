@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.143143.2025
+! Version: 01.11.150055.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 14:31:43 UTC 2025
+! Last modified: Sat Jan 11 15:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2477
+! Number of entries: 2480
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -66,6 +66,7 @@
 ||adidas.rest^
 ||adjacentin.com^
 ||adminpg.online^
+||admolo.com^
 ||adsarp.com^
 ||adsphericalsuits.com^
 ||advetex.net^
@@ -1845,6 +1846,7 @@
 ||rojadirectvonline.com^
 ||rokinat.co.in^
 ||roll2x.com^
+||rollercoin.com^
 ||rominance.com^
 ||romsfun.com^
 ||roofing.services.fb.online^
@@ -2329,6 +2331,7 @@
 ||vopifg.com^
 ||vorgang.abschliessen.online^
 ||votelya.com^
+||votingplatform.ct.ws^
 ||vtwinschool.com^
 ||vudu.top^
 ||vx88.vx.com^
