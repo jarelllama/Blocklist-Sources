@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.193102.2025
+! Version: 01.11.200111.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 19:31:02 UTC 2025
+! Last modified: Sat Jan 11 20:01:11 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2515
+! Number of entries: 2517
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -689,6 +689,7 @@
 ||dogecoin.usdt.vip^
 ||dogepick.io^
 ||dogooddaldaadw.com^
+||doiquant.com^
 ||dominatei.shop^
 ||dopehungary.hu.com^
 ||dopesneakers.shop^
@@ -2288,6 +2289,7 @@
 ||usahawanlg.my^
 ||usahellyhansen.com^
 ||usarmunukr.online^
+||usde.ink^
 ||usdpick.io^
 ||usdtbb.com^
 ||usdtboost.com^
