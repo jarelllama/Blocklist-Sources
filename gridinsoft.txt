@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.004522.2025
+! Version: 01.11.012758.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 00:45:22 UTC 2025
+! Last modified: Sat Jan 11 01:27:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2396
+! Number of entries: 2401
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -912,6 +912,7 @@
 ||globalnotelab.com^
 ||globalsmartrade.com^
 ||globalswift.access.com^
+||globe.trade.ltd^
 ||globeathome.online^
 ||globexedge.com^
 ||glod.usdeth.top^
@@ -944,6 +945,7 @@
 ||gowenuy.info^
 ||gptaiminds.com^
 ||grassroot.impact.centre.org^
+||gratisvps.net^
 ||greatsealbadge.com^
 ||greenlanemarketing.bond^
 ||griefquotes.xyz^
@@ -1079,6 +1081,7 @@
 ||itsemelf.com^
 ||itsmyles.shop^
 ||itsssl.com^
+||itsusd.xyz^
 ||iujuc.shop^
 ||iunia.eap.com^
 ||iuredd.com^
@@ -1625,6 +1628,7 @@
 ||petermillarsale.shop^
 ||petronordstorage.nl^
 ||pg77.game^
+||phamcore.com^
 ||phillipa.online^
 ||photographingge.com^
 ||pillowhubglobal.com^
@@ -2098,6 +2102,7 @@
 ||trackqsu.top^
 ||tracy925digital.pro^
 ||tradeforger.online^
+||tradetip.analysis.live^
 ||tradiso.com^
 ||traffictrack.online^
 ||trahia.com^
