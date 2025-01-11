@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.170057.2025
+! Version: 01.11.173105.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 17:00:57 UTC 2025
+! Last modified: Sat Jan 11 17:31:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 135
+! Number of entries: 141
 ||1drv.ms^
 ||accounts.google.com^
 ||app.jotform.com^
@@ -46,8 +46,10 @@
 ||flipkartz.dealxnew.shop^
 ||forms.gle^
 ||free-gifts.website^
+||gds.google.com^
 ||go.air-pay.co.uk^
 ||hsseworld.com^
+||idfcfb.in^
 ||idilang.com^
 ||iflychat-files-v2.s3.amazonaws.com^
 ||ilang.in^
@@ -56,6 +58,7 @@
 ||is.gd^
 ||iwyvwnn.uafcwh28.my.id^
 ||keno0.com^
+||kib3e.app.link^
 ||krs.microsoft.com^
 ||kupoan-2024-2025.drepv9.my.id^
 ||l.facebook.com^
@@ -101,6 +104,7 @@
 ||shelterrockchurch.churchcenter.com^
 ||shorturl.at^
 ||shorturl.win^
+||simplysign.ai^
 ||sio-store.com^
 ||start.makesaveretire.com^
 ||steamcommunity.com^
@@ -123,6 +127,7 @@
 ||vicky-858435.thompson633.sbs^
 ||vvww--roblox.com^
 ||wizehire.com^
+||www.amazon.com^
 ||www.amazon.in^
 ||www.expressfinanceonline.com^
 ||www.facebook.com^
@@ -137,6 +142,7 @@
 ||www.oneric.xyz^
 ||www.sihub.in^
 ||www.surveymonkey.com^
+||www.swiggy.com^
 ||www.zoblox.com^
 ||xhamster43.desi^
 ||yhrkh.com^

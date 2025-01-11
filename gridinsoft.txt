@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.170055.2025
+! Version: 01.11.173103.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 17:00:55 UTC 2025
+! Last modified: Sat Jan 11 17:31:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2493
+! Number of entries: 2496
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -515,6 +515,7 @@
 ||coahinp.com^
 ||cobaltsunsetberry.xyz^
 ||cobatis.sm.com^
+||coco1to1.cc^
 ||cocooutlets.shop^
 ||cocotte.fr.com^
 ||code.getoffus.site^
@@ -1460,6 +1461,7 @@
 ||multiverse.retifications.netlify.app^
 ||mundoonline.link^
 ||music8.online^
+||muvtea.com^
 ||mvknnd.online^
 ||mvrglobal.online^
 ||my.bebes.com^
@@ -2138,6 +2140,7 @@
 ||tioctrically.com^
 ||tionoc.net^
 ||titan13.com^
+||tkshophr.com^
 ||tkshopp.vip^
 ||tkxxtk.com^
 ||tldindia.online^
