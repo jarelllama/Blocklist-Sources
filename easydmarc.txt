@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.120105.2025
+! Version: 01.11.124200.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 12:01:05 UTC 2025
+! Last modified: Sat Jan 11 12:42:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 116
+! Number of entries: 121
 ||1drv.ms^
 ||accounts.google.com^
 ||app.jotform.com^
@@ -33,6 +33,7 @@
 ||drive.google.com^
 ||elsinta.el.itera.ac.id^
 ||emea01.safelinks.protection.outlook.com^
+||erickson-crosby.carroal.my^
 ||eu.docusign.net^
 ||eulink.smartrecruiters.com^
 ||eupanel.org^
@@ -72,8 +73,11 @@
 ||nsfas.whoyou.co.za^
 ||paket.ewgcwa.cyou^
 ||payoutdone.com^
+||photos.app.goo.gl^
 ||piedmont1-my.sharepoint.com^
+||play.google.com^
 ||processing.network^
+||prod-cdn.preprod.co-vin.in^
 ||profresh.vn^
 ||resellervoucher.com^
 ||restorecord.com^
@@ -123,4 +127,5 @@
 ||xhamster43.desi^
 ||yhrkh.com^
 ||youshouldgotothe.chillcrew.net^
+||znwaos.info^
 ||zskldf.sbpnm.click^
