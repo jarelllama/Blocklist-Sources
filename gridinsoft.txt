@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.083331.2025
+! Version: 01.11.090052.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 08:33:31 UTC 2025
+! Last modified: Sat Jan 11 09:00:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2442
+! Number of entries: 2448
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -402,6 +402,7 @@
 ||canvasgenius.homes^
 ||capaciousdrewreligion.com^
 ||capital.shares.com^
+||capitalix.com^
 ||capitaltradestartlimited.com^
 ||capitalvisionaryfx.com^
 ||car.zhouznq.cn^
@@ -804,6 +805,7 @@
 ||farmaciasenovillasancho.com^
 ||farmapram.com^
 ||fasdja.com^
+||fashionfieber.com^
 ||fashionworldcc.shop^
 ||fashioze.com^
 ||fastbrush.online^
@@ -1101,6 +1103,7 @@
 ||itactivejobs.xyz^
 ||italybookofra.online^
 ||itau.com.py^
+||itopexst.com^
 ||itorrents.igruha.org^
 ||itradegloballimited.com^
 ||itsemelf.com^
@@ -2059,6 +2062,7 @@
 ||tgbtest.com^
 ||thebestofferforyoutoday.online^
 ||thecapitalholdings.io^
+||thecleevie.com^
 ||thecryptobullrun.life^
 ||thedollar.online^
 ||thefashiontrandhub.com^
@@ -2099,6 +2103,7 @@
 ||tldindia.online^
 ||tlklwruwbjekpxu.online^
 ||tmgmoo.com^
+||tmtnft.com^
 ||tobysph.shop^
 ||tockexa.shop^
 ||todayyouwin.com^
@@ -2192,6 +2197,7 @@
 ||uehdspecial.shop^
 ||ugksq.merganser.cn^
 ||uhbideal.store^
+||uhg.shop.nl^
 ||uhorix.online^
 ||ukhomebase.com^
 ||ulmire.com^
