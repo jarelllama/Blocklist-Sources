@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.220101.2025
+! Version: 01.11.223237.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 22:01:01 UTC 2025
+! Last modified: Sat Jan 11 22:32:37 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2529
+! Number of entries: 2533
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -46,6 +46,7 @@
 ||abdullahonline.store^
 ||aberfields.com^
 ||abestcloths.com^
+||abmintelligent.com^
 ||aboutamir.com^
 ||abppbsdlex.de^
 ||abra.pico.top^
@@ -159,6 +160,7 @@
 ||apods1spain.com^
 ||apounes.com^
 ||app.lockswallet.net^
+||app.olet8.com^
 ||appanalytics.online^
 ||aprontify.de^
 ||ar68bc2h0d78l4saqd0.heldit.shop^
@@ -710,6 +712,7 @@
 ||drmartensnews.com^
 ||ds2play.com^
 ||dstockaffaires.com^
+||dtfvg.net^
 ||du.fastopay.my.uae.com^
 ||duluthtradingusasale.com^
 ||dundundumpling.online^
@@ -2458,6 +2461,7 @@
 ||wowonlinestores.co.in^
 ||woxdem.com^
 ||wtcentral.com^
+||wusveso.vip^
 ||ww7.lemoniada.online^
 ||wwtchain.top^
 ||www.virtual.vip^
