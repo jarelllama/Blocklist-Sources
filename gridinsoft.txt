@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.100058.2025
+! Version: 01.11.103304.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 10:00:58 UTC 2025
+! Last modified: Sat Jan 11 10:33:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2462
+! Number of entries: 2465
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -390,6 +390,7 @@
 ||buyado.de^
 ||buyantibiotics24h.net^
 ||buyclonedcards.co.uk^
+||buymasksgivemasks.top^
 ||buythepencil.com^
 ||buzdikstore.com^
 ||bveusdt.com^
@@ -420,6 +421,7 @@
 ||catenarydojo.com^
 ||catx.bar^
 ||catzilla.meme^
+||causehoodies.com^
 ||caveysrestaurant.com^
 ||cbex.cx^
 ||cbex18.com^
@@ -1529,6 +1531,7 @@
 ||nouert.com^
 ||noveraxcapital.com^
 ||nowmining.fun^
+||nt.h5.com^
 ||nubil.nl^
 ||nudevista.com^
 ||nudify.online^
