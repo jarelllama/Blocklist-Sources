@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.000153.2025
+! Version: 01.11.004522.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 00:01:53 UTC 2025
+! Last modified: Sat Jan 11 00:45:22 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2391
+! Number of entries: 2396
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -292,6 +292,7 @@
 ||bitcoin.laundry2.net^
 ||bitcoin.pays.com^
 ||bitcoinfreemining.com^
+||bitcoinfum.cloud^
 ||bitcoinwell.com^
 ||bitconemine.com^
 ||bitdolphx.com^
@@ -1543,6 +1544,7 @@
 ||onlyterrific.com^
 ||onruning.top^
 ||onrunning.top^
+||openfundsag.org^
 ||optionstradeshub.com^
 ||optnutritips.com^
 ||orange.co.uk^
@@ -1552,6 +1554,7 @@
 ||orzenge.com^
 ||osirisshoesfactory.com^
 ||ostehard.com^
+||ota.partnership.com^
 ||otherstoriessale.shop^
 ||ourruless.store^
 ||out.parks.es.com^
@@ -2006,6 +2009,7 @@
 ||telezgram.org^
 ||tenadex.com^
 ||tenek.vip^
+||tentron.mining.net^
 ||terbangria.online^
 ||terestdeals.shop^
 ||tesolarhubs.buzz^
@@ -2189,6 +2193,7 @@
 ||uvkxe.co^
 ||uwtandarts.online^
 ||v2.youconvert.net^
+||vajero.com^
 ||valeriehouseofdigital.online^
 ||validatemypimainnetwallet.online^
 ||valueversion.com^

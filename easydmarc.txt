@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.000155.2025
+! Version: 01.11.004523.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 00:01:55 UTC 2025
+! Last modified: Sat Jan 11 00:45:23 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 68
+! Number of entries: 73
 ||1drv.ms^
 ||app.jotform.com^
 ||app.mailinblack.com^
@@ -33,6 +33,7 @@
 ||idilang.com^
 ||iflychat-files-v2.s3.amazonaws.com^
 ||is.gd^
+||iwyvwnn.uafcwh28.my.id^
 ||krs.microsoft.com^
 ||l.facebook.com^
 ||link.advance-he.ac.uk^
@@ -45,6 +46,7 @@
 ||nam12.safelinks.protection.outlook.com^
 ||nobellstore.com^
 ||notifications.googleapis.com^
+||piedmont1-my.sharepoint.com^
 ||processing.network^
 ||profresh.vn^
 ||resellervoucher.com^
@@ -52,13 +54,16 @@
 ||rv2.io^
 ||scuremnge8490appsxvefiy.work.gd^
 ||secmail.bankofamerica.com^
+||sellgift.info^
 ||steamcommunity.com^
 ||steamcomnnunity.com^
 ||steampowered.nextplaytest.com^
+||stimulantonline.click^
 ||sukryqs.com^
 ||tinyurl.com^
 ||toph.pages.dev^
 ||u10168449.ct.sendgrid.net^
+||u4183812.ct.sendgrid.net^
 ||u8410123.ct.sendgrid.net^
 ||unlocktoearn.com^
 ||usps.com-tarjfxv.top^
