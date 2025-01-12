@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.173051.2025
+! Version: 01.12.180106.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 17:30:51 UTC 2025
+! Last modified: Sun Jan 12 18:01:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2623
+! Number of entries: 2626
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -928,6 +928,7 @@
 ||forbiddenpant.com^
 ||fordeeal.shop^
 ||forex.autotrades.com^
+||forexmatrix.ltd^
 ||forge.wallet.com^
 ||forsage.io^
 ||fortuneinterest.com^
@@ -1341,9 +1342,11 @@
 ||likebargainsothers.world^
 ||limdex.capital.com^
 ||limeremce.com^
+||link.center.net^
 ||linkaa.cyou^
 ||linkgurd.online^
 ||linkmcltogel3.org^
+||linkvertise.com^
 ||lipozemus.com^
 ||lippizapatillaes.shop^
 ||liquidationpalletshub.top^
