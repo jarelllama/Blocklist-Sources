@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.120105.2025
+! Version: 01.12.124148.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 12:01:05 UTC 2025
+! Last modified: Sun Jan 12 12:41:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2606
+! Number of entries: 2609
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -361,6 +361,7 @@
 ||boardgamesoutletstore.com^
 ||boassey.shop^
 ||bobclaim.cfd^
+||bobcome.online^
 ||boclothes.com^
 ||bodegaaureramx.shop^
 ||bodegaaurrera.mex.com^
@@ -1352,6 +1353,7 @@
 ||lolex.net^
 ||lomi.flow.com^
 ||longchampespana.cc^
+||lookmovie2.to^
 ||looneydodo.com^
 ||lootbar.gg^
 ||lopa.store^
@@ -1944,6 +1946,7 @@
 ||rpnodes.tech^
 ||rturd.com^
 ||rugbywow.com^
+||ruktu.com^
 ||russesale.shop^
 ||rvxathe.com^
 ||s.dz.com^
