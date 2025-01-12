@@ -3,9 +3,9 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.053223.2025
+! Version: 01.12.060101.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 05:32:23 UTC 2025
+! Last modified: Sun Jan 12 06:01:01 UTC 2025
 ! Syntax: Adblock Plus
 ! Number of entries: 174
 ||1drv.ms^
@@ -28,6 +28,7 @@
 ||challenge.loopsupport.com^
 ||chat.whatsapp.com^
 ||chng.it^
+||cimbreswrdss.top^
 ||clck.ru^
 ||click.pstmrk.it^
 ||cnc.jpmorgan.com^
@@ -61,13 +62,14 @@
 ||free-gifts.website^
 ||gds.google.com^
 ||go.air-pay.co.uk^
+||goo.gl^
+||goviral.growthtools.com^
 ||hsseworld.com^
 ||idcom-pr.hdfcbank.com^
 ||idfcfb.in^
 ||idilang.com^
 ||iflychat-files-v2.s3.amazonaws.com^
 ||ilang.in^
-||images.app.goo.gl^
 ||induseasycredit.indusind.com^
 ||interac.alllaw.store^
 ||intranet.flemingc.on.ca^
@@ -89,7 +91,6 @@
 ||login-micorsoftonline.github.io^
 ||m-c7e21466.duosecurity.com^
 ||m.tneu.in^
-||maps.app.goo.gl^
 ||me-qr.com^
 ||meet.google.com^
 ||moolahspot.com^
@@ -103,7 +104,6 @@
 ||paket.ewgcwa.cyou^
 ||payoutdone.com^
 ||paystack.shop^
-||photos.app.goo.gl^
 ||piedmont1-my.sharepoint.com^
 ||pkonuadian.com^
 ||play.google.com^

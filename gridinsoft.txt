@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.053221.2025
+! Version: 01.12.060100.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 05:32:21 UTC 2025
+! Last modified: Sun Jan 12 06:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2577
+! Number of entries: 2581
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -61,6 +61,7 @@
 ||acheterdrogues.com^
 ||ackstar.top^
 ||acnetratamientofacial.com^
+||acquasculpt.com^
 ||acrossfold.com^
 ||adatenight.com^
 ||addressfinancial.com^
@@ -239,6 +240,7 @@
 ||basedturbo.io^
 ||basennt.com^
 ||basithjewellerspvtltd.com^
+||bassonlineca.com^
 ||bathroomremodelingus1207.online^
 ||bbc.tv.org^
 ||bcapstaking.com^
@@ -294,6 +296,7 @@
 ||bileerrero.shop^
 ||binariumy.com^
 ||bincoinlux.com^
+||bine.mails.top^
 ||bingo.ba^
 ||bio.drop.com^
 ||bio.protocol.xyz^
@@ -1290,6 +1293,7 @@
 ||leakrepair30091.online^
 ||ledger.connect.app^
 ||ledsmdlight.com^
+||leftisaldopt.shop^
 ||legend88juara.online^
 ||legendplay.online.com^
 ||legendwox.online^
