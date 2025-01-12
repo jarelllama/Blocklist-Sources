@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.183436.2025
+! Version: 01.12.190058.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 18:34:36 UTC 2025
+! Last modified: Sun Jan 12 19:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2629
+! Number of entries: 2630
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -2170,6 +2170,7 @@
 ||superamzdu.store^
 ||supplycenterusa.com^
 ||surfing777.online^
+||surveyanswer.xyz^
 ||survyhelp.com^
 ||svip.work46.com^
 ||sweet.paradise.online^
