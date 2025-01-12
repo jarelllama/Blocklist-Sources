@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.030934.2025
+! Version: 01.12.033726.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 03:09:34 UTC 2025
+! Last modified: Sun Jan 12 03:37:26 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 168
+! Number of entries: 172
 ||1drv.ms^
 ||a.p.scrx.io^
 ||accounts.google.com^
@@ -61,6 +61,7 @@
 ||gds.google.com^
 ||go.air-pay.co.uk^
 ||hsseworld.com^
+||idcom-pr.hdfcbank.com^
 ||idfcfb.in^
 ||idilang.com^
 ||iflychat-files-v2.s3.amazonaws.com^
@@ -68,6 +69,7 @@
 ||images.app.goo.gl^
 ||induseasycredit.indusind.com^
 ||interac.alllaw.store^
+||intranet.flemingc.on.ca^
 ||iplogger.com^
 ||is.gd^
 ||iwyvwnn.uafcwh28.my.id^
@@ -82,6 +84,7 @@
 ||link-center.net^
 ||link.advance-he.ac.uk^
 ||links.podia.com^
+||linktr.ee^
 ||login-micorsoftonline.github.io^
 ||m-c7e21466.duosecurity.com^
 ||m.tneu.in^
@@ -155,6 +158,7 @@
 ||www.expressfinanceonline.com^
 ||www.facebook.com^
 ||www.fhmparts.com^
+||www.free80sarcade.com^
 ||www.gofundme.com^
 ||www.google.com^
 ||www.googleadservices.com^

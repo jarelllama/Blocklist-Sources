@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.030933.2025
+! Version: 01.12.033725.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 03:09:33 UTC 2025
+! Last modified: Sun Jan 12 03:37:25 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2562
+! Number of entries: 2565
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -1413,6 +1413,7 @@
 ||meanwhiley.com^
 ||meb.budget.com^
 ||mecnex.com^
+||med4go.com^
 ||mediamartk.xyz^
 ||mednakit.com^
 ||meerai.io^
@@ -1522,6 +1523,7 @@
 ||narvafinance.com^
 ||naseebetiris.naseebet77.com^
 ||nationalcasinolp.com^
+||natureflux.shop^
 ||nc.ph.2974.zerads.com^
 ||ncbofficielfr.com^
 ||ndamazon.com^
@@ -2340,6 +2342,7 @@
 ||user.abmining.pro^
 ||user.ecosbitcoinmining.com^
 ||user.ecosminer.io^
+||usermanualsonline.com^
 ||usp773.com^
 ||usps.tracking.helepoanx.cc^
 ||uvkxe.co^
