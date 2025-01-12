@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.093053.2025
+! Version: 01.12.100103.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 09:30:53 UTC 2025
+! Last modified: Sun Jan 12 10:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2597
+! Number of entries: 2600
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -859,6 +859,7 @@
 ||farmaciafrancesa.com^
 ||farmaciasenovillasancho.com^
 ||farmapram.com^
+||farmed.es^
 ||fasdja.com^
 ||fashionfieber.com^
 ||fashionsfriday.com^
@@ -1030,6 +1031,7 @@
 ||google592.com^
 ||goosecreekcandle.com^
 ||gorouslook.com^
+||gotoloapp.com^
 ||gotospares.com^
 ||gowenuy.info^
 ||gptaiminds.com^
@@ -2334,6 +2336,7 @@
 ||ukhomebase.com^
 ||ulmire.com^
 ||ultimateexperttrade247.com^
+||ultimatefinance.co.in^
 ||umamiicrate.store^
 ||umarinfomobiles.online^
 ||umrahcabonline.com^
