@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.110058.2025
+! Version: 01.12.113048.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 11:00:58 UTC 2025
+! Last modified: Sun Jan 12 11:30:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2601
+! Number of entries: 2604
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -174,6 +174,7 @@
 ||arcmine.com^
 ||ardilu.com^
 ||aregalex.monster^
+||aremining.org^
 ||argonixhacktech.com^
 ||argosnop.com^
 ||arirak.online^
@@ -1735,6 +1736,7 @@
 ||patsao.com^
 ||paulheilman.shop^
 ||pawns.app^
+||pay.risepay.com.br^
 ||paybaz.com^
 ||paygateway.lol^
 ||pazvbha.com^
@@ -2100,6 +2102,7 @@
 ||spinslot88won.online^
 ||spoorme.com^
 ||sport.prints.online^
+||spotifypremiumapk.com.co^
 ||spraisy.live^
 ||sprunkiphase.online^
 ||srchfst.com^
