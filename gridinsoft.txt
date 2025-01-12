@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.193056.2025
+! Version: 01.12.200059.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 19:30:56 UTC 2025
+! Last modified: Sun Jan 12 20:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2635
+! Number of entries: 2640
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -138,6 +138,7 @@
 ||amontreupfr.shop^
 ||amouzo.com^
 ||amzkdt.online^
+||anabolenverkoop.net^
 ||anaxdex.com^
 ||angelicstoragebv.com^
 ||angiechew.online^
@@ -239,6 +240,7 @@
 ||bank.sepah.com^
 ||baominpower.com^
 ||bar47menu.online^
+||bargainxpressz.bet^
 ||basedturbo.io^
 ||basennt.com^
 ||basithjewellerspvtltd.com^
@@ -584,6 +586,7 @@
 ||contactconsultingservices.com^
 ||contractnerds.com^
 ||controlnetworks.com.au^
+||conveneprecedent.top^
 ||coolbet.peru.online^
 ||corescientific.refine.com^
 ||corporalgaming.com^
@@ -1193,6 +1196,7 @@
 ||itactivejobs.xyz^
 ||italybookofra.online^
 ||itau.com.py^
+||itidyo.com^
 ||itopexst.com^
 ||itorrents.igruha.org^
 ||itradegloballimited.com^
@@ -1330,6 +1334,7 @@
 ||lepetitportailbasque.com^
 ||letsgotothemoon.travel.com^
 ||leupold.us.shop^
+||levelbucks.com^
 ||lexingtonhazelwoodstylist.com^
 ||lfj.gg^
 ||lhndy.cn^
