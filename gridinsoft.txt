@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.090106.2025
+! Version: 01.12.093053.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 09:01:06 UTC 2025
+! Last modified: Sun Jan 12 09:30:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2596
+! Number of entries: 2597
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -2473,6 +2473,7 @@
 ||web3.gpt.shop^
 ||web3.olmaxsc.com^
 ||web3app.org^
+||web3bay.io^
 ||wedexy.com^
 ||weebull.co^
 ||weetarget.online^
