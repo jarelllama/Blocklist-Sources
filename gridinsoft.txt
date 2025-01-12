@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.163349.2025
+! Version: 01.12.170052.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 16:33:49 UTC 2025
+! Last modified: Sun Jan 12 17:00:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2617
+! Number of entries: 2620
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -656,6 +656,7 @@
 ||dbmsurvey.com^
 ||dcard50.ru^
 ||ddsteel.online^
+||decorhome.arg.store^
 ||deenext.com^
 ||defidappsrestore.web.app^
 ||defikv.com^
@@ -1302,6 +1303,7 @@
 ||lavishsupply.net^
 ||law.blade.solutions.com^
 ||lawnagain.com^
+||le3go.com^
 ||leadadream.top^
 ||leadership.development.online^
 ||leadingcrestreserve.com^
@@ -2240,6 +2242,7 @@
 ||tiny.one^
 ||tioctrically.com^
 ||tionoc.net^
+||tistokmall.pro^
 ||titan13.com^
 ||tkshophr.com^
 ||tkshopp.vip^
