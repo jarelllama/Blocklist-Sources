@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.043343.2025
+! Version: 01.12.050101.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 04:33:43 UTC 2025
+! Last modified: Sun Jan 12 05:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2571
+! Number of entries: 2574
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -588,6 +588,7 @@
 ||crawnyratty.com^
 ||crazediscount.com^
 ||crazybody.online^
+||crazyvidup.com^
 ||creneau.2025.mondial.com^
 ||crestprofits.com^
 ||cripexbit.com^
@@ -1392,6 +1393,7 @@
 ||majulahfm.com^
 ||makinfra.online^
 ||makitafr.com^
+||mallmyacy.com^
 ||mallprix.com^
 ||malltrabaho.online^
 ||mantraprint.in^
@@ -1922,6 +1924,7 @@
 ||rturd.com^
 ||rugbywow.com^
 ||russesale.shop^
+||rvxathe.com^
 ||s.dz.com^
 ||s1gamer.online^
 ||s2.skladchinmore.net^

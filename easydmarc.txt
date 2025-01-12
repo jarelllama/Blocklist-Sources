@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.043345.2025
+! Version: 01.12.050103.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 04:33:45 UTC 2025
+! Last modified: Sun Jan 12 05:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 172
+! Number of entries: 174
 ||1drv.ms^
 ||a.p.scrx.io^
 ||accounts.google.com^
@@ -15,6 +15,7 @@
 ||app.jotform.com^
 ||app.mailinblack.com^
 ||appempireio.com^
+||auspost.2hnlsi.online^
 ||auspost.y8l51a.life^
 ||axbk.io^
 ||b.iheart.southwest.com^
@@ -125,6 +126,7 @@
 ||servicesaustraliacareers.nga.net.au^
 ||shelterrockchurch.churchcenter.com^
 ||shorter.gg^
+||shorturl.asia^
 ||shorturl.at^
 ||shorturl.win^
 ||simplysign.ai^
