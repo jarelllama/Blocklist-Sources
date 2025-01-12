@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.083316.2025
+! Version: 01.12.090107.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 08:33:16 UTC 2025
+! Last modified: Sun Jan 12 09:01:07 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 184
+! Number of entries: 188
 ||1drv.ms^
 ||2s.gg^
 ||a.p.scrx.io^
@@ -25,6 +25,7 @@
 ||bit.ly^
 ||blakebruno.com^
 ||bowersins-my.sharepoint.com^
+||business.facebook.com^
 ||buy.stripe.com^
 ||cash-real.xyz^
 ||challenge.loopsupport.com^
@@ -42,6 +43,7 @@
 ||dhl.de-ufch.top^
 ||dhl.de-ydlh.top^
 ||dhl.plushy.cfd^
+||did.li^
 ||discord.gg^
 ||docs.google.com^
 ||donate.wfp.org^
@@ -130,6 +132,7 @@
 ||secureidorder.com^
 ||sellercentral.amazon.com^
 ||sellgift.info^
+||service-centrelink.click^
 ||servicesaustraliacareers.nga.net.au^
 ||shelterrockchurch.churchcenter.com^
 ||shorter.gg^
@@ -161,6 +164,7 @@
 ||usps.com-tarjfxv.top^
 ||vicky-858435.thompson633.sbs^
 ||vvww--roblox.com^
+||wip463-cm.myshopify.com^
 ||wizehire.com^
 ||www.amazon.com^
 ||www.amazon.in^
