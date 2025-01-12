@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.230056.2025
+! Version: 01.12.233050.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 23:00:56 UTC 2025
+! Last modified: Sun Jan 12 23:30:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2666
+! Number of entries: 2668
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -283,6 +283,7 @@
 ||betnight.online^
 ||betonline.love^
 ||betsclub.pro^
+||betteranime.net^
 ||betwave.vip^
 ||beyondprostate.com^
 ||beyondstandard.org^
@@ -359,6 +360,7 @@
 ||bmo.verification.secure.com^
 ||bmwstore.eu.com^
 ||bnbpick.io^
+||bnex.cc^
 ||bnextrade.com^
 ||bnhuf.com^
 ||bntrading.pro^
