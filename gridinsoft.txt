@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.033725.2025
+! Version: 01.12.040100.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 03:37:25 UTC 2025
+! Last modified: Sun Jan 12 04:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2565
+! Number of entries: 2567
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -1058,6 +1058,7 @@
 ||heyfuckme.com^
 ||hh.click.com^
 ||hianime.to^
+||highhillfurniture.com^
 ||hijra7.online^
 ||hireuphelp.online^
 ||hlamw.top^
@@ -1970,6 +1971,7 @@
 ||seephotograp.top^
 ||semello.fr^
 ||semphasize.com^
+||semw.store^
 ||senso.cat^
 ||senteted.com^
 ||seokore.com^
