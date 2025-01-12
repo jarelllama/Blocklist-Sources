@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.024835.2025
+! Version: 01.12.030933.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 02:48:35 UTC 2025
+! Last modified: Sun Jan 12 03:09:33 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2556
+! Number of entries: 2562
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -583,6 +583,7 @@
 ||couturedrift.com^
 ||couturevista.com^
 ||cqzywhisper.shop^
+||crawnyratty.com^
 ||crazediscount.com^
 ||crazybody.online^
 ||creneau.2025.mondial.com^
@@ -799,6 +800,7 @@
 ||es.ccm.net^
 ||escapitals.com^
 ||eschallengersmode.com^
+||escortbazar.in^
 ||escrowpi.com^
 ||esquentabet.online^
 ||establishmentlottery.top^
@@ -812,6 +814,7 @@
 ||eu.venum.shop^
 ||eumarijuanashop.com^
 ||eurocheapoonline.advanced.com^
+||europamundo.ink.com^
 ||european.sickfind.shop^
 ||eurovs.com^
 ||euroyalexpress.com^
@@ -1276,6 +1279,7 @@
 ||lawnagain.com^
 ||leadadream.top^
 ||leadership.development.online^
+||leadingcrestreserve.com^
 ||leakrepair30091.online^
 ||ledger.connect.app^
 ||ledsmdlight.com^
@@ -1365,6 +1369,7 @@
 ||lzminer.com^
 ||m.bitunixex.com^
 ||m.parrotes.com^
+||m.payasset.com^
 ||mabar88go.online^
 ||mabhaykamath.online^
 ||mablehelp.online^
@@ -2544,6 +2549,7 @@
 ||zakds.info^
 ||zalurex.com^
 ||zapatillasespanaoutlet.org^
+||zcode.system.online^
 ||zdigitalagencymt.cc^
 ||zeharris.online^
 ||zerocodeblock.com^
