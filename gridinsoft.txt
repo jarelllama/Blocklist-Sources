@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.100103.2025
+! Version: 01.12.103303.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 10:01:03 UTC 2025
+! Last modified: Sun Jan 12 10:33:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2600
+! Number of entries: 2601
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -2327,6 +2327,7 @@
 ||tywurystore.buzz^
 ||tzoneip.vip^
 ||u.usd.com^
+||ucbibanking.io^
 ||ucboc.com^
 ||uehdspecial.shop^
 ||ugksq.merganser.cn^
