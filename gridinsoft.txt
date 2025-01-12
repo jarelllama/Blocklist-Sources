@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.180106.2025
+! Version: 01.12.183436.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 18:01:06 UTC 2025
+! Last modified: Sun Jan 12 18:34:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2626
+! Number of entries: 2629
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -458,6 +458,7 @@
 ||cenutix.com^
 ||cerabiapparels.com^
 ||cerebrumiq.com^
+||cfs.trades.com^
 ||chainfun.click^
 ||chalaorry.shop^
 ||changeip.net^
@@ -752,6 +753,7 @@
 ||earnytbvideo.top^
 ||earringssale.com^
 ||easelayer.co^
+||easymintminer.com^
 ||easyrcashdae.buzz^
 ||ebay.mall.net^
 ||eccoshoes.life^
@@ -1847,6 +1849,7 @@
 ||pub.c5acfd5a4f1943a7bfc858676472adce.r2.dev^
 ||puffinvapesehopgv.shop^
 ||pulaski.towing.top^
+||pulimore.com^
 ||pulsed.fr^
 ||pulsepicks.pro^
 ||pumacolombia.net^
