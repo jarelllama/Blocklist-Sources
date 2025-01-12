@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.060100.2025
+! Version: 01.12.063523.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 06:01:00 UTC 2025
+! Last modified: Sun Jan 12 06:35:23 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2581
+! Number of entries: 2585
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -906,6 +906,7 @@
 ||fluctz.xyz^
 ||fluminer.org^
 ||flwoertime.de^
+||fmcg5.biz^
 ||fmovies.co^
 ||focusmarkets.com^
 ||fogeque.shop^
@@ -958,6 +959,7 @@
 ||fxtradeco.ltd^
 ||fxtrinity.com^
 ||g.newpoint.com^
+||gaga.pe^
 ||galacvy.com^
 ||galaxiumtoken.com^
 ||galjoyhit.com^
@@ -1957,6 +1959,7 @@
 ||sarangpuradharamashala.online^
 ||sato.castle.com^
 ||sauconysneakersdiscount.shop^
+||save.learning.com^
 ||saveconsulting.si^
 ||saveweb2zip.com^
 ||savvyessence.com^
@@ -2309,6 +2312,7 @@
 ||twixly.store^
 ||tymcra.com^
 ||typoair.com^
+||tywurystore.buzz^
 ||tzoneip.vip^
 ||u.usd.com^
 ||ucboc.com^
