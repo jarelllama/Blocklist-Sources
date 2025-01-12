@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.124150.2025
+! Version: 01.12.130348.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 12:41:50 UTC 2025
+! Last modified: Sun Jan 12 13:03:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 195
+! Number of entries: 200
 ||1drv.ms^
 ||2s.gg^
 ||a.p.scrx.io^
@@ -31,6 +31,7 @@
 ||business.facebook.com^
 ||buy.stripe.com^
 ||cash-real.xyz^
+||cdn.discordapp.com^
 ||challenge.loopsupport.com^
 ||chat.whatsapp.com^
 ||chng.it^
@@ -73,6 +74,7 @@
 ||goo.gl^
 ||goviral.growthtools.com^
 ||hsseworld.com^
+||https--www-roblox.com^
 ||idcom-pr.hdfcbank.com^
 ||idfcfb.in^
 ||idilang.com^
@@ -86,6 +88,7 @@
 ||is.gd^
 ||iwyvwnn.uafcwh28.my.id^
 ||j4ye3.nechg.top^
+||jcard50.ru^
 ||keno0.com^
 ||kib3e.app.link^
 ||krs.microsoft.com^
@@ -162,6 +165,7 @@
 ||toph.pages.dev^
 ||u10168449.ct.sendgrid.net^
 ||u4183812.ct.sendgrid.net^
+||u7838820.ct.sendgrid.net^
 ||u8410123.ct.sendgrid.net^
 ||unlocktoearn.com^
 ||upfiles.download^
@@ -196,6 +200,7 @@
 ||www.sihub.in^
 ||www.surveymonkey.com^
 ||www.swiggy.com^
+||www.tiktok.com^
 ||www.ziprecruiter.com^
 ||www.zoblox.com^
 ||xhamster43.desi^

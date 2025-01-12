@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.124148.2025
+! Version: 01.12.130347.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 12:41:48 UTC 2025
+! Last modified: Sun Jan 12 13:03:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2609
+! Number of entries: 2611
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -2167,6 +2167,7 @@
 ||sxjxjcc.com^
 ||sxyprn.net^
 ||sycuantime.com^
+||sylvamoon.com^
 ||synthealth.com^
 ||syuffxx.ee^
 ||t2.awagama2.org^
@@ -2481,6 +2482,7 @@
 ||wealthbaseinvestment.com^
 ||wealthwavestocks.org^
 ||weatherbeetaery.top^
+||web.cotiplus.top^
 ||web.nnleas.top^
 ||web3.gpt.shop^
 ||web3.olmaxsc.com^
