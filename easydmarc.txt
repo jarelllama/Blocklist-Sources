@@ -3,17 +3,18 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.020812.2025
+! Version: 01.12.024836.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 02:08:12 UTC 2025
+! Last modified: Sun Jan 12 02:48:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 164
+! Number of entries: 168
 ||1drv.ms^
 ||a.p.scrx.io^
 ||accounts.google.com^
 ||amomama.es^
 ||app.jotform.com^
 ||app.mailinblack.com^
+||appempireio.com^
 ||auspost.y8l51a.life^
 ||axbk.io^
 ||b.iheart.southwest.com^
@@ -29,6 +30,7 @@
 ||clck.ru^
 ||click.pstmrk.it^
 ||cnc.jpmorgan.com^
+||cs2gameacademy.com^
 ||csmt.page.link^
 ||ctrk.klclick.com^
 ||cutt.ly^
@@ -65,6 +67,7 @@
 ||ilang.in^
 ||images.app.goo.gl^
 ||induseasycredit.indusind.com^
+||interac.alllaw.store^
 ||iplogger.com^
 ||is.gd^
 ||iwyvwnn.uafcwh28.my.id^
@@ -85,6 +88,7 @@
 ||maps.app.goo.gl^
 ||me-qr.com^
 ||meet.google.com^
+||moolahspot.com^
 ||mvc.us11.list-manage.com^
 ||myaccount.e-zpassnyv.top^
 ||n9.cl^

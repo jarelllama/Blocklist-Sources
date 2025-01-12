@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.020810.2025
+! Version: 01.12.024835.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 02:08:10 UTC 2025
+! Last modified: Sun Jan 12 02:48:35 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2554
+! Number of entries: 2556
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -887,6 +887,7 @@
 ||flawflessas.com^
 ||flexjobhubs.com^
 ||flexswiftways.online^
+||flirt4free.com^
 ||flirtingplaza.com^
 ||floattrust.com^
 ||flomac.shop^
@@ -943,6 +944,7 @@
 ||fxminedeotra.com^
 ||fxnexapipstream.com^
 ||fxprom.cc^
+||fxtradeco.ltd^
 ||fxtrinity.com^
 ||g.newpoint.com^
 ||galacvy.com^
