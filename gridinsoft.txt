@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.000207.2025
+! Version: 01.12.004538.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 00:02:07 UTC 2025
+! Last modified: Sun Jan 12 00:45:38 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2544
+! Number of entries: 2550
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -826,6 +826,7 @@
 ||f1store1.formula1.eu.com^
 ||f1store2.formula1.com^
 ||f2pool.com^
+||fa.arabianmall.vip^
 ||facebook.busines.tempisite.com^
 ||fadedarkspotsfast.com^
 ||faithfultly.com^
@@ -1133,6 +1134,7 @@
 ||invexfinance.com^
 ||invitrofertilizationtreatment001.online^
 ||ioctrust.com^
+||ioicity.mall.top^
 ||ionmining.com^
 ||ip.hz.com^
 ||ipctd.online^
@@ -1322,6 +1324,7 @@
 ||lopa.store^
 ||loranza.nl^
 ||loreall.gp.top^
+||lorealwear.com^
 ||loryvel.com^
 ||lotesycasaspro.online^
 ||lottobet.online^
@@ -1794,6 +1797,7 @@
 ||pulsed.fr^
 ||pulsepicks.pro^
 ||pumacolombia.net^
+||punkoutfit.com^
 ||puravive.net^
 ||purbat.com^
 ||puregoodsfy.com^
@@ -2373,6 +2377,7 @@
 ||vigkes.shop^
 ||vincecomfort.com^
 ||vineyardsoutlet.com^
+||vintagehue.com^
 ||vintagewholesalesupplyltd.com^
 ||violate.igrq.online^
 ||vioratricot.com^
@@ -2532,6 +2537,7 @@
 ||zadigvoltairevip.com^
 ||zakds.info^
 ||zalurex.com^
+||zapatillasespanaoutlet.org^
 ||zdigitalagencymt.cc^
 ||zeharris.online^
 ||zerocodeblock.com^

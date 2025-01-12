@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.000208.2025
+! Version: 01.12.004540.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 00:02:08 UTC 2025
+! Last modified: Sun Jan 12 00:45:40 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 158
+! Number of entries: 161
 ||1drv.ms^
 ||a.p.scrx.io^
 ||accounts.google.com^
@@ -29,6 +29,7 @@
 ||clck.ru^
 ||click.pstmrk.it^
 ||cnc.jpmorgan.com^
+||ctrk.klclick.com^
 ||cutt.ly^
 ||d2slx104.na1.hubspotlinks.com^
 ||dhl.de-ufch.top^
@@ -147,6 +148,7 @@
 ||www.expressfinanceonline.com^
 ||www.facebook.com^
 ||www.fhmparts.com^
+||www.gofundme.com^
 ||www.google.com^
 ||www.googleadservices.com^
 ||www.gymjapan.shop^
@@ -156,6 +158,7 @@
 ||www.lion777.club^
 ||www.nagem.com.br^
 ||www.oneric.xyz^
+||www.roblox.com^
 ||www.sihub.in^
 ||www.surveymonkey.com^
 ||www.swiggy.com^
