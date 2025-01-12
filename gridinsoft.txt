@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.040100.2025
+! Version: 01.12.043343.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 04:01:00 UTC 2025
+! Last modified: Sun Jan 12 04:33:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2567
+! Number of entries: 2571
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -351,6 +351,7 @@
 ||bnextrade.com^
 ||bnhuf.com^
 ||bntrading.pro^
+||bnxbncp.com^
 ||boardgamesoutletstore.com^
 ||boassey.shop^
 ||bobclaim.cfd^
@@ -573,6 +574,7 @@
 ||contractnerds.com^
 ||controlnetworks.com.au^
 ||coolbet.peru.online^
+||corescientific.refine.com^
 ||corporalgaming.com^
 ||corseplongeea.com^
 ||cosmayae.com^
@@ -1058,6 +1060,7 @@
 ||heyfuckme.com^
 ||hh.click.com^
 ||hianime.to^
+||hidollshop.top^
 ||highhillfurniture.com^
 ||hijra7.online^
 ||hireuphelp.online^
@@ -2000,6 +2003,7 @@
 ||shoppingmall22.top^
 ||shoppingmall44.top^
 ||shoptastic.io^
+||shopwithpulse.store^
 ||shorturl.at^
 ||shotzon.com^
 ||signalarchitects.cloud^
