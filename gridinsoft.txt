@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.170052.2025
+! Version: 01.12.173051.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 17:00:52 UTC 2025
+! Last modified: Sun Jan 12 17:30:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2620
+! Number of entries: 2623
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -988,6 +988,7 @@
 ||genesisminingbot.com^
 ||geninsur.com^
 ||geographz.com^
+||get.activated.win^
 ||getdrant.shop^
 ||getimage.online^
 ||getsoothesmooth.com^
@@ -1143,6 +1144,7 @@
 ||iklktec.com^
 ||ilclawgroup.com^
 ||imbictoz.com^
+||img.yuwujie.us.kg^
 ||immediateexalgoai.com^
 ||immediatepump.com^
 ||importantstuff.online^
@@ -2599,6 +2601,7 @@
 ||ysafei.vip^
 ||yunpso.com^
 ||yupoo.vip^
+||ywj.yuwujie.us.kg^
 ||yyyu.0001.vip^
 ||yzonaautomotive.shop^
 ||z2u.com^
