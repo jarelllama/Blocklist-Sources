@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.012820.2025
+! Version: 01.12.020812.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 01:28:20 UTC 2025
+! Last modified: Sun Jan 12 02:08:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 161
+! Number of entries: 164
 ||1drv.ms^
 ||a.p.scrx.io^
 ||accounts.google.com^
@@ -29,6 +29,7 @@
 ||clck.ru^
 ||click.pstmrk.it^
 ||cnc.jpmorgan.com^
+||csmt.page.link^
 ||ctrk.klclick.com^
 ||cutt.ly^
 ||d2slx104.na1.hubspotlinks.com^
@@ -43,6 +44,7 @@
 ||duostoresa.com^
 ||elsinta.el.itera.ac.id^
 ||emea01.safelinks.protection.outlook.com^
+||empoweredmanhealth.online^
 ||erickson-crosby.carroal.my^
 ||eu.docusign.net^
 ||eulink.smartrecruiters.com^
@@ -106,6 +108,7 @@
 ||robuxlimitedtime-here-ekslusif.blogspot.com^
 ||ropro.io^
 ||rv2.io^
+||scotiabank.us2.list-manage.com^
 ||scuremnge8490appsxvefiy.work.gd^
 ||secmail.bankofamerica.com^
 ||secure.chase.com^
