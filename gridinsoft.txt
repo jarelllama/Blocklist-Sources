@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.050101.2025
+! Version: 01.12.053221.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 05:01:01 UTC 2025
+! Last modified: Sun Jan 12 05:32:21 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2574
+! Number of entries: 2577
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -342,6 +342,7 @@
 ||blockdag.network^
 ||bloginnet.in^
 ||blombard.com^
+||bloom.as^
 ||blue798798.com^
 ||bluewhaleapps.life^
 ||blushx.co^
@@ -700,6 +701,7 @@
 ||docs.connect.wallet.teachable.com^
 ||docs.shibariumtech.com^
 ||dogecoin.usdt.vip^
+||dogee.vip^
 ||dogepick.io^
 ||dogooddaldaadw.com^
 ||doiquant.com^
@@ -2040,6 +2042,7 @@
 ||slexionz.cc^
 ||slmsbz.com^
 ||slot7.onlinecasino.com^
+||slotsaces.net^
 ||smartearningpool.online^
 ||smartgyro.es^
 ||smartns.ink^
