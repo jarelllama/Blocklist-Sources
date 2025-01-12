@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.073053.2025
+! Version: 01.12.080058.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 07:30:53 UTC 2025
+! Last modified: Sun Jan 12 08:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2592
+! Number of entries: 2594
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -2310,6 +2310,8 @@
 ||tshilaige.com^
 ||tt.tiktokmarketplace.online^
 ||ttoeore.com^
+||ttslot.com^
+||ttslot01.com^
 ||ttslot05.com^
 ||turbotrump.info^
 ||tusheedrosep.net^

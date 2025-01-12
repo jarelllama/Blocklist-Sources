@@ -3,12 +3,13 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.073054.2025
+! Version: 01.12.080100.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 07:30:54 UTC 2025
+! Last modified: Sun Jan 12 08:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 179
+! Number of entries: 184
 ||1drv.ms^
+||2s.gg^
 ||a.p.scrx.io^
 ||accounts.google.com^
 ||amomama.es^
@@ -78,6 +79,7 @@
 ||iplogger.com^
 ||is.gd^
 ||iwyvwnn.uafcwh28.my.id^
+||j4ye3.nechg.top^
 ||keno0.com^
 ||kib3e.app.link^
 ||krs.microsoft.com^
@@ -116,6 +118,7 @@
 ||rainbowservicecenter.com^
 ||resellervoucher.com^
 ||restorecord.com^
+||reurl.cc^
 ||roblox.com.py^
 ||robuxlimitedtime-here-ekslusif.blogspot.com^
 ||ropro.io^
@@ -152,6 +155,7 @@
 ||u8410123.ct.sendgrid.net^
 ||unlocktoearn.com^
 ||upfiles.download^
+||urly.fi^
 ||us02web.zoom.us^
 ||us06web.zoom.us^
 ||usps.com-tarjfxv.top^
@@ -165,6 +169,7 @@
 ||www.facebook.com^
 ||www.fhmparts.com^
 ||www.free80sarcade.com^
+||www.go2u.link^
 ||www.gofundme.com^
 ||www.google.com^
 ||www.googleadservices.com^
