@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.11.233057.2025
+! Version: 01.12.000207.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 11 23:30:57 UTC 2025
+! Last modified: Sun Jan 12 00:02:07 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2539
+! Number of entries: 2544
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -77,6 +77,7 @@
 ||affiliatemarketlite.com^
 ||affirmgrowth.co^
 ||agarwoody.shop^
+||ageeon.com^
 ||agonas.techubz.com^
 ||agyabashipping.com^
 ||ahhaqq.com^
@@ -336,6 +337,7 @@
 ||blackjack888.ph^
 ||blackshelter.org^
 ||blast.tv.org^
+||blissfulluck.cfd^
 ||blockdag.network^
 ||bloginnet.in^
 ||blombard.com^
@@ -841,6 +843,7 @@
 ||farmapram.com^
 ||fasdja.com^
 ||fashionfieber.com^
+||fashionsfriday.com^
 ||fashionworldcc.shop^
 ||fashioze.com^
 ||fastbrush.online^
@@ -1076,6 +1079,7 @@
 ||hotvxfs.shop^
 ||hoylitecandle.store^
 ||hozpetro.com^
+||hrtai.vip^
 ||htadz.online^
 ||htoi.online^
 ||htxsbot.com^
@@ -1306,6 +1310,7 @@
 ||loanfundsonline.com^
 ||localsgowild.com^
 ||localsinglesnearmefree0.online^
+||locations.online.us^
 ||lockheed3.com^
 ||login.microsoft.com^
 ||logomagik.online^
