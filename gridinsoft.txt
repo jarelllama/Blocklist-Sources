@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.190058.2025
+! Version: 01.12.193056.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 19:00:58 UTC 2025
+! Last modified: Sun Jan 12 19:30:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2630
+! Number of entries: 2635
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -332,6 +332,7 @@
 ||bitprogain.com^
 ||bitronce.com^
 ||bitstake.su^
+||bittrsecur.top^
 ||bitunix.com^
 ||bitusdt.biz^
 ||bitvipenuss.com^
@@ -395,6 +396,7 @@
 ||btc933.com^
 ||btceex.com^
 ||btcotcvip.net^
+||btcpaypartners.com^
 ||btcvipotc.com^
 ||btfxtraders.com^
 ||buble.com.cn^
@@ -1280,6 +1282,7 @@
 ||knighted.shop^
 ||knoblatter.com^
 ||kobaltoutletstore.com^
+||kolem.shop^
 ||kongva.com^
 ||konigsbruder.com^
 ||korucc.com^
@@ -2185,6 +2188,7 @@
 ||sycuantime.com^
 ||sylvamoon.com^
 ||synthealth.com^
+||syuffxx.com^
 ||syuffxx.ee^
 ||t2.awagama2.org^
 ||tads.baker.co.za^
@@ -2235,6 +2239,7 @@
 ||thestylefoundrycle.store^
 ||thetaus.top^
 ||thetodayhealth.xyz^
+||thetradehub.net^
 ||thgworldwide.com^
 ||thomashouseofdigitals.store^
 ||threadsvault.com^
