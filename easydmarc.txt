@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.223223.2025
+! Version: 01.12.230057.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 22:32:23 UTC 2025
+! Last modified: Sun Jan 12 23:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 217
+! Number of entries: 221
 ||1drv.ms^
 ||2s.gg^
 ||a.p.scrx.io^
@@ -47,6 +47,7 @@
 ||ctrk.klclick.com^
 ||cutt.ly^
 ||d2slx104.na1.hubspotlinks.com^
+||dccd.li^
 ||dhl.de-ufch.top^
 ||dhl.de-ydlh.top^
 ||dhl.plushy.cfd^
@@ -79,6 +80,7 @@
 ||go.air-pay.co.uk^
 ||goo.gl^
 ||goviral.growthtools.com^
+||hooponoponododia.com^
 ||hsseworld.com^
 ||https--www-roblox.com^
 ||idcom-pr.hdfcbank.com^
@@ -167,6 +169,7 @@
 ||sio-store.com^
 ||smart-ph.college^
 ||start.makesaveretire.com^
+||steam.communitysourcedev.com^
 ||steamcommunity.com^
 ||steamcomnnunity.com^
 ||steampowered.nextplaytest.com^
@@ -180,6 +183,7 @@
 ||toph.pages.dev^
 ||u10168449.ct.sendgrid.net^
 ||u4183812.ct.sendgrid.net^
+||u48456474.ct.sendgrid.net^
 ||u7838820.ct.sendgrid.net^
 ||u8410123.ct.sendgrid.net^
 ||unlocktoearn.com^
