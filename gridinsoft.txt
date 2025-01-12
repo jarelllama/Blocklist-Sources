@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.203116.2025
+! Version: 01.12.210056.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 20:31:16 UTC 2025
+! Last modified: Sun Jan 12 21:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2644
+! Number of entries: 2652
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -2149,6 +2149,7 @@
 ||startperfectsolutions.com^
 ||startwrit.com^
 ||stavelux.net^
+||stealthmist.com^
 ||steamcommunity.tickets.com^
 ||steamcommunmutty.com^
 ||steamcomumnitty.com^
@@ -2181,6 +2182,7 @@
 ||superakbov.best^
 ||superamzdu.store^
 ||supplycenterusa.com^
+||suredafa.com^
 ||surfing777.online^
 ||surveyanswer.xyz^
 ||survyhelp.com^
@@ -2191,6 +2193,7 @@
 ||swipelake.shop^
 ||swiss.mo.inv.com^
 ||swminex.com^
+||sxelin.com^
 ||sxioka.store^
 ||sxjxjcc.com^
 ||sxyprn.net^
@@ -2207,6 +2210,7 @@
 ||taqwapublications.com^
 ||tarionus.shop^
 ||tbkis.com^
+||tbwa.dad^
 ||tc126.xyz^
 ||te.currency.xshares.site^
 ||techberry.online.com^
@@ -2250,6 +2254,7 @@
 ||thetodayhealth.xyz^
 ||thetradehub.net^
 ||thgworldwide.com^
+||thirteenants.com^
 ||thomashouseofdigitals.store^
 ||threadsvault.com^
 ||tickfyx.shop^
@@ -2436,6 +2441,7 @@
 ||velari.nl^
 ||velivyne.com^
 ||velogisc.com^
+||velourtoronto.com^
 ||venarose.online^
 ||vendorbroz.com^
 ||venotem.com^
@@ -2456,6 +2462,7 @@
 ||vflmo.online^
 ||vhufdiu.com^
 ||vibyage.com^
+||viceoriassccet.com^
 ||victordle.net^
 ||video.earns.top^
 ||video4k.site^
@@ -2636,6 +2643,7 @@
 ||zeharris.online^
 ||zerocodeblock.com^
 ||zesphyr.com^
+||zetboom.com^
 ||zetdax.top^
 ||zfp.zfppool.com^
 ||zhuan2345.com^
