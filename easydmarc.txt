@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.213052.2025
+! Version: 01.12.220051.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 21:30:52 UTC 2025
+! Last modified: Sun Jan 12 22:00:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 213
+! Number of entries: 217
 ||1drv.ms^
 ||2s.gg^
 ||a.p.scrx.io^
@@ -31,6 +31,7 @@
 ||bowersins-my.sharepoint.com^
 ||business.facebook.com^
 ||buy.stripe.com^
+||c.vialoops.com^
 ||cash-real.xyz^
 ||cathpchabot.com^
 ||cdn.discordapp.com^
@@ -65,6 +66,7 @@
 ||eulink.smartrecruiters.com^
 ||eupanel.org^
 ||ezdrivema.com-ezdrivemalsp.top^
+||ezdrivema.com-feesxo.top^
 ||faceit.cup158.com^
 ||feij.us^
 ||fiverr.ordersverification.com^
@@ -135,6 +137,7 @@
 ||processing.network^
 ||prod-cdn.preprod.co-vin.in^
 ||profresh.vn^
+||promoofficial.com^
 ||quossa.com^
 ||rainbowservicecenter.com^
 ||resellervoucher.com^
@@ -144,6 +147,7 @@
 ||robuxlimitedtime-here-ekslusif.blogspot.com^
 ||ropro.io^
 ||rv2.io^
+||salat.pw^
 ||scotiabank.us2.list-manage.com^
 ||scuremnge8490appsxvefiy.work.gd^
 ||secmail.bankofamerica.com^

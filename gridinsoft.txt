@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.213051.2025
+! Version: 01.12.220050.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 21:30:51 UTC 2025
+! Last modified: Sun Jan 12 22:00:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2659
+! Number of entries: 2664
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -28,6 +28,7 @@
 ||34k.site^
 ||3549urk.kipkeo.info^
 ||552059.com^
+||552993.com^
 ||5movierulz.gay^
 ||63810.com^
 ||777color87.com^
@@ -429,6 +430,7 @@
 ||camelmining.com^
 ||caminoverdadyvida.online^
 ||campershoessales1.best^
+||cancerdecodedseries.com^
 ||canconsulting.in^
 ||canvaschronicle.homes^
 ||canvasgenius.homes^
@@ -1169,6 +1171,7 @@
 ||indojayapokeramp.xyz^
 ||indpeapract.cfd^
 ||infernoforge.store^
+||infojre.com^
 ||informed.deliveryghfgh.top^
 ||informed.deliveryqbnsk.top^
 ||innovayours.store^
@@ -2063,6 +2066,7 @@
 ||shoppingmall11.top^
 ||shoppingmall22.top^
 ||shoppingmall44.top^
+||shopsavvysimpsons.com^
 ||shoptastic.io^
 ||shopwithpulse.store^
 ||shorturl.at^
@@ -2577,6 +2581,7 @@
 ||workshop.forex.com^
 ||world.delivery.service.com^
 ||worldofhurtonline.com^
+||worstcase.online^
 ||wowcams.com^
 ||wowonlinestores.co.in^
 ||woxdem.com^
