@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.070101.2025
+! Version: 01.12.073053.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 07:01:01 UTC 2025
+! Last modified: Sun Jan 12 07:30:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2586
+! Number of entries: 2592
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -445,6 +445,7 @@
 ||causehoodies.com^
 ||caveysrestaurant.com^
 ||cbex.cx^
+||cbex.vip^
 ||cbex18.com^
 ||cbex3.com^
 ||cbtfturbo99.com^
@@ -802,6 +803,7 @@
 ||epeweko.info^
 ||epoiu.com^
 ||equistak.com^
+||ercdlp.com^
 ||ermsty.com^
 ||erybdu.com^
 ||es.bankinter.usuario.com^
@@ -1294,6 +1296,7 @@
 ||leadingcrestreserve.com^
 ||leakrepair30091.online^
 ||ledger.connect.app^
+||ledgerlock.io^
 ||ledsmdlight.com^
 ||leftisaldopt.shop^
 ||legend88juara.online^
@@ -1626,6 +1629,7 @@
 ||offersheres.net^
 ||oguiadossonhos15anos.online^
 ||ojrq.net^
+||ok666.live^
 ||okjg13.icu^
 ||okk.16s.pages.dev^
 ||okwintss.com^
@@ -2306,6 +2310,7 @@
 ||tshilaige.com^
 ||tt.tiktokmarketplace.online^
 ||ttoeore.com^
+||ttslot05.com^
 ||turbotrump.info^
 ||tusheedrosep.net^
 ||tuuoi.shop^
@@ -2563,6 +2568,7 @@
 ||youxiangonline.live^
 ||yowin.site^
 ||yozabit.com^
+||yronene.com^
 ||ysafei.vip^
 ||yunpso.com^
 ||yupoo.vip^
