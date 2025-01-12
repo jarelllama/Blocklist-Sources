@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.063524.2025
+! Version: 01.12.070103.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 06:35:24 UTC 2025
+! Last modified: Sun Jan 12 07:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 174
+! Number of entries: 179
 ||1drv.ms^
 ||a.p.scrx.io^
 ||accounts.google.com^
@@ -19,6 +19,7 @@
 ||auspost.y8l51a.life^
 ||axbk.io^
 ||b.iheart.southwest.com^
+||bansos-tahap6.vercel.app^
 ||bb7722.net^
 ||bit.ly^
 ||blakebruno.com^
@@ -60,6 +61,7 @@
 ||fondby.com^
 ||forms.gle^
 ||free-gifts.website^
+||freefunhere.com^
 ||gds.google.com^
 ||go.air-pay.co.uk^
 ||goo.gl^
@@ -101,6 +103,7 @@
 ||nobellstore.com^
 ||notifications.googleapis.com^
 ||nsfas.whoyou.co.za^
+||open.spotify.com^
 ||paket.ewgcwa.cyou^
 ||payoutdone.com^
 ||paystack.shop^
@@ -110,6 +113,7 @@
 ||processing.network^
 ||prod-cdn.preprod.co-vin.in^
 ||profresh.vn^
+||rainbowservicecenter.com^
 ||resellervoucher.com^
 ||restorecord.com^
 ||roblox.com.py^
@@ -171,6 +175,7 @@
 ||www.lion777.club^
 ||www.nagem.com.br^
 ||www.oneric.xyz^
+||www.r.oblox.com.ng^
 ||www.roblox.com^
 ||www.sihub.in^
 ||www.surveymonkey.com^
