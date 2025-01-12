@@ -3,16 +3,17 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.12.133108.2025
+! Version: 01.12.140058.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 12 13:31:08 UTC 2025
+! Last modified: Sun Jan 12 14:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 200
+! Number of entries: 204
 ||1drv.ms^
 ||2s.gg^
 ||a.p.scrx.io^
 ||account.okcredit.in^
 ||accounts.google.com^
+||af-atm.com^
 ||amomama.es^
 ||amzn.in^
 ||amzn.to^
@@ -31,6 +32,7 @@
 ||business.facebook.com^
 ||buy.stripe.com^
 ||cash-real.xyz^
+||cathpchabot.com^
 ||cdn.discordapp.com^
 ||challenge.loopsupport.com^
 ||chat.whatsapp.com^
@@ -80,6 +82,7 @@
 ||idilang.com^
 ||iflychat-files-v2.s3.amazonaws.com^
 ||ilang.in^
+||imm.salduu.com^
 ||induseasycredit.indusind.com^
 ||interac.alllaw.store^
 ||intranet.flemingc.on.ca^
@@ -121,6 +124,7 @@
 ||payoutdone.com^
 ||paystack.shop^
 ||piedmont1-my.sharepoint.com^
+||pixceldigital.com^
 ||pkonuadian.com^
 ||play.google.com^
 ||processing.network^
