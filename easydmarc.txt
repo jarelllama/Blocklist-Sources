@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.063719.2025
+! Version: 01.13.070058.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 06:37:19 UTC 2025
+! Last modified: Mon Jan 13 07:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 241
+! Number of entries: 246
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
@@ -30,6 +30,7 @@
 ||bit.ly^
 ||blakebruno.com^
 ||bowersins-my.sharepoint.com^
+||buildlpad.com^
 ||business.facebook.com^
 ||buy.stripe.com^
 ||c.vialoops.com^
@@ -99,6 +100,7 @@
 ||ik0323.com^
 ||ilang.in^
 ||imm.salduu.com^
+||indoeoc-in.shop^
 ||indonesia-ecd.services^
 ||induseasycredit.indusind.com^
 ||interac.alllaw.store^
@@ -106,6 +108,7 @@
 ||iplogger.com^
 ||ireland.api.tryhavana.com^
 ||is.gd^
+||iugubd.com^
 ||iwyvwnn.uafcwh28.my.id^
 ||j4ye3.nechg.top^
 ||jcard50.ru^
@@ -153,6 +156,7 @@
 ||promoofficial.com^
 ||quossa.com^
 ||rainbowservicecenter.com^
+||raoui.top^
 ||rdc-corporation.com^
 ||resellervoucher.com^
 ||restorecord.com^
@@ -192,6 +196,7 @@
 ||sukryqs.com^
 ||surveyheart.com^
 ||t18.iluv.southwest.com^
+||tepco.eaxxf.art^
 ||terabox.com^
 ||terriblestore.com^
 ||throne.com^
