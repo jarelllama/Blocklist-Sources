@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.203153.2025
+! Version: 01.13.210056.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 20:31:53 UTC 2025
+! Last modified: Mon Jan 13 21:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2789
+! Number of entries: 2792
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -249,6 +249,7 @@
 ||bar47menu.online^
 ||bargainxpressz.bet^
 ||bartrustfund.com^
+||basatrade.net^
 ||base.fastbitl.cc^
 ||baseballdealusa.com^
 ||basedturbo.io^
@@ -425,6 +426,7 @@
 ||btcpaypartners.com^
 ||btcvipotc.com^
 ||btfxtraders.com^
+||btseus.net^
 ||bubblesbets.com^
 ||buble.com.cn^
 ||buddyenid.com^
@@ -2296,6 +2298,7 @@
 ||sunbit.ren^
 ||sundararajanneurohospital.com^
 ||suny77.online^
+||super.ai.me^
 ||superakbov.best^
 ||superamzdu.store^
 ||superwatch.live^
