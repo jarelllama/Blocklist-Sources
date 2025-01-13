@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.080106.2025
+! Version: 01.13.083535.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 08:01:06 UTC 2025
+! Last modified: Mon Jan 13 08:35:35 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2712
+! Number of entries: 2718
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -249,6 +249,7 @@
 ||baseballdealusa.com^
 ||basedturbo.io^
 ||basennt.com^
+||basilux.co^
 ||basithjewellerspvtltd.com^
 ||bassonlineca.com^
 ||bathroomremodelingus1207.online^
@@ -452,11 +453,13 @@
 ||capaciousdrewreligion.com^
 ||capital.shares.com^
 ||capitalix.com^
+||capitalsprings.info^
 ||capitaltradestartlimited.com^
 ||capitalvisionaryfx.com^
 ||car.zhouznq.cn^
 ||cardmasparamiempresa.wuaze.com^
 ||careeredge.online^
+||carhartt.wipeu.shop^
 ||carharttsalevip.shop^
 ||carharttssvip.shop^
 ||carlinkitmall.com^
@@ -1812,6 +1815,7 @@
 ||paybaz.com^
 ||paygateway.lol^
 ||pazvbha.com^
+||pcex.com^
 ||pe.trabajosdiarios.com^
 ||peacheck.com^
 ||pedrosantosblog.online^
@@ -2205,6 +2209,7 @@
 ||steamcomumnitty.com^
 ||steamcomunnuity.com^
 ||steamfunds.ltd^
+||stechol.com^
 ||stellarskyline.com^
 ||stellwisestore.com^
 ||stemncommunity.com^
@@ -2270,6 +2275,7 @@
 ||tecnorn.online^
 ||tedexy.com^
 ||teiagrma.pub^
+||telegramok.com^
 ||telelabs.online^
 ||telezgram.org^
 ||tenadex.com^
