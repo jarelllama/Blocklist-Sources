@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.040056.2025
+! Version: 01.13.043446.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 04:00:56 UTC 2025
+! Last modified: Mon Jan 13 04:34:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2694
+! Number of entries: 2699
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -791,6 +791,7 @@
 ||eexevaudraikair.net^
 ||effuciaency.com^
 ||egyptiantech.org^
+||ehoaq.com^
 ||eileenfisher.us.com^
 ||einhell.eusite.com^
 ||ekbrick.com^
@@ -913,6 +914,7 @@
 ||fiahub.com^
 ||fic.cc^
 ||fieldloom.com^
+||fighterseurope.com^
 ||fiheos.co.in^
 ||fijrol.com^
 ||filegear.sg.me^
@@ -1599,6 +1601,7 @@
 ||myvanomi.com^
 ||naaeeoy.com^
 ||naorisprotocol.web.app^
+||napapijriapps.com^
 ||narvafinance.com^
 ||naseebetiris.naseebet77.com^
 ||nationalcasinolp.com^
@@ -2138,6 +2141,7 @@
 ||smeftoredu.com^
 ||smesk.online^
 ||smith.newyork.com^
+||smokelifeshop.com^
 ||snapbuy.us^
 ||snapsave.app^
 ||sneakersfaclub.com^
@@ -2391,6 +2395,7 @@
 ||trustphin.com^
 ||trx.earning.pro^
 ||trxbee.io^
+||trxchains.com^
 ||trxminerboost.com^
 ||tsauvip.ing^
 ||tshilaige.com^
