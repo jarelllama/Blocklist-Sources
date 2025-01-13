@@ -3,14 +3,15 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.210058.2025
+! Version: 01.13.213051.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 21:00:58 UTC 2025
+! Last modified: Mon Jan 13 21:30:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 296
+! Number of entries: 301
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
+||2wb8s8bmabigl.s3.us-east-1.amazonaws.com^
 ||7quente.xyz^
 ||8uyk0sctks0.typeform.com^
 ||a.p.scrx.io^
@@ -91,9 +92,11 @@
 ||ezdrive.com-gujy.top^
 ||ezdrivema.com-ezdrivemalsp.top^
 ||ezdrivema.com-feesxo.top^
+||ezdrivema.com-ioians.top^
 ||faceit.cup158.com^
 ||feij.us^
 ||femaxpipeworks.com^
+||fgdy6l29.r.eu-west-1.awstrack.me^
 ||fiverr.ordersverification.com^
 ||flipkartz.dealxnew.shop^
 ||fondby.com^
@@ -213,6 +216,7 @@
 ||server.1a9q.com^
 ||service-centrelink.click^
 ||servicesaustraliacareers.nga.net.au^
+||share.hsforms.com^
 ||shelterrockchurch.churchcenter.com^
 ||shorter.gg^
 ||shorturl.asia^
@@ -239,6 +243,7 @@
 ||tepco.eaxxf.art^
 ||terabox.com^
 ||terriblestore.com^
+||thetollroads.com-43dq.cfd^
 ||thetollroads.com-dw06.cfd^
 ||throne.com^
 ||tinyurl.com^
