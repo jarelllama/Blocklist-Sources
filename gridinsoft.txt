@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.110102.2025
+! Version: 01.13.113051.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 11:01:02 UTC 2025
+! Last modified: Mon Jan 13 11:30:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2740
+! Number of entries: 2742
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -704,6 +704,7 @@
 ||dent.code.com^
 ||dentalclinicgreaternoida.com^
 ||departmentstoreclearance.com^
+||deporvillage.fr^
 ||desipin.com^
 ||destinypulseprize.com^
 ||determin.shop^
@@ -1903,6 +1904,7 @@
 ||primeotp.com^
 ||primitivesystem.online^
 ||pristinedrivecarcare.com^
+||privatesportshop.fr^
 ||prizerebel.com^
 ||pro.cion.com^
 ||procim.online^

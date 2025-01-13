@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.110104.2025
+! Version: 01.13.113053.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 11:01:04 UTC 2025
+! Last modified: Mon Jan 13 11:30:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 253
+! Number of entries: 257
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
@@ -54,6 +54,7 @@
 ||ctrk.klclick.com^
 ||cutt.ly^
 ||d2slx104.na1.hubspotlinks.com^
+||danielcacereslopez.com^
 ||dccd.li^
 ||dhl.de-ufch.top^
 ||dhl.de-ydlh.top^
@@ -92,6 +93,7 @@
 ||goo.gl^
 ||goviral.growthtools.com^
 ||harderjuniormisty.com^
+||hdfcbk.io^
 ||hooponoponododia.com^
 ||hsseworld.com^
 ||https--www-roblox.com^
@@ -189,6 +191,7 @@
 ||shrt.pt^
 ||simplysign.ai^
 ||sio-store.com^
+||skribbl.io^
 ||smart-ph.college^
 ||smleads.top^
 ||start.makesaveretire.com^
@@ -245,6 +248,7 @@
 ||www.instagram.com^
 ||www.jerrtrt.com^
 ||www.lion777.club^
+||www.membershipvtex.com^
 ||www.nagem.com.br^
 ||www.oneric.xyz^
 ||www.r.oblox.com.ng^
