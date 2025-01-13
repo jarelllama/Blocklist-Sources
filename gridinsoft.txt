@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.012817.2025
+! Version: 01.13.020536.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 01:28:17 UTC 2025
+! Last modified: Mon Jan 13 02:05:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2669
+! Number of entries: 2675
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -242,6 +242,7 @@
 ||baominpower.com^
 ||bar47menu.online^
 ||bargainxpressz.bet^
+||base.fastbitl.cc^
 ||basedturbo.io^
 ||basennt.com^
 ||basithjewellerspvtltd.com^
@@ -291,6 +292,7 @@
 ||bgoyia.vip^
 ||bicicletaoficial.com^
 ||bielsko.biala.online^
+||bigfat.chat^
 ||biglotsclosures.com^
 ||biglotsshoppingplaza.com^
 ||biglotsusa.sale.com^
@@ -391,6 +393,7 @@
 ||breathingottersca.com^
 ||briansclub.cm.shop^
 ||bridgeconnection.co.in^
+||brieam.com^
 ||brighodew.com^
 ||brilliantlyouth.store^
 ||britishairwaysroyaldeliverycompany.com^
@@ -1040,6 +1043,7 @@
 ||goblinx.org^
 ||goinvest.credit.com^
 ||golat.online^
+||golden.lucky.com^
 ||goldengooseselect.com^
 ||golderagifts.com^
 ||golditry.com^
@@ -1484,6 +1488,7 @@
 ||megatrendsplaza.shop^
 ||meindl.norge.com^
 ||meistrgold.com^
+||memoforce.net^
 ||memubit.com^
 ||menorul.com^
 ||messiah777.com^
@@ -2421,6 +2426,7 @@
 ||us.amtmodels.com^
 ||us.retgdsence.com^
 ||us.viiceemall.com^
+||usa.hellyhansen.com^
 ||usa.mito.com^
 ||usahawanlg.my^
 ||usahellyhansen.com^
