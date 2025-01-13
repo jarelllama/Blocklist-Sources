@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.030849.2025
+! Version: 01.13.033711.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 03:08:49 UTC 2025
+! Last modified: Mon Jan 13 03:37:11 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2682
+! Number of entries: 2688
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -31,6 +31,7 @@
 ||552993.com^
 ||5movierulz.gay^
 ||63810.com^
+||67phspin.vip^
 ||777color87.com^
 ||7k.casino.16.online^
 ||7starbet.com^
@@ -304,6 +305,7 @@
 ||bikobabybus.com^
 ||bil2n.cfd^
 ||bileerrero.shop^
+||billabong.pl.com^
 ||binariumy.com^
 ||bincoinlux.com^
 ||bine.mails.top^
@@ -341,6 +343,7 @@
 ||bitprogain.com^
 ||bitronce.com^
 ||bitstake.su^
+||bittrading.online^
 ||bittrsecur.top^
 ||bitunix.com^
 ||bitusdt.biz^
@@ -1592,6 +1595,7 @@
 ||mysticstonesgallery.com^
 ||mytraveldaddy.us^
 ||myvanomi.com^
+||naaeeoy.com^
 ||naorisprotocol.web.app^
 ||narvafinance.com^
 ||naseebetiris.naseebet77.com^
@@ -1764,6 +1768,7 @@
 ||palessaint.com^
 ||palettepro.homes^
 ||palliee.com^
+||pallmetostasarmory.shop^
 ||palloda.com^
 ||palmettostatearmoryam.store^
 ||palyzoo.online^
@@ -2533,6 +2538,7 @@
 ||warehouseudeals.co^
 ||warehouseudeals.com^
 ||warsawsneakers.pl^
+||warttopsiya.click^
 ||warunggolkuat.online^
 ||washerdryer.my^
 ||watch.us.live^
