@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.173243.2025
+! Version: 01.13.180104.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 17:32:43 UTC 2025
+! Last modified: Mon Jan 13 18:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2773
+! Number of entries: 2776
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -1109,6 +1109,7 @@
 ||gotospares.com^
 ||gowenuy.info^
 ||gptaiminds.com^
+||graphixplanet.com^
 ||grassroot.impact.centre.org^
 ||gratisvps.net^
 ||greatsealbadge.com^
@@ -1427,6 +1428,7 @@
 ||linkgurd.online^
 ||linkmcltogel3.org^
 ||linkvertise.com^
+||linnios.com^
 ||lipozemus.com^
 ||lippizapatillaes.shop^
 ||liquidationpalletshub.top^
@@ -2151,6 +2153,7 @@
 ||shirudigiseo.top^
 ||shop.sale6.quest^
 ||shopa66.com^
+||shope4you.shop^
 ||shopeevip.shop^
 ||shoponlinesale.shop^
 ||shoppingmall11.top^
