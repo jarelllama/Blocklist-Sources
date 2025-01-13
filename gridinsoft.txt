@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.150058.2025
+! Version: 01.13.153317.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 15:00:58 UTC 2025
+! Last modified: Mon Jan 13 15:33:17 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2759
+! Number of entries: 2762
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -699,6 +699,7 @@
 ||ddsteel.online^
 ||decorhome.arg.store^
 ||deenext.com^
+||deepnude.to^
 ||defidappsrestore.web.app^
 ||defikv.com^
 ||delicatede.com^
@@ -1657,6 +1658,7 @@
 ||nemovix.com^
 ||neomaven.pro^
 ||nestedfashion.com^
+||netbitcapital.net^
 ||netdcbf.com^
 ||netfucks1.com^
 ||neuratech.global^
@@ -2262,6 +2264,7 @@
 ||stroyblock.online^
 ||stuncreditfb.com^
 ||stylesock.com^
+||subduedespana.com^
 ||subscribelg.my^
 ||sugarsyncglycooptimizer.com^
 ||sulop.online^
