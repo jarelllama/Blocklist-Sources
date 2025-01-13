@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.043448.2025
+! Version: 01.13.050103.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 04:34:48 UTC 2025
+! Last modified: Mon Jan 13 05:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 234
+! Number of entries: 237
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
@@ -77,6 +77,7 @@
 ||fondby.com^
 ||forms.gle^
 ||free-gifts.website^
+||freecash.com^
 ||freefunhere.com^
 ||gds.google.com^
 ||go.air-pay.co.uk^
@@ -188,6 +189,7 @@
 ||surveyheart.com^
 ||t18.iluv.southwest.com^
 ||terabox.com^
+||terriblestore.com^
 ||throne.com^
 ||tinyurl.com^
 ||toph.pages.dev^
@@ -210,6 +212,7 @@
 ||wip463-cm.myshopify.com^
 ||wizehire.com^
 ||workdrive.zoho.eu^
+||www.589231686.shop^
 ||www.amazon.com^
 ||www.amazon.in^
 ||www.attemplate.com^

@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.043446.2025
+! Version: 01.13.050101.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 04:34:46 UTC 2025
+! Last modified: Mon Jan 13 05:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2699
+! Number of entries: 2703
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -105,6 +105,7 @@
 ||aiyibay.com^
 ||akurat33.com^
 ||al.rafidahcapital.com^
+||alcazie.in^
 ||alectomedia.online^
 ||alfianacendani.online^
 ||aliex.proxy.robot.shop^
@@ -357,6 +358,7 @@
 ||blackshelter.org^
 ||blast.tv.org^
 ||blissfulluck.cfd^
+||blizzboygames.net^
 ||blockdag.network^
 ||bloginnet.in^
 ||blombard.com^
@@ -1935,6 +1937,7 @@
 ||rainsweb.com^
 ||rajatsinghchauhan.com^
 ||ralkem.com^
+||ralphlauren.best^
 ||ranoz.gg^
 ||ranthambhoresafaritour.in^
 ||rapidtransitmodels.com^
@@ -2348,6 +2351,7 @@
 ||topthingsinlife.com^
 ||toptoolskits.com^
 ||topvibes.top^
+||topx.one^
 ||torresip.com^
 ||tosdex.com^
 ||totalwellstore.com^
