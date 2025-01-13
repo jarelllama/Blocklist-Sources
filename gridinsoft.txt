@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.090059.2025
+! Version: 01.13.093258.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 09:00:59 UTC 2025
+! Last modified: Mon Jan 13 09:32:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2720
+! Number of entries: 2728
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -453,6 +453,7 @@
 ||capaciousdrewreligion.com^
 ||capital.shares.com^
 ||capitalix.com^
+||capitalmastery.org^
 ||capitalsprings.info^
 ||capitaltradestartlimited.com^
 ||capitalvisionaryfx.com^
@@ -812,6 +813,7 @@
 ||elitevac.uk^
 ||elixrium.online^
 ||ellamode.nl^
+||elmoerc.com^
 ||elonbet.com^
 ||elyaevents.com^
 ||elysiumvip.top^
@@ -1208,6 +1210,7 @@
 ||insads.net^
 ||insadspro.com^
 ||insightdreams.online^
+||inspirecollege.co.uk^
 ||inspirighty.com^
 ||install.protected.net^
 ||intelligiencehub.com^
@@ -1269,6 +1272,7 @@
 ||johnhearingaids.com^
 ||join.lavishivy.com^
 ||joingy.online^
+||joliiy.com^
 ||jollypulse.co.in^
 ||josephina.shop^
 ||jpgcompressor.online^
@@ -1864,6 +1868,7 @@
 ||plmin.xyz^
 ||pnees.com^
 ||pnusaa.com^
+||pobyporcelain.shop^
 ||pocketoption.bwgcompany.com^
 ||pocketoption.com^
 ||pokebooster.fr^
@@ -1994,6 +1999,7 @@
 ||retrofxmarkets.com^
 ||reupsupplies.com^
 ||reventa.co^
+||revoget.com^
 ||revvedsupply.com^
 ||reward.treasuredao.com^
 ||rewards.axon.net^
@@ -2296,6 +2302,7 @@
 ||thefashiontrandhub.com^
 ||thefurniturestudio.store^
 ||thegoodguyssignup.com^
+||thehairiva.com^
 ||thehygienefree.top^
 ||theinvisibleaffiliate.com^
 ||theleolab.online^
@@ -2657,6 +2664,7 @@
 ||xdopig.com^
 ||xegukiy.shop^
 ||xfnwnw.com^
+||xilsen.com^
 ||ximqijiu.online^
 ||ximqiwu.online^
 ||xmbroker.click^
