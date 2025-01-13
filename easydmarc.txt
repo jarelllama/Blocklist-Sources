@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.130614.2025
+! Version: 01.13.133414.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 13:06:14 UTC 2025
+! Last modified: Mon Jan 13 13:34:14 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 264
+! Number of entries: 268
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
@@ -16,6 +16,7 @@
 ||accounts.google.com^
 ||accurx.nhs.uk^
 ||af-atm.com^
+||amo.to^
 ||amomama.es^
 ||amzn.in^
 ||amzn.to^
@@ -25,6 +26,7 @@
 ||auspost.2hnlsi.online^
 ||auspost.y8l51a.life^
 ||axbk.io^
+||ayyeooiy.com^
 ||b.iheart.southwest.com^
 ||bansos-tahap6.vercel.app^
 ||bb7722.net^
@@ -132,6 +134,7 @@
 ||link.advance-he.ac.uk^
 ||links.podia.com^
 ||linktr.ee^
+||lnkd.in^
 ||login-micorsoftonline.github.io^
 ||m-c7e21466.duosecurity.com^
 ||m.tneu.in^
@@ -240,6 +243,7 @@
 ||www.amazon.in^
 ||www.attemplate.com^
 ||www.attunedpolymerslab.com^
+||www.definitelynotascam.com^
 ||www.expressfinanceonline.com^
 ||www.facebook.com^
 ||www.fhmparts.com^
