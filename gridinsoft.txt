@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.213050.2025
+! Version: 01.13.220056.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 21:30:50 UTC 2025
+! Last modified: Mon Jan 13 22:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2797
+! Number of entries: 2799
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -398,6 +398,7 @@
 ||boodiecawquaw.top^
 ||bookmarkfc.info^
 ||boomerenginvestitionen.com^
+||boounti.com^
 ||bostakingu.com^
 ||boundary.metal.com^
 ||boutique.dispatche.com^
@@ -697,6 +698,7 @@
 ||daltonitsolutions.com^
 ||dappschainapp.com^
 ||dash.optimus.vip^
+||dash.probits.cc^
 ||dashboard.teneo.pro^
 ||datadexterity.online^
 ||datempire.com^
