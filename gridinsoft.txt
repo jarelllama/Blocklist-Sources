@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.183704.2025
+! Version: 01.13.190053.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 18:37:04 UTC 2025
+! Last modified: Mon Jan 13 19:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2780
+! Number of entries: 2784
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -213,6 +213,7 @@
 ||atlaspays.com^
 ||atomishine.com^
 ||atouchofgreenboutique.com^
+||atriumset.com^
 ||attriaction.com^
 ||atualcance.online^
 ||au24shop.com^
@@ -247,6 +248,7 @@
 ||baominpower.com^
 ||bar47menu.online^
 ||bargainxpressz.bet^
+||bartrustfund.com^
 ||base.fastbitl.cc^
 ||baseballdealusa.com^
 ||basedturbo.io^
@@ -831,6 +833,7 @@
 ||elixrium.online^
 ||ellamode.nl^
 ||elmoerc.com^
+||elonactivemarket.com^
 ||elonbet.com^
 ||elyaevents.com^
 ||elysiumvip.top^
@@ -2595,6 +2598,7 @@
 ||vintagewholesalesupplyltd.com^
 ||violate.igrq.online^
 ||vioratricot.com^
+||vipehelp.com^
 ||vitalpetlife.com^
 ||viviokko.com^
 ||vivivs.com^
