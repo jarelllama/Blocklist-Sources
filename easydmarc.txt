@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.024712.2025
+! Version: 01.13.030850.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 02:47:12 UTC 2025
+! Last modified: Mon Jan 13 03:08:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 231
+! Number of entries: 234
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
@@ -148,6 +148,7 @@
 ||promoofficial.com^
 ||quossa.com^
 ||rainbowservicecenter.com^
+||rdc-corporation.com^
 ||resellervoucher.com^
 ||restorecord.com^
 ||reurl.cc^
@@ -191,6 +192,7 @@
 ||tinyurl.com^
 ||toph.pages.dev^
 ||trendworldnews.com^
+||tspot.tecno.com^
 ||u10168449.ct.sendgrid.net^
 ||u4183812.ct.sendgrid.net^
 ||u48456474.ct.sendgrid.net^
@@ -203,6 +205,7 @@
 ||us06web.zoom.us^
 ||usps.com-tarjfxv.top^
 ||vicky-858435.thompson633.sbs^
+||vlogf.ams1.vultrobjects.com^
 ||vvww--roblox.com^
 ||wip463-cm.myshopify.com^
 ||wizehire.com^

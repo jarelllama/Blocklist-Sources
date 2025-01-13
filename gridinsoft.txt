@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.024710.2025
+! Version: 01.13.030849.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 02:47:10 UTC 2025
+! Last modified: Mon Jan 13 03:08:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2678
+! Number of entries: 2682
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -312,6 +312,7 @@
 ||bio.protocol.xyz^
 ||bioairdrop.com^
 ||bioanalysis.lt^
+||birkenstores.us^
 ||birtox.biz^
 ||bisalex.com^
 ||bit.binary.org^
@@ -1089,6 +1090,7 @@
 ||h5.bytesi.vip^
 ||h5.doieu.com^
 ||h5.koinexbit.com^
+||handfull.shop^
 ||hansen.oslo.com^
 ||harrislogisticsllc.com^
 ||harvestcommunityunion.com^
@@ -1131,6 +1133,7 @@
 ||horizoncapitals.org^
 ||horyx.shop^
 ||horze.it.top^
+||host.hotel.com^
 ||hotbtujeka.cc^
 ||hotbvamove.today^
 ||hotbveleki.cc^
@@ -1858,6 +1861,7 @@
 ||primemoverexpress.online^
 ||primeotp.com^
 ||primitivesystem.online^
+||pristinedrivecarcare.com^
 ||prizerebel.com^
 ||pro.cion.com^
 ||procim.online^
