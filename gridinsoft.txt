@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.120111.2025
+! Version: 01.13.124234.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 12:01:11 UTC 2025
+! Last modified: Mon Jan 13 12:42:34 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2744
+! Number of entries: 2749
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -393,6 +393,7 @@
 ||boomerenginvestitionen.com^
 ||bostakingu.com^
 ||boundary.metal.com^
+||boutique.dispatche.com^
 ||bowscalessales.com^
 ||bpee.top^
 ||bphash.top^
@@ -753,6 +754,7 @@
 ||dogepick.io^
 ||dogooddaldaadw.com^
 ||doiquant.com^
+||dolophin.com^
 ||domesticraws.com^
 ||dominatei.shop^
 ||dopehungary.hu.com^
@@ -770,6 +772,7 @@
 ||dresscorez.com^
 ||dressglowz.com^
 ||dripcenters.com^
+||driverpack.io^
 ||drivesafeinspects.com^
 ||drmartensnews.com^
 ||ds2play.com^
@@ -1565,6 +1568,7 @@
 ||miracleorganics.online^
 ||mirai123.online^
 ||missav.cam^
+||mitmine.com^
 ||mitoleyn.com^
 ||mixtsp.com^
 ||mjir.shop^
@@ -2730,6 +2734,7 @@
 ||zakds.info^
 ||zalurex.com^
 ||zapatillasespanaoutlet.org^
+||zbx.exchanges.com^
 ||zcode.system.online^
 ||zdigitalagencymt.cc^
 ||zeharris.online^

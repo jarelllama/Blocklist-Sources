@@ -3,17 +3,18 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.120113.2025
+! Version: 01.13.124236.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 12:01:13 UTC 2025
+! Last modified: Mon Jan 13 12:42:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 257
+! Number of entries: 264
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
 ||a.p.scrx.io^
 ||account.okcredit.in^
 ||accounts.google.com^
+||accurx.nhs.uk^
 ||af-atm.com^
 ||amomama.es^
 ||amzn.in^
@@ -120,6 +121,7 @@
 ||jcard50.ru^
 ||keno0.com^
 ||kib3e.app.link^
+||kingresearch.rpy.club^
 ||krs.microsoft.com^
 ||kupoan-2024-2025.drepv9.my.id^
 ||l.facebook.com^
@@ -145,6 +147,7 @@
 ||n9.cl^
 ||nam12.safelinks.protection.outlook.com^
 ||news.ferdescs.com^
+||njuskalo.in7832256.com^
 ||nobellstore.com^
 ||notifications.googleapis.com^
 ||nsfas.whoyou.co.za^
@@ -160,6 +163,7 @@
 ||prod-cdn.preprod.co-vin.in^
 ||profresh.vn^
 ||promoofficial.com^
+||qrcodes.pro^
 ||quossa.com^
 ||rainbowservicecenter.com^
 ||raoui.top^
@@ -203,6 +207,7 @@
 ||sukryqs.com^
 ||surveyheart.com^
 ||t18.iluv.southwest.com^
+||team2swift.zendesk.com^
 ||tepco.eaxxf.art^
 ||terabox.com^
 ||terriblestore.com^
@@ -226,6 +231,7 @@
 ||vicky-858435.thompson633.sbs^
 ||vlogf.ams1.vultrobjects.com^
 ||vvww--roblox.com^
+||wa.me^
 ||wip463-cm.myshopify.com^
 ||wizehire.com^
 ||workdrive.zoho.eu^
@@ -258,6 +264,7 @@
 ||www.swiggy.com^
 ||www.tataaig.com^
 ||www.tiktok.com^
+||www.ujerseyvip.com^
 ||www.ziprecruiter.com^
 ||www.zoblox.com^
 ||xhamster43.desi^
