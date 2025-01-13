@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.133413.2025
+! Version: 01.13.140100.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 13:34:13 UTC 2025
+! Last modified: Mon Jan 13 14:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2754
+! Number of entries: 2758
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -464,6 +464,7 @@
 ||capitalsprings.info^
 ||capitaltradestartlimited.com^
 ||capitalvisionaryfx.com^
+||captchaoutil.site^
 ||car.zhouznq.cn^
 ||cardmasparamiempresa.wuaze.com^
 ||careeredge.online^
@@ -486,6 +487,7 @@
 ||cbex18.com^
 ||cbex3.com^
 ||cbtfturbo99.com^
+||ccsnkrs.store^
 ||cdonnsauw.top^
 ||celebprize.com^
 ||celeharm.com^
@@ -1269,6 +1271,7 @@
 ||jamai.top^
 ||jaysranchhamden.online^
 ||jbei99.vip^
+||jerseyeugee.com^
 ||jetmarssofertas.online^
 ||jewelrygiftcenter.com^
 ||jewelrysgiftstore.com^
@@ -1728,6 +1731,7 @@
 ||ofertabook.online^
 ||ofertadomostruario.com^
 ||offersheres.net^
+||offresdespace24.com^
 ||oguiadossonhos15anos.online^
 ||ojrq.net^
 ||ok666.live^
