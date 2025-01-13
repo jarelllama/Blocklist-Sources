@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.033711.2025
+! Version: 01.13.040056.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 03:37:11 UTC 2025
+! Last modified: Mon Jan 13 04:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2688
+! Number of entries: 2694
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -396,6 +396,7 @@
 ||brandtrendp.com^
 ||breakmine.online^
 ||breathingottersca.com^
+||breyfe.com^
 ||briansclub.cm.shop^
 ||bridgeconnection.co.in^
 ||brieam.com^
@@ -1147,6 +1148,7 @@
 ||hotvxfs.shop^
 ||hoylitecandle.store^
 ||hozpetro.com^
+||hrbtpl.com^
 ||hrtai.vip^
 ||htadz.online^
 ||htg888.com^
@@ -1738,6 +1740,7 @@
 ||optnutritips.com^
 ||orange.co.uk^
 ||org.pay.9t03.cfd^
+||origencapitalltd.com^
 ||orionbitmarket.online^
 ||orourkeapp.com^
 ||orzenge.com^
@@ -1770,6 +1773,7 @@
 ||palliee.com^
 ||pallmetostasarmory.shop^
 ||palloda.com^
+||palmesale.shop^
 ||palmettostatearmoryam.store^
 ||palyzoo.online^
 ||pandapremium.wtf^
@@ -1842,6 +1846,7 @@
 ||playstation.stores.com^
 ||pledgeoffers.com^
 ||plmin.xyz^
+||pnees.com^
 ||pnusaa.com^
 ||pocketoption.bwgcompany.com^
 ||pocketoption.com^
@@ -2621,6 +2626,7 @@
 ||xai79a.com^
 ||xanarx.live^
 ||xapool.com^
+||xchallengers.com^
 ||xcyera.com^
 ||xdopig.com^
 ||xegukiy.shop^
