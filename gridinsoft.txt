@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.100109.2025
+! Version: 01.13.103516.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 10:01:09 UTC 2025
+! Last modified: Mon Jan 13 10:35:16 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2732
+! Number of entries: 2737
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -220,6 +220,7 @@
 ||auroracherie.com^
 ||auth.mashash.co^
 ||authenticreplicanotes.com^
+||authtracking.com^
 ||auto.downloads.com^
 ||automegaoption.com^
 ||autotracksolution.com^
@@ -834,6 +835,7 @@
 ||endeavourmarketing.global.vip^
 ||enegsseinvestmentteam.info^
 ||enerpinpellets.shop^
+||enerty.top^
 ||enhanceprotocol.co.in^
 ||eniqai.com^
 ||enjify.com^
@@ -1479,6 +1481,7 @@
 ||majoritemsboutique.shop^
 ||majorsavingsmall.shop^
 ||majulahfm.com^
+||makesurvey.online^
 ||makinfra.online^
 ||makitafr.com^
 ||mallmyacy.com^
@@ -1671,6 +1674,7 @@
 ||nft.babydoge.com^
 ||nft.fantasyapp.pages.dev^
 ||nftcolo.com^
+||nicedelicate.com^
 ||nicliquid.com^
 ||nicolcssubreville.shop^
 ||niffyhub.com^
@@ -2003,6 +2007,7 @@
 ||retrofxmarkets.com^
 ||reupsupplies.com^
 ||reventa.co^
+||reviewsrecipes.com^
 ||revoget.com^
 ||revvedsupply.com^
 ||reward.treasuredao.com^
