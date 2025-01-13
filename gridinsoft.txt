@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.180104.2025
+! Version: 01.13.183704.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 18:01:04 UTC 2025
+! Last modified: Mon Jan 13 18:37:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2776
+! Number of entries: 2780
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -423,6 +423,7 @@
 ||btcpaypartners.com^
 ||btcvipotc.com^
 ||btfxtraders.com^
+||bubblesbets.com^
 ||buble.com.cn^
 ||buddyenid.com^
 ||buenomarket.store^
@@ -985,6 +986,7 @@
 ||fogeque.shop^
 ||fokuskan.diri.shop^
 ||footballdisease.com^
+||footjoyeu.shop^
 ||footjoyofficial.com^
 ||footjoysale.shop^
 ||forbiddenpant.com^
@@ -1224,6 +1226,7 @@
 ||incart.co.za^
 ||inclutde.com^
 ||ind.888.site^
+||indiapostkz.vip^
 ||indojayapokeramp.xyz^
 ||indpeapract.cfd^
 ||infernoforge.store^
@@ -1319,6 +1322,7 @@
 ||jysk.online.com^
 ||jysk.sale.com^
 ||jyskhome.eu.com^
+||k.waymall.shop^
 ||kadobarvapesstore.com^
 ||kagevest.org^
 ||kalpwd.vip^

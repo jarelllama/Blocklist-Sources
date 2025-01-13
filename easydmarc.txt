@@ -3,14 +3,15 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.180105.2025
+! Version: 01.13.183705.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 18:01:05 UTC 2025
+! Last modified: Mon Jan 13 18:37:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 283
+! Number of entries: 287
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
+||7quente.xyz^
 ||8uyk0sctks0.typeform.com^
 ||a.p.scrx.io^
 ||account.okcredit.in^
@@ -119,6 +120,7 @@
 ||indoeoc-in.shop^
 ||indonesia-ecd.services^
 ||induseasycredit.indusind.com^
+||info.fromyour.email^
 ||interac.alllaw.store^
 ||intranet.flemingc.on.ca^
 ||iplogger.com^
@@ -155,6 +157,7 @@
 ||msqwatch.com^
 ||mvc.us11.list-manage.com^
 ||myaccount.e-zpassnyv.top^
+||mybpo.co.uk^
 ||n9.cl^
 ||nam12.safelinks.protection.outlook.com^
 ||news.ferdescs.com^
@@ -183,6 +186,7 @@
 ||rainbowservicecenter.com^
 ||raoui.top^
 ||rdc-corporation.com^
+||ref.az^
 ||resellervoucher.com^
 ||restorecord.com^
 ||reurl.cc^
