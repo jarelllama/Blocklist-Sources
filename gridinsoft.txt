@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.193053.2025
+! Version: 01.13.200100.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 19:30:53 UTC 2025
+! Last modified: Mon Jan 13 20:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2785
+! Number of entries: 2787
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -800,6 +800,7 @@
 ||dzan23.cn^
 ||eaglecrestonline.com^
 ||eaglepointx.org^
+||eagletrade.in^
 ||earncrash.in^
 ||earnscashmb.buzz^
 ||earnytbvideo.top^
@@ -1051,6 +1052,7 @@
 ||gdmining.site^
 ||gdqai.com^
 ||gel9.online^
+||gem.minelab.net^
 ||gemini.ai.net^
 ||general.xchange.pro^
 ||genesisminingbot.com^
