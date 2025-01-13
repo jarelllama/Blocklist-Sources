@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.223153.2025
+! Version: 01.13.230058.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 22:31:53 UTC 2025
+! Last modified: Mon Jan 13 23:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2807
+! Number of entries: 2813
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -24,12 +24,14 @@
 ||2040stage.online^
 ||244buildschile.com^
 ||24proleverage.com^
+||24x7defi.com^
 ||278.hnyuanoo.top^
 ||2llcc.vip^
 ||34k.site^
 ||3549urk.kipkeo.info^
 ||552059.com^
 ||552993.com^
+||55redefined.online^
 ||5movierulz.gay^
 ||63810.com^
 ||67phspin.vip^
@@ -39,10 +41,12 @@
 ||80.25.buu.com^
 ||80.25.pcs.com^
 ||82lottery9.in^
+||852web3.io^
 ||8xfilms.living^
 ||988359.com^
 ||9jwjegw.mmdlkx.info^
 ||9k9m.com^
+||9newsaitrading.info^
 ||9xmoviies.xyz^
 ||a1b2c4.shop^
 ||aattechnologies.net^
@@ -2333,6 +2337,7 @@
 ||synthealth.com^
 ||syuffxx.com^
 ||syuffxx.ee^
+||t.peer.com^
 ||t2.awagama2.org^
 ||tads.baker.co.za^
 ||takchu.com^
@@ -2747,6 +2752,7 @@
 ||xmbroker.click^
 ||xo123.cc^
 ||xo789.cc^
+||xordecisions.com^
 ||xpertlex.online^
 ||xpresswealthbnk.com^
 ||xrpofficial.reward.com^
