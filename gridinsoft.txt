@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.000153.2025
+! Version: 01.13.004532.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 00:01:53 UTC 2025
+! Last modified: Mon Jan 13 00:45:32 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2668
+! Number of entries: 2669
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -1110,6 +1110,7 @@
 ||hm.ru^
 ||hobokenheadshots.com^
 ||hollden.shop^
+||hollistercolombia.com.co^
 ||hollyholl.com^
 ||holonova.store^
 ||home.pl.60184f67bfd.henriquehulse.com.br^
