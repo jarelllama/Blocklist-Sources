@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.124234.2025
+! Version: 01.13.130613.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 12:42:34 UTC 2025
+! Last modified: Mon Jan 13 13:06:13 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2749
+! Number of entries: 2751
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -315,6 +315,7 @@
 ||bincoinlux.com^
 ||bine.mails.top^
 ||bingo.ba^
+||binjohn.com^
 ||bio.drop.com^
 ||bio.protocol.xyz^
 ||bioairdrop.com^
@@ -2661,6 +2662,7 @@
 ||womoke.com^
 ||woonr.top^
 ||workshop.forex.com^
+||world.dailyincome.com^
 ||world.delivery.service.com^
 ||worldofhurtonline.com^
 ||worstcase.online^
