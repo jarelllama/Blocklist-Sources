@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.220058.2025
+! Version: 01.13.223154.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 22:00:58 UTC 2025
+! Last modified: Mon Jan 13 22:31:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 301
+! Number of entries: 305
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
@@ -117,6 +117,7 @@
 ||i0k.cc^
 ||icici.co^
 ||idcom-pr.hdfcbank.com^
+||identity.kbxl.com^
 ||idfcfb.in^
 ||idilang.com^
 ||iflychat-files-v2.s3.amazonaws.com^
@@ -174,6 +175,7 @@
 ||notifications.googleapis.com^
 ||nsfas.whoyou.co.za^
 ||oag999.com^
+||onelink.shein.com^
 ||open.spotify.com^
 ||paket.ewgcwa.cyou^
 ||payoutdone.com^
@@ -184,6 +186,7 @@
 ||pkonuadian.com^
 ||play.google.com^
 ||prepo.slack.com^
+||pritchardpapers.sharefile.com^
 ||privatewealthsys.avanan.net^
 ||processing.network^
 ||prod-cdn.preprod.co-vin.in^
@@ -195,6 +198,7 @@
 ||rainbowservicecenter.com^
 ||raoui.top^
 ||rdc-corporation.com^
+||reelsave.app^
 ||ref.az^
 ||resellervoucher.com^
 ||restorecord.com^

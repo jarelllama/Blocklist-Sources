@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.220056.2025
+! Version: 01.13.223153.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 22:00:56 UTC 2025
+! Last modified: Mon Jan 13 22:31:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2799
+! Number of entries: 2807
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -2037,6 +2037,8 @@
 ||reddit.streams.online^
 ||redeemai.site^
 ||redgol.cl^
+||redomax.online^
+||redozen.online^
 ||reegwallet.store^
 ||reelshort.2025.com^
 ||ref2tron.top^
@@ -2048,6 +2050,7 @@
 ||relaymondial.net^
 ||reloadingstocks.com^
 ||renmsuq.shop^
+||renovix.online^
 ||renvoie.mondialrelay.com^
 ||reoe.shop^
 ||repaircontractors2us0507.online^
@@ -2060,6 +2063,7 @@
 ||reupsupplies.com^
 ||reventa.co^
 ||reviewsrecipes.com^
+||revnest.online^
 ||revoget.com^
 ||revvedsupply.com^
 ||reward.treasuredao.com^
@@ -2619,6 +2623,8 @@
 ||vivivs.com^
 ||vizivu.one^
 ||vntgvogue.com^
+||vnzvietnam08.online^
+||vnzvietnam10.online^
 ||vocabularye.com^
 ||vocationay.com^
 ||voguervault.co^
@@ -2638,6 +2644,7 @@
 ||vx88t.com^
 ||wagexera.com^
 ||wakestorage.com^
+||walletweave.online^
 ||wallstreetpepe.com^
 ||wananle.com^
 ||wardlushy.com^
@@ -2788,6 +2795,7 @@
 ||zcode.system.online^
 ||zdigitalagencymt.cc^
 ||zeharris.online^
+||zenhom.online^
 ||zerocodeblock.com^
 ||zesphyr.com^
 ||zetboom.com^
