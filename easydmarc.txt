@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.053332.2025
+! Version: 01.13.060110.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 05:33:32 UTC 2025
+! Last modified: Mon Jan 13 06:01:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 237
+! Number of entries: 241
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
@@ -35,6 +35,7 @@
 ||c.vialoops.com^
 ||cash-real.xyz^
 ||cathpchabot.com^
+||cavotecs-auth.es^
 ||cdn.discordapp.com^
 ||challenge.loopsupport.com^
 ||chat.whatsapp.com^
@@ -43,6 +44,7 @@
 ||clck.ru^
 ||click.pstmrk.it^
 ||cnc.jpmorgan.com^
+||cryztalzone.shop^
 ||cs2gameacademy.com^
 ||csmt.page.link^
 ||ctrk.klclick.com^
@@ -72,6 +74,7 @@
 ||ezdrivema.com-feesxo.top^
 ||faceit.cup158.com^
 ||feij.us^
+||femaxpipeworks.com^
 ||fiverr.ordersverification.com^
 ||flipkartz.dealxnew.shop^
 ||fondby.com^
@@ -88,6 +91,7 @@
 ||hsseworld.com^
 ||https--www-roblox.com^
 ||i0k.cc^
+||icici.co^
 ||idcom-pr.hdfcbank.com^
 ||idfcfb.in^
 ||idilang.com^
