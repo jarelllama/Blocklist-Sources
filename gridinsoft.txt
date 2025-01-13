@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.200100.2025
+! Version: 01.13.203153.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 20:01:00 UTC 2025
+! Last modified: Mon Jan 13 20:31:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2787
+! Number of entries: 2789
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -763,6 +763,7 @@
 ||dogee.vip^
 ||dogepick.io^
 ||dogooddaldaadw.com^
+||dogs.kim^
 ||doiquant.com^
 ||dolophin.com^
 ||domesticraws.com^
@@ -1062,6 +1063,7 @@
 ||getdrant.shop^
 ||getimage.online^
 ||getintopc.com^
+||getslimbrew.com^
 ||getsoothesmooth.com^
 ||gfgsdgkgk.com^
 ||gfslsecurities.cc^

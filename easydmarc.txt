@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.200101.2025
+! Version: 01.13.203154.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 20:01:01 UTC 2025
+! Last modified: Mon Jan 13 20:31:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 293
+! Number of entries: 296
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
@@ -223,6 +223,7 @@
 ||sio-store.com^
 ||skribbl.io^
 ||smart-ph.college^
+||smazae.pics^
 ||smleads.top^
 ||sreamconmymnltty.com^
 ||start.makesaveretire.com^
@@ -238,6 +239,7 @@
 ||tepco.eaxxf.art^
 ||terabox.com^
 ||terriblestore.com^
+||thetollroads.com-dw06.cfd^
 ||throne.com^
 ||tinyurl.com^
 ||toph.pages.dev^
@@ -294,6 +296,7 @@
 ||www.tataaig.com^
 ||www.tiktok.com^
 ||www.ujerseyvip.com^
+||www.vidmateapp.com^
 ||www.ziprecruiter.com^
 ||www.zoblox.com^
 ||xhamster43.desi^
