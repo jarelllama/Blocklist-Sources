@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.230059.2025
+! Version: 01.13.233049.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 23:00:59 UTC 2025
+! Last modified: Mon Jan 13 23:30:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 305
+! Number of entries: 306
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
@@ -128,6 +128,7 @@
 ||indonesia-ecd.services^
 ||induseasycredit.indusind.com^
 ||info.fromyour.email^
+||intelagreeb2c.b2clogin.com^
 ||interac.alllaw.store^
 ||interac.make698.world^
 ||intranet.flemingc.on.ca^
