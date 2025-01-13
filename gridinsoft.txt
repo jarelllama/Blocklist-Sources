@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.070057.2025
+! Version: 01.13.073108.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 07:00:57 UTC 2025
+! Last modified: Mon Jan 13 07:31:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2704
+! Number of entries: 2709
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -724,6 +724,7 @@
 ||directoryofus.online^
 ||directseville.shop^
 ||direktori.online^
+||disciplinen.com^
 ||discount.area.com^
 ||discountamzn.com^
 ||discounthero.org^
@@ -1341,6 +1342,7 @@
 ||ladysstreet.com^
 ||lamay.shop^
 ||landmark.online.workers.dev^
+||landscape.goalked.cfd^
 ||lap136.78e2.xyz^
 ||larkinashlandstylist.com^
 ||lasopaclan897.weebly.com^
@@ -1539,6 +1541,7 @@
 ||minibitcoin.xyz^
 ||minibuzzy.online^
 ||miningcompany.ltd^
+||mininvstplatform.com^
 ||mintooshop.com^
 ||miracleorganics.online^
 ||mirai123.online^
@@ -2367,7 +2370,9 @@
 ||trackqsu.top^
 ||tracy925digital.pro^
 ||tradeforger.online^
+||tradelinelite.com^
 ||tradetip.analysis.live^
+||tradewaves.org^
 ||tradiso.com^
 ||tradix.cc^
 ||traffictrack.online^
