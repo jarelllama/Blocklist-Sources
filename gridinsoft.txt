@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.093258.2025
+! Version: 01.13.100109.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 09:32:58 UTC 2025
+! Last modified: Mon Jan 13 10:01:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2728
+! Number of entries: 2732
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -167,6 +167,7 @@
 ||apnef.shop^
 ||apods1spain.com^
 ||apounes.com^
+||app.acuityscheduling.com^
 ||app.city2000.cc^
 ||app.lockswallet.net^
 ||app.olet8.com^
@@ -1349,6 +1350,7 @@
 ||lacefaves.com^
 ||lacostes.com.mx^
 ||ladysstreet.com^
+||lamaisondumaillot.com^
 ||lamay.shop^
 ||landmark.online.workers.dev^
 ||landscape.goalked.cfd^
@@ -1578,6 +1580,7 @@
 ||monofilsawali.top^
 ||moonflexmagement.com^
 ||moonlightmint.co^
+||moonmagic.com^
 ||moonwell.fl.xyz^
 ||mostirex.com^
 ||movenzo.com^
@@ -1941,6 +1944,7 @@
 ||qrefuishz.monster^
 ||qualityresells.shop^
 ||quantumdigitalmatket.com^
+||quantwise.ai^
 ||quarkaitrade.com^
 ||qubetics.com^
 ||quillpunt.online^
