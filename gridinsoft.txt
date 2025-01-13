@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.170113.2025
+! Version: 01.13.173243.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 17:01:13 UTC 2025
+! Last modified: Mon Jan 13 17:32:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2770
+! Number of entries: 2773
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -811,6 +811,7 @@
 ||ecovipshop.top^
 ||eddyconstructions.com^
 ||edekn.com^
+||edenhoj.com^
 ||edmxed66.com^
 ||eexevaudraikair.net^
 ||effuciaency.com^
@@ -864,6 +865,7 @@
 ||eosbit.com^
 ||epeweko.info^
 ||epoiu.com^
+||equallyto.com^
 ||equistak.com^
 ||ercdlp.com^
 ||ermsty.com^
@@ -1556,6 +1558,7 @@
 ||mexcgpt.com^
 ||mexcter.cc^
 ||mexicoour.com^
+||mexismath.web.app^
 ||mgdsbbd.com^
 ||mgiga2.com^
 ||michaelkorseu.shop^
