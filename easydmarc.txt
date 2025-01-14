@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.130426.2025
+! Version: 01.14.133214.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 13:04:26 UTC 2025
+! Last modified: Tue Jan 14 13:32:14 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 360
+! Number of entries: 365
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
@@ -184,7 +184,9 @@
 ||m.tneu.in^
 ||mail.google.com^
 ||map.ilocation-logs.com^
+||marketvirno.com^
 ||masaischool.com^
+||mcossviewing.com^
 ||me-qr.com^
 ||meet.google.com^
 ||misp.heroinsurance.com^
@@ -212,6 +214,7 @@
 ||payoutdone.com^
 ||paystack.shop^
 ||pb-updatet.top^
+||photospace.life^
 ||piedmont1-my.sharepoint.com^
 ||pixceldigital.com^
 ||pkonuadian.com^
@@ -233,6 +236,7 @@
 ||recruiters.notifierservice.com^
 ||reelsave.app^
 ||ref.az^
+||registration.qworldexpo.com^
 ||rekrutmenbumnterbaru.telejobss.com^
 ||resellervoucher.com^
 ||restorecord.com^
@@ -320,6 +324,7 @@
 ||vlogf.ams1.vultrobjects.com^
 ||vvww--roblox.com^
 ||wa.me^
+||wagestream.acemlnb.com^
 ||wetrisfer.pages.dev^
 ||wip463-cm.myshopify.com^
 ||wizehire.com^
