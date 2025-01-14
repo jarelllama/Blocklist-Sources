@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.053208.2025
+! Version: 01.14.060059.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 05:32:08 UTC 2025
+! Last modified: Tue Jan 14 06:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2876
+! Number of entries: 2882
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -343,6 +343,11 @@
 ||bil2n.cfd^
 ||bileerrero.shop^
 ||billabong.pl.com^
+||billboardapparel.store^
+||binance.web3.com.cn^
+||binance.web3.com.ru^
+||binancedefi.io^
+||binancetradings.org^
 ||binariumy.com^
 ||bincoinlux.com^
 ||bine.mails.top^
@@ -1182,6 +1187,7 @@
 ||guide.sante.space^
 ||gunluksevilenkampanyalarsizlerle.online^
 ||gusalio.com^
+||gymshark.outlet.shop^
 ||h5.amengine.top^
 ||h5.bytesi.vip^
 ||h5.doieu.com^
