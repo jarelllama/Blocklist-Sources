@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.015843.2025
+! Version: 01.14.022429.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 01:58:43 UTC 2025
+! Last modified: Tue Jan 14 02:24:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2843
+! Number of entries: 2850
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -504,6 +504,7 @@
 ||cassappcard.com^
 ||casvnm.com^
 ||catenarydojo.com^
+||catquarium.store^
 ||catx.bar^
 ||catzilla.meme^
 ||causehoodies.com^
@@ -831,6 +832,7 @@
 ||easelayer.co^
 ||easymintminer.com^
 ||easyrcashdae.buzz^
+||easyshort.fun^
 ||ebay.mall.net^
 ||eccoshoes.life^
 ||eclatlumiere.com^
@@ -1219,6 +1221,7 @@
 ||hotelvalues.com^
 ||hotspingames.top^
 ||hotvxfs.shop^
+||housescrappersllc.online^
 ||hoylitecandle.store^
 ||hozpetro.com^
 ||hrbtpl.com^
@@ -1790,6 +1793,7 @@
 ||offersheres.net^
 ||offresdespace24.com^
 ||oguiadossonhos15anos.online^
+||ohatia.online^
 ||ojrq.net^
 ||ok666.live^
 ||okjg13.icu^
@@ -1809,6 +1813,7 @@
 ||onefarm.pro^
 ||onerosey.com^
 ||onestopvalue44.info^
+||online.advertising.32335.bond^
 ||online.advertising.73412.bond^
 ||online.advertising.96909.bond^
 ||online.aktarmalar.hizmeti.store^
@@ -1825,6 +1830,7 @@
 ||onlineelectronics.store^
 ||onlinegalaxus.net^
 ||onlinematpilates.com^
+||onlinemostwanted.com^
 ||onlineotizmdanisma.com^
 ||onlineoverstock.cc^
 ||onlinesevafine.com^
@@ -2406,6 +2412,7 @@
 ||thenorthernlabs.com^
 ||theonlinejob.co.in^
 ||theoryar.com^
+||thepatriotpicks.store^
 ||thepillowsintovogue.com^
 ||thepiratebay.mobi^
 ||thepiratebay0.org^
