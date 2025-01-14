@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.124207.2025
+! Version: 01.14.130425.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 12:42:07 UTC 2025
+! Last modified: Tue Jan 14 13:04:25 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2935
+! Number of entries: 2938
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -785,6 +785,8 @@
 ||dainese.sale.shop^
 ||dalladesh.com^
 ||daltonitsolutions.com^
+||dapp.ens.domains^
+||dapp.radar.org^
 ||dappschainapp.com^
 ||dash.optimus.vip^
 ||dash.probits.cc^
@@ -1664,6 +1666,7 @@
 ||megatrendsplaza.shop^
 ||meindl.norge.com^
 ||meistrgold.com^
+||melbet.india.net^
 ||memoforce.net^
 ||memubit.com^
 ||menorul.com^
