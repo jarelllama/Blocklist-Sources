@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.040102.2025
+! Version: 01.14.043324.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 04:01:02 UTC 2025
+! Last modified: Tue Jan 14 04:33:24 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 319
+! Number of entries: 324
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
@@ -38,6 +38,7 @@
 ||bit.ly^
 ||bite.my.id^
 ||blakebruno.com^
+||bonjoviworldtour.online^
 ||bowersins-my.sharepoint.com^
 ||budehaven-my.sharepoint.com^
 ||buildlpad.com^
@@ -52,11 +53,13 @@
 ||challenge.loopsupport.com^
 ||chat.whatsapp.com^
 ||chng.it^
+||cimbcilkcs.top^
 ||cimbreswrdss.top^
 ||clck.ru^
 ||click.pstmrk.it^
 ||clickme.thryv.com^
 ||cnc.jpmorgan.com^
+||crypt.single-sign-on.password.land^
 ||cryztalzone.shop^
 ||cs2gameacademy.com^
 ||csmt.page.link^
@@ -243,6 +246,7 @@
 ||sio-store.com^
 ||skribbl.io^
 ||smart-ph.college^
+||smarterr.net^
 ||smazae.pics^
 ||smleads.top^
 ||sreamconmymnltty.com^
@@ -260,6 +264,7 @@
 ||tepco.eaxxf.art^
 ||terabox.com^
 ||terriblestore.com^
+||thescapegroup-my.sharepoint.com^
 ||thetollroads.com-43dq.cfd^
 ||thetollroads.com-dw06.cfd^
 ||throne.com^

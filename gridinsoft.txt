@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.040101.2025
+! Version: 01.14.043323.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 04:01:01 UTC 2025
+! Last modified: Tue Jan 14 04:33:23 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2866
+! Number of entries: 2869
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -39,6 +39,7 @@
 ||55redefined.online^
 ||5movierulz.gay^
 ||63810.com^
+||65cryptoleo3933.com^
 ||67phspin.vip^
 ||777color87.com^
 ||7k.casino.16.online^
@@ -100,6 +101,7 @@
 ||aicryptotradings.com^
 ||aietftoken.com^
 ||aiignedfoundation.genesis.com^
+||aiinvesttron.com^
 ||ainology.com^
 ||airbagtravel.store^
 ||airdrop.flock.com^
@@ -370,6 +372,7 @@
 ||bithub.bot^
 ||bitly.net^
 ||bitmamining.com^
+||bitmartvipp.com^
 ||bitpaymentstore.com^
 ||bitprogain.com^
 ||bitronce.com^
