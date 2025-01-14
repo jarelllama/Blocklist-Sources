@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.110053.2025
+! Version: 01.14.113056.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 11:00:53 UTC 2025
+! Last modified: Tue Jan 14 11:30:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 348
+! Number of entries: 353
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
@@ -196,6 +196,7 @@
 ||na4.docusign.net^
 ||nam12.safelinks.protection.outlook.com^
 ||news.ferdescs.com^
+||newyearjobs.us^
 ||njuskalo.in7832256.com^
 ||nobellstore.com^
 ||notifications.googleapis.com^
@@ -295,6 +296,7 @@
 ||tspot.tecno.com^
 ||u10168449.ct.sendgrid.net^
 ||u4183812.ct.sendgrid.net^
+||u45048904.ct.sendgrid.net^
 ||u48456474.ct.sendgrid.net^
 ||u7838820.ct.sendgrid.net^
 ||u8410123.ct.sendgrid.net^
@@ -312,6 +314,7 @@
 ||vlogf.ams1.vultrobjects.com^
 ||vvww--roblox.com^
 ||wa.me^
+||wetrisfer.pages.dev^
 ||wip463-cm.myshopify.com^
 ||wizehire.com^
 ||workdrive.zoho.eu^
@@ -338,10 +341,12 @@
 ||www.membershipvtex.com^
 ||www.nagem.com.br^
 ||www.oneric.xyz^
+||www.profitablecpmrate.com^
 ||www.r.oblox.com.co^
 ||www.r.oblox.com.kz^
 ||www.r.oblox.com.ng^
 ||www.roblox.com^
+||www.sellection-my.online^
 ||www.sihub.in^
 ||www.surveymonkey.com^
 ||www.swiggy.com^
