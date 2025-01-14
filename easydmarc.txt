@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.080100.2025
+! Version: 01.14.083406.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 08:01:00 UTC 2025
+! Last modified: Tue Jan 14 08:34:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 334
+! Number of entries: 341
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
@@ -78,18 +78,21 @@
 ||directtomodel.joinprivateroom.com^
 ||discord.gg^
 ||djs5qc04.eu1.hs-sales-engage.com^
+||dmzw6lurug.feishu.cn^
 ||docs.google.com^
 ||donate.wfp.org^
 ||drive.google.com^
 ||dsc.gg^
 ||duostoresa.com^
 ||e-interac-13261402.id1364837.com^
+||earn.39sdb.top^
 ||elsinta.el.itera.ac.id^
 ||emea01.safelinks.protection.outlook.com^
 ||empoweredmanhealth.online^
 ||erickson-crosby.carroal.my^
 ||eu.bbcollab.com^
 ||eu.docusign.net^
+||eu01.z.antigena.com^
 ||eulink.smartrecruiters.com^
 ||eupanel.org^
 ||eur02.safelinks.protection.outlook.com^
@@ -107,6 +110,7 @@
 ||flipkartz.dealxnew.shop^
 ||fondby.com^
 ||forms.gle^
+||forms.office.com^
 ||free-gifts.website^
 ||freecash.com^
 ||freefunhere.com^
@@ -132,6 +136,7 @@
 ||iflychat-files-v2.s3.amazonaws.com^
 ||ik0323.com^
 ||ilang.in^
+||imgur.com^
 ||imm.salduu.com^
 ||indoeoc-in.shop^
 ||indonesia-ecd.services^
@@ -170,6 +175,7 @@
 ||m.tneu.in^
 ||mail.google.com^
 ||map.ilocation-logs.com^
+||masaischool.com^
 ||me-qr.com^
 ||meet.google.com^
 ||misp.heroinsurance.com^
@@ -216,6 +222,7 @@
 ||recruiters.notifierservice.com^
 ||reelsave.app^
 ||ref.az^
+||rekrutmenbumnterbaru.telejobss.com^
 ||resellervoucher.com^
 ||restorecord.com^
 ||reurl.cc^
