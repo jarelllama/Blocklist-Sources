@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.033208.2025
+! Version: 01.14.040101.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 03:32:08 UTC 2025
+! Last modified: Tue Jan 14 04:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2863
+! Number of entries: 2866
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -19,10 +19,12 @@
 ||1worldtraining.com^
 ||1wqydy.top^
 ||1xbet.com^
+||1xbetindapp.com^
 ||2023brl.online^
 ||2025qf.com^
 ||2040stage.online^
 ||244buildschile.com^
+||247cryptotrade.net^
 ||24proleverage.com^
 ||24x7defi.com^
 ||278.hnyuanoo.top^
@@ -1691,6 +1693,7 @@
 ||my.commbank.com.au^
 ||my.deco.shop.com^
 ||my.fxmt.tech^
+||mydesi2.net^
 ||myetherwzallet.com^
 ||myg01d.com^
 ||mygardenhelper.online^
