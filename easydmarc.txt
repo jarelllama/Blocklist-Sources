@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.173129.2025
+! Version: 01.14.180100.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 17:31:29 UTC 2025
+! Last modified: Tue Jan 14 18:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 374
+! Number of entries: 378
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
@@ -83,6 +83,7 @@
 ||dhl.plushy.cfd^
 ||did.li^
 ||directtomodel.joinprivateroom.com^
+||discord.com^
 ||discord.gg^
 ||djs5qc04.eu1.hs-sales-engage.com^
 ||dmzw6lurug.feishu.cn^
@@ -197,6 +198,7 @@
 ||mcossviewing.com^
 ||me-qr.com^
 ||meet.google.com^
+||mindstyleworld.acemlnb.com^
 ||misp.heroinsurance.com^
 ||missionblaze.com^
 ||modijiurl.com^
@@ -271,6 +273,7 @@
 ||service-centrelink.click^
 ||servicesaustraliacareers.nga.net.au^
 ||share.hsforms.com^
+||share.wisestep.com^
 ||shelterrockchurch.churchcenter.com^
 ||shipping.id62902.world^
 ||shorter.gg^
@@ -344,6 +347,7 @@
 ||www.amazon.in^
 ||www.attemplate.com^
 ||www.attunedpolymerslab.com^
+||www.behance.net^
 ||www.definitelynotascam.com^
 ||www.expressfinanceonline.com^
 ||www.facebook.com^
