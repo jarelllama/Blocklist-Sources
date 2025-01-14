@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.233049.2025
+! Version: 01.14.004510.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 23:30:49 UTC 2025
+! Last modified: Tue Jan 14 00:45:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 306
+! Number of entries: 310
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
@@ -73,6 +73,7 @@
 ||did.li^
 ||directtomodel.joinprivateroom.com^
 ||discord.gg^
+||djs5qc04.eu1.hs-sales-engage.com^
 ||docs.google.com^
 ||donate.wfp.org^
 ||drive.google.com^
@@ -106,6 +107,7 @@
 ||freefunhere.com^
 ||gds.google.com^
 ||go.air-pay.co.uk^
+||gofile.io^
 ||golden-show1.com^
 ||goo.gl^
 ||goviral.growthtools.com^
@@ -128,6 +130,7 @@
 ||indonesia-ecd.services^
 ||induseasycredit.indusind.com^
 ||info.fromyour.email^
+||intel.arkm.com^
 ||intelagreeb2c.b2clogin.com^
 ||interac.alllaw.store^
 ||interac.make698.world^
@@ -237,6 +240,7 @@
 ||sreamconmymnltty.com^
 ||start.makesaveretire.com^
 ||steam.communitysourcedev.com^
+||steam.usercommunityarts.com^
 ||steamcommunity.com^
 ||steamcomnnunity.com^
 ||steampowered.nextplaytest.com^

@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.13.233048.2025
+! Version: 01.14.004509.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 13 23:30:48 UTC 2025
+! Last modified: Tue Jan 14 00:45:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2822
+! Number of entries: 2829
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -26,6 +26,7 @@
 ||24proleverage.com^
 ||24x7defi.com^
 ||278.hnyuanoo.top^
+||27design.online^
 ||2llcc.vip^
 ||34k.site^
 ||3549urk.kipkeo.info^
@@ -183,6 +184,7 @@
 ||app.lockswallet.net^
 ||app.olet8.com^
 ||appanalytics.online^
+||appj.online^
 ||apps.aremining.app^
 ||aprontify.de^
 ||ar68bc2h0d78l4saqd0.heldit.shop^
@@ -356,6 +358,7 @@
 ||bitcoinx.app.com^
 ||bitconemine.com^
 ||bitdolphx.com^
+||bitfnx.com^
 ||bitfufu.com^
 ||bitget.cloud^
 ||bitharvest.io^
@@ -433,6 +436,7 @@
 ||brutus.xyz^
 ||bsbjnlzdq.org^
 ||bsdgyfv.shop^
+||bt.masterskaya.online^
 ||btc913.com^
 ||btc933.com^
 ||btceex.com^
@@ -469,6 +473,7 @@
 ||byproaip.com^
 ||c6s.net^
 ||cadogoa.shop^
+||cafeciro.in^
 ||cambridgeai.vip^
 ||camelmining.com^
 ||caminoverdadyvida.online^
@@ -990,6 +995,7 @@
 ||flashbtc.rf.gd^
 ||flashremitt.com^
 ||flashusdt.shop^
+||flashxu.com^
 ||flawflessas.com^
 ||flexjobhubs.com^
 ||flexswiftways.online^
@@ -2131,6 +2137,7 @@
 ||samsonitedeals.com^
 ||samsoniteoutlets.com^
 ||san.stores.com^
+||sangdot.online^
 ||saobentofaculdade.online^
 ||saotex.com^
 ||saoxdex.com^
