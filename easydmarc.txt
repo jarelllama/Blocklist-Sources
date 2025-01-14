@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.203122.2025
+! Version: 01.14.210056.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 20:31:22 UTC 2025
+! Last modified: Tue Jan 14 21:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 389
+! Number of entries: 393
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
@@ -171,6 +171,7 @@
 ||ireland.api.tryhavana.com^
 ||is.gd^
 ||iugubd.com^
+||iwco.acemlna.com^
 ||iwyvwnn.uafcwh28.my.id^
 ||j4ye3.nechg.top^
 ||jcard50.ru^
@@ -229,6 +230,7 @@
 ||onelink.shein.com^
 ||open.spotify.com^
 ||paket.ewgcwa.cyou^
+||payhip.com^
 ||payoutdone.com^
 ||paypal.fr-dashboardng.me^
 ||paystack.shop^
@@ -269,6 +271,7 @@
 ||ropro.io^
 ||ruggable.pscrpt.io^
 ||rv2.io^
+||s.sg.booking.com^
 ||s63.43tl08.life^
 ||salat.pw^
 ||scotiabank.us2.list-manage.com^
@@ -316,6 +319,7 @@
 ||terabox.com^
 ||terriblestore.com^
 ||thescapegroup-my.sharepoint.com^
+||thetollroads.com-3yxe.sbs^
 ||thetollroads.com-43dq.cfd^
 ||thetollroads.com-7lkz.sbs^
 ||thetollroads.com-dw06.cfd^
