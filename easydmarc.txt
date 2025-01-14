@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.140101.2025
+! Version: 01.14.143303.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 14:01:01 UTC 2025
+! Last modified: Tue Jan 14 14:33:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 365
+! Number of entries: 369
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
@@ -53,6 +53,7 @@
 ||cash-real.xyz^
 ||cathpchabot.com^
 ||cavotecs-auth.es^
+||cbtnews.emlnk9.com^
 ||cdn.discordapp.com^
 ||challenge.loopsupport.com^
 ||chat.whatsapp.com^
@@ -144,6 +145,7 @@
 ||iis.re^
 ||ik0323.com^
 ||ilang.in^
+||img-9gag-fun.9cache.com^
 ||imgur.com^
 ||imm.salduu.com^
 ||indoeoc-in.shop^
@@ -183,6 +185,7 @@
 ||m-c7e21466.duosecurity.com^
 ||m.tneu.in^
 ||mail.google.com^
+||mandrillapp.com^
 ||map.ilocation-logs.com^
 ||marketvirno.com^
 ||masaischool.com^
@@ -212,6 +215,7 @@
 ||open.spotify.com^
 ||paket.ewgcwa.cyou^
 ||payoutdone.com^
+||paypal.fr-dashboardng.me^
 ||paystack.shop^
 ||pb-updatet.top^
 ||photospace.life^
