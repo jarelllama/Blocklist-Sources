@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.030058.2025
+! Version: 01.14.033208.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 03:00:58 UTC 2025
+! Last modified: Tue Jan 14 03:32:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2858
+! Number of entries: 2863
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -28,8 +28,10 @@
 ||278.hnyuanoo.top^
 ||27design.online^
 ||2llcc.vip^
+||2mbet.link^
 ||34k.site^
 ||3549urk.kipkeo.info^
+||365bitcoinminer.com^
 ||552059.com^
 ||552993.com^
 ||55redefined.online^
@@ -415,6 +417,7 @@
 ||boomerenginvestitionen.com^
 ||boounti.com^
 ||bostakingu.com^
+||bot.merisprivate.net^
 ||boundary.metal.com^
 ||boutique.dispatche.com^
 ||bowscalessales.com^
@@ -449,6 +452,7 @@
 ||bubblesbets.com^
 ||buble.com.cn^
 ||buddyenid.com^
+||bueenotgay.duckdns.org^
 ||buenomarket.store^
 ||buff.163cd.com^
 ||buffboycrops.com^
@@ -1041,6 +1045,7 @@
 ||freebitco.in^
 ||freebnbgo.com^
 ||freebnbgo.net^
+||freedogecoinmining.com^
 ||freesamplesprousa.com^
 ||freestar.buzz^
 ||frienditeglobal.online^
