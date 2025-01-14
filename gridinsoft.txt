@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.004509.2025
+! Version: 01.14.012739.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 00:45:09 UTC 2025
+! Last modified: Tue Jan 14 01:27:39 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2829
+! Number of entries: 2835
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -854,6 +854,7 @@
 ||eliteclonecards.com^
 ||eliteminingresource.org^
 ||elitevac.uk^
+||elitezone.online^
 ||elixrium.online^
 ||ellamode.nl^
 ||elmoerc.com^
@@ -1040,6 +1041,7 @@
 ||freestar.buzz^
 ||frienditeglobal.online^
 ||frontbulletin.com^
+||frugalflix.com^
 ||fruit777.tech^
 ||frutopy.com^
 ||ftx.global.site^
@@ -1272,6 +1274,7 @@
 ||inspirecollege.co.uk^
 ||inspirighty.com^
 ||install.protected.net^
+||intcyberlaw.com^
 ||intelligiencehub.com^
 ||inter.entregas.online^
 ||interactive.pov.com^
@@ -2207,6 +2210,7 @@
 ||shopwithpulse.store^
 ||shorturl.at^
 ||shotzon.com^
+||sicmundus.online^
 ||signalarchitects.cloud^
 ||silegx.org^
 ||silentun.com^
@@ -2761,6 +2765,7 @@
 ||xcyera.com^
 ||xdopig.com^
 ||xegukiy.shop^
+||xfnity.id8743.info^
 ||xfnwnw.com^
 ||xilsen.com^
 ||ximqijiu.online^
@@ -2802,6 +2807,7 @@
 ||yozabit.com^
 ||yronene.com^
 ||ysafei.vip^
+||yts.skin^
 ||yunpso.com^
 ||yupoo.vip^
 ||ywj.yuwujie.us.kg^
