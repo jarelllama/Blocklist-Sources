@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.193047.2025
+! Version: 01.14.200110.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 19:30:47 UTC 2025
+! Last modified: Tue Jan 14 20:01:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 383
+! Number of entries: 389
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
@@ -38,6 +38,7 @@
 ||axbk.io^
 ||ayyeooiy.com^
 ||b.iheart.southwest.com^
+||bandainamcoent.access-elden-ring-nightreign.com^
 ||bansos-tahap6.vercel.app^
 ||bb7722.net^
 ||bit.ly^
@@ -177,6 +178,7 @@
 ||keno0.com^
 ||kib3e.app.link^
 ||kingresearch.rpy.club^
+||knowledgeprovider.z.com^
 ||knvl.me^
 ||krs.microsoft.com^
 ||kupoan-2024-2025.drepv9.my.id^
@@ -193,6 +195,7 @@
 ||login-micorsoftonline.github.io^
 ||m-c7e21466.duosecurity.com^
 ||m.tneu.in^
+||macktoolengineering-my.sharepoint.com^
 ||mail.google.com^
 ||mandrillapp.com^
 ||map.ilocation-logs.com^
@@ -217,6 +220,7 @@
 ||nam12.safelinks.protection.outlook.com^
 ||news.ferdescs.com^
 ||newyearjobs.us^
+||ney11.com^
 ||njuskalo.in7832256.com^
 ||nobellstore.com^
 ||notifications.googleapis.com^
@@ -231,6 +235,7 @@
 ||pb-updatet.top^
 ||photospace.life^
 ||piedmont1-my.sharepoint.com^
+||piwalletswap.com^
 ||pixceldigital.com^
 ||pkonuadian.com^
 ||play.google.com^
@@ -287,6 +292,7 @@
 ||shrt.pt^
 ||simplysign.ai^
 ||sio-store.com^
+||skinport.com.kz^
 ||skribbl.io^
 ||smart-ph.college^
 ||smarterr.net^
