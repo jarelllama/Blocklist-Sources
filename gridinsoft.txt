@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.022429.2025
+! Version: 01.14.024231.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 02:24:29 UTC 2025
+! Last modified: Tue Jan 14 02:42:31 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2850
+! Number of entries: 2858
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -202,6 +202,7 @@
 ||ark888.vip^
 ||arkacoin.com^
 ||arldeemix.com^
+||armadaclothing.online^
 ||armani.ai.com^
 ||arnavix.online^
 ||ars88safe.online^
@@ -1372,6 +1373,7 @@
 ||kedaivgg.online^
 ||keencn.com^
 ||kefu.swapbit.top^
+||keren138.vip.online^
 ||kesan888.com^
 ||kesngg.com^
 ||kesngl.com^
@@ -1676,6 +1678,7 @@
 ||multiverse.retifications.netlify.app^
 ||mundoonline.link^
 ||music8.online^
+||muskratmarinesstingeras.pro^
 ||muvtea.com^
 ||mvknnd.online^
 ||mvrglobal.online^
@@ -1791,6 +1794,7 @@
 ||ofertabook.online^
 ||ofertadomostruario.com^
 ||offersheres.net^
+||officedesk.commercialdeals.online^
 ||offresdespace24.com^
 ||oguiadossonhos15anos.online^
 ||ohatia.online^
@@ -1813,6 +1817,7 @@
 ||onefarm.pro^
 ||onerosey.com^
 ||onestopvalue44.info^
+||online.advertising.23037.bond^
 ||online.advertising.32335.bond^
 ||online.advertising.73412.bond^
 ||online.advertising.96909.bond^
@@ -1827,6 +1832,7 @@
 ||online.juctice.com^
 ||online.marketing.degree.901935125.zone^
 ||onlinebettingidprovider.co.in^
+||onlinecoachingacademy.net^
 ||onlineelectronics.store^
 ||onlinegalaxus.net^
 ||onlinematpilates.com^
@@ -2105,6 +2111,7 @@
 ||rewmplkkf.beauty^
 ||rexas.com^
 ||rightgist.com^
+||riskcomplianceportfolio134043.online^
 ||ritoudown.com^
 ||robertslogisticsenterprise.com^
 ||robin.joy.com^
@@ -2655,6 +2662,7 @@
 ||violate.igrq.online^
 ||vioratricot.com^
 ||vipehelp.com^
+||viralityshop.online^
 ||vircloth.com^
 ||vitalpetlife.com^
 ||viviokko.com^
