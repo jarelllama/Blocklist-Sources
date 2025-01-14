@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.070058.2025
+! Version: 01.14.073054.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 07:00:58 UTC 2025
+! Last modified: Tue Jan 14 07:30:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2898
+! Number of entries: 2903
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -396,6 +396,7 @@
 ||bitgetnow.com^
 ||bitgetone.me^
 ||bitgetpool.vip^
+||bitgetzone.top^
 ||bitharvest.io^
 ||bithub.bot^
 ||bitly.net^
@@ -410,8 +411,12 @@
 ||bitunix.com^
 ||bitusdt.biz^
 ||bitvipenuss.com^
+||bitwin.exchange^
+||bitxglobal.exchange^
 ||bitzealy.com^
 ||bitzoy.com^
+||bixcointrading.com^
+||bjcryptos.com^
 ||bjfdyh.com^
 ||bkcryptotrade.com^
 ||blackfridaywholesale.ru^
