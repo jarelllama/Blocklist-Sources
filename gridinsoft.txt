@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.050054.2025
+! Version: 01.14.053208.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 05:00:54 UTC 2025
+! Last modified: Tue Jan 14 05:32:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2871
+! Number of entries: 2876
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -234,6 +234,7 @@
 ||atb14.com^
 ||atb15.com^
 ||atlaspays.com^
+||atomicwalletdapp.com^
 ||atomishine.com^
 ||atouchofgreenboutique.com^
 ||atriumset.com^
@@ -241,10 +242,14 @@
 ||atualcance.online^
 ||au24shop.com^
 ||aubuds.com^
+||aukweb3.com^
+||auraexchangehub.com^
 ||auroracherie.com^
+||australiansafesttradingbot.online^
 ||auth.mashash.co^
 ||authenticreplicanotes.com^
 ||authtracking.com^
+||authwalletsolutionetherdapp.app^
 ||auto.downloads.com^
 ||automegaoption.com^
 ||autotracksolution.com^
