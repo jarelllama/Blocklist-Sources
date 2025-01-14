@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.120103.2025
+! Version: 01.14.124209.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 12:01:03 UTC 2025
+! Last modified: Tue Jan 14 12:42:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 353
+! Number of entries: 360
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
@@ -15,6 +15,7 @@
 ||7quente.xyz^
 ||8uyk0sctks0.typeform.com^
 ||a.p.scrx.io^
+||a1-memberidatsrvcapp.kupu.desa.id^
 ||account.okcredit.in^
 ||accounts.google.com^
 ||accurx.nhs.uk^
@@ -25,6 +26,7 @@
 ||amzn.in^
 ||amzn.to^
 ||answers.microsoft.com^
+||api-daa.xtremepush.com^
 ||api.icodrops.com^
 ||app.jotform.com^
 ||app.mailinblack.com^
@@ -98,6 +100,7 @@
 ||eulink.smartrecruiters.com^
 ||eupanel.org^
 ||eur02.safelinks.protection.outlook.com^
+||eur03.safelinks.protection.outlook.com^
 ||ez-drivemea.top^
 ||ezdrive.com-gujy.top^
 ||ezdrivema.com-customeqwl.top^
@@ -163,6 +166,7 @@
 ||keno0.com^
 ||kib3e.app.link^
 ||kingresearch.rpy.club^
+||knvl.me^
 ||krs.microsoft.com^
 ||kupoan-2024-2025.drepv9.my.id^
 ||l.facebook.com^
@@ -268,6 +272,7 @@
 ||smarterr.net^
 ||smazae.pics^
 ||smleads.top^
+||snapchat.com^
 ||sreamconmymnltty.com^
 ||start.makesaveretire.com^
 ||steam.communitysourcedev.com^
@@ -303,6 +308,7 @@
 ||ubah-jasakirim.my.id^
 ||unlocktoearn.com^
 ||upfiles.download^
+||url.uk.m.mimecastprotect.com^
 ||urldefense.proofpoint.com^
 ||urly.fi^
 ||us.services.docusign.net^
@@ -318,6 +324,7 @@
 ||wip463-cm.myshopify.com^
 ||wizehire.com^
 ||workdrive.zoho.eu^
+||workdrive.zohopublic.com^
 ||www.589231686.shop^
 ||www.amazon.com^
 ||www.amazon.in^
