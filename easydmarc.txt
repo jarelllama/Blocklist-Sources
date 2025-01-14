@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.100105.2025
+! Version: 01.14.103358.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 10:01:05 UTC 2025
+! Last modified: Tue Jan 14 10:33:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 344
+! Number of entries: 348
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
@@ -25,6 +25,7 @@
 ||amzn.in^
 ||amzn.to^
 ||answers.microsoft.com^
+||api.icodrops.com^
 ||app.jotform.com^
 ||app.mailinblack.com^
 ||appempireio.com^
@@ -115,6 +116,7 @@
 ||free-gifts.website^
 ||freecash.com^
 ||freefunhere.com^
+||freenote.biz^
 ||gds.google.com^
 ||gifft.me^
 ||go.air-pay.co.uk^
@@ -136,6 +138,7 @@
 ||idfcfb.in^
 ||idilang.com^
 ||iflychat-files-v2.s3.amazonaws.com^
+||iis.re^
 ||ik0323.com^
 ||ilang.in^
 ||imgur.com^
@@ -300,6 +303,7 @@
 ||upfiles.download^
 ||urldefense.proofpoint.com^
 ||urly.fi^
+||us.services.docusign.net^
 ||us02web.zoom.us^
 ||us06web.zoom.us^
 ||usps.com-tarjfxv.top^
