@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.012739.2025
+! Version: 01.14.015843.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 01:27:39 UTC 2025
+! Last modified: Tue Jan 14 01:58:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2835
+! Number of entries: 2843
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -853,6 +853,7 @@
 ||elitecapitalmarket.com^
 ||eliteclonecards.com^
 ||eliteminingresource.org^
+||eliteshoponline.com^
 ||elitevac.uk^
 ||elitezone.online^
 ||elixrium.online^
@@ -1283,6 +1284,7 @@
 ||invitrofertilizationtreatment001.online^
 ||ioctrust.com^
 ||ioicity.mall.top^
+||iomoio.com^
 ||ionmining.com^
 ||ip.hz.com^
 ||ipctd.online^
@@ -1756,6 +1758,7 @@
 ||nodepay.ai^
 ||nodess.pages.dev^
 ||nomisite8.online^
+||nordic.finanx.com^
 ||nordyen.de^
 ||nordyen.nl^
 ||nordyen.no.com^
@@ -2403,12 +2406,14 @@
 ||thenorthernlabs.com^
 ||theonlinejob.co.in^
 ||theoryar.com^
+||thepillowsintovogue.com^
 ||thepiratebay.mobi^
 ||thepiratebay0.org^
 ||thespotifypremiumapk.com^
 ||thestockstandout.com^
 ||thestylefoundrycle.store^
 ||thetaus.top^
+||thethaonhanphat.com^
 ||thetodayhealth.xyz^
 ||thetradehub.net^
 ||thgworldwide.com^
@@ -2488,6 +2493,7 @@
 ||tradix.cc^
 ||traffictrack.online^
 ||trahia.com^
+||traihomphuoctaitho.com^
 ||trantbitf.astpro.top^
 ||trantnguyentech.store^
 ||trbowtie.shop^
@@ -2779,6 +2785,7 @@
 ||xrpofficial.reward.com^
 ||xsdvdeal.store^
 ||xtb.com^
+||xtraexcharge.com^
 ||xtremediscount.net^
 ||xtremeiptv.online^
 ||xvkdfashion.shop^
@@ -2836,6 +2843,7 @@
 ||zks7.com^
 ||zlibrary.to^
 ||zoodel.online^
+||zoria.click^
 ||zorunex.com^
 ||ztudim.work.top^
 ||ztxzhb.shop^
