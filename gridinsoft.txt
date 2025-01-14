@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.183526.2025
+! Version: 01.14.190109.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 18:35:26 UTC 2025
+! Last modified: Tue Jan 14 19:01:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2980
+! Number of entries: 2984
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -1481,6 +1481,7 @@
 ||kalpwd.vip^
 ||kapten178.com^
 ||karavvan.com^
+||kavvaweb3.netlify.app^
 ||kcexai.com^
 ||kedaivgg.online^
 ||keencn.com^
@@ -1490,7 +1491,9 @@
 ||kesngg.com^
 ||kesngl.com^
 ||key.wrld.com^
+||kfcweb3.com^
 ||kg11india.online^
+||kgmuopdappointment.online^
 ||khipp.com^
 ||kickscrew.com^
 ||kijl.online^
@@ -1501,6 +1504,7 @@
 ||kishka.co^
 ||kissminis.com^
 ||kisuort.shop^
+||kiterexchangez.click^
 ||kittycomfortstore.com^
 ||kixaikisuccessful.net^
 ||kkminer.top^

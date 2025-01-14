@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.183527.2025
+! Version: 01.14.190110.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 18:35:27 UTC 2025
+! Last modified: Tue Jan 14 19:01:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 378
+! Number of entries: 383
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
@@ -31,6 +31,7 @@
 ||app.jotform.com^
 ||app.mailinblack.com^
 ||appempireio.com^
+||aramex.u-deals.run^
 ||aurealone.com^
 ||auspost.2hnlsi.online^
 ||auspost.y8l51a.life^
@@ -137,6 +138,7 @@
 ||harderjuniormisty.com^
 ||hdfcbk.io^
 ||hegetye.info^
+||hitdragonapp.monster^
 ||hooponoponododia.com^
 ||hosting.international^
 ||hsseworld.com^
@@ -171,6 +173,7 @@
 ||iwyvwnn.uafcwh28.my.id^
 ||j4ye3.nechg.top^
 ||jcard50.ru^
+||journals.bilpubgroup.com^
 ||keno0.com^
 ||kib3e.app.link^
 ||kingresearch.rpy.club^
@@ -210,6 +213,7 @@
 ||n9.cl^
 ||na01.safelinks.protection.outlook.com^
 ||na4.docusign.net^
+||nam10.safelinks.protection.outlook.com^
 ||nam12.safelinks.protection.outlook.com^
 ||news.ferdescs.com^
 ||newyearjobs.us^
@@ -307,6 +311,7 @@
 ||terriblestore.com^
 ||thescapegroup-my.sharepoint.com^
 ||thetollroads.com-43dq.cfd^
+||thetollroads.com-7lkz.sbs^
 ||thetollroads.com-dw06.cfd^
 ||throne.com^
 ||tikkie.me^
