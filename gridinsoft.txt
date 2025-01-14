@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.223225.2025
+! Version: 01.14.230104.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 22:32:25 UTC 2025
+! Last modified: Tue Jan 14 23:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3007
+! Number of entries: 3013
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -2025,6 +2025,7 @@
 ||palmettostatearmoryam.store^
 ||palyzoo.online^
 ||pandapremium.wtf^
+||panicocapentryfirewood.co.uk^
 ||paooi.shop^
 ||parajumpersoutlet.it^
 ||paramediavideo.blogspot.com^
@@ -2342,20 +2343,25 @@
 ||serviteccr.com^
 ||setes.live^
 ||setyobim.online^
+||seuguiadefinitivo.com^
 ||sexanzeigen.huren.online^
 ||sexyforums.com^
 ||sfardlanka.com^
 ||sgtcv.com^
 ||shamfreshen.com^
 ||shapeitstore.com^
+||sharkdefi.com^
 ||shedrickcdigital.pro^
 ||shelee.vip^
+||shenghengtrading.com^
 ||shesherose.net^
 ||shib.icu^
+||shiba.web3.site^
 ||shibaarmy.world^
 ||shibahash.com^
 ||shinelyjews.shop^
 ||shirudigiseo.top^
+||shokexycexng.shop^
 ||shop.sale6.quest^
 ||shopa66.com^
 ||shope4you.shop^
