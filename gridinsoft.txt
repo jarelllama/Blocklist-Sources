@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.043323.2025
+! Version: 01.14.050054.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 04:33:23 UTC 2025
+! Last modified: Tue Jan 14 05:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2869
+! Number of entries: 2871
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -114,10 +114,12 @@
 ||aitgiant.com^
 ||aitimart.com^
 ||aitransactionplatform.com^
+||aixcrypto.xyz^
 ||aixomi.com^
 ||aiyibay.com^
 ||akurat33.com^
 ||al.rafidahcapital.com^
+||albertcrypto.pro^
 ||alcazie.in^
 ||alectomedia.online^
 ||alfianacendani.online^
