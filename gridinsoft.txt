@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.153201.2025
+! Version: 01.14.160058.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 15:32:01 UTC 2025
+! Last modified: Tue Jan 14 16:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2959
+! Number of entries: 2961
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -1015,7 +1015,9 @@
 ||european.sickfind.shop^
 ||eurovs.com^
 ||euroyalexpress.com^
+||eusdt.net^
 ||evenflofeedingsuperstore.shop^
+||event.thedefiant.io^
 ||eventscodm.com^
 ||evil.com^
 ||evli.fr^
