@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.113055.2025
+! Version: 01.14.120101.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 11:30:55 UTC 2025
+! Last modified: Tue Jan 14 12:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2931
+! Number of entries: 2934
 ||0.miniya.us.kg^
 ||02nev.cc^
 ||05012025.info^
@@ -717,6 +717,7 @@
 ||cripexbit.com^
 ||cripto.keys.store^
 ||cristianmartinez.online^
+||crohasit.net^
 ||crsverify.online^
 ||cryptallstars.online^
 ||crypto.chinese.com^
@@ -750,6 +751,8 @@
 ||cryptoneerpro.com^
 ||cryptoplace.site^
 ||cryptoplanetsx.net^
+||cryptosgx.com^
+||cryptoshieldx.com^
 ||cryptoxwave.com^
 ||crystalglobalwealth.com^
 ||csfpromocao2024.online^
