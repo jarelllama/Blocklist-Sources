@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.170104.2025
+! Version: 01.15.173133.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 17:01:04 UTC 2025
+! Last modified: Wed Jan 15 17:31:33 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3138
+! Number of entries: 3142
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -22,6 +22,7 @@
 ||1xbetindapp.com^
 ||1xtron.biz^
 ||2023brl.online^
+||2025mim.com^
 ||2025qf.com^
 ||2040stage.online^
 ||244buildschile.com^
@@ -503,6 +504,7 @@
 ||btc200x.org^
 ||btc913.com^
 ||btc933.com^
+||btcclink.net^
 ||btceex.com^
 ||btcmall.club^
 ||btcotcvip.net^
@@ -1038,6 +1040,7 @@
 ||escortbazar.in^
 ||escrowpi.com^
 ||esquentabet.online^
+||est.invest.pro^
 ||establishmentlottery.top^
 ||estarenergy.ltd^
 ||estherwinter.eu^
@@ -2157,6 +2160,7 @@
 ||pkvn68.online^
 ||play.qqvip303.online^
 ||play.regal.fr.online^
+||playdax.top^
 ||playfortune.cc^
 ||playgmz.online^
 ||playstation.stores.com^
