@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.140056.2025
+! Version: 01.15.143256.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 14:00:56 UTC 2025
+! Last modified: Wed Jan 15 14:32:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3114
+! Number of entries: 3120
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -265,6 +265,7 @@
 ||autry.eu.shop^
 ||autryzzt.online^
 ||avalontrdpro.com^
+||avastosgr.fun^
 ||avianca.com^
 ||aviation.ancienne.forumactif.com^
 ||avillioncapital.org^
@@ -705,6 +706,7 @@
 ||compare.deals.online.info^
 ||comprasdigitaisglobais.online^
 ||computarius.online^
+||condorgaminggroup.com^
 ||confreriedes650.org^
 ||coninvestholdingsltd.com^
 ||connectdefix.online^
@@ -1567,6 +1569,7 @@
 ||kubabuy.com^
 ||kulken.com^
 ||kurtastudio.com^
+||labellovers.nl^
 ||laboratoire.osmose.com^
 ||labrary.store^
 ||labscosmic.net^
@@ -1955,6 +1958,7 @@
 ||nosso.online^
 ||nouert.com^
 ||novaspire.live^
+||novaxmetals.com^
 ||noveraxcapital.com^
 ||nowmining.fun^
 ||nt.h5.com^
@@ -2329,6 +2333,7 @@
 ||rugbywow.com^
 ||ruktu.com^
 ||russesale.shop^
+||rvresell.be^
 ||rvxathe.com^
 ||ryfibei.shop^
 ||s.dz.com^
@@ -2496,6 +2501,7 @@
 ||sophie.paris.com^
 ||soportestreaming.online^
 ||sos.bg.sof.1.exo.io^
+||spagamia.com^
 ||sparkflr.info^
 ||spartanbusinesssystems.com^
 ||spctravelads.com^
