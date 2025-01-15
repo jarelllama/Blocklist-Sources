@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.050053.2025
+! Version: 01.15.053306.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 05:00:53 UTC 2025
+! Last modified: Wed Jan 15 05:33:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3056
+! Number of entries: 3059
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -572,6 +572,7 @@
 ||cenutix.com^
 ||cerabiapparels.com^
 ||cerebrumiq.com^
+||cfdqqx.com^
 ||cfs.trades.com^
 ||chainfun.click^
 ||chalaorry.shop^
@@ -1912,6 +1913,7 @@
 ||nordyen.de^
 ||nordyen.nl^
 ||nordyen.no.com^
+||noremally.com^
 ||norionbusiness.top^
 ||norsewebdesign.co.uk^
 ||nosso.online^
@@ -1932,6 +1934,7 @@
 ||obagee.com^
 ||obalaso.online^
 ||obraspublicaschaco2024.online^
+||obtuyme.com^
 ||obuchenie.taro.online^
 ||oceanprotocol2.life^
 ||oemete.com^
