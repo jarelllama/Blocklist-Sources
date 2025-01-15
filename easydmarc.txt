@@ -3,17 +3,18 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.073058.2025
+! Version: 01.15.080059.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 07:30:58 UTC 2025
+! Last modified: Wed Jan 15 08:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 425
+! Number of entries: 430
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
 ||2s.gg^
 ||2wb8s8bmabigl.s3.us-east-1.amazonaws.com^
 ||7quente.xyz^
+||81ggxm.com^
 ||8uyk0sctks0.typeform.com^
 ||a.p.scrx.io^
 ||a1-memberidatsrvcapp.kupu.desa.id^
@@ -59,6 +60,7 @@
 ||byc.sa^
 ||c.vialoops.com^
 ||can01.safelinks.protection.outlook.com^
+||carwaysa.com^
 ||cash-real.xyz^
 ||cathpchabot.com^
 ||cavotecs-auth.es^
@@ -97,6 +99,7 @@
 ||directtomodel.joinprivateroom.com^
 ||discord.com^
 ||discord.gg^
+||dispositionstoop.top^
 ||djs5qc04.eu1.hs-sales-engage.com^
 ||dmzw6lurug.feishu.cn^
 ||docs.google.com^
@@ -351,6 +354,7 @@
 ||thetollroads.com-7lkz.sbs^
 ||thetollroads.com-dw06.cfd^
 ||throne.com^
+||thryt.com^
 ||tikkie.me^
 ||tinyurl.com^
 ||tobiaschocolatier.com^
@@ -385,6 +389,7 @@
 ||workdrive.zoho.eu^
 ||workdrive.zohopublic.com^
 ||worthcocom-1.azureedge.net^
+||wwvvv-lcloud.com^
 ||www.589231686.shop^
 ||www.amazon.com^
 ||www.amazon.in^
