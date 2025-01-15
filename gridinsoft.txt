@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.130426.2025
+! Version: 01.15.133243.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 13:04:26 UTC 2025
+! Last modified: Wed Jan 15 13:32:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3110
+! Number of entries: 3112
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -493,6 +493,7 @@
 ||bsbjnlzdq.org^
 ||bsdgyfv.shop^
 ||bt.masterskaya.online^
+||btc200x.org^
 ||btc913.com^
 ||btc933.com^
 ||btceex.com^
@@ -857,6 +858,7 @@
 ||dewsenergyconstruction.com^
 ||dex.trade.global^
 ||dexboss.io^
+||dfi00dcub57gcevs69yg.com^
 ||dghv.store^
 ||dhlmall.vip^
 ||dickies.com.es^
