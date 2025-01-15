@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.103353.2025
+! Version: 01.15.110056.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 10:33:53 UTC 2025
+! Last modified: Wed Jan 15 11:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 435
+! Number of entries: 440
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
@@ -112,6 +112,7 @@
 ||e.email.cc.yahoo.com^
 ||earn.39sdb.top^
 ||elsinta.el.itera.ac.id^
+||emailring.pages.dev^
 ||emea01.safelinks.protection.outlook.com^
 ||empoweredmanhealth.online^
 ||erickson-crosby.carroal.my^
@@ -208,6 +209,7 @@
 ||lap325.773d.xyz^
 ||levelbucks.com^
 ||lfafirstresponse.com.au^
+||lhttps--www--roblox.com^
 ||libgen.li^
 ||lihi.cc^
 ||link-center.net^
@@ -254,6 +256,7 @@
 ||onelink.shein.com^
 ||onlyfans.com^
 ||open.spotify.com^
+||order-conflrmation.com^
 ||outorabout.com^
 ||paket.ewgcwa.cyou^
 ||payhip.com^
@@ -346,6 +349,7 @@
 ||sukryqs.com^
 ||surveyheart.com^
 ||t18.iluv.southwest.com^
+||tally.so^
 ||team2swift.zendesk.com^
 ||tepco.eaxxf.art^
 ||terabox.com^
@@ -374,6 +378,7 @@
 ||unlocktoearn.com^
 ||unoeasypay.stfc.me^
 ||upfiles.download^
+||uploadbeast.com^
 ||url.uk.m.mimecastprotect.com^
 ||urldefense.proofpoint.com^
 ||urly.fi^

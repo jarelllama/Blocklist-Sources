@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.103352.2025
+! Version: 01.15.110054.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 10:33:52 UTC 2025
+! Last modified: Wed Jan 15 11:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3089
+! Number of entries: 3090
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -2734,6 +2734,7 @@
 ||trophycase.cc^
 ||tructi.com^
 ||trust.forest7.com^
+||trustaipay.com^
 ||trustcoin.vip^
 ||trustedvincheck.com^
 ||trustgreenfirm.live^
