@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.143258.2025
+! Version: 01.15.150058.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 14:32:58 UTC 2025
+! Last modified: Wed Jan 15 15:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 449
+! Number of entries: 456
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
@@ -77,6 +77,7 @@
 ||circlekgmap.page.link^
 ||clck.ru^
 ||click.pstmrk.it^
+||click.smartsheet.com^
 ||clickme.thryv.com^
 ||cnc.jpmorgan.com^
 ||colorfivest.com^
@@ -115,6 +116,7 @@
 ||e.email.cc.yahoo.com^
 ||earn.39sdb.top^
 ||elsinta.el.itera.ac.id^
+||email.seller.alibaba.gs.cn^
 ||emailring.pages.dev^
 ||emea01.safelinks.protection.outlook.com^
 ||empoweredmanhealth.online^
@@ -141,6 +143,7 @@
 ||firstledgersync.com^
 ||fiverr.ordersverification.com^
 ||flipkartz.dealxnew.shop^
+||fnvadb2cprd.b2clogin.com^
 ||fondby.com^
 ||forms.gle^
 ||forms.office.com^
@@ -258,6 +261,7 @@
 ||o53ufyj.gzlema.com^
 ||oag999.com^
 ||onelink.shein.com^
+||onelink.to^
 ||onlyfans.com^
 ||open.spotify.com^
 ||order-conflrmation.com^
@@ -275,6 +279,7 @@
 ||pkonuadian.com^
 ||play.google.com^
 ||prepo.slack.com^
+||press-continue.4k7kca7aj0s4.top^
 ||primeplatform.biz^
 ||pritchardpapers.sharefile.com^
 ||privatewealthsys.avanan.net^
@@ -320,6 +325,7 @@
 ||sellercentral.amazon.com^
 ||sellgift.info^
 ||server.1a9q.com^
+||server.zo6w.com^
 ||service-centrelink.click^
 ||servicesaustraliacareers.nga.net.au^
 ||share.hsforms.com^
@@ -429,6 +435,7 @@
 ||www.jerrtrt.com^
 ||www.lion777.club^
 ||www.membershipvtex.com^
+||www.mmiiaxo.com^
 ||www.nagem.com.br^
 ||www.oneric.xyz^
 ||www.paypal.com^

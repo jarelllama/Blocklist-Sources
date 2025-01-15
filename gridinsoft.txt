@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.143256.2025
+! Version: 01.15.150057.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 14:32:56 UTC 2025
+! Last modified: Wed Jan 15 15:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3120
+! Number of entries: 3125
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -186,6 +186,7 @@
 ||apexcapitallimited.com^
 ||apexcapitalspro.com^
 ||apexcapltd.com^
+||apexcoins.org^
 ||apexfep.com^
 ||apicddn.com^
 ||apkft.xyz^
@@ -1051,6 +1052,7 @@
 ||evenflofeedingsuperstore.shop^
 ||event.thedefiant.io^
 ||eventscodm.com^
+||evericsedge.com^
 ||evil.com^
 ||evli.fr^
 ||evmprime.com^
@@ -1785,6 +1787,7 @@
 ||mickeliuiu.shop^
 ||microdr.ones.com.ng^
 ||midlandintercontinental.com^
+||midly.in^
 ||midsizedcars.com^
 ||mightycleansolutions.com^
 ||migraine.massage.service.988.online^
@@ -2764,6 +2767,7 @@
 ||trust.forest7.com^
 ||trustaipay.com^
 ||trustcoin.vip^
+||trustcryptoprofit.com^
 ||trustedvincheck.com^
 ||trustgreenfirm.live^
 ||trustphin.com^
@@ -3026,6 +3030,7 @@
 ||workshop.forex.com^
 ||world.dailyincome.com^
 ||world.delivery.service.com^
+||worldfamoushotboys.net^
 ||worldofhurtonline.com^
 ||worstcase.online^
 ||wowcams.com^
