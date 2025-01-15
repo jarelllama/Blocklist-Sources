@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.230108.2025
+! Version: 01.15.233107.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 23:01:08 UTC 2025
+! Last modified: Wed Jan 15 23:31:07 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3172
+! Number of entries: 3178
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -860,6 +860,7 @@
 ||defistamp.com^
 ||defiswap.life^
 ||delicatede.com^
+||delicemaison.com^
 ||delilahskittenparadise.com^
 ||deltadex.io^
 ||deltausdt.site^
@@ -943,6 +944,7 @@
 ||driverpack.io^
 ||drivesafeinspects.com^
 ||drmartensnews.com^
+||drogen.kaufen.com^
 ||ds2play.com^
 ||dsaileads.com^
 ||dstockaffaires.com^
@@ -996,6 +998,7 @@
 ||elitecapitalmarket.com^
 ||elitecapitalprofits.com^
 ||eliteclonecards.com^
+||eliteforgepro.online^
 ||eliteminingresource.org^
 ||eliteshoponline.com^
 ||elitevac.uk^
@@ -1757,6 +1760,7 @@
 ||manadapp.lol^
 ||mantraprint.in^
 ||mariswiss.com^
+||market4s.com^
 ||marketing4solutionsblog.online^
 ||marketingcrypto.pro^
 ||markminer.net^
@@ -2510,6 +2514,7 @@
 ||slotsaces.net^
 ||smartearningpool.online^
 ||smartgyro.es^
+||smartmove.biz^
 ||smartns.ink^
 ||smartphone.ue.shop^
 ||smartrecoup.com^
@@ -3111,6 +3116,7 @@
 ||xpertlex.online^
 ||xpfmall.biz^
 ||xpresswealthbnk.com^
+||xpronlineoffertstore.com^
 ||xrpofficial.reward.com^
 ||xsdvdeal.store^
 ||xtb.com^

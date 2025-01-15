@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.230110.2025
+! Version: 01.15.233109.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 23:01:10 UTC 2025
+! Last modified: Wed Jan 15 23:31:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 482
+! Number of entries: 485
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
@@ -162,6 +162,7 @@
 ||gofile.io^
 ||golden-show1.com^
 ||goo.gl^
+||goodroads.acemlnb.com^
 ||goto.now^
 ||goviral.growthtools.com^
 ||harderjuniormisty.com^
@@ -305,6 +306,7 @@
 ||qrcodes.pro^
 ||quossa.com^
 ||r.sib.vivium.be^
+||raedelite.com^
 ||rainbowservicecenter.com^
 ||raoui.top^
 ||rdc-corporation.com^
@@ -439,6 +441,7 @@
 ||www.amazon.in^
 ||www.attemplate.com^
 ||www.attunedpolymerslab.com^
+||www.aweber.com^
 ||www.behance.net^
 ||www.canva.com^
 ||www.definitelynotascam.com^
