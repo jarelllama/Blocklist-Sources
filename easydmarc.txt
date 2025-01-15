@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.153209.2025
+! Version: 01.15.160057.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 15:32:09 UTC 2025
+! Last modified: Wed Jan 15 16:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 456
+! Number of entries: 462
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
@@ -95,6 +95,7 @@
 ||ddownload.com^
 ||departamento-licitacoes-dot-yamm-track.appspot.com^
 ||deseadonoticias.com^
+||dev-iowa-department-of-education.pantheonsite.io^
 ||dhl.de-ufch.top^
 ||dhl.de-ydlh.top^
 ||dhl.plushy.cfd^
@@ -170,6 +171,7 @@
 ||hosting.international^
 ||hsseworld.com^
 ||https--www-roblox.com^
+||https-wwwv-roblox.com^
 ||i0k.cc^
 ||icici.co^
 ||idcom-pr.hdfcbank.com^
@@ -213,9 +215,11 @@
 ||kupoan-2024-2025.drepv9.my.id^
 ||l.facebook.com^
 ||lap325.773d.xyz^
+||lbxnyc.acctsmartstorage.com^
 ||levelbucks.com^
 ||lfafirstresponse.com.au^
 ||lhttps--www--roblox.com^
+||liberty.bgsecured.com^
 ||libgen.li^
 ||lihi.cc^
 ||link-center.net^
@@ -327,6 +331,7 @@
 ||server.1a9q.com^
 ||server.zo6w.com^
 ||service-centrelink.click^
+||service.aliant.bell.ca^
 ||servicesaustraliacareers.nga.net.au^
 ||share.hsforms.com^
 ||share.wisestep.com^
@@ -366,6 +371,7 @@
 ||tepco.eaxxf.art^
 ||terabox.com^
 ||terriblestore.com^
+||thebestcom9.com^
 ||thescapegroup-my.sharepoint.com^
 ||thetollroads.com-3yxe.sbs^
 ||thetollroads.com-43dq.cfd^
