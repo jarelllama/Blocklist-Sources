@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.160056.2025
+! Version: 01.15.163403.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 16:00:56 UTC 2025
+! Last modified: Wed Jan 15 16:34:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3132
+! Number of entries: 3136
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -174,6 +174,7 @@
 ||angelicstoragebv.com^
 ||angiechew.online^
 ||animvip.com^
+||ankr.top^
 ||annafieldshops.fr^
 ||annuallye.com^
 ||anonhost.xyz^
@@ -379,6 +380,7 @@
 ||bit.btc.com^
 ||bit.now.com^
 ||bit.stocks.com^
+||bit.usdt.com^
 ||bitantea.cc^
 ||bitb.trading^
 ||bitblockasset.com^
@@ -1215,6 +1217,7 @@
 ||game.zone.pro^
 ||gapconnectionbridge.co.in^
 ||gaspol268.com^
+||gdcecusd.com^
 ||gdmining.site^
 ||gdqai.com^
 ||gel9.online^
@@ -2822,6 +2825,7 @@
 ||universalwealth.org^
 ||unltee.com^
 ||unnatitoys.com^
+||unvaulted.coomer.party^
 ||upayy.online^
 ||upb.edu.co^
 ||upizoneltd.com^
