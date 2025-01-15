@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.180105.2025
+! Version: 01.15.183434.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 18:01:05 UTC 2025
+! Last modified: Wed Jan 15 18:34:34 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3147
+! Number of entries: 3151
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -1120,6 +1120,7 @@
 ||fighterseurope.com^
 ||fiheos.co.in^
 ||fijrol.com^
+||filas.com.mx^
 ||filegear.sg.me^
 ||fileplanet.com^
 ||files.fm^
@@ -2011,6 +2012,7 @@
 ||okk.16s.pages.dev^
 ||okpay.bar^
 ||okwintss.com^
+||okxtrade.org^
 ||oldendroff.com^
 ||oluwasegunakinyemi.com^
 ||olux.to^
@@ -2611,6 +2613,7 @@
 ||synthealth.com^
 ||syuffxx.com^
 ||syuffxx.ee^
+||t.mall.cc^
 ||t.peer.com^
 ||t2.awagama2.org^
 ||tads.baker.co.za^
@@ -2979,6 +2982,7 @@
 ||wbocash.online^
 ||wctclaim.netlify.app^
 ||we.bull.help^
+||we.inv.com^
 ||wealthassetcapital.org^
 ||wealthassets.app^
 ||wealthbaseinvestment.com^
