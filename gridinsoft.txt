@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.110054.2025
+! Version: 01.15.113051.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 11:00:54 UTC 2025
+! Last modified: Wed Jan 15 11:30:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3090
+! Number of entries: 3096
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -351,6 +351,7 @@
 ||bil2n.cfd^
 ||bileerrero.shop^
 ||billabong.pl.com^
+||billabongmx.com.mx^
 ||billboardapparel.store^
 ||binance.web3.com.cn^
 ||binance.web3.com.ru^
@@ -607,6 +608,7 @@
 ||cite.architecture.org^
 ||citibanamex.serv00.net^
 ||citxion.top^
+||civilwarcrisis.com^
 ||claim.hyperliquiditychain.com^
 ||claimgrass.netlify.app^
 ||claiming.movementlabs.com^
@@ -867,6 +869,7 @@
 ||digitsagency.online^
 ||diptyque.shop^
 ||diptysales.com^
+||directamatch.com^
 ||directoryofus.online^
 ||directseville.shop^
 ||direktori.online^
@@ -1302,6 +1305,7 @@
 ||harveylux.com^
 ||hashfactor.net^
 ||healthtimers.com^
+||heavensender.pro^
 ||hedgeincrease.com^
 ||helenaatelier.com^
 ||hello.hello.site^
@@ -1339,6 +1343,7 @@
 ||honeyskin.online^
 ||hongruialliance.com^
 ||hookah4dayli.online^
+||hookupers.co^
 ||horizoncapitals.org^
 ||horyx.shop^
 ||horze.it.top^
@@ -1714,6 +1719,7 @@
 ||maroyia.com^
 ||marsincfog.com^
 ||marvelusdt.com^
+||marvmys.com^
 ||massgrave.dev^
 ||masterfulart.homes^
 ||matrixbit.net^
