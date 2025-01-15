@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.124213.2025
+! Version: 01.15.130426.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 12:42:13 UTC 2025
+! Last modified: Wed Jan 15 13:04:26 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3107
+! Number of entries: 3110
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -920,6 +920,7 @@
 ||drivesafeinspects.com^
 ||drmartensnews.com^
 ||ds2play.com^
+||dsaileads.com^
 ||dstockaffaires.com^
 ||dtfvg.net^
 ||du.fastopay.my.uae.com^
@@ -968,6 +969,7 @@
 ||eldercity.xyz^
 ||eleganthush.com^
 ||elitecapitalmarket.com^
+||elitecapitalprofits.com^
 ||eliteclonecards.com^
 ||eliteminingresource.org^
 ||eliteshoponline.com^
@@ -1919,6 +1921,7 @@
 ||news.xvagoda.cc^
 ||news.xwivuxe.com^
 ||newulife.com^
+||next4x.com^
 ||nextcrypto.top^
 ||nextshop.fun^
 ||nexusaaso5kxt75bigvtixw63dot3mnthl3pwqxg4d6tlj5yfqjuviid.online^
