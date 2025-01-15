@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.093136.2025
+! Version: 01.15.100101.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 09:31:36 UTC 2025
+! Last modified: Wed Jan 15 10:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 432
+! Number of entries: 435
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
@@ -157,6 +157,7 @@
 ||hegetye.info^
 ||hitdragonapp.monster^
 ||hiton.top^
+||hk.mikecrm.com^
 ||hoo.be^
 ||hooponoponododia.com^
 ||hosting.international^
@@ -371,6 +372,7 @@
 ||u8410123.ct.sendgrid.net^
 ||ubah-jasakirim.my.id^
 ||unlocktoearn.com^
+||unoeasypay.stfc.me^
 ||upfiles.download^
 ||url.uk.m.mimecastprotect.com^
 ||urldefense.proofpoint.com^
@@ -431,6 +433,7 @@
 ||www.tiktok.com^
 ||www.ujerseyvip.com^
 ||www.vidmateapp.com^
+||www.winpkr116.com^
 ||www.ziprecruiter.com^
 ||www.zoblox.com^
 ||xhamster43.desi^
