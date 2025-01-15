@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.220052.2025
+! Version: 01.15.223214.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 22:00:52 UTC 2025
+! Last modified: Wed Jan 15 22:32:14 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 478
+! Number of entries: 482
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
@@ -147,6 +147,7 @@
 ||fiverr.ordersverification.com^
 ||flipkartz.dealxnew.shop^
 ||fnvadb2cprd.b2clogin.com^
+||focusfeaturesguilds2024.com^
 ||fondby.com^
 ||forms.gle^
 ||forms.office.com^
@@ -210,6 +211,7 @@
 ||j4ye3.nechg.top^
 ||jcard50.ru^
 ||journals.bilpubgroup.com^
+||kcst.art^
 ||keno0.com^
 ||kib3e.app.link^
 ||kingresearch.rpy.club^
@@ -280,6 +282,7 @@
 ||payment-web.sfr.fr^
 ||payoutdone.com^
 ||paypal.fr-dashboardng.me^
+||paypal.me^
 ||paystack.shop^
 ||pb-updatet.top^
 ||photospace.life^
@@ -378,6 +381,7 @@
 ||t18.iluv.southwest.com^
 ||tally.so^
 ||team2swift.zendesk.com^
+||temu.com^
 ||tepco.eaxxf.art^
 ||terabox.com^
 ||terriblestore.com^

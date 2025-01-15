@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.220051.2025
+! Version: 01.15.223213.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 22:00:51 UTC 2025
+! Last modified: Wed Jan 15 22:32:13 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3163
+! Number of entries: 3167
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -302,6 +302,7 @@
 ||bassonlineca.com^
 ||bathroomremodelingus1207.online^
 ||bauer.parndorf.at^
+||baxtertradings.online^
 ||bbc.tv.org^
 ||bcapstaking.com^
 ||bchminer.com^
@@ -716,6 +717,7 @@
 ||com.trackvddfg.cfd^
 ||comfortpatv.com^
 ||comfy.vibes.fr^
+||comfyonline.app^
 ||comic.hupshop.com^
 ||communaltrades.com^
 ||compare.deals.online.info^
@@ -1910,6 +1912,7 @@
 ||napapijriapps.com^
 ||narvafinance.com^
 ||naseebetiris.naseebet77.com^
+||natadler.com^
 ||nationalcasinolp.com^
 ||natureflux.shop^
 ||nc.ph.2974.zerads.com^
@@ -2403,6 +2406,7 @@
 ||savvyessence.com^
 ||saylor.giftx2.com^
 ||sbk.trx1.com^
+||scamtrick.com^
 ||scard50.ru^
 ||scarpa.eu.com^
 ||scholar.achiever.xyz^
