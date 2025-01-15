@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.070054.2025
+! Version: 01.15.073057.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 07:00:54 UTC 2025
+! Last modified: Wed Jan 15 07:30:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3067
+! Number of entries: 3072
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -19,6 +19,7 @@
 ||1wqydy.top^
 ||1xbet.com^
 ||1xbetindapp.com^
+||1xtron.biz^
 ||2023brl.online^
 ||2025qf.com^
 ||2040stage.online^
@@ -460,6 +461,7 @@
 ||boounti.com^
 ||bostakingu.com^
 ||bot.merisprivate.net^
+||botfypro.com^
 ||boundary.metal.com^
 ||boutique.dispatche.com^
 ||bowscalessales.com^
@@ -579,6 +581,7 @@
 ||changeip.net^
 ||charmcot.com^
 ||chassoutlel.shop^
+||cheapammoaustralia.com^
 ||chemicaldepotllc.com^
 ||chemicaltiger.com^
 ||cheqseep.online^
@@ -1651,6 +1654,7 @@
 ||lucky888.top^
 ||luckypro.store^
 ||lulalola.com^
+||luluisrael.co.il^
 ||lulusafh.com^
 ||lumacex.com^
 ||luminassociate.com^
@@ -2665,6 +2669,7 @@
 ||tosdex.com^
 ||totalwellstore.com^
 ||totoolookaa88.online^
+||touristcoves.com^
 ||towork.998.vip^
 ||toyzboutique.com^
 ||tozc.online^
