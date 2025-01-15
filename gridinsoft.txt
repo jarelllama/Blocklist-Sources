@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.150057.2025
+! Version: 01.15.153208.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 15:00:57 UTC 2025
+! Last modified: Wed Jan 15 15:32:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3125
+! Number of entries: 3131
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -159,6 +159,7 @@
 ||amazingfindsonline.com^
 ||amaznmarket.shop^
 ||amazonsellersappeal.com^
+||amazonstorepro.com^
 ||americanfunds.com^
 ||amgesic.com^
 ||ammobigsale.shop^
@@ -499,6 +500,7 @@
 ||btc913.com^
 ||btc933.com^
 ||btceex.com^
+||btcmall.club^
 ||btcotcvip.net^
 ||btcpaypartners.com^
 ||btcvipotc.com^
@@ -1640,6 +1642,7 @@
 ||lippizapatillaes.shop^
 ||liquidationpalletshub.top^
 ||litebix.com^
+||littletinyhouse.com^
 ||live.broadcast53.live^
 ||livebroadcast518.online^
 ||liveccvv.mp^
@@ -2239,6 +2242,7 @@
 ||quvrmh.com^
 ||qwertyco.org^
 ||qwidex.com^
+||r2r.pro^
 ||raceprep.site^
 ||radianters.com^
 ||raineyeshadowguilty.com^
@@ -2475,6 +2479,7 @@
 ||smartns.ink^
 ||smartphone.ue.shop^
 ||smartrecoup.com^
+||smartrobot.vip^
 ||smeftoredu.com^
 ||smesk.online^
 ||smith.newyork.com^
@@ -2518,6 +2523,7 @@
 ||sprunkiphase.online^
 ||srchfst.com^
 ||srimuthappanholidayscoorg.com^
+||sse.s.com^
 ||sstdocumentos.com^
 ||stablest.shop^
 ||starcici.com^
