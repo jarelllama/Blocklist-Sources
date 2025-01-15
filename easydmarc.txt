@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.000149.2025
+! Version: 01.15.004515.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 00:01:49 UTC 2025
+! Last modified: Wed Jan 15 00:45:15 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 405
+! Number of entries: 409
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
@@ -118,6 +118,7 @@
 ||ezdrivema.com-ezdrivemalsp.top^
 ||ezdrivema.com-feesxo.top^
 ||ezdrivema.com-ioians.top^
+||ezdrivema.com-zxnr.top^
 ||faceit.cup158.com^
 ||feij.us^
 ||femaxpipeworks.com^
@@ -192,6 +193,7 @@
 ||l.facebook.com^
 ||lap325.773d.xyz^
 ||levelbucks.com^
+||lfafirstresponse.com.au^
 ||libgen.li^
 ||lihi.cc^
 ||link-center.net^
@@ -279,6 +281,7 @@
 ||robuxlimitedtime-here-ekslusif.blogspot.com^
 ||ropro.io^
 ||ruggable.pscrpt.io^
+||rut.gg^
 ||rv2.io^
 ||s.sg.booking.com^
 ||s63.43tl08.life^
@@ -396,6 +399,7 @@
 ||www.r.oblox.com.co^
 ||www.r.oblox.com.kz^
 ||www.r.oblox.com.ng^
+||www.roblox.com.tg^
 ||www.roblox.com^
 ||www.sellection-my.online^
 ||www.sihub.in^
