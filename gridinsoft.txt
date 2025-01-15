@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.030144.2025
+! Version: 01.15.033243.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 03:01:44 UTC 2025
+! Last modified: Wed Jan 15 03:32:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3040
+! Number of entries: 3047
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -178,6 +178,7 @@
 ||apanharwatch.com^
 ||apexcapital.wealth.com^
 ||apexcapitallimited.com^
+||apexcapitalspro.com^
 ||apexcapltd.com^
 ||apexfep.com^
 ||apicddn.com^
@@ -186,6 +187,7 @@
 ||apkturbo.com^
 ||apnef.shop^
 ||apods1spain.com^
+||aporover.com^
 ||apounes.com^
 ||app.acuityscheduling.com^
 ||app.city2000.cc^
@@ -1411,6 +1413,7 @@
 ||iranfinance.info^
 ||ird.govt.nz^
 ||iris.tech.online^
+||irisium.lat^
 ||islanddluxe.top^
 ||ispoeti.com^
 ||itactivejobs.xyz^
@@ -1662,6 +1665,7 @@
 ||macpac.ts.shop^
 ||macystoreclothing.com^
 ||mahadev.id.online^
+||mahakumbhhelicopterservice.online^
 ||mainelobsterget.shop^
 ||mainelobstersstore.com^
 ||mainmarketshop.shop^
@@ -2524,6 +2528,7 @@
 ||sxyprn.net^
 ||sycuantime.com^
 ||sylvamoon.com^
+||symphonicmusicpromo.com^
 ||synthealth.com^
 ||syuffxx.com^
 ||syuffxx.ee^
@@ -2752,6 +2757,7 @@
 ||urlsing.com^
 ||us.alpinestars.com^
 ||us.amtmodels.com^
+||us.biglots.top^
 ||us.kg^
 ||us.retgdsence.com^
 ||us.viiceemall.com^
@@ -2919,6 +2925,7 @@
 ||whisky.shop.top^
 ||white.fox.us.com^
 ||whitelist.pro^
+||whiteminer.com^
 ||whmcmanus.shop^
 ||whubaesingotbrewer.com^
 ||wiaa.in^
