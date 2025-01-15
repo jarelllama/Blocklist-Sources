@@ -3,12 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.022655.2025
+! Version: 01.15.024517.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 02:26:55 UTC 2025
+! Last modified: Wed Jan 15 02:45:17 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3040
-||0.miniya.us.kg^
+! Number of entries: 3039
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -1196,6 +1195,7 @@
 ||getsoothesmooth.com^
 ||gfgsdgkgk.com^
 ||gfslsecurities.cc^
+||ggff.net^
 ||gggwg.online^
 ||ghsgdkag.com^
 ||ghsyps.ca^
@@ -1365,7 +1365,6 @@
 ||iklktec.com^
 ||ilclawgroup.com^
 ||imbictoz.com^
-||img.yuwujie.us.kg^
 ||immediateexalgoai.com^
 ||immediatepump.com^
 ||importantstuff.online^
@@ -2752,6 +2751,7 @@
 ||urlsing.com^
 ||us.alpinestars.com^
 ||us.amtmodels.com^
+||us.kg^
 ||us.retgdsence.com^
 ||us.viiceemall.com^
 ||usa.hellyhansen.com^
@@ -3014,7 +3014,6 @@
 ||yts.skin^
 ||yunpso.com^
 ||yupoo.vip^
-||ywj.yuwujie.us.kg^
 ||yyyu.0001.vip^
 ||yzonaautomotive.shop^
 ||z2u.com^

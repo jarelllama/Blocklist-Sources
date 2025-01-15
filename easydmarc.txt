@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.022656.2025
+! Version: 01.15.024519.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 02:26:56 UTC 2025
+! Last modified: Wed Jan 15 02:45:19 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 412
+! Number of entries: 415
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
@@ -241,6 +241,7 @@
 ||onelink.shein.com^
 ||onlyfans.com^
 ||open.spotify.com^
+||outorabout.com^
 ||paket.ewgcwa.cyou^
 ||payhip.com^
 ||payoutdone.com^
@@ -286,6 +287,7 @@
 ||rut.gg^
 ||rv2.io^
 ||s.sg.booking.com^
+||s.shopee.co.id^
 ||s63.43tl08.life^
 ||salat.pw^
 ||salesdemos.ext.hpe.com^
@@ -310,6 +312,7 @@
 ||shrt.pt^
 ||simplysign.ai^
 ||sio-store.com^
+||sites.google.com^
 ||skinport.com.kz^
 ||skribbl.io^
 ||smart-ph.college^
