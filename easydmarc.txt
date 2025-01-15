@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.173134.2025
+! Version: 01.15.180105.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 17:31:34 UTC 2025
+! Last modified: Wed Jan 15 18:01:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 466
+! Number of entries: 470
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
@@ -114,6 +114,7 @@
 ||dsc.gg^
 ||duostoresa.com^
 ||e-interac-13261402.id1364837.com^
+||e.acct.epicgames.com^
 ||e.email.cc.yahoo.com^
 ||earn.39sdb.top^
 ||elsinta.el.itera.ac.id^
@@ -148,6 +149,7 @@
 ||fondby.com^
 ||forms.gle^
 ||forms.office.com^
+||found-idevice.online^
 ||free-gifts.website^
 ||freecash.com^
 ||freefunhere.com^
@@ -357,6 +359,7 @@
 ||sreamconmymnltty.com^
 ||start.makesaveretire.com^
 ||steam.communitysourcedev.com^
+||steam.sourcecommunitylist.com^
 ||steam.usercommunityarts.com^
 ||steamcommunity.com^
 ||steamcomnnunity.com^
@@ -403,6 +406,7 @@
 ||url.uk.m.mimecastprotect.com^
 ||urldefense.proofpoint.com^
 ||urly.fi^
+||us.etrade.com^
 ||us.services.docusign.net^
 ||us02web.zoom.us^
 ||us06web.zoom.us^
