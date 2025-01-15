@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.133244.2025
+! Version: 01.15.140057.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 13:32:44 UTC 2025
+! Last modified: Wed Jan 15 14:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 447
+! Number of entries: 449
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
@@ -52,6 +52,7 @@
 ||bite.my.id^
 ||blakebruno.com^
 ||bonjoviworldtour.online^
+||booking.session-web85.world^
 ||bowersins-my.sharepoint.com^
 ||budehaven-my.sharepoint.com^
 ||buildlpad.com^
@@ -374,6 +375,7 @@
 ||trendworldnews.com^
 ||tspot.tecno.com^
 ||u10168449.ct.sendgrid.net^
+||u27884357.ct.sendgrid.net^
 ||u4183812.ct.sendgrid.net^
 ||u45048904.ct.sendgrid.net^
 ||u48456474.ct.sendgrid.net^
