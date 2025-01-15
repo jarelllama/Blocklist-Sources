@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.080058.2025
+! Version: 01.15.083421.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 08:00:58 UTC 2025
+! Last modified: Wed Jan 15 08:34:21 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3074
+! Number of entries: 3079
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -165,6 +165,7 @@
 ||amouzo.com^
 ||amzkdt.online^
 ||anabolenverkoop.net^
+||anamodashop.com^
 ||anaxdex.com^
 ||anesoabdulfatah.com^
 ||angelicstoragebv.com^
@@ -927,6 +928,7 @@
 ||earnscashmb.buzz^
 ||earnytbvideo.top^
 ||earringssale.com^
+||easefuldreams.com^
 ||easelayer.co^
 ||easycryptoblog.com^
 ||easymintminer.com^
@@ -1595,6 +1597,7 @@
 ||lifeneed.online^
 ||lifeproofsales.com^
 ||lifesgoood.space^
+||lifilogo.com^
 ||light.casino2024.online^
 ||light.trading.maximarkets.mobi^
 ||lightchain.ai^
@@ -2400,6 +2403,7 @@
 ||shorturl.at^
 ||shotzon.com^
 ||sicmundus.online^
+||sigmaweb.online^
 ||signalarchitects.cloud^
 ||silegx.org^
 ||silentun.com^
@@ -2910,6 +2914,7 @@
 ||wayfairclearance.online^
 ||wbocash.online^
 ||wctclaim.netlify.app^
+||we.bull.help^
 ||wealthassetcapital.org^
 ||wealthassets.app^
 ||wealthbaseinvestment.com^
