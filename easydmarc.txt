@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.053307.2025
+! Version: 01.15.060059.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 05:33:07 UTC 2025
+! Last modified: Wed Jan 15 06:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 420
+! Number of entries: 424
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
@@ -27,6 +27,7 @@
 ||amomama.es^
 ||amzn.in^
 ||amzn.to^
+||angelosayson.slclktrk005.com^
 ||answers.microsoft.com^
 ||api-daa.xtremepush.com^
 ||api.icodrops.com^
@@ -73,6 +74,7 @@
 ||click.pstmrk.it^
 ||clickme.thryv.com^
 ||cnc.jpmorgan.com^
+||colorfivest.com^
 ||continue.secmanage-auth.id.deegeestudio.com^
 ||crypt.single-sign-on.password.land^
 ||cryztalzone.shop^
@@ -192,6 +194,7 @@
 ||keno0.com^
 ||kib3e.app.link^
 ||kingresearch.rpy.club^
+||kitchenzoneshop.pro^
 ||knowledgeprovider.z.com^
 ||knvl.me^
 ||krs.microsoft.com^
@@ -425,6 +428,7 @@
 ||xhamster43.desi^
 ||yhrkh.com^
 ||youshouldgotothe.chillcrew.net^
+||zara-ro.profitclubtwo.click^
 ||zhaw.eu.qualtrics.com^
 ||znwaos.info^
 ||zskldf.sbpnm.click^
