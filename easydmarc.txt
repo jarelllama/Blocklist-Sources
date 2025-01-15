@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.14.233100.2025
+! Version: 01.15.000149.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 14 23:31:00 UTC 2025
+! Last modified: Wed Jan 15 00:01:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 400
+! Number of entries: 405
 ||1drv.ms^
 ||2976926.cc^
 ||2s.gg^
@@ -38,6 +38,7 @@
 ||auspost.y8l51a.life^
 ||axbk.io^
 ||ayyeooiy.com^
+||b.3c.com^
 ||b.iheart.southwest.com^
 ||bandainamcoent.access-elden-ring-nightreign.com^
 ||bansos-tahap6.vercel.app^
@@ -54,6 +55,7 @@
 ||buy.stripe.com^
 ||byc.sa^
 ||c.vialoops.com^
+||can01.safelinks.protection.outlook.com^
 ||cash-real.xyz^
 ||cathpchabot.com^
 ||cavotecs-auth.es^
@@ -85,6 +87,7 @@
 ||dhl.de-ydlh.top^
 ||dhl.plushy.cfd^
 ||did.li^
+||direct-link.net^
 ||directtomodel.joinprivateroom.com^
 ||discord.com^
 ||discord.gg^
@@ -232,6 +235,7 @@
 ||nsfas.whoyou.co.za^
 ||oag999.com^
 ||onelink.shein.com^
+||onlyfans.com^
 ||open.spotify.com^
 ||paket.ewgcwa.cyou^
 ||payhip.com^
@@ -249,6 +253,7 @@
 ||primeplatform.biz^
 ||pritchardpapers.sharefile.com^
 ||privatewealthsys.avanan.net^
+||prizepicks.onlink.me^
 ||processing.network^
 ||prod-cdn.preprod.co-vin.in^
 ||profresh.vn^
