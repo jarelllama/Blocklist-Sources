@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.113052.2025
+! Version: 01.15.120103.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 11:30:52 UTC 2025
+! Last modified: Wed Jan 15 12:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 440
+! Number of entries: 444
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
@@ -285,6 +285,7 @@
 ||rainbowservicecenter.com^
 ||raoui.top^
 ||rdc-corporation.com^
+||rebrand.ly^
 ||recruiters.notifierservice.com^
 ||reelsave.app^
 ||ref.az^
@@ -332,6 +333,7 @@
 ||skinport.com.kz^
 ||skribbl.io^
 ||smart-ph.college^
+||smart.womxx.icu^
 ||smarterr.net^
 ||smazae.pics^
 ||smleads.top^
@@ -386,6 +388,7 @@
 ||us02web.zoom.us^
 ||us06web.zoom.us^
 ||usps.com-tarjfxv.top^
+||v22.amazonbba.com^
 ||veepn.com^
 ||vicky-858435.thompson633.sbs^
 ||vlogf.ams1.vultrobjects.com^
@@ -447,4 +450,5 @@
 ||zara-ro.profitclubtwo.click^
 ||zhaw.eu.qualtrics.com^
 ||znwaos.info^
+||zohhal.com^
 ||zskldf.sbpnm.click^

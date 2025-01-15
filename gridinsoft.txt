@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.113051.2025
+! Version: 01.15.120101.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 11:30:51 UTC 2025
+! Last modified: Wed Jan 15 12:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3096
+! Number of entries: 3101
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -69,6 +69,7 @@
 ||account.cardplus.cc^
 ||accounts.avanquest.com^
 ||accu.tech.pro^
+||accumarkets.live^
 ||acesports.world^
 ||acessoftog.com^
 ||achadosonline2790.com^
@@ -240,6 +241,7 @@
 ||ataraxonline.net^
 ||atb14.com^
 ||atb15.com^
+||atheemart.top^
 ||atlaspays.com^
 ||atomicwalletdapp.com^
 ||atomishine.com^
@@ -844,6 +846,7 @@
 ||departmentstoreclearance.com^
 ||deporvillage.fr^
 ||deriveln.com^
+||dermodemacher.de^
 ||desipin.com^
 ||destinypulseprize.com^
 ||determin.shop^
@@ -1226,6 +1229,7 @@
 ||giftvalidator.com^
 ||gihsfilm.weebly.com^
 ||girlfriendwisely.com^
+||glanzberg.mode.de^
 ||glasslockmart.shop^
 ||glmrjwl.com^
 ||globalcapitalista.com^
@@ -2936,6 +2940,7 @@
 ||wealthassets.app^
 ||wealthbaseinvestment.com^
 ||wealthwavestocks.org^
+||wealttradershalliance.com^
 ||weatherbeetaery.top^
 ||web.cotiplus.top^
 ||web.nnleas.top^
