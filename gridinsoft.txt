@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.213050.2025
+! Version: 01.15.220051.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 21:30:50 UTC 2025
+! Last modified: Wed Jan 15 22:00:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3159
+! Number of entries: 3163
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -1387,6 +1387,7 @@
 ||hotbveleki.cc^
 ||hotbvetovu.cc^
 ||hotel.great.value9531.online^
+||hotels21.com^
 ||hotelvalues.com^
 ||hotspingames.top^
 ||hotvxfs.shop^
@@ -1452,6 +1453,7 @@
 ||intelligiencehub.com^
 ||inter.entregas.online^
 ||interactive.pov.com^
+||interexpresscourier.com^
 ||introtocrypto.xyz^
 ||invest.cryptonetworkspace.com^
 ||investor.digiestate.online^
@@ -1781,6 +1783,7 @@
 ||meerai.io^
 ||mega.easy.prize.pro^
 ||megaflix.co^
+||megalxibtrade.com^
 ||megatrendsplaza.shop^
 ||meindl.norge.com^
 ||meistrgold.com^
@@ -2647,6 +2650,7 @@
 ||tentron.mining.net^
 ||terbangria.online^
 ||terestdeals.shop^
+||terrapulsedfg.site^
 ||tesolarhubs.buzz^
 ||tfalcon.online^
 ||tfoskn.shop^
