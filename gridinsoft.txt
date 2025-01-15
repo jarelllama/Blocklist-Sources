@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.043327.2025
+! Version: 01.15.050053.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 04:33:27 UTC 2025
+! Last modified: Wed Jan 15 05:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3053
+! Number of entries: 3056
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -79,6 +79,7 @@
 ||addressfinancial.com^
 ||adgkj.com^
 ||adidas.rest^
+||adilayroofing.com^
 ||adjacentin.com^
 ||adminpg.online^
 ||admolo.com^
@@ -2774,6 +2775,7 @@
 ||usarmunukr.online^
 ||usde.ink^
 ||usdpick.io^
+||usdt.eth66d.net^
 ||usdtbb.com^
 ||usdtboost.com^
 ||usdtflasher.org^
@@ -2920,6 +2922,7 @@
 ||weetarget.online^
 ||wegmansmall.shop^
 ||wegovy.shop.online^
+||weichgeback.com^
 ||welovegenshinimpact.com^
 ||westtic.com^
 ||wfoqfashion.shop^
