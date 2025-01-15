@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.183435.2025
+! Version: 01.15.190059.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 18:34:35 UTC 2025
+! Last modified: Wed Jan 15 19:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 470
+! Number of entries: 473
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
@@ -26,6 +26,7 @@
 ||af-update.top^
 ||afflat3c2.com^
 ||aka.ms^
+||americanhort.acemlnb.com^
 ||amo.to^
 ||amomama.es^
 ||amzn.in^
@@ -201,6 +202,7 @@
 ||iplogger.com^
 ||ireland.api.tryhavana.com^
 ||is.gd^
+||isaca.my.site.com^
 ||iugubd.com^
 ||iwco.acemlna.com^
 ||iwyvwnn.uafcwh28.my.id^
@@ -360,6 +362,7 @@
 ||start.makesaveretire.com^
 ||steam.communitysourcedev.com^
 ||steam.sourcecommunitylist.com^
+||steam.usercommunityart.com^
 ||steam.usercommunityarts.com^
 ||steamcommunity.com^
 ||steamcomnnunity.com^
