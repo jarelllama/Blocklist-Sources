@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.033243.2025
+! Version: 01.15.040056.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 03:32:43 UTC 2025
+! Last modified: Wed Jan 15 04:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3047
+! Number of entries: 3051
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -164,6 +164,7 @@
 ||amzkdt.online^
 ||anabolenverkoop.net^
 ||anaxdex.com^
+||anesoabdulfatah.com^
 ||angelicstoragebv.com^
 ||angiechew.online^
 ||animvip.com^
@@ -657,6 +658,7 @@
 ||codflict.com^
 ||coin.go.in^
 ||coin.gofastgo.online^
+||coinarns.com^
 ||coinbasesupport.blog^
 ||coincrapex.com^
 ||coinebc.com^
@@ -829,6 +831,7 @@
 ||dentalclinicgreaternoida.com^
 ||departmentstoreclearance.com^
 ||deporvillage.fr^
+||deriveln.com^
 ||desipin.com^
 ||destinypulseprize.com^
 ||determin.shop^
@@ -974,6 +977,7 @@
 ||enegsseinvestmentteam.info^
 ||enerpinpellets.shop^
 ||enerty.top^
+||engineeriinglife.com^
 ||enhanceprotocol.co.in^
 ||eniqai.com^
 ||enjify.com^
