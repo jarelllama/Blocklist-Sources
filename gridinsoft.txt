@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.190058.2025
+! Version: 01.15.193050.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 19:00:58 UTC 2025
+! Last modified: Wed Jan 15 19:30:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3152
+! Number of entries: 3154
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -1795,6 +1795,7 @@
 ||methodeversohnungvonbeziehungen.online^
 ||metodolog.online^
 ||metropolidata.com^
+||metrotradeltd.com^
 ||mexcgpt.com^
 ||mexcter.cc^
 ||mexicoour.com^
@@ -2304,6 +2305,7 @@
 ||relayl.ink^
 ||relaymondial.net^
 ||reloadingstocks.com^
+||relutar.com^
 ||remix.web3console.com^
 ||renmsuq.shop^
 ||renovix.online^
