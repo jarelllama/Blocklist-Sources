@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.063526.2025
+! Version: 01.15.070054.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 06:35:26 UTC 2025
+! Last modified: Wed Jan 15 07:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3064
+! Number of entries: 3067
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -874,6 +874,7 @@
 ||divinark.store^
 ||divingcentercadaques.com^
 ||docker.1ms.run^
+||doclothes.com^
 ||docs.connect.wallet.teachable.com^
 ||docs.shibariumtech.com^
 ||dogecoin.usdt.vip^
@@ -2728,6 +2729,7 @@
 ||ttslot.com^
 ||ttslot01.com^
 ||ttslot05.com^
+||tupperwares.ru^
 ||turbotrump.info^
 ||tusheedrosep.net^
 ||tuuoi.shop^
@@ -2965,6 +2967,7 @@
 ||wizonex.com^
 ||wjfggroup.co^
 ||wmartrewards.com^
+||wmomall.space^
 ||wndzs.com^
 ||womoke.com^
 ||woonr.top^
