@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.15.203110.2025
+! Version: 01.15.210057.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 15 20:31:10 UTC 2025
+! Last modified: Wed Jan 15 21:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3157
+! Number of entries: 3159
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -1114,6 +1114,7 @@
 ||fenryon.com^
 ||fermebuche.com^
 ||fernandezfarmacia.com^
+||ferzip.com^
 ||festival88.online^
 ||fget.career.com^
 ||fhusg.com^
@@ -2912,6 +2913,7 @@
 ||ventrobi.io^
 ||ventulor.com^
 ||vepnext.com^
+||verol.shop^
 ||verpeliculasultra.com^
 ||verticalvinvehicle.com^
 ||vetusgifts.com^
