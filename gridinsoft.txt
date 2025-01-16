@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.090055.2025
+! Version: 01.16.093122.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 09:00:55 UTC 2025
+! Last modified: Thu Jan 16 09:31:22 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3228
+! Number of entries: 3232
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -1188,6 +1188,7 @@
 ||fokuskan.diri.shop^
 ||followgram.co^
 ||footballdisease.com^
+||footboom1.com^
 ||footjoyeu.shop^
 ||footjoyofficial.com^
 ||footjoysale.shop^
@@ -1268,6 +1269,7 @@
 ||geninsur.com^
 ||geographz.com^
 ||get.activated.win^
+||getcryptodrop.com^
 ||getdrant.shop^
 ||getimage.online^
 ||getintopc.com^
@@ -2244,6 +2246,7 @@
 ||pprrc.com^
 ||practicalss.com^
 ||practicemakesperfect.online^
+||precedings.shop^
 ||premium.iptvpro.com^
 ||premiumbankleyfx.com^
 ||pretiboiy.com^
@@ -2457,6 +2460,7 @@
 ||scard50.ru^
 ||scarpa.eu.com^
 ||scholar.achiever.xyz^
+||scholarz.org^
 ||sciatica.massage.16.online^
 ||sciaticnerve.treatment.16.online^
 ||sdx96.com^
