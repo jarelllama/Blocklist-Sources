@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.000153.2025
+! Version: 01.16.004521.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 00:01:53 UTC 2025
+! Last modified: Thu Jan 16 00:45:21 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3180
+! Number of entries: 3187
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -976,6 +976,7 @@
 ||eazycryptotrade.com^
 ||ebay.mall.net^
 ||ebdeficaz.com^
+||ecamai.com^
 ||eccoshoes.life^
 ||eclatlumiere.com^
 ||ecom.usdt.online^
@@ -1173,6 +1174,7 @@
 ||focusmarkets.com^
 ||fogeque.shop^
 ||fokuskan.diri.shop^
+||followgram.co^
 ||footballdisease.com^
 ||footjoyeu.shop^
 ||footjoyofficial.com^
@@ -1339,11 +1341,13 @@
 ||gusalio.com^
 ||gymshark.outlet.shop^
 ||h5.amengine.top^
+||h5.aqsmsp.com^
 ||h5.bytesi.vip^
 ||h5.doieu.com^
 ||h5.koinexbit.com^
 ||handfull.shop^
 ||hansen.oslo.com^
+||happyvilleonline.com^
 ||harrislogisticsllc.com^
 ||harvestcommunityunion.com^
 ||harveylux.com^
@@ -2571,6 +2575,7 @@
 ||starofliberty.online^
 ||starplancrypto.com^
 ||startingstrong.life^
+||startpayu.com^
 ||startperfectsolutions.com^
 ||startwrit.com^
 ||stavelux.net^
@@ -3085,6 +3090,7 @@
 ||world.delivery.service.com^
 ||worldfamoushotboys.net^
 ||worldofhurtonline.com^
+||worldproductssprogram.com^
 ||worstcase.online^
 ||wowcams.com^
 ||wowonlinestores.co.in^
@@ -3167,6 +3173,7 @@
 ||zdigitalagencymt.cc^
 ||zeharris.online^
 ||zenhom.online^
+||zenjett.com^
 ||zerocodeblock.com^
 ||zesphyr.com^
 ||zetboom.com^

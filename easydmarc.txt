@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.000154.2025
+! Version: 01.16.004522.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 00:01:54 UTC 2025
+! Last modified: Thu Jan 16 00:45:22 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 485
+! Number of entries: 491
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
@@ -95,6 +95,7 @@
 ||dccd.li^
 ||ddownload.com^
 ||departamento-licitacoes-dot-yamm-track.appspot.com^
+||descuento-planpostpago.usite.pro^
 ||deseadonoticias.com^
 ||dev-iowa-department-of-education.pantheonsite.io^
 ||dhl.de-ufch.top^
@@ -393,6 +394,7 @@
 ||thetollroads.com-43dq.cfd^
 ||thetollroads.com-7lkz.sbs^
 ||thetollroads.com-dw06.cfd^
+||thetollroads.com-zsed.top^
 ||throne.com^
 ||thryt.com^
 ||tikkie.me^
@@ -424,11 +426,13 @@
 ||usps.com-tarjfxv.top^
 ||v22.amazonbba.com^
 ||veepn.com^
+||verify.accredible.com^
 ||vicky-858435.thompson633.sbs^
 ||vlogf.ams1.vultrobjects.com^
 ||vvww--roblox.com^
 ||wa.me^
 ||wagestream.acemlnb.com^
+||we.tl^
 ||wetrisfer.pages.dev^
 ||wip463-cm.myshopify.com^
 ||wizehire.com^
@@ -437,6 +441,7 @@
 ||worthcocom-1.azureedge.net^
 ||wwvvv-lcloud.com^
 ||www.589231686.shop^
+||www.amazon.co.uk^
 ||www.amazon.com^
 ||www.amazon.in^
 ||www.attemplate.com^
@@ -480,6 +485,7 @@
 ||www.tiktok.com^
 ||www.ujerseyvip.com^
 ||www.vidmateapp.com^
+||www.webex-meeting-code.com^
 ||www.winpkr116.com^
 ||www.ziprecruiter.com^
 ||www.zoblox.com^
