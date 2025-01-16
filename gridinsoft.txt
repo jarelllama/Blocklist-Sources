@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.030153.2025
+! Version: 01.16.033241.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 03:01:53 UTC 2025
+! Last modified: Thu Jan 16 03:32:41 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3203
+! Number of entries: 3204
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -1608,6 +1608,7 @@
 ||korucc.com^
 ||kpmy556.cc^
 ||kreashops.com^
+||krebson.ru^
 ||krecociler.monster^
 ||kreed5425210621621.online^
 ||krefractoryr.lol^
