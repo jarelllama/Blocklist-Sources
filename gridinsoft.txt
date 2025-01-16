@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.173148.2025
+! Version: 01.16.180056.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 17:31:48 UTC 2025
+! Last modified: Thu Jan 16 18:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3282
+! Number of entries: 3288
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -2249,6 +2249,7 @@
 ||pinnacle.equitygroup.com^
 ||pip4gains.com^
 ||pippopet.store^
+||pipsmartacademy.com^
 ||pipstocksexchange.com^
 ||pirlotvhd.lol^
 ||pirlotvhd.org^
@@ -2319,6 +2320,7 @@
 ||pth223.com^
 ||pth668.com^
 ||pub.c5acfd5a4f1943a7bfc858676472adce.r2.dev^
+||pudcapsminners.pro^
 ||puffinvapesehopgv.shop^
 ||pulaski.towing.top^
 ||pulimore.com^
@@ -2520,6 +2522,7 @@
 ||sedonainvestments.co.uk^
 ||seedswanted.online^
 ||seephotograp.top^
+||self.love.shop.co.uk^
 ||sellmmar.best^
 ||semello.fr^
 ||semphasize.com^
@@ -2640,6 +2643,7 @@
 ||sparkflr.info^
 ||spartanbusinesssystems.com^
 ||spctravelads.com^
+||spec1trend8.shop^
 ||special.sale.sbs^
 ||spincex.com^
 ||spinslot88won.online^
@@ -2702,6 +2706,7 @@
 ||super.ai.me^
 ||superakbov.best^
 ||superamzdu.store^
+||superoffrs.com^
 ||superwatch.live^
 ||supplycenterusa.com^
 ||supportbitget.com^
@@ -2940,6 +2945,7 @@
 ||u.usd.com^
 ||ucbibanking.io^
 ||ucboc.com^
+||ucmmr.com^
 ||uehdspecial.shop^
 ||ugksq.merganser.cn^
 ||ugreathue.com^
