@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.130430.2025
+! Version: 01.16.133233.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 13:04:30 UTC 2025
+! Last modified: Thu Jan 16 13:32:33 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3251
+! Number of entries: 3252
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -1923,6 +1923,7 @@
 ||mqyn.odqmjbta.shop^
 ||mr.verify.net^
 ||mrefractiont.lol^
+||ms.nordictrack.cc^
 ||mscfxtrader.com^
 ||mscommerce.net^
 ||msscrypto.com^
