@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.180056.2025
+! Version: 01.16.183510.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 18:00:56 UTC 2025
+! Last modified: Thu Jan 16 18:35:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3288
+! Number of entries: 3295
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -33,6 +33,7 @@
 ||27design.online^
 ||2llcc.vip^
 ||2mbet.link^
+||33www.vivetuaventurasinlimitespromo.com^
 ||34k.site^
 ||3549urk.kipkeo.info^
 ||365bitcoinminer.com^
@@ -947,6 +948,7 @@
 ||dogepick.io^
 ||dogooddaldaadw.com^
 ||dogs.kim^
+||dohood.ru^
 ||doiquant.com^
 ||dolophin.com^
 ||domesticraws.com^
@@ -1205,6 +1207,7 @@
 ||fmovies.co^
 ||focusmarkets.com^
 ||fogeque.shop^
+||fokatcash.in^
 ||fokuskan.diri.shop^
 ||followgram.co^
 ||footballdisease.com^
@@ -1469,6 +1472,7 @@
 ||hxxokerase.fyi^
 ||hyph666.win^
 ||i.apple.com.tr^
+||iakamgaming.com^
 ||iamnew.powerappsportals.com^
 ||iastfund.com^
 ||ibisnashikhotel.online^
@@ -2494,6 +2498,7 @@
 ||sato.castle.com^
 ||sauconyfootwear.com^
 ||sauconysneakersdiscount.shop^
+||sauditech.link^
 ||save.learning.com^
 ||saveconsulting.si^
 ||saveweb2zip.com^
@@ -2901,6 +2906,7 @@
 ||trend.shop9.space^
 ||trendiano.in^
 ||trendly24.com^
+||trendmartus.com^
 ||trendyhubllc.shop^
 ||trimalajucredit.com^
 ||trimtonezone.online^
@@ -3017,6 +3023,7 @@
 ||validatemypimainnetwallet.online^
 ||valueversion.com^
 ||valxcane.lol^
+||vasttrade.investments.org^
 ||vaultperth.com^
 ||vbdigitalcard.in^
 ||vc66.net^

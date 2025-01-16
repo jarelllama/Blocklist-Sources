@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.180058.2025
+! Version: 01.16.183512.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 18:00:58 UTC 2025
+! Last modified: Thu Jan 16 18:35:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 549
+! Number of entries: 553
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
@@ -99,9 +99,11 @@
 ||d.comenity.net^
 ||d2slx104.na1.hubspotlinks.com^
 ||d5mllg04.na1.hubspotlinksstarter.com^
+||d5sytk04.na1.hs-sales-engage.com^
 ||danielcacereslopez.com^
 ||dccd.li^
 ||ddownload.com^
+||del.dhl.com^
 ||departamento-licitacoes-dot-yamm-track.appspot.com^
 ||descuento-planpostpago.usite.pro^
 ||deseadonoticias.com^
@@ -410,6 +412,7 @@
 ||snapchat.com^
 ||sreamconmymnltty.com^
 ||srv688176.hstgr.cloud^
+||staemcomnunlty.com^
 ||start.makesaveretire.com^
 ||static.xx.fbcdn.net^
 ||steam.communitysourcedev.com^
@@ -452,6 +455,7 @@
 ||trastminersbit.cc^
 ||trendtubes.xyz^
 ||trendworldnews.com^
+||trust-pc.pro^
 ||tspot.tecno.com^
 ||u10168449.ct.sendgrid.net^
 ||u27884357.ct.sendgrid.net^
