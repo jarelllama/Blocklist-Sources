@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.040106.2025
+! Version: 01.16.043336.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 04:01:06 UTC 2025
+! Last modified: Thu Jan 16 04:33:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 502
+! Number of entries: 506
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
@@ -63,6 +63,7 @@
 ||buy.stripe.com^
 ||byc.sa^
 ||c.vialoops.com^
+||callme-wine.it^
 ||can01.safelinks.protection.outlook.com^
 ||carwaysa.com^
 ||cash-real.xyz^
@@ -81,6 +82,7 @@
 ||click.pstmrk.it^
 ||click.smartsheet.com^
 ||clickme.thryv.com^
+||clipper.clipping.io^
 ||cnc.jpmorgan.com^
 ||colorfivest.com^
 ||continue.secmanage-auth.id.deegeestudio.com^
@@ -199,6 +201,7 @@
 ||induseasycredit.indusind.com^
 ||info.fromyour.email^
 ||info.netskope.com^
+||infotrackmain.naqelksa.com^
 ||inshort.ly^
 ||instagram.com^
 ||intel.arkm.com^
@@ -458,6 +461,7 @@
 ||www.aweber.com^
 ||www.behance.net^
 ||www.canva.com^
+||www.danxdex.com^
 ||www.definitelynotascam.com^
 ||www.erome.com^
 ||www.expressfinanceonline.com^
