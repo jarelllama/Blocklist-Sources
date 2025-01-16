@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.140103.2025
+! Version: 01.16.143246.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 14:01:03 UTC 2025
+! Last modified: Thu Jan 16 14:32:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3253
+! Number of entries: 3257
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -408,6 +408,7 @@
 ||bitcoinx.app.com^
 ||bitconemine.com^
 ||bitdolphx.com^
+||bitdouble.net^
 ||bitfnx.com^
 ||bitfufu.com^
 ||bitget.cloud^
@@ -995,6 +996,7 @@
 ||ecamai.com^
 ||eccoshoes.life^
 ||eclatlumiere.com^
+||ecofreshmarket.online^
 ||ecom.usdt.online^
 ||ecos.am^
 ||ecovipshop.top^
@@ -1411,6 +1413,7 @@
 ||holonova.store^
 ||home.pl.60184f67bfd.henriquehulse.com.br^
 ||homebaseinuk.com^
+||homecleaners.online^
 ||homeika.com^
 ||homepillowfort.com^
 ||homersimpson.fun^
@@ -2139,6 +2142,7 @@
 ||otherstoriessale.shop^
 ||ourruless.store^
 ||out.parks.es.com^
+||outfitexpress.online^
 ||outfitloft.com^
 ||outlook.8i7.net^
 ||overep.com^

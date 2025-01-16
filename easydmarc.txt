@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.140105.2025
+! Version: 01.16.143247.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 14:01:05 UTC 2025
+! Last modified: Thu Jan 16 14:32:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 536
+! Number of entries: 540
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
@@ -95,6 +95,7 @@
 ||csmt.page.link^
 ||ctrk.klclick.com^
 ||cutt.ly^
+||d.comenity.net^
 ||d2slx104.na1.hubspotlinks.com^
 ||d5mllg04.na1.hubspotlinksstarter.com^
 ||danielcacereslopez.com^
@@ -279,6 +280,7 @@
 ||modijiurl.com^
 ||moolahspot.com^
 ||msqwatch.com^
+||musicalconcepts.net^
 ||mvc.us11.list-manage.com^
 ||myaccount.e-zpassnyv.top^
 ||mybpo.co.uk^
@@ -315,6 +317,7 @@
 ||paystack.shop^
 ||pb-updatet.top^
 ||pdd.gh.999yes.xyz^
+||pg-link.co^
 ||photospace.life^
 ||piedmont1-my.sharepoint.com^
 ||piwalletswap.com^
@@ -341,6 +344,7 @@
 ||rainbowservicecenter.com^
 ||raoui.top^
 ||rdc-corporation.com^
+||realazure.action.azurecomm.net^
 ||rebrand.ly^
 ||recruiters.notifierservice.com^
 ||reelsave.app^
