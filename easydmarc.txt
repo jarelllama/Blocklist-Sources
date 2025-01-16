@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.060058.2025
+! Version: 01.16.063513.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 06:00:58 UTC 2025
+! Last modified: Thu Jan 16 06:35:13 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 510
+! Number of entries: 514
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
@@ -101,6 +101,7 @@
 ||descuento-planpostpago.usite.pro^
 ||deseadonoticias.com^
 ||dev-iowa-department-of-education.pantheonsite.io^
+||dev.pubz.fyi^
 ||dhl.de-ufch.top^
 ||dhl.de-ydlh.top^
 ||dhl.plushy.cfd^
@@ -375,6 +376,7 @@
 ||smart-ph.college^
 ||smart.womxx.icu^
 ||smarterr.net^
+||smartnet4.bharti.com^
 ||smazae.pics^
 ||smleads.top^
 ||snapchat.com^
@@ -415,6 +417,7 @@
 ||tinyurl.com^
 ||tobiaschocolatier.com^
 ||toph.pages.dev^
+||trastminersbit.cc^
 ||trendtubes.xyz^
 ||trendworldnews.com^
 ||tspot.tecno.com^
@@ -446,6 +449,7 @@
 ||vvww--roblox.com^
 ||wa.me^
 ||wagestream.acemlnb.com^
+||wayspire.in^
 ||we.tl^
 ||welocalize.us15.list-manage.com^
 ||wetrisfer.pages.dev^
