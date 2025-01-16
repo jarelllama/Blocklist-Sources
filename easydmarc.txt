@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.160107.2025
+! Version: 01.16.163449.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 16:01:07 UTC 2025
+! Last modified: Thu Jan 16 16:34:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 542
+! Number of entries: 545
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
@@ -313,6 +313,7 @@
 ||pay.hotmart.com^
 ||payhip.com^
 ||payment-web.sfr.fr^
+||payments.juspay.in^
 ||payoutdone.com^
 ||paypal.fr-dashboardng.me^
 ||paypal.me^
@@ -498,6 +499,7 @@
 ||www.canva.com^
 ||www.danxdex.com^
 ||www.definitelynotascam.com^
+||www.dhl.de^
 ||www.erome.com^
 ||www.expressfinanceonline.com^
 ||www.facebook.com^
@@ -542,6 +544,7 @@
 ||x.alibaba.com^
 ||xhamster43.desi^
 ||yhrkh.com^
+||yourbill.me^
 ||youshouldgotothe.chillcrew.net^
 ||z.didi.cn^
 ||zara-ro.profitclubtwo.click^

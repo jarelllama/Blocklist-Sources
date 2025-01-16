@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.160106.2025
+! Version: 01.16.163447.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 16:01:06 UTC 2025
+! Last modified: Thu Jan 16 16:34:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3264
+! Number of entries: 3271
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -333,6 +333,7 @@
 ||beltlox.top^
 ||benjamindavispersonaltrainer.com^
 ||bergmannmodehaus.com^
+||bernaid.shop^
 ||bernardex.com^
 ||bervospace.com^
 ||besafetoday.top^
@@ -1434,6 +1435,7 @@
 ||hotbvamove.today^
 ||hotbveleki.cc^
 ||hotbvetovu.cc^
+||hotbviviva.cc^
 ||hotel.great.value9531.online^
 ||hotels21.com^
 ||hotelvalues.com^
@@ -1522,6 +1524,7 @@
 ||ird.govt.nz^
 ||iris.tech.online^
 ||irisium.lat^
+||irwin.tools.com^
 ||islanddluxe.top^
 ||ispoeti.com^
 ||itactivejobs.xyz^
@@ -1745,6 +1748,7 @@
 ||lotesycasaspro.online^
 ||lottobet.online^
 ||lourdeswestleyhawk.org^
+||lovdomnotiallus.top^
 ||lovelymeds.com^
 ||lovemyparfum.com^
 ||loverzsk.best^
@@ -1992,6 +1996,7 @@
 ||netdcbf.com^
 ||netfucks1.com^
 ||neuratech.global^
+||newalking.com^
 ||newbalancelink.com^
 ||newdefineservice.online^
 ||newlearning.icu^
@@ -2084,6 +2089,7 @@
 ||okjg13.icu^
 ||okk.16s.pages.dev^
 ||okpay.bar^
+||oksaleonline.com^
 ||okwintss.com^
 ||okxtrade.org^
 ||oldendroff.com^
@@ -2356,6 +2362,7 @@
 ||raweggs.cc^
 ||raycart.in^
 ||rbs55.top^
+||rccarsale.shop^
 ||rclicks.in^
 ||rdapie.net^
 ||rdsdelivery.com^
