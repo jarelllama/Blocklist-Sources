@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.220059.2025
+! Version: 01.16.223223.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 22:00:59 UTC 2025
+! Last modified: Thu Jan 16 22:32:23 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 564
+! Number of entries: 569
 ||14245ba156.static-storagehost.com^
 ||1drv.ms^
 ||25.flos.dulkana.news^
@@ -24,6 +24,7 @@
 ||account.okcredit.in^
 ||accounts.google.com^
 ||accurx.nhs.uk^
+||adbluemedia.com^
 ||adobe-link-hub-com.vercel.app^
 ||af-atm.com^
 ||af-update.top^
@@ -99,6 +100,7 @@
 ||ctrk.klclick.com^
 ||cutt.ly^
 ||d.comenity.net^
+||d2NlkV04.na1.hs-sales-engage.com^
 ||d2slx104.na1.hubspotlinks.com^
 ||d5mllg04.na1.hubspotlinksstarter.com^
 ||d5sytk04.na1.hs-sales-engage.com^
@@ -201,6 +203,7 @@
 ||hsseworld.com^
 ||https--www-roblox.com^
 ||https-wwwv-roblox.com^
+||i.aka.sm^
 ||i0k.cc^
 ||icici.co^
 ||idcom-pr.hdfcbank.com^
@@ -280,6 +283,7 @@
 ||mcossviewing.com^
 ||me-qr.com^
 ||meet.google.com^
+||mega.nz^
 ||metasbusiness-instagams.website^
 ||mindstyleworld.acemlnb.com^
 ||misp.heroinsurance.com^
@@ -472,6 +476,7 @@
 ||u7838820.ct.sendgrid.net^
 ||u8410123.ct.sendgrid.net^
 ||ubah-jasakirim.my.id^
+||uhg.hr^
 ||unlocktoearn.com^
 ||unoeasypay.stfc.me^
 ||upfiles.download^

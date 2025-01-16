@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.220058.2025
+! Version: 01.16.223222.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 22:00:58 UTC 2025
+! Last modified: Thu Jan 16 22:32:22 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3314
+! Number of entries: 3316
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -1244,6 +1244,7 @@
 ||freebnbgo.com^
 ||freebnbgo.net^
 ||freedogecoinmining.com^
+||freelibrary.ru^
 ||freesamplesprousa.com^
 ||freestar.buzz^
 ||frienditeglobal.online^
@@ -1394,6 +1395,7 @@
 ||h5.bytesi.vip^
 ||h5.doieu.com^
 ||h5.koinexbit.com^
+||h5.wltfund.com^
 ||handfull.shop^
 ||hansen.oslo.com^
 ||happyvilleonline.com^
