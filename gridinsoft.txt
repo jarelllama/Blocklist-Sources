@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.004521.2025
+! Version: 01.16.012748.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 00:45:21 UTC 2025
+! Last modified: Thu Jan 16 01:27:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3187
+! Number of entries: 3192
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -652,6 +652,7 @@
 ||clickclpwages.buzz^
 ||clickiezwages.buzz^
 ||clickmhtwages.buzz^
+||clickppuwages.buzz^
 ||clickwages.buzz^
 ||clickyfwprize.buzz^
 ||clids.mastercasc.top^
@@ -1704,6 +1705,7 @@
 ||lotesycasaspro.online^
 ||lottobet.online^
 ||lourdeswestleyhawk.org^
+||lovelymeds.com^
 ||lovemyparfum.com^
 ||loverzsk.best^
 ||lowandeasylending.com^
@@ -2223,6 +2225,7 @@
 ||primeinvest.app^
 ||primemoverexpress.online^
 ||primeotp.com^
+||primeplatform.online^
 ||primitivesystem.online^
 ||pristinedrivecarcare.com^
 ||privatesportshop.fr^
@@ -2371,6 +2374,7 @@
 ||rollercoin.com^
 ||rominance.com^
 ||romsfun.com^
+||ronbo.buzz^
 ||roofing.services.fb.online^
 ||roveaskin.fr^
 ||royal.marines.online^
@@ -2509,6 +2513,7 @@
 ||skresporti.shop^
 ||skymine.online^
 ||skyplusevtr.com^
+||skytrustltd.com^
 ||skywing.ltd.com^
 ||slashfilm.perfect.com^
 ||slecks.shop^
