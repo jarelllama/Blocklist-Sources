@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.080057.2025
+! Version: 01.16.083341.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 08:00:57 UTC 2025
+! Last modified: Thu Jan 16 08:33:41 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 518
+! Number of entries: 521
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
@@ -153,6 +153,7 @@
 ||firstledgersync.com^
 ||fiverr.acceptordered.com^
 ||fiverr.ordersverification.com^
+||fj12hjrb.r.eu-central-1.awstrack.me^
 ||flipkartz.dealxnew.shop^
 ||fnvadb2cprd.b2clogin.com^
 ||focusfeaturesguilds2024.com^
@@ -195,6 +196,7 @@
 ||iis.re^
 ||ik0323.com^
 ||ilang.in^
+||imagevault.cloud^
 ||img-9gag-fun.9cache.com^
 ||imgur.com^
 ||imm.salduu.com^
@@ -265,6 +267,7 @@
 ||mindstyleworld.acemlnb.com^
 ||misp.heroinsurance.com^
 ||missionblaze.com^
+||mmq9efmgbf.us-east-1.awsapprunner.com^
 ||modijiurl.com^
 ||moolahspot.com^
 ||msqwatch.com^
