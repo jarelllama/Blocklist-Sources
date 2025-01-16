@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.050057.2025
+! Version: 01.16.053226.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 05:00:57 UTC 2025
+! Last modified: Thu Jan 16 05:32:26 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 506
+! Number of entries: 510
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
@@ -122,6 +122,7 @@
 ||e.acct.epicgames.com^
 ||e.email.cc.yahoo.com^
 ||earn.39sdb.top^
+||ehqaq.sa^
 ||elsinta.el.itera.ac.id^
 ||email.seller.alibaba.gs.cn^
 ||emailring.pages.dev^
@@ -406,6 +407,7 @@
 ||thetollroads.com-43dq.cfd^
 ||thetollroads.com-7lkz.sbs^
 ||thetollroads.com-dw06.cfd^
+||thetollroads.com-z70b.sbs^
 ||thetollroads.com-zsed.top^
 ||throne.com^
 ||thryt.com^
@@ -445,6 +447,7 @@
 ||wa.me^
 ||wagestream.acemlnb.com^
 ||we.tl^
+||welocalize.us15.list-manage.com^
 ||wetrisfer.pages.dev^
 ||wip463-cm.myshopify.com^
 ||wizehire.com^
@@ -508,6 +511,7 @@
 ||xhamster43.desi^
 ||yhrkh.com^
 ||youshouldgotothe.chillcrew.net^
+||z.didi.cn^
 ||zara-ro.profitclubtwo.click^
 ||zhaw.eu.qualtrics.com^
 ||znwaos.info^
