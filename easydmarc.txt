@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.230103.2025
+! Version: 01.16.233110.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 23:01:03 UTC 2025
+! Last modified: Thu Jan 16 23:31:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 569
+! Number of entries: 572
 ||14245ba156.static-storagehost.com^
 ||1drv.ms^
 ||25.flos.dulkana.news^
@@ -252,6 +252,7 @@
 ||knvl.me^
 ||krs.microsoft.com^
 ||kupoan-2024-2025.drepv9.my.id^
+||kwsr7lrz.r.eu-west-2.awstrack.me^
 ||l.facebook.com^
 ||lap325.773d.xyz^
 ||lbxnyc.acctsmartstorage.com^
@@ -388,6 +389,7 @@
 ||salesdemos.ext.hpe.com^
 ||scotiabank.us2.list-manage.com^
 ||scuremnge8490appsxvefiy.work.gd^
+||se-airdrop.vip^
 ||secmail.bankofamerica.com^
 ||secure.chase.com^
 ||secureidorder.com^
@@ -546,6 +548,7 @@
 ||www.mmiiaxo.com^
 ||www.nagem.com.br^
 ||www.oneric.xyz^
+||www.ovi-hoadao.click^
 ||www.paypal.com^
 ||www.profitablecpmrate.com^
 ||www.r.oblox.com.co^
