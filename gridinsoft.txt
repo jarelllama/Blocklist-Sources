@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.083339.2025
+! Version: 01.16.090055.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 08:33:39 UTC 2025
+! Last modified: Thu Jan 16 09:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3226
+! Number of entries: 3228
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -2524,6 +2524,7 @@
 ||silegx.org^
 ||silentun.com^
 ||silviicia.com^
+||silyka.com^
 ||simmsfishingonsale.shop^
 ||simon.frei.pc.online^
 ||simontok.fans^
@@ -2873,6 +2874,7 @@
 ||ttslot01.com^
 ||ttslot05.com^
 ||tupperwares.ru^
+||turbogamesapk.com^
 ||turbotrump.info^
 ||tusheedrosep.net^
 ||tuuoi.shop^
