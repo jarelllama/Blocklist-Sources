@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.223222.2025
+! Version: 01.16.230101.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 22:32:22 UTC 2025
+! Last modified: Thu Jan 16 23:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3316
+! Number of entries: 3318
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -1048,6 +1048,7 @@
 ||elonbet.com^
 ||elyaevents.com^
 ||elysiumvip.top^
+||emboldnoblefx.com^
 ||emcustomstudios.com^
 ||emea01.safelinks.protection.outlook.com^
 ||emeralfates.com^
@@ -2305,6 +2306,7 @@
 ||pprrc.com^
 ||practicalss.com^
 ||practicemakesperfect.online^
+||praytech.ma^
 ||precedings.shop^
 ||premium.iptvpro.com^
 ||premiumbankleyfx.com^
