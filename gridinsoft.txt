@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.183510.2025
+! Version: 01.16.190053.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 18:35:10 UTC 2025
+! Last modified: Thu Jan 16 19:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3295
+! Number of entries: 3301
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -24,6 +24,7 @@
 ||2023brl.online^
 ||2025mim.com^
 ||2025qf.com^
+||2025shoppingmall.ru^
 ||2040stage.online^
 ||244buildschile.com^
 ||247cryptotrade.net^
@@ -81,6 +82,7 @@
 ||acheterdrogues.com^
 ||ackstar.top^
 ||acnetratamientofacial.com^
+||acpincusdt.com^
 ||acquasculpt.com^
 ||acrossfold.com^
 ||activeprobeauty.com^
@@ -471,6 +473,7 @@
 ||blue798798.com^
 ||bluewhaleapps.life^
 ||blulumxn.vip^
+||blumeheat.shop^
 ||blushx.co^
 ||bmo.verification.secure.com^
 ||bmw.moto.eu.shop^
@@ -650,6 +653,7 @@
 ||cit.invests.com^
 ||cite.architecture.org^
 ||citibanamex.serv00.net^
+||cituuyed.com^
 ||citxion.top^
 ||civilwarcrisis.com^
 ||claim.hyperliquiditychain.com^
@@ -2461,6 +2465,7 @@
 ||royalpinkcreations.com^
 ||rpmvape.com^
 ||rpnodes.tech^
+||rroyaltyj.monster^
 ||rturd.com^
 ||rugbywow.com^
 ||ruktu.com^
@@ -2577,6 +2582,7 @@
 ||signalarchitects.cloud^
 ||silegx.org^
 ||silentun.com^
+||silverstonebank.org^
 ||silviicia.com^
 ||silyka.com^
 ||simmsfishingonsale.shop^
