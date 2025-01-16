@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.190054.2025
+! Version: 01.16.193057.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 19:00:54 UTC 2025
+! Last modified: Thu Jan 16 19:30:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 553
+! Number of entries: 557
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
@@ -326,6 +326,7 @@
 ||pg-link.co^
 ||photospace.life^
 ||piedmont1-my.sharepoint.com^
+||pigsfax.autos^
 ||piwalletswap.com^
 ||pixceldigital.com^
 ||pkonuadian.com^
@@ -389,6 +390,7 @@
 ||service-centrelink.click^
 ||service.aliant.bell.ca^
 ||servicesaustraliacareers.nga.net.au^
+||servicesaustraliacareersscanning.nga.net.au^
 ||share.hsforms.com^
 ||share.wisestep.com^
 ||shelterrockchurch.churchcenter.com^
@@ -472,6 +474,7 @@
 ||url.uk.m.mimecastprotect.com^
 ||urldefense.proofpoint.com^
 ||urly.fi^
+||us-27947.email-composer-webhooks.gong.io^
 ||us.etrade.com^
 ||us.services.docusign.net^
 ||us02web.zoom.us^
@@ -501,6 +504,7 @@
 ||www.amazon.in^
 ||www.attemplate.com^
 ||www.attunedpolymerslab.com^
+||www.authtracking.com^
 ||www.aweber.com^
 ||www.behance.net^
 ||www.canva.com^

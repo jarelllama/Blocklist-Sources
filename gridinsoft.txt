@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.190053.2025
+! Version: 01.16.193056.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 19:00:53 UTC 2025
+! Last modified: Thu Jan 16 19:30:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3301
+! Number of entries: 3307
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -162,6 +162,7 @@
 ||altano.store^
 ||altieer.com^
 ||altimotradingsltd.com^
+||alturametatrade.com^
 ||alwaysfindonline.shop^
 ||am.usdenelx.com^
 ||amalbio.shop^
@@ -176,6 +177,7 @@
 ||amniktechnologies.com^
 ||amontreupfr.shop^
 ||amouzo.com^
+||amyslamps.com^
 ||amzkdt.online^
 ||anabolenverkoop.net^
 ||anamodashop.com^
@@ -1912,9 +1914,11 @@
 ||miracleorganics.online^
 ||mirai123.online^
 ||missav.cam^
+||misterlamp.de^
 ||mitmine.com^
 ||mitoleyn.com^
 ||mixtsp.com^
+||mizunomexicooutlet.com.mx^
 ||mjir.shop^
 ||mkcgopdregistration.online^
 ||mkurtos.com^
@@ -1930,6 +1934,7 @@
 ||modernwristwatches.shop^
 ||modilimitado.io^
 ||mokshatravels.online^
+||momahc.com^
 ||mondiairelay.livraison.com^
 ||mondial.relay.suivicolis.com^
 ||monetoad.com^
@@ -3027,6 +3032,7 @@
 ||vajero.com^
 ||valeriehouseofdigital.online^
 ||validatemypimainnetwallet.online^
+||valtenz.top^
 ||valueversion.com^
 ||valxcane.lol^
 ||vasttrade.investments.org^
