@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.170105.2025
+! Version: 01.16.173150.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 17:01:05 UTC 2025
+! Last modified: Thu Jan 16 17:31:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 545
+! Number of entries: 549
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
@@ -159,6 +159,7 @@
 ||festj4-onllin3-sam-cellu-am3.com^
 ||ffnga01.com^
 ||fgdy6l29.r.eu-west-1.awstrack.me^
+||findmyiphone.location513.ru^
 ||firstledgersync.com^
 ||fiverr.acceptordered.com^
 ||fiverr.ordersverification.com^
@@ -408,6 +409,7 @@
 ||smleads.top^
 ||snapchat.com^
 ||sreamconmymnltty.com^
+||srv688176.hstgr.cloud^
 ||start.makesaveretire.com^
 ||static.xx.fbcdn.net^
 ||steam.communitysourcedev.com^
@@ -423,6 +425,7 @@
 ||subscriptions.acemlnc.com^
 ||sukryqs.com^
 ||surveyheart.com^
+||surveys.newtonxcommunity.com^
 ||t18.iluv.southwest.com^
 ||tally.so^
 ||team2swift.zendesk.com^
@@ -516,6 +519,7 @@
 ||www.hiltongetaways.com^
 ||www.hlz78caz-pyycz.org^
 ||www.jerrtrt.com^
+||www.kessbet.co.ke^
 ||www.lime-webagentur.com^
 ||www.lion777.club^
 ||www.membershipvtex.com^

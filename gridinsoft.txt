@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.170103.2025
+! Version: 01.16.173148.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 17:01:03 UTC 2025
+! Last modified: Thu Jan 16 17:31:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3277
+! Number of entries: 3282
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -276,6 +276,7 @@
 ||autotracksolution.com^
 ||autry.eu.shop^
 ||autryzzt.online^
+||avalonfinance.io^
 ||avalontrdpro.com^
 ||avastosgr.fun^
 ||avianca.com^
@@ -342,6 +343,7 @@
 ||best4youu.info^
 ||bestbiccle.shop^
 ||bestbuy.ink^
+||besteboni.online^
 ||bestgreensuperfood.com^
 ||besthealth24.online^
 ||bestmayoreo.com.mx^
@@ -751,6 +753,7 @@
 ||constipation.relieve.16.online^
 ||construction.jobs.nz.online^
 ||contactconsultingservices.com^
+||contestcraze.today^
 ||contractnerds.com^
 ||controlnetworks.com.au^
 ||conveneprecedent.top^
@@ -1681,6 +1684,7 @@
 ||legend88juara.online^
 ||legendplay.online.com^
 ||legendwox.online^
+||legitdogemining.com^
 ||lekzhro.com^
 ||leniaudelectromenager.com^
 ||leonemicrofinance.com^
@@ -2271,6 +2275,7 @@
 ||policja.pl112.online^
 ||popmartonline.my.asia^
 ||portaldedicasonline.com^
+||portumltd.com^
 ||poseidoncoin.top^
 ||poudresdenarco.com^
 ||powerelixir.online^
