@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.012748.2025
+! Version: 01.16.015920.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 01:27:48 UTC 2025
+! Last modified: Thu Jan 16 01:59:20 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3192
+! Number of entries: 3197
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -305,6 +305,7 @@
 ||bauer.parndorf.at^
 ||baxtertradings.online^
 ||bbc.tv.org^
+||bbdoapp.help^
 ||bcapstaking.com^
 ||bchminer.com^
 ||bcplgi.shop^
@@ -450,6 +451,7 @@
 ||blissfulluck.cfd^
 ||blizzboygames.net^
 ||blockdag.network^
+||blofinm.com^
 ||bloginnet.in^
 ||blombard.com^
 ||bloom.as^
@@ -599,6 +601,7 @@
 ||cdonnsauw.top^
 ||celebprize.com^
 ||celeharm.com^
+||centralworldmall.vip^
 ||cenutix.com^
 ||cerabiapparels.com^
 ||cerebrumiq.com^
@@ -1365,6 +1368,7 @@
 ||her.wellness.online^
 ||herbelladay.com^
 ||hermez4dx500.com^
+||herotoyshop.com^
 ||heyfuckme.com^
 ||hh.click.com^
 ||hianime.to^
@@ -2185,6 +2189,7 @@
 ||pinnacle.equitygroup.com^
 ||pip4gains.com^
 ||pippopet.store^
+||pipstocksexchange.com^
 ||pirlotvhd.lol^
 ||pirlotvhd.org^
 ||piteos.com^
