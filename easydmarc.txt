@@ -3,17 +3,18 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.210104.2025
+! Version: 01.16.213051.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 21:01:04 UTC 2025
+! Last modified: Thu Jan 16 21:30:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 559
+! Number of entries: 564
 ||14245ba156.static-storagehost.com^
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
 ||2s.gg^
 ||2wb8s8bmabigl.s3.us-east-1.amazonaws.com^
+||34.75.2o2.lol^
 ||7quente.xyz^
 ||81ggxm.com^
 ||8uyk0sctks0.typeform.com^
@@ -266,6 +267,7 @@
 ||login-micorsoftonline.github.io^
 ||lovehappyness.world^
 ||m-c7e21466.duosecurity.com^
+||m.facebook.com^
 ||m.tneu.in^
 ||macktoolengineering-my.sharepoint.com^
 ||mail.google.com^
@@ -302,6 +304,7 @@
 ||njuskalo.in7832256.com^
 ||nobellstore.com^
 ||notifications.googleapis.com^
+||npower-fmhds-gov-ng.web.app^
 ||nsfas.whoyou.co.za^
 ||o53ufyj.gzlema.com^
 ||oag999.com^
@@ -480,6 +483,7 @@
 ||us.etrade.com^
 ||us.services.docusign.net^
 ||us02web.zoom.us^
+||us04web.zoom.us^
 ||us06web.zoom.us^
 ||usps.com-tarjfxv.top^
 ||v22.amazonbba.com^
@@ -532,6 +536,7 @@
 ||www.kessbet.co.ke^
 ||www.lime-webagentur.com^
 ||www.lion777.club^
+||www.maptq.com^
 ||www.membershipvtex.com^
 ||www.mmiiaxo.com^
 ||www.nagem.com.br^

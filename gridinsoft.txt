@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.210103.2025
+! Version: 01.16.213049.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 21:01:03 UTC 2025
+! Last modified: Thu Jan 16 21:30:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3311
+! Number of entries: 3314
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -1434,6 +1434,7 @@
 ||hollyholl.com^
 ||holonova.store^
 ||home.pl.60184f67bfd.henriquehulse.com.br^
+||home.sunminingvip.com^
 ||homebaseinuk.com^
 ||homecleaners.online^
 ||homeika.com^
@@ -1705,6 +1706,7 @@
 ||lepetitportailbasque.com^
 ||lesparentszens.acemlnb.com^
 ||letsgotothemoon.travel.com^
+||letsoc.com^
 ||leupold.us.shop^
 ||levelbucks.com^
 ||lexingtonhazelwoodstylist.com^
@@ -2673,6 +2675,7 @@
 ||spraisy.live^
 ||sprunkiphase.online^
 ||srchfst.com^
+||sreamconmymnltty.com^
 ||srimuthappanholidayscoorg.com^
 ||sse.s.com^
 ||sstdocumentos.com^
