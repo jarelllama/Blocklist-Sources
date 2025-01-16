@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.150058.2025
+! Version: 01.16.153147.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 15:00:58 UTC 2025
+! Last modified: Thu Jan 16 15:31:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3258
+! Number of entries: 3261
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -1019,6 +1019,7 @@
 ||elitecapitalprofits.com^
 ||eliteclonecards.com^
 ||eliteforgepro.online^
+||eliteminerfx.com^
 ||eliteminingresource.org^
 ||eliteshoponline.com^
 ||elitevac.uk^
@@ -1041,6 +1042,7 @@
 ||empiric.online^
 ||empowerforward.cy^
 ||emttrading.com^
+||emuxev.com^
 ||enclarhealth.com^
 ||encomendas.importacao.online^
 ||endeavourmarketing.global.vip^
@@ -2118,6 +2120,7 @@
 ||onlinemostwanted.com^
 ||onlineotizmdanisma.com^
 ||onlineoverstock.cc^
+||onlinepromotionsusa.com^
 ||onlineproptrading.com^
 ||onlinesevafine.com^
 ||onlinessyodobashis.cc^
