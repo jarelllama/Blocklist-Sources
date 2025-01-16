@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.070105.2025
+! Version: 01.16.073054.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 07:01:05 UTC 2025
+! Last modified: Thu Jan 16 07:30:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3214
+! Number of entries: 3217
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -544,6 +544,7 @@
 ||buy.dogizen.io^
 ||buyado.de^
 ||buyantibiotics24h.net^
+||buybeararcheryonline.com^
 ||buyclonedcards.co.uk^
 ||buymasksgivemasks.top^
 ||buythepencil.com^
@@ -1195,6 +1196,7 @@
 ||forge.wallet.com^
 ||forsage.io^
 ||fortuneinterest.com^
+||foryouheart.com^
 ||fotytv.com^
 ||foundationrepair0407.online^
 ||foundationrepair3009.online^
@@ -2036,6 +2038,7 @@
 ||obagee.com^
 ||obalaso.online^
 ||obraspublicaschaco2024.online^
+||obsessedarchery.com^
 ||obtuyme.com^
 ||obuchenie.taro.online^
 ||occreply.com^

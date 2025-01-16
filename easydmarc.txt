@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.070106.2025
+! Version: 01.16.073056.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 07:01:06 UTC 2025
+! Last modified: Thu Jan 16 07:30:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 514
+! Number of entries: 518
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
@@ -151,6 +151,7 @@
 ||festj4-onllin3-sam-cellu-am3.com^
 ||fgdy6l29.r.eu-west-1.awstrack.me^
 ||firstledgersync.com^
+||fiverr.acceptordered.com^
 ||fiverr.ordersverification.com^
 ||flipkartz.dealxnew.shop^
 ||fnvadb2cprd.b2clogin.com^
@@ -251,6 +252,8 @@
 ||m.tneu.in^
 ||macktoolengineering-my.sharepoint.com^
 ||mail.google.com^
+||mailmodo-trkr.connectandheal.com^
+||maletagame.blogspot.com^
 ||mandrillapp.com^
 ||map.ilocation-logs.com^
 ||marketvirno.com^
@@ -415,6 +418,7 @@
 ||thryt.com^
 ||tikkie.me^
 ||tinyurl.com^
+||tkbkj.cc^
 ||tobiaschocolatier.com^
 ||toph.pages.dev^
 ||trastminersbit.cc^
