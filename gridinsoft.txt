@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.073054.2025
+! Version: 01.16.080056.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 07:30:54 UTC 2025
+! Last modified: Thu Jan 16 08:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3217
+! Number of entries: 3223
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -917,6 +917,7 @@
 ||discountshypermarket.com^
 ||discttime.shop^
 ||distoysonline.com^
+||diversitymeds.com^
 ||divicast.com^
 ||divinark.store^
 ||divingcentercadaques.com^
@@ -1653,6 +1654,7 @@
 ||legend88juara.online^
 ||legendplay.online.com^
 ||legendwox.online^
+||lekzhro.com^
 ||leniaudelectromenager.com^
 ||leonemicrofinance.com^
 ||leparis.club^
@@ -1935,6 +1937,7 @@
 ||mymap.quest^
 ||mymentertainment.online^
 ||mymindwellness.co.uk^
+||mymps.online^
 ||mypassivetrade.com^
 ||myplatform.top^
 ||mysticstonesgallery.com^
@@ -2339,6 +2342,7 @@
 ||redgol.cl^
 ||redomax.online^
 ||redozen.online^
+||redsphere.solutions^
 ||reegwallet.store^
 ||reelshort.2025.com^
 ||ref2tron.top^
@@ -2499,6 +2503,7 @@
 ||shokexycexng.shop^
 ||shop.sale6.quest^
 ||shopa66.com^
+||shopbopafiliate.org^
 ||shope4you.shop^
 ||shopeevip.shop^
 ||shoponlinesale.shop^
@@ -2918,6 +2923,7 @@
 ||usa.mito.com^
 ||usahawanlg.my^
 ||usahellyhansen.com^
+||usamedsdeals24.com^
 ||usarmunukr.online^
 ||usde.ink^
 ||usdpick.io^
