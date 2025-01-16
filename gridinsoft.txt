@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.163447.2025
+! Version: 01.16.170103.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 16:34:47 UTC 2025
+! Last modified: Thu Jan 16 17:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3271
+! Number of entries: 3277
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -598,6 +598,7 @@
 ||cassappcard.com^
 ||casvnm.com^
 ||catenarydojo.com^
+||caterpillarargentinaonline.com^
 ||catquarium.store^
 ||catx.bar^
 ||catzilla.meme^
@@ -612,6 +613,7 @@
 ||cdonnsauw.top^
 ||celebprize.com^
 ||celeharm.com^
+||cenotor.com^
 ||centralworldmall.vip^
 ||cenutix.com^
 ||cerabiapparels.com^
@@ -839,6 +841,7 @@
 ||cybex.360.com^
 ||cyphermarket.ru^
 ||czvinwqzs.zjxjmp.cn^
+||d4iqpj8tqft8l.cloudfront.net^
 ||dagahna.fun^
 ||dailytehillim.online^
 ||dailyuploads.net^
@@ -2650,6 +2653,7 @@
 ||starofliberty.online^
 ||starplancrypto.com^
 ||startingstrong.life^
+||startoyland.com^
 ||startpayu.com^
 ||startperfectsolutions.com^
 ||startwrit.com^
@@ -2742,7 +2746,9 @@
 ||telegramok.com^
 ||telelabs.online^
 ||telezgram.org^
+||temxn.vip^
 ||tenadex.com^
+||tenctify.com^
 ||tenek.vip^
 ||tentron.mining.net^
 ||terbangria.online^
