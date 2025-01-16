@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.120105.2025
+! Version: 01.16.124211.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 12:01:05 UTC 2025
+! Last modified: Thu Jan 16 12:42:11 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3245
+! Number of entries: 3250
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -84,6 +84,7 @@
 ||acrossfold.com^
 ||activeprobeauty.com^
 ||adatenight.com^
+||adblocker.one^
 ||addressfinancial.com^
 ||adgkj.com^
 ||adidas.rest^
@@ -2002,6 +2003,7 @@
 ||news.bpotibu.cc^
 ||news.jufife.com^
 ||news.xceyuna.live^
+||news.xnonafi.com^
 ||news.xricuno.cc^
 ||news.xtivima.com^
 ||news.xvagoda.cc^
@@ -2120,6 +2122,7 @@
 ||onlyterrific.com^
 ||onruning.top^
 ||onrunning.top^
+||opdomain22.online^
 ||openfundsag.org^
 ||optionstradeshub.com^
 ||optnutritips.com^
@@ -2295,6 +2298,7 @@
 ||pulaski.towing.top^
 ||pulimore.com^
 ||pulsed.fr^
+||pulsenotifynow.top^
 ||pulsepicks.pro^
 ||pumacolombia.net^
 ||punkoutfit.com^
@@ -2729,6 +2733,7 @@
 ||tfoskn.shop^
 ||tfvpm.org^
 ||tgbtest.com^
+||the.prize.stash.com^
 ||thebestofferforyoutoday.online^
 ||thecapitalholdings.io^
 ||thecleevie.com^
