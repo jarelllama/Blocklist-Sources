@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.053225.2025
+! Version: 01.16.060057.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 05:32:25 UTC 2025
+! Last modified: Thu Jan 16 06:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3208
+! Number of entries: 3210
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -1153,6 +1153,7 @@
 ||finefestool.com^
 ||fineprint.online^
 ||finmaza.com^
+||fintechmexicofestival.com^
 ||firmdrexworld.com^
 ||firstwinbet.online^
 ||fitgirl.repacks.site^
@@ -2403,6 +2404,7 @@
 ||russesale.shop^
 ||rvresell.be^
 ||rvxathe.com^
+||rxwin.org^
 ||ryfibei.shop^
 ||s.dz.com^
 ||s1gamer.online^
