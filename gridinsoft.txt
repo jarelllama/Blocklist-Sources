@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.015920.2025
+! Version: 01.16.022558.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 01:59:20 UTC 2025
+! Last modified: Thu Jan 16 02:25:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3197
+! Number of entries: 3203
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -438,6 +438,7 @@
 ||bitvipenuss.com^
 ||bitwin.exchange^
 ||bitxglobal.exchange^
+||bitxplorers.org^
 ||bitzealy.com^
 ||bitzoy.com^
 ||bixcointrading.com^
@@ -1051,6 +1052,7 @@
 ||equallyto.com^
 ||equistak.com^
 ||ercdlp.com^
+||erkulbicak.com^
 ||ermsty.com^
 ||erybdu.com^
 ||es.bankinter.usuario.com^
@@ -1123,6 +1125,7 @@
 ||fastee.top^
 ||fastswap.one^
 ||fazmex.com^
+||febgtvh.com^
 ||fedilitylogistics.com^
 ||fenben.pro^
 ||fenovur.com^
@@ -1339,6 +1342,7 @@
 ||gtkjean.com^
 ||guabsons.com^
 ||guardwallet.io^
+||guejoin.com^
 ||guestreservations.com^
 ||guide.sante.space^
 ||gunluksevilenkampanyalarsizlerle.online^
@@ -1832,6 +1836,7 @@
 ||michaelkorseu.shop^
 ||mickeliuiu.shop^
 ||microdr.ones.com.ng^
+||microstrategy.xin^
 ||midlandintercontinental.com^
 ||midly.in^
 ||midsizedcars.com^
@@ -1867,6 +1872,7 @@
 ||mncr.club^
 ||mobile.btcoinus.org^
 ||mobilecasino88.com^
+||modacloaks.com^
 ||modefi4o.com^
 ||modeflair.com^
 ||modehouse.melbourne.com^

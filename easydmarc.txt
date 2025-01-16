@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.16.015921.2025
+! Version: 01.16.022559.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 16 01:59:21 UTC 2025
+! Last modified: Thu Jan 16 02:25:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 494
+! Number of entries: 500
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
@@ -39,6 +39,7 @@
 ||app.mailinblack.com^
 ||appempireio.com^
 ||aramex.u-deals.run^
+||assistingwebs.shop^
 ||aurealone.com^
 ||auspost.2hnlsi.online^
 ||auspost.y8l51a.life^
@@ -266,6 +267,7 @@
 ||na4.docusign.net^
 ||nam10.safelinks.protection.outlook.com^
 ||nam12.safelinks.protection.outlook.com^
+||netfli-x-login.bruce-hopkins.com^
 ||news.ferdescs.com^
 ||newyearjobs.us^
 ||ney11.com^
@@ -282,6 +284,7 @@
 ||order-conflrmation.com^
 ||outorabout.com^
 ||paket.ewgcwa.cyou^
+||pay.hotmart.com^
 ||payhip.com^
 ||payment-web.sfr.fr^
 ||payoutdone.com^
@@ -334,6 +337,7 @@
 ||rv2.io^
 ||s.sg.booking.com^
 ||s.shopee.co.id^
+||s.webaccess-alert.com^
 ||s63.43tl08.life^
 ||salat.pw^
 ||salesdemos.ext.hpe.com^
@@ -459,6 +463,7 @@
 ||www.fhmparts.com^
 ||www.free80sarcade.com^
 ||www.getgardenscapes.com^
+||www.glassons.com^
 ||www.go2u.link^
 ||www.gofundme.com^
 ||www.google.com^
@@ -468,6 +473,7 @@
 ||www.hiltongetaways.com^
 ||www.hlz78caz-pyycz.org^
 ||www.jerrtrt.com^
+||www.lime-webagentur.com^
 ||www.lion777.club^
 ||www.membershipvtex.com^
 ||www.mmiiaxo.com^
