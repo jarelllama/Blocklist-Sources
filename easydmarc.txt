@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.133155.2025
+! Version: 01.17.140053.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 13:31:55 UTC 2025
+! Last modified: Fri Jan 17 14:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 606
+! Number of entries: 611
 ||14245ba156.static-storagehost.com^
 ||1drv.ms^
 ||25.flos.dulkana.news^
@@ -212,6 +212,7 @@
 ||https-wwwv-roblox.com^
 ||i.aka.sm^
 ||i0k.cc^
+||i40awms.acemlnb.com^
 ||icici.co^
 ||idcom-pr.hdfcbank.com^
 ||identity.kbxl.com^
@@ -314,6 +315,7 @@
 ||mybpo.co.uk^
 ||n9.cl^
 ||na01.safelinks.protection.outlook.com^
+||na2.docusign.net^
 ||na4.docusign.net^
 ||nam10.safelinks.protection.outlook.com^
 ||nam12.safelinks.protection.outlook.com^
@@ -391,6 +393,7 @@
 ||resellervoucher.com^
 ||restorecord.com^
 ||reurl.cc^
+||revo-document-support.involve.me^
 ||rga07.com^
 ||rnovxn.instalovechats.com^
 ||roblox-screenshare.vercel.app^
@@ -468,6 +471,7 @@
 ||sukryqs.com^
 ||surveyheart.com^
 ||surveys.newtonxcommunity.com^
+||t.dripemail2.com^
 ||t.tb.cn^
 ||t18.iluv.southwest.com^
 ||tally.so^
@@ -607,6 +611,7 @@
 ||yourbill.me^
 ||youshouldgotothe.chillcrew.net^
 ||z.didi.cn^
+||zalora.ee^
 ||zara-ro.profitclubtwo.click^
 ||zhaw.eu.qualtrics.com^
 ||zhxxc36g18.larksuite.com^
