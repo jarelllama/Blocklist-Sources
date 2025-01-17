@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.150054.2025
+! Version: 01.17.153127.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 15:00:54 UTC 2025
+! Last modified: Fri Jan 17 15:31:27 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3413
+! Number of entries: 3419
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -178,6 +178,7 @@
 ||amdconsults.com^
 ||americanfunds.com^
 ||amgesic.com^
+||amirimexicos.com^
 ||ammobigsale.shop^
 ||amniktechnologies.com^
 ||amontreupfr.shop^
@@ -395,6 +396,7 @@
 ||binance.web3.com.ru^
 ||binancedefi.io^
 ||binancetradings.org^
+||binarium.com^
 ||binariumy.com^
 ||bincoinlux.com^
 ||bine.mails.top^
@@ -1219,6 +1221,7 @@
 ||finder2loans.com^
 ||finefestool.com^
 ||fineprint.online^
+||finessedownload.com^
 ||finmaza.com^
 ||fintechmexicofestival.com^
 ||firmdrexworld.com^
@@ -1326,6 +1329,7 @@
 ||gambyllion.com^
 ||game.zixia.com^
 ||game.zone.pro^
+||gamefabrique.com^
 ||gameshopfinaldeals.com^
 ||gapconnectionbridge.co.in^
 ||gaspol268.com^
@@ -1376,6 +1380,7 @@
 ||glowpast.com^
 ||glowywill.com^
 ||gnde.shop^
+||gnhvcx.cc^
 ||gnulahd.org^
 ||go.alphalamenace.com^
 ||goapoachowoovol.net^
@@ -2148,6 +2153,7 @@
 ||novaxmetals.com^
 ||noveraxcapital.com^
 ||nowmining.fun^
+||nowquality.ca^
 ||nt.h5.com^
 ||nubil.nl^
 ||nudevista.com^
