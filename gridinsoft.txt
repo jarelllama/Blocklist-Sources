@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.043502.2025
+! Version: 01.17.050050.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 04:35:02 UTC 2025
+! Last modified: Fri Jan 17 05:00:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3355
+! Number of entries: 3357
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -1294,6 +1294,7 @@
 ||fxprom.cc^
 ||fxtradeco.ltd^
 ||fxtrinity.com^
+||fxveco.live^
 ||g.newpoint.com^
 ||gaga.pe^
 ||galacvy.com^
@@ -3118,6 +3119,7 @@
 ||videoperkstream.com^
 ||videosfund.top^
 ||viemia.com^
+||viergo.com^
 ||vigkes.shop^
 ||vilmoria.com^
 ||vincecomfort.com^
