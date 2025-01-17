@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.143233.2025
+! Version: 01.17.150054.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 14:32:33 UTC 2025
+! Last modified: Fri Jan 17 15:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3411
+! Number of entries: 3413
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -659,6 +659,7 @@
 ||christopherchaves.com^
 ||cicc.ink^
 ||ciekawoscobywateli.click^
+||cigarettes.pas.cher.com^
 ||cimarronclub.com^
 ||cinema.fskit.com^
 ||cintuwron.shop^
@@ -851,6 +852,7 @@
 ||crystalglobalwealth.com^
 ||csfpromocao2024.online^
 ||csoejgd.com^
+||ctallnltd.com^
 ||ctvvpue071bc73b7gmug.protocolchainflow.com^
 ||cu2fi6m071bc73d7rkeg.enhanceconnection.co.in^
 ||cu4hsde071bc73f38hm0.enhanceconnection.co.in^
