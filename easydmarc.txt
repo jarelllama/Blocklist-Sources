@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.203103.2025
+! Version: 01.17.210059.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 20:31:03 UTC 2025
+! Last modified: Fri Jan 17 21:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 629
+! Number of entries: 632
 ||03830.cxtsoftware.net^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -113,6 +113,7 @@
 ||d5mllg04.na1.hubspotlinksstarter.com^
 ||d5sytk04.na1.hs-sales-engage.com^
 ||danielcacereslopez.com^
+||dataengineerinterviews.com^
 ||dccd.li^
 ||ddownload.com^
 ||del.dhl.com^
@@ -327,6 +328,7 @@
 ||na01.safelinks.protection.outlook.com^
 ||na2.docusign.net^
 ||na4.docusign.net^
+||nam.safelink.emails.azure.net^
 ||nam10.safelinks.protection.outlook.com^
 ||nam12.safelinks.protection.outlook.com^
 ||nbk.rewrads.com^
@@ -544,6 +546,7 @@
 ||usps.com-tarjfxv.top^
 ||usps.com-tracking-helpswzc.xin^
 ||v22.amazonbba.com^
+||vdc.az1.qualtrics.com^
 ||veepn.com^
 ||verify.accredible.com^
 ||vicky-858435.thompson633.sbs^

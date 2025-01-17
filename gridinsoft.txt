@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.203102.2025
+! Version: 01.17.210057.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 20:31:02 UTC 2025
+! Last modified: Fri Jan 17 21:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3456
+! Number of entries: 3462
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -286,6 +286,7 @@
 ||auroracherie.com^
 ||australiansafesttradingbot.online^
 ||auth.mashash.co^
+||authenticounterfeithub.com^
 ||authenticreplicanotes.com^
 ||authtracking.com^
 ||authwalletsolutionetherdapp.app^
@@ -608,6 +609,7 @@
 ||capital.shares.com^
 ||capitalix.com^
 ||capitalmastery.org^
+||capitalquesttrades.com^
 ||capitalsprings.info^
 ||capitaltradestartlimited.com^
 ||capitalvisionaryfx.com^
@@ -1185,6 +1187,7 @@
 ||fadedarkspotsfast.com^
 ||faithfultly.com^
 ||fakaira.space^
+||fakemoneyvendor.com^
 ||falalamxn.vip^
 ||falconfxtrading.com^
 ||familychoicedrugstore.com^
@@ -1808,6 +1811,7 @@
 ||limeremce.com^
 ||linconomyinvest.com^
 ||link.center.net^
+||link.traders.com^
 ||linkaa.cyou^
 ||linkgurd.online^
 ||linkmcltogel3.org^
@@ -2466,6 +2470,7 @@
 ||qqbit.net^
 ||qrefuishz.monster^
 ||qtvvcshop.com^
+||qualitynoteschange.com^
 ||qualityresells.shop^
 ||quantumdigitalmatket.com^
 ||quantwise.ai^
@@ -3127,6 +3132,7 @@
 ||unvaulted.coomer.party^
 ||upayy.online^
 ||upb.edu.co^
+||upgoods.shop^
 ||upizoneltd.com^
 ||uploadhaven.com^
 ||upstinatolos.com^
