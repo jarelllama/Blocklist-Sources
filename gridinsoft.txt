@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.085728.2025
+! Version: 01.17.090056.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 08:57:28 UTC 2025
+! Last modified: Fri Jan 17 09:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3379
+! Number of entries: 3380
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -1443,6 +1443,7 @@
 ||herbelladay.com^
 ||hermez4dx500.com^
 ||herotoyshop.com^
+||hesamkianikhah.com^
 ||heyfuckme.com^
 ||hh.click.com^
 ||hianime.to^
