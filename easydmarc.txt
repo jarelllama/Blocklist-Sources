@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.223235.2025
+! Version: 01.17.230059.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 22:32:35 UTC 2025
+! Last modified: Fri Jan 17 23:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 634
+! Number of entries: 639
 ||03830.cxtsoftware.net^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -90,6 +90,7 @@
 ||cimbreswrdss.top^
 ||cimbrewrd.top^
 ||circlekgmap.page.link^
+||citiretailservices.citibankonline.com^
 ||clck.ru^
 ||click.pstmrk.it^
 ||click.smartsheet.com^
@@ -140,6 +141,7 @@
 ||donate.wfp.org^
 ||drive.google.com^
 ||dsc.gg^
+||dukkank.com^
 ||duostoresa.com^
 ||e-interac-13261402.id1364837.com^
 ||e.account.hostinger.com^
@@ -389,6 +391,7 @@
 ||promoofficial.com^
 ||public.catbooking.nl^
 ||qadeputy.com^
+||qo8bcf.cyou^
 ||qrcodes.pro^
 ||qu-x.me^
 ||quossa.com^
@@ -478,6 +481,7 @@
 ||steam.sourcecommunitylist.com^
 ||steam.usercommunityart.com^
 ||steam.usercommunityarts.com^
+||steamcommunity.app26212380.com^
 ||steamcommunity.app2622380.com^
 ||steamcommunity.com^
 ||steamcomnnunity.com^
@@ -571,6 +575,7 @@
 ||www.amazon.co.uk^
 ||www.amazon.com^
 ||www.amazon.in^
+||www.americanexpresstarjetas.com^
 ||www.attemplate.com^
 ||www.attunedpolymerslab.com^
 ||www.authtracking.com^
