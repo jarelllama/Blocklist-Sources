@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.113254.2025
+! Version: 01.17.120106.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 11:32:54 UTC 2025
+! Last modified: Fri Jan 17 12:01:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 599
+! Number of entries: 602
 ||14245ba156.static-storagehost.com^
 ||1drv.ms^
 ||25.flos.dulkana.news^
@@ -262,6 +262,7 @@
 ||krs.microsoft.com^
 ||kupoan-2024-2025.drepv9.my.id^
 ||kwsr7lrz.r.eu-west-2.awstrack.me^
+||l.cs-mail-sender.com^
 ||l.facebook.com^
 ||lap.i2ie.xyz^
 ||lap325.773d.xyz^
@@ -375,6 +376,7 @@
 ||raedelite.com^
 ||rainbowservicecenter.com^
 ||raoui.top^
+||rb.gy^
 ||rdc-corporation.com^
 ||realazure.action.azurecomm.net^
 ||rebrand.ly^
@@ -420,6 +422,7 @@
 ||servicesaustraliacareers.nga.net.au^
 ||servicesaustraliacareersscanning.nga.net.au^
 ||share.hsforms.com^
+||share.share-ng.com^
 ||share.wisestep.com^
 ||shelterrockchurch.churchcenter.com^
 ||shipping.id62902.world^
