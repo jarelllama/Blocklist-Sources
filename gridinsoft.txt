@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.110052.2025
+! Version: 01.17.113253.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 11:00:52 UTC 2025
+! Last modified: Fri Jan 17 11:32:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3398
+! Number of entries: 3401
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -22,6 +22,7 @@
 ||1xbetindapp.com^
 ||1xtron.biz^
 ||2023brl.online^
+||2025.rednote.com^
 ||2025mim.com^
 ||2025qf.com^
 ||2025shoppingmall.ru^
@@ -1800,6 +1801,7 @@
 ||localsinglesnearmefree0.online^
 ||locations.online.us^
 ||lockheed3.com^
+||logammulia.xyz^
 ||login.microsoft.com^
 ||logomagik.online^
 ||lolasee.com^
@@ -2482,6 +2484,7 @@
 ||register.bckrcoin.com^
 ||register.defi.app^
 ||register.soniclabs.com^
+||reil.cam^
 ||relayl.ink^
 ||relaymondial.net^
 ||reloadingstocks.com^
