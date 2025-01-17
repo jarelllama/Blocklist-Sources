@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.163445.2025
+! Version: 01.17.170058.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 16:34:45 UTC 2025
+! Last modified: Fri Jan 17 17:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 616
+! Number of entries: 622
 ||14245ba156.static-storagehost.com^
 ||1drv.ms^
 ||25.flos.dulkana.news^
@@ -57,6 +57,7 @@
 ||bansos-tahap6.vercel.app^
 ||bb7722.net^
 ||bit.ly^
+||bitbucket.org^
 ||bite.my.id^
 ||blakebruno.com^
 ||bluedart.com^
@@ -263,6 +264,7 @@
 ||kitchenzoneshop.pro^
 ||knowledgeprovider.z.com^
 ||knvl.me^
+||kompress-gold-quantum.lat^
 ||krs.microsoft.com^
 ||kupoan-2024-2025.drepv9.my.id^
 ||kwsr7lrz.r.eu-west-2.awstrack.me^
@@ -306,6 +308,7 @@
 ||mega.nz^
 ||metasbusiness-instagams.website^
 ||mindstyleworld.acemlnb.com^
+||miro.com^
 ||misp.heroinsurance.com^
 ||missionblaze.com^
 ||mmq9efmgbf.us-east-1.awsapprunner.com^
@@ -322,6 +325,7 @@
 ||na4.docusign.net^
 ||nam10.safelinks.protection.outlook.com^
 ||nam12.safelinks.protection.outlook.com^
+||nbk.rewrads.com^
 ||netfli-x-login.bruce-hopkins.com^
 ||news.ferdescs.com^
 ||newyearjobs.us^
@@ -379,6 +383,7 @@
 ||public.catbooking.nl^
 ||qadeputy.com^
 ||qrcodes.pro^
+||qu-x.me^
 ||quossa.com^
 ||r.sib.vivium.be^
 ||r.sib.wedonthavetime.org^
@@ -563,6 +568,7 @@
 ||www.coach-my.click^
 ||www.danxdex.com^
 ||www.definitelynotascam.com^
+||www.dhl.com^
 ||www.dhl.de^
 ||www.erome.com^
 ||www.expressfinanceonline.com^
