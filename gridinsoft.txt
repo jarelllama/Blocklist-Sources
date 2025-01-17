@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.130406.2025
+! Version: 01.17.133153.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 13:04:06 UTC 2025
+! Last modified: Fri Jan 17 13:31:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3407
+! Number of entries: 3410
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -643,6 +643,7 @@
 ||cerebrumiq.com^
 ||cfdqqx.com^
 ||cfs.trades.com^
+||chainbank.network^
 ||chainfun.click^
 ||chalaorry.shop^
 ||changeip.net^
@@ -2438,6 +2439,7 @@
 ||quarkaitrade.com^
 ||qubetics.com^
 ||quillpunt.online^
+||quintessential.quillaig.shop^
 ||quvrmh.com^
 ||qvion8.com^
 ||qwertyco.org^
@@ -2591,6 +2593,7 @@
 ||savvyessence.com^
 ||saylor.giftx2.com^
 ||sbk.trx1.com^
+||scalpingtrade.online^
 ||scamtrick.com^
 ||scard50.ru^
 ||scarpa.eu.com^
