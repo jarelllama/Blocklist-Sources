@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.180100.2025
+! Version: 01.17.183509.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 18:01:00 UTC 2025
+! Last modified: Fri Jan 17 18:35:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3431
+! Number of entries: 3435
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -53,6 +53,7 @@
 ||7starbet.com^
 ||80.25.buu.com^
 ||80.25.pcs.com^
+||82lottery24.com^
 ||82lottery9.in^
 ||852web3.io^
 ||8xfilms.living^
@@ -1978,6 +1979,7 @@
 ||mimosabarkhaven.com^
 ||minavip.top^
 ||minbtc.com^
+||mindofpepe.com^
 ||mindreset.site^
 ||mine.bnb.com^
 ||minepulse.top^
@@ -3203,6 +3205,7 @@
 ||vipehelp.com^
 ||viralityshop.online^
 ||vircloth.com^
+||vishopee.com^
 ||vitalpetlife.com^
 ||viviokko.com^
 ||vivivs.com^
@@ -3319,6 +3322,7 @@
 ||wittweidende.store^
 ||wizonex.com^
 ||wjfggroup.co^
+||wlods.com^
 ||wmartrewards.com^
 ||wmomall.space^
 ||wndzs.com^
