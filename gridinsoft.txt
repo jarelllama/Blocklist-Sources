@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.053224.2025
+! Version: 01.17.060058.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 05:32:24 UTC 2025
+! Last modified: Fri Jan 17 06:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3362
+! Number of entries: 3364
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -1637,6 +1637,7 @@
 ||kalpwd.vip^
 ||kapten178.com^
 ||karavvan.com^
+||kariox.trade.net^
 ||kartio.live^
 ||kavvaweb3.netlify.app^
 ||kcexai.com^
@@ -1935,6 +1936,7 @@
 ||mimosabarkhaven.com^
 ||minavip.top^
 ||minbtc.com^
+||mindreset.site^
 ||mine.bnb.com^
 ||mini.well.store^
 ||minibitcoin.xyz^
