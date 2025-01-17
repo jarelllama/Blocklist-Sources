@@ -3,11 +3,13 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.173242.2025
+! Version: 01.17.180101.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 17:32:42 UTC 2025
+! Last modified: Fri Jan 17 18:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 622
+! Number of entries: 626
+||03830.cxtsoftware.net^
+||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
 ||1drv.ms^
 ||25.flos.dulkana.news^
@@ -464,6 +466,7 @@
 ||srv688176.hstgr.cloud^
 ||staemcomnunlty.com^
 ||start.makesaveretire.com^
+||statement.mdpmt.com^
 ||static.xx.fbcdn.net^
 ||steam.communitysourcedev.com^
 ||steam.sourcecommunitylist.com^
@@ -519,6 +522,7 @@
 ||u7838820.ct.sendgrid.net^
 ||u8410123.ct.sendgrid.net^
 ||ubah-jasakirim.my.id^
+||ufafootball.info^
 ||uhg.hr^
 ||unlocktoearn.com^
 ||unoeasypay.stfc.me^
