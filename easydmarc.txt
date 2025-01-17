@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.120106.2025
+! Version: 01.17.124204.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 12:01:06 UTC 2025
+! Last modified: Fri Jan 17 12:42:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 602
+! Number of entries: 606
 ||14245ba156.static-storagehost.com^
 ||1drv.ms^
 ||25.flos.dulkana.news^
@@ -84,6 +84,7 @@
 ||cimahi.info^
 ||cimbcilkcs.top^
 ||cimbreswrdss.top^
+||cimbrewrd.top^
 ||circlekgmap.page.link^
 ||clck.ru^
 ||click.pstmrk.it^
@@ -273,11 +274,13 @@
 ||liberty.bgsecured.com^
 ||libgen.li^
 ||lihi.cc^
+||linear310-it-dash1-prd.selector.skycdn.it^
 ||link-center.net^
 ||link.advance-he.ac.uk^
 ||link.mail.beehiiv.com^
 ||links.podia.com^
 ||linktr.ee^
+||live.indianewstoday2.top^
 ||ln.run^
 ||lnkd.in^
 ||login-micorsoftonline.github.io^
@@ -606,6 +609,7 @@
 ||z.didi.cn^
 ||zara-ro.profitclubtwo.click^
 ||zhaw.eu.qualtrics.com^
+||zhxxc36g18.larksuite.com^
 ||znwaos.info^
 ||zohhal.com^
 ||zoom.us65web.us^
