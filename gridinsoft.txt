@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.050050.2025
+! Version: 01.17.053224.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 05:00:50 UTC 2025
+! Last modified: Fri Jan 17 05:32:24 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3357
+! Number of entries: 3362
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -241,6 +241,7 @@
 ||arnavix.online^
 ||ars88safe.online^
 ||artabusiness.com^
+||artosnomics.com^
 ||artsyfame.homes^
 ||artwareworld.com^
 ||arul.online^
@@ -604,6 +605,7 @@
 ||carlinkitmall.com^
 ||carolbradley.shop^
 ||carrepairus0507.online^
+||carte.grise.france.fr^
 ||cartradinghub.com^
 ||cascadefinco.org^
 ||casetesy.com^
@@ -2198,6 +2200,7 @@
 ||orange.co.uk^
 ||org.pay.9t03.cfd^
 ||origencapitalltd.com^
+||originalneotvpro.com^
 ||orionbitmarket.online^
 ||orourkeapp.com^
 ||orzenge.com^
@@ -2416,6 +2419,7 @@
 ||ralphlauren.best^
 ||ranoz.gg^
 ||ranthambhoresafaritour.in^
+||rapiddigitalrecovery.org^
 ||rapidtransitmodels.com^
 ||rarechemsonline.org^
 ||raweggs.cc^
@@ -2569,6 +2573,7 @@
 ||searchnow.online^
 ||sec.loanbusiness.com^
 ||secure.ccleaner.com^
+||secure.cryptex.to^
 ||securecryptorecovery.com^
 ||secured.triumphfx.com^
 ||securedjointnetwork.co.in^
