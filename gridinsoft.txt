@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.080056.2025
+! Version: 01.17.085728.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 08:00:56 UTC 2025
+! Last modified: Fri Jan 17 08:57:28 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3374
+! Number of entries: 3379
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -84,6 +84,7 @@
 ||acnetratamientofacial.com^
 ||acpincusdt.com^
 ||acquasculpt.com^
+||acropolisnow.top^
 ||acrossfold.com^
 ||activeprobeauty.com^
 ||adatenight.com^
@@ -520,6 +521,7 @@
 ||brandedsstore.online^
 ||brandingacademy.online^
 ||brandtrendp.com^
+||brasatrade.com^
 ||breakmine.online^
 ||breathingottersca.com^
 ||breyfe.com^
@@ -1308,6 +1310,7 @@
 ||gambyllion.com^
 ||game.zixia.com^
 ||game.zone.pro^
+||gameshopfinaldeals.com^
 ||gapconnectionbridge.co.in^
 ||gaspol268.com^
 ||gdcecusd.com^
@@ -1906,6 +1909,7 @@
 ||memoforce.net^
 ||memubit.com^
 ||menorul.com^
+||mercado.shop.com^
 ||messiah777.com^
 ||meta.cafe.net^
 ||metafight.airdrop.com^
@@ -3068,6 +3072,7 @@
 ||usahellyhansen.com^
 ||usamedsdeals24.com^
 ||usarmunukr.online^
+||usdbmwmsport.cc^
 ||usde.ink^
 ||usdpick.io^
 ||usdt.eth66d.net^

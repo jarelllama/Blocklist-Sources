@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.080057.2025
+! Version: 01.17.085730.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 08:00:57 UTC 2025
+! Last modified: Fri Jan 17 08:57:30 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 590
+! Number of entries: 594
 ||14245ba156.static-storagehost.com^
 ||1drv.ms^
 ||25.flos.dulkana.news^
@@ -95,6 +95,7 @@
 ||colorfivest.com^
 ||continue.secmanage-auth.id.deegeestudio.com^
 ||correos-es.in^
+||craftribal.com^
 ||crypt.single-sign-on.password.land^
 ||cryztalzone.shop^
 ||cs2gameacademy.com^
@@ -350,6 +351,7 @@
 ||pixceldigital.com^
 ||pkonuadian.com^
 ||play.google.com^
+||pntskfdx.r.us-west-2.awstrack.me^
 ||prepo.slack.com^
 ||presenter.ahaslides.com^
 ||press-continue.4k7kca7aj0s4.top^
@@ -406,6 +408,7 @@
 ||secureidorder.com^
 ||sellercentral.amazon.com^
 ||sellgift.info^
+||send.cm^
 ||server.1a9q.com^
 ||server.zo6w.com^
 ||service-centrelink.click^
@@ -427,6 +430,7 @@
 ||siyatek.com^
 ||skinport.com.kz^
 ||skribbl.io^
+||smart-ph.ceo^
 ||smart-ph.college^
 ||smart.womxx.icu^
 ||smarterr.net^
