@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.030225.2025
+! Version: 01.17.033257.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 03:02:25 UTC 2025
+! Last modified: Fri Jan 17 03:32:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3340
+! Number of entries: 3344
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -171,6 +171,7 @@
 ||amaznmarket.shop^
 ||amazonsellersappeal.com^
 ||amazonstorepro.com^
+||amdconsults.com^
 ||americanfunds.com^
 ||amgesic.com^
 ||ammobigsale.shop^
@@ -1131,6 +1132,7 @@
 ||exiledexchange2.com^
 ||exnori.com^
 ||exoky.com^
+||exorbit.online^
 ||expand.experts.com^
 ||expert.coinasset.com^
 ||expressdeh.cfd^
@@ -1333,6 +1335,7 @@
 ||glmrjwl.com^
 ||globalcapitalista.com^
 ||globaldocs.online.com^
+||globalfinaltd.com^
 ||globalflashco.com^
 ||globalfutureltd.com^
 ||globalnotelab.com^
@@ -2066,6 +2069,7 @@
 ||news.xwivuxe.com^
 ||newulife.com^
 ||newyorkshroomsonline.com^
+||nexamazon.com^
 ||next4x.com^
 ||nextcrypto.top^
 ||nextshop.fun^
