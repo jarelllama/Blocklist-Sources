@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.183509.2025
+! Version: 01.17.190102.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 18:35:09 UTC 2025
+! Last modified: Fri Jan 17 19:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3435
+! Number of entries: 3439
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -660,6 +660,7 @@
 ||chemicaltiger.com^
 ||cheqseep.online^
 ||chiccraftz.com^
+||childrenshealthintl.org^
 ||chillpotrandom.com^
 ||christianlouboutinmexicos.top^
 ||christopherchaves.com^
@@ -970,6 +971,7 @@
 ||directoryofus.online^
 ||directseville.shop^
 ||direktori.online^
+||dirol.netrol.com^
 ||disciplinen.com^
 ||discount.area.com^
 ||discountamzn.com^
@@ -1806,6 +1808,7 @@
 ||lipozemus.com^
 ||lippizapatillaes.shop^
 ||liquidationpalletshub.top^
+||lisandoo.com^
 ||litebix.com^
 ||littletinyhouse.com^
 ||live.broadcast53.live^
@@ -3019,6 +3022,7 @@
 ||trafiguracity.info^
 ||trahia.com^
 ||traihomphuoctaitho.com^
+||transscene.com^
 ||trantbitf.astpro.top^
 ||trantnguyentech.store^
 ||trazeit.net^
