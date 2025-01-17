@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.230057.2025
+! Version: 01.17.233059.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 23:00:57 UTC 2025
+! Last modified: Fri Jan 17 23:30:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3469
+! Number of entries: 3472
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -2004,6 +2004,7 @@
 ||mine.bnb.com^
 ||minepulse.top^
 ||minequartz.com^
+||mingmarket.com^
 ||mini.well.store^
 ||minibitcoin.xyz^
 ||minibuzzy.online^
@@ -2031,6 +2032,7 @@
 ||modefi4o.com^
 ||modeflair.com^
 ||modehouse.melbourne.com^
+||modenest.com^
 ||modernwristwatches.shop^
 ||modilimitado.io^
 ||mokshatravels.online^
@@ -2083,6 +2085,7 @@
 ||myetherwzallet.com^
 ||myg01d.com^
 ||mygardenhelper.online^
+||myhoneyandpine.com^
 ||mymap.quest^
 ||mymentertainment.online^
 ||mymindwellness.co.uk^
