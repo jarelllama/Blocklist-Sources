@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.073104.2025
+! Version: 01.17.080057.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 07:31:04 UTC 2025
+! Last modified: Fri Jan 17 08:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 587
+! Number of entries: 590
 ||14245ba156.static-storagehost.com^
 ||1drv.ms^
 ||25.flos.dulkana.news^
@@ -163,6 +163,7 @@
 ||ezdrivema.com-feesxo.top^
 ||ezdrivema.com-ioians.top^
 ||ezdrivema.com-zxnr.top^
+||f835p00s.r.us-east-1.awstrack.me^
 ||faceit.cup158.com^
 ||feij.us^
 ||femaxpipeworks.com^
@@ -231,6 +232,7 @@
 ||info.netskope.com^
 ||infotrackmain.naqelksa.com^
 ||inshort.ly^
+||insights.zohorecruit.com^
 ||instagram.com^
 ||insurlocal.com^
 ||intel.arkm.com^
@@ -558,6 +560,7 @@
 ||www.lime-webagentur.com^
 ||www.lion777.club^
 ||www.maptq.com^
+||www.maruvoice.ca^
 ||www.membershipvtex.com^
 ||www.microsoft.com^
 ||www.mmiiaxo.com^
