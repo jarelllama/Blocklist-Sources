@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.103354.2025
+! Version: 01.17.110054.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 10:33:54 UTC 2025
+! Last modified: Fri Jan 17 11:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 595
+! Number of entries: 599
 ||14245ba156.static-storagehost.com^
 ||1drv.ms^
 ||25.flos.dulkana.news^
@@ -277,6 +277,7 @@
 ||link.mail.beehiiv.com^
 ||links.podia.com^
 ||linktr.ee^
+||ln.run^
 ||lnkd.in^
 ||login-micorsoftonline.github.io^
 ||lovehappyness.world^
@@ -327,11 +328,13 @@
 ||onelink.to^
 ||onlyfans.com^
 ||onlyfans.wtf^
+||open.anghami.com^
 ||open.spotify.com^
 ||order-conflrmation.com^
 ||otp.bropay168.com^
 ||oui4kojrfudiojm21iu3h4jr.pages.dev^
 ||outorabout.com^
+||pages.tempisite.com^
 ||paket.ewgcwa.cyou^
 ||pay.hotmart.com^
 ||paydirect.myob.com^
@@ -503,6 +506,7 @@
 ||upfiles.download^
 ||uploadbeast.com^
 ||url.uk.m.mimecastprotect.com^
+||urldefense.com^
 ||urldefense.proofpoint.com^
 ||urly.fi^
 ||us-27947.email-composer-webhooks.gong.io^

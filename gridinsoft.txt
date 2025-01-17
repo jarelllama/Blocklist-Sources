@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.103353.2025
+! Version: 01.17.110052.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 10:33:53 UTC 2025
+! Last modified: Fri Jan 17 11:00:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3394
+! Number of entries: 3398
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
@@ -217,6 +217,7 @@
 ||app.city2000.cc^
 ||app.lockswallet.net^
 ||app.olet8.com^
+||app.privatecoin.net^
 ||app.sanagl.cc^
 ||appanalytics.online^
 ||appj.online^
@@ -295,6 +296,7 @@
 ||avlissatdnagait.online^
 ||avrixdynamiservices.com^
 ||ayridchandler.shop^
+||babylon3.vip^
 ||babytoll.shop^
 ||babyu.shop^
 ||baccarats.com.au^
@@ -2124,6 +2126,7 @@
 ||nodess.pages.dev^
 ||nomisite8.online^
 ||nordic.finanx.com^
+||nordicremolquesl.com^
 ||nordyen.de^
 ||nordyen.nl^
 ||nordyen.no.com^
@@ -2628,6 +2631,7 @@
 ||shamfreshen.com^
 ||shapeitstore.com^
 ||sharkdefi.com^
+||shawncraft.com^
 ||shedrickcdigital.pro^
 ||shelee.vip^
 ||shenghengtrading.com^
