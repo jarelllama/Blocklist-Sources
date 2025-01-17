@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.213054.2025
+! Version: 01.17.220053.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 21:30:54 UTC 2025
+! Last modified: Fri Jan 17 22:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3465
+! Number of entries: 3467
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -245,6 +245,7 @@
 ||aris.mall.com^
 ||ark888.vip^
 ||arkacoin.com^
+||arkcypher.net^
 ||arldeemix.com^
 ||armadaclothing.online^
 ||armani.ai.com^
@@ -2885,6 +2886,7 @@
 ||syuffxx.ee^
 ||syxstar.com^
 ||t.mall.cc^
+||t.mediapros02.world^
 ||t.peer.com^
 ||t2.awagama2.org^
 ||tads.baker.co.za^
