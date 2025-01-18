@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.183340.2025
+! Version: 01.18.190055.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 18:33:40 UTC 2025
+! Last modified: Sat Jan 18 19:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3573
+! Number of entries: 3578
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -151,6 +151,7 @@
 ||aliquotes.online^
 ||all.chems.com^
 ||all.pcb.online^
+||allcricketid.com^
 ||allegrolokalniepl.9683081239018571985139763.online^
 ||alleycatsol.xyz^
 ||allianceroyals.com^
@@ -1090,6 +1091,7 @@
 ||ebayppcgp.com^
 ||ebdeficaz.com^
 ||ebook.smart.online^
+||ebuyiptv.nl^
 ||ec.ccm2.net^
 ||ecamai.com^
 ||eccoshoes.life^
@@ -2953,6 +2955,7 @@
 ||swapcrypto.exchange^
 ||swapmonero.exchange^
 ||swedenfixedmatch.com^
+||swedwayinnovations.com^
 ||sweet.paradise.online^
 ||swiftcryptox.com^
 ||swiftfinverge.com^
@@ -3029,6 +3032,7 @@
 ||thehealthyfriday.com^
 ||thehygienefree.top^
 ||theinvisibleaffiliate.com^
+||thejewelexch.com^
 ||theleolab.online^
 ||theluckylk.com^
 ||themagistv.com^
@@ -3554,6 +3558,7 @@
 ||zcode.system.online^
 ||zdigitalagencymt.cc^
 ||zeharris.online^
+||zencenter.hu^
 ||zenhom.online^
 ||zenjett.com^
 ||zerocodeblock.com^
