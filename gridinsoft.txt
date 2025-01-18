@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.173050.2025
+! Version: 01.18.180052.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 17:30:50 UTC 2025
+! Last modified: Sat Jan 18 18:00:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3563
+! Number of entries: 3566
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -406,6 +406,7 @@
 ||billabongmx.com.mx^
 ||billboardapparel.store^
 ||binagpt.io^
+||binanbot.exchange^
 ||binance.web3.com.cn^
 ||binance.web3.com.ru^
 ||binancedefi.io^
@@ -679,6 +680,7 @@
 ||charmcot.com^
 ||chassoutlel.shop^
 ||cheapammoaustralia.com^
+||cheapertoolparts.com^
 ||chemicaldepotllc.com^
 ||chemicaltiger.com^
 ||cheqseep.online^
@@ -3445,6 +3447,7 @@
 ||wittweidende.store^
 ||wizonex.com^
 ||wjfggroup.co^
+||wldshop.online^
 ||wlods.com^
 ||wmartrewards.com^
 ||wmomall.space^
