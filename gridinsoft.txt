@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.015714.2025
+! Version: 01.18.022028.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 01:57:14 UTC 2025
+! Last modified: Sat Jan 18 02:20:28 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3480
+! Number of entries: 3482
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -1188,6 +1188,7 @@
 ||f1store2.formula1.com^
 ||f2pool.com^
 ||fa.arabianmall.vip^
+||fa.outletking.cc^
 ||fabalchemy.shop^
 ||facebook.busines.tempisite.com^
 ||fadedarkspotsfast.com^
@@ -2983,6 +2984,7 @@
 ||tiktoks8007.com^
 ||tiktokshopte.com^
 ||tiktokwares.com^
+||timberlandmx.com.mx^
 ||timestrendd.com^
 ||tinfoil.io^
 ||tiny.one^
