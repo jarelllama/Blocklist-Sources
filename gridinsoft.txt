@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.180052.2025
+! Version: 01.18.183340.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 18:00:52 UTC 2025
+! Last modified: Sat Jan 18 18:33:40 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3566
+! Number of entries: 3573
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -892,6 +892,7 @@
 ||cu2fi6m071bc73d7rkeg.enhanceconnection.co.in^
 ||cu4hsde071bc73f38hm0.enhanceconnection.co.in^
 ||cuan66.co^
+||cuesandcases.com^
 ||cuisineskit.com^
 ||cupomdepix.online^
 ||cupvxu.com^
@@ -935,6 +936,7 @@
 ||dcard50.ru^
 ||ddsteel.online^
 ||dealzforu.pro^
+||deans.shoprite.online^
 ||decorhome.arg.store^
 ||deenext.com^
 ||deepnude.to^
@@ -1017,6 +1019,7 @@
 ||divicast.com^
 ||divinark.store^
 ||divingcentercadaques.com^
+||dnswatch.info^
 ||docker.1ms.run^
 ||doclothes.com^
 ||docs.connect.wallet.teachable.com^
@@ -2141,6 +2144,7 @@
 ||my.commbank.com.au^
 ||my.deco.shop.com^
 ||my.fxmt.tech^
+||myamericanprizes3.com^
 ||mydesi2.net^
 ||myetherwzallet.com^
 ||myg01d.com^
@@ -2551,6 +2555,7 @@
 ||quarkaitrade.com^
 ||qubetics.com^
 ||quillpunt.online^
+||quiltsbedspreads.com^
 ||quintessential.quillaig.shop^
 ||quvrmh.com^
 ||qvion8.com^
@@ -2689,6 +2694,7 @@
 ||salewaoutletsespana.es^
 ||samaucy.com^
 ||samimpex.org^
+||samplesfoundme.com^
 ||samsa.pro^
 ||samseven.com^
 ||samsonitedeals.com^
@@ -3198,6 +3204,7 @@
 ||tywurystore.buzz^
 ||tzoneip.vip^
 ||u.usd.com^
+||ubrya.com^
 ||ucbibanking.io^
 ||ucboc.com^
 ||ucmmr.com^
