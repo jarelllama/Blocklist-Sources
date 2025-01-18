@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.203050.2025
+! Version: 01.18.210100.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 20:30:50 UTC 2025
+! Last modified: Sat Jan 18 21:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3597
+! Number of entries: 3602
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -477,6 +477,7 @@
 ||bitprogain.com^
 ||bitronce.com^
 ||bitrue.cc^
+||bitrustvest.com^
 ||bitstake.su^
 ||bittrading.online^
 ||bittrsecur.top^
@@ -609,11 +610,13 @@
 ||bxfinvestment.com^
 ||bybit.nidx.com^
 ||byproaip.com^
+||bzillion.club^
 ||c6s.net^
 ||cacaba.shop^
 ||cadogoa.shop^
 ||cafeciro.in^
 ||cailingxi.com^
+||caliwebstudios.com^
 ||cambridgeai.vip^
 ||camelmining.com^
 ||caminoverdadyvida.online^
@@ -1588,6 +1591,7 @@
 ||hotelvalues.com^
 ||hotspingames.top^
 ||hotvxfs.shop^
+||hotwatch.live^
 ||housescrappersllc.online^
 ||hoylitecandle.store^
 ||hozpetro.com^
@@ -1624,6 +1628,7 @@
 ||idjqwinla.net^
 ||idtumy.com^
 ||ifast2.com^
+||ijex.com^
 ||iklktec.com^
 ||ilclawgroup.com^
 ||imbictoz.com^
