@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.050104.2025
+! Version: 01.18.053142.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 05:01:04 UTC 2025
+! Last modified: Sat Jan 18 05:31:42 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3506
+! Number of entries: 3511
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -708,6 +708,7 @@
 ||claims.sonicfoundation.org^
 ||claimweby.live^
 ||classicteefox.com^
+||clcriptomonedas007.com^
 ||cleanquest.xyz^
 ||cled.euteschan.top^
 ||cleshy.com^
@@ -1136,6 +1137,7 @@
 ||ens36.sfe.infd.edu.ar^
 ||entanglecoin.com^
 ||entegcis.com^
+||enthusiastictrade.shop^
 ||entiq.co^
 ||entreur.com^
 ||entrustify.co.in^
@@ -1446,6 +1448,7 @@
 ||gorouslook.com^
 ||gotoloapp.com^
 ||gotospares.com^
+||gouldshoes.com^
 ||gowenuy.info^
 ||gpt.definity.app2.net^
 ||gptaiminds.com^
@@ -1819,6 +1822,7 @@
 ||librosymascotas.com^
 ||licengo.com^
 ||lidifitnessam.eu.shop^
+||lidlstor.shop^
 ||lifeneed.online^
 ||lifeproofsales.com^
 ||lifesgoood.space^
@@ -2834,6 +2838,7 @@
 ||sse.s.com^
 ||sstdocumentos.com^
 ||stablest.shop^
+||staemcommunnuty.com^
 ||starcici.com^
 ||staregyptgame.online^
 ||starofliberty.online^
