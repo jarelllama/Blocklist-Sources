@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.230058.2025
+! Version: 01.18.233045.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 23:00:58 UTC 2025
+! Last modified: Sat Jan 18 23:30:45 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 696
+! Number of entries: 699
 ||03830.cxtsoftware.net^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -165,6 +165,7 @@
 ||ebook-smart.online^
 ||edm.gemvisa.com.au^
 ||ehqaq.sa^
+||eis.de.kooperation.portal-coop.de^
 ||elink.ncp.infoempleo.com^
 ||elsinta.el.itera.ac.id^
 ||email.seller.alibaba.gs.cn^
@@ -382,6 +383,7 @@
 ||ok8ght4.sbs^
 ||onelink.shein.com^
 ||onelink.to^
+||only-fans.uk^
 ||onlyfans.com^
 ||onlyfans.wtf^
 ||open.anghami.com^
@@ -528,6 +530,7 @@
 ||steamcomnnunity.com^
 ||steampowered.nextplaytest.com^
 ||steampowered.playtestgameinvited.com^
+||stenmcomnmunity.com^
 ||stimulantonline.click^
 ||storage.googleapis.com^
 ||subscriptions.acemlnc.com^

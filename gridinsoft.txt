@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.230057.2025
+! Version: 01.18.233043.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 23:00:57 UTC 2025
+! Last modified: Sat Jan 18 23:30:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3607
+! Number of entries: 3608
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -776,6 +776,7 @@
 ||codflict.com^
 ||coin.go.in^
 ||coin.gofastgo.online^
+||coinarbitrage.io^
 ||coinarns.com^
 ||coinbasesupport.blog^
 ||coinbaux.com^
