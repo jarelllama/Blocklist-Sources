@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.012737.2025
+! Version: 01.18.015714.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 01:27:37 UTC 2025
+! Last modified: Sat Jan 18 01:57:14 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3478
+! Number of entries: 3480
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -1062,6 +1062,7 @@
 ||ebay.mall.net^
 ||ebdeficaz.com^
 ||ebook.smart.online^
+||ec.ccm2.net^
 ||ecamai.com^
 ||eccoshoes.life^
 ||eclatlumiere.com^
@@ -2058,6 +2059,7 @@
 ||moonmagic.com^
 ||moonwell.fl.xyz^
 ||mostirex.com^
+||motorwolt.com^
 ||movenzo.com^
 ||movil.ing.soporte.com^
 ||mpc7.cc^

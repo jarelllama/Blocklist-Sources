@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.012738.2025
+! Version: 01.18.015716.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 01:27:38 UTC 2025
+! Last modified: Sat Jan 18 01:57:16 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 649
+! Number of entries: 644
 ||03830.cxtsoftware.net^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -24,7 +24,6 @@
 ||a1-memberidatsrvcapp.kupu.desa.id^
 ||acc-39750.ispring.eu^
 ||account.okcredit.in^
-||accounts.google.com^
 ||accurx.nhs.uk^
 ||adbluemedia.com^
 ||adobe-link-hub-com.vercel.app^
@@ -86,6 +85,7 @@
 ||cdn.discordapp.com^
 ||challenge.loopsupport.com^
 ||chat.whatsapp.com^
+||checkra.pages.dev^
 ||chng.it^
 ||cimahi.info^
 ||cimbcilkcs.top^
@@ -138,10 +138,8 @@
 ||dispositionstoop.top^
 ||djs5qc04.eu1.hs-sales-engage.com^
 ||dmzw6lurug.feishu.cn^
-||docs.google.com^
 ||docsend.com^
 ||donate.wfp.org^
-||drive.google.com^
 ||dsc.gg^
 ||dukkank.com^
 ||duostoresa.com^
@@ -200,7 +198,6 @@
 ||freecash.com^
 ||freefunhere.com^
 ||freenote.biz^
-||gds.google.com^
 ||genius.egis-group.com^
 ||gifft.me^
 ||gmail.net-login.com^
@@ -210,6 +207,7 @@
 ||goo.gl^
 ||goodroads.acemlnb.com^
 ||google.at^
+||google.com^
 ||goto.now^
 ||goviral.growthtools.com^
 ||harderjuniormisty.com^
@@ -234,6 +232,7 @@
 ||idfcfb.in^
 ||idilang.com^
 ||iflychat-files-v2.s3.amazonaws.com^
+||iibeag.trsmartoffer.com^
 ||iis.re^
 ||ik0323.com^
 ||ilang.in^
@@ -310,7 +309,6 @@
 ||m.facebook.com^
 ||m.tneu.in^
 ||macktoolengineering-my.sharepoint.com^
-||mail.google.com^
 ||mailmodo-trkr.connectandheal.com^
 ||maletagame.blogspot.com^
 ||mandrillapp.com^
@@ -319,7 +317,6 @@
 ||masaischool.com^
 ||mcossviewing.com^
 ||me-qr.com^
-||meet.google.com^
 ||mega.nz^
 ||metasbusiness-instagams.website^
 ||mindstyleworld.acemlnb.com^
@@ -384,7 +381,6 @@
 ||piwalletswap.com^
 ||pixceldigital.com^
 ||pkonuadian.com^
-||play.google.com^
 ||pntskfdx.r.us-west-2.awstrack.me^
 ||prepo.slack.com^
 ||presenter.ahaslides.com^
@@ -430,6 +426,7 @@
 ||roblox.mq^
 ||robuxlimitedtime-here-ekslusif.blogspot.com^
 ||ropro.io^
+||royalplinko.top^
 ||ruggable.pscrpt.io^
 ||rule34.xxx^
 ||rut.gg^
@@ -467,7 +464,6 @@
 ||shrt.pt^
 ||simplysign.ai^
 ||sio-store.com^
-||sites.google.com^
 ||siyatek.com^
 ||skinport.com.kz^
 ||skribbl.io^
@@ -605,7 +601,6 @@
 ||www.glassons.com^
 ||www.go2u.link^
 ||www.gofundme.com^
-||www.google.com^
 ||www.googleadservices.com^
 ||www.gymjapan.shop^
 ||www.highcpmgate.com^
