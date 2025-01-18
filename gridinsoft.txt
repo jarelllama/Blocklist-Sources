@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.053142.2025
+! Version: 01.18.060104.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 05:31:42 UTC 2025
+! Last modified: Sat Jan 18 06:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3511
+! Number of entries: 3517
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -268,6 +268,7 @@
 ||assiseaulosdansy.online^
 ||assortedtechnology.com^
 ||ast2025.shop^
+||astomstyle.asia^
 ||astroearning.com^
 ||atamedya.shop^
 ||ataraxonline.net^
@@ -1644,6 +1645,7 @@
 ||irwin.tools.com^
 ||islanddluxe.top^
 ||ispoeti.com^
+||isx.financial^
 ||itactivejobs.xyz^
 ||italybookofra.online^
 ||itau.com.py^
@@ -1907,6 +1909,7 @@
 ||luxebazaar.online^
 ||luxeflairz.com^
 ||luxewatchus.com^
+||luxins.shop^
 ||lvlbit.com^
 ||lwbbc.com^
 ||lylussplus.com^
@@ -2870,6 +2873,7 @@
 ||storeyork.com.mx^
 ||strapsui.com^
 ||strattrade.org^
+||streamworld.co^
 ||strikearchive.com^
 ||stroyblock.online^
 ||stuncreditfb.com^
@@ -3114,6 +3118,7 @@
 ||tronlok.tv^
 ||tronminingfarm.com^
 ||tronok.cloud^
+||tronvortex.com^
 ||trophycase.cc^
 ||tructi.com^
 ||trust.forest7.com^
@@ -3478,6 +3483,7 @@
 ||yozabit.com^
 ||yronene.com^
 ||ysafei.vip^
+||ysoouinmn.com^
 ||yts.skin^
 ||yunpso.com^
 ||yupoo.vip^

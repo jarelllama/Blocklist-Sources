@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.053143.2025
+! Version: 01.18.060105.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 05:31:43 UTC 2025
+! Last modified: Sat Jan 18 06:01:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 653
+! Number of entries: 657
 ||03830.cxtsoftware.net^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -20,6 +20,7 @@
 ||7quente.xyz^
 ||81ggxm.com^
 ||8uyk0sctks0.typeform.com^
+||a.aliexpress.com^
 ||a.p.scrx.io^
 ||a1-memberidatsrvcapp.kupu.desa.id^
 ||acc-39750.ispring.eu^
@@ -46,6 +47,7 @@
 ||app.mailinblack.com^
 ||app26212380.com^
 ||appempireio.com^
+||application.hirestandardstaffing.com^
 ||aramex.u-deals.run^
 ||assistingwebs.shop^
 ||aurealone.com^
@@ -229,6 +231,7 @@
 ||i.aka.sm^
 ||i0k.cc^
 ||i40awms.acemlnb.com^
+||ibb.co^
 ||icici.co^
 ||idcom-pr.hdfcbank.com^
 ||identity.kbxl.com^
@@ -621,6 +624,7 @@
 ||www.lion777.club^
 ||www.maptq.com^
 ||www.maruvoice.ca^
+||www.mediafire.com^
 ||www.membershipvtex.com^
 ||www.mercadopago.com.co^
 ||www.microsoft.com^
