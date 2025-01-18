@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.022028.2025
+! Version: 01.18.024210.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 02:20:28 UTC 2025
+! Last modified: Sat Jan 18 02:42:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3482
+! Number of entries: 3486
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -102,6 +102,7 @@
 ||admolo.com^
 ||adsarp.com^
 ||adsphericalsuits.com^
+||advanced.onlineguestline.com^
 ||advancedasset.management.org^
 ||advetex.net^
 ||adyenn.com^
@@ -1060,6 +1061,7 @@
 ||eazyaccessoutsourcing.online^
 ||eazycryptotrade.com^
 ||ebay.mall.net^
+||ebayppcgp.com^
 ||ebdeficaz.com^
 ||ebook.smart.online^
 ||ec.ccm2.net^
@@ -2880,6 +2882,7 @@
 ||svip.work46.com^
 ||swapcrypto.exchange^
 ||swapmonero.exchange^
+||swedenfixedmatch.com^
 ||sweet.paradise.online^
 ||swiftcryptox.com^
 ||swiftfinverge.com^
@@ -3476,6 +3479,7 @@
 ||zielbioinc.com^
 ||zimasilkt.com^
 ||zjulpujub.wlasnnz.cn^
+||zkexchange.org^
 ||zkfair.io^
 ||zks7.com^
 ||zlibrary.to^
