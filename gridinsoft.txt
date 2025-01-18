@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.043253.2025
+! Version: 01.18.050104.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 04:32:53 UTC 2025
+! Last modified: Sat Jan 18 05:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3502
+! Number of entries: 3506
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -487,6 +487,7 @@
 ||blackfridaywholesale.ru^
 ||blackjack888.ph^
 ||blackshelter.org^
+||bladeware.app.tech^
 ||blast.tv.org^
 ||blazecasin.com^
 ||blissfulluck.cfd^
@@ -1321,6 +1322,7 @@
 ||frienditeglobal.online^
 ||frontbulletin.com^
 ||frugalflix.com^
+||fruit77.one^
 ||fruit777.tech^
 ||frutopy.com^
 ||ftx.global.site^
@@ -1536,6 +1538,7 @@
 ||horyx.shop^
 ||horze.it.top^
 ||host.hotel.com^
+||hostackhomefurnishings.shop^
 ||hotbtujeka.cc^
 ||hotbvamove.today^
 ||hotbveleki.cc^
@@ -2976,6 +2979,7 @@
 ||thepillowsintovogue.com^
 ||thepiratebay.mobi^
 ||thepiratebay0.org^
+||thepreorderhub.com^
 ||therrafirms.com^
 ||thespotifypremiumapk.com^
 ||thestockstandout.com^
