@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.130251.2025
+! Version: 01.18.133044.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 13:02:51 UTC 2025
+! Last modified: Sat Jan 18 13:30:44 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3543
+! Number of entries: 3546
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -548,6 +548,7 @@
 ||brandingacademy.online^
 ||brandtrendp.com^
 ||brasatrade.com^
+||braw4.net^
 ||breakmine.online^
 ||breathingottersca.com^
 ||breyfe.com^
@@ -2889,6 +2890,7 @@
 ||stemncommunity.com^
 ||steparian.com^
 ||steroidskaufen.com^
+||stggege.org^
 ||stocklogs.info^
 ||stoigr.org^
 ||stonxdex.com^
@@ -2983,6 +2985,7 @@
 ||terrapulsedfg.site^
 ||tesolarhubs.buzz^
 ||test.aspwyvsj.com^
+||tether.global.com^
 ||tfalcon.online^
 ||tfoskn.shop^
 ||tfvpm.org^
