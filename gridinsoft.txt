@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.093045.2025
+! Version: 01.18.100050.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 09:30:45 UTC 2025
+! Last modified: Sat Jan 18 10:00:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3531
+! Number of entries: 3534
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -1233,6 +1233,7 @@
 ||fazmex.com^
 ||febgtvh.com^
 ||fedilitylogistics.com^
+||feeliey.com^
 ||fenben.pro^
 ||fenovur.com^
 ||fenryon.com^
@@ -2151,6 +2152,7 @@
 ||neiman.marcus.co^
 ||nemalur.com^
 ||nemovix.com^
+||neobitix.com^
 ||neomaven.pro^
 ||nestedfashion.com^
 ||netbitcapital.net^
@@ -2621,6 +2623,7 @@
 ||robinhoodgroupltd.com^
 ||robochipcfd.biz^
 ||rockhillcapital.org^
+||rockportfrance.fr^
 ||rojadirectvonline.com^
 ||rokinat.co.in^
 ||roll2x.com^
