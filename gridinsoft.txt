@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.193047.2025
+! Version: 01.18.200050.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 19:30:47 UTC 2025
+! Last modified: Sat Jan 18 20:00:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3586
+! Number of entries: 3592
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -672,6 +672,7 @@
 ||cenutix.com^
 ||cerabiapparels.com^
 ||cerebrumiq.com^
+||cfbit.org^
 ||cfdqqx.com^
 ||cfs.trades.com^
 ||chainbank.network^
@@ -1543,6 +1544,7 @@
 ||highhillfurniture.com^
 ||hijra7.online^
 ||hindappstore.com^
+||hireahackers.pro^
 ||hireuphelp.online^
 ||hkcryptoexchange.com^
 ||hkdatong.shop^
@@ -1726,6 +1728,7 @@
 ||josephina.shop^
 ||jpgcompressor.online^
 ||jpm.financial.com^
+||jpnthom.com^
 ||jradx.ca^
 ||jrelievedy.monster^
 ||jrqyonline.com^
@@ -2469,6 +2472,7 @@
 ||playstation.stores.com^
 ||pledgeoffers.com^
 ||plmin.xyz^
+||plustraderspro.net^
 ||pmcdiecast.com^
 ||pnees.com^
 ||pnusaa.com^
@@ -2652,6 +2656,7 @@
 ||rewmplkkf.beauty^
 ||rexas.com^
 ||rhinetops.com^
+||richjl08.cc^
 ||rightgist.com^
 ||riskcomplianceportfolio134043.online^
 ||ritoudown.com^
@@ -2762,6 +2767,7 @@
 ||senteted.com^
 ||seokore.com^
 ||serenifty.com^
+||server.dgm0.com^
 ||serviteccr.com^
 ||setes.live^
 ||setyobim.online^
