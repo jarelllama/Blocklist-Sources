@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.170049.2025
+! Version: 01.18.173050.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 17:00:49 UTC 2025
+! Last modified: Sat Jan 18 17:30:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3561
+! Number of entries: 3563
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -1258,6 +1258,7 @@
 ||fhusg.com^
 ||fiahub.com^
 ||fic.cc^
+||fidelixdigitals.de^
 ||fieldloom.com^
 ||fighterseurope.com^
 ||fiheos.co.in^
@@ -1439,6 +1440,7 @@
 ||go.alphalamenace.com^
 ||goapoachowoovol.net^
 ||goblinx.org^
+||goddyusmall.com^
 ||goinvest.credit.com^
 ||golat.online^
 ||goldackerstrading.com^
