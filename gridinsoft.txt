@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.073034.2025
+! Version: 01.18.080103.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 07:30:34 UTC 2025
+! Last modified: Sat Jan 18 08:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3524
+! Number of entries: 3526
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -2230,6 +2230,7 @@
 ||nutraway.top^
 ||nvidiaair.com^
 ||nyc3.digitaloceanspaces.com^
+||oakwell.finance^
 ||oandaelitetrading.com^
 ||obagee.com^
 ||obalaso.online^
@@ -2589,6 +2590,7 @@
 ||resortburg.online^
 ||retoswap.com^
 ||retrofxmarkets.com^
+||retropixellc.com^
 ||reupsupplies.com^
 ||revanced.net^
 ||reventa.co^
