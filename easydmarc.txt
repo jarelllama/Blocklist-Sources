@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.033157.2025
+! Version: 01.18.040059.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 03:31:57 UTC 2025
+! Last modified: Sat Jan 18 04:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 647
+! Number of entries: 650
 ||03830.cxtsoftware.net^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -348,6 +348,7 @@
 ||nobellstore.com^
 ||notifications.googleapis.com^
 ||npower-fmhds-gov-ng.web.app^
+||nrovvz.efortiessdate.net^
 ||nsfas.whoyou.co.za^
 ||o53ufyj.gzlema.com^
 ||oag999.com^
@@ -469,6 +470,7 @@
 ||siyatek.com^
 ||skinport.com.kz^
 ||skribbl.io^
+||slgjsdoigjsdigjdfggfgd.blob.core.windows.net^
 ||smart-ph.ceo^
 ||smart-ph.college^
 ||smart.womxx.icu^
@@ -571,6 +573,7 @@
 ||we.tl^
 ||web.tresorit.com^
 ||welocalize.us15.list-manage.com^
+||westmelbourne.gov^
 ||wetrisfer.pages.dev^
 ||weurl.co^
 ||wip463-cm.myshopify.com^
