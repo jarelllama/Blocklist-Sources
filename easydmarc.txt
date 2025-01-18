@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.220059.2025
+! Version: 01.18.223130.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 22:00:59 UTC 2025
+! Last modified: Sat Jan 18 22:31:30 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 692
+! Number of entries: 696
 ||03830.cxtsoftware.net^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -217,6 +217,7 @@
 ||freecash.com^
 ||freefunhere.com^
 ||freenote.biz^
+||furl.one^
 ||genius.egis-group.com^
 ||getsocialboost.com^
 ||gezara.bestproductone.sbs^
@@ -340,6 +341,7 @@
 ||masaischool.com^
 ||mcossviewing.com^
 ||me-qr.com^
+||meatabdicatedelicatessen.com^
 ||mega.nz^
 ||metasbusiness-instagams.website^
 ||mindstyleworld.acemlnb.com^
@@ -634,6 +636,7 @@
 ||www.definitelynotascam.com^
 ||www.dhl.com^
 ||www.dhl.de^
+||www.dropbox.com^
 ||www.erome.com^
 ||www.expressfinanceonline.com^
 ||www.facebook.com^
@@ -681,6 +684,7 @@
 ||www.tiktok.com^
 ||www.ujerseyvip.com^
 ||www.vidmateapp.com^
+||www.web3aimrc.top^
 ||www.webex-meeting-code.com^
 ||www.winpkr116.com^
 ||www.ziprecruiter.com^
