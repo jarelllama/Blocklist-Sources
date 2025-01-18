@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.100051.2025
+! Version: 01.18.103254.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 10:00:51 UTC 2025
+! Last modified: Sat Jan 18 10:32:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 664
+! Number of entries: 668
 ||03830.cxtsoftware.net^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -65,6 +65,7 @@
 ||bit.ly^
 ||bitbucket.org^
 ||bite.my.id^
+||bl7hrd.sbs^
 ||blakebruno.com^
 ||bluedart.com^
 ||bonjoviworldtour.online^
@@ -167,6 +168,7 @@
 ||empoweredmanhealth.online^
 ||entrepreneuronfire.slclktrk004.com^
 ||erickson-crosby.carroal.my^
+||etendre-lux.com^
 ||eu.bbcollab.com^
 ||eu.docusign.net^
 ||eu01.z.antigena.com^
@@ -470,6 +472,7 @@
 ||share.wisestep.com^
 ||shelterrockchurch.churchcenter.com^
 ||shipping.id62902.world^
+||shop-sale4.quest^
 ||shorter.gg^
 ||shorturl.asia^
 ||shorturl.at^
@@ -488,6 +491,7 @@
 ||smartnet4.bharti.com^
 ||smazae.pics^
 ||smleads.top^
+||sms.particuliers.engie.fr^
 ||snapchat.com^
 ||sreamconmymnltty.com^
 ||srv688176.hstgr.cloud^
