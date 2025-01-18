@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.140105.2025
+! Version: 01.18.143115.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 14:01:05 UTC 2025
+! Last modified: Sat Jan 18 14:31:15 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 674
+! Number of entries: 677
 ||03830.cxtsoftware.net^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -195,6 +195,7 @@
 ||ffnga01.com^
 ||fg7syt3j.r.ap-south-1.awstrack.me^
 ||fgdy6l29.r.eu-west-1.awstrack.me^
+||fileknot.io^
 ||findmyiphone.location513.ru^
 ||firstledgersync.com^
 ||fiverr.acceptordered.com^
@@ -657,6 +658,7 @@
 ||www.roblox.com^
 ||www.sellection-my.online^
 ||www.sihub.in^
+||www.silvermtnllc.com^
 ||www.surveymonkey.com^
 ||www.swiggy.com^
 ||www.tataaig.com^
@@ -673,6 +675,7 @@
 ||yhrkh.com^
 ||yourbill.me^
 ||youshouldgotothe.chillcrew.net^
+||yu3.io^
 ||z.didi.cn^
 ||zalora.ee^
 ||zara-ro.profitclubtwo.click^

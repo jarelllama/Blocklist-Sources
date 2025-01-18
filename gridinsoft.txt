@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.140103.2025
+! Version: 01.18.143114.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 14:01:03 UTC 2025
+! Last modified: Sat Jan 18 14:31:14 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3548
+! Number of entries: 3552
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -981,6 +981,7 @@
 ||dfi00dcub57gcevs69yg.com^
 ||dghv.store^
 ||dhlmall.vip^
+||diamantemcb.us^
 ||dickies.com.es^
 ||dickssportingofficial.com^
 ||digestionscience.com^
@@ -1018,6 +1019,7 @@
 ||docs.shibariumtech.com^
 ||dogecoin.usdt.vip^
 ||dogee.vip^
+||dogefree.in^
 ||dogepick.io^
 ||dogooddaldaadw.com^
 ||dogs.kim^
@@ -1599,6 +1601,7 @@
 ||iceriver.company^
 ||iconicinternational.online^
 ||idatech.online^
+||idealpiptrade.com^
 ||idjqwinla.net^
 ||idtumy.com^
 ||ifast2.com^
@@ -1963,6 +1966,7 @@
 ||malltrabaho.online^
 ||manadapp.lol^
 ||mantraprint.in^
+||maqiqsent.com^
 ||mariswiss.com^
 ||market4s.com^
 ||marketglobalweb.com^
