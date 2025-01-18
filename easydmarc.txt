@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.233100.2025
+! Version: 01.18.000159.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 23:31:00 UTC 2025
+! Last modified: Sat Jan 18 00:01:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 639
+! Number of entries: 645
 ||03830.cxtsoftware.net^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -73,6 +73,7 @@
 ||buy.stripe.com^
 ||byc.sa^
 ||c.vialoops.com^
+||calendly.com^
 ||call.voipmessage.uk^
 ||callme-wine.it^
 ||can01.safelinks.protection.outlook.com^
@@ -144,6 +145,7 @@
 ||dukkank.com^
 ||duostoresa.com^
 ||e-interac-13261402.id1364837.com^
+||e-interac-23896451.id654891.com^
 ||e.account.hostinger.com^
 ||e.acct.epicgames.com^
 ||e.email.cc.yahoo.com^
@@ -157,6 +159,7 @@
 ||emailring.pages.dev^
 ||emea01.safelinks.protection.outlook.com^
 ||empoweredmanhealth.online^
+||entrepreneuronfire.slclktrk004.com^
 ||erickson-crosby.carroal.my^
 ||eu.bbcollab.com^
 ||eu.docusign.net^
@@ -252,6 +255,7 @@
 ||interac.alllaw.store^
 ||interac.make698.world^
 ||intranet.flemingc.on.ca^
+||investprimee.site^
 ||iplogger.com^
 ||ireland.api.tryhavana.com^
 ||is.gd^
@@ -291,6 +295,7 @@
 ||link.mail.beehiiv.com^
 ||links.podia.com^
 ||linktr.ee^
+||live.decidir.com^
 ||live.indianewstoday2.top^
 ||ln.run^
 ||lnkd.in^
@@ -499,6 +504,7 @@
 ||tally.so^
 ||team2swift.zendesk.com^
 ||telegra.ph^
+||telegram.dog^
 ||temu.com^
 ||tepco.eaxxf.art^
 ||terabox.com^

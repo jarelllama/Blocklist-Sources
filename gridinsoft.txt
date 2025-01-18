@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.17.233059.2025
+! Version: 01.18.000157.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 17 23:30:59 UTC 2025
+! Last modified: Sat Jan 18 00:01:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3472
+! Number of entries: 3475
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -1167,6 +1167,7 @@
 ||event.thedefiant.io^
 ||eventscodm.com^
 ||evericsedge.com^
+||evestv.com^
 ||evil.com^
 ||evli.fr^
 ||evmprime.com^
@@ -1322,6 +1323,7 @@
 ||funninexchange.com^
 ||furniturej.shop^
 ||fusion.gain.cfd^
+||fustorix.com^
 ||futurecryptominer.com^
 ||futuresprous.com^
 ||futurofinanzachile.com^
@@ -1746,6 +1748,7 @@
 ||krpod.com^
 ||ksda.online.org^
 ||kubabuy.com^
+||kuiesd.com^
 ||kulken.com^
 ||kurtastudio.com^
 ||labellovers.nl^
