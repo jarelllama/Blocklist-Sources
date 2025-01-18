@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.070053.2025
+! Version: 01.18.073034.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 07:00:53 UTC 2025
+! Last modified: Sat Jan 18 07:30:34 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3522
+! Number of entries: 3524
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -1572,6 +1572,7 @@
 ||hulonqgroup.com^
 ||hululusol.com^
 ||hunnybank.com^
+||hustlersuniversityapp.com^
 ||hvuaill.com^
 ||hxsc.store^
 ||hxxokerase.fyi^
@@ -1858,6 +1859,7 @@
 ||liveccvv.mp^
 ||llbeanfactoryoutlets.shop^
 ||lmhous.net^
+||lmxx002.aspwyvsj.com^
 ||ln.run^
 ||loanfundsonline.com^
 ||localsgowild.com^
