@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.060104.2025
+! Version: 01.18.063427.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 06:01:04 UTC 2025
+! Last modified: Sat Jan 18 06:34:27 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3517
+! Number of entries: 3519
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -1621,6 +1621,7 @@
 ||intelligiencehub.com^
 ||inter.entregas.online^
 ||interactive.pov.com^
+||interelecbox.com^
 ||interexpresscourier.com^
 ||introtocrypto.xyz^
 ||invest.cryptonetworkspace.com^
@@ -1969,6 +1970,7 @@
 ||mayavatifashion.in^
 ||mayer.boutique.de^
 ||mayzik.com^
+||mcmsale.top^
 ||meantallie.com^
 ||meanwhiley.com^
 ||meb.budget.com^
