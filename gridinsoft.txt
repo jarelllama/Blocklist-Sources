@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.200050.2025
+! Version: 01.18.203050.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 20:00:50 UTC 2025
+! Last modified: Sat Jan 18 20:30:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3592
+! Number of entries: 3597
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -991,6 +991,7 @@
 ||dhlmall.vip^
 ||diamantemcb.us^
 ||dickies.com.es^
+||dickssportinggoodsholiday.com^
 ||dickssportingofficial.com^
 ||digestionscience.com^
 ||digihash.io^
@@ -1420,6 +1421,7 @@
 ||gfslsecurities.cc^
 ||ggff.net^
 ||gggwg.online^
+||gh.rcgolds.com^
 ||ghsgdkag.com^
 ||ghsyps.ca^
 ||giftbasketonlines.com^
@@ -1780,6 +1782,7 @@
 ||kishka.co^
 ||kissminis.com^
 ||kisuort.shop^
+||kitculture.store^
 ||kiterexchangez.click^
 ||kittycomfortstore.com^
 ||kixaikisuccessful.net^
@@ -2657,6 +2660,7 @@
 ||rexas.com^
 ||rhinetops.com^
 ||richjl08.cc^
+||ridswear.com^
 ||rightgist.com^
 ||riskcomplianceportfolio134043.online^
 ||ritoudown.com^
@@ -3430,6 +3434,7 @@
 ||web3km.online^
 ||web3land.net^
 ||web3pay.biz^
+||websparkstore.com^
 ||wedexy.com^
 ||weebull.co^
 ||weetarget.online^

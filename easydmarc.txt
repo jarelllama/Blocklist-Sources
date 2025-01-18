@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.200051.2025
+! Version: 01.18.203052.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 20:00:51 UTC 2025
+! Last modified: Sat Jan 18 20:30:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 688
+! Number of entries: 691
 ||03830.cxtsoftware.net^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -52,6 +52,7 @@
 ||application.hirestandardstaffing.com^
 ||aramex.u-deals.run^
 ||assistingwebs.shop^
+||attunedoffersnow.lat^
 ||aurealone.com^
 ||auspost.2hnlsi.online^
 ||auspost.4uyiqx.top^
@@ -130,6 +131,7 @@
 ||dataengineerinterviews.com^
 ||dccd.li^
 ||ddownload.com^
+||de.aliexpress.com^
 ||del.dhl.com^
 ||departamento-licitacoes-dot-yamm-track.appspot.com^
 ||descuento-planpostpago.usite.pro^
@@ -171,6 +173,7 @@
 ||empoweredmanhealth.online^
 ||entrepreneuronfire.slclktrk004.com^
 ||erickson-crosby.carroal.my^
+||estaannis.blogspot.com^
 ||etendre-lux.com^
 ||eu.bbcollab.com^
 ||eu.docusign.net^
