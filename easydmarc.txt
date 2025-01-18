@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.160055.2025
+! Version: 01.18.163318.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 16:00:55 UTC 2025
+! Last modified: Sat Jan 18 16:33:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 678
+! Number of entries: 683
 ||03830.cxtsoftware.net^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -103,6 +103,7 @@
 ||citiretailservices.citibankonline.com^
 ||citly.me^
 ||clck.ru^
+||click.e.freedommobile.ca^
 ||click.pstmrk.it^
 ||click.smartsheet.com^
 ||click.txn-email.account.sony.com^
@@ -213,6 +214,7 @@
 ||freefunhere.com^
 ||freenote.biz^
 ||genius.egis-group.com^
+||getsocialboost.com^
 ||gezara.bestproductone.sbs^
 ||gifft.me^
 ||gmail.net-login.com^
@@ -344,6 +346,7 @@
 ||modijiurl.com^
 ||modyolo.com^
 ||moolahspot.com^
+||motionperformedstew.com^
 ||msqwatch.com^
 ||musicalconcepts.net^
 ||mvc.us11.list-manage.com^
@@ -592,6 +595,7 @@
 ||vz.jiahemumen.com^
 ||wa.me^
 ||wagestream.acemlnb.com^
+||warmpatron.top^
 ||wayspire.in^
 ||we.tl^
 ||web.tresorit.com^
@@ -625,6 +629,7 @@
 ||www.expressfinanceonline.com^
 ||www.facebook.com^
 ||www.fhmparts.com^
+||www.fnp.com^
 ||www.free80sarcade.com^
 ||www.getgardenscapes.com^
 ||www.glassons.com^

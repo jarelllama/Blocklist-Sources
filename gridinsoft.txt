@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.160054.2025
+! Version: 01.18.163316.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 16:00:54 UTC 2025
+! Last modified: Sat Jan 18 16:33:16 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3556
+! Number of entries: 3560
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -412,6 +412,7 @@
 ||binancetradings.org^
 ||binarium.com^
 ||binariumy.com^
+||binbulin.com^
 ||bincoinlux.com^
 ||bine.mails.top^
 ||bingo.ba^
@@ -1092,6 +1093,7 @@
 ||ecom.usdt.online^
 ||ecos.am^
 ||ecovipshop.top^
+||ecstore2021.com^
 ||eddyconstructions.com^
 ||edekn.com^
 ||edenhoj.com^
@@ -2974,6 +2976,7 @@
 ||tbwa.dad^
 ||tc126.xyz^
 ||te.currency.xshares.site^
+||teaserfast.ru^
 ||techberry.online.com^
 ||technozone.com.au^
 ||techsecurebase.com^
@@ -3152,6 +3155,7 @@
 ||trmanifesto.com^
 ||trolleytimes.online^
 ||tromevixion.live^
+||tron.soy^
 ||tronholdingsllc.com^
 ||tronlok.tv^
 ||tronminingfarm.com^
