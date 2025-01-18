@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.190055.2025
+! Version: 01.18.193047.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 19:00:55 UTC 2025
+! Last modified: Sat Jan 18 19:30:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3578
+! Number of entries: 3586
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -995,6 +995,7 @@
 ||digihash.io^
 ||digiqhub.com^
 ||digital.usdt.com^
+||digitalfinancemarketingpro.com^
 ||digitalfolio.online^
 ||digitalkeysoftware.com^
 ||digitalolive.shop^
@@ -1020,6 +1021,7 @@
 ||divicast.com^
 ||divinark.store^
 ||divingcentercadaques.com^
+||diwataplay.bet^
 ||dnswatch.info^
 ||docker.1ms.run^
 ||doclothes.com^
@@ -1404,6 +1406,7 @@
 ||genesisminingbot.com^
 ||geninsur.com^
 ||geographz.com^
+||geoxsdiscountshop.com^
 ||get.activated.win^
 ||getcryptodrop.com^
 ||getdrant.shop^
@@ -1699,6 +1702,7 @@
 ||jamai.top^
 ||jaysranchhamden.online^
 ||jbei99.vip^
+||jdmax88.com^
 ||jerseyeugee.com^
 ||jetmarssofertas.online^
 ||jewelrygiftcenter.com^
@@ -2499,6 +2503,7 @@
 ||primitivesystem.online^
 ||pristinedrivecarcare.com^
 ||privatesportshop.fr^
+||prizefrenzyzone.today^
 ||prizerebel.com^
 ||pro.cion.com^
 ||procim.online^
@@ -2588,6 +2593,7 @@
 ||realionetwork.claims^
 ||reallilya.com^
 ||realmoney.live^
+||reasonablu.com^
 ||rebasedex.cloud^
 ||rebelsatoshi.com^
 ||recetasexpres.com^
@@ -2614,6 +2620,7 @@
 ||reloadingstocks.com^
 ||relutar.com^
 ||remix.web3console.com^
+||remoteworkerinternal.co^
 ||renmsuq.shop^
 ||renovix.online^
 ||renvara.com^
@@ -3469,6 +3476,7 @@
 ||world.dailyincome.com^
 ||world.delivery.service.com^
 ||worldfamoushotboys.net^
+||worldmovesolutions.com^
 ||worldnftmarket.top^
 ||worldofhurtonline.com^
 ||worldproductssprogram.com^
