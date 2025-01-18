@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.120059.2025
+! Version: 01.18.124038.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 12:00:59 UTC 2025
+! Last modified: Sat Jan 18 12:40:38 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3539
+! Number of entries: 3542
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -224,6 +224,7 @@
 ||app.acuityscheduling.com^
 ||app.city2000.cc^
 ||app.lockswallet.net^
+||app.markthal.vip^
 ||app.olet8.com^
 ||app.privatecoin.net^
 ||app.sanagl.cc^
@@ -1499,6 +1500,7 @@
 ||harveylux.com^
 ||hashfactor.net^
 ||hassampc.com^
+||havenstiendas.com^
 ||healthessencial.com^
 ||healthtimers.com^
 ||heavensender.pro^
@@ -2053,6 +2055,7 @@
 ||mininvstplatform.com^
 ||minotrasovestra.com^
 ||mintooshop.com^
+||mipng.com^
 ||miracleorganics.online^
 ||mirai123.online^
 ||missav.cam^

@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.120101.2025
+! Version: 01.18.124039.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 12:01:01 UTC 2025
+! Last modified: Sat Jan 18 12:40:39 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 670
+! Number of entries: 672
 ||03830.cxtsoftware.net^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -192,6 +192,7 @@
 ||femaxpipeworks.com^
 ||festj4-onllin3-sam-cellu-am3.com^
 ||ffnga01.com^
+||fg7syt3j.r.ap-south-1.awstrack.me^
 ||fgdy6l29.r.eu-west-1.awstrack.me^
 ||findmyiphone.location513.ru^
 ||firstledgersync.com^
@@ -657,6 +658,7 @@
 ||www.surveymonkey.com^
 ||www.swiggy.com^
 ||www.tataaig.com^
+||www.thermoswy518.com^
 ||www.tiktok.com^
 ||www.ujerseyvip.com^
 ||www.vidmateapp.com^
