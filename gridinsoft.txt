@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.133044.2025
+! Version: 01.18.140103.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 13:30:44 UTC 2025
+! Last modified: Sat Jan 18 14:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3546
+! Number of entries: 3548
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -952,6 +952,7 @@
 ||defisetstrategies.dev^
 ||defistamp.com^
 ||defiswap.life^
+||dekarbericht.com^
 ||delicatede.com^
 ||delicemaison.com^
 ||delifact.com^
@@ -1939,6 +1940,7 @@
 ||mablehelp.online^
 ||macpac.ts.shop^
 ||macystoreclothing.com^
+||madmuscles.com^
 ||mahadev.id.online^
 ||mahakumbhhelicopterservice.online^
 ||mainelobsterget.shop^
