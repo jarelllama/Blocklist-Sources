@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.040058.2025
+! Version: 01.18.043253.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 04:00:58 UTC 2025
+! Last modified: Sat Jan 18 04:32:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3497
+! Number of entries: 3502
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -318,6 +318,7 @@
 ||bancaseguraporlnternetdeempresas.scotialbanrkperu.online^
 ||bangunbersama.online^
 ||bank.sepah.com^
+||bantuswahilitours.com^
 ||baominpower.com^
 ||bar47menu.online^
 ||bargainxpressz.bet^
@@ -1589,6 +1590,7 @@
 ||inamksa.icu^
 ||incart.co.za^
 ||inclutde.com^
+||income.access.com^
 ||ind.888.site^
 ||indianclub01.pro^
 ||indiapostkz.vip^
@@ -2325,6 +2327,7 @@
 ||palessaint.com^
 ||palettepro.homes^
 ||palliee.com^
+||pallitfold.com^
 ||pallmetostasarmory.shop^
 ||palloda.com^
 ||palmesale.shop^
@@ -2733,6 +2736,7 @@
 ||shopwithpulse.store^
 ||shorturl.at^
 ||shotzon.com^
+||siabrocenipellets.com^
 ||sicmundus.online^
 ||siftai.net^
 ||sigmaweb.online^
@@ -3417,6 +3421,7 @@
 ||xcyera.com^
 ||xdopig.com^
 ||xegukiy.shop^
+||xeodeals.shop^
 ||xerecoe.shop^
 ||xewios.com^
 ||xfnity.id8743.info^
