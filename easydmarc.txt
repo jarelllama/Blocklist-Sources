@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.024211.2025
+! Version: 01.18.030055.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 02:42:11 UTC 2025
+! Last modified: Sat Jan 18 03:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 644
+! Number of entries: 647
 ||03830.cxtsoftware.net^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -27,6 +27,7 @@
 ||accurx.nhs.uk^
 ||adbluemedia.com^
 ||adobe-link-hub-com.vercel.app^
+||advantage.paradox.ai^
 ||af-atm.com^
 ||af-update.top^
 ||afflat3c2.com^
@@ -382,6 +383,7 @@
 ||pixceldigital.com^
 ||pkonuadian.com^
 ||pntskfdx.r.us-west-2.awstrack.me^
+||post.flyingenvelope.com^
 ||prepo.slack.com^
 ||presenter.ahaslides.com^
 ||press-continue.4k7kca7aj0s4.top^
@@ -487,6 +489,7 @@
 ||steam.usercommunityarts.com^
 ||steamcommunity.app2622380.com^
 ||steamcommunity.com^
+||steamcommunjitny.com^
 ||steamcomnnunity.com^
 ||steampowered.nextplaytest.com^
 ||steampowered.playtestgameinvited.com^

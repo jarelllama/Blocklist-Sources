@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.024210.2025
+! Version: 01.18.030054.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 02:42:10 UTC 2025
+! Last modified: Sat Jan 18 03:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3486
+! Number of entries: 3490
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -374,6 +374,7 @@
 ||bet4.pe^
 ||betnight.online^
 ||betonline.love^
+||betpawa.tips.com^
 ||betsclub.pro^
 ||betteranime.net^
 ||betwave.vip^
@@ -921,6 +922,7 @@
 ||deenext.com^
 ||deepnude.to^
 ||deepnudeai.online^
+||deepweb.fixedmatches.com^
 ||defi.drop.xyz^
 ||defi.official.com^
 ||defi.pad.com^
@@ -3135,6 +3137,7 @@
 ||uhbideal.store^
 ||uhg.shop.nl^
 ||uhorix.online^
+||uidsse.com^
 ||ukhomebase.com^
 ||ulmire.com^
 ||ultimateexperttrade247.com^
@@ -3354,6 +3357,7 @@
 ||wiaa.in^
 ||wichhistor.co.uk^
 ||williamarnold.online^
+||williamhillfixedmatch.com^
 ||wilsoncrypto.pro^
 ||winbignowz92.info^
 ||windcapitalsinfo.us^
