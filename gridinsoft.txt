@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.004509.2025
+! Version: 01.18.012737.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 00:45:09 UTC 2025
+! Last modified: Sat Jan 18 01:27:37 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3475
+! Number of entries: 3478
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -915,9 +915,11 @@
 ||dbmsurvey.com^
 ||dcard50.ru^
 ||ddsteel.online^
+||dealzforu.pro^
 ||decorhome.arg.store^
 ||deenext.com^
 ||deepnude.to^
+||deepnudeai.online^
 ||defi.drop.xyz^
 ||defi.official.com^
 ||defi.pad.com^
@@ -2931,6 +2933,7 @@
 ||tfvpm.org^
 ||tgbtest.com^
 ||thatmall.vip^
+||the.earth.li^
 ||the.prize.stash.com^
 ||thebestofferforyoutoday.online^
 ||thecapitalholdings.io^

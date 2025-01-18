@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.004510.2025
+! Version: 01.18.012738.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 00:45:10 UTC 2025
+! Last modified: Sat Jan 18 01:27:38 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 645
+! Number of entries: 649
 ||03830.cxtsoftware.net^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -44,6 +44,7 @@
 ||api.icodrops.com^
 ||app.jotform.com^
 ||app.mailinblack.com^
+||app26212380.com^
 ||appempireio.com^
 ||aramex.u-deals.run^
 ||assistingwebs.shop^
@@ -202,11 +203,13 @@
 ||gds.google.com^
 ||genius.egis-group.com^
 ||gifft.me^
+||gmail.net-login.com^
 ||go.air-pay.co.uk^
 ||gofile.io^
 ||golden-show1.com^
 ||goo.gl^
 ||goodroads.acemlnb.com^
+||google.at^
 ||goto.now^
 ||goviral.growthtools.com^
 ||harderjuniormisty.com^
@@ -486,7 +489,6 @@
 ||steam.sourcecommunitylist.com^
 ||steam.usercommunityart.com^
 ||steam.usercommunityarts.com^
-||steamcommunity.app26212380.com^
 ||steamcommunity.app2622380.com^
 ||steamcommunity.com^
 ||steamcomnnunity.com^
@@ -563,6 +565,7 @@
 ||vicky-858435.thompson633.sbs^
 ||vlogf.ams1.vultrobjects.com^
 ||vvww--roblox.com^
+||vxtwitter.com^
 ||wa.me^
 ||wagestream.acemlnb.com^
 ||wayspire.in^
@@ -615,6 +618,7 @@
 ||www.maptq.com^
 ||www.maruvoice.ca^
 ||www.membershipvtex.com^
+||www.mercadopago.com.co^
 ||www.microsoft.com^
 ||www.mmiiaxo.com^
 ||www.nagem.com.br^
