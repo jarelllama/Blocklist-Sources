@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.030054.2025
+! Version: 01.18.033156.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 03:00:54 UTC 2025
+! Last modified: Sat Jan 18 03:31:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3490
+! Number of entries: 3494
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -611,6 +611,7 @@
 ||canvasgenius.homes^
 ||capaciousdrewreligion.com^
 ||capital.shares.com^
+||capitalbean.com^
 ||capitalix.com^
 ||capitalmastery.org^
 ||capitalquesttrades.com^
@@ -896,6 +897,7 @@
 ||cybex.360.com^
 ||cyphermarket.ru^
 ||czvinwqzs.zjxjmp.cn^
+||d.binrefund.top^
 ||d4iqpj8tqft8l.cloudfront.net^
 ||dagahna.fun^
 ||dailytehillim.online^
@@ -2907,12 +2909,14 @@
 ||t.mediapros02.world^
 ||t.peer.com^
 ||t2.awagama2.org^
+||tackleft.com^
 ||tads.baker.co.za^
 ||takchu.com^
 ||talentstreamnet.com^
 ||talklikesm.best^
 ||taqwapublications.com^
 ||tarionus.shop^
+||tartantoday.com^
 ||tbkis.com^
 ||tbwa.dad^
 ||tc126.xyz^
