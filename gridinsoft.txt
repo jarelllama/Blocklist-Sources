@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.18.113048.2025
+! Version: 01.18.120059.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 18 11:30:48 UTC 2025
+! Last modified: Sat Jan 18 12:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3537
+! Number of entries: 3539
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -287,6 +287,7 @@
 ||aukweb3.com^
 ||auraexchangehub.com^
 ||auroracherie.com^
+||austeretv.com^
 ||australiansafesttradingbot.online^
 ||auth.mashash.co^
 ||authenticounterfeithub.com^
@@ -1231,6 +1232,7 @@
 ||fashioze.com^
 ||fastbrush.online^
 ||fastee.top^
+||fastshare.cloud^
 ||fastswap.one^
 ||fazmex.com^
 ||febgtvh.com^
