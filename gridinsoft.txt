@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.043317.2025
+! Version: 01.19.050100.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 04:33:17 UTC 2025
+! Last modified: Sun Jan 19 05:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3643
+! Number of entries: 3648
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -1691,6 +1691,7 @@
 ||iptvkaufen24.de^
 ||iptvnexus.com^
 ||iptvproducts.com^
+||iptvtvsmarters.com^
 ||iqmind.co^
 ||iralarkincoach.com^
 ||iranfinance.info^
@@ -2465,6 +2466,7 @@
 ||penetratea.com^
 ||penguin.zkirc.com^
 ||penguinmalil.com^
+||pepenew20.xyz^
 ||pepeto.io^
 ||pepeunchained.com^
 ||pepeunchained.io^
@@ -2587,6 +2589,9 @@
 ||qcstar.com^
 ||qcxmall.com^
 ||qdiminers.com^
+||qeqywui8.pro^
+||qer.qvelo.top^
+||qertlin.sbs^
 ||qfsbackupassets.ltd^
 ||qfslite.sbs^
 ||qfsnesara.io^
