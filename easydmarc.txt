@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.183358.2025
+! Version: 01.19.190100.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 18:33:58 UTC 2025
+! Last modified: Sun Jan 19 19:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 743
+! Number of entries: 746
 ||03830.cxtsoftware.net^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -21,6 +21,7 @@
 ||7quente.xyz^
 ||81ggxm.com^
 ||8uyk0sctks0.typeform.com^
+||95-216-68-56.top^
 ||a.aliexpress.com^
 ||a.p.scrx.io^
 ||a1-memberidatsrvcapp.kupu.desa.id^
@@ -526,6 +527,7 @@
 ||simplysign.ai^
 ||sio-store.com^
 ||siyatek.com^
+||skinport.com.es^
 ||skinport.com.kz^
 ||skribbl.io^
 ||slgjsdoigjsdigjdfggfgd.blob.core.windows.net^
@@ -683,6 +685,7 @@
 ||www.dhl.com^
 ||www.dhl.de^
 ||www.dropbox.com^
+||www.eneba.com^
 ||www.erome.com^
 ||www.expressfinanceonline.com^
 ||www.facebook.com^
