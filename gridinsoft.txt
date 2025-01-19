@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.163333.2025
+! Version: 01.19.170052.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 16:33:33 UTC 2025
+! Last modified: Sun Jan 19 17:00:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3702
+! Number of entries: 3705
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -1406,6 +1406,7 @@
 ||fustorix.com^
 ||futurecryptominer.com^
 ||futuresprous.com^
+||futurewisehub.com^
 ||futurofinanzachile.com^
 ||fvyreu.com^
 ||fwpy.swelucky.com^
@@ -1755,6 +1756,7 @@
 ||jbei99.vip^
 ||jdmax88.com^
 ||jerseyeugee.com^
+||jessemade.es^
 ||jetmarssofertas.online^
 ||jewelrygiftcenter.com^
 ||jewelrysgiftstore.com^
@@ -2790,6 +2792,7 @@
 ||s66639.co^
 ||sadalds.store^
 ||safeapk.net^
+||safewealth.holdings.com^
 ||sag.quantify.com^
 ||sagkjsd.com^
 ||saibabaweldings.xyz^
