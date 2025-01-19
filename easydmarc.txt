@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.090050.2025
+! Version: 01.19.093051.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 09:00:50 UTC 2025
+! Last modified: Sun Jan 19 09:30:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 721
+! Number of entries: 726
 ||03830.cxtsoftware.net^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -69,6 +69,7 @@
 ||bit.ly^
 ||bitbucket.org^
 ||bite.my.id^
+||bitly.cx^
 ||bl7hrd.sbs^
 ||blakebruno.com^
 ||bluedart.com^
@@ -154,8 +155,10 @@
 ||djs5qc04.eu1.hs-sales-engage.com^
 ||dmzw6lurug.feishu.cn^
 ||docsend.com^
+||dollartub.com^
 ||donate.wfp.org^
 ||download.books.ms^
+||download2333.mediafire.com^
 ||dreadtheempire.com^
 ||dsc.gg^
 ||dukkank.com^
@@ -207,6 +210,7 @@
 ||fg7syt3j.r.ap-south-1.awstrack.me^
 ||fgdy6l29.r.eu-west-1.awstrack.me^
 ||fileknot.io^
+||findmy-located.app^
 ||findmyiphone.location513.ru^
 ||firstledgersync.com^
 ||fiverr.acceptordered.com^
@@ -618,6 +622,7 @@
 ||veepn.com^
 ||verify.accredible.com^
 ||vicky-858435.thompson633.sbs^
+||videolite.page.link^
 ||vizard.ai^
 ||vld.smsaexpress.com^
 ||vlogf.ams1.vultrobjects.com^
