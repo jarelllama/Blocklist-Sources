@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.070055.2025
+! Version: 01.19.073059.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 07:00:55 UTC 2025
+! Last modified: Sun Jan 19 07:30:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3669
+! Number of entries: 3673
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -2308,6 +2308,7 @@
 ||nowidi.monopulses.com^
 ||nowmining.fun^
 ||nowquality.ca^
+||nrsa.in^
 ||nt.h5.com^
 ||nubil.nl^
 ||nudevista.com^
@@ -2328,6 +2329,7 @@
 ||occreply.com^
 ||oceanprotocol2.life^
 ||oemete.com^
+||oexbit.com^
 ||ofertabook.online^
 ||ofertadomostruario.com^
 ||offersheres.net^
@@ -2597,6 +2599,7 @@
 ||pzlcbshop.com^
 ||q.2nvu3.com^
 ||q.usdnba.cc^
+||q4ddc0.webwave.dev^
 ||qalrlr.shop^
 ||qavalui9.pro^
 ||qawcklos.com^
@@ -3607,6 +3610,7 @@
 ||xtremeiptv.online^
 ||xvkdfashion.shop^
 ||xyzverse.io^
+||yangcong.info^
 ||yanwosu.com^
 ||yavarifx.com^
 ||ybycmeds.com^
