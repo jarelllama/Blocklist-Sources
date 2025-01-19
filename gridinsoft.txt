@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.203049.2025
+! Version: 01.19.210111.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 20:30:49 UTC 2025
+! Last modified: Sun Jan 19 21:01:11 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3717
+! Number of entries: 3719
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -1213,6 +1213,7 @@
 ||epoiu.com^
 ||equallyto.com^
 ||equistak.com^
+||eraw.top^
 ||ercdlp.com^
 ||erkulbicak.com^
 ||ermsty.com^
@@ -2826,6 +2827,7 @@
 ||sarangpuradharamashala.online^
 ||saryarkacargo.com^
 ||sato.castle.com^
+||saturnwallet.app^
 ||sauconyfootwear.com^
 ||sauconysneakersdiscount.shop^
 ||sauditech.link^
