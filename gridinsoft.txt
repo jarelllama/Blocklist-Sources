@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.143141.2025
+! Version: 01.19.150055.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 14:31:41 UTC 2025
+! Last modified: Sun Jan 19 15:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3692
+! Number of entries: 3696
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -827,6 +827,7 @@
 ||comfyonline.app^
 ||comic.hupshop.com^
 ||communaltrades.com^
+||communitydisscussion.com^
 ||compare.deals.online.info^
 ||comprasdigitaisglobais.online^
 ||computarius.online^
@@ -963,6 +964,7 @@
 ||dbespot.com^
 ||dbmsurvey.com^
 ||dcard50.ru^
+||dcodesnippet.com^
 ||ddsteel.online^
 ||dealzforu.pro^
 ||deans.shoprite.online^
@@ -2562,6 +2564,7 @@
 ||practicemakesperfect.online^
 ||praytech.ma^
 ||precedings.shop^
+||preferee.pharmacie.fr^
 ||premium.iptvpro.com^
 ||premiumbankleyfx.com^
 ||pretiboiy.com^
@@ -3098,6 +3101,7 @@
 ||techzesh.com^
 ||tecnorn.online^
 ||tedexy.com^
+||teflam.com^
 ||teiagrma.pub^
 ||telegramok.com^
 ||telelabs.online^
