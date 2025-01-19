@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.033336.2025
+! Version: 01.19.040106.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 03:33:36 UTC 2025
+! Last modified: Sun Jan 19 04:01:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3628
+! Number of entries: 3636
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -291,6 +291,7 @@
 ||aukweb3.com^
 ||auraexchangehub.com^
 ||auroracherie.com^
+||ausdedaoubaandou.gdyxlxxh.com^
 ||austeretv.com^
 ||australiansafesttradingbot.online^
 ||auth.mashash.co^
@@ -363,6 +364,7 @@
 ||beltlox.top^
 ||benjamindavispersonaltrainer.com^
 ||bergmannmodehaus.com^
+||bergstrombees.store^
 ||bernaid.shop^
 ||bernardex.com^
 ||bervospace.com^
@@ -426,6 +428,7 @@
 ||bioairdrop.com^
 ||bioanalysis.lt^
 ||biologysimple.com^
+||birddecoysofnorthamerica.com^
 ||birkenstores.us^
 ||birtox.biz^
 ||bisalex.com^
@@ -1696,6 +1699,7 @@
 ||irisium.lat^
 ||irwin.tools.com^
 ||islanddluxe.top^
+||isozpn.com^
 ||ispoeti.com^
 ||isx.financial^
 ||itactivejobs.xyz^
@@ -2213,6 +2217,7 @@
 ||nemovix.com^
 ||neobitix.com^
 ||neomaven.pro^
+||neopaypoint.org^
 ||nestedfashion.com^
 ||netbitcapital.net^
 ||netdcbf.com^
@@ -2221,6 +2226,7 @@
 ||newalking.com^
 ||newbalancelink.com^
 ||newdefineservice.online^
+||newdynaxioncb.org^
 ||newlearning.icu^
 ||newlrra.online^
 ||newrocksouthafrica.com^
@@ -2582,8 +2588,10 @@
 ||qfsbackupassets.ltd^
 ||qfslite.sbs^
 ||qfsnesara.io^
+||qixub.stmaryjoseph.com^
 ||qqbit.net^
 ||qrefuishz.monster^
+||qruirseven.com^
 ||qtvvcshop.com^
 ||qualitynoteschange.com^
 ||qualityresells.shop^
