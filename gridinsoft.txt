@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.180101.2025
+! Version: 01.19.183357.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 18:01:01 UTC 2025
+! Last modified: Sun Jan 19 18:33:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3707
+! Number of entries: 3710
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -593,6 +593,7 @@
 ||btceex.com^
 ||btcgame.cc^
 ||btcmall.club^
+||btcminer.tech^
 ||btcotcvip.net^
 ||btcpaypartners.com^
 ||btcvipotc.com^
@@ -682,6 +683,7 @@
 ||cbex18.com^
 ||cbex3.com^
 ||cbtfturbo99.com^
+||ccard50.ru^
 ||ccsnkrs.store^
 ||cdonnsauw.top^
 ||celebprize.com^
@@ -3611,6 +3613,7 @@
 ||www1.thepiratebay3.to^
 ||www2.rarbggo.to^
 ||wwwwscsb500comios2ser.wscbs.vip^
+||x.coin.app^
 ||x.ua.com^
 ||xai79a.com^
 ||xanarx.live^
