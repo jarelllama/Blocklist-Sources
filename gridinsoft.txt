@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.053136.2025
+! Version: 01.19.060054.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 05:31:36 UTC 2025
+! Last modified: Sun Jan 19 06:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3653
+! Number of entries: 3660
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -927,6 +927,7 @@
 ||cyberhavenext.pro^
 ||cybex.360.com^
 ||cyphermarket.ru^
+||cztrskaw.xyz^
 ||czvinwqzs.zjxjmp.cn^
 ||d.binrefund.top^
 ||d4iqpj8tqft8l.cloudfront.net^
@@ -947,6 +948,7 @@
 ||datmyx.online^
 ||dawnfelt.com^
 ||dbbjrhhn.guru^
+||dbespot.com^
 ||dbmsurvey.com^
 ||dcard50.ru^
 ||ddsteel.online^
@@ -1518,6 +1520,7 @@
 ||guavarina.com.br^
 ||guejoin.com^
 ||guestreservations.com^
+||gugd.store^
 ||guide.sante.space^
 ||gunluksevilenkampanyalarsizlerle.online^
 ||gusalio.com^
@@ -2589,6 +2592,9 @@
 ||q.2nvu3.com^
 ||q.usdnba.cc^
 ||qalrlr.shop^
+||qavalui9.pro^
+||qawcklos.com^
+||qaz.ream.top^
 ||qcitpros.com^
 ||qcstar.com^
 ||qcxmall.com^
@@ -2979,6 +2985,7 @@
 ||stellwisestore.com^
 ||stemncommunity.com^
 ||steparian.com^
+||steredapharmacy.com^
 ||steroidskaufen.com^
 ||stggege.org^
 ||stocklogs.info^
