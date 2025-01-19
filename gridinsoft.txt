@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.012801.2025
+! Version: 01.19.020350.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 01:28:01 UTC 2025
+! Last modified: Sun Jan 19 02:03:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3611
+! Number of entries: 3615
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -157,6 +157,7 @@
 ||allianceroyals.com^
 ||allicross.online^
 ||alltrainerspc.com^
+||allyeder.com^
 ||alo88.black^
 ||aloidvg.com^
 ||alpaboost.com^
@@ -468,6 +469,7 @@
 ||bitgetpool.vip^
 ||bitgetzone.top^
 ||bitharvest.io^
+||bithorizons.org^
 ||bithub.bot^
 ||bitly.net^
 ||bitmamining.com^
@@ -638,6 +640,7 @@
 ||car.zhouznq.cn^
 ||carbondefi.cc^
 ||cardmasparamiempresa.wuaze.com^
+||careeractives.xyz^
 ||careerchangerstrading.club^
 ||careeredge.online^
 ||carhartt.wipeu.shop^
@@ -2512,6 +2515,7 @@
 ||premium.iptvpro.com^
 ||premiumbankleyfx.com^
 ||pretiboiy.com^
+||primaxoptions.com^
 ||primeglobalfxexchange.live^
 ||primeinvest.app^
 ||primemoverexpress.online^
