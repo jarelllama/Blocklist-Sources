@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.063435.2025
+! Version: 01.19.070055.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 06:34:35 UTC 2025
+! Last modified: Sun Jan 19 07:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3665
+! Number of entries: 3669
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -45,6 +45,7 @@
 ||552993.com^
 ||55redefined.online^
 ||5movierulz.gay^
+||6123328.coinbase.com^
 ||63810.com^
 ||65cryptoleo3933.com^
 ||67phspin.vip^
@@ -845,6 +846,7 @@
 ||costexcorporation.com^
 ||cotizadorsoat.segurosdelestado.com^
 ||couponxoo.com^
+||courtkingsph.com^
 ||couturedrift.com^
 ||couturevista.com^
 ||cqzywhisper.shop^
@@ -1069,6 +1071,7 @@
 ||draliko.com^
 ||drapehue.com^
 ||drawmaniauk.shop^
+||dreabb.xyz^
 ||dreamcazin.com^
 ||dremio.life^
 ||dresscorez.com^
@@ -2302,6 +2305,7 @@
 ||novaspire.live^
 ||novaxmetals.com^
 ||noveraxcapital.com^
+||nowidi.monopulses.com^
 ||nowmining.fun^
 ||nowquality.ca^
 ||nt.h5.com^
