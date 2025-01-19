@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.190058.2025
+! Version: 01.19.193054.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 19:00:58 UTC 2025
+! Last modified: Sun Jan 19 19:30:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3713
+! Number of entries: 3714
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -2775,6 +2775,7 @@
 ||romsfun.com^
 ||ronbo.buzz^
 ||roofing.services.fb.online^
+||rosrtle.com^
 ||roveaskin.fr^
 ||royal.marines.online^
 ||royalmail.i78.xyz^
