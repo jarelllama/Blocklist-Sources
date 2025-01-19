@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.024430.2025
+! Version: 01.19.030441.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 02:44:30 UTC 2025
+! Last modified: Sun Jan 19 03:04:41 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3618
+! Number of entries: 3624
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -976,6 +976,7 @@
 ||deltadex.io^
 ||deltausdt.site^
 ||deluxe.goods.uk^
+||demo.cratictwil.ight.com^
 ||demogamingsalam123.online^
 ||deniise.com^
 ||dent.code.com^
@@ -1827,6 +1828,7 @@
 ||kuiesd.com^
 ||kulken.com^
 ||kurtastudio.com^
+||kxw69.com^
 ||labellovers.nl^
 ||laboratoire.osmose.com^
 ||labrary.store^
@@ -2364,6 +2366,7 @@
 ||onlyterrific.com^
 ||onruning.top^
 ||onrunning.top^
+||oo456bet.com^
 ||opdomain22.online^
 ||openfundsag.org^
 ||optionstradeshub.com^
@@ -3464,6 +3467,7 @@
 ||weichgeback.com^
 ||welovegenshinimpact.com^
 ||westtic.com^
+||wfbs.store^
 ||wfoqfashion.shop^
 ||wftqatar.com^
 ||wheelpg777.online^
@@ -3521,6 +3525,7 @@
 ||wusveso.vip^
 ||ww7.lemoniada.online^
 ||wwtchain.top^
+||www.6546.com^
 ||www.virtual.vip^
 ||www.y2mate.com^
 ||www1.thepiratebay3.to^
@@ -3600,6 +3605,7 @@
 ||zeharris.online^
 ||zencenter.hu^
 ||zenhom.online^
+||zenithdigital.xyz^
 ||zenjett.com^
 ||zerocodeblock.com^
 ||zesphyr.com^
