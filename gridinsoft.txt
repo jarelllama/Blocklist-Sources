@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.004528.2025
+! Version: 01.19.012801.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 00:45:28 UTC 2025
+! Last modified: Sun Jan 19 01:28:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3608
+! Number of entries: 3611
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -1592,6 +1592,7 @@
 ||hotels21.com^
 ||hotelvalues.com^
 ||hotspingames.top^
+||hotuiner.shop^
 ||hotvxfs.shop^
 ||hotwatch.live^
 ||housescrappersllc.online^
@@ -1829,6 +1830,7 @@
 ||lacefaves.com^
 ||lacostes.com.mx^
 ||ladysstreet.com^
+||lamafilm.club^
 ||lamaisondumaillot.com^
 ||lamay.shop^
 ||landmark.online.workers.dev^
@@ -2919,6 +2921,7 @@
 ||sstdocumentos.com^
 ||stablest.shop^
 ||staemcommunnuty.com^
+||stakgpdgd.com^
 ||starcici.com^
 ||staregyptgame.online^
 ||starofliberty.online^
