@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.000207.2025
+! Version: 01.19.004529.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 00:02:07 UTC 2025
+! Last modified: Sun Jan 19 00:45:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 699
+! Number of entries: 704
 ||03830.cxtsoftware.net^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -153,6 +153,7 @@
 ||dmzw6lurug.feishu.cn^
 ||docsend.com^
 ||donate.wfp.org^
+||download.books.ms^
 ||dsc.gg^
 ||dukkank.com^
 ||duostoresa.com^
@@ -530,6 +531,7 @@
 ||steamcomnnunity.com^
 ||steampowered.nextplaytest.com^
 ||steampowered.playtestgameinvited.com^
+||steamtickets-20.com^
 ||stenmcomnmunity.com^
 ||stimulantonline.click^
 ||storage.googleapis.com^
@@ -552,6 +554,7 @@
 ||thescapegroup-my.sharepoint.com^
 ||thetollroads.com-3yxe.sbs^
 ||thetollroads.com-43dq.cfd^
+||thetollroads.com-4a6k.sbs^
 ||thetollroads.com-7lkz.sbs^
 ||thetollroads.com-dw06.cfd^
 ||thetollroads.com-z70b.sbs^
@@ -601,6 +604,8 @@
 ||veepn.com^
 ||verify.accredible.com^
 ||vicky-858435.thompson633.sbs^
+||vizard.ai^
+||vld.smsaexpress.com^
 ||vlogf.ams1.vultrobjects.com^
 ||vvww--roblox.com^
 ||vxtwitter.com^
