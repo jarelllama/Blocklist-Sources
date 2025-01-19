@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.223227.2025
+! Version: 01.19.230056.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 22:32:27 UTC 2025
+! Last modified: Sun Jan 19 23:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3725
+! Number of entries: 3733
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -46,6 +46,7 @@
 ||552993.com^
 ||55redefined.online^
 ||5movierulz.gay^
+||5movierulz.rip^
 ||6123328.coinbase.com^
 ||63810.com^
 ||65cryptoleo3933.com^
@@ -553,6 +554,7 @@
 ||boodiecawquaw.top^
 ||bookmarkfc.info^
 ||boomerenginvestitionen.com^
+||boots.litbio.org^
 ||boounti.com^
 ||bostakingu.com^
 ||bot.merisprivate.net^
@@ -714,6 +716,7 @@
 ||chillpotrandom.com^
 ||christianlouboutinmexicos.top^
 ||christopherchaves.com^
+||ciarfex.com^
 ||cicc.ink^
 ||ciekawoscobywateli.click^
 ||cigarettes.pas.cher.com^
@@ -1891,6 +1894,7 @@
 ||laoghen.com^
 ||lap136.78e2.xyz^
 ||larkinashlandstylist.com^
+||laronnistore.com^
 ||lasopaclan897.weebly.com^
 ||lavishsupply.net^
 ||law.blade.solutions.com^
@@ -2537,6 +2541,7 @@
 ||photographingge.com^
 ||photoviewave.com^
 ||pietrodiuccio.com^
+||pilatesmotion.co^
 ||pillowhubglobal.com^
 ||pinkonline.store^
 ||pinnacle.equitygroup.com^
@@ -2899,6 +2904,7 @@
 ||shibaarmy.world^
 ||shibahash.com^
 ||shinelyjews.shop^
+||shionac.com^
 ||shirudigiseo.top^
 ||shittt.store^
 ||shokexycexng.shop^
@@ -3007,6 +3013,7 @@
 ||sportarenastores.shop^
 ||spotifypremiumapk.com.co^
 ||spraisy.live^
+||springfieldarmoryarms.com^
 ||sprunkiphase.online^
 ||srchfst.com^
 ||sreamconmymnltty.com^
@@ -3077,6 +3084,7 @@
 ||supportbitget.com^
 ||suredafa.com^
 ||surfing777.online^
+||surfingsunday.shop^
 ||surveyanswer.xyz^
 ||survyhelp.com^
 ||svip.work46.com^

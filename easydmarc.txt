@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.223229.2025
+! Version: 01.19.230057.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 22:32:29 UTC 2025
+! Last modified: Sun Jan 19 23:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 752
+! Number of entries: 756
 ||03830.cxtsoftware.net^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -36,6 +36,7 @@
 ||af-update.top^
 ||afflat3c2.com^
 ||aka.ms^
+||alquimia.rf.gd^
 ||amazon.com.au^
 ||americanhort.acemlnb.com^
 ||amo.to^
@@ -326,6 +327,7 @@
 ||kwsr7lrz.r.eu-west-2.awstrack.me^
 ||l.cs-mail-sender.com^
 ||l.facebook.com^
+||l8vlrp66.r.us-east-1.awstrack.me^
 ||lap.i2ie.xyz^
 ||lap325.773d.xyz^
 ||lbxnyc.acctsmartstorage.com^
@@ -607,6 +609,7 @@
 ||tobiaschocolatier.com^
 ||toph.pages.dev^
 ||toporbitcareers.com^
+||tracemonitorusa.life^
 ||tradingplaces.vip^
 ||trastminersbit.cc^
 ||trendtubes.xyz^
@@ -740,6 +743,7 @@
 ||www.tiktok.com^
 ||www.ujerseyvip.com^
 ||www.vidmateapp.com^
+||www.visaprepaidprocessing.com^
 ||www.web3aimrc.top^
 ||www.webex-meeting-code.com^
 ||www.winpkr116.com^
