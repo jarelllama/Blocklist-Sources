@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.060054.2025
+! Version: 01.19.063435.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 06:00:54 UTC 2025
+! Last modified: Sun Jan 19 06:34:35 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3660
+! Number of entries: 3665
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -53,11 +53,13 @@
 ||7starbet.com^
 ||80.25.buu.com^
 ||80.25.pcs.com^
+||8196666.com^
 ||82lottery24.com^
 ||82lottery9.in^
 ||852web3.io^
 ||8xfilms.living^
 ||988359.com^
+||9eight5.co.nz^
 ||9jwjegw.mmdlkx.info^
 ||9k9m.com^
 ||9newsaitrading.info^
@@ -2695,6 +2697,7 @@
 ||retropixellc.com^
 ||reupsupplies.com^
 ||revanced.net^
+||revealgenderonline.com^
 ||reventa.co^
 ||reviewsrecipes.com^
 ||revnest.online^
@@ -3251,6 +3254,7 @@
 ||tronok.cloud^
 ||tronvortex.com^
 ||trophycase.cc^
+||trqw.store^
 ||tructi.com^
 ||trust.forest7.com^
 ||trustaipay.com^
@@ -3354,6 +3358,7 @@
 ||usps.tracking.helepoanx.cc^
 ||uvkxe.co^
 ||uwtandarts.online^
+||uyde.store^
 ||v2.youconvert.net^
 ||v9drop.com^
 ||vajero.com^
