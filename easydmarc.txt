@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.160100.2025
+! Version: 01.19.163335.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 16:01:00 UTC 2025
+! Last modified: Sun Jan 19 16:33:35 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 740
+! Number of entries: 741
 ||03830.cxtsoftware.net^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -477,6 +477,7 @@
 ||rnovxn.instalovechats.com^
 ||roblox-screenshare.vercel.app^
 ||roblox.com.py^
+||roblox.com^
 ||roblox.hk.com^
 ||roblox.mq^
 ||robuxlimitedtime-here-ekslusif.blogspot.com^
@@ -560,6 +561,7 @@
 ||steamtickets-20.com^
 ||stenmcomnmunity.com^
 ||stimulantonline.click^
+||stopify.co^
 ||storage.googleapis.com^
 ||subscriptions.acemlnc.com^
 ||sukryqs.com^
@@ -716,7 +718,6 @@
 ||www.r.oblox.com.kz^
 ||www.r.oblox.com.ng^
 ||www.roblox.com.tg^
-||www.roblox.com^
 ||www.royalbox-global.com^
 ||www.sellection-my.online^
 ||www.sihub.in^

@@ -3,16 +3,17 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.160059.2025
+! Version: 01.19.163333.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 16:00:59 UTC 2025
+! Last modified: Sun Jan 19 16:33:33 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3700
+! Number of entries: 3702
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
 ||1024tera.com^
 ||123notices.com^
+||1337x.tw^
 ||13yo.lollita.online^
 ||15jilicrown.club^
 ||17.magic88.cc^
@@ -938,6 +939,7 @@
 ||cyberguardforchrome.com^
 ||cyberhavenext.pro^
 ||cybex.360.com^
+||cymatics.fm^
 ||cyphermarket.ru^
 ||cztrskaw.xyz^
 ||czvinwqzs.zjxjmp.cn^
