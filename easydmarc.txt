@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.153113.2025
+! Version: 01.19.160100.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 15:31:13 UTC 2025
+! Last modified: Sun Jan 19 16:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 739
+! Number of entries: 740
 ||03830.cxtsoftware.net^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -597,6 +597,7 @@
 ||tobiaschocolatier.com^
 ||toph.pages.dev^
 ||toporbitcareers.com^
+||tradingplaces.vip^
 ||trastminersbit.cc^
 ||trendtubes.xyz^
 ||trendworldnews.com^
