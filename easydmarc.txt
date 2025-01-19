@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.120056.2025
+! Version: 01.19.124037.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 12:00:56 UTC 2025
+! Last modified: Sun Jan 19 12:40:37 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 729
+! Number of entries: 733
 ||03830.cxtsoftware.net^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -124,6 +124,7 @@
 ||cs2gameacademy.com^
 ||csmt.page.link^
 ||ctrk.klclick.com^
+||ctrk.klclick3.com^
 ||cutt.ly^
 ||d.comenity.net^
 ||d2NlkV04.na1.hs-sales-engage.com^
@@ -230,11 +231,13 @@
 ||freefunhere.com^
 ||freenote.biz^
 ||furl.one^
+||fxpro1.net^
 ||gate.sc^
 ||genius.egis-group.com^
 ||getsocialboost.com^
 ||gezara.bestproductone.sbs^
 ||gifft.me^
+||github.com^
 ||gmail.net-login.com^
 ||go.air-pay.co.uk^
 ||gofile.io^
@@ -707,6 +710,7 @@
 ||www.r.oblox.com.ng^
 ||www.roblox.com.tg^
 ||www.roblox.com^
+||www.royalbox-global.com^
 ||www.sellection-my.online^
 ||www.sihub.in^
 ||www.silvermtnllc.com^
