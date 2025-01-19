@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.040106.2025
+! Version: 01.19.043317.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 04:01:06 UTC 2025
+! Last modified: Sun Jan 19 04:33:17 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3636
+! Number of entries: 3643
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -1760,6 +1760,7 @@
 ||juno.download.promo.com^
 ||justanorganizedhome.online^
 ||justanothercarpenter.online^
+||justiceface.com^
 ||justinyourhead.online^
 ||justwatch.com^
 ||juuibv.com^
@@ -2430,6 +2431,7 @@
 ||paperpadpen.com^
 ||parajumpersoutlet.it^
 ||paramediavideo.blogspot.com^
+||parapcc.com^
 ||parisdocase.com^
 ||parkit.nc.com^
 ||parksideatvip.shop^
@@ -2588,7 +2590,9 @@
 ||qfsbackupassets.ltd^
 ||qfslite.sbs^
 ||qfsnesara.io^
+||qhnkbqxqna.shop^
 ||qixub.stmaryjoseph.com^
+||qmbit.org^
 ||qqbit.net^
 ||qrefuishz.monster^
 ||qruirseven.com^
@@ -2828,6 +2832,7 @@
 ||shibahash.com^
 ||shinelyjews.shop^
 ||shirudigiseo.top^
+||shittt.store^
 ||shokexycexng.shop^
 ||shop.sale6.quest^
 ||shopa66.com^
@@ -3559,6 +3564,7 @@
 ||xilsen.com^
 ||ximqijiu.online^
 ||ximqiwu.online^
+||xjsv.store^
 ||xmbroker.click^
 ||xo123.cc^
 ||xo789.cc^
@@ -3624,6 +3630,7 @@
 ||zetboom.com^
 ||zetdax.top^
 ||zfp.zfppool.com^
+||zgub.store^
 ||zhuan2345.com^
 ||ziatex.com^
 ||zielbioinc.com^
