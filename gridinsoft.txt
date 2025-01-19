@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.140055.2025
+! Version: 01.19.143141.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 14:00:55 UTC 2025
+! Last modified: Sun Jan 19 14:31:41 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3689
+! Number of entries: 3692
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -108,6 +108,7 @@
 ||advanced.onlineguestline.com^
 ||advancedasset.management.org^
 ||advetex.net^
+||adwarerecoveryspecialist.com^
 ||adyenn.com^
 ||aegisai.online^
 ||aerodromefi.claims.app^
@@ -2234,6 +2235,7 @@
 ||nearriot.com^
 ||nebluscommercial.com^
 ||neckcaredevices.com^
+||neecaps.com^
 ||neesedresses.com^
 ||nefera.online^
 ||nefmw.top^
@@ -2407,6 +2409,7 @@
 ||oo456bet.com^
 ||opdomain22.online^
 ||openfundsag.org^
+||optimumhackersrecovery.com^
 ||optionstradeshub.com^
 ||optnutritips.com^
 ||orange.co.uk^
