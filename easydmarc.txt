@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.033338.2025
+! Version: 01.20.040058.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 03:33:38 UTC 2025
+! Last modified: Mon Jan 20 04:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 766
+! Number of entries: 771
 ||03830.cxtsoftware.net^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -35,6 +35,7 @@
 ||af-atm.com^
 ||af-update.top^
 ||afflat3c2.com^
+||ak.phaunaitsi.net^
 ||aka.ms^
 ||alquimia.rf.gd^
 ||amazon.com.au^
@@ -55,6 +56,7 @@
 ||apprevelado.shop^
 ||aramex.u-deals.run^
 ||assistingwebs.shop^
+||astrocrm.my.salesforce.com^
 ||attunedoffersnow.lat^
 ||aurealone.com^
 ||auspost.2hnlsi.online^
@@ -283,6 +285,7 @@
 ||iflychat-files-v2.s3.amazonaws.com^
 ||iibeag.trsmartoffer.com^
 ||iis.re^
+||ijuwug.sbs^
 ||ik0323.com^
 ||ilang.in^
 ||imagevault.cloud^
@@ -439,6 +442,7 @@
 ||pb-updatet.top^
 ||pdd.gh.999yes.xyz^
 ||pg-link.co^
+||ph.shp.ee^
 ||photospace.life^
 ||php.vomlogsffy.ru^
 ||piedmont1-my.sharepoint.com^
@@ -550,6 +554,7 @@
 ||smleads.top^
 ||sms.particuliers.engie.fr^
 ||snapchat.com^
+||sonu.websupport.co.in^
 ||spoo.me^
 ||sreamconmymnltty.com^
 ||srv688176.hstgr.cloud^

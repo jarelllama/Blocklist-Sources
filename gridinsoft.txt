@@ -3,11 +3,12 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.033337.2025
+! Version: 01.20.040057.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 03:33:37 UTC 2025
+! Last modified: Mon Jan 20 04:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3758
+! Number of entries: 3760
+nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -3365,6 +3366,7 @@
 ||tusheedrosep.net^
 ||tuuoi.shop^
 ||twiney.shop^
+||twitclicks.com^
 ||twixly.store^
 ||tymcra.com^
 ||typoair.com^
