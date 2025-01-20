@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.083444.2025
+! Version: 01.20.090108.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 08:34:44 UTC 2025
+! Last modified: Mon Jan 20 09:01:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 783
+! Number of entries: 787
 ||03830.cxtsoftware.net^
 ||12chats.com^
 ||137verdecasino59.com^
@@ -94,6 +94,7 @@
 ||byc.sa^
 ||c.vialoops.com^
 ||ca.details-info.co^
+||caldwell-stephanie-bs7807.web.app^
 ||calendly.com^
 ||call.voipmessage.uk^
 ||callme-wine.it^
@@ -175,6 +176,7 @@
 ||download2333.mediafire.com^
 ||doxbin.org^
 ||dreadtheempire.com^
+||drsamsabary.com.au^
 ||dsc.gg^
 ||dukkank.com^
 ||duostoresa.com^
@@ -496,6 +498,7 @@
 ||restorecord.com^
 ||reurl.cc^
 ||revo-document-support.involve.me^
+||rg-mall.top^
 ||rga07.com^
 ||rlinks.eu^
 ||rnovxn.instalovechats.com^
@@ -740,6 +743,7 @@
 ||www.jerrtrt.com^
 ||www.kaufland-mall.vip^
 ||www.kessbet.co.ke^
+||www.kwork.app^
 ||www.lime-webagentur.com^
 ||www.lion777.club^
 ||www.maptq.com^
