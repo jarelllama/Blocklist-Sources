@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.150107.2025
+! Version: 01.20.153211.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 15:01:07 UTC 2025
+! Last modified: Mon Jan 20 15:32:11 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3794
+! Number of entries: 3797
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -980,6 +980,7 @@ nocona..boots.com
 ||dash.optimus.vip^
 ||dash.probits.cc^
 ||dashboard.teneo.pro^
+||dashnex.plexusmarket.fund^
 ||datadexterity.online^
 ||datempire.com^
 ||datezone.com^
@@ -1897,6 +1898,7 @@ nocona..boots.com
 ||ksda.online.org^
 ||kubabuy.com^
 ||kuiesd.com^
+||kuiuonsale.com^
 ||kuka.ninja^
 ||kulken.com^
 ||kurtastudio.com^
@@ -2079,6 +2081,7 @@ nocona..boots.com
 ||makinfra.online^
 ||makitafr.com^
 ||malicecyberrecovery.com^
+||mall.lovely.com^
 ||mallmyacy.com^
 ||mallprix.com^
 ||malltrabaho.online^
