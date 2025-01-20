@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.043349.2025
+! Version: 01.20.050110.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 04:33:49 UTC 2025
+! Last modified: Mon Jan 20 05:01:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 771
+! Number of entries: 775
 ||03830.cxtsoftware.net^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -61,6 +61,7 @@
 ||aurealone.com^
 ||auspost.2hnlsi.online^
 ||auspost.4uyiqx.top^
+||auspost.now-post25417.world^
 ||auspost.q6xdhc.pro^
 ||auspost.y8l51a.life^
 ||axbk.io^
@@ -90,6 +91,7 @@
 ||buy.stripe.com^
 ||byc.sa^
 ||c.vialoops.com^
+||ca.details-info.co^
 ||calendly.com^
 ||call.voipmessage.uk^
 ||callme-wine.it^
@@ -404,6 +406,7 @@
 ||nam12.safelinks.protection.outlook.com^
 ||nbk.rewrads.com^
 ||netfli-x-login.bruce-hopkins.com^
+||networksteel.com.au^
 ||news.ferdescs.com^
 ||newyearjobs.us^
 ||ney11.com^
@@ -555,6 +558,7 @@
 ||sms.particuliers.engie.fr^
 ||snapchat.com^
 ||sonu.websupport.co.in^
+||southflannelclassic.com^
 ||spoo.me^
 ||sreamconmymnltty.com^
 ||srv688176.hstgr.cloud^
