@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.160102.2025
+! Version: 01.20.163457.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 16:01:02 UTC 2025
+! Last modified: Mon Jan 20 16:34:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3798
+! Number of entries: 3801
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -139,6 +139,7 @@ nocona..boots.com
 ||airdrop.flock.com^
 ||airdropclaims.netlify.app^
 ||airdropusdt.shop^
+||airobotcn.com^
 ||airobotplatform888.com^
 ||airobotsmart.net^
 ||airtraveler.club^
@@ -2469,6 +2470,7 @@ nocona..boots.com
 ||oo456bet.com^
 ||opdomain22.online^
 ||openfundsag.org^
+||opennetworklink.co.in^
 ||optimumhackersrecovery.com^
 ||optionstradeshub.com^
 ||optnutritips.com^
@@ -2653,6 +2655,7 @@ nocona..boots.com
 ||prompts.top^
 ||propandcounterfietmoney.com^
 ||propfirmpassingservice.net^
+||propichain.finance^
 ||prospero.ae^
 ||proswapex.com^
 ||proteinbestsell.com^
