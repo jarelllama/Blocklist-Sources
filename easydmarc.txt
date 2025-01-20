@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.220054.2025
+! Version: 01.20.223211.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 22:00:54 UTC 2025
+! Last modified: Mon Jan 20 22:32:11 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 822
+! Number of entries: 823
 ||03830.cxtsoftware.net^
 ||12chats.com^
 ||137verdecasino59.com^
@@ -162,6 +162,7 @@
 ||de.aliexpress.com^
 ||del.dhl.com^
 ||departamento-licitacoes-dot-yamm-track.appspot.com^
+||deritago.com^
 ||descuento-planpostpago.usite.pro^
 ||deseadonoticias.com^
 ||destjarnaapparel.com^
@@ -228,6 +229,7 @@
 ||ezdrivema.com-ezdrivemalsp.top^
 ||ezdrivema.com-feesxo.top^
 ||ezdrivema.com-ioians.top^
+||ezdrivema.com-onnfdoj.top^
 ||ezdrivema.com-woyaot.top^
 ||ezdrivema.com-zxnr.top^
 ||ezstat.ru^
@@ -400,6 +402,7 @@
 ||meatabdicatedelicatessen.com^
 ||mega.nz^
 ||metasbusiness-instagams.website^
+||mf8pmrb.meetromanceconnects.com^
 ||mindstyleworld.acemlnb.com^
 ||miras-bongo-camp.rest^
 ||miro.com^
@@ -694,9 +697,6 @@
 ||us-27947.email-composer-webhooks.gong.io^
 ||us.etrade.com^
 ||us.services.docusign.net^
-||us02web.zoom.us^
-||us04web.zoom.us^
-||us06web.zoom.us^
 ||usps.com-tarjfxv.top^
 ||usps.com-tracking-helpswzc.xin^
 ||uzmaafzal.SFAgentJobs.com^
@@ -829,4 +829,5 @@
 ||znwaos.info^
 ||zohhal.com^
 ||zoom.us65web.us^
+||zoom.us^
 ||zskldf.sbpnm.click^
