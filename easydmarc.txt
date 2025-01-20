@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.163458.2025
+! Version: 01.20.170105.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 16:34:58 UTC 2025
+! Last modified: Mon Jan 20 17:01:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 808
+! Number of entries: 812
 ||03830.cxtsoftware.net^
 ||12chats.com^
 ||137verdecasino59.com^
@@ -543,6 +543,7 @@
 ||secmail.bankofamerica.com^
 ||secure.chase.com^
 ||secureidorder.com^
+||selfopinionated.boats^
 ||sellercentral.amazon.com^
 ||sellfree.ir^
 ||sellgift.info^
@@ -560,6 +561,7 @@
 ||shelterrockchurch.churchcenter.com^
 ||shipping.id62902.world^
 ||shop-sale4.quest^
+||shophelmetpros.com^
 ||shorter.gg^
 ||shorturl.asia^
 ||shorturl.at^
@@ -644,6 +646,7 @@
 ||tightlinemedia.us11.list-manage.com^
 ||tikkie.me^
 ||tincucnhanh.online^
+||tiny.dhl.co.il^
 ||tinyurl.com^
 ||tkbkj.cc^
 ||tobiaschocolatier.com^
@@ -698,6 +701,7 @@
 ||vizard.ai^
 ||vld.smsaexpress.com^
 ||vlogf.ams1.vultrobjects.com^
+||vrcloud.verifone.co.il^
 ||vvww--roblox.com^
 ||vxtwitter.com^
 ||vz.jiahemumen.com^
