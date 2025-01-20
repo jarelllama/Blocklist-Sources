@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.012755.2025
+! Version: 01.20.020110.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 01:27:55 UTC 2025
+! Last modified: Mon Jan 20 02:01:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3744
+! Number of entries: 3752
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -1407,6 +1407,7 @@
 ||frutopy.com^
 ||ftx.global.site^
 ||fudianbank.win^
+||fuexweb.com^
 ||fuga.studios.com^
 ||fulenix.com^
 ||funcapsnl.com^
@@ -1485,6 +1486,7 @@
 ||glbgpt.com^
 ||gletber.com^
 ||glmrjwl.com^
+||global.tinv.org^
 ||globalcapitalista.com^
 ||globaldocs.online.com^
 ||globalfinaltd.com^
@@ -1568,6 +1570,7 @@
 ||h5.hkfgcrypto.com^
 ||h5.koinexbit.com^
 ||h5.wltfund.com^
+||habmentsell.shop^
 ||handfull.shop^
 ||hansen.oslo.com^
 ||happyvape.nl^
@@ -2223,6 +2226,7 @@
 ||multicanais.games^
 ||multiminer.net^
 ||multismart.solve.pages.dev^
+||multisportstv.online^
 ||multiverse.retifications.netlify.app^
 ||mundoonline.link^
 ||music8.online^
@@ -2257,6 +2261,7 @@
 ||natadler.com^
 ||nationalcasinolp.com^
 ||natureflux.shop^
+||navyunhanded.com^
 ||nc.ph.2974.zerads.com^
 ||ncbofficielfr.com^
 ||ndamazon.com^
@@ -2443,6 +2448,7 @@
 ||optionstradeshub.com^
 ||optnutritips.com^
 ||orange.co.uk^
+||orcaslicer.co^
 ||org.pay.9t03.cfd^
 ||origencapitalltd.com^
 ||originalneotvpro.com^
@@ -2727,6 +2733,7 @@
 ||ref2tron.top^
 ||refefshopin.top^
 ||reg.yourgamebuilder.com^
+||regalosorpresivo.com^
 ||register.aitprotocoldefi.network^
 ||register.bckrcoin.com^
 ||register.defi.app^
@@ -3614,6 +3621,7 @@
 ||wittweidende.store^
 ||wizonex.com^
 ||wjfggroup.co^
+||wkwvmall.shop^
 ||wldshop.online^
 ||wlods.com^
 ||wmartrewards.com^
