@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.210057.2025
+! Version: 01.20.213124.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 21:00:57 UTC 2025
+! Last modified: Mon Jan 20 21:31:24 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3821
+! Number of entries: 3826
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -557,6 +557,7 @@ nocona..boots.com
 ||boclothes.com^
 ||bodegaaureramx.shop^
 ||bodegaaurrera.mex.com^
+||bodegaurreramxn.com^
 ||bolderloft.nl^
 ||bonanza.usdt.com^
 ||bondicurls.com^
@@ -761,6 +762,7 @@ nocona..boots.com
 ||claims.sonicfoundation.org^
 ||claimweby.live^
 ||classicteefox.com^
+||clcriptomonedas006.com^
 ||clcriptomonedas007.com^
 ||cleanquest.xyz^
 ||cled.euteschan.top^
@@ -1531,6 +1533,7 @@ nocona..boots.com
 ||goapoachowoovol.net^
 ||goblinx.org^
 ||goddyusmall.com^
+||gog.games.to^
 ||goinvest.credit.com^
 ||golat.online^
 ||goldackerstrading.com^
@@ -2457,6 +2460,7 @@ nocona..boots.com
 ||online.english.classes641012.xyz^
 ||online.events.net^
 ||online.juctice.com^
+||online.kukenas.top^
 ||online.marketing.degree.901935125.zone^
 ||onlinebettingidprovider.co.in^
 ||onlinecoachingacademy.net^
@@ -3053,6 +3057,7 @@ nocona..boots.com
 ||sofiahalbofanimeworld.blogspot.nl^
 ||softgama.online^
 ||softontop.io^
+||softwhimsy.com^
 ||sogoode.store^
 ||sohosquare.online^
 ||solanamining.net^
