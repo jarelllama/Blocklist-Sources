@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.093207.2025
+! Version: 01.20.100057.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 09:32:07 UTC 2025
+! Last modified: Mon Jan 20 10:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 787
+! Number of entries: 791
 ||03830.cxtsoftware.net^
 ||12chats.com^
 ||137verdecasino59.com^
@@ -55,6 +55,7 @@
 ||app26212380.com^
 ||appempireio.com^
 ||application.hirestandardstaffing.com^
+||apply.usvisaconnection.com^
 ||apprevelado.shop^
 ||aramex.u-deals.run^
 ||assistingwebs.shop^
@@ -86,6 +87,7 @@
 ||bowersins-my.sharepoint.com^
 ||boxesplantationgustario.com^
 ||bpm.prolind-group.com^
+||broker-qx.pro^
 ||budehaven-my.sharepoint.com^
 ||buildlpad.com^
 ||business.community-servicepagesupport.com^
@@ -257,6 +259,7 @@
 ||github.com^
 ||gmail.net-login.com^
 ||go.air-pay.co.uk^
+||go.cultureindex.com^
 ||gofile.io^
 ||golden-show1.com^
 ||goo.gl^
@@ -740,6 +743,7 @@
 ||www.highcpmgate.com^
 ||www.hiltongetaways.com^
 ||www.hlz78caz-pyycz.org^
+||www.icstoreapp.in^
 ||www.jerrtrt.com^
 ||www.kaufland-mall.vip^
 ||www.kessbet.co.ke^
