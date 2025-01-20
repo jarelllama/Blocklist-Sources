@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.080053.2025
+! Version: 01.20.083443.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 08:00:53 UTC 2025
+! Last modified: Mon Jan 20 08:34:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3776
+! Number of entries: 3778
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1976,6 +1976,7 @@ nocona..boots.com
 ||liquidationpalletshub.top^
 ||lisandoo.com^
 ||litebix.com^
+||littlefoliage.com^
 ||littletinyhouse.com^
 ||live.broadcast53.live^
 ||livebroadcast518.online^
@@ -2637,6 +2638,7 @@ nocona..boots.com
 ||projectplaygroundtech.com^
 ||promo.offer.com^
 ||promptfunds.org^
+||prompts.top^
 ||propandcounterfietmoney.com^
 ||propfirmpassingservice.net^
 ||prospero.ae^
