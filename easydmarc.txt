@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.203213.2025
+! Version: 01.20.210059.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 20:32:13 UTC 2025
+! Last modified: Mon Jan 20 21:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 819
+! Number of entries: 822
 ||03830.cxtsoftware.net^
 ||12chats.com^
 ||137verdecasino59.com^
@@ -218,6 +218,7 @@
 ||eur01.safelinks.protection.outlook.com^
 ||eur02.safelinks.protection.outlook.com^
 ||eur03.safelinks.protection.outlook.com^
+||evb.gg^
 ||evri.trackgb1.xin^
 ||ez-drivemea.top^
 ||ezdrive.com-2qic.xin^
@@ -618,6 +619,7 @@
 ||storage.googleapis.com^
 ||subscriptions.acemlnc.com^
 ||sukryqs.com^
+||sunpass.com-35tr.sbs^
 ||sunpass.com-8zlq.sbs^
 ||sunpass.com-lsih.sbs^
 ||surveyheart.com^
@@ -697,6 +699,7 @@
 ||us06web.zoom.us^
 ||usps.com-tarjfxv.top^
 ||usps.com-tracking-helpswzc.xin^
+||uzmaafzal.SFAgentJobs.com^
 ||v22.amazonbba.com^
 ||vdc.az1.qualtrics.com^
 ||veepn.com^

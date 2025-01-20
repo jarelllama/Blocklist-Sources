@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.203212.2025
+! Version: 01.20.210057.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 20:32:12 UTC 2025
+! Last modified: Mon Jan 20 21:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3818
+! Number of entries: 3821
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -2694,6 +2694,7 @@ nocona..boots.com
 ||pure.neuro.info^
 ||puregoodsfy.com^
 ||pushkoin.com^
+||pussieshairy.org^
 ||pvgpassd.com^
 ||pzlcbshop.com^
 ||q.2nvu3.com^
@@ -3130,6 +3131,7 @@ nocona..boots.com
 ||strapsui.com^
 ||strattrade.org^
 ||streamworld.co^
+||streyker.shop^
 ||strikearchive.com^
 ||stroyblock.online^
 ||stuncreditfb.com^
@@ -3698,6 +3700,7 @@ nocona..boots.com
 ||world.dailyincome.com^
 ||world.delivery.service.com^
 ||worldfamoushotboys.net^
+||worldlibertyfinancial.com^
 ||worldmovesolutions.com^
 ||worldnftmarket.top^
 ||worldofhurtonline.com^
