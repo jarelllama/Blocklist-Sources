@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.180113.2025
+! Version: 01.20.183457.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 18:01:13 UTC 2025
+! Last modified: Mon Jan 20 18:34:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3806
+! Number of entries: 3809
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -195,6 +195,7 @@ nocona..boots.com
 ||amaznmarket.shop^
 ||amazonsellersappeal.com^
 ||amazonstorepro.com^
+||ambiledhub.com^
 ||amdconsults.com^
 ||americanfunds.com^
 ||amgesic.com^
@@ -611,6 +612,7 @@ nocona..boots.com
 ||btseus.net^
 ||bubblesbets.com^
 ||buble.com.cn^
+||bubully.com^
 ||buddyenid.com^
 ||bueenotgay.duckdns.org^
 ||buenomarket.store^
@@ -1374,6 +1376,7 @@ nocona..boots.com
 ||flirtingplaza.com^
 ||floattrust.com^
 ||flomac.shop^
+||flowfaucet.online^
 ||flrdroplines.com^
 ||fluctz.xyz^
 ||fluminer.com^
