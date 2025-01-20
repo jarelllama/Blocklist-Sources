@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.020110.2025
+! Version: 01.20.024348.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 02:01:10 UTC 2025
+! Last modified: Mon Jan 20 02:43:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3752
+! Number of entries: 3754
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -655,6 +655,7 @@
 ||capitaltradestartlimited.com^
 ||capitalvisionaryfx.com^
 ||captchaoutil.site^
+||capvpartnersltd.com^
 ||car.zhouznq.cn^
 ||carbondefi.cc^
 ||cardmasparamiempresa.wuaze.com^
@@ -2189,6 +2190,7 @@
 ||modenest.com^
 ||modernwristwatches.shop^
 ||modilimitado.io^
+||modpenset.com^
 ||mokshatravels.online^
 ||momahc.com^
 ||mondiairelay.livraison.com^
