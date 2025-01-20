@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.200054.2025
+! Version: 01.20.203212.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 20:00:54 UTC 2025
+! Last modified: Mon Jan 20 20:32:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3814
+! Number of entries: 3818
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -192,6 +192,7 @@ nocona..boots.com
 ||am.usdenelx.com^
 ||amalbio.shop^
 ||amanwarehouse.com^
+||amaon2.com^
 ||amazingfindsonline.com^
 ||amaznmarket.shop^
 ||amazonsellersappeal.com^
@@ -913,6 +914,7 @@ nocona..boots.com
 ||cryptoassetfortressltd.com^
 ||cryptobox.digital^
 ||cryptobtc.pro^
+||cryptobullmining.com^
 ||cryptocurrency.events.com^
 ||cryptocurrency.recovery.com^
 ||cryptodig.ci^
@@ -2301,6 +2303,7 @@ nocona..boots.com
 ||ndamazon.com^
 ||nearriot.com^
 ||nebluscommercial.com^
+||nebumine.com^
 ||neckcaredevices.com^
 ||neecaps.com^
 ||neesedresses.com^
@@ -3085,6 +3088,7 @@ nocona..boots.com
 ||sreamconmymnltty.com^
 ||srimuthappanholidayscoorg.com^
 ||sse.s.com^
+||sseeline.com^
 ||sstdocumentos.com^
 ||sstee247.shop^
 ||stablest.shop^
