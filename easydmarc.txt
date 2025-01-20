@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.230101.2025
+! Version: 01.20.233047.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 23:01:01 UTC 2025
+! Last modified: Mon Jan 20 23:30:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 823
+! Number of entries: 827
 ||03830.cxtsoftware.net^
 ||12chats.com^
 ||137verdecasino59.com^
@@ -603,6 +603,7 @@
 ||static.wikia.nocookie.net^
 ||static.xx.fbcdn.net^
 ||steam.communityartsections.com^
+||steam.communityselectlist.com^
 ||steam.communitysourcedev.com^
 ||steam.sourcecommunitylist.com^
 ||steam.usercommunityart.com^
@@ -674,6 +675,7 @@
 ||u10038829.ct.sendgrid.net^
 ||u10168449.ct.sendgrid.net^
 ||u20443333.ct.sendgrid.net^
+||u26067229.ct.sendgrid.net^
 ||u27884357.ct.sendgrid.net^
 ||u37472390.ct.sendgrid.net^
 ||u4183812.ct.sendgrid.net^
@@ -706,6 +708,7 @@
 ||verify.accredible.com^
 ||vicky-858435.thompson633.sbs^
 ||videolite.page.link^
+||view.bperbanca.it^
 ||vil.ltd^
 ||vizard.ai^
 ||vld.smsaexpress.com^
@@ -750,6 +753,7 @@
 ||www.blurouteink.com^
 ||www.canva.com^
 ||www.carecreditprovidercenter.com^
+||www.cloudhq-mkt24.us^
 ||www.coach-my.click^
 ||www.danxdex.com^
 ||www.dataannotation.tech^
