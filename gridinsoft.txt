@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.063559.2025
+! Version: 01.20.070108.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 06:35:59 UTC 2025
+! Last modified: Mon Jan 20 07:01:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3772
+! Number of entries: 3774
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -276,6 +276,7 @@ nocona..boots.com
 ||asap777.online^
 ||ascensionio.online^
 ||asiacargo.online^
+||asigpt.ai^
 ||asigpt.io^
 ||aslminer.com^
 ||aspenunion.com^
@@ -2683,6 +2684,7 @@ nocona..boots.com
 ||qfsnesara.io^
 ||qhnkbqxqna.shop^
 ||qixub.stmaryjoseph.com^
+||qlmavip.top^
 ||qmbit.org^
 ||qqbit.net^
 ||qrefuishz.monster^
