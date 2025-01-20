@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.124219.2025
+! Version: 01.20.130512.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 12:42:19 UTC 2025
+! Last modified: Mon Jan 20 13:05:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 795
+! Number of entries: 800
 ||03830.cxtsoftware.net^
 ||12chats.com^
 ||137verdecasino59.com^
@@ -74,6 +74,7 @@
 ||bandainamcoent.access-elden-ring-nightreign.com^
 ||bansos-tahap6.vercel.app^
 ||bb7722.net^
+||betterstack.com^
 ||biometrix.lk^
 ||bit.ly^
 ||bitbucket.org^
@@ -208,6 +209,7 @@
 ||eu01.z.antigena.com^
 ||eulink.smartrecruiters.com^
 ||eupanel.org^
+||eur01.safelinks.protection.outlook.com^
 ||eur02.safelinks.protection.outlook.com^
 ||eur03.safelinks.protection.outlook.com^
 ||evri.trackgb1.xin^
@@ -309,6 +311,7 @@
 ||induseasycredit.indusind.com^
 ||info.fromyour.email^
 ||info.netskope.com^
+||informathote.com^
 ||infotrackmain.naqelksa.com^
 ||inshort.ly^
 ||insights.zohorecruit.com^
@@ -406,6 +409,7 @@
 ||my.stc.com.sa^
 ||myaccount.e-zpassnyv.top^
 ||mybpo.co.uk^
+||n4.coomer.su^
 ||n9.cl^
 ||na01.safelinks.protection.outlook.com^
 ||na2.docusign.net^
@@ -612,6 +616,7 @@
 ||tally.so^
 ||tasteoftheoldcountry.acemlna.com^
 ||team2swift.zendesk.com^
+||techstudiomumbai.com^
 ||telegra.ph^
 ||telegram.dog^
 ||temu.com^
