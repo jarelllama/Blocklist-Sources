@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.050109.2025
+! Version: 01.20.053238.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 05:01:09 UTC 2025
+! Last modified: Mon Jan 20 05:32:38 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3764
+! Number of entries: 3768
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -61,6 +61,7 @@ nocona..boots.com
 ||82lottery24.com^
 ||82lottery9.in^
 ||852web3.io^
+||88jl99.com^
 ||8xfilms.living^
 ||988359.com^
 ||9eight5.co.nz^
@@ -1194,6 +1195,7 @@ nocona..boots.com
 ||emkqh.shop^
 ||empireminers.com^
 ||empiric.online^
+||empoweredmanhealth.online^
 ||empowerforward.cy^
 ||emttrading.com^
 ||emuxev.com^
@@ -2052,6 +2054,7 @@ nocona..boots.com
 ||mainelobstersstore.com^
 ||mainmarketshop.shop^
 ||mainstreetmall.shop^
+||maisonflorence.ca^
 ||maisonjardina.com^
 ||majere44.ffn.com^
 ||majorhitsmart.shop^
@@ -2063,6 +2066,7 @@ nocona..boots.com
 ||makesurvey.online^
 ||makinfra.online^
 ||makitafr.com^
+||malicecyberrecovery.com^
 ||mallmyacy.com^
 ||mallprix.com^
 ||malltrabaho.online^
