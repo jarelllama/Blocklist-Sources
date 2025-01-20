@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.053238.2025
+! Version: 01.20.060103.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 05:32:38 UTC 2025
+! Last modified: Mon Jan 20 06:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3768
+! Number of entries: 3772
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -384,6 +384,7 @@ nocona..boots.com
 ||besafetoday.top^
 ||beseenmarketing.online^
 ||best.expertonline.com^
+||best.outdoor.gear.com^
 ||best4youu.info^
 ||bestbiccle.shop^
 ||bestbuy.ink^
@@ -1157,6 +1158,7 @@ nocona..boots.com
 ||eddyconstructions.com^
 ||edekn.com^
 ||edenhoj.com^
+||ediwfashion.shop^
 ||edmxed66.com^
 ||eexevaudraikair.net^
 ||effuciaency.com^
@@ -3361,6 +3363,7 @@ nocona..boots.com
 ||trxbee.io^
 ||trxchains.com^
 ||trxminerboost.com^
+||tryriva.com^
 ||tsauvip.ing^
 ||tshilaige.com^
 ||tt.tiktokmarketplace.online^
@@ -3725,6 +3728,7 @@ nocona..boots.com
 ||youngglobalinvestmentsinc.com^
 ||yourwebarmorsolutions.com^
 ||youtube85.com^
+||youtubnow.co^
 ||youxiangonline.live^
 ||yowin.site^
 ||yozabit.com^
