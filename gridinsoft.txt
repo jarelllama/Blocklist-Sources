@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.19.233045.2025
+! Version: 01.20.000155.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 19 23:30:45 UTC 2025
+! Last modified: Mon Jan 20 00:01:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3737
+! Number of entries: 3739
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -964,6 +964,7 @@
 ||dapp.ens.domains^
 ||dapp.radar.org^
 ||dappschainapp.com^
+||dark.link.sbs^
 ||dash.optimus.vip^
 ||dash.probits.cc^
 ||dashboard.teneo.pro^
@@ -2710,6 +2711,7 @@
 ||recetasexpres.com^
 ||recruit.threadsstaffs.com^
 ||rect.reward.glacier.website^
+||redbeautylife.com^
 ||reddit.streams.online^
 ||redeemai.site^
 ||redgol.cl^
