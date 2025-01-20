@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.183458.2025
+! Version: 01.20.190053.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 18:34:58 UTC 2025
+! Last modified: Mon Jan 20 19:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 815
+! Number of entries: 817
 ||03830.cxtsoftware.net^
 ||12chats.com^
 ||137verdecasino59.com^
@@ -136,6 +136,7 @@
 ||coinhga.com^
 ||colorfivest.com^
 ||comms-sl-events.squarespace.info^
+||connect.secure.wellsfargo.com^
 ||continue.secmanage-auth.id.deegeestudio.com^
 ||correos-es.in^
 ||craftribal.com^
@@ -617,6 +618,7 @@
 ||subscriptions.acemlnc.com^
 ||sukryqs.com^
 ||sunpass.com-8zlq.sbs^
+||sunpass.com-lsih.sbs^
 ||surveyheart.com^
 ||surveys.newtonxcommunity.com^
 ||sus.hvue.io^

@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.183457.2025
+! Version: 01.20.190052.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 18:34:57 UTC 2025
+! Last modified: Mon Jan 20 19:00:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3809
+! Number of entries: 3814
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -168,6 +168,7 @@ nocona..boots.com
 ||alleycatsol.xyz^
 ||allianceroyals.com^
 ||allicross.online^
+||alljerseys.io^
 ||alltrainerspc.com^
 ||allyeder.com^
 ||alo88.black^
@@ -1534,6 +1535,7 @@ nocona..boots.com
 ||golddex.web3.net^
 ||golden.lucky.com^
 ||goldengooseselect.com^
+||goldenpristine.com^
 ||golderagifts.com^
 ||golditry.com^
 ||goldstradeapp.com^
@@ -1821,6 +1823,7 @@ nocona..boots.com
 ||jpgcompressor.online^
 ||jpm.financial.com^
 ||jpnthom.com^
+||jpxmarket.com^
 ||jradx.ca^
 ||jrelievedy.monster^
 ||jrqyonline.com^
@@ -2053,6 +2056,7 @@ nocona..boots.com
 ||luxeflairz.com^
 ||luxewatchus.com^
 ||luxins.shop^
+||luxurydo.ru^
 ||lvlbit.com^
 ||lwbbc.com^
 ||lylussplus.com^
@@ -3031,6 +3035,7 @@ nocona..boots.com
 ||smeftoredu.com^
 ||smesk.online^
 ||smith.newyork.com^
+||smmboost24.online^
 ||smokelifeshop.com^
 ||snapbuy.us^
 ||snapsave.app^
