@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.20.133309.2025
+! Version: 01.20.140058.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 20 13:33:09 UTC 2025
+! Last modified: Mon Jan 20 14:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3785
+! Number of entries: 3790
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -800,6 +800,7 @@ nocona..boots.com
 ||cobaltsunsetberry.xyz^
 ||cobatis.sm.com^
 ||cobblehillinc.store^
+||cobra.sellpass.io^
 ||coco.game.com^
 ||coco1to1.cc^
 ||cocooutlets.shop^
@@ -910,6 +911,7 @@ nocona..boots.com
 ||cryptocurrency.recovery.com^
 ||cryptodig.ci^
 ||cryptoids.info^
+||cryptoindex.com^
 ||cryptojayatech.cloud^
 ||cryptojobs.online.com^
 ||cryptojoecoffee.com^
@@ -1754,6 +1756,7 @@ nocona..boots.com
 ||ird.govt.nz^
 ||iris.tech.online^
 ||irisium.lat^
+||ironchainbank.io^
 ||irwin.tools.com^
 ||islanddluxe.top^
 ||isozpn.com^
@@ -3077,6 +3080,7 @@ nocona..boots.com
 ||startpayu.com^
 ||startperfectsolutions.com^
 ||startwrit.com^
+||static.olymptrade.com^
 ||stavelux.net^
 ||stealthmist.com^
 ||steam.usercommunityart.com^
@@ -3308,6 +3312,7 @@ nocona..boots.com
 ||touristcoves.com^
 ||towork.998.vip^
 ||toyota.mall.com^
+||toyscenterit.com^
 ||toyzboutique.com^
 ||tozc.online^
 ||tpotraders.com^
