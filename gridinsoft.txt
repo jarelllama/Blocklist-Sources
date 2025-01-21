@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.21.200058.2025
+! Version: 01.21.203203.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 21 20:00:59 UTC 2025
+! Last modified: Tue Jan 21 20:32:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3886
+! Number of entries: 3892
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1345,6 +1345,7 @@ nocona..boots.com
 ||fashionsfriday.com^
 ||fashionworldcc.shop^
 ||fashioze.com^
+||fast.financial.com^
 ||fastbrush.online^
 ||fastee.top^
 ||fastshare.cloud^
@@ -1884,6 +1885,7 @@ nocona..boots.com
 ||jysk.sale.com^
 ||jyskhome.eu.com^
 ||k.waymall.shop^
+||kadesignandbuild.co.uk^
 ||kadobarvapesstore.com^
 ||kagevest.org^
 ||kalpwd.vip^
@@ -2687,6 +2689,7 @@ nocona..boots.com
 ||practicemakesperfect.online^
 ||praytech.ma^
 ||precedings.shop^
+||precisionbevel.com^
 ||preferee.pharmacie.fr^
 ||premium.iptvpro.com^
 ||premiumbankleyfx.com^
@@ -2764,6 +2767,7 @@ nocona..boots.com
 ||qhnkbqxqna.shop^
 ||qixub.stmaryjoseph.com^
 ||qlmavip.top^
+||qlvzjmtg.inqku.cn^
 ||qmbit.org^
 ||qqbit.net^
 ||qrefuishz.monster^
@@ -3115,6 +3119,7 @@ nocona..boots.com
 ||songreviewere.com^
 ||songreviewerww.com^
 ||sony.vod.com^
+||soonjay.arawbet01.com^
 ||sopenny.com^
 ||sophie.paris.com^
 ||soportestreaming.online^
@@ -3652,6 +3657,7 @@ nocona..boots.com
 ||vx88.vx.com^
 ||vx8802.com^
 ||vx88t.com^
+||waas.network^
 ||wagexera.com^
 ||wakestorage.com^
 ||walletweave.online^

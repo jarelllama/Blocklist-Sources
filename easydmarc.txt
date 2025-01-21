@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.21.200100.2025
+! Version: 01.21.203204.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 21 20:01:00 UTC 2025
+! Last modified: Tue Jan 21 20:32:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 888
+! Number of entries: 892
 ||03830.cxtsoftware.net^
 ||12chats.com^
 ||137verdecasino59.com^
@@ -289,6 +289,7 @@
 ||genius.egis-group.com^
 ||getsocialboost.com^
 ||gezara.bestproductone.sbs^
+||gianttiger.glitch.me^
 ||gifft.me^
 ||github.com^
 ||gmail.net-login.com^
@@ -666,6 +667,7 @@
 ||steampowered.playtestgameinvited.com^
 ||steamtickets-20.com^
 ||steamtickets-50.com^
+||steamtickets-key.com^
 ||stenmcomnmunity.com^
 ||stimulantonline.click^
 ||stoked-adventure.com^
@@ -674,6 +676,7 @@
 ||subscriptions.acemlnc.com^
 ||sukryqs.com^
 ||sunpass.com-35tr.sbs^
+||sunpass.com-72ar.sbs^
 ||sunpass.com-8zlq.sbs^
 ||sunpass.com-lsih.sbs^
 ||surveyheart.com^
@@ -726,6 +729,7 @@
 ||tulaphoutshne.co.in^
 ||u10038829.ct.sendgrid.net^
 ||u10168449.ct.sendgrid.net^
+||u18583245.ct.sendgrid.net^
 ||u20443333.ct.sendgrid.net^
 ||u26067229.ct.sendgrid.net^
 ||u27884357.ct.sendgrid.net^
