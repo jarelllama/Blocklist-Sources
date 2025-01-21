@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.21.080103.2025
+! Version: 01.21.083356.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 21 08:01:03 UTC 2025
+! Last modified: Tue Jan 21 08:33:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 846
+! Number of entries: 850
 ||03830.cxtsoftware.net^
 ||12chats.com^
 ||137verdecasino59.com^
@@ -53,6 +53,7 @@
 ||api-daa.xtremepush.com^
 ||api.icodrops.com^
 ||api.whatsapp.com^
+||app.creatopy.com^
 ||app.jotform.com^
 ||app.mailinblack.com^
 ||app26212380.com^
@@ -352,6 +353,7 @@
 ||j599y.top^
 ||jcard50.ru^
 ||journals.bilpubgroup.com^
+||judithgoesgreen.nl^
 ||kcst.art^
 ||keno0.com^
 ||kib3e.app.link^
@@ -465,6 +467,7 @@
 ||order-conflrmation.com^
 ||otp.bropay168.com^
 ||oui4kojrfudiojm21iu3h4jr.pages.dev^
+||outlook.office.com^
 ||outorabout.com^
 ||pages.tempisite.com^
 ||paket.ewgcwa.cyou^
@@ -783,6 +786,7 @@
 ||www.erome.com^
 ||www.expressfinanceonline.com^
 ||www.facebook.com^
+||www.fello-world.com^
 ||www.fhmparts.com^
 ||www.fiverr.com^
 ||www.fnp.com^
