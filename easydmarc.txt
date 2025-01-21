@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.21.015940.2025
+! Version: 01.21.022642.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 21 01:59:40 UTC 2025
+! Last modified: Tue Jan 21 02:26:42 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 829
+! Number of entries: 834
 ||03830.cxtsoftware.net^
 ||12chats.com^
 ||137verdecasino59.com^
@@ -117,6 +117,7 @@
 ||cdn.videy.co^
 ||challenge.loopsupport.com^
 ||chat.whatsapp.com^
+||chatgpt.at-au.therelayservice.com^
 ||checkra.pages.dev^
 ||chng.it^
 ||cimahi.info^
@@ -336,6 +337,7 @@
 ||interac.make698.world^
 ||intranet.flemingc.on.ca^
 ||investprimee.site^
+||invieavarehogarpbdan.es^
 ||iplogger.com^
 ||ireland.api.tryhavana.com^
 ||is.gd^
@@ -618,6 +620,7 @@
 ||steampowered.nextplaytest.com^
 ||steampowered.playtestgameinvited.com^
 ||steamtickets-20.com^
+||steamtickets-50.com^
 ||stenmcomnmunity.com^
 ||stimulantonline.click^
 ||stopify.co^
@@ -714,6 +717,7 @@
 ||vizard.ai^
 ||vld.smsaexpress.com^
 ||vlogf.ams1.vultrobjects.com^
+||vnaqke.efortiessdate.net^
 ||vpnconnect-manager.info^
 ||vrcloud.verifone.co.il^
 ||vvww--roblox.com^
@@ -751,6 +755,7 @@
 ||www.authtracking.com^
 ||www.aweber.com^
 ||www.behance.net^
+||www.bet777.pro^
 ||www.blurouteink.com^
 ||www.canva.com^
 ||www.carecreditprovidercenter.com^
