@@ -3,9 +3,9 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.21.113047.2025
+! Version: 01.21.120110.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 21 11:30:47 UTC 2025
+! Last modified: Tue Jan 21 12:01:10 UTC 2025
 ! Syntax: Adblock Plus
 ! Number of entries: 859
 ||03830.cxtsoftware.net^
