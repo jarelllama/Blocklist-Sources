@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.21.090059.2025
+! Version: 01.21.093202.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 21 09:00:59 UTC 2025
+! Last modified: Tue Jan 21 09:32:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 850
+! Number of entries: 855
 ||03830.cxtsoftware.net^
 ||12chats.com^
 ||137verdecasino59.com^
@@ -98,6 +98,7 @@
 ||buildlpad.com^
 ||business.community-servicepagesupport.com^
 ||business.facebook.com^
+||buy.itunes.apple.com^
 ||buy.stripe.com^
 ||byc.sa^
 ||c.vialoops.com^
@@ -118,6 +119,7 @@
 ||cdn.plutonium.pw^
 ||cdn.videy.co^
 ||challenge.loopsupport.com^
+||chapeo.onelink.me^
 ||chat.whatsapp.com^
 ||chatgpt.at-au.therelayservice.com^
 ||checkra.pages.dev^
@@ -201,6 +203,7 @@
 ||e.email.cc.yahoo.com^
 ||earn.39sdb.top^
 ||ebook-smart.online^
+||ecoalchemy.today^
 ||edm.gemvisa.com.au^
 ||ehqaq.sa^
 ||eis.de.kooperation.portal-coop.de^
@@ -247,6 +250,7 @@
 ||ffnga01.com^
 ||fg7syt3j.r.ap-south-1.awstrack.me^
 ||fgdy6l29.r.eu-west-1.awstrack.me^
+||file.goldentaka.net^
 ||fileknot.io^
 ||findmy-located.app^
 ||findmyiphone.location513.ru^
@@ -832,6 +836,7 @@
 ||www.surveymonkey.com^
 ||www.swiggy.com^
 ||www.tataaig.com^
+||www.techidal.com^
 ||www.thermoswy518.com^
 ||www.tiktok.com^
 ||www.ujerseyvip.com^
