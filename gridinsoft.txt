@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.21.223253.2025
+! Version: 01.21.230101.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 21 22:32:53 UTC 2025
+! Last modified: Tue Jan 21 23:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3908
+! Number of entries: 3916
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -416,6 +416,7 @@ nocona..boots.com
 ||betsclub.pro^
 ||betteranime.net^
 ||betwave.vip^
+||bewizi.com^
 ||beyondprostate.com^
 ||beyondstandard.org^
 ||bggbet.com^
@@ -1024,6 +1025,7 @@ nocona..boots.com
 ||ddsteel.online^
 ||dealzforu.pro^
 ||deans.shoprite.online^
+||decentralizedtek.pages.dev^
 ||decorhome.arg.store^
 ||deenext.com^
 ||deepnude.to^
@@ -1133,6 +1135,7 @@ nocona..boots.com
 ||dork.baby^
 ||download.wondershare.net^
 ||downloadfiles.link^
+||dowynert.com^
 ||dpboss.services^
 ||dpe.gov.bd^
 ||dragonfly.shop.com^
@@ -1675,6 +1678,7 @@ nocona..boots.com
 ||hindappstore.com^
 ||hireahackers.pro^
 ||hireuphelp.online^
+||hkapp.telegram.net^
 ||hkcryptoexchange.com^
 ||hkdatong.shop^
 ||hlamw.top^
@@ -1865,6 +1869,7 @@ nocona..boots.com
 ||johnhearingaids.com^
 ||join.lavishivy.com^
 ||joingy.online^
+||joker999do.com^
 ||joliiy.com^
 ||jollypulse.co.in^
 ||josephina.shop^
@@ -2198,6 +2203,7 @@ nocona..boots.com
 ||memoforce.net^
 ||memubit.com^
 ||menorul.com^
+||menrmbxdxextzwsom.shop^
 ||mercado.shop.com^
 ||messiah777.com^
 ||meta.cafe.net^
@@ -2559,6 +2565,7 @@ nocona..boots.com
 ||outfitexpress.online^
 ||outfitloft.com^
 ||outlook.8i7.net^
+||outlook.gamial.com^
 ||overep.com^
 ||owerexs.com^
 ||owfori.net^
@@ -3004,6 +3011,7 @@ nocona..boots.com
 ||seletar.mall.vip^
 ||self.love.shop.co.uk^
 ||sellmmar.best^
+||sellonamazontoday.com^
 ||semello.fr^
 ||semphasize.com^
 ||semw.store^
