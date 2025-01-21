@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.21.210102.2025
+! Version: 01.21.213053.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 21 21:01:02 UTC 2025
+! Last modified: Tue Jan 21 21:30:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 892
+! Number of entries: 894
 ||03830.cxtsoftware.net^
 ||12chats.com^
 ||137verdecasino59.com^
@@ -44,6 +44,7 @@
 ||aireaplc.info^
 ||ak.phaunaitsi.net^
 ||aka.ms^
+||alb.reddit.com^
 ||album.link^
 ||alquimia.rf.gd^
 ||amazon.com.au^
@@ -188,6 +189,7 @@
 ||dhl.de-ufch.top^
 ||dhl.de-ydlh.top^
 ||dhl.plushy.cfd^
+||dhlyourparcel19.com^
 ||diaadiainfra.blob.core.windows.net^
 ||did.li^
 ||direct-link.net^
