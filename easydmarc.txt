@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.21.230102.2025
+! Version: 01.21.233048.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 21 23:01:02 UTC 2025
+! Last modified: Tue Jan 21 23:30:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 902
+! Number of entries: 906
 ||03830.cxtsoftware.net^
 ||12chats.com^
 ||137verdecasino59.com^
@@ -437,6 +437,7 @@
 ||mcossviewing.com^
 ||me-qr.com^
 ||meatabdicatedelicatessen.com^
+||media.giphy.com^
 ||mega.nz^
 ||metasbusiness-instagams.website^
 ||mf8pmrb.meetromanceconnects.com^
@@ -583,6 +584,7 @@
 ||roblox.com.py^
 ||roblox.com^
 ||roblox.hk.com^
+||roblox.ls^
 ||roblox.mq^
 ||robuxlimitedtime-here-ekslusif.blogspot.com^
 ||ropro.io^
@@ -676,6 +678,7 @@
 ||steamtickets-20.com^
 ||steamtickets-50.com^
 ||steamtickets-key.com^
+||steamwinter-50.com^
 ||stenmcomnmunity.com^
 ||stimulantonline.click^
 ||stoked-adventure.com^
@@ -686,6 +689,7 @@
 ||sunpass.com-35tr.sbs^
 ||sunpass.com-72ar.sbs^
 ||sunpass.com-8zlq.sbs^
+||sunpass.com-a9wn.sbs^
 ||sunpass.com-lsih.sbs^
 ||surveyheart.com^
 ||surveys.newtonxcommunity.com^

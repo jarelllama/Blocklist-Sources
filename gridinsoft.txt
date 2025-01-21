@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.21.230101.2025
+! Version: 01.21.233047.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 21 23:01:01 UTC 2025
+! Last modified: Tue Jan 21 23:30:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3916
+! Number of entries: 3926
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -2090,6 +2090,7 @@ nocona..boots.com
 ||lovemyparfum.com^
 ||loverzsk.best^
 ||lowandeasylending.com^
+||loyaltyiqtrk.com^
 ||lpr.articlefindpro.com^
 ||lrefraine.lol^
 ||lrepacks.net^
@@ -2123,12 +2124,14 @@ nocona..boots.com
 ||m.bitunixex.com^
 ||m.parrotes.com^
 ||m.payasset.com^
+||m1jspkd.com^
 ||mabar88go.online^
 ||mabhaykamath.online^
 ||mablehelp.online^
 ||macpac.ts.shop^
 ||macystoreclothing.com^
 ||madmuscles.com^
+||maexj2trk.com^
 ||mahadev.id.online^
 ||mahakumbhhelicopterservice.online^
 ||mainelobsterget.shop^
@@ -2267,6 +2270,7 @@ nocona..boots.com
 ||mixtsp.com^
 ||mizunomexicooutlet.com.mx^
 ||mjir.shop^
+||mjkkj8trk.com^
 ||mkcgopdregistration.online^
 ||mkurtos.com^
 ||mkvcinemas.phd^
@@ -2283,6 +2287,7 @@ nocona..boots.com
 ||modernwristwatches.shop^
 ||modilimitado.io^
 ||modpenset.com^
+||moefr3trk.com^
 ||mokshatravels.online^
 ||momahc.com^
 ||mondiairelay.livraison.com^
@@ -2451,6 +2456,7 @@ nocona..boots.com
 ||nowidi.monopulses.com^
 ||nowmining.fun^
 ||nowquality.ca^
+||npebr8trk.com^
 ||nrsa.in^
 ||nt.h5.com^
 ||nubil.nl^
@@ -2651,6 +2657,7 @@ nocona..boots.com
 ||petiteridiony.com^
 ||petronordstorage.nl^
 ||pg77.game^
+||pgfff8trk.com^
 ||phamcore.com^
 ||pharmarket.com^
 ||phillipa.online^
@@ -2781,6 +2788,7 @@ nocona..boots.com
 ||qfslite.sbs^
 ||qfsnesara.io^
 ||qhnkbqxqna.shop^
+||qi38sksl.com^
 ||qigongexercise.com^
 ||qixub.stmaryjoseph.com^
 ||qlmavip.top^
@@ -3496,6 +3504,7 @@ nocona..boots.com
 ||trxchains.com^
 ||trxminerboost.com^
 ||tryriva.com^
+||ts761hgd.com^
 ||tsauvip.ing^
 ||tshilaige.com^
 ||tt.tiktokmarketplace.online^
@@ -3804,6 +3813,7 @@ nocona..boots.com
 ||wowcams.com^
 ||wowonlinestores.co.in^
 ||woxdem.com^
+||wqwln8trk.com^
 ||wristpointshop.com^
 ||wtcentral.com^
 ||wusveso.vip^
