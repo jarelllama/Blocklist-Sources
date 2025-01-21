@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.21.180112.2025
+! Version: 01.21.183550.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 21 18:01:12 UTC 2025
+! Last modified: Tue Jan 21 18:35:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 881
+! Number of entries: 883
 ||03830.cxtsoftware.net^
 ||12chats.com^
 ||137verdecasino59.com^
@@ -35,6 +35,7 @@
 ||adbluemedia.com^
 ||admin.booking.com^
 ||adobe-link-hub-com.vercel.app^
+||adobesign.net^
 ||advantage.paradox.ai^
 ||af-atm.com^
 ||af-update.top^
@@ -67,6 +68,7 @@
 ||apply.usvisaconnection.com^
 ||apprevelado.shop^
 ||aramex.u-deals.run^
+||arch4.1dfgpi6.my^
 ||assistingwebs.shop^
 ||astrocrm.my.salesforce.com^
 ||attunedoffersnow.lat^
