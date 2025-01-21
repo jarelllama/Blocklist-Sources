@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.21.220059.2025
+! Version: 01.21.223254.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 21 22:00:59 UTC 2025
+! Last modified: Tue Jan 21 22:32:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 894
+! Number of entries: 902
 ||03830.cxtsoftware.net^
 ||12chats.com^
 ||137verdecasino59.com^
@@ -16,6 +16,7 @@
 ||1drv.ms^
 ||25.flos.dulkana.news^
 ||2976926.cc^
+||2ly.link^
 ||2s.gg^
 ||2wb8s8bmabigl.s3.us-east-1.amazonaws.com^
 ||34.75.2o2.lol^
@@ -307,6 +308,7 @@
 ||goto.now^
 ||goviral.growthtools.com^
 ||grnh.se^
+||gtly.to^
 ||harderjuniormisty.com^
 ||hcm41.sapsf.com^
 ||hdfcbk.io^
@@ -376,10 +378,12 @@
 ||jcard50.ru^
 ||journals.bilpubgroup.com^
 ||judithgoesgreen.nl^
+||kansastreecare.com^
 ||kcst.art^
 ||keno0.com^
 ||kib3e.app.link^
 ||kingresearch.rpy.club^
+||kingscollegehospitaldubai.com^
 ||kitchenzoneshop.pro^
 ||knowledgeprovider.z.com^
 ||knvl.me^
@@ -481,6 +485,7 @@
 ||nyoprz.xyz^
 ||o53ufyj.gzlema.com^
 ||oag999.com^
+||ocesa.tbits.me^
 ||ok8ght4.sbs^
 ||onelink.shein.com^
 ||onelink.to^
@@ -537,6 +542,7 @@
 ||prod-cdn.preprod.co-vin.in^
 ||profresh.vn^
 ||promoofficial.com^
+||protect-us.mimecast.com^
 ||pub-2d00d32ff6d84ef6999828eaf509b772.r2.dev^
 ||pub-a5809274a20b451caeae7c98fdca5a72.r2.dev^
 ||public.catbooking.nl^
@@ -755,6 +761,7 @@
 ||urldefense.proofpoint.com^
 ||urlra.com^
 ||urly.fi^
+||urpendomsg.com^
 ||us-27947.email-composer-webhooks.gong.io^
 ||us.etrade.com^
 ||us.services.docusign.net^
@@ -889,6 +896,7 @@
 ||x.alibaba.com^
 ||xhamster43.desi^
 ||yhrkh.com^
+||yoshiparts.com^
 ||yourbill.me^
 ||youshouldgotothe.chillcrew.net^
 ||yu3.io^
