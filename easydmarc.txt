@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.21.130446.2025
+! Version: 01.21.133300.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 21 13:04:46 UTC 2025
+! Last modified: Tue Jan 21 13:33:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 863
+! Number of entries: 869
 ||03830.cxtsoftware.net^
 ||12chats.com^
 ||137verdecasino59.com^
@@ -103,6 +103,7 @@
 ||buy.itunes.apple.com^
 ||buy.stripe.com^
 ||byc.sa^
+||c-update7.senzey.com^
 ||c.vialoops.com^
 ||ca.details-info.co^
 ||caldwell-stephanie-bs7807.web.app^
@@ -370,6 +371,7 @@
 ||knowledgeprovider.z.com^
 ||knvl.me^
 ||kompress-gold-quantum.lat^
+||koronapay.com-banking.sbs^
 ||krs.microsoft.com^
 ||kupoan-2024-2025.drepv9.my.id^
 ||kwsr7lrz.r.eu-west-2.awstrack.me^
@@ -457,6 +459,7 @@
 ||ney11.com^
 ||njuskalo.in7832256.com^
 ||nobellstore.com^
+||node.dlmate.cc^
 ||notifications.googleapis.com^
 ||npower-fmhds-gov-ng.web.app^
 ||nrovvz.efortiessdate.net^
@@ -543,6 +546,7 @@
 ||rekrutmenbumnterbaru.telejobss.com^
 ||reliancefresh.co^
 ||relianceretail.com^
+||renewu.top^
 ||resellervoucher.com^
 ||restorecord.com^
 ||reurl.cc^
@@ -648,6 +652,7 @@
 ||steamtickets-50.com^
 ||stenmcomnmunity.com^
 ||stimulantonline.click^
+||stoked-adventure.com^
 ||stopify.co^
 ||storage.googleapis.com^
 ||subscriptions.acemlnc.com^
@@ -707,6 +712,7 @@
 ||u20443333.ct.sendgrid.net^
 ||u26067229.ct.sendgrid.net^
 ||u27884357.ct.sendgrid.net^
+||u36849556.ct.sendgrid.net^
 ||u37472390.ct.sendgrid.net^
 ||u4183812.ct.sendgrid.net^
 ||u45048904.ct.sendgrid.net^
