@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.21.190101.2025
+! Version: 01.21.193054.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 21 19:01:01 UTC 2025
+! Last modified: Tue Jan 21 19:30:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 883
+! Number of entries: 888
 ||03830.cxtsoftware.net^
 ||12chats.com^
 ||137verdecasino59.com^
@@ -19,6 +19,7 @@
 ||2s.gg^
 ||2wb8s8bmabigl.s3.us-east-1.amazonaws.com^
 ||34.75.2o2.lol^
+||7pkb8.r.a.d.sendibm1.com^
 ||7quente.xyz^
 ||81ggxm.com^
 ||8uyk0sctks0.typeform.com^
@@ -299,6 +300,7 @@
 ||goodroads.acemlnb.com^
 ||google.at^
 ||google.com^
+||googleads.g.doubleclick.net^
 ||goto.now^
 ||goviral.growthtools.com^
 ||grnh.se^
@@ -385,6 +387,7 @@
 ||kwsr7lrz.r.eu-west-2.awstrack.me^
 ||l.cs-mail-sender.com^
 ||l.facebook.com^
+||l2s.is^
 ||l8vlrp66.r.us-east-1.awstrack.me^
 ||lap.i2ie.xyz^
 ||lap325.773d.xyz^
@@ -612,6 +615,7 @@
 ||shipping.id62902.world^
 ||shop-sale4.quest^
 ||shophelmetpros.com^
+||shorten.is^
 ||shorter.gg^
 ||shorturl.asia^
 ||shorturl.at^
@@ -704,6 +708,7 @@
 ||tincucnhanh.online^
 ||tiny.dhl.co.il^
 ||tinyurl.com^
+||tk.ercesko.com^
 ||tkbkj.cc^
 ||tnedistrict.tn.gov.in^
 ||tobiaschocolatier.com^
