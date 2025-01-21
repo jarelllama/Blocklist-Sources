@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.21.173241.2025
+! Version: 01.21.180110.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 21 17:32:41 UTC 2025
+! Last modified: Tue Jan 21 18:01:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3874
+! Number of entries: 3880
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -2181,6 +2181,7 @@ nocona..boots.com
 ||meindl.norge.com^
 ||meistrgold.com^
 ||melbet.india.net^
+||memetrump.org^
 ||memoforce.net^
 ||memubit.com^
 ||menorul.com^
@@ -3029,6 +3030,7 @@ nocona..boots.com
 ||shoppingmall11.top^
 ||shoppingmall22.top^
 ||shoppingmall44.top^
+||shopsaltana.com^
 ||shopsavvysimpsons.com^
 ||shoptastic.io^
 ||shopwithpulse.store^
@@ -3448,6 +3450,8 @@ nocona..boots.com
 ||trophycase.cc^
 ||trqw.store^
 ||tructi.com^
+||trumpmeme.info^
+||trumptokenofficial.com^
 ||trust.forest7.com^
 ||trustaipay.com^
 ||trustcoin.vip^
@@ -3696,6 +3700,7 @@ nocona..boots.com
 ||web3km.online^
 ||web3land.net^
 ||web3pay.biz^
+||website.87e9feb8.quaaludes.io^
 ||websparkstore.com^
 ||wedexy.com^
 ||weebull.co^
@@ -3756,6 +3761,7 @@ nocona..boots.com
 ||worldlibertyfinancial.com^
 ||worldmovesolutions.com^
 ||worldnftmarket.top^
+||worldofdypians.ch^
 ||worldofhurtonline.com^
 ||worldproductssprogram.com^
 ||worldsdates.com^
