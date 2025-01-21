@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.21.203203.2025
+! Version: 01.21.210101.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 21 20:32:03 UTC 2025
+! Last modified: Tue Jan 21 21:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3892
+! Number of entries: 3901
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -42,6 +42,7 @@ nocona..boots.com
 ||34k.site^
 ||3549urk.kipkeo.info^
 ||365bitcoinminer.com^
+||4uvize.com^
 ||500.intal.org^
 ||552059.com^
 ||552993.com^
@@ -252,6 +253,7 @@ nocona..boots.com
 ||appanalytics.online^
 ||appdevelopmenthouse.com^
 ||appj.online^
+||appleusa.tk^
 ||apps.aremining.app^
 ||apps.onebeyond.com^
 ||aprontify.de^
@@ -1011,6 +1013,7 @@ nocona..boots.com
 ||datmyx.online^
 ||dawnfelt.com^
 ||daxpulse.com^
+||daxtok.com^
 ||dbbjrhhn.guru^
 ||dbespot.com^
 ||dbmsurvey.com^
@@ -1506,6 +1509,7 @@ nocona..boots.com
 ||gel9.online^
 ||gem.minelab.net^
 ||gemini.ai.net^
+||generadorespro24.com^
 ||general.xchange.pro^
 ||genesisminingbot.com^
 ||geninsur.com^
@@ -1536,6 +1540,7 @@ nocona..boots.com
 ||ghsyps.ca^
 ||giftbasketonlines.com^
 ||giftshining.com^
+||gifttowallet.com^
 ||giftvalidator.com^
 ||gihsfilm.weebly.com^
 ||girlfriendwisely.com^
@@ -1875,6 +1880,7 @@ nocona..boots.com
 ||juno.download.promo.com^
 ||justanorganizedhome.online^
 ||justanothercarpenter.online^
+||justhoston.com^
 ||justiceface.com^
 ||justinyourhead.online^
 ||justwatch.com^
@@ -2603,6 +2609,7 @@ nocona..boots.com
 ||patsao.com^
 ||paulheilman.shop^
 ||pawns.app^
+||pawsitivetraining.online^
 ||pay.risepay.com.br^
 ||paybaz.com^
 ||paygateway.lol^
@@ -3601,6 +3608,7 @@ nocona..boots.com
 ||vepnext.com^
 ||verol.shop^
 ||verpeliculasultra.com^
+||verskyultimate.top^
 ||verticalvinvehicle.com^
 ||vetusgifts.com^
 ||vevorheater.com^
@@ -3610,6 +3618,7 @@ nocona..boots.com
 ||vflcsz.info^
 ||vflmo.online^
 ||vhufdiu.com^
+||vibegal.com^
 ||vibyage.com^
 ||viceoriassccet.com^
 ||victordle.net^
