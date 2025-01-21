@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.21.110052.2025
+! Version: 01.21.113045.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 21 11:00:52 UTC 2025
+! Last modified: Tue Jan 21 11:30:45 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3849
+! Number of entries: 3852
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -257,6 +257,7 @@ nocona..boots.com
 ||arabwood.ir^
 ||arakaxabux.com^
 ||arbicryptos.com^
+||arbitronix.io^
 ||arcmine.com^
 ||ardilu.com^
 ||aregalex.monster^
@@ -1395,6 +1396,7 @@ nocona..boots.com
 ||flowfaucet.online^
 ||flrdroplines.com^
 ||fluctz.xyz^
+||flugger.pl^
 ||fluminer.com^
 ||fluminer.org^
 ||flwoertime.de^
@@ -3249,6 +3251,7 @@ nocona..boots.com
 ||terrapulsedfg.site^
 ||tesolarhubs.buzz^
 ||test.aspwyvsj.com^
+||testorush.eu^
 ||tether.global.com^
 ||tfalcon.online^
 ||tfoskn.shop^
