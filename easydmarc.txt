@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.21.170104.2025
+! Version: 01.21.173242.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 21 17:01:04 UTC 2025
+! Last modified: Tue Jan 21 17:32:42 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 879
+! Number of entries: 881
 ||03830.cxtsoftware.net^
 ||12chats.com^
 ||137verdecasino59.com^
@@ -493,6 +493,7 @@
 ||pay.hotmart.com^
 ||paydirect.myob.com^
 ||payhip.com^
+||paymant.erc404.exchange^
 ||payment-web.sfr.fr^
 ||paymentloungeportal.adityabirlacapital.com^
 ||payments.juspay.in^
@@ -747,6 +748,7 @@
 ||usps.com-tarjfxv.top^
 ||usps.com-tracking-helpswzc.xin^
 ||uzmaafzal.SFAgentJobs.com^
+||v1.mk^
 ||v22.amazonbba.com^
 ||vdc.az1.qualtrics.com^
 ||veepn.com^

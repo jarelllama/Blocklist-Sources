@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.21.170103.2025
+! Version: 01.21.173241.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 21 17:01:03 UTC 2025
+! Last modified: Tue Jan 21 17:32:41 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3864
+! Number of entries: 3874
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -762,6 +762,7 @@ nocona..boots.com
 ||citxion.top^
 ||civilwarcrisis.com^
 ||claim.hyperliquiditychain.com^
+||claim.trumpmemes.xyz^
 ||claimgrass.netlify.app^
 ||claiming.movementlabs.com^
 ||claimings.floki.com^
@@ -1492,6 +1493,7 @@ nocona..boots.com
 ||game.zone.pro^
 ||gamefabrique.com^
 ||gameshopfinaldeals.com^
+||gameslux.store^
 ||gapconnectionbridge.co.in^
 ||gaspol268.com^
 ||gdcecusd.com^
@@ -1506,13 +1508,21 @@ nocona..boots.com
 ||geographz.com^
 ||geoxsdiscountshop.com^
 ||get.activated.win^
+||getcommunitytrumpmemes.com^
 ||getcryptodrop.com^
 ||getdrant.shop^
 ||getimage.online^
 ||getintopc.com^
 ||getoca.com^
+||getrumpmemes.cc^
+||getrumpmemes.org^
 ||getslimbrew.com^
 ||getsoothesmooth.com^
+||getstrumpmemes.lol^
+||gettrampmeme.com^
+||gettrampmeme.org^
+||gettrampmemes.com^
+||gettrumpairdrop.web.app^
 ||gfgsdgkgk.com^
 ||gfslsecurities.cc^
 ||ggff.net^
