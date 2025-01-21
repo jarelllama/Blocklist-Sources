@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.21.040101.2025
+! Version: 01.21.043333.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 21 04:01:01 UTC 2025
+! Last modified: Tue Jan 21 04:33:33 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 837
+! Number of entries: 840
 ||03830.cxtsoftware.net^
 ||12chats.com^
 ||137verdecasino59.com^
@@ -210,6 +210,7 @@
 ||empoweredmanhealth.online^
 ||entrepreneuronfire.slclktrk004.com^
 ||erickson-crosby.carroal.my^
+||escosaronlineshoppinginc.com^
 ||estaannis.blogspot.com^
 ||etendre-lux.com^
 ||eu.bbcollab.com^
@@ -484,6 +485,7 @@
 ||piwalletswap.com^
 ||pixceldigital.com^
 ||pkonuadian.com^
+||pldthome.com^
 ||pntskfdx.r.us-west-2.awstrack.me^
 ||popmartid.com^
 ||post.flyingenvelope.com^
@@ -728,6 +730,7 @@
 ||vz.jiahemumen.com^
 ||wa.me^
 ||wagestream.acemlnb.com^
+||waka.monster^
 ||warmpatron.top^
 ||wayspire.in^
 ||wd103.myworkday.com^
