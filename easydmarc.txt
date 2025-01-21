@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.21.160058.2025
+! Version: 01.21.163532.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 21 16:00:58 UTC 2025
+! Last modified: Tue Jan 21 16:35:32 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 876
+! Number of entries: 879
 ||03830.cxtsoftware.net^
 ||12chats.com^
 ||137verdecasino59.com^
@@ -344,6 +344,7 @@
 ||informathote.com^
 ||infotrackmain.naqelksa.com^
 ||inshort.ly^
+||insightonline.sharepoint.com^
 ||insights.zohorecruit.com^
 ||instagram.com^
 ||installxcheck.com^
@@ -528,6 +529,7 @@
 ||profresh.vn^
 ||promoofficial.com^
 ||pub-2d00d32ff6d84ef6999828eaf509b772.r2.dev^
+||pub-a5809274a20b451caeae7c98fdca5a72.r2.dev^
 ||public.catbooking.nl^
 ||qadeputy.com^
 ||qo8bcf.cyou^
@@ -557,6 +559,7 @@
 ||restorecord.com^
 ||reurl.cc^
 ||revo-document-support.involve.me^
+||reward.ff.garena.com^
 ||rg-mall.top^
 ||rga07.com^
 ||rlinks.eu^
