@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.033347.2025
+! Version: 01.22.040051.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 03:33:47 UTC 2025
+! Last modified: Wed Jan 22 04:00:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3959
+! Number of entries: 3964
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -113,6 +113,7 @@ nocona..boots.com
 ||adsarp.com^
 ||adsphericalsuits.com^
 ||adtgnt.com^
+||advanced.globaldorsett.com^
 ||advanced.onlineguestline.com^
 ||advancedasset.management.org^
 ||advetex.net^
@@ -678,6 +679,7 @@ nocona..boots.com
 ||canvaschronicle.homes^
 ||canvasgenius.homes^
 ||capaciousdrewreligion.com^
+||capital.fargofx.ltd^
 ||capital.shares.com^
 ||capitalbean.com^
 ||capitalix.com^
@@ -2064,6 +2066,7 @@ nocona..boots.com
 ||littlefoliage.com^
 ||littletinyhouse.com^
 ||live.broadcast53.live^
+||live.uncody.site^
 ||livebroadcast518.online^
 ||liveccvv.mp^
 ||llbeanfactoryoutlets.shop^
@@ -2786,6 +2789,7 @@ nocona..boots.com
 ||pushkoin.com^
 ||pussieshairy.org^
 ||pvgpassd.com^
+||pytamyozdanie.click^
 ||pzlcbshop.com^
 ||q.2nvu3.com^
 ||q.orlen.org.pl^
@@ -2940,6 +2944,7 @@ nocona..boots.com
 ||robochipcfd.biz^
 ||rockhillcapital.org^
 ||rockportfrance.fr^
+||rogofodeputeburomi.shop^
 ||rojadirectvonline.com^
 ||rokinat.co.in^
 ||roll2x.com^
