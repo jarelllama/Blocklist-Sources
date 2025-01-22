@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.100056.2025
+! Version: 01.22.103338.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 10:00:56 UTC 2025
+! Last modified: Wed Jan 22 10:33:38 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4032
+! Number of entries: 4038
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -110,6 +110,7 @@ nocona..boots.com
 ||adgkj.com^
 ||adidas.rest^
 ||adilayroofing.com^
+||adityaagrawal.site^
 ||adjacentin.com^
 ||adminpg.online^
 ||admolo.com^
@@ -901,6 +902,7 @@ nocona..boots.com
 ||coninvestholdingsltd.com^
 ||connectdefix.online^
 ||connectionos.xyz^
+||conservativista.com^
 ||consorciosrt.online^
 ||constipation.relieve.16.online^
 ||construction.jobs.nz.online^
@@ -1922,6 +1924,7 @@ nocona..boots.com
 ||juliusbaerusd.com^
 ||jump.panel.surprise.clever.top^
 ||jumper.lvlnk.com^
+||jun88qy.com^
 ||juno.download.promo.com^
 ||justanorganizedhome.online^
 ||justanothercarpenter.online^
@@ -2554,6 +2557,7 @@ nocona..boots.com
 ||omgprice10.cc^
 ||on.shoes.uae.com^
 ||oncees.live^
+||oncloud.shoes.us.com^
 ||ondasvirtuais.online^
 ||oneck.vip^
 ||oneclickmart.online^
@@ -2822,6 +2826,7 @@ nocona..boots.com
 ||purbat.com^
 ||pure.neuro.info^
 ||puregoodsfy.com^
+||purplepeony.sbs^
 ||pushkoin.com^
 ||pussieshairy.org^
 ||puzzleio.com^
@@ -3706,6 +3711,7 @@ nocona..boots.com
 ||valtenz.top^
 ||valueversion.com^
 ||valxcane.lol^
+||varidhirathore.github.io^
 ||vasttrade.investments.org^
 ||vaultperth.com^
 ||vbdigitalcard.in^
