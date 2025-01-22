@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.073048.2025
+! Version: 01.22.080100.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 07:30:48 UTC 2025
+! Last modified: Wed Jan 22 08:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 929
+! Number of entries: 933
 ||03830.cxtsoftware.net^
 ||1024terabox.com^
 ||12chats.com^
@@ -279,6 +279,7 @@
 ||findmy-located.app^
 ||findmyiphone.location513.ru^
 ||firstledgersync.com^
+||fiverr-res.cloudinary.com^
 ||fiverr.acceptordered.com^
 ||fiverr.ordersverification.com^
 ||fiverr.referencepage.buzz^
@@ -306,6 +307,7 @@
 ||gmail.net-login.com^
 ||go.air-pay.co.uk^
 ||go.cultureindex.com^
+||go.stressless.com^
 ||gofile.io^
 ||golden-show1.com^
 ||goo.gl^
@@ -376,6 +378,7 @@
 ||intranet.flemingc.on.ca^
 ||investprimee.site^
 ||invieavarehogarpbdan.es^
+||ipfs.io^
 ||iplogger.com^
 ||ireland.api.tryhavana.com^
 ||is.gd^
@@ -847,6 +850,7 @@
 ||www.aweber.com^
 ||www.behance.net^
 ||www.bet777.pro^
+||www.bing.com^
 ||www.blurouteink.com^
 ||www.canva.com^
 ||www.carecreditprovidercenter.com^
