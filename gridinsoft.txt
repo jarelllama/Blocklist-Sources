@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.210057.2025
+! Version: 01.22.213053.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 21:00:57 UTC 2025
+! Last modified: Wed Jan 22 21:30:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4085
+! Number of entries: 4091
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1549,6 +1549,8 @@ nocona..boots.com
 ||galacvy.com^
 ||galaxiumtoken.com^
 ||galjoyhit.com^
+||gamblers.monster^
+||gamblerx.fun^
 ||gambyllion.com^
 ||game.zixia.com^
 ||game.zone.pro^
@@ -1556,6 +1558,7 @@ nocona..boots.com
 ||gamesfull.app^
 ||gameshopfinaldeals.com^
 ||gameslux.store^
+||gametop.bet^
 ||gapconnectionbridge.co.in^
 ||gaspol268.com^
 ||gdcecusd.com^
@@ -1587,6 +1590,7 @@ nocona..boots.com
 ||gettrampmeme.org^
 ||gettrampmemes.com^
 ||gettrumpairdrop.web.app^
+||getxwin.com^
 ||gfgsdgkgk.com^
 ||gfslsecurities.cc^
 ||ggff.net^
@@ -1594,6 +1598,7 @@ nocona..boots.com
 ||gh.rcgolds.com^
 ||ghsgdkag.com^
 ||ghsyps.ca^
+||giemol.com^
 ||giftbasketonlines.com^
 ||giftshining.com^
 ||gifttowallet.com^
@@ -2332,6 +2337,7 @@ nocona..boots.com
 ||mini.well.store^
 ||minibitcoin.xyz^
 ||minibuzzy.online^
+||mining.online^
 ||mining.tether.com^
 ||miningcompany.ltd^
 ||mininvstplatform.com^
