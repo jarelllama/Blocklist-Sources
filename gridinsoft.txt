@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.143329.2025
+! Version: 01.22.150100.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 14:33:29 UTC 2025
+! Last modified: Wed Jan 22 15:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4068
+! Number of entries: 4070
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1093,6 +1093,7 @@ nocona..boots.com
 ||deniise.com^
 ||dent.code.com^
 ||dentalclinicgreaternoida.com^
+||dentrodel.com^
 ||departmentstoreclearance.com^
 ||deporvillage.fr^
 ||deriveln.com^
@@ -1155,6 +1156,7 @@ nocona..boots.com
 ||dogecoin.usdt.vip^
 ||dogee.vip^
 ||dogefree.in^
+||dogeminerpro.com^
 ||dogepick.io^
 ||dogooddaldaadw.com^
 ||dogs.kim^
@@ -1599,6 +1601,7 @@ nocona..boots.com
 ||gletber.com^
 ||glmrjwl.com^
 ||global.tinv.org^
+||globalbusinesspays.com^
 ||globalcapitalista.com^
 ||globaldocs.online.com^
 ||globalfinaltd.com^
@@ -2780,7 +2783,6 @@ nocona..boots.com
 ||policja.pl112.online^
 ||polpick.io^
 ||popmartonline.my.asia^
-||portal.globalbusinesspays.com^
 ||portaldedicasonline.com^
 ||portumltd.com^
 ||poseidoncoin.top^
