@@ -3,17 +3,18 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.053252.2025
+! Version: 01.22.060103.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 05:32:52 UTC 2025
+! Last modified: Wed Jan 22 06:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3976
+! Number of entries: 3981
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
 ||1.tiktokimg.online^
 ||1024tera.com^
+||11ph9.com^
 ||123notices.com^
 ||1337x.tw^
 ||13yo.lollita.online^
@@ -303,6 +304,7 @@ nocona..boots.com
 ||assortedtechnology.com^
 ||ast2025.shop^
 ||astomstyle.asia^
+||astradumps.com^
 ||astroearning.com^
 ||atamedya.shop^
 ||ataraxonline.net^
@@ -1696,6 +1698,7 @@ nocona..boots.com
 ||hijra7.online^
 ||hikarudistribution.com^
 ||hindappstore.com^
+||hiptrain.digital^
 ||hireahackers.pro^
 ||hireuphelp.online^
 ||hkapp.telegram.net^
@@ -2328,6 +2331,7 @@ nocona..boots.com
 ||moonlightmint.co^
 ||moonmagic.com^
 ||moonwell.fl.xyz^
+||mormark.eu^
 ||mostirex.com^
 ||motorwolt.com^
 ||movenzo.com^
@@ -2798,6 +2802,7 @@ nocona..boots.com
 ||pushkoin.com^
 ||pussieshairy.org^
 ||pvgpassd.com^
+||pxqboso.com^
 ||pytamyozdanie.click^
 ||pzlcbshop.com^
 ||q.2nvu3.com^
