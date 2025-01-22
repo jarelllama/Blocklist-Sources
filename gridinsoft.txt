@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.070057.2025
+! Version: 01.22.073047.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 07:00:57 UTC 2025
+! Last modified: Wed Jan 22 07:30:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3996
+! Number of entries: 4003
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -359,6 +359,7 @@ nocona..boots.com
 ||bancaseguraporlnternetdeempresas.scotialbanrkperu.online^
 ||bangunbersama.online^
 ||bank.sepah.com^
+||bank888.cc^
 ||bantuswahilitours.com^
 ||baominpower.com^
 ||bar47menu.online^
@@ -692,6 +693,7 @@ nocona..boots.com
 ||capitalsprings.info^
 ||capitaltradestartlimited.com^
 ||capitalvisionaryfx.com^
+||capminespace.com^
 ||captchaoutil.site^
 ||capvpartnersltd.com^
 ||car.zhouznq.cn^
@@ -902,6 +904,7 @@ nocona..boots.com
 ||controlnetworks.com.au^
 ||conveneprecedent.top^
 ||coolbet.peru.online^
+||cophasehome.com^
 ||corescientific.refine.com^
 ||corporalgaming.com^
 ||corseplongeea.com^
@@ -1847,6 +1850,7 @@ nocona..boots.com
 ||islanddluxe.top^
 ||isozpn.com^
 ||ispoeti.com^
+||istorechub.com^
 ||isx.financial^
 ||itactivejobs.xyz^
 ||italybookofra.online^
@@ -2588,6 +2592,7 @@ nocona..boots.com
 ||opennetworklink.co.in^
 ||openseabids.io^
 ||optimumhackersrecovery.com^
+||optimumsmax.com^
 ||optionstradeshub.com^
 ||optnutritips.com^
 ||orange.co.uk^
@@ -3266,6 +3271,7 @@ nocona..boots.com
 ||stonxdex.com^
 ||store.belgianshop.com^
 ||store.creedhouse.online^
+||storemineci.com^
 ||storeyork.com.mx^
 ||strapsui.com^
 ||strattrade.org^
@@ -3824,6 +3830,7 @@ nocona..boots.com
 ||wfoqfashion.shop^
 ||wftqatar.com^
 ||whatisketamine.com^
+||whatsapp.hustlerdiaries.com^
 ||wheelpg777.online^
 ||wheelresq.online^
 ||wheybit.com^
