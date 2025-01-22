@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.093214.2025
+! Version: 01.22.100056.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 09:32:14 UTC 2025
+! Last modified: Wed Jan 22 10:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4028
+! Number of entries: 4032
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1902,6 +1902,7 @@ nocona..boots.com
 ||joanonline.shop^
 ||jobforge.ca^
 ||jobmarketwatch.com^
+||joeyritchie.shop^
 ||johncrestani.online.com^
 ||johnhearingaids.com^
 ||join.lavishivy.com^
@@ -2730,6 +2731,7 @@ nocona..boots.com
 ||pityeon.com^
 ||pixbay.online^
 ||pkvn68.online^
+||play.cantikpggames.com^
 ||play.qqvip303.online^
 ||play.regal.fr.online^
 ||playdax.top^
@@ -2822,6 +2824,7 @@ nocona..boots.com
 ||puregoodsfy.com^
 ||pushkoin.com^
 ||pussieshairy.org^
+||puzzleio.com^
 ||pvdenroute.com^
 ||pvgpassd.com^
 ||pw2.detdreg.top^
@@ -3690,6 +3693,7 @@ nocona..boots.com
 ||user.ecosminer.io^
 ||usermanualsonline.com^
 ||usp773.com^
+||uspharmacy247.com^
 ||usps.tracking.helepoanx.cc^
 ||uvkxe.co^
 ||uwtandarts.online^
