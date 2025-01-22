@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.024407.2025
+! Version: 01.22.030321.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 02:44:07 UTC 2025
+! Last modified: Wed Jan 22 03:03:21 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3948
+! Number of entries: 3956
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1345,6 +1345,7 @@ nocona..boots.com
 ||familychoicedrugstore.com^
 ||fanatics.com^
 ||fancyfont.online^
+||fanyil.com^
 ||faphouse.com^
 ||fapy.ai^
 ||faraira.fun^
@@ -2372,6 +2373,7 @@ nocona..boots.com
 ||natadler.com^
 ||nationalcasinolp.com^
 ||natureflux.shop^
+||nav43.global.com^
 ||navyunhanded.com^
 ||nc.ph.2974.zerads.com^
 ||ncbofficielfr.com^
@@ -3014,6 +3016,7 @@ nocona..boots.com
 ||sciaticnerve.treatment.16.online^
 ||sclongteng.com^
 ||scuffersespanatienda.com^
+||sdwff.shop^
 ||sdx96.com^
 ||sdxsjc.com^
 ||sea.hecategames.com^
@@ -3177,6 +3180,7 @@ nocona..boots.com
 ||spctravelads.com^
 ||spec1trend8.shop^
 ||special.sale.sbs^
+||specialtyvehiclesoftulsa.com^
 ||spincex.com^
 ||spinslot88won.online^
 ||spoorme.com^
@@ -3566,6 +3570,7 @@ nocona..boots.com
 ||undetectedbanknotes.com^
 ||undress.xxx^
 ||undressbaby.com^
+||unifiedasset.live^
 ||unionhow.top^
 ||uniquepropertygroup.co.uk^
 ||uniquetrustrades.com^
@@ -3648,6 +3653,7 @@ nocona..boots.com
 ||ventrobi.io^
 ||ventulor.com^
 ||vepnext.com^
+||veroir.com^
 ||verol.shop^
 ||verpeliculasultra.com^
 ||verskyultimate.top^
@@ -3743,6 +3749,7 @@ nocona..boots.com
 ||wealthassets.app^
 ||wealthbaseinvestment.com^
 ||wealthwavestocks.org^
+||wealthytradesinvestors.com^
 ||wealttradershalliance.com^
 ||weatherbeetaery.top^
 ||web.cotiplus.top^
@@ -3935,6 +3942,7 @@ nocona..boots.com
 ||zetboom.com^
 ||zetdax.top^
 ||zfp.zfppool.com^
+||zgiu.store^
 ||zgub.store^
 ||zhuan2345.com^
 ||ziatex.com^
