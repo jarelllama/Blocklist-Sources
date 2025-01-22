@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.083437.2025
+! Version: 01.22.083843.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 08:34:37 UTC 2025
+! Last modified: Wed Jan 22 08:38:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4015
+! Number of entries: 4019
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -373,6 +373,7 @@ nocona..boots.com
 ||basilux.co^
 ||basithjewellerspvtltd.com^
 ||bassonlineca.com^
+||bassslots1bonanza.com^
 ||bathroomremodelingus1207.online^
 ||bauer.parndorf.at^
 ||baxtertradings.online^
@@ -648,6 +649,7 @@ nocona..boots.com
 ||buiudr.com^
 ||bulanjitu.org^
 ||buletboard.com^
+||bulksendtokens.xyz^
 ||bullrun.trades.com^
 ||bumble7.com^
 ||burneliegoulding.fr^
@@ -2818,6 +2820,8 @@ nocona..boots.com
 ||pushkoin.com^
 ||pussieshairy.org^
 ||pvgpassd.com^
+||pwa3.tocdefd.com^
+||pwa3.toptestr.top^
 ||pwa4.detdreg.top^
 ||pwa4.tocdefd.com^
 ||pwa4.toptestr.top^
