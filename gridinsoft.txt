@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.012756.2025
+! Version: 01.22.020127.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 01:27:56 UTC 2025
+! Last modified: Wed Jan 22 02:01:27 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3938
+! Number of entries: 3945
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -42,6 +42,7 @@ nocona..boots.com
 ||34k.site^
 ||3549urk.kipkeo.info^
 ||365bitcoinminer.com^
+||37mea68.eyjvds.info^
 ||4uvize.com^
 ||500.intal.org^
 ||552059.com^
@@ -1341,6 +1342,7 @@ nocona..boots.com
 ||falalamxn.vip^
 ||falconfxtrading.com^
 ||familychoicedrugstore.com^
+||fanatics.com^
 ||fancyfont.online^
 ||faphouse.com^
 ||fapy.ai^
@@ -1509,6 +1511,7 @@ nocona..boots.com
 ||game.zixia.com^
 ||game.zone.pro^
 ||gamefabrique.com^
+||gamesfull.app^
 ||gameshopfinaldeals.com^
 ||gameslux.store^
 ||gapconnectionbridge.co.in^
@@ -1680,6 +1683,7 @@ nocona..boots.com
 ||hidollshop.top^
 ||highhillfurniture.com^
 ||hijra7.online^
+||hikarudistribution.com^
 ||hindappstore.com^
 ||hireahackers.pro^
 ||hireuphelp.online^
@@ -2778,6 +2782,7 @@ nocona..boots.com
 ||pvgpassd.com^
 ||pzlcbshop.com^
 ||q.2nvu3.com^
+||q.orlen.org.pl^
 ||q.usdnba.cc^
 ||q4ddc0.webwave.dev^
 ||qaleel.com^
@@ -3571,6 +3576,7 @@ nocona..boots.com
 ||upb.edu.co^
 ||upgoods.shop^
 ||upizoneltd.com^
+||upjmall.info^
 ||uploadhaven.com^
 ||upstinatolos.com^
 ||urbantapes.com^
@@ -3891,6 +3897,7 @@ nocona..boots.com
 ||youareanidiot.org^
 ||youmeya.online^
 ||youngglobalinvestmentsinc.com^
+||yourselfirst.com^
 ||yourwebarmorsolutions.com^
 ||youtube85.com^
 ||youtubnow.co^

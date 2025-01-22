@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.012758.2025
+! Version: 01.22.020129.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 01:27:58 UTC 2025
+! Last modified: Wed Jan 22 02:01:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 910
+! Number of entries: 914
 ||03830.cxtsoftware.net^
 ||1024terabox.com^
 ||12chats.com^
@@ -349,6 +349,7 @@
 ||in.xero.com^
 ||indoeoc-in.shop^
 ||indonesia-ecd.services^
+||indumetalceara.com.br^
 ||induseasycredit.indusind.com^
 ||info.fromyour.email^
 ||info.netskope.com^
@@ -435,6 +436,7 @@
 ||mandrillapp.com^
 ||map.ilocation-logs.com^
 ||marketvirno.com^
+||markitos.shop^
 ||marrieslaurenart.my.canva.site^
 ||masaischool.com^
 ||mcossviewing.com^
@@ -455,6 +457,7 @@
 ||mobile-webview.gmail.com^
 ||modijiurl.com^
 ||modyolo.com^
+||momot.rs^
 ||moolahspot.com^
 ||motionperformedstew.com^
 ||msqwatch.com^
@@ -893,6 +896,7 @@
 ||www.techidal.com^
 ||www.thermoswy518.com^
 ||www.tiktok.com^
+||www.tobys.click^
 ||www.ujerseyvip.com^
 ||www.vidmateapp.com^
 ||www.visaprepaidprocessing.com^
