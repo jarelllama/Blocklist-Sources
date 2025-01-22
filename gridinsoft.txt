@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.120107.2025
+! Version: 01.22.124221.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 12:01:07 UTC 2025
+! Last modified: Wed Jan 22 12:42:21 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4051
+! Number of entries: 4058
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1357,8 +1357,10 @@ nocona..boots.com
 ||f1store1.formula1.eu.com^
 ||f1store2.formula1.com^
 ||f2pool.com^
+||f76j.xyz^
 ||fa.arabianmall.vip^
 ||fa.outletking.cc^
+||fa122.vip^
 ||fabalchemy.shop^
 ||facebook.busines.tempisite.com^
 ||fadedarkspotsfast.com^
@@ -1672,6 +1674,7 @@ nocona..boots.com
 ||gunluksevilenkampanyalarsizlerle.online^
 ||gusalio.com^
 ||gymshark.outlet.shop^
+||h01k.xyz^
 ||h5.aifeex.com^
 ||h5.amengine.top^
 ||h5.aqsmsp.com^
@@ -1887,6 +1890,8 @@ nocona..boots.com
 ||ivermectin4all.com^
 ||ivordui.com^
 ||iyilikler.online^
+||j110s.xyz^
+||j110y.xyz^
 ||ja.cat^
 ||jadloresga.shop^
 ||jamai.top^
@@ -1946,6 +1951,7 @@ nocona..boots.com
 ||jysk.sale.com^
 ||jyskhome.eu.com^
 ||k.waymall.shop^
+||k03p.xyz^
 ||kadesignandbuild.co.uk^
 ||kadobarvapesstore.com^
 ||kagevest.org^
@@ -2175,6 +2181,7 @@ nocona..boots.com
 ||m.parrotes.com^
 ||m.payasset.com^
 ||m1jspkd.com^
+||m66iu.xyz^
 ||mabar88go.online^
 ||mabhaykamath.online^
 ||mablehelp.online^
