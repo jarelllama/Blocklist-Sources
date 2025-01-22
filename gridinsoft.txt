@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.113037.2025
+! Version: 01.22.120107.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 11:30:37 UTC 2025
+! Last modified: Wed Jan 22 12:01:07 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4045
+! Number of entries: 4051
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -68,6 +68,7 @@ nocona..boots.com
 ||852web3.io^
 ||88jl99.com^
 ||8xfilms.living^
+||90jogo5.com^
 ||988359.com^
 ||9eight5.co.nz^
 ||9jwjegw.mmdlkx.info^
@@ -386,6 +387,7 @@ nocona..boots.com
 ||bchminer.com^
 ||bcplgi.shop^
 ||bdjf2ls.com^
+||bdyg.store^
 ||bearatten.com^
 ||beastter.com^
 ||beat.sticker.online^
@@ -1709,6 +1711,7 @@ nocona..boots.com
 ||herotoyshop.com^
 ||hesamkianikhah.com^
 ||heyfuckme.com^
+||hgtn.fun^
 ||hh.click.com^
 ||hianime.to^
 ||hidollshop.top^
@@ -2830,6 +2833,7 @@ nocona..boots.com
 ||purbat.com^
 ||pure.neuro.info^
 ||puregoodsfy.com^
+||pureland.sbs^
 ||purpects.com^
 ||purplepeony.sbs^
 ||pushkoin.com^
@@ -3777,6 +3781,7 @@ nocona..boots.com
 ||vishopee.com^
 ||visprintdesign.biz^
 ||vitalpetlife.com^
+||vitosync.com^
 ||viviokko.com^
 ||vivivs.com^
 ||vizivu.one^
@@ -3895,6 +3900,7 @@ nocona..boots.com
 ||winhges.com^
 ||winner.com^
 ||winplay.online^
+||winsdonechipper.com^
 ||winuno55.com^
 ||winviag.com^
 ||winwin.bet^
