@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.004519.2025
+! Version: 01.22.012756.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 00:45:19 UTC 2025
+! Last modified: Wed Jan 22 01:27:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3934
+! Number of entries: 3938
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1360,6 +1360,7 @@ nocona..boots.com
 ||fast.financial.com^
 ||fastbrush.online^
 ||fastee.top^
+||fastnetworks.xyz^
 ||fastshare.cloud^
 ||fastswap.one^
 ||faucetcrypto.net^
@@ -2354,6 +2355,7 @@ nocona..boots.com
 ||mymps.online^
 ||mypassivetrade.com^
 ||myplatform.top^
+||myrbcdevice.secure.com^
 ||mysticstonesgallery.com^
 ||mytraveldaddy.us^
 ||myvanomi.com^
@@ -2847,6 +2849,7 @@ nocona..boots.com
 ||reasonablu.com^
 ||rebasedex.cloud^
 ||rebelsatoshi.com^
+||recaptchav2.com^
 ||recetasexpres.com^
 ||recruit.threadsstaffs.com^
 ||rect.reward.glacier.website^
@@ -3751,6 +3754,7 @@ nocona..boots.com
 ||web3km.online^
 ||web3land.net^
 ||web3pay.biz^
+||webmail.vip.webasa.site^
 ||website.87e9feb8.quaaludes.io^
 ||websparkstore.com^
 ||wedexy.com^
