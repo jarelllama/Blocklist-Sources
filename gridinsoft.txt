@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.103338.2025
+! Version: 01.22.110100.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 10:33:38 UTC 2025
+! Last modified: Wed Jan 22 11:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4038
+! Number of entries: 4042
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1682,6 +1682,7 @@ nocona..boots.com
 ||happyvape.nl^
 ||happyvilleonline.com^
 ||harrislogisticsllc.com^
+||harshalpawar.in^
 ||harvestcommunityunion.com^
 ||harveylux.com^
 ||hashfactor.net^
@@ -1697,6 +1698,7 @@ nocona..boots.com
 ||hello.hello.site^
 ||hellokitty.store.com^
 ||hellotripsitters.com^
+||hellyhansen.outlet.es^
 ||helps.sbs^
 ||henglai.online^
 ||her.wellness.online^
@@ -2906,6 +2908,7 @@ nocona..boots.com
 ||ralphlauren.best^
 ||ranoz.gg^
 ||ranthambhoresafaritour.in^
+||rapelust.com^
 ||rapiddigitalrecovery.org^
 ||rapidtransitmodels.com^
 ||rarechemsonline.org^
@@ -3314,6 +3317,7 @@ nocona..boots.com
 ||strommaglobal.com^
 ||stroyblock.online^
 ||stuncreditfb.com^
+||stupidus.top^
 ||stusdt.world^
 ||stylesock.com^
 ||subduedespana.com^
