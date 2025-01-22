@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.230101.2025
+! Version: 01.22.233052.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 23:01:01 UTC 2025
+! Last modified: Wed Jan 22 23:30:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4102
+! Number of entries: 4107
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -306,6 +306,7 @@ nocona..boots.com
 ||aslminer.com^
 ||asossamplesale.com^
 ||aspenunion.com^
+||assetsnavigator.com^
 ||assetwise.invest.com^
 ||assetxchangee.com^
 ||assiseaulosdansy.online^
@@ -487,6 +488,7 @@ nocona..boots.com
 ||bit.btc.com^
 ||bit.chain.trade^
 ||bit.now.com^
+||bit.pays.com^
 ||bit.stocks.com^
 ||bit.usdt.com^
 ||bitantea.cc^
@@ -882,6 +884,7 @@ nocona..boots.com
 ||coinfet.net^
 ||coinget.online^
 ||coinlocally.forex^
+||coinoah.vip.cc^
 ||coinomi.com^
 ||coins.shade.com^
 ||coinsorex.com^
@@ -1820,6 +1823,7 @@ nocona..boots.com
 ||iaoption.com^
 ||iastfund.com^
 ||ibisnashikhotel.online^
+||ibmqgt.com^
 ||iceriver.company^
 ||iconicinternational.online^
 ||idatech.online^
@@ -3445,6 +3449,7 @@ nocona..boots.com
 ||techzesh.com^
 ||tecnorn.online^
 ||tedexy.com^
+||teeluxegifts.com^
 ||teflam.com^
 ||teiagrma.pub^
 ||telebionix.click^
