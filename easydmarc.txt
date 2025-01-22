@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.040052.2025
+! Version: 01.22.043355.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 04:00:52 UTC 2025
+! Last modified: Wed Jan 22 04:33:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 918
+! Number of entries: 922
 ||03830.cxtsoftware.net^
 ||1024terabox.com^
 ||12chats.com^
@@ -91,6 +91,7 @@
 ||bandainamcoent.access-elden-ring-nightreign.com^
 ||bansos-tahap6.vercel.app^
 ||bb7722.net^
+||benqcorp-my.sharepoint.com^
 ||betterstack.com^
 ||biometrix.lk^
 ||bit.ly^
@@ -222,6 +223,7 @@
 ||earn.39sdb.top^
 ||ebook-smart.online^
 ||ecoalchemy.today^
+||edenai.world^
 ||edm.gemvisa.com.au^
 ||ehqaq.sa^
 ||eis.de.kooperation.portal-coop.de^
@@ -463,6 +465,7 @@
 ||moolahspot.com^
 ||motionperformedstew.com^
 ||msqwatch.com^
+||msurvey.government.ae^
 ||musicalconcepts.net^
 ||mvc.us11.list-manage.com^
 ||mvl.care^
@@ -623,6 +626,7 @@
 ||sellgift.info^
 ||send.cm^
 ||server.1a9q.com^
+||server.2nq5.com^
 ||server.5aeo.com^
 ||server.zo6w.com^
 ||service-centrelink.click^

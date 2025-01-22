@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.040051.2025
+! Version: 01.22.043353.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 04:00:51 UTC 2025
+! Last modified: Wed Jan 22 04:33:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3964
+! Number of entries: 3967
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -812,6 +812,7 @@ nocona..boots.com
 ||closer.university.com^
 ||cloud.mail.ru^
 ||cloud.mining.cc^
+||cloud.vogelrain.hopto.org^
 ||cloudcomfortfood.online^
 ||cloudgateflowershop.com^
 ||cloudgeardesign.com^
@@ -1372,6 +1373,7 @@ nocona..boots.com
 ||fastswap.one^
 ||faucetcrypto.net^
 ||fazmex.com^
+||fcbarcelona.eu.shop^
 ||febgtvh.com^
 ||fedilitylogistics.com^
 ||feeliey.com^
@@ -1971,6 +1973,7 @@ nocona..boots.com
 ||krecociler.monster^
 ||kreed5425210621621.online^
 ||krefractoryr.lol^
+||kremas.shop^
 ||krpod.com^
 ||ksda.online.org^
 ||kubabuy.com^
