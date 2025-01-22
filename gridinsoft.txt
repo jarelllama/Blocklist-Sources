@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.213053.2025
+! Version: 01.22.220057.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 21:30:53 UTC 2025
+! Last modified: Wed Jan 22 22:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4091
+! Number of entries: 4096
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -766,6 +766,7 @@ nocona..boots.com
 ||chalaorry.shop^
 ||changeip.net^
 ||charmcot.com^
+||charmingfavor.com^
 ||chassoutlel.shop^
 ||cheapammoaustralia.com^
 ||cheapertoolparts.com^
@@ -1319,6 +1320,7 @@ nocona..boots.com
 ||erybdu.com^
 ||es.bankinter.usuario.com^
 ||es.ccm.net^
+||es.expressunlocks.com^
 ||escapitals.com^
 ||eschallengersmode.com^
 ||escortbazar.in^
@@ -2095,6 +2097,7 @@ nocona..boots.com
 ||lfj.gg^
 ||lhndy.cn^
 ||liberatucuerporenuevatuenergia.com^
+||liberty.volt.com^
 ||libertyenginesale.com^
 ||libra10supermart.com^
 ||librosymascotas.com^
@@ -3761,6 +3764,7 @@ nocona..boots.com
 ||valtenz.top^
 ||valueversion.com^
 ||valxcane.lol^
+||vantique.net^
 ||varidhirathore.github.io^
 ||vasttrade.investments.org^
 ||vaultperth.com^
@@ -4090,6 +4094,7 @@ nocona..boots.com
 ||zlibrary.to^
 ||zoodel.online^
 ||zoria.click^
+||zornher.com^
 ||zorunex.com^
 ||zorvalor.com^
 ||ztudim.work.top^
