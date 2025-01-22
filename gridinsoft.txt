@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.203130.2025
+! Version: 01.22.210057.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 20:31:30 UTC 2025
+! Last modified: Wed Jan 22 21:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4082
+! Number of entries: 4085
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -478,6 +478,7 @@ nocona..boots.com
 ||bioairdrop.com^
 ||bioanalysis.lt^
 ||biologysimple.com^
+||bionovo.bio^
 ||birddecoysofnorthamerica.com^
 ||birkenstores.us^
 ||birtox.biz^
@@ -1171,6 +1172,7 @@ nocona..boots.com
 ||dopehungary.hu.com^
 ||dopesneakers.shop^
 ||dork.baby^
+||dorobotvip.com^
 ||download.wondershare.net^
 ||downloadfiles.link^
 ||dowynert.com^
@@ -3626,6 +3628,7 @@ nocona..boots.com
 ||trophycase.cc^
 ||trqw.store^
 ||tructi.com^
+||trumpfair.io^
 ||trumpmeme.info^
 ||trumptokenofficial.com^
 ||trust.forest7.com^
