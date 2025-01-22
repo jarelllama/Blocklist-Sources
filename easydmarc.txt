@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.050058.2025
+! Version: 01.22.053254.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 05:00:58 UTC 2025
+! Last modified: Wed Jan 22 05:32:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 922
+! Number of entries: 926
 ||03830.cxtsoftware.net^
 ||1024terabox.com^
 ||12chats.com^
@@ -407,6 +407,7 @@
 ||lap.i2ie.xyz^
 ||lap325.773d.xyz^
 ||lap393.f0f0.xyz^
+||larmesonline.com^
 ||lbxnyc.acctsmartstorage.com^
 ||levelbucks.com^
 ||lfafirstresponse.com.au^
@@ -527,6 +528,7 @@
 ||payoutdone.com^
 ||paypal.fr-dashboardng.me^
 ||paypal.me^
+||payrib.com^
 ||paystack.shop^
 ||pb-updatet.top^
 ||pdd.gh.999yes.xyz^
@@ -687,6 +689,7 @@
 ||steamcommunity.com^
 ||steamcommunjitny.com^
 ||steamcomnnunity.com^
+||steampowered.app263919.com^
 ||steampowered.nextplaytest.com^
 ||steampowered.playtestgameinvited.com^
 ||steamtickets-20.com^
@@ -786,6 +789,7 @@
 ||usps.com-tarjfxv.top^
 ||usps.com-tracking-helpswzc.xin^
 ||uzmaafzal.SFAgentJobs.com^
+||v.livebet.win^
 ||v1.mk^
 ||v22.amazonbba.com^
 ||vdc.az1.qualtrics.com^

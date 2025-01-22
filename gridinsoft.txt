@@ -3,15 +3,16 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.050057.2025
+! Version: 01.22.053252.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 05:00:57 UTC 2025
+! Last modified: Wed Jan 22 05:32:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3969
+! Number of entries: 3976
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
+||1.tiktokimg.online^
 ||1024tera.com^
 ||123notices.com^
 ||1337x.tw^
@@ -1427,6 +1428,7 @@ nocona..boots.com
 ||floattrust.com^
 ||flomac.shop^
 ||flowfaucet.online^
+||flowzapakda.top^
 ||flrdroplines.com^
 ||fluctz.xyz^
 ||flugger.pl^
@@ -1526,6 +1528,7 @@ nocona..boots.com
 ||gdcecusd.com^
 ||gdmining.site^
 ||gdqai.com^
+||geassets.com^
 ||gel9.online^
 ||gem.minelab.net^
 ||gemini.ai.net^
@@ -1625,6 +1628,7 @@ nocona..boots.com
 ||gpt.definity.app2.net^
 ||gptaiminds.com^
 ||gptdefinityai.app.com^
+||gptexcelacademycl.com^
 ||graphixplanet.com^
 ||grassroot.impact.centre.org^
 ||gratisvps.net^
@@ -2469,6 +2473,7 @@ nocona..boots.com
 ||norionbusiness.top^
 ||norsewebdesign.co.uk^
 ||northmary.com^
+||norwichguidon.org^
 ||nosso.online^
 ||nouert.com^
 ||novaspire.live^
@@ -2821,6 +2826,7 @@ nocona..boots.com
 ||qlmavip.top^
 ||qlvzjmtg.inqku.cn^
 ||qmbit.org^
+||qoeaz1.tiktokimg.online^
 ||qqbit.net^
 ||qrefuishz.monster^
 ||qruirseven.com^
@@ -3589,6 +3595,7 @@ nocona..boots.com
 ||uniquetrustrades.com^
 ||unitedparcelexpress.online^
 ||universalwealth.org^
+||uniwin.top^
 ||unltee.com^
 ||unnatitoys.com^
 ||unvaulted.coomer.party^
