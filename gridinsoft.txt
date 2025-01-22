@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.080058.2025
+! Version: 01.22.083437.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 08:00:58 UTC 2025
+! Last modified: Wed Jan 22 08:34:37 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4009
+! Number of entries: 4015
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -904,6 +904,7 @@ nocona..boots.com
 ||contractnerds.com^
 ||controlnetworks.com.au^
 ||conveneprecedent.top^
+||cookies.1.zuregg.space^
 ||coolbet.peru.online^
 ||cophasehome.com^
 ||corescientific.refine.com^
@@ -2817,6 +2818,10 @@ nocona..boots.com
 ||pushkoin.com^
 ||pussieshairy.org^
 ||pvgpassd.com^
+||pwa4.detdreg.top^
+||pwa4.tocdefd.com^
+||pwa4.toptestr.top^
+||pwa5.toptestr.top^
 ||pwanew3.3.onmore.top^
 ||pwanew4.1.onmore.top^
 ||pwanew5.1.onmore.top^
@@ -3901,6 +3906,7 @@ nocona..boots.com
 ||ww7.lemoniada.online^
 ||wwtchain.top^
 ||www.6546.com^
+||www.jcb.co.vaengi.com^
 ||www.virtual.vip^
 ||www.y2mate.com^
 ||www1.thepiratebay3.to^
