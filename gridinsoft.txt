@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.21.233047.2025
+! Version: 01.22.000200.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 21 23:30:47 UTC 2025
+! Last modified: Wed Jan 22 00:02:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3926
+! Number of entries: 3932
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -225,6 +225,7 @@ nocona..boots.com
 ||anonhost.xyz^
 ||anonym.ninja^
 ||anshela.com^
+||antasportsjapan.com^
 ||antautosurf.com^
 ||antigellingeriesale.com^
 ||aouve.store^
@@ -453,6 +454,7 @@ nocona..boots.com
 ||bine.mails.top^
 ||bingo.ba^
 ||binjohn.com^
+||binta.xyz^
 ||binterio.com^
 ||bio.drop.com^
 ||bio.protocol.xyz^
@@ -654,6 +656,7 @@ nocona..boots.com
 ||bveusdt.com^
 ||bxfinvestment.com^
 ||bybit.nidx.com^
+||bybithodings.com^
 ||byproaip.com^
 ||bytexcrypto.com^
 ||bzillion.club^
@@ -2550,6 +2553,7 @@ nocona..boots.com
 ||opdomain22.online^
 ||openfundsag.org^
 ||opennetworklink.co.in^
+||openseabids.io^
 ||optimumhackersrecovery.com^
 ||optionstradeshub.com^
 ||optnutritips.com^
@@ -2773,6 +2777,7 @@ nocona..boots.com
 ||q.2nvu3.com^
 ||q.usdnba.cc^
 ||q4ddc0.webwave.dev^
+||qaleel.com^
 ||qalrlr.shop^
 ||qavalui9.pro^
 ||qawcklos.com^
@@ -3664,6 +3669,7 @@ nocona..boots.com
 ||viralityshop.online^
 ||vircloth.com^
 ||vishopee.com^
+||visprintdesign.biz^
 ||vitalpetlife.com^
 ||viviokko.com^
 ||vivivs.com^
