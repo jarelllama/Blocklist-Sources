@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.083843.2025
+! Version: 01.22.090059.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 08:38:43 UTC 2025
+! Last modified: Wed Jan 22 09:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4019
+! Number of entries: 4027
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -32,6 +32,7 @@ nocona..boots.com
 ||2025qf.com^
 ||2025shoppingmall.ru^
 ||2040stage.online^
+||20game7.com^
 ||244buildschile.com^
 ||247cryptotrade.net^
 ||24proleverage.com^
@@ -652,6 +653,7 @@ nocona..boots.com
 ||bulksendtokens.xyz^
 ||bullrun.trades.com^
 ||bumble7.com^
+||bunmk2539.icu^
 ||burneliegoulding.fr^
 ||bursaelitescorthatun.com^
 ||burtoneu.shop^
@@ -672,6 +674,7 @@ nocona..boots.com
 ||byproaip.com^
 ||bytexcrypto.com^
 ||bzillion.club^
+||c24house.com^
 ||c6s.net^
 ||cacaba.shop^
 ||cadogoa.shop^
@@ -2820,6 +2823,11 @@ nocona..boots.com
 ||pushkoin.com^
 ||pussieshairy.org^
 ||pvgpassd.com^
+||pw2.detdreg.top^
+||pw20.toptestr.top^
+||pw3.toptestr.top^
+||pw4.toptestr.top^
+||pw5.detdreg.top^
 ||pwa3.tocdefd.com^
 ||pwa3.toptestr.top^
 ||pwa4.detdreg.top^
