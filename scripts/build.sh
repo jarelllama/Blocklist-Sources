@@ -90,6 +90,8 @@ if ! command -v hostlist-compiler &> /dev/null; then
     npm install -g @adguard/hostlist-compiler > /dev/null
 fi
 
+set -e
+
 source_gridinsoft
 
-source_easydmarc
+#source_easydmarc
