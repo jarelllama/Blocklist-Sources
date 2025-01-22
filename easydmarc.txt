@@ -3,12 +3,13 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.000201.2025
+! Version: 01.22.004520.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 00:02:01 UTC 2025
+! Last modified: Wed Jan 22 00:45:20 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 906
+! Number of entries: 910
 ||03830.cxtsoftware.net^
+||1024terabox.com^
 ||12chats.com^
 ||137verdecasino59.com^
 ||14245ba156.static-storagehost.com^
@@ -203,6 +204,7 @@
 ||docsend.com^
 ||dollartub.com^
 ||donate.wfp.org^
+||download-files.wixmp.com^
 ||download.books.ms^
 ||download2333.mediafire.com^
 ||doxbin.org^
@@ -363,6 +365,7 @@
 ||intelagreeb2c.b2clogin.com^
 ||interac.alllaw.store^
 ||interac.make698.world^
+||intip.in^
 ||intranet.flemingc.on.ca^
 ||investprimee.site^
 ||invieavarehogarpbdan.es^
@@ -458,6 +461,7 @@
 ||musicalconcepts.net^
 ||mvc.us11.list-manage.com^
 ||mvl.care^
+||mweb.imile.com^
 ||my.stc.com.sa^
 ||myaccount.e-zpassnyv.top^
 ||mybpo.co.uk^
