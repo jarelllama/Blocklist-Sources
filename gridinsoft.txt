@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.060103.2025
+! Version: 01.22.063554.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 06:01:03 UTC 2025
+! Last modified: Wed Jan 22 06:35:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3981
+! Number of entries: 3988
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1315,6 +1315,7 @@ nocona..boots.com
 ||eurovs.com^
 ||euroyalexpress.com^
 ||eusdt.net^
+||ev8d5.bemobtrcks.com^
 ||evenflofeedingsuperstore.shop^
 ||event.thedefiant.io^
 ||eventscodm.com^
@@ -2749,6 +2750,7 @@ nocona..boots.com
 ||preferee.pharmacie.fr^
 ||premium.iptvpro.com^
 ||premiumbankleyfx.com^
+||prescienceai.xyz^
 ||pretiboiy.com^
 ||primaxoptions.com^
 ||primeart.org^
@@ -2944,6 +2946,7 @@ nocona..boots.com
 ||richjl08.cc^
 ||ridswear.com^
 ||rightgist.com^
+||rigimmune.xyz^
 ||rimicoins.com^
 ||ringgitplus.com^
 ||riskcomplianceportfolio134043.online^
@@ -3261,6 +3264,7 @@ nocona..boots.com
 ||strapsui.com^
 ||strattrade.org^
 ||streamworld.co^
+||streetfair.xyz^
 ||streyker.shop^
 ||strikearchive.com^
 ||strommaglobal.com^
@@ -3345,6 +3349,7 @@ nocona..boots.com
 ||tedexy.com^
 ||teflam.com^
 ||teiagrma.pub^
+||telebionix.click^
 ||telegramok.com^
 ||telelabs.online^
 ||telezgram.org^
@@ -3368,6 +3373,7 @@ nocona..boots.com
 ||the.earth.li^
 ||the.prize.stash.com^
 ||thebestofferforyoutoday.online^
+||thebrighthotel.website^
 ||thecapitalholdings.io^
 ||thecleevie.com^
 ||thecobblerscraft.com^
@@ -3496,6 +3502,7 @@ nocona..boots.com
 ||tradeusdt.live^
 ||tradewaves.org^
 ||tradewiseexchange.net^
+||tradion.cyou^
 ||tradiso.com^
 ||tradix.cc^
 ||traffictrack.online^
