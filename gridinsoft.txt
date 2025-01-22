@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.124221.2025
+! Version: 01.22.130512.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 12:42:21 UTC 2025
+! Last modified: Wed Jan 22 13:05:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4058
+! Number of entries: 4062
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -46,6 +46,7 @@ nocona..boots.com
 ||3549urk.kipkeo.info^
 ||365bitcoinminer.com^
 ||37mea68.eyjvds.info^
+||44phl789.com^
 ||4uvize.com^
 ||500.intal.org^
 ||552059.com^
@@ -1343,6 +1344,7 @@ nocona..boots.com
 ||evmprime.com^
 ||excotrade.com^
 ||exiledexchange2.com^
+||exnesstradexpert.com^
 ||exnori.com^
 ||exoky.com^
 ||exonvic.com^
@@ -1712,6 +1714,7 @@ nocona..boots.com
 ||herbelladay.com^
 ||hermez4dx500.com^
 ||herotoyshop.com^
+||herpesyls.click^
 ||hesamkianikhah.com^
 ||heyfuckme.com^
 ||hgtn.fun^
@@ -2292,6 +2295,7 @@ nocona..boots.com
 ||midlandintercontinental.com^
 ||midly.in^
 ||midsizedcars.com^
+||miespe.espe.edu.ec^
 ||mightycleansolutions.com^
 ||migraine.massage.service.988.online^
 ||migration.dioneprotocol.pages.dev^
