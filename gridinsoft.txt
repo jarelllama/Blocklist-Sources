@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.22.063554.2025
+! Version: 01.22.070057.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 22 06:35:54 UTC 2025
+! Last modified: Wed Jan 22 07:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 3988
+! Number of entries: 3996
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -158,6 +158,7 @@ nocona..boots.com
 ||aixomi.com^
 ||aiyibay.com^
 ||aiyun689kuaile789aizai798.com^
+||akilesh.hopto.org^
 ||akurat33.com^
 ||akusoli.com^
 ||al.rafidahcapital.com^
@@ -1871,6 +1872,7 @@ nocona..boots.com
 ||jamai.top^
 ||jaysranchhamden.online^
 ||jbei99.vip^
+||jbnil.top^
 ||jdmax88.com^
 ||jerseyeugee.com^
 ||jessemade.es^
@@ -2284,7 +2286,9 @@ nocona..boots.com
 ||mining.tether.com^
 ||miningcompany.ltd^
 ||mininvstplatform.com^
+||minoptraso.top^
 ||minotrasovestra.com^
+||minotraspto.top^
 ||mintooshop.com^
 ||mipng.com^
 ||miracleorganics.online^
@@ -2448,6 +2452,7 @@ nocona..boots.com
 ||nextcrypto.top^
 ||nextshop.fun^
 ||nexusaaso5kxt75bigvtixw63dot3mnthl3pwqxg4d6tlj5yfqjuviid.online^
+||nfbu.store^
 ||nfs.eletronica.dezembro.com^
 ||nfs.fazenda.empresas.com^
 ||nfseletronica.fazenda.com^
@@ -2804,6 +2809,7 @@ nocona..boots.com
 ||pushkoin.com^
 ||pussieshairy.org^
 ||pvgpassd.com^
+||pwyt.org^
 ||pxqboso.com^
 ||pytamyozdanie.click^
 ||pzlcbshop.com^
@@ -3570,6 +3576,7 @@ nocona..boots.com
 ||turbotrump.info^
 ||tusheedrosep.net^
 ||tuuoi.shop^
+||tw.iutkhi.shop^
 ||twiney.shop^
 ||twitclicks.com^
 ||twixly.store^
@@ -3876,6 +3883,7 @@ nocona..boots.com
 ||wqwln8trk.com^
 ||wristpointshop.com^
 ||wtcentral.com^
+||wtgu.store^
 ||wusveso.vip^
 ||ww7.lemoniada.online^
 ||wwtchain.top^
