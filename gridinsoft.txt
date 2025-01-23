@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.23.200054.2025
+! Version: 01.23.203132.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 23 20:00:54 UTC 2025
+! Last modified: Thu Jan 23 20:31:32 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4186
+! Number of entries: 4189
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -627,6 +627,7 @@ nocona..boots.com
 ||branch.forex.com^
 ||brandedsstore.online^
 ||brandingacademy.online^
+||brandmasterswholesale.com^
 ||brandtrendp.com^
 ||brasatrade.com^
 ||braw4.net^
@@ -3779,6 +3780,7 @@ nocona..boots.com
 ||undressbaby.com^
 ||unifiedasset.live^
 ||unik.co.id^
+||unimaxcreativeminers.com^
 ||unionhow.top^
 ||uniquepropertygroup.co.uk^
 ||uniquetrustrades.com^
@@ -3849,6 +3851,7 @@ nocona..boots.com
 ||vaultperth.com^
 ||vbdigitalcard.in^
 ||vc66.net^
+||vcard50.ru^
 ||veepee.fr.shop^
 ||veezpass.com^
 ||vegobit.com^
