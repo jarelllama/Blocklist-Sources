@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.23.170059.2025
+! Version: 01.23.173205.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 23 17:00:59 UTC 2025
+! Last modified: Thu Jan 23 17:32:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4174
+! Number of entries: 4177
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -3911,6 +3911,7 @@ nocona..boots.com
 ||volcminer.store^
 ||voleoex.com^
 ||volmar.sinformations.cfd^
+||volundvt.dk^
 ||vopifg.com^
 ||vorgang.abschliessen.online^
 ||votelya.com^
@@ -3934,6 +3935,7 @@ nocona..boots.com
 ||warehousesstores.com^
 ||warehouseudeals.co^
 ||warehouseudeals.com^
+||wargamess.com^
 ||warsawsneakers.pl^
 ||warttopsiya.click^
 ||warunggolkuat.online^
@@ -4089,6 +4091,7 @@ nocona..boots.com
 ||xo123.cc^
 ||xo789.cc^
 ||xordecisions.com^
+||xorylia.com^
 ||xpertlex.online^
 ||xpfmall.biz^
 ||xpresswealthbnk.com^
