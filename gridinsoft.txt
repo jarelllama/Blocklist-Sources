@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.23.223243.2025
+! Version: 01.23.230057.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 23 22:32:43 UTC 2025
+! Last modified: Thu Jan 23 23:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4207
+! Number of entries: 4214
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -37,6 +37,7 @@ nocona..boots.com
 ||20game7.com^
 ||244buildschile.com^
 ||247cryptotrade.net^
+||24autopartsmaster.com^
 ||24proleverage.com^
 ||24x7defi.com^
 ||278.hnyuanoo.top^
@@ -299,6 +300,7 @@ nocona..boots.com
 ||arkacoin.com^
 ||arkcypher.net^
 ||arldeemix.com^
+||arlira.fr^
 ||armadaclothing.online^
 ||armani.ai.com^
 ||arnavix.online^
@@ -573,6 +575,7 @@ nocona..boots.com
 ||blackfridaywholesale.ru^
 ||blackjack888.ph^
 ||blackshelter.org^
+||blackswangeeksllc.online^
 ||blackwellresearch.com^
 ||bladeware.app.tech^
 ||blast.tv.org^
@@ -1589,6 +1592,7 @@ nocona..boots.com
 ||galacvy.com^
 ||galaxiumtoken.com^
 ||galjoyhit.com^
+||gamacasino9448.xyz^
 ||gamblers.monster^
 ||gamblerx.fun^
 ||gambyllion.com^
@@ -2518,6 +2522,7 @@ nocona..boots.com
 ||nc.ph.2974.zerads.com^
 ||ncbofficielfr.com^
 ||ndamazon.com^
+||ndclothing.toronto.com^
 ||nearriot.com^
 ||nebluscommercial.com^
 ||nebumine.com^
@@ -2644,6 +2649,7 @@ nocona..boots.com
 ||offersheres.net^
 ||officedesk.commercialdeals.online^
 ||offresdespace24.com^
+||ofrprizcoup.com^
 ||oguiadossonhos15anos.online^
 ||ohatia.online^
 ||oilai.cc^
@@ -4091,6 +4097,7 @@ nocona..boots.com
 ||ww7.lemoniada.online^
 ||wwtchain.top^
 ||www.6546.com^
+||www.apeswap.org^
 ||www.jcb.co.vaengi.com^
 ||www.virtual.vip^
 ||www.y2mate.com^
