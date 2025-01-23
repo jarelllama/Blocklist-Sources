@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.23.030200.2025
+! Version: 01.23.033255.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 23 03:02:00 UTC 2025
+! Last modified: Thu Jan 23 03:32:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4116
+! Number of entries: 4123
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -250,6 +250,7 @@ nocona..boots.com
 ||apexfep.com^
 ||apicddn.com^
 ||apkft.xyz^
+||apkholes.com^
 ||apkhot.xyz^
 ||apkturbo.com^
 ||apnef.shop^
@@ -552,12 +553,14 @@ nocona..boots.com
 ||bitzealy.com^
 ||bitzoy.com^
 ||bixcointrading.com^
+||bizdoctr.com^
 ||bjcryptos.com^
 ||bjfdyh.com^
 ||bkcryptotrade.com^
 ||blackfridaywholesale.ru^
 ||blackjack888.ph^
 ||blackshelter.org^
+||blackwellresearch.com^
 ||bladeware.app.tech^
 ||blast.tv.org^
 ||blazecasin.com^
@@ -718,6 +721,7 @@ nocona..boots.com
 ||carbondefi.cc^
 ||cardmasparamiempresa.wuaze.com^
 ||careeractives.xyz^
+||careerboostconsultants.com^
 ||careerchangerstrading.club^
 ||careeredge.online^
 ||carhartoutlet.store^
@@ -780,8 +784,10 @@ nocona..boots.com
 ||chiefaiofficer.biz^
 ||childrenshealthintl.org^
 ||chillpotrandom.com^
+||chocolitodoraemonhunt.com^
 ||christianlouboutinmexicos.top^
 ||christopherchaves.com^
+||churrasconoap.com.br^
 ||ciarfex.com^
 ||cicc.ink^
 ||ciekawoscobywateli.click^
@@ -1818,6 +1824,7 @@ nocona..boots.com
 ||hunnybank.com^
 ||hustlersuniversityapp.com^
 ||hvuaill.com^
+||hwg.lol^
 ||hxsc.store^
 ||hxxokerase.fyi^
 ||hyph666.win^
