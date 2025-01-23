@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.23.160108.2025
+! Version: 01.23.163519.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 23 16:01:08 UTC 2025
+! Last modified: Thu Jan 23 16:35:19 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4168
+! Number of entries: 4173
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1360,6 +1360,7 @@ nocona..boots.com
 ||eu.venum.shop^
 ||eugadneu.de^
 ||eumarijuanashop.com^
+||euopue.click^
 ||eurocheapoonline.advanced.com^
 ||europamundo.ink.com^
 ||european.sickfind.shop^
@@ -1808,6 +1809,7 @@ nocona..boots.com
 ||hotbveleki.cc^
 ||hotbvetovu.cc^
 ||hotbviviva.cc^
+||hotbwodama.today^
 ||hotel.great.value9531.online^
 ||hotels21.com^
 ||hotelvalues.com^
@@ -2223,6 +2225,7 @@ nocona..boots.com
 ||luminassociate.com^
 ||lunarbet.fun^
 ||lushyedge.com^
+||luujin.info^
 ||luvwehair.com^
 ||luxebazaar.online^
 ||luxeflairz.com^
@@ -2827,6 +2830,7 @@ nocona..boots.com
 ||pityeon.com^
 ||pixbay.online^
 ||pkvn68.online^
+||placeofgame.com^
 ||play.cantikpggames.com^
 ||play.qqvip303.online^
 ||play.regal.fr.online^
@@ -3451,6 +3455,7 @@ nocona..boots.com
 ||surfing777.online^
 ||surfingsunday.shop^
 ||surveyanswer.xyz^
+||surveymonkey.com^
 ||survoom.com^
 ||survyhelp.com^
 ||svip.work46.com^
