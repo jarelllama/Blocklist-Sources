@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.23.124220.2025
+! Version: 01.23.130458.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 23 12:42:20 UTC 2025
+! Last modified: Thu Jan 23 13:04:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4149
+! Number of entries: 4157
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -2218,10 +2218,12 @@ nocona..boots.com
 ||lulusafh.com^
 ||lumacex.com^
 ||luminassociate.com^
+||lunarbet.fun^
 ||lushyedge.com^
 ||luvwehair.com^
 ||luxebazaar.online^
 ||luxeflairz.com^
+||luxer.bet^
 ||luxewatchus.com^
 ||luxins.shop^
 ||luxurydo.ru^
@@ -2313,7 +2315,9 @@ nocona..boots.com
 ||megatrendsplaza.shop^
 ||meindl.norge.com^
 ||meistrgold.com^
+||melaspin.com^
 ||melbet.india.net^
+||melutor.com^
 ||memetrump.org^
 ||memoforce.net^
 ||memubit.com^
@@ -2391,6 +2395,7 @@ nocona..boots.com
 ||mkcgopdregistration.online^
 ||mkurtos.com^
 ||mkvcinemas.phd^
+||mlstrafnews.com^
 ||mmdbill.com^
 ||mmrtb.com^
 ||mncr.club^
@@ -2430,6 +2435,7 @@ nocona..boots.com
 ||movenzo.com^
 ||movie123full.com^
 ||movil.ing.soporte.com^
+||moxwin.top^
 ||mpc7.cc^
 ||mqyn.odqmjbta.shop^
 ||mr.verify.net^
@@ -3506,6 +3512,7 @@ nocona..boots.com
 ||test.aspwyvsj.com^
 ||testorush.eu^
 ||tether.global.com^
+||texbiom.com^
 ||tfalcon.online^
 ||tfoskn.shop^
 ||tfvpm.org^
@@ -3993,6 +4000,7 @@ nocona..boots.com
 ||windliy.com^
 ||winfy.top^
 ||winhges.com^
+||winix.sbs^
 ||winner.com^
 ||winplay.online^
 ||winsdonechipper.com^
