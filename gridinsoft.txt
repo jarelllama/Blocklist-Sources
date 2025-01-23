@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.23.050054.2025
+! Version: 01.23.053246.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 23 05:00:54 UTC 2025
+! Last modified: Thu Jan 23 05:32:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4136
+! Number of entries: 4139
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -21,6 +21,7 @@ nocona..boots.com
 ||13yo.lollita.online^
 ||15jilicrown.club^
 ||17.magic88.cc^
+||19www.vivetuaventurasinlimitespromo.com^
 ||1woqab.top^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -56,6 +57,7 @@ nocona..boots.com
 ||5movierulz.gay^
 ||5movierulz.rip^
 ||6123328.coinbase.com^
+||61www.vivetuaventurasinlimitespromo.com^
 ||63810.com^
 ||65cryptoleo3933.com^
 ||67phspin.vip^
@@ -769,6 +771,7 @@ nocona..boots.com
 ||cfs.trades.com^
 ||chainbank.network^
 ||chainfun.click^
+||chainmine.cloud^
 ||chalaorry.shop^
 ||changeip.net^
 ||charmcot.com^
