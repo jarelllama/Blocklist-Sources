@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.23.220057.2025
+! Version: 01.23.223243.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 23 22:00:57 UTC 2025
+! Last modified: Thu Jan 23 22:32:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4203
+! Number of entries: 4207
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -152,6 +152,7 @@ nocona..boots.com
 ||aiinvesttron.com^
 ||ainology.com^
 ||airbagtravel.store^
+||airbrush.fr.com^
 ||airdrop.flock.com^
 ||airdropclaims.netlify.app^
 ||airdropusdt.shop^
@@ -2686,6 +2687,7 @@ nocona..boots.com
 ||online.juctice.com^
 ||online.kukenas.top^
 ||online.marketing.degree.901935125.zone^
+||online.retrievars.click^
 ||onlinebettingidprovider.co.in^
 ||onlinecoachingacademy.net^
 ||onlineelectronics.store^
@@ -2802,6 +2804,7 @@ nocona..boots.com
 ||pchelpsoft.com^
 ||pe.trabajosdiarios.com^
 ||peacheck.com^
+||peachypeachworld.com^
 ||pedrosantosblog.online^
 ||peekyn.us.com^
 ||pefctiordent.com^
@@ -4137,6 +4140,7 @@ nocona..boots.com
 ||yavarifx.com^
 ||ybycmeds.com^
 ||ycrxys.com^
+||ydior.shop^
 ||yepbit4.com^
 ||yetupstairsaccount.com^
 ||ygexchange.com^
