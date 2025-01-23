@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.23.193054.2025
+! Version: 01.23.200054.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 23 19:30:54 UTC 2025
+! Last modified: Thu Jan 23 20:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4183
+! Number of entries: 4186
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -447,6 +447,7 @@ nocona..boots.com
 ||bggbet.com^
 ||bgoyia.vip^
 ||bicicletaoficial.com^
+||biconomy.com^
 ||bielsko.biala.online^
 ||bigfat.chat^
 ||biglotsclosures.com^
@@ -1434,6 +1435,7 @@ nocona..boots.com
 ||fastswap.one^
 ||faucetcrypto.net^
 ||fazmex.com^
+||fc244.com^
 ||fcbarcelona.eu.shop^
 ||febgtvh.com^
 ||fedilitylogistics.com^
@@ -2861,6 +2863,7 @@ nocona..boots.com
 ||pokharaapartment.com^
 ||policja.pl112.online^
 ||polpick.io^
+||popmartoficial.com^
 ||popmartonline.my.asia^
 ||portaldedicasonline.com^
 ||portumltd.com^
