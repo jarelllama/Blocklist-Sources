@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.23.093229.2025
+! Version: 01.23.100100.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 23 09:32:29 UTC 2025
+! Last modified: Thu Jan 23 10:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4145
+! Number of entries: 4146
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1907,6 +1907,7 @@ nocona..boots.com
 ||iralarkincoach.com^
 ||iranfinance.info^
 ||ird.govt.nz^
+||irembo.com^
 ||iris.tech.online^
 ||irisium.lat^
 ||ironchainbank.io^
