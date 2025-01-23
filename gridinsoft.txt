@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.23.090057.2025
+! Version: 01.23.093229.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 23 09:00:57 UTC 2025
+! Last modified: Thu Jan 23 09:32:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4142
+! Number of entries: 4145
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -742,6 +742,7 @@ nocona..boots.com
 ||casetesy.com^
 ||casinofree2.online^
 ||cassappcard.com^
+||castarsdk.com^
 ||casvnm.com^
 ||catenarydojo.com^
 ||caterpillarargentinaonline.com^
@@ -2709,6 +2710,7 @@ nocona..boots.com
 ||oxylersess.co.in^
 ||p2btradehubx.info^
 ||pacau.store^
+||packetshare.io^
 ||padelofficiel.com^
 ||pagalopount.site^
 ||pageindustriesltd.com^
@@ -2873,6 +2875,7 @@ nocona..boots.com
 ||professional.trading.com^
 ||profittrade.live^
 ||projectplaygroundtech.com^
+||projetparis.fr^
 ||promo.offer.com^
 ||promptfunds.org^
 ||prompts.top^
