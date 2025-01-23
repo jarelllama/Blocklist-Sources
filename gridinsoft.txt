@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.23.213059.2025
+! Version: 01.23.220057.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 23 21:30:59 UTC 2025
+! Last modified: Thu Jan 23 22:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4196
+! Number of entries: 4203
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -63,6 +63,7 @@ nocona..boots.com
 ||67phspin.vip^
 ||777color87.com^
 ||7k.casino.16.online^
+||7l77vn.site^
 ||7starbet.com^
 ||80.25.buu.com^
 ||80.25.pcs.com^
@@ -268,11 +269,13 @@ nocona..boots.com
 ||app.city2000.cc^
 ||app.lockswallet.net^
 ||app.markthal.vip^
+||app.meteora.ag^
 ||app.olet8.com^
 ||app.privatecoin.net^
 ||app.sanagl.cc^
 ||appanalytics.online^
 ||appdevelopmenthouse.com^
+||appengroupltd.com^
 ||appj.online^
 ||appleusa.tk^
 ||apps.aremining.app^
@@ -1443,6 +1446,7 @@ nocona..boots.com
 ||febgtvh.com^
 ||fedilitylogistics.com^
 ||feeliey.com^
+||feenox.com^
 ||fenben.pro^
 ||fenovur.com^
 ||fenryon.com^
@@ -1603,6 +1607,7 @@ nocona..boots.com
 ||gel9.online^
 ||gem.minelab.net^
 ||gemini.ai.net^
+||geminin.s.com^
 ||geminiwealthwinnings.com^
 ||generadorespro24.com^
 ||general.xchange.pro^
@@ -1701,6 +1706,7 @@ nocona..boots.com
 ||gotospares.com^
 ||gouldshoes.com^
 ||gowenuy.info^
+||gowfbfr.shop^
 ||gpt.definity.app2.net^
 ||gptaiminds.com^
 ||gptdefinityai.app.com^
@@ -3326,6 +3332,7 @@ nocona..boots.com
 ||slmsbz.com^
 ||slot7.onlinecasino.com^
 ||slotsaces.net^
+||smahealthbenefits.com^
 ||smartearningpool.online^
 ||smartgyro.es^
 ||smartmove.biz^
