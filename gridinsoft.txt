@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.23.033255.2025
+! Version: 01.23.040053.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 23 03:32:55 UTC 2025
+! Last modified: Thu Jan 23 04:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4123
+! Number of entries: 4128
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -2342,6 +2342,7 @@ nocona..boots.com
 ||migration.dioneprotocol.pages.dev^
 ||miiiralo.com^
 ||mikage.online^
+||milenapowell.com^
 ||milisoil.com^
 ||miltonlogistic.com^
 ||milwakusharetexa.com^
@@ -2396,6 +2397,7 @@ nocona..boots.com
 ||moefr3trk.com^
 ||mokshatravels.online^
 ||momahc.com^
+||monasteriodelamor.com^
 ||mondiairelay.livraison.com^
 ||mondial.relay.suivicolis.com^
 ||mondialrelay.transit.com^
@@ -2544,6 +2546,7 @@ nocona..boots.com
 ||nilsenconsulting.io^
 ||nimo0.info^
 ||niolic.com^
+||nira.id^
 ||nlleenbakker.com^
 ||nnenry.online^
 ||nobrix.cfd^
@@ -2758,6 +2761,7 @@ nocona..boots.com
 ||peekyn.us.com^
 ||pefctiordent.com^
 ||pelis182.com^
+||pembimbingketiga.com^
 ||pempekrahayu.online^
 ||pendowoolenmills.us^
 ||penetratea.com^
@@ -2842,6 +2846,7 @@ nocona..boots.com
 ||premium.iptvpro.com^
 ||premiumbankleyfx.com^
 ||prescienceai.xyz^
+||prestigeprint.uk^
 ||pretiboiy.com^
 ||primaxoptions.com^
 ||primeart.org^
