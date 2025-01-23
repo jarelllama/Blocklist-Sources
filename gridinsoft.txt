@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.23.210059.2025
+! Version: 01.23.213059.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 23 21:00:59 UTC 2025
+! Last modified: Thu Jan 23 21:30:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4191
+! Number of entries: 4196
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -226,6 +226,7 @@ nocona..boots.com
 ||amniktechnologies.com^
 ||amontreupfr.shop^
 ||amouzo.com^
+||amuropay.biz^
 ||amyslamps.com^
 ||amzkdt.online^
 ||amzreturnsalebox.com^
@@ -1538,6 +1539,7 @@ nocona..boots.com
 ||freelibrary.ru^
 ||freesamplesprousa.com^
 ||freestar.buzz^
+||freeusdtforever.com^
 ||frienditeglobal.online^
 ||frontbulletin.com^
 ||frugalflix.com^
@@ -1846,6 +1848,7 @@ nocona..boots.com
 ||hwg.lol^
 ||hxsc.store^
 ||hxxokerase.fyi^
+||hyperbit.biz^
 ||hyph666.win^
 ||i.apple.com.tr^
 ||iakamgaming.com^
@@ -3549,6 +3552,7 @@ nocona..boots.com
 ||thebestofferforyoutoday.online^
 ||thebrighthotel.website^
 ||thecapitalholdings.io^
+||thecardvaultsstore.com^
 ||thecleevie.com^
 ||thecobblerscraft.com^
 ||thecryptobullrun.life^
@@ -3757,6 +3761,7 @@ nocona..boots.com
 ||tywurystore.buzz^
 ||tzoneip.vip^
 ||u.usd.com^
+||uasdealshop.online^
 ||ubrya.com^
 ||ucapsidop.info^
 ||ucbibanking.io^
