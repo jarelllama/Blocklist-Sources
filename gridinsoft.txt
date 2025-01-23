@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.23.040053.2025
+! Version: 01.23.043335.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 23 04:00:53 UTC 2025
+! Last modified: Thu Jan 23 04:33:35 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4128
+! Number of entries: 4134
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -2671,6 +2671,7 @@ nocona..boots.com
 ||openfundsag.org^
 ||opennetworklink.co.in^
 ||openseabids.io^
+||optimaldatabases.com^
 ||optimumhackersrecovery.com^
 ||optimumsmax.com^
 ||optionstradeshub.com^
@@ -2848,6 +2849,7 @@ nocona..boots.com
 ||prescienceai.xyz^
 ||prestigeprint.uk^
 ||pretiboiy.com^
+||prettyright.com^
 ||primaxoptions.com^
 ||primeart.org^
 ||primeglobalfxexchange.live^
@@ -2991,6 +2993,7 @@ nocona..boots.com
 ||rclicks.in^
 ||rdapie.net^
 ||rdsdelivery.com^
+||reabull.com^
 ||readbay.ai^
 ||readermodeext.info^
 ||realionetwork.claims^
@@ -3215,6 +3218,7 @@ nocona..boots.com
 ||shibaarmy.world^
 ||shibahash.com^
 ||shinelyjews.shop^
+||shinobi.stickers.com^
 ||shionac.com^
 ||shirudigiseo.top^
 ||shittt.store^
@@ -3295,6 +3299,7 @@ nocona..boots.com
 ||snowdaycalculator.online^
 ||soankelle.vip^
 ||soccerlive.app^
+||sociedaduniversal.com^
 ||socioplanet.com^
 ||sofiahalbofanimeworld.blogspot.co.uk^
 ||sofiahalbofanimeworld.blogspot.nl^
@@ -3505,6 +3510,7 @@ nocona..boots.com
 ||thefinal.show.com^
 ||thefurniturestudio.store^
 ||thegoodguyssignup.com^
+||theguisson.co.uk^
 ||thehairiva.com^
 ||thehealthyfriday.com^
 ||thehygienefree.top^
