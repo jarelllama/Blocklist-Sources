@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.23.230057.2025
+! Version: 01.23.233057.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 23 23:00:57 UTC 2025
+! Last modified: Thu Jan 23 23:30:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4214
+! Number of entries: 4220
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -828,6 +828,7 @@ nocona..boots.com
 ||citxion.top^
 ||civilwarcrisis.com^
 ||claim.hyperliquiditychain.com^
+||claim.seraphia.xyz^
 ||claim.trumpmemes.xyz^
 ||claimgrass.netlify.app^
 ||claiming.movementlabs.com^
@@ -1651,6 +1652,7 @@ nocona..boots.com
 ||giftvalidator.com^
 ||gihsfilm.weebly.com^
 ||girlfriendwisely.com^
+||givespacex.io^
 ||glanzberg.mode.de^
 ||glasslockmart.shop^
 ||glbgpt.com^
@@ -1692,6 +1694,7 @@ nocona..boots.com
 ||goldstradeapp.com^
 ||goldstrategyvip.com^
 ||golfevip.shop^
+||golfwangdk.com^
 ||gominer.net^
 ||gonow.dbdefi.com^
 ||goo.su^
@@ -2083,6 +2086,7 @@ nocona..boots.com
 ||konigsbruder.com^
 ||korucc.com^
 ||kpmy556.cc^
+||kraken.chek.xyz^
 ||kreashops.com^
 ||krebson.ru^
 ||krecociler.monster^
@@ -2238,6 +2242,7 @@ nocona..boots.com
 ||ltcpay.net^
 ||ltcxminer.pro^
 ||luatypticures.co.in^
+||luckizac.top^
 ||lucky.motorcycles.com^
 ||lucky888.top^
 ||luckypro.store^
@@ -2943,6 +2948,7 @@ nocona..boots.com
 ||pth223.com^
 ||pth668.com^
 ||pub.c5acfd5a4f1943a7bfc858676472adce.r2.dev^
+||publicznenewsy.click^
 ||pudcapsminners.pro^
 ||puffinvapesehopgv.shop^
 ||pulaski.towing.top^
