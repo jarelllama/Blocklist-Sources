@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.093138.2025
+! Version: 01.24.100053.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 09:31:38 UTC 2025
+! Last modified: Fri Jan 24 10:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4328
+! Number of entries: 4333
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -461,6 +461,7 @@ nocona..boots.com
 ||bestluxurysaller.com^
 ||bestmayoreo.com.mx^
 ||bestnationalcreditunion.com^
+||bestxsvilrsoftopia.com^
 ||bet4.pe^
 ||betnight.online^
 ||betonline.love^
@@ -709,6 +710,7 @@ nocona..boots.com
 ||bullrun.trades.com^
 ||bumble7.com^
 ||bunmk2539.icu^
+||buricolage.com^
 ||burneliegoulding.fr^
 ||bursaelitescorthatun.com^
 ||burtoneu.shop^
@@ -731,6 +733,7 @@ nocona..boots.com
 ||bzillion.club^
 ||c24house.com^
 ||c6s.net^
+||ca.25uby.xin^
 ||cacaba.shop^
 ||cadogoa.shop^
 ||cafeciro.in^
@@ -1494,6 +1497,7 @@ nocona..boots.com
 ||fedilitylogistics.com^
 ||feeliey.com^
 ||feenox.com^
+||felguss.com^
 ||fenben.pro^
 ||fenovur.com^
 ||fenryon.com^
@@ -2186,6 +2190,7 @@ nocona..boots.com
 ||leadadream.top^
 ||leadership.development.online^
 ||leadingcrestreserve.com^
+||leaf.cosmetics.com^
 ||leakrepair30091.online^
 ||learningresourcealliance.vip^
 ||learningresourcealliances.vip^
