@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.090102.2025
+! Version: 01.24.093138.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 09:01:02 UTC 2025
+! Last modified: Fri Jan 24 09:31:38 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4323
+! Number of entries: 4328
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1310,6 +1310,7 @@ nocona..boots.com
 ||eclatlumiere.com^
 ||ecofreshmarket.online^
 ||ecom.usdt.online^
+||ecomsamm.store^
 ||ecos.am^
 ||ecovipshop.top^
 ||ecstore2021.com^
@@ -2187,6 +2188,7 @@ nocona..boots.com
 ||leadingcrestreserve.com^
 ||leakrepair30091.online^
 ||learningresourcealliance.vip^
+||learningresourcealliances.vip^
 ||ledger.connect.app^
 ||ledgerlock.io^
 ||ledsmdlight.com^
@@ -2228,6 +2230,7 @@ nocona..boots.com
 ||lightsha.com^
 ||likebargainsothers.world^
 ||limdex.capital.com^
+||lime.elysia.47.tiiny.site^
 ||limeremce.com^
 ||linconomyinvest.com^
 ||link.center.net^
@@ -2367,6 +2370,7 @@ nocona..boots.com
 ||marketing4solutionsblog.online^
 ||marketingcrypto.pro^
 ||marketplace.azcoiner.com^
+||markevans.shop^
 ||markhorcycles.com^
 ||markminer.net^
 ||markservers.com^
@@ -3811,6 +3815,7 @@ nocona..boots.com
 ||treatmeinty.com^
 ||treblesltd.com^
 ||trecapitalgroup.net^
+||trecding.com^
 ||trejoapp.com^
 ||tremvolknipi.online^
 ||trend.shop9.space^
