@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.220057.2025
+! Version: 01.24.223222.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 22:00:57 UTC 2025
+! Last modified: Fri Jan 24 22:32:22 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4402
+! Number of entries: 4406
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -694,6 +694,7 @@ nocona..boots.com
 ||btcclink.net^
 ||btceex.com^
 ||btcgame.cc^
+||btchtep.com^
 ||btcmall.club^
 ||btcminebot.com^
 ||btcminer.tech^
@@ -2385,6 +2386,7 @@ nocona..boots.com
 ||macpac.ts.shop^
 ||macystoreclothing.com^
 ||maddowk.com^
+||madeinss.com^
 ||madmuscles.com^
 ||maexj2trk.com^
 ||mahadev.id.online^
@@ -3302,6 +3304,7 @@ nocona..boots.com
 ||royal.marines.online^
 ||royalmail.i78.xyz^
 ||royalpinkcreations.com^
+||royalqfinance.com^
 ||royalreels7.com^
 ||rpmvape.com^
 ||rpnodes.tech^
@@ -3454,6 +3457,7 @@ nocona..boots.com
 ||shopwithpulse.store^
 ||shorturl.at^
 ||shotzon.com^
+||shwacbda.com^
 ||siabrocenipellets.com^
 ||sicmundus.online^
 ||siftai.net^
