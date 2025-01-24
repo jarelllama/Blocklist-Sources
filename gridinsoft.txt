@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.223222.2025
+! Version: 01.24.230100.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 22:32:22 UTC 2025
+! Last modified: Fri Jan 24 23:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4406
+! Number of entries: 4411
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -381,6 +381,7 @@ nocona..boots.com
 ||autotracksolution.com^
 ||autry.eu.shop^
 ||autryzzt.online^
+||ava.area.io^
 ||avalonfinance.io^
 ||avalontrdpro.com^
 ||avastosgr.fun^
@@ -1609,6 +1610,7 @@ nocona..boots.com
 ||formoreup.xyz^
 ||forsage.io^
 ||fortressfinex.com^
+||fortune.engine.com^
 ||fortuneinterest.com^
 ||foryouheart.com^
 ||fotytv.com^
@@ -2476,6 +2478,7 @@ nocona..boots.com
 ||messiah777.com^
 ||meta.cafe.net^
 ||metafight.airdrop.com^
+||metamaticoin.org^
 ||metascorex.com^
 ||metatrader5.com^
 ||metatradingai.co^
@@ -2994,6 +2997,7 @@ nocona..boots.com
 ||pirlotvhd.lol^
 ||pirlotvhd.org^
 ||piteos.com^
+||pitrade.top^
 ||pityeon.com^
 ||pixbay.online^
 ||pkvn68.online^
@@ -4177,6 +4181,7 @@ nocona..boots.com
 ||wealthassetcapital.org^
 ||wealthassets.app^
 ||wealthbaseinvestment.com^
+||wealthus.net^
 ||wealthwavestocks.org^
 ||wealthytradesinvestors.com^
 ||wealttradershalliance.com^
