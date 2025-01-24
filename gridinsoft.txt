@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.080117.2025
+! Version: 01.24.083357.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 08:01:17 UTC 2025
+! Last modified: Fri Jan 24 08:33:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4310
+! Number of entries: 4317
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -382,6 +382,7 @@ nocona..boots.com
 ||avillioncapital.org^
 ||avlissatdnagait.online^
 ||avrixdynamiservices.com^
+||awkngtv.org^
 ||ayridchandler.shop^
 ||babylon3.vip^
 ||babytoll.shop^
@@ -502,6 +503,7 @@ nocona..boots.com
 ||bine.mails.top^
 ||bingo.ba^
 ||binjohn.com^
+||binoption.net^
 ||binta.xyz^
 ||binterio.com^
 ||bio.drop.com^
@@ -1169,6 +1171,7 @@ nocona..boots.com
 ||deutsche.schnelleaktivierung160125.com^
 ||devcrack.org^
 ||devzone2.online^
+||dewbots.com^
 ||dewsenergyconstruction.com^
 ||dex.trade.global^
 ||dexboss.io^
@@ -1507,6 +1510,7 @@ nocona..boots.com
 ||filegear.sg.me^
 ||fileplanet.com^
 ||files.fm^
+||financeaa.vip^
 ||financehub.help^
 ||financeusdt.com^
 ||finder2loans.com^
@@ -3656,6 +3660,7 @@ nocona..boots.com
 ||thedollar.online^
 ||thefashiontrandhub.com^
 ||thefinal.show.com^
+||theflashlightshop.com^
 ||thefurniturestudio.store^
 ||thegoodguyssignup.com^
 ||theguisson.co.uk^
@@ -4061,6 +4066,7 @@ nocona..boots.com
 ||warehouseudeals.co^
 ||warehouseudeals.com^
 ||wargamess.com^
+||warorpeaceshow.com^
 ||warsawsneakers.pl^
 ||warttopsiya.click^
 ||warunggolkuat.online^
@@ -4243,6 +4249,7 @@ nocona..boots.com
 ||ybycmeds.com^
 ||ycrxys.com^
 ||ydior.shop^
+||yen.tky.com^
 ||yepbit4.com^
 ||yetupstairsaccount.com^
 ||ygexchange.com^
