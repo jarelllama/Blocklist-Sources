@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.030206.2025
+! Version: 01.24.033310.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 03:02:06 UTC 2025
+! Last modified: Fri Jan 24 03:33:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4257
+! Number of entries: 4263
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -784,6 +784,7 @@ nocona..boots.com
 ||ccard50.ru^
 ||ccsnkrs.store^
 ||cdonnsauw.top^
+||ceipa.edu.co^
 ||celebprize.com^
 ||celeharm.com^
 ||cendyngroup.com^
@@ -989,6 +990,7 @@ nocona..boots.com
 ||credorwatch.com^
 ||creneau.2025.mondial.com^
 ||creneau.mondial.relay.2025.com^
+||creodeapps.com^
 ||crestprofits.com^
 ||cripexbit.com^
 ||cripto.keys.store^
@@ -2571,6 +2573,7 @@ nocona..boots.com
 ||netdcbf.com^
 ||netfucks1.com^
 ||neuratech.global^
+||neversettleppc.com^
 ||newalking.com^
 ||newbalancelink.com^
 ||newdefineservice.online^
@@ -3515,6 +3518,7 @@ nocona..boots.com
 ||supercasuals.cc^
 ||superfesta.online^
 ||superficial.work.com^
+||superkegel.store^
 ||superoffrs.com^
 ||supersery.com^
 ||superwatch.live^
@@ -3720,6 +3724,7 @@ nocona..boots.com
 ||tozc.online^
 ||tpotraders.com^
 ||tqwin.online^
+||track.icloud.info^
 ||track.ptctt.com^
 ||track718.com^
 ||track718.us^
@@ -3954,6 +3959,7 @@ nocona..boots.com
 ||viemia.com^
 ||viergo.com^
 ||vigkes.shop^
+||viiejrws.com^
 ||vijaykumarvs.github.io^
 ||vilmoria.com^
 ||vincecomfort.com^
