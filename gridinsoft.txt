@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.004522.2025
+! Version: 01.24.012751.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 00:45:22 UTC 2025
+! Last modified: Fri Jan 24 01:27:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4229
+! Number of entries: 4234
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -119,6 +119,7 @@ nocona..boots.com
 ||adilayroofing.com^
 ||adityaagrawal.site^
 ||adjacentin.com^
+||admin.ph.online^
 ||adminpg.online^
 ||admolo.com^
 ||adsarp.com^
@@ -251,6 +252,7 @@ nocona..boots.com
 ||antigellingeriesale.com^
 ||aouve.store^
 ||apanharwatch.com^
+||apex.swift.com^
 ||apexcapital.wealth.com^
 ||apexcapitallimited.com^
 ||apexcapitalspro.com^
@@ -614,6 +616,7 @@ nocona..boots.com
 ||boclothes.com^
 ||bodegaaureramx.shop^
 ||bodegaaurrera.mex.com^
+||bodegamexco.shop^
 ||bodegaurreramxn.com^
 ||bolderloft.nl^
 ||bonanza.usdt.com^
@@ -1405,6 +1408,7 @@ nocona..boots.com
 ||exploit.in^
 ||explore.share.work.com^
 ||expressdeh.cfd^
+||ezdrivema.cfd^
 ||ezymny.com^
 ||f.f7v.cn^
 ||f1store.formula1.eu.com^
@@ -3929,6 +3933,7 @@ nocona..boots.com
 ||viemia.com^
 ||viergo.com^
 ||vigkes.shop^
+||vijaykumarvs.github.io^
 ||vilmoria.com^
 ||vincecomfort.com^
 ||vineyardsoutlet.com^
