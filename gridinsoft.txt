@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.043345.2025
+! Version: 01.24.050103.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 04:33:45 UTC 2025
+! Last modified: Fri Jan 24 05:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4271
+! Number of entries: 4276
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -61,6 +61,7 @@ nocona..boots.com
 ||61www.vivetuaventurasinlimitespromo.com^
 ||63810.com^
 ||65cryptoleo3933.com^
+||66wineshop.com^
 ||67phspin.vip^
 ||777color87.com^
 ||7k.casino.16.online^
@@ -991,6 +992,7 @@ nocona..boots.com
 ||crazyvidup.com^
 ||crcr388.com^
 ||credorwatch.com^
+||creepyscans.org^
 ||creneau.2025.mondial.com^
 ||creneau.mondial.relay.2025.com^
 ||creodeapps.com^
@@ -1195,6 +1197,7 @@ nocona..boots.com
 ||disciplinen.com^
 ||discount.area.com^
 ||discountamzn.com^
+||discountanabolics.com^
 ||discounthero.org^
 ||discountshypermarket.com^
 ||discttime.shop^
@@ -1882,6 +1885,7 @@ nocona..boots.com
 ||hustlersuniversityapp.com^
 ||hvuaill.com^
 ||hwg.lol^
+||hxhyc.com^
 ||hxsc.store^
 ||hxxokerase.fyi^
 ||hyperbit.biz^
@@ -3689,6 +3693,7 @@ nocona..boots.com
 ||tockexa.shop^
 ||todayyouwin.com^
 ||tofro.com^
+||tokeiyaginza.com^
 ||tokenhedg.com^
 ||tokentrade.top^
 ||tokxon.com^
