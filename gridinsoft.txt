@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.23.233057.2025
+! Version: 01.24.000151.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 23 23:30:57 UTC 2025
+! Last modified: Fri Jan 24 00:01:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4220
+! Number of entries: 4224
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1382,6 +1382,7 @@ nocona..boots.com
 ||eusdt.net^
 ||ev8d5.bemobtrcks.com^
 ||evenflofeedingsuperstore.shop^
+||event.spacex.net^
 ||event.thedefiant.io^
 ||eventscodm.com^
 ||evericsedge.com^
@@ -3292,6 +3293,7 @@ nocona..boots.com
 ||shootloverstore.com^
 ||shop.sale6.quest^
 ||shopa66.com^
+||shopavs.store^
 ||shopbopafiliate.org^
 ||shope4you.shop^
 ||shopeevip.shop^
@@ -4004,6 +4006,7 @@ nocona..boots.com
 ||wealttradershalliance.com^
 ||weatherbeetaery.top^
 ||web.cotiplus.top^
+||web.debank.netlify.app^
 ||web.nnleas.top^
 ||web3.coinbasewallet.top^
 ||web3.gpt.shop^
@@ -4169,6 +4172,7 @@ nocona..boots.com
 ||youareanidiot.org^
 ||youmeya.online^
 ||youngglobalinvestmentsinc.com^
+||yourcreditshistory.com^
 ||yourselfirst.com^
 ||yourwebarmorsolutions.com^
 ||youtube85.com^
