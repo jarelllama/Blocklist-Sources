@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.024548.2025
+! Version: 01.24.030206.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 02:45:48 UTC 2025
+! Last modified: Fri Jan 24 03:02:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4253
+! Number of entries: 4257
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -143,6 +143,7 @@ nocona..boots.com
 ||ageeon.com^
 ||agentdaisy.site^
 ||agonas.techubz.com^
+||agrozenith.org^
 ||agyabashipping.com^
 ||ahhaqq.com^
 ||ai.fund.top^
@@ -2063,6 +2064,7 @@ nocona..boots.com
 ||keencn.com^
 ||kefu.swapbit.top^
 ||keren138.vip.online^
+||keruico.com^
 ||kesan888.com^
 ||kesngg.com^
 ||kesngl.com^
@@ -3353,6 +3355,7 @@ nocona..boots.com
 ||singlaarchitects.info^
 ||sinneery.com^
 ||sinxed.com^
+||sirauu.com^
 ||sjtmv.com^
 ||sk5698.com^
 ||sk5698.top^
@@ -3595,6 +3598,7 @@ nocona..boots.com
 ||tfalcon.online^
 ||tfoskn.shop^
 ||tfvpm.org^
+||tfyrj.info^
 ||tgbtest.com^
 ||thatmall.vip^
 ||the.earth.li^
