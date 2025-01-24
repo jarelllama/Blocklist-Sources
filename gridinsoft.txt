@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.143252.2025
+! Version: 01.24.150055.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 14:32:52 UTC 2025
+! Last modified: Fri Jan 24 15:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4359
+! Number of entries: 4368
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -285,6 +285,7 @@ nocona..boots.com
 ||apounes.com^
 ||app.acuityscheduling.com^
 ||app.city2000.cc^
+||app.landshare.website^
 ||app.lockswallet.net^
 ||app.markthal.vip^
 ||app.meteora.ag^
@@ -432,6 +433,7 @@ nocona..boots.com
 ||beaucham.com^
 ||bedtige.top^
 ||beedermaus.com^
+||befilabs.space^
 ||behque.click^
 ||beijingwatches.com^
 ||bekerja.online^
@@ -745,6 +747,7 @@ nocona..boots.com
 ||camelmining.com^
 ||caminoverdadyvida.online^
 ||campershoessales1.best^
+||canadaposts.cc^
 ||cancerdecodedseries.com^
 ||canconsulting.in^
 ||canvaschronicle.homes^
@@ -1000,7 +1003,10 @@ nocona..boots.com
 ||cotizadorsoat.segurosdelestado.com^
 ||couplemagnates.shop^
 ||couponxoo.com^
+||courieam.xin^
+||courseam.xin^
 ||courtkingsph.com^
+||courveam.xin^
 ||couturedrift.com^
 ||couturevista.com^
 ||cpasbien.zip^
@@ -1112,6 +1118,7 @@ nocona..boots.com
 ||danxdex.com^
 ||dapp.ens.domains^
 ||dapp.radar.org^
+||dapprestore.site^
 ||dappschainapp.com^
 ||dark.link.sbs^
 ||dash.optimus.vip^
@@ -1499,6 +1506,7 @@ nocona..boots.com
 ||fastnetworks.xyz^
 ||fastshare.cloud^
 ||fastswap.one^
+||fastworldtravels.com^
 ||faucetcrypto.net^
 ||fazmex.com^
 ||fc244.com^
@@ -1920,6 +1928,7 @@ nocona..boots.com
 ||hugoprimetradefx.com^
 ||hulonqgroup.com^
 ||hululusol.com^
+||hummingbirdbsc.xyz^
 ||hunnybank.com^
 ||hustlersuniversityapp.com^
 ||hvuaill.com^
