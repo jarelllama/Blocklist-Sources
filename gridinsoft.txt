@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.140056.2025
+! Version: 01.24.143252.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 14:00:56 UTC 2025
+! Last modified: Fri Jan 24 14:32:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4356
+! Number of entries: 4359
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -2249,6 +2249,7 @@ nocona..boots.com
 ||lime.elysia.47.tiiny.site^
 ||limeremce.com^
 ||linconomyinvest.com^
+||linfordoffice.com^
 ||link.center.net^
 ||link.traders.com^
 ||linkaa.cyou^
@@ -2512,6 +2513,7 @@ nocona..boots.com
 ||mkvcinemas.phd^
 ||mlstrafnews.com^
 ||mmdbill.com^
+||mmllarchitects.com^
 ||mmrtb.com^
 ||mncr.club^
 ||mobile.btcoinus.org^
@@ -2592,6 +2594,7 @@ nocona..boots.com
 ||mymindwellness.co.uk^
 ||mymps.online^
 ||mypassivetrade.com^
+||mypetlist.in^
 ||myplatform.top^
 ||myrbcdevice.secure.com^
 ||mysticstonesgallery.com^
