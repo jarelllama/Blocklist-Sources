@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.033310.2025
+! Version: 01.24.040053.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 03:33:10 UTC 2025
+! Last modified: Fri Jan 24 04:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4263
+! Number of entries: 4269
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -173,6 +173,7 @@ nocona..boots.com
 ||aixomi.com^
 ||aiyibay.com^
 ||aiyun689kuaile789aizai798.com^
+||akaregisteredtoypoodlepups.com^
 ||akilesh.hopto.org^
 ||akurat33.com^
 ||akusoli.com^
@@ -851,6 +852,7 @@ nocona..boots.com
 ||claims.sonicfoundation.org^
 ||claimweby.live^
 ||classicteefox.com^
+||classicused.cars.com^
 ||clcriptomonedas006.com^
 ||clcriptomonedas007.com^
 ||cleanquest.xyz^
@@ -950,6 +952,7 @@ nocona..boots.com
 ||compare.deals.online.info^
 ||comprasdigitaisglobais.online^
 ||computarius.online^
+||con.ip.com^
 ||condorgaminggroup.com^
 ||confreriedes650.org^
 ||coninvestholdingsltd.com^
@@ -2415,6 +2418,7 @@ nocona..boots.com
 ||miiiralo.com^
 ||mikage.online^
 ||milenapowell.com^
+||miles.london.com^
 ||milisoil.com^
 ||miltonlogistic.com^
 ||milwakusharetexa.com^
@@ -2926,6 +2930,7 @@ nocona..boots.com
 ||powerelixir.online^
 ||powermaxph.com^
 ||powertools.market.com^
+||pppbvvvisys.bond^
 ||pprrc.com^
 ||practicalss.com^
 ||practicemakesperfect.online^
@@ -3964,6 +3969,7 @@ nocona..boots.com
 ||vilmoria.com^
 ||vincecomfort.com^
 ||vineyardsoutlet.com^
+||vintage.autosales.com^
 ||vintagehue.com^
 ||vintagewholesalesupplyltd.com^
 ||violate.igrq.online^
