@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.100053.2025
+! Version: 01.24.103412.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 10:00:53 UTC 2025
+! Last modified: Fri Jan 24 10:34:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4333
+! Number of entries: 4337
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -99,6 +99,7 @@ nocona..boots.com
 ||abppbsdlex.de^
 ||abra.pico.top^
 ||absoluteenergyfl.com^
+||ac8.w1t4b8.com^
 ||acard50.ru^
 ||acceleratew.com^
 ||accordsatisfy.com^
@@ -806,6 +807,7 @@ nocona..boots.com
 ||celeharm.com^
 ||cendyngroup.com^
 ||cenotor.com^
+||centercontact.top^
 ||centralworldmall.vip^
 ||cenutix.com^
 ||cerabiapparels.com^
@@ -1413,6 +1415,7 @@ nocona..boots.com
 ||etdase.com^
 ||eterminal.net^
 ||ethjpn.com^
+||eu.tamaris.com^
 ||eu.venum.shop^
 ||eugadneu.de^
 ||eumarijuanashop.com^
@@ -3023,6 +3026,7 @@ nocona..boots.com
 ||proteinbestsell.com^
 ||protocolsafe.co.in^
 ||proveedor.io^
+||przewidywalnosc.click^
 ||psicologiaencasa.online^
 ||pspllly.top^
 ||psschool.edu.bd^
