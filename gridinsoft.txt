@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.213052.2025
+! Version: 01.24.220057.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 21:30:52 UTC 2025
+! Last modified: Fri Jan 24 22:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4397
+! Number of entries: 4402
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1408,6 +1408,7 @@ nocona..boots.com
 ||entiq.co^
 ||entreur.com^
 ||entrustify.co.in^
+||enviosrastreios.online^
 ||eobot.net^
 ||eonsalestore.com^
 ||eosbit.com^
@@ -1616,6 +1617,7 @@ nocona..boots.com
 ||foxcc.online^
 ||foxsofe.app.bond^
 ||fozan.online^
+||fr.tradingview.com^
 ||fra.grandado.com^
 ||fraganciapura.store^
 ||fragrancesrealms.com^
@@ -1887,6 +1889,7 @@ nocona..boots.com
 ||hlamw.top^
 ||hlgonaricks.com^
 ||hm.ru^
+||hmemoir.lol^
 ||hmstr.web3launchpoolbinance.pages.dev^
 ||hoardrare.com^
 ||hobbyball.com^
@@ -3412,6 +3415,7 @@ nocona..boots.com
 ||sexfullmovies.mobi^
 ||sexyforums.com^
 ||sfardlanka.com^
+||sgtbill.com^
 ||sgtcv.com^
 ||shamfreshen.com^
 ||shapeitstore.com^
@@ -3729,6 +3733,7 @@ nocona..boots.com
 ||thebrighthotel.website^
 ||thecapitalholdings.io^
 ||thecardvaultsstore.com^
+||thecardvaultstore.com^
 ||thecleevie.com^
 ||thecobblerscraft.com^
 ||thecryptobullrun.life^
