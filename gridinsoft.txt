@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.073054.2025
+! Version: 01.24.080117.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 07:30:54 UTC 2025
+! Last modified: Fri Jan 24 08:01:17 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4303
+! Number of entries: 4310
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -65,6 +65,7 @@ nocona..boots.com
 ||65cryptoleo3933.com^
 ||66wineshop.com^
 ||67phspin.vip^
+||68shop.europe.com^
 ||777color87.com^
 ||7k.casino.16.online^
 ||7l77vn.site^
@@ -1057,6 +1058,7 @@ nocona..boots.com
 ||csoejgd.com^
 ||ctallnltd.com^
 ||ctvvpue071bc73b7gmug.protocolchainflow.com^
+||ctwmcd.com^
 ||cu2fi6m071bc73d7rkeg.enhanceconnection.co.in^
 ||cu4hsde071bc73f38hm0.enhanceconnection.co.in^
 ||cu7rqq6071bc73a4orp0.protocolchainflow.com^
@@ -1521,6 +1523,7 @@ nocona..boots.com
 ||fiyboy.com^
 ||fjallraven.eu.com^
 ||fjallravenvip.shop^
+||fjaslfjal.com^
 ||fkaesthetics.online^
 ||flashbtc.rf.gd^
 ||flashremitt.com^
@@ -2651,7 +2654,9 @@ nocona..boots.com
 ||ninzamistry.com^
 ||niolic.com^
 ||nira.id^
+||nkninkqq.com^
 ||nlleenbakker.com^
+||nlvivobarefoot.com^
 ||nnenry.online^
 ||nobrix.cfd^
 ||nodelyai.org^
@@ -3748,6 +3753,7 @@ nocona..boots.com
 ||torrentz9.org^
 ||torresip.com^
 ||tosdex.com^
+||toshiba99.com^
 ||totalwellstore.com^
 ||totoolookaa88.online^
 ||touristcoves.com^
@@ -3998,6 +4004,7 @@ nocona..boots.com
 ||vigkes.shop^
 ||viiejrws.com^
 ||vijaykumarvs.github.io^
+||vikashtiwari97.github.io^
 ||vilmoria.com^
 ||vincecomfort.com^
 ||vineyardsoutlet.com^
