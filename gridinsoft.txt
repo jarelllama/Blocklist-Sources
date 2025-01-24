@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.133228.2025
+! Version: 01.24.140056.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 13:32:28 UTC 2025
+! Last modified: Fri Jan 24 14:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4354
+! Number of entries: 4356
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -456,6 +456,7 @@ nocona..boots.com
 ||best4youu.info^
 ||bestbiccle.shop^
 ||bestbuy.ink^
+||bestdogcare.one^
 ||besteboni.online^
 ||bestgreensuperfood.com^
 ||besthealth24.online^
@@ -875,6 +876,7 @@ nocona..boots.com
 ||clcriptomonedas006.com^
 ||clcriptomonedas007.com^
 ||cleanquest.xyz^
+||cleanway.5asec.fr^
 ||cled.euteschan.top^
 ||cleoca.store^
 ||cleshy.com^
