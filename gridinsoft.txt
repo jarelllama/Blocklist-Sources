@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.070054.2025
+! Version: 01.24.073054.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 07:00:54 UTC 2025
+! Last modified: Fri Jan 24 07:30:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4299
+! Number of entries: 4303
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -51,6 +51,7 @@ nocona..boots.com
 ||365bitcoinminer.com^
 ||37mea68.eyjvds.info^
 ||44phl789.com^
+||485941.coinbase.com^
 ||4uvize.com^
 ||500.intal.org^
 ||552059.com^
@@ -1936,6 +1937,7 @@ nocona..boots.com
 ||infernoforge.store^
 ||infiniteinvestcompany.com^
 ||infojre.com^
+||informathote.com^
 ||informed.deliveryghfgh.top^
 ||informed.deliveryqbnsk.top^
 ||innovayours.store^
@@ -2768,6 +2770,7 @@ nocona..boots.com
 ||onlinessyodobashis.cc^
 ||onlinestoretechshop.com^
 ||onlinewealthmantra.com^
+||onlkey.com^
 ||onlymodels.me^
 ||onlyterrific.com^
 ||onpriority.com^
@@ -2998,6 +3001,7 @@ nocona..boots.com
 ||protocolsafe.co.in^
 ||proveedor.io^
 ||psicologiaencasa.online^
+||pspllly.top^
 ||psschool.edu.bd^
 ||psychedelicsdispensaryonline.com^
 ||psychrine.com^
