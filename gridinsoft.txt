@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.000151.2025
+! Version: 01.24.004522.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 00:01:51 UTC 2025
+! Last modified: Fri Jan 24 00:45:22 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4224
+! Number of entries: 4229
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -377,6 +377,7 @@ nocona..boots.com
 ||baffinca.com^
 ||bagii.shop^
 ||bagsupermarket.com^
+||baloongame777.online^
 ||bamajt.world^
 ||bancaseguraporlnternetdeempresas.scotialbanrkperu.online^
 ||bangunbersama.online^
@@ -497,6 +498,7 @@ nocona..boots.com
 ||bionovo.bio^
 ||birddecoysofnorthamerica.com^
 ||birkenstores.us^
+||birthdaywishesmarathi.online^
 ||birtox.biz^
 ||bisalex.com^
 ||bit.binary.org^
@@ -735,6 +737,7 @@ nocona..boots.com
 ||captchaoutil.site^
 ||capvpartnersltd.com^
 ||car.zhouznq.cn^
+||carbage.online^
 ||carbondefi.cc^
 ||cardmasparamiempresa.wuaze.com^
 ||careeractives.xyz^
@@ -3236,6 +3239,7 @@ nocona..boots.com
 ||seaart.ai^
 ||seanmconnmynlty.com^
 ||search.great.com^
+||search.withaiforchrome.com^
 ||searchanything.co^
 ||searchednow.com^
 ||searchnow.online^
@@ -3485,6 +3489,7 @@ nocona..boots.com
 ||superakbov.best^
 ||superamzdu.store^
 ||supercasuals.cc^
+||superfesta.online^
 ||superficial.work.com^
 ||superoffrs.com^
 ||supersery.com^
