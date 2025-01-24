@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.210056.2025
+! Version: 01.24.213052.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 21:00:56 UTC 2025
+! Last modified: Fri Jan 24 21:30:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4394
+! Number of entries: 4397
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1751,6 +1751,7 @@ nocona..boots.com
 ||globalswift.access.com^
 ||globe.trade.ltd^
 ||globeathome.online^
+||globeprimesignals.online^
 ||globexedge.com^
 ||glod.usdeth.top^
 ||glowpast.com^
@@ -2533,6 +2534,7 @@ nocona..boots.com
 ||misterlamp.de^
 ||mitmine.com^
 ||mitoleyn.com^
+||mitsoku.com^
 ||mixtsp.com^
 ||mizunomexicooutlet.com.mx^
 ||mjir.shop^
@@ -2999,6 +3001,7 @@ nocona..boots.com
 ||playgmz.online^
 ||playstation.stores.com^
 ||pledgeoffers.com^
+||plinko.france.org^
 ||plmin.xyz^
 ||plurao.com^
 ||plusdiscountedproperties.xyz^
