@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.060055.2025
+! Version: 01.24.063529.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 06:00:55 UTC 2025
+! Last modified: Fri Jan 24 06:35:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4291
+! Number of entries: 4295
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -2371,6 +2371,7 @@ nocona..boots.com
 ||maximinxassetltd.com^
 ||maxmara.sa.com^
 ||maxmaraluxury.shop^
+||maxxicrealty.com^
 ||mayavatifashion.in^
 ||mayer.boutique.de^
 ||mayzik.com^
@@ -2643,6 +2644,7 @@ nocona..boots.com
 ||nikocanvas.com^
 ||nilsenconsulting.io^
 ||nimo0.info^
+||ninzamistry.com^
 ||niolic.com^
 ||nira.id^
 ||nlleenbakker.com^
@@ -2820,6 +2822,7 @@ nocona..boots.com
 ||painterlyco.homes^
 ||paintingservices2us0507.online^
 ||pairrelax.com^
+||palavaproperties.in^
 ||palessaint.com^
 ||palettepro.homes^
 ||palliee.com^
@@ -3799,6 +3802,7 @@ nocona..boots.com
 ||trolleytimes.online^
 ||tromevixion.live^
 ||tron.soy^
+||tronfast.org^
 ||tronholdingsllc.com^
 ||tronlok.tv^
 ||tronminingfarm.com^
