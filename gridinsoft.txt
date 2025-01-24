@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.053234.2025
+! Version: 01.24.060055.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 05:32:34 UTC 2025
+! Last modified: Fri Jan 24 06:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4282
+! Number of entries: 4291
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -44,6 +44,7 @@ nocona..boots.com
 ||27design.online^
 ||2llcc.vip^
 ||2mbet.link^
+||2rcorretora.site^
 ||33www.vivetuaventurasinlimitespromo.com^
 ||34k.site^
 ||3549urk.kipkeo.info^
@@ -328,6 +329,7 @@ nocona..boots.com
 ||aslminer.com^
 ||asossamplesale.com^
 ||aspenunion.com^
+||assegurarcorretoradeseguros.site^
 ||assetsnavigator.com^
 ||assetwise.invest.com^
 ||assetxchangee.com^
@@ -366,6 +368,7 @@ nocona..boots.com
 ||authwalletsolutionetherdapp.app^
 ||auto.downloads.com^
 ||automegaoption.com^
+||autonorte.online^
 ||autotracksolution.com^
 ||autry.eu.shop^
 ||autryzzt.online^
@@ -796,6 +799,7 @@ nocona..boots.com
 ||cenutix.com^
 ||cerabiapparels.com^
 ||cerebrumiq.com^
+||certocorretoradeseguros.site^
 ||cfbit.org^
 ||cfdqqx.com^
 ||cfs.trades.com^
@@ -1562,6 +1566,7 @@ nocona..boots.com
 ||foundationrepair0407.online^
 ||foundationrepair3009.online^
 ||foundryusa.com^
+||foxcc.online^
 ||foxsofe.app.bond^
 ||fozan.online^
 ||fra.grandado.com^
@@ -2725,6 +2730,7 @@ nocona..boots.com
 ||onefarm.pro^
 ||onerosey.com^
 ||onestopvalue44.info^
+||ongalo.shop^
 ||online.abrechnung.info^
 ||online.advertising.23037.bond^
 ||online.advertising.32335.bond^
@@ -2748,6 +2754,7 @@ nocona..boots.com
 ||onlineforeignexchangeplatform.icu^
 ||onlinegalaxus.net^
 ||onlinematpilates.com^
+||onlinemoneyloans860973.icu^
 ||onlinemostwanted.com^
 ||onlineotizmdanisma.com^
 ||onlineoverstock.cc^
@@ -3430,6 +3437,7 @@ nocona..boots.com
 ||solanamining.net^
 ||solarhude.com^
 ||solaxy.io^
+||solpension.co^
 ||solpick.io^
 ||solrand.com^
 ||somolarlp.com^
@@ -4211,6 +4219,7 @@ nocona..boots.com
 ||yangcong.info^
 ||yankeewarehouse.co^
 ||yanwosu.com^
+||yashsinghal011.github.io^
 ||yavarifx.com^
 ||ybycmeds.com^
 ||ycrxys.com^
