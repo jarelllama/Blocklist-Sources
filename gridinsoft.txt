@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.022706.2025
+! Version: 01.24.024548.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 02:27:06 UTC 2025
+! Last modified: Fri Jan 24 02:45:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4247
+! Number of entries: 4253
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -807,6 +807,7 @@ nocona..boots.com
 ||chemicaldepotllc.com^
 ||chemicaltiger.com^
 ||cheqseep.online^
+||chesterron.com^
 ||chiccraftz.com^
 ||chicfitx.com^
 ||chiefaiofficer.biz^
@@ -1063,6 +1064,7 @@ nocona..boots.com
 ||cyber.fuck.com^
 ||cyberguardforchrome.com^
 ||cyberhavenext.pro^
+||cybernetsecurity.org^
 ||cybex.360.com^
 ||cymatics.fm^
 ||cyphermarket.ru^
@@ -2024,6 +2026,7 @@ nocona..boots.com
 ||jradx.ca^
 ||jrelievedy.monster^
 ||jrqyonline.com^
+||jsonvieweronline.io^
 ||juinfd.com^
 ||juliusbaerusd.com^
 ||jump.panel.surprise.clever.top^
@@ -2041,6 +2044,7 @@ nocona..boots.com
 ||jwpei.espana.es^
 ||jysk.online.com^
 ||jysk.sale.com^
+||jyskfurniture.eu.com^
 ||jyskhome.eu.com^
 ||k.waymall.shop^
 ||k03p.xyz^
@@ -2701,6 +2705,7 @@ nocona..boots.com
 ||onefarm.pro^
 ||onerosey.com^
 ||onestopvalue44.info^
+||online.abrechnung.info^
 ||online.advertising.23037.bond^
 ||online.advertising.32335.bond^
 ||online.advertising.73412.bond^
@@ -3364,6 +3369,7 @@ nocona..boots.com
 ||slashfilm.perfect.com^
 ||slecks.shop^
 ||sleekfitz.com^
+||sleepwelldental.online^
 ||slexionz.cc^
 ||slmsbz.com^
 ||slot7.onlinecasino.com^
