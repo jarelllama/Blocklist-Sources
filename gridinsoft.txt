@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.020003.2025
+! Version: 01.24.022706.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 02:00:03 UTC 2025
+! Last modified: Fri Jan 24 02:27:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4242
+! Number of entries: 4247
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -226,6 +226,7 @@ nocona..boots.com
 ||ambiledhub.com^
 ||amdconsults.com^
 ||americanfunds.com^
+||americasvirtualshop.online^
 ||amgesic.com^
 ||amirimexicos.com^
 ||ammobigsale.shop^
@@ -2329,6 +2330,7 @@ nocona..boots.com
 ||markservers.com^
 ||maroyia.com^
 ||marsincfog.com^
+||martvalley.online^
 ||marvellousperfumes.com^
 ||marvelusdt.com^
 ||marvmys.com^
@@ -2536,6 +2538,7 @@ nocona..boots.com
 ||naseebetiris.naseebet77.com^
 ||natadler.com^
 ||nationalcasinolp.com^
+||naturaenutra.online^
 ||natureflux.shop^
 ||nav43.global.com^
 ||navyunhanded.com^
@@ -3098,6 +3101,7 @@ nocona..boots.com
 ||refefshopin.top^
 ||reg.yourgamebuilder.com^
 ||regalosorpresivo.com^
+||regenita.com^
 ||register.aitprotocoldefi.network^
 ||register.bckrcoin.com^
 ||register.defi.app^
@@ -4118,6 +4122,7 @@ nocona..boots.com
 ||woxdem.com^
 ||wqwln8trk.com^
 ||wristpointshop.com^
+||writerless.online^
 ||wtcentral.com^
 ||wtgu.store^
 ||wusveso.vip^
