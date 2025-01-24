@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.113037.2025
+! Version: 01.24.120105.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 11:30:37 UTC 2025
+! Last modified: Fri Jan 24 12:01:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4341
+! Number of entries: 4346
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1009,6 +1009,7 @@ nocona..boots.com
 ||crazybody.online^
 ||crazyvidup.com^
 ||crcr388.com^
+||credit.cosmos.com^
 ||credorwatch.com^
 ||creepyscans.org^
 ||creneau.2025.mondial.com^
@@ -1346,6 +1347,7 @@ nocona..boots.com
 ||elitezone.online^
 ||elixrium.online^
 ||ellamode.nl^
+||elleynur.com^
 ||elmoerc.com^
 ||elonactivemarket.com^
 ||elonbet.com^
@@ -1437,6 +1439,7 @@ nocona..boots.com
 ||evil.com^
 ||evli.fr^
 ||evmprime.com^
+||evyplay.com^
 ||excotrade.com^
 ||exiledexchange2.com^
 ||exnesstradexpert.com^
@@ -1808,6 +1811,7 @@ nocona..boots.com
 ||h5.koinexbit.com^
 ||h5.wltfund.com^
 ||habmentsell.shop^
+||hakim.media^
 ||handfull.shop^
 ||hansen.oslo.com^
 ||happyvape.nl^
@@ -3609,6 +3613,7 @@ nocona..boots.com
 ||swingdeceive.com^
 ||swipelake.shop^
 ||swiss.mo.inv.com^
+||switbittradepips.com^
 ||swminex.com^
 ||sxelin.com^
 ||sxioka.store^
