@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.083357.2025
+! Version: 01.24.090102.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 08:33:57 UTC 2025
+! Last modified: Fri Jan 24 09:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4317
+! Number of entries: 4323
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -20,6 +20,9 @@ nocona..boots.com
 ||1337x.tw^
 ||13yo.lollita.online^
 ||15jilicrown.club^
+||15ocakindirim.xyz^
+||15ocakindirimlerim.xyz^
+||15ocakindirimlerimi.xyz^
 ||17.magic88.cc^
 ||19www.vivetuaventurasinlimitespromo.com^
 ||1woqab.top^
@@ -1762,6 +1765,7 @@ nocona..boots.com
 ||gptaiminds.com^
 ||gptdefinityai.app.com^
 ||gptexcelacademycl.com^
+||graftonoakwood.com^
 ||graphixplanet.com^
 ||grassroot.impact.centre.org^
 ||gratisvps.net^
@@ -1981,6 +1985,7 @@ nocona..boots.com
 ||iptvproducts.com^
 ||iptvtvsmarters.com^
 ||iqmind.co^
+||iqtradegpt.com^
 ||iralarkincoach.com^
 ||iranfinance.info^
 ||ird.govt.nz^
@@ -3240,6 +3245,7 @@ nocona..boots.com
 ||rturd.com^
 ||rugbywow.com^
 ||ruktu.com^
+||rumadining.com^
 ||russesale.shop^
 ||rvresell.be^
 ||rvxathe.com^
