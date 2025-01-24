@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.153158.2025
+! Version: 01.24.160054.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 15:31:58 UTC 2025
+! Last modified: Fri Jan 24 16:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4372
+! Number of entries: 4375
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1294,6 +1294,7 @@ nocona..boots.com
 ||dunekhing.com^
 ||duod03.com^
 ||dutchstorebv.nl^
+||dvancedco.biz^
 ||dvdsociety.shop^
 ||dysb.store^
 ||dystarwears.com^
@@ -1549,6 +1550,7 @@ nocona..boots.com
 ||fintechmexicofestival.com^
 ||firmdrexworld.com^
 ||firstwinbet.online^
+||fissmarket.com^
 ||fitgirl.repacks.site^
 ||fivon.online^
 ||fixweb3connect.pages.dev^
@@ -4293,6 +4295,7 @@ nocona..boots.com
 ||xtraexcharge.com^
 ||xtremediscount.net^
 ||xtremeiptv.online^
+||xufuji.xyz^
 ||xvkdfashion.shop^
 ||xworld.gg^
 ||xyzverse.io^
