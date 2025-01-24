@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.150055.2025
+! Version: 01.24.153158.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 15:00:55 UTC 2025
+! Last modified: Fri Jan 24 15:31:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4368
+! Number of entries: 4372
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1073,6 +1073,7 @@ nocona..boots.com
 ||cryptowin360.com^
 ||cryptoxwave.com^
 ||crystalglobalwealth.com^
+||crystaliptv.shop^
 ||csfpromocao2024.online^
 ||csoejgd.com^
 ||ctallnltd.com^
@@ -1428,6 +1429,7 @@ nocona..boots.com
 ||etdase.com^
 ||eterminal.net^
 ||ethjpn.com^
+||etoro66.vip^
 ||eu.tamaris.com^
 ||eu.venum.shop^
 ||eugadneu.de^
@@ -1834,6 +1836,7 @@ nocona..boots.com
 ||hashfactor.net^
 ||hassampc.com^
 ||havenstiendas.com^
+||healthcompounds.com^
 ||healthessencial.com^
 ||healthtimers.com^
 ||heartlandstandardbk.com^
@@ -2306,6 +2309,7 @@ nocona..boots.com
 ||lotesycasaspro.online^
 ||lotto.bw.de^
 ||lottobet.online^
+||loueshop.com^
 ||lourdeswestleyhawk.org^
 ||lovdomnotiallus.top^
 ||lovejabsk.click^
