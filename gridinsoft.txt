@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.050103.2025
+! Version: 01.24.053234.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 05:01:03 UTC 2025
+! Last modified: Fri Jan 24 05:32:34 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4276
+! Number of entries: 4282
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -150,6 +150,7 @@ nocona..boots.com
 ||ai.fund.top^
 ||ai.kraken2025.com^
 ||ai.pool.trading^
+||ai.trades.co^
 ||aicryptotradings.com^
 ||aicryptozone.com^
 ||aietftoken.com^
@@ -1263,6 +1264,7 @@ nocona..boots.com
 ||duod03.com^
 ||dutchstorebv.nl^
 ||dvdsociety.shop^
+||dysb.store^
 ||dystarwears.com^
 ||dzan23.cn^
 ||eaglecrestonline.com^
@@ -1338,6 +1340,7 @@ nocona..boots.com
 ||emetom.com^
 ||emillia.shop^
 ||emkqh.shop^
+||empire.trade.limited.group^
 ||empireminers.com^
 ||empiric.online^
 ||empoweredmanhealth.online^
@@ -1532,6 +1535,7 @@ nocona..boots.com
 ||flugger.pl^
 ||fluminer.com^
 ||fluminer.org^
+||fluxpockopt.com^
 ||flwoertime.de^
 ||fmcg5.biz^
 ||fmovies.co^
@@ -2290,6 +2294,7 @@ nocona..boots.com
 ||luxewatchus.com^
 ||luxins.shop^
 ||luxurydo.ru^
+||lvl.singapore.pte.site^
 ||lvlbit.com^
 ||lwbbc.com^
 ||lylussplus.com^
@@ -2511,6 +2516,7 @@ nocona..boots.com
 ||mscfxtrader.com^
 ||mscommerce.net^
 ||msscrypto.com^
+||mtg08v1zr.com^
 ||mttathletics.com^
 ||mujeresconbienestar.gob.mx.info^
 ||muke.ai^
