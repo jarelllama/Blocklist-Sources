@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.110050.2025
+! Version: 01.25.113051.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 11:00:50 UTC 2025
+! Last modified: Sat Jan 25 11:30:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4503
+! Number of entries: 4509
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -668,6 +668,7 @@ nocona..boots.com
 ||boomerenginvestitionen.com^
 ||boots.litbio.org^
 ||boounti.com^
+||boscark.shop^
 ||bostakingu.com^
 ||bot.merisprivate.net^
 ||botfypro.com^
@@ -2155,6 +2156,7 @@ nocona..boots.com
 ||jpm.financial.com^
 ||jpnthom.com^
 ||jpxmarket.com^
+||jqfgwl.shop^
 ||jradx.ca^
 ||jrelievedy.monster^
 ||jrqyonline.com^
@@ -2406,6 +2408,7 @@ nocona..boots.com
 ||lucky.motorcycles.com^
 ||lucky888.top^
 ||luckypro.store^
+||luckywhalecasino.com^
 ||lulalola.com^
 ||luluisrael.co.il^
 ||lulusafh.com^
@@ -3050,6 +3053,7 @@ nocona..boots.com
 ||pietrodiuccio.com^
 ||pilatesmotion.co^
 ||pillowhubglobal.com^
+||pinetworkvalidator.com^
 ||pinkonline.store^
 ||pinnacle.equitygroup.com^
 ||pip4gains.com^
@@ -4188,6 +4192,7 @@ nocona..boots.com
 ||vilmoria.com^
 ||vincecomfort.com^
 ||vineyardsoutlet.com^
+||vinkaoilgasconsultant.com^
 ||vintage.autosales.com^
 ||vintagehue.com^
 ||vintagewholesalesupplyltd.com^
@@ -4232,6 +4237,7 @@ nocona..boots.com
 ||w3.hexafiles.com^
 ||w3er.top^
 ||waas.network^
+||wagerinox.com^
 ||wagexera.com^
 ||wakestorage.com^
 ||walletweave.online^
