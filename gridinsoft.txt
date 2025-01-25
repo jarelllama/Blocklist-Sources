@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.083253.2025
+! Version: 01.25.090056.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 08:32:53 UTC 2025
+! Last modified: Sat Jan 25 09:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4483
+! Number of entries: 4488
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1872,6 +1872,7 @@ nocona..boots.com
 ||h5.koinexbit.com^
 ||h5.wltfund.com^
 ||habmentsell.shop^
+||haidth.com^
 ||hakim.media^
 ||handfull.shop^
 ||handgripknuckle.com^
@@ -2062,6 +2063,7 @@ nocona..boots.com
 ||ioicity.mall.top^
 ||iomoio.com^
 ||ionmining.com^
+||iotexai.com^
 ||ip.hz.com^
 ||ipctd.online^
 ||iprimetv.store^
@@ -2185,6 +2187,7 @@ nocona..boots.com
 ||keenchile.net^
 ||keencn.com^
 ||kefu.swapbit.top^
+||kenton.vip^
 ||keren138.vip.online^
 ||keruico.com^
 ||kesan888.com^
@@ -3371,6 +3374,7 @@ nocona..boots.com
 ||ruktu.com^
 ||rumadining.com^
 ||russesale.shop^
+||rutor8.com^
 ||rvresell.be^
 ||rvxathe.com^
 ||rxdealsusa.com^
@@ -4335,6 +4339,7 @@ nocona..boots.com
 ||womoke.com^
 ||woonr.top^
 ||work44.com^
+||worker.cash^
 ||workshop.forex.com^
 ||world.dailyincome.com^
 ||world.delivery.service.com^
