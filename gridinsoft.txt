@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.024208.2025
+! Version: 01.25.030101.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 02:42:08 UTC 2025
+! Last modified: Sat Jan 25 03:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4436
+! Number of entries: 4442
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1268,6 +1268,7 @@ nocona..boots.com
 ||dolophin.com^
 ||domesticraws.com^
 ||dominatei.shop^
+||donsagace.net^
 ||dopehungary.hu.com^
 ||dopesneakers.shop^
 ||dork.baby^
@@ -1827,6 +1828,7 @@ nocona..boots.com
 ||grindsoft.com^
 ||growthcapinc.com^
 ||growthsedges.online^
+||grunsguru.com^
 ||grupohersa.org^
 ||gs.zbzy.cc^
 ||gten956.vip^
@@ -1967,6 +1969,7 @@ nocona..boots.com
 ||hvuaill.com^
 ||hwg.lol^
 ||hxhyc.com^
+||hxnkqn.shop^
 ||hxsc.store^
 ||hxxokerase.fyi^
 ||hyperbit.biz^
@@ -2626,6 +2629,7 @@ nocona..boots.com
 ||multiverse.retifications.netlify.app^
 ||mundoonline.link^
 ||mundys.online^
+||mungu.in^
 ||music8.online^
 ||muskratmarinesstingeras.pro^
 ||muvtea.com^
@@ -3972,6 +3976,7 @@ nocona..boots.com
 ||turbotrump.info^
 ||tusheedrosep.net^
 ||tuuoi.shop^
+||tvlux.co^
 ||tw.iutkhi.shop^
 ||twiney.shop^
 ||twitclicks.com^
@@ -4363,6 +4368,7 @@ nocona..boots.com
 ||yangcong.info^
 ||yankeewarehouse.co^
 ||yanwosu.com^
+||yara.baby^
 ||yashsinghal011.github.io^
 ||yavarifx.com^
 ||ybycmeds.com^
