@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.053151.2025
+! Version: 01.25.060101.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 05:31:51 UTC 2025
+! Last modified: Sat Jan 25 06:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4456
+! Number of entries: 4460
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -410,6 +410,7 @@ nocona..boots.com
 ||bankxpay.com^
 ||bantuswahilitours.com^
 ||baominpower.com^
+||bapes.com.mx^
 ||bar47menu.online^
 ||bargainxpressz.bet^
 ||bartrustfund.com^
@@ -430,6 +431,7 @@ nocona..boots.com
 ||bcapstaking.com^
 ||bchminer.com^
 ||bcplgi.shop^
+||bcvc.pro^
 ||bdjf2ls.com^
 ||bdyg.store^
 ||bearatten.com^
@@ -1161,6 +1163,7 @@ nocona..boots.com
 ||deepnude.to^
 ||deepnudeai.online^
 ||deepweb.fixedmatches.com^
+||defashionette.xyz^
 ||defi.drop.xyz^
 ||defi.official.com^
 ||defi.pad.com^
@@ -3647,6 +3650,7 @@ nocona..boots.com
 ||steroidskaufen.com^
 ||stggege.org^
 ||stocklogs.info^
+||stockresoluteprofx.com^
 ||stoigr.org^
 ||stonxdex.com^
 ||store.belgianshop.com^
