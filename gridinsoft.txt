@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.070059.2025
+! Version: 01.25.073050.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 07:00:59 UTC 2025
+! Last modified: Sat Jan 25 07:30:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4468
+! Number of entries: 4475
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -193,6 +193,7 @@ nocona..boots.com
 ||alcazie.in^
 ||aldozapatos.com^
 ||alectomedia.online^
+||alfagroup.inter.com^
 ||alfianacendani.online^
 ||algainhouse.com^
 ||aliex.proxy.robot.shop^
@@ -251,6 +252,7 @@ nocona..boots.com
 ||amzkdt.online^
 ||amzreturnsalebox.com^
 ||anabolenverkoop.net^
+||analdin.com^
 ||anamodashop.com^
 ||anaxdex.com^
 ||anesoabdulfatah.com^
@@ -479,6 +481,7 @@ nocona..boots.com
 ||betpawa.tips.com^
 ||betsclub.pro^
 ||betteranime.net^
+||betterdiscountdeals.com^
 ||betwave.vip^
 ||bewizi.com^
 ||beyondprostate.com^
@@ -935,6 +938,7 @@ nocona..boots.com
 ||cmbet888.net^
 ||cmodams.shop^
 ||cnkjhfyhposjmndh.378wugnima.shop^
+||cnnhealth.online^
 ||co.financing.cc^
 ||coach.factoryoutletonline.com^
 ||coahinp.com^
@@ -1371,6 +1375,7 @@ nocona..boots.com
 ||elabd.online^
 ||eldercity.xyz^
 ||eleganthush.com^
+||elineverhoye.shop^
 ||elitecapitalmarket.com^
 ||elitecapitalprofits.com^
 ||eliteclonecards.com^
@@ -2618,6 +2623,7 @@ nocona..boots.com
 ||moonlightmint.co^
 ||moonmagic.com^
 ||moonwell.fl.xyz^
+||mopspartneronline.com^
 ||morganenergyph.com^
 ||mormark.eu^
 ||mostirex.com^
@@ -3690,6 +3696,7 @@ nocona..boots.com
 ||suny77.online^
 ||sunyiying.com^
 ||super.ai.me^
+||superai.xin^
 ||superakbov.best^
 ||superamzdu.store^
 ||supercasuals.cc^
