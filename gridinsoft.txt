@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.073050.2025
+! Version: 01.25.080100.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 07:30:50 UTC 2025
+! Last modified: Sat Jan 25 08:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4475
+! Number of entries: 4477
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -350,6 +350,7 @@ nocona..boots.com
 ||ast2025.shop^
 ||astomstyle.asia^
 ||astradumps.com^
+||astrocrestonunion.com^
 ||astroearning.com^
 ||atamedya.shop^
 ||ataraxonline.net^
@@ -4123,6 +4124,7 @@ nocona..boots.com
 ||velivyne.com^
 ||velogisc.com^
 ||velourtoronto.com^
+||velourwatches.store^
 ||venarose.online^
 ||vendorbroz.com^
 ||venotem.com^
