@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.143057.2025
+! Version: 01.25.150050.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 14:30:57 UTC 2025
+! Last modified: Sat Jan 25 15:00:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4529
+! Number of entries: 4533
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1030,6 +1030,7 @@ nocona..boots.com
 ||corporalgaming.com^
 ||corseplongeea.com^
 ||cosmayae.com^
+||cosmicgroundingcode.com^
 ||cosometaldetector.com^
 ||costexcorporation.com^
 ||cotizadorsoat.segurosdelestado.com^
@@ -1796,6 +1797,7 @@ nocona..boots.com
 ||globalfinaltd.com^
 ||globalflashco.com^
 ||globalfutureltd.com^
+||globallogisticsco.com^
 ||globalnotelab.com^
 ||globalsfundrecovery.com^
 ||globalsmartrade.com^
@@ -3786,6 +3788,7 @@ nocona..boots.com
 ||synthealth.com^
 ||syuffxx.com^
 ||syuffxx.ee^
+||syuffxx.vip^
 ||syxstar.com^
 ||t.mall.cc^
 ||t.mediapros02.world^
@@ -3831,6 +3834,7 @@ nocona..boots.com
 ||testorush.eu^
 ||tether.global.com^
 ||texbiom.com^
+||texitcoin.org^
 ||tfalcon.online^
 ||tfoskn.shop^
 ||tfvpm.org^
