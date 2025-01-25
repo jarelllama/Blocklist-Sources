@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.213101.2025
+! Version: 01.25.220057.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 21:31:01 UTC 2025
+! Last modified: Sat Jan 25 22:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4592
+! Number of entries: 4597
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -668,6 +668,7 @@ nocona..boots.com
 ||bodegamexco.shop^
 ||bodegaurreramxn.com^
 ||bognerztte.shop^
+||bogrit.com^
 ||bolderloft.nl^
 ||bonanza.usdt.com^
 ||bondicurls.com^
@@ -713,6 +714,7 @@ nocona..boots.com
 ||bsbjnlzdq.org^
 ||bsdgyfv.shop^
 ||bt.masterskaya.online^
+||btanru.shop^
 ||btc200x.org^
 ||btc913.com^
 ||btc933.com^
@@ -1981,6 +1983,7 @@ nocona..boots.com
 ||homebymeagency.com^
 ||homecleaners.online^
 ||homeika.com^
+||homelava.com^
 ||homepillowfort.com^
 ||homersimpson.fun^
 ||honey.bee.iptv.com^
@@ -3758,6 +3761,7 @@ nocona..boots.com
 ||stermcommunity.com^
 ||steroidskaufen.com^
 ||stggege.org^
+||sthbill.com^
 ||stocklogs.info^
 ||stockresoluteprofx.com^
 ||stoigr.org^
@@ -3834,6 +3838,7 @@ nocona..boots.com
 ||sycuantime.com^
 ||sylvamoon.com^
 ||symphonicmusicpromo.com^
+||syncscriptsch.site^
 ||synthealth.com^
 ||syuffxx.com^
 ||syuffxx.ee^
