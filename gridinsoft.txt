@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.130253.2025
+! Version: 01.25.133051.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 13:02:53 UTC 2025
+! Last modified: Sat Jan 25 13:30:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4517
+! Number of entries: 4522
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -90,6 +90,7 @@ nocona..boots.com
 ||9newsaitrading.info^
 ||9xmoviies.xyz^
 ||a1b2c4.shop^
+||aariatees.net^
 ||aattechnologies.net^
 ||abaok.vip^
 ||abdullahonline.store^
@@ -121,6 +122,7 @@ nocona..boots.com
 ||acquistadocumenti.com^
 ||acropolisnow.top^
 ||acrossfold.com^
+||action.profits.com^
 ||activeprobeauty.com^
 ||adatenight.com^
 ||adblocker.one^
@@ -1140,6 +1142,7 @@ nocona..boots.com
 ||d.c3g.cn^
 ||d4iqpj8tqft8l.cloudfront.net^
 ||dagahna.fun^
+||daily.deals.sale^
 ||dailytehillim.online^
 ||dailyuploads.net^
 ||dainese.sale.shop^
@@ -2225,6 +2228,7 @@ nocona..boots.com
 ||kitculture.store^
 ||kiterexchangez.click^
 ||kittycomfortstore.com^
+||kiwiown.co.nz^
 ||kixaikisuccessful.net^
 ||kkczocen.shop^
 ||kkminer.top^
@@ -2427,6 +2431,7 @@ nocona..boots.com
 ||luxer.bet^
 ||luxewatchus.com^
 ||luxins.shop^
+||luxriahu2.quest^
 ||luxurydo.ru^
 ||lvl.singapore.pte.site^
 ||lvlbit.com^
