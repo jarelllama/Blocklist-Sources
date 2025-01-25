@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.24.233052.2025
+! Version: 01.25.000158.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 24 23:30:52 UTC 2025
+! Last modified: Sat Jan 25 00:01:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4416
+! Number of entries: 4419
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -339,6 +339,7 @@ nocona..boots.com
 ||asossamplesale.com^
 ||aspenunion.com^
 ||assegurarcorretoradeseguros.site^
+||asset.ust.top^
 ||assetsnavigator.com^
 ||assetwise.invest.com^
 ||assetxchangee.com^
@@ -1247,6 +1248,7 @@ nocona..boots.com
 ||divinark.store^
 ||divingcentercadaques.com^
 ||diwataplay.bet^
+||dminer.website^
 ||dnswatch.info^
 ||docker.1ms.run^
 ||doclothes.com^
@@ -3874,6 +3876,7 @@ nocona..boots.com
 ||tradefinancebureau.com^
 ||tradefinancial.com^
 ||tradeforger.online^
+||tradehivehub.com^
 ||tradelinelite.com^
 ||tradestationcryptofx.com^
 ||tradetip.analysis.live^
