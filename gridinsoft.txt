@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.210051.2025
+! Version: 01.25.213101.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 21:00:51 UTC 2025
+! Last modified: Sat Jan 25 21:31:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4588
+! Number of entries: 4592
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1624,6 +1624,7 @@ nocona..boots.com
 ||fjallravenvip.shop^
 ||fjaslfjal.com^
 ||fkaesthetics.online^
+||flarial.xyz^
 ||flashbtc.rf.gd^
 ||flashremitt.com^
 ||flashusdt.shop^
@@ -2514,6 +2515,7 @@ nocona..boots.com
 ||mantraprint.in^
 ||manualslibrary.co^
 ||maqiqsent.com^
+||margin.coins.space^
 ||mariswiss.com^
 ||market4s.com^
 ||marketglobalweb.com^
@@ -2747,6 +2749,7 @@ nocona..boots.com
 ||mysticstonesgallery.com^
 ||mytraveldaddy.us^
 ||myvanomi.com^
+||n.ag.vip^
 ||naaeeoy.com^
 ||naorisprotocol.web.app^
 ||napapijriapps.com^
@@ -2903,6 +2906,7 @@ nocona..boots.com
 ||oiufds.com^
 ||ojrq.net^
 ||ok666.live^
+||okada123.com^
 ||okjg13.icu^
 ||okk.16s.pages.dev^
 ||okpay.bar^
