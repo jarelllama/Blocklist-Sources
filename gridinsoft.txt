@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.103211.2025
+! Version: 01.25.110050.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 10:32:11 UTC 2025
+! Last modified: Sat Jan 25 11:00:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4500
+! Number of entries: 4503
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -970,6 +970,7 @@ nocona..boots.com
 ||coinebc.com^
 ||coinexpressinv.com^
 ||coinfarex.com^
+||coinfazi.com^
 ||coinfet.net^
 ||coinget.online^
 ||coinlocally.forex^
@@ -1723,6 +1724,7 @@ nocona..boots.com
 ||gameshopfinaldeals.com^
 ||gameslux.store^
 ||gametop.bet^
+||ganando.imperios.com^
 ||gapconnectionbridge.co.in^
 ||gaspol268.com^
 ||gdcecusd.com^
@@ -2231,6 +2233,7 @@ nocona..boots.com
 ||knighted.shop^
 ||knoblatter.com^
 ||kobaltoutletstore.com^
+||kokaindrogekaufen.com^
 ||kolem.shop^
 ||kongva.com^
 ||konigsbruder.com^
