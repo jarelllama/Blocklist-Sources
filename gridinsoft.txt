@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.120055.2025
+! Version: 01.25.124034.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 12:00:55 UTC 2025
+! Last modified: Sat Jan 25 12:40:34 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4510
+! Number of entries: 4514
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1371,6 +1371,7 @@ nocona..boots.com
 ||edenhoj.com^
 ||ediwfashion.shop^
 ||edmxed66.com^
+||edx32.com^
 ||eexevaudraikair.net^
 ||effortlessluxurious.com^
 ||effuciaency.com^
@@ -2226,6 +2227,7 @@ nocona..boots.com
 ||kixaikisuccessful.net^
 ||kkczocen.shop^
 ||kkminer.top^
+||kks.encrypted.com^
 ||kksworld.com^
 ||kleinanzeigen.de^
 ||klim.us.store.shop^
@@ -2798,6 +2800,7 @@ nocona..boots.com
 ||nomisite8.online^
 ||nordic.finanx.com^
 ||nordicremolquesl.com^
+||nordyen.com^
 ||nordyen.de^
 ||nordyen.nl^
 ||nordyen.no.com^
@@ -3630,6 +3633,7 @@ nocona..boots.com
 ||soportestreaming.online^
 ||sos.bg.sof.1.exo.io^
 ||soundcoreindiawebsite.com^
+||southafricalotto.co.za^
 ||spagamia.com^
 ||spaindvs.com^
 ||sparkflr.info^
