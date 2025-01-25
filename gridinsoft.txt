@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.163503.2025
+! Version: 01.25.170059.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 16:35:03 UTC 2025
+! Last modified: Sat Jan 25 17:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4545
+! Number of entries: 4548
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1015,6 +1015,7 @@ nocona..boots.com
 ||coninvestholdingsltd.com^
 ||connectdefix.online^
 ||connectionos.xyz^
+||connectmanualtools.com^
 ||conservativista.com^
 ||consorciosrt.online^
 ||constipation.relieve.16.online^
@@ -1910,6 +1911,7 @@ nocona..boots.com
 ||hashfactor.net^
 ||hassampc.com^
 ||havenstiendas.com^
+||hayeswheel.com^
 ||healthcompounds.com^
 ||healthessencial.com^
 ||healthtimers.com^
@@ -2757,6 +2759,7 @@ nocona..boots.com
 ||netbitcapital.net^
 ||netdcbf.com^
 ||netfucks1.com^
+||nethaless.com^
 ||neuratech.global^
 ||neversettleppc.com^
 ||newalking.com^
