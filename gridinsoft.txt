@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.230047.2025
+! Version: 01.25.233040.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 23:00:47 UTC 2025
+! Last modified: Sat Jan 25 23:30:40 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4603
+! Number of entries: 4606
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -653,6 +653,7 @@ nocona..boots.com
 ||bmo.verification.secure.com^
 ||bmw.moto.eu.shop^
 ||bmwstore.eu.com^
+||bnb118.com^
 ||bnbclaim.cc^
 ||bnbpick.io^
 ||bnex.cc^
@@ -1932,6 +1933,7 @@ nocona..boots.com
 ||hassampc.com^
 ||havenstiendas.com^
 ||hayeswheel.com^
+||hdtoday.tv^
 ||healthcompounds.com^
 ||healthessencial.com^
 ||healthtimers.com^
@@ -2546,6 +2548,7 @@ nocona..boots.com
 ||mavliker.net^
 ||mavocossycloud.com^
 ||maxcgi.com^
+||maxclick.xyz^
 ||maxices.com^
 ||maximinxassetltd.com^
 ||maxmara.sa.com^
