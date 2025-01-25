@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.060101.2025
+! Version: 01.25.063423.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 06:01:01 UTC 2025
+! Last modified: Sat Jan 25 06:34:23 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4460
+! Number of entries: 4465
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -497,6 +497,7 @@ nocona..boots.com
 ||bigoutdoorshop.com^
 ||bigsales.top^
 ||bigtfreedom2025.com^
+||bijouxdebella.com^
 ||bikinibossmiamieu.com^
 ||bikobabybus.com^
 ||bil2n.cfd^
@@ -519,6 +520,7 @@ nocona..boots.com
 ||bine.mails.top^
 ||bingo.ba^
 ||binjohn.com^
+||binomo.com^
 ||binoption.net^
 ||binta.xyz^
 ||binterio.com^
@@ -1255,6 +1257,7 @@ nocona..boots.com
 ||divingcentercadaques.com^
 ||diwataplay.bet^
 ||dminer.website^
+||dmswebsolution.com^
 ||dnswatch.info^
 ||docker.1ms.run^
 ||doclothes.com^
@@ -2052,6 +2055,7 @@ nocona..boots.com
 ||ionmining.com^
 ||ip.hz.com^
 ||ipctd.online^
+||iprimetv.store^
 ||iptvkaufen24.de^
 ||iptvnexus.com^
 ||iptvproducts.com^
@@ -2757,6 +2761,7 @@ nocona..boots.com
 ||niolic.com^
 ||nira.id^
 ||nkninkqq.com^
+||nlcrents.com^
 ||nlleenbakker.com^
 ||nlvivobarefoot.com^
 ||nnenry.online^
