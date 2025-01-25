@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.040056.2025
+! Version: 01.25.043424.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 04:00:56 UTC 2025
+! Last modified: Sat Jan 25 04:34:24 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4445
+! Number of entries: 4450
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -997,6 +997,7 @@ nocona..boots.com
 ||consorciosrt.online^
 ||constipation.relieve.16.online^
 ||construction.jobs.nz.online^
+||contactandplay.com^
 ||contactconsultingservices.com^
 ||contestcraze.today^
 ||contractnerds.com^
@@ -1754,6 +1755,7 @@ nocona..boots.com
 ||glanzberg.mode.de^
 ||glasslockmart.shop^
 ||glbgpt.com^
+||glecapitalsrl.online^
 ||gletber.com^
 ||glmrjwl.com^
 ||global.tinv.org^
@@ -2135,6 +2137,7 @@ nocona..boots.com
 ||jump.panel.surprise.clever.top^
 ||jumper.lvlnk.com^
 ||jun88qy.com^
+||juniperhayesweddingdesign.com^
 ||juno.download.promo.com^
 ||justanorganizedhome.online^
 ||justanothercarpenter.online^
@@ -2604,6 +2607,7 @@ nocona..boots.com
 ||moonlightmint.co^
 ||moonmagic.com^
 ||moonwell.fl.xyz^
+||morganenergyph.com^
 ||mormark.eu^
 ||mostirex.com^
 ||motorwolt.com^
@@ -4333,6 +4337,7 @@ nocona..boots.com
 ||wyy158.fun^
 ||x.coin.app^
 ||x.ua.com^
+||xai.wallet.com^
 ||xai79a.com^
 ||xanarx.live^
 ||xapool.com^
