@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.193053.2025
+! Version: 01.25.200105.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 19:30:53 UTC 2025
+! Last modified: Sat Jan 25 20:01:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4578
+! Number of entries: 4583
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -634,6 +634,7 @@ nocona..boots.com
 ||blizzboygames.net^
 ||blochchile.shop^
 ||blockdag.network^
+||blockmetal.ltd^
 ||blofinm.com^
 ||bloginnet.in^
 ||blokchainsbit.com^
@@ -1133,6 +1134,7 @@ nocona..boots.com
 ||cuslinyu.online^
 ||customscool.com^
 ||customspresent.com^
+||cutpricecatalogue.com^
 ||cuty.io^
 ||cvlholding.co.uk^
 ||cvstrx.vip^
@@ -2531,6 +2533,7 @@ nocona..boots.com
 ||masterfulart.homes^
 ||matrixbit.net^
 ||matteomarcelli.com^
+||mavliker.net^
 ||mavocossycloud.com^
 ||maxcgi.com^
 ||maxices.com^
@@ -3011,6 +3014,7 @@ nocona..boots.com
 ||pagalopount.site^
 ||pageindustriesltd.com^
 ||pages.tempisite.com^
+||pagewings.com^
 ||pagmseguro.online^
 ||pagprotegido.online^
 ||painterlyco.homes^
@@ -3385,6 +3389,7 @@ nocona..boots.com
 ||revoget.com^
 ||revvedsupply.com^
 ||reward.treasuredao.com^
+||rewardrich.site^
 ||rewards.axon.net^
 ||rewards.mantle.co^
 ||rewards.verticalstudio.com^
