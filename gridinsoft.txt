@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.160053.2025
+! Version: 01.25.163503.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 16:00:53 UTC 2025
+! Last modified: Sat Jan 25 16:35:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4542
+! Number of entries: 4545
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1493,6 +1493,7 @@ nocona..boots.com
 ||eurovs.com^
 ||euroyalexpress.com^
 ||eusdt.net^
+||euvreu.online^
 ||ev8d5.bemobtrcks.com^
 ||evenflofeedingsuperstore.shop^
 ||event.spacex.net^
@@ -2581,6 +2582,7 @@ nocona..boots.com
 ||midly.in^
 ||midsizedcars.com^
 ||miespe.espe.edu.ec^
+||migflash.net^
 ||mightycleansolutions.com^
 ||migraine.massage.service.988.online^
 ||migration.dioneprotocol.pages.dev^
@@ -2662,6 +2664,7 @@ nocona..boots.com
 ||moonhaus.is^
 ||moonlightmint.co^
 ||moonmagic.com^
+||moontio.shop^
 ||moonwell.fl.xyz^
 ||mopspartneronline.com^
 ||morganenergyph.com^
