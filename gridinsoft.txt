@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.153049.2025
+! Version: 01.25.160053.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 15:30:49 UTC 2025
+! Last modified: Sat Jan 25 16:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4538
+! Number of entries: 4542
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -357,6 +357,7 @@ nocona..boots.com
 ||astradumps.com^
 ||astrocrestonunion.com^
 ||astroearning.com^
+||astropayminer.com^
 ||atamedya.shop^
 ||ataraxonline.net^
 ||atb14.com^
@@ -1168,6 +1169,7 @@ nocona..boots.com
 ||datempire.com^
 ||datezone.com^
 ||datmyx.online^
+||daviliem.shop^
 ||dawnfelt.com^
 ||daxpulse.com^
 ||daxtok.com^
@@ -2373,6 +2375,7 @@ nocona..boots.com
 ||live.uncody.site^
 ||livebroadcast518.online^
 ||liveccvv.mp^
+||livextop.com^
 ||llbeanfactoryoutlets.shop^
 ||lmhous.net^
 ||lmxx002.aspwyvsj.com^
@@ -4273,6 +4276,7 @@ nocona..boots.com
 ||wallstreetpepe.com^
 ||walmartnok.com^
 ||wananle.com^
+||wardbet.com^
 ||wardlushy.com^
 ||warehousesstores.com^
 ||warehouseudeals.co^
