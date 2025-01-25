@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.012732.2025
+! Version: 01.25.015630.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 01:27:32 UTC 2025
+! Last modified: Sat Jan 25 01:56:30 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4424
+! Number of entries: 4428
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1421,6 +1421,7 @@ nocona..boots.com
 ||epoiu.com^
 ||equallyto.com^
 ||equistak.com^
+||equitytrusttrading.com^
 ||eraw.top^
 ||ercdlp.com^
 ||erkulbicak.com^
@@ -1624,6 +1625,7 @@ nocona..boots.com
 ||foxcc.online^
 ||foxsofe.app.bond^
 ||fozan.online^
+||fpswiss.com^
 ||fr.tradingview.com^
 ||fra.grandado.com^
 ||fraganciapura.store^
@@ -1757,6 +1759,7 @@ nocona..boots.com
 ||globalflashco.com^
 ||globalfutureltd.com^
 ||globalnotelab.com^
+||globalsfundrecovery.com^
 ||globalsmartrade.com^
 ||globalswift.access.com^
 ||globe.trade.ltd^
@@ -2820,6 +2823,7 @@ nocona..boots.com
 ||oneck.vip^
 ||oneclickmart.online^
 ||onefarm.pro^
+||onehappynere.com^
 ||onerosey.com^
 ||onestopvalue44.info^
 ||ongalo.shop^
