@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.090056.2025
+! Version: 01.25.093057.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 09:00:56 UTC 2025
+! Last modified: Sat Jan 25 09:30:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4488
+! Number of entries: 4491
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -3021,6 +3021,7 @@ nocona..boots.com
 ||pepeunchained.io^
 ||peraplay.ph^
 ||percyverencecoin.com^
+||peregrinetravelwa.cloud.com^
 ||perfectideas.store^
 ||permblox.com^
 ||personalloans30096.online^
@@ -3623,6 +3624,7 @@ nocona..boots.com
 ||spec1trend8.shop^
 ||special.sale.sbs^
 ||specialtyvehiclesoftulsa.com^
+||sphadsworld.com^
 ||spincex.com^
 ||spinslot88won.online^
 ||spoorme.com^
@@ -4271,6 +4273,7 @@ nocona..boots.com
 ||web3.skdalo.xyz^
 ||web3app.org^
 ||web3bay.io^
+||web3duck.com^
 ||web3gpt.rest^
 ||web3gptify.com^
 ||web3hireme.com^
