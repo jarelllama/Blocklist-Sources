@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.200105.2025
+! Version: 01.25.203119.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 20:01:05 UTC 2025
+! Last modified: Sat Jan 25 20:31:19 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4583
+! Number of entries: 4587
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -323,6 +323,7 @@ nocona..boots.com
 ||argosnop.com^
 ||arirak.online^
 ||aris.mall.com^
+||arjantltd.com^
 ||ark888.vip^
 ||arkacoin.com^
 ||arkcypher.net^
@@ -1609,6 +1610,7 @@ nocona..boots.com
 ||finefestool.com^
 ||fineprint.online^
 ||finessedownload.com^
+||finlandowala.com^
 ||finmaza.com^
 ||fintechmexicofestival.com^
 ||firmdrexworld.com^
@@ -3027,6 +3029,7 @@ nocona..boots.com
 ||pallitfold.com^
 ||pallmetostasarmory.shop^
 ||palloda.com^
+||pally.info^
 ||palmesale.shop^
 ||palmettostatearmoryam.store^
 ||palyzoo.online^
@@ -3591,6 +3594,7 @@ nocona..boots.com
 ||shopsaltana.com^
 ||shopsavvysimpsons.com^
 ||shoptastic.io^
+||shopterralotus.com^
 ||shopwithpulse.store^
 ||shorturl.at^
 ||shotzon.com^
