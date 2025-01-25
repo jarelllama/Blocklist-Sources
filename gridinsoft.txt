@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.050047.2025
+! Version: 01.25.053151.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 05:00:47 UTC 2025
+! Last modified: Sat Jan 25 05:31:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4452
+! Number of entries: 4456
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -2385,6 +2385,7 @@ nocona..boots.com
 ||luminassociate.com^
 ||lunarbet.fun^
 ||lushyedge.com^
+||lusive.xyz^
 ||luujin.info^
 ||luvwehair.com^
 ||luxebazaar.online^
@@ -3504,6 +3505,7 @@ nocona..boots.com
 ||signalarchitects.cloud^
 ||silegx.org^
 ||silentun.com^
+||silverstone.ltd.com^
 ||silverstonebank.org^
 ||silviicia.com^
 ||silyka.com^
@@ -3816,6 +3818,7 @@ nocona..boots.com
 ||thetodayhealth.xyz^
 ||thetradehub.net^
 ||thetruthinfo.club^
+||theworkstep.com^
 ||thgworldwide.com^
 ||thirteenants.com^
 ||thndr.trade.com^
@@ -4116,6 +4119,7 @@ nocona..boots.com
 ||verpeliculasultra.com^
 ||verskyultimate.top^
 ||verticalvinvehicle.com^
+||vestrum.io^
 ||vetusgifts.com^
 ||vevorheater.com^
 ||vexunax.com^
