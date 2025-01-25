@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.021856.2025
+! Version: 01.25.024208.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 02:18:56 UTC 2025
+! Last modified: Sat Jan 25 02:42:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4430
+! Number of entries: 4436
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -747,6 +747,7 @@ nocona..boots.com
 ||c6s.net^
 ||ca.25uby.xin^
 ||cacaba.shop^
+||cacr883.com^
 ||cadogoa.shop^
 ||cafeciro.in^
 ||cailingxi.com^
@@ -2495,6 +2496,7 @@ nocona..boots.com
 ||metatrader5.com^
 ||metatradingai.co^
 ||metatransaction.org^
+||metatrendsmarket.org^
 ||methodeversohnungvonbeziehungen.online^
 ||metodolog.online^
 ||metropolidata.com^
@@ -3013,6 +3015,7 @@ nocona..boots.com
 ||piteos.com^
 ||pitrade.top^
 ||pityeon.com^
+||pivot.capital.ltd^
 ||pixbay.online^
 ||pkvn68.online^
 ||placeofgame.com^
@@ -3266,6 +3269,7 @@ nocona..boots.com
 ||res.ldrescdn.com^
 ||research.web3caff.com^
 ||researchchemicalskopen.net^
+||resminair.in^
 ||resortburg.online^
 ||retoswap.com^
 ||retrofxmarkets.com^
@@ -3370,6 +3374,7 @@ nocona..boots.com
 ||sarangpuradharamashala.online^
 ||sarkarisiksha.com^
 ||saryarkacargo.com^
+||satllcdubai.com^
 ||sato.castle.com^
 ||saturnwallet.app^
 ||sauconyfootwear.com^
@@ -3711,6 +3716,7 @@ nocona..boots.com
 ||tackleft.com^
 ||tads.baker.co.za^
 ||takchu.com^
+||talentloompro.de.com^
 ||talentstreamnet.com^
 ||talklikesm.best^
 ||taqwapublications.com^
