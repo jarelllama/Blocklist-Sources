@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.183341.2025
+! Version: 01.25.190059.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 18:33:41 UTC 2025
+! Last modified: Sat Jan 25 19:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4568
+! Number of entries: 4573
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1686,6 +1686,7 @@ nocona..boots.com
 ||freelibrary.ru^
 ||freesamplesprousa.com^
 ||freestar.buzz^
+||freetron.in^
 ||freeusdtforever.com^
 ||frienditeglobal.online^
 ||frontbulletin.com^
@@ -1751,6 +1752,7 @@ nocona..boots.com
 ||gdmining.site^
 ||gdqai.com^
 ||geassets.com^
+||geasta.com^
 ||gel9.online^
 ||gem.minelab.net^
 ||gemini.ai.net^
@@ -2073,6 +2075,7 @@ nocona..boots.com
 ||innserong.shop^
 ||insads.net^
 ||insadspro.com^
+||insidetraderalerts.com^
 ||insightdreams.online^
 ||inspectyourvin.com^
 ||inspirecollege.co.uk^
@@ -2288,6 +2291,7 @@ nocona..boots.com
 ||kupid.ai^
 ||kurtastudio.com^
 ||kxw69.com^
+||kyorescart.shop^
 ||l.qorder.com^
 ||labellovers.nl^
 ||laboratoire.osmose.com^
@@ -3987,6 +3991,7 @@ nocona..boots.com
 ||totalwellstore.com^
 ||totoolookaa88.online^
 ||touristcoves.com^
+||tourmarketing.world.com^
 ||towork.998.vip^
 ||towork158.com^
 ||toyota.mall.com^
