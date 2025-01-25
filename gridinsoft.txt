@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.080100.2025
+! Version: 01.25.083253.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 08:01:00 UTC 2025
+! Last modified: Sat Jan 25 08:32:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4477
+! Number of entries: 4483
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1874,6 +1874,7 @@ nocona..boots.com
 ||habmentsell.shop^
 ||hakim.media^
 ||handfull.shop^
+||handgripknuckle.com^
 ||hansen.oslo.com^
 ||happyvape.nl^
 ||happyvilleonline.com^
@@ -2513,6 +2514,7 @@ nocona..boots.com
 ||menrmbxdxextzwsom.shop^
 ||mercado.shop.com^
 ||merjen.online^
+||merrelldepot.com^
 ||messiah777.com^
 ||meta.cafe.net^
 ||metafight.airdrop.com^
@@ -2832,6 +2834,7 @@ nocona..boots.com
 ||oguiadossonhos15anos.online^
 ||ohatia.online^
 ||oilai.cc^
+||oiufds.com^
 ||ojrq.net^
 ||ok666.live^
 ||okjg13.icu^
@@ -2961,6 +2964,7 @@ nocona..boots.com
 ||palmettostatearmoryam.store^
 ||palyzoo.online^
 ||pandapremium.wtf^
+||pandoraiptv.net^
 ||panicocapentryfirewood.co.uk^
 ||paooi.shop^
 ||papdex.com^
@@ -3573,6 +3577,7 @@ nocona..boots.com
 ||smmflare.com^
 ||smmtribe.com^
 ||smokelifeshop.com^
+||smtpdeal.com^
 ||snapbuy.us^
 ||snapsave.app^
 ||sneakersfaclub.com^
@@ -3586,6 +3591,7 @@ nocona..boots.com
 ||sofiahalbofanimeworld.blogspot.nl^
 ||softgama.online^
 ||softontop.io^
+||softserve.vip.com^
 ||softwhimsy.com^
 ||sogoode.store^
 ||sohosquare.online^
