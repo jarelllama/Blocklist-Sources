@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.100103.2025
+! Version: 01.25.103211.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 10:01:03 UTC 2025
+! Last modified: Sat Jan 25 10:32:11 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4494
+! Number of entries: 4500
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -143,6 +143,7 @@ nocona..boots.com
 ||advetex.net^
 ||adwarerecoveryspecialist.com^
 ||adyenn.com^
+||adyptuniverse.com^
 ||aegisai.online^
 ||aero.ozgo.cc^
 ||aerodromefi.claims.app^
@@ -163,6 +164,7 @@ nocona..boots.com
 ||aicryptotradings.com^
 ||aicryptozone.com^
 ||aietftoken.com^
+||aifuturepro.io^
 ||aiignedfoundation.genesis.com^
 ||aiinvesttron.com^
 ||ainewslive.online^
@@ -627,6 +629,7 @@ nocona..boots.com
 ||blockdag.network^
 ||blofinm.com^
 ||bloginnet.in^
+||blokchainsbit.com^
 ||blombard.com^
 ||bloom.as^
 ||bloxevent.org^
@@ -830,6 +833,7 @@ nocona..boots.com
 ||cendyngroup.com^
 ||cenotor.com^
 ||centercontact.top^
+||centralworldmall.org^
 ||centralworldmall.vip^
 ||cenutix.com^
 ||cerabiapparels.com^
@@ -3999,6 +4003,7 @@ nocona..boots.com
 ||trustaipay.com^
 ||trustcoin.vip^
 ||trustcryptoprofit.com^
+||trusted.paysbtc.com^
 ||trustedvincheck.com^
 ||trustgreenfirm.live^
 ||trustphin.com^
@@ -4332,6 +4337,7 @@ nocona..boots.com
 ||winwin.bet^
 ||wise.casino.bet^
 ||wisemean.top^
+||wiseskins.com^
 ||witimselsolar.com^
 ||wittweidende.store^
 ||wizonex.com^
