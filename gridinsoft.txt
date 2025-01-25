@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.220057.2025
+! Version: 01.25.223327.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 22:00:57 UTC 2025
+! Last modified: Sat Jan 25 22:33:27 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4597
+! Number of entries: 4601
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -273,6 +273,7 @@ nocona..boots.com
 ||anshela.com^
 ||antasportsjapan.com^
 ||antautosurf.com^
+||anti.fraudcentre.com^
 ||antigellingeriesale.com^
 ||aouve.store^
 ||apanharwatch.com^
@@ -310,6 +311,7 @@ nocona..boots.com
 ||apps.aremining.app^
 ||apps.onebeyond.com^
 ||aprontify.de^
+||apsqze.info^
 ||ar68bc2h0d78l4saqd0.heldit.shop^
 ||arabwood.ir^
 ||arakaxabux.com^
@@ -2867,6 +2869,7 @@ nocona..boots.com
 ||nouert.com^
 ||novaspire.live^
 ||novaxmetals.com^
+||novazone53.top^
 ||noveraxcapital.com^
 ||nowidi.monopulses.com^
 ||nowmining.fun^
@@ -3017,6 +3020,7 @@ nocona..boots.com
 ||oxylersess.co.in^
 ||p000.ph^
 ||p2btradehubx.info^
+||paatoais.com^
 ||pacau.store^
 ||packetshare.io^
 ||padelofficiel.com^
