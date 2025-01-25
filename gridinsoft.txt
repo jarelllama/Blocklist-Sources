@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.173056.2025
+! Version: 01.25.180057.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 17:30:56 UTC 2025
+! Last modified: Sat Jan 25 18:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4553
+! Number of entries: 4562
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -500,6 +500,7 @@ nocona..boots.com
 ||biconomy.com^
 ||bielsko.biala.online^
 ||bigfat.chat^
+||biggetex.com^
 ||biglotsclosures.com^
 ||biglotsshoppingplaza.com^
 ||biglotsusa.sale.com^
@@ -593,6 +594,7 @@ nocona..boots.com
 ||bitly.net^
 ||bitmamining.com^
 ||bitmartvipp.com^
+||bitmertex.com^
 ||bitnest.me^
 ||bitnetx.cloud^
 ||bitpaymentstore.com^
@@ -2327,6 +2329,7 @@ nocona..boots.com
 ||legitdogemining.com^
 ||leisuwashtech.com^
 ||lekzhro.com^
+||lemofax.com^
 ||leniaudelectromenager.com^
 ||leonemicrofinance.com^
 ||leparis.club^
@@ -2725,6 +2728,7 @@ nocona..boots.com
 ||mypetlist.in^
 ||myplatform.top^
 ||myrbcdevice.secure.com^
+||myrewardslocker.com^
 ||myshroomiq.com^
 ||mysticstonesgallery.com^
 ||mytraveldaddy.us^
@@ -3603,6 +3607,7 @@ nocona..boots.com
 ||skandere.online^
 ||skhealthline.com^
 ||skidipapap.online^
+||skillcrafttech.com^
 ||skinrave.gg^
 ||skirtvibez.com^
 ||skresporti.shop^
@@ -4178,6 +4183,7 @@ nocona..boots.com
 ||valtenz.top^
 ||valueversion.com^
 ||valxcane.lol^
+||vanbet.top^
 ||vantique.net^
 ||varidhirathore.github.io^
 ||vasttrade.investments.org^
@@ -4379,6 +4385,7 @@ nocona..boots.com
 ||winbignowz92.info^
 ||windcapitalsinfo.us^
 ||windliy.com^
+||winerfex.com^
 ||winfy.top^
 ||winhges.com^
 ||winix.sbs^
@@ -4440,6 +4447,7 @@ nocona..boots.com
 ||wyy158.fun^
 ||x.coin.app^
 ||x.ua.com^
+||x2dice.top^
 ||xai.wallet.com^
 ||xai79a.com^
 ||xanarx.live^
@@ -4529,6 +4537,7 @@ nocona..boots.com
 ||zcode.system.online^
 ||zdigitalagencymt.cc^
 ||zeharris.online^
+||zelamex.com^
 ||zencenter.hu^
 ||zenhom.online^
 ||zenithdigital.xyz^
