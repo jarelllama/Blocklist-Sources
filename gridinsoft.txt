@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.124034.2025
+! Version: 01.25.130253.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 12:40:34 UTC 2025
+! Last modified: Sat Jan 25 13:02:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4514
+! Number of entries: 4517
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -831,6 +831,7 @@ nocona..boots.com
 ||ceipa.edu.co^
 ||celebprize.com^
 ||celeharm.com^
+||cencomall.org^
 ||cendyngroup.com^
 ||cenotor.com^
 ||centercontact.top^
@@ -2551,6 +2552,7 @@ nocona..boots.com
 ||mexfgr.com^
 ||mexicoour.com^
 ||mexismath.web.app^
+||mexxfrance.com^
 ||mgdsbbd.com^
 ||mgiga2.com^
 ||michaelkorseu.shop^
@@ -3376,6 +3378,7 @@ nocona..boots.com
 ||romsfun.com^
 ||ronbo.buzz^
 ||roofing.services.fb.online^
+||rootkaro.com^
 ||rosrtle.com^
 ||roveaskin.fr^
 ||royal.marines.online^
