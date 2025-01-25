@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.140049.2025
+! Version: 01.25.143057.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 14:00:49 UTC 2025
+! Last modified: Sat Jan 25 14:30:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4524
+! Number of entries: 4529
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -197,6 +197,7 @@ nocona..boots.com
 ||alcazie.in^
 ||aldozapatos.com^
 ||alectomedia.online^
+||alexquantify.com^
 ||alfagroup.inter.com^
 ||alfianacendani.online^
 ||algainhouse.com^
@@ -1105,6 +1106,7 @@ nocona..boots.com
 ||cryptoxwave.com^
 ||crystalglobalwealth.com^
 ||crystaliptv.shop^
+||csdiaod.store^
 ||csfpromocao2024.online^
 ||csoejgd.com^
 ||ctallnltd.com^
@@ -1742,6 +1744,7 @@ nocona..boots.com
 ||gemini.ai.net^
 ||geminin.s.com^
 ||geminiwealthwinnings.com^
+||gen.jut.su.com^
 ||generadorespro24.com^
 ||general.xchange.pro^
 ||genesisminingbot.com^
@@ -3609,6 +3612,7 @@ nocona..boots.com
 ||smmflare.com^
 ||smmtribe.com^
 ||smokelifeshop.com^
+||smoothingout.com^
 ||smtpdeal.com^
 ||snapbuy.us^
 ||snapsave.app^
@@ -3855,6 +3859,7 @@ nocona..boots.com
 ||thehygienefree.top^
 ||theinvisibleaffiliate.com^
 ||thejewelexch.com^
+||thelegacybuilderprogram.com^
 ||theleolab.online^
 ||theluckylk.com^
 ||themagaoffers.com^
