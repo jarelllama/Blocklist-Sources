@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.25.190059.2025
+! Version: 01.25.193053.2025
 ! Expires: 30 minutes
-! Last modified: Sat Jan 25 19:00:59 UTC 2025
+! Last modified: Sat Jan 25 19:30:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4573
+! Number of entries: 4578
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1204,6 +1204,7 @@ nocona..boots.com
 ||defiexplained.net^
 ||defikv.com^
 ||defineyeri.net^
+||defiproducts.vip^
 ||defisaver.foundation.com^
 ||defisaversecureapp.com^
 ||defisetstrategies.dev^
@@ -1520,6 +1521,7 @@ nocona..boots.com
 ||exorbit.online^
 ||expand.experts.com^
 ||expert.coinasset.com^
+||experttraderchanel.com^
 ||exploit.in^
 ||explore.share.work.com^
 ||expressdeh.cfd^
@@ -1908,6 +1910,7 @@ nocona..boots.com
 ||hakim.media^
 ||handfull.shop^
 ||handgripknuckle.com^
+||handytoolsale.com^
 ||hansen.oslo.com^
 ||happyvape.nl^
 ||happyvilleonline.com^
@@ -3497,6 +3500,7 @@ nocona..boots.com
 ||sciatica.massage.16.online^
 ||sciaticnerve.treatment.16.online^
 ||sclongteng.com^
+||scorpiotaurusleofire.top^
 ||scubaprosale.us.shop^
 ||scuffersespanatienda.com^
 ||sdwff.shop^
@@ -4059,6 +4063,7 @@ nocona..boots.com
 ||tronok.cloud^
 ||tronvortex.com^
 ||trophycase.cc^
+||troyers.info^
 ||trqw.store^
 ||tructi.com^
 ||trumpfair.io^
