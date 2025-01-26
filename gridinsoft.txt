@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.26.213037.2025
+! Version: 01.26.220101.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 26 21:30:37 UTC 2025
+! Last modified: Sun Jan 26 22:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4695
+! Number of entries: 4699
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1071,6 +1071,7 @@ nocona..boots.com
 ||cosmicgroundingcode.com^
 ||cosometaldetector.com^
 ||costexcorporation.com^
+||cosycustume.com^
 ||cotizadorsoat.segurosdelestado.com^
 ||couplemagnates.shop^
 ||couponxoo.com^
@@ -1649,6 +1650,7 @@ nocona..boots.com
 ||financehub.help^
 ||financeusdt.com^
 ||finder2loans.com^
+||findsomee.com^
 ||finefestool.com^
 ||fineprint.online^
 ||finessedownload.com^
@@ -2955,6 +2957,7 @@ nocona..boots.com
 ||obtuyme.com^
 ||obuchenie.taro.online^
 ||occreply.com^
+||oceangatemarket.com^
 ||oceanprotocol2.life^
 ||oceanprotocol2.xyz^
 ||oemete.com^
@@ -3050,6 +3053,7 @@ nocona..boots.com
 ||optionstradeshub.com^
 ||optnutritips.com^
 ||orange.co.uk^
+||orbitray.cc^
 ||orcaslicer.co^
 ||org.pay.9t03.cfd^
 ||origencapitalltd.com^
