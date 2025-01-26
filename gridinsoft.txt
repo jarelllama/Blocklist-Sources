@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.26.110104.2025
+! Version: 01.26.113048.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 26 11:01:04 UTC 2025
+! Last modified: Sun Jan 26 11:30:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4650
+! Number of entries: 4654
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -59,6 +59,7 @@ nocona..boots.com
 ||4uvize.com^
 ||500.intal.org^
 ||552059.com^
+||552155.com^
 ||552993.com^
 ||55redefined.online^
 ||5movierulz.gay^
@@ -1487,6 +1488,7 @@ nocona..boots.com
 ||eonsalestore.com^
 ||eosbit.com^
 ||epeweko.info^
+||epicchest.net^
 ||epoiu.com^
 ||equallyto.com^
 ||equistak.com^
@@ -2257,6 +2259,7 @@ nocona..boots.com
 ||kalpwd.vip^
 ||kapten178.com^
 ||karavvan.com^
+||karenmillenfrance.com^
 ||kariox.trade.net^
 ||kartio.live^
 ||kavvaweb3.netlify.app^
@@ -3335,6 +3338,7 @@ nocona..boots.com
 ||quantumdigitalmatket.com^
 ||quantums.financialsystem.com^
 ||quantumxexn.org^
+||quantvine.online^
 ||quantwise.ai^
 ||quarkaitrade.com^
 ||qubetics.com^
