@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.26.000154.2025
+! Version: 01.26.004516.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 26 00:01:54 UTC 2025
+! Last modified: Sun Jan 26 00:45:16 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4607
+! Number of entries: 4614
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -315,6 +315,7 @@ nocona..boots.com
 ||ar68bc2h0d78l4saqd0.heldit.shop^
 ||arabwood.ir^
 ||arakaxabux.com^
+||arbex.io^
 ||arbicryptos.com^
 ||arbitronix.io^
 ||arcmine.com^
@@ -429,6 +430,7 @@ nocona..boots.com
 ||bartrustfund.com^
 ||basatrade.net^
 ||base.fastbitl.cc^
+||base.ro.com^
 ||baseballdealusa.com^
 ||basedturbo.io^
 ||basennt.com^
@@ -1041,6 +1043,7 @@ nocona..boots.com
 ||coolbet.peru.online^
 ||cophasehome.com^
 ||corescientific.refine.com^
+||corigc.top^
 ||corporalgaming.com^
 ||corseplongeea.com^
 ||cosmayae.com^
@@ -1445,6 +1448,7 @@ nocona..boots.com
 ||empowerforward.cy^
 ||emttrading.com^
 ||emuxev.com^
+||enaviia.com^
 ||enchantedcubes.com^
 ||enclarhealth.com^
 ||encomendas.importacao.online^
@@ -1701,6 +1705,7 @@ nocona..boots.com
 ||freetron.in^
 ||freeusdtforever.com^
 ||frienditeglobal.online^
+||friendlyrussianblue.com^
 ||frontbulletin.com^
 ||frugalflix.com^
 ||fruit77.one^
@@ -3306,6 +3311,7 @@ nocona..boots.com
 ||qualityresells.shop^
 ||quantconnect.ai.com^
 ||quantumdigitalmatket.com^
+||quantums.financialsystem.com^
 ||quantumxexn.org^
 ||quantwise.ai^
 ||quarkaitrade.com^
@@ -4477,6 +4483,7 @@ nocona..boots.com
 ||wristpointshop.com^
 ||writerless.online^
 ||wtcentral.com^
+||wtemerityv.monster^
 ||wtgu.store^
 ||wusveso.vip^
 ||ww7.lemoniada.online^
