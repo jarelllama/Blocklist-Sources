@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.26.223124.2025
+! Version: 01.26.230049.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 26 22:31:24 UTC 2025
+! Last modified: Sun Jan 26 23:00:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4700
+! Number of entries: 4707
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1139,6 +1139,7 @@ nocona..boots.com
 ||cryptoplace.site^
 ||cryptoplanetsx.net^
 ||cryptorecovers.com^
+||cryptorecoverysquad.com^
 ||cryptosgx.com^
 ||cryptoshieldx.com^
 ||cryptotabfarm.com^
@@ -1271,6 +1272,7 @@ nocona..boots.com
 ||detransp.digital^
 ||deutsche.schnelleaktivierung160125.com^
 ||devcrack.org^
+||devineprotocol.com^
 ||devzone2.online^
 ||dewbots.com^
 ||dewsenergyconstruction.com^
@@ -1456,6 +1458,7 @@ nocona..boots.com
 ||elixrium.online^
 ||ellamode.nl^
 ||elleynur.com^
+||elluminex.com^
 ||elmoerc.com^
 ||elonactivemarket.com^
 ||elonbet.com^
@@ -1796,6 +1799,7 @@ nocona..boots.com
 ||game.zone.pro^
 ||gamefabrique.com^
 ||gamesfull.app^
+||gamesgx.net^
 ||gameshopfinaldeals.com^
 ||gameslux.store^
 ||gametop.bet^
@@ -2119,6 +2123,7 @@ nocona..boots.com
 ||immediateexalgoai.com^
 ||immediatepump.com^
 ||importantstuff.online^
+||improvementy.com^
 ||in.tmwn.online^
 ||inamksa.icu^
 ||incart.co.za^
@@ -2386,6 +2391,7 @@ nocona..boots.com
 ||lavishsupply.net^
 ||law.blade.solutions.com^
 ||lawnagain.com^
+||lbl07.com^
 ||le3go.com^
 ||leadadream.top^
 ||leadership.development.online^
@@ -2644,6 +2650,7 @@ nocona..boots.com
 ||meta.cafe.net^
 ||metafight.airdrop.com^
 ||metamaticoin.org^
+||metamaxim.site^
 ||metascorex.com^
 ||metatrader5.com^
 ||metatradingai.co^
