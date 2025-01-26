@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.26.203050.2025
+! Version: 01.26.210051.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 26 20:30:50 UTC 2025
+! Last modified: Sun Jan 26 21:00:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4687
+! Number of entries: 4692
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -165,6 +165,7 @@ nocona..boots.com
 ||ai.kraken2025.com^
 ||ai.pool.trading^
 ||ai.trades.co^
+||aicryptofinancepro.com^
 ||aicryptotradings.com^
 ||aicryptozone.com^
 ||aietftoken.com^
@@ -458,6 +459,7 @@ nocona..boots.com
 ||beaucham.com^
 ||bedtige.top^
 ||beedermaus.com^
+||beetlejuice.2.online^
 ||befilabs.space^
 ||behque.click^
 ||beijingwatches.com^
@@ -1706,6 +1708,7 @@ nocona..boots.com
 ||fortune.engine.com^
 ||fortuneinterest.com^
 ||forums.socialmediagirls.com^
+||forygood.com^
 ||foryouheart.com^
 ||fotytv.com^
 ||foundationrepair0407.online^
@@ -1912,6 +1915,7 @@ nocona..boots.com
 ||gowenuy.info^
 ||gowfbfr.shop^
 ||gpt.definity.app2.net^
+||gpt2025.vip^
 ||gptaiminds.com^
 ||gptdefinityai.app.com^
 ||gptexcelacademycl.com^
@@ -2306,6 +2310,7 @@ nocona..boots.com
 ||kirintpay.com^
 ||kishka.co^
 ||kissasiantv.cx^
+||kisslove.com^
 ||kissminis.com^
 ||kisuort.shop^
 ||kitculture.store^
