@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.26.020156.2025
+! Version: 01.26.024349.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 26 02:01:56 UTC 2025
+! Last modified: Sun Jan 26 02:43:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4621
+! Number of entries: 4626
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -883,6 +883,7 @@ nocona..boots.com
 ||chocolitodoraemonhunt.com^
 ||christianlouboutinmexicos.top^
 ||christopherchaves.com^
+||chrossx.com^
 ||churrasconoap.com.br^
 ||ciarfex.com^
 ||cicc.ink^
@@ -2840,6 +2841,7 @@ nocona..boots.com
 ||nextcrypto.top^
 ||nextshop.fun^
 ||nexusaaso5kxt75bigvtixw63dot3mnthl3pwqxg4d6tlj5yfqjuviid.online^
+||nexustvonline.com^
 ||nfbu.store^
 ||nfs.eletronica.dezembro.com^
 ||nfs.fazenda.empresas.com^
@@ -3987,6 +3989,7 @@ nocona..boots.com
 ||tionoc.net^
 ||tistokmall.pro^
 ||titan13.com^
+||tjsummer.com^
 ||tkshophr.com^
 ||tkshopp.vip^
 ||tkxxtk.com^
@@ -4106,6 +4109,7 @@ nocona..boots.com
 ||troyers.info^
 ||trqw.store^
 ||tructi.com^
+||truecareliving.online^
 ||trumpfair.io^
 ||trumpmeme.info^
 ||trumptokenofficial.com^
@@ -4312,6 +4316,7 @@ nocona..boots.com
 ||vitadex.org^
 ||vitalpetlife.com^
 ||vitosync.com^
+||viviennewestwoodoutlets.com^
 ||viviokko.com^
 ||vivivs.com^
 ||vizivu.one^
