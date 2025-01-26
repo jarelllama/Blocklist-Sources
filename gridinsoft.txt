@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.26.180059.2025
+! Version: 01.26.183437.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 26 18:00:59 UTC 2025
+! Last modified: Sun Jan 26 18:34:37 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4672
+! Number of entries: 4674
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1705,6 +1705,7 @@ nocona..boots.com
 ||fotytv.com^
 ||foundationrepair0407.online^
 ||foundationrepair3009.online^
+||foundators.x.click^
 ||foundryusa.com^
 ||foxcc.online^
 ||foxsofe.app.bond^
@@ -4585,6 +4586,7 @@ nocona..boots.com
 ||xrpofficial.reward.com^
 ||xsdvdeal.store^
 ||xtb.com^
+||xtoken.presale.com^
 ||xtraexcharge.com^
 ||xtremediscount.net^
 ||xtremeiptv.online^
