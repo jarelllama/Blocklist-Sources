@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.26.093050.2025
+! Version: 01.26.100054.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 26 09:30:50 UTC 2025
+! Last modified: Sun Jan 26 10:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4642
+! Number of entries: 4645
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1050,6 +1050,7 @@ nocona..boots.com
 ||cookies.1.zuregg.space^
 ||coolbet.peru.online^
 ||cophasehome.com^
+||corcard.shop^
 ||corescientific.refine.com^
 ||corigc.top^
 ||corporalgaming.com^
@@ -1398,6 +1399,7 @@ nocona..boots.com
 ||ecamai.com^
 ||eccoshoes.life^
 ||eclatlumiere.com^
+||ecoalfspain.com^
 ||ecofreshmarket.online^
 ||ecom.usdt.online^
 ||ecomsamm.store^
@@ -3768,6 +3770,7 @@ nocona..boots.com
 ||stakgpdgd.com^
 ||starcici.com^
 ||staregyptgame.online^
+||stargazecapital.co^
 ||starkstrade.com^
 ||starofliberty.online^
 ||starplancrypto.com^
