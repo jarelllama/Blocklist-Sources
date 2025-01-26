@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.26.200050.2025
+! Version: 01.26.203050.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 26 20:00:50 UTC 2025
+! Last modified: Sun Jan 26 20:30:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4683
+! Number of entries: 4687
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -538,6 +538,7 @@ nocona..boots.com
 ||binbulin.com^
 ||bincoinlux.com^
 ||bine.mails.top^
+||binfince.com^
 ||bingo.ba^
 ||binjohn.com^
 ||binomo.com^
@@ -2884,6 +2885,7 @@ nocona..boots.com
 ||nft.fantasyapp.pages.dev^
 ||nftcolo.com^
 ||nicedelicate.com^
+||nicevps.net^
 ||nicliquid.com^
 ||nicolcssubreville.shop^
 ||niffyhub.com^
@@ -3216,6 +3218,7 @@ nocona..boots.com
 ||polpick.io^
 ||popmartoficial.com^
 ||popmartonline.my.asia^
+||popwork.net^
 ||pornxp.quest^
 ||portaldedicasonline.com^
 ||portumltd.com^
@@ -4506,6 +4509,7 @@ nocona..boots.com
 ||winner.com^
 ||winplay.online^
 ||winsdonechipper.com^
+||wintronrtx.com^
 ||winuno55.com^
 ||winviag.com^
 ||winwin.bet^
