@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.26.030253.2025
+! Version: 01.26.033243.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 26 03:02:53 UTC 2025
+! Last modified: Sun Jan 26 03:32:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4630
+! Number of entries: 4632
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -902,6 +902,7 @@ nocona..boots.com
 ||cit.invests.com^
 ||cite.architecture.org^
 ||citibanamex.serv00.net^
+||citrusgraphics.com.au^
 ||cituuyed.com^
 ||citxion.top^
 ||civilwarcrisis.com^
@@ -2454,6 +2455,7 @@ nocona..boots.com
 ||lovemyparfum.com^
 ||loverzsk.best^
 ||lowandeasylending.com^
+||lowhofour.life^
 ||loyaltyiqtrk.com^
 ||lpr.articlefindpro.com^
 ||lrefraine.lol^
