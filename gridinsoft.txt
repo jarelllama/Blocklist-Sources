@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.26.024349.2025
+! Version: 01.26.030253.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 26 02:43:49 UTC 2025
+! Last modified: Sun Jan 26 03:02:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4626
+! Number of entries: 4630
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1807,6 +1807,7 @@ nocona..boots.com
 ||ggff.net^
 ||gggwg.online^
 ||gh.rcgolds.com^
+||ghomesmart.com^
 ||ghsgdkag.com^
 ||ghsyps.ca^
 ||giemol.com^
@@ -3163,6 +3164,7 @@ nocona..boots.com
 ||ploise.com^
 ||plurao.com^
 ||plusdiscountedproperties.xyz^
+||plusindig.info^
 ||plustraderspro.net^
 ||pmcdiecast.com^
 ||pnees.com^
@@ -3740,6 +3742,7 @@ nocona..boots.com
 ||sportsalpin.com^
 ||spotifypremiumapk.com.co^
 ||spraisy.live^
+||springcapipro.com^
 ||springfieldarmoryarms.com^
 ||sprunkiphase.online^
 ||srchfst.com^
@@ -4510,6 +4513,7 @@ nocona..boots.com
 ||wwwwscsb500comios2ser.wscbs.vip^
 ||wyy158.fun^
 ||x.coin.app^
+||x.tokens.live^
 ||x.ua.com^
 ||x2dice.top^
 ||xai.wallet.com^
