@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.26.100054.2025
+! Version: 01.26.103234.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 26 10:00:54 UTC 2025
+! Last modified: Sun Jan 26 10:32:34 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4645
+! Number of entries: 4649
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1918,6 +1918,7 @@ nocona..boots.com
 ||gten956.vip^
 ||gtkjean.com^
 ||guabsons.com^
+||guaranteeswift.com^
 ||guardwallet.io^
 ||guavarina.com.br^
 ||guejoin.com^
@@ -2397,6 +2398,7 @@ nocona..boots.com
 ||lifeproofsales.com^
 ||lifesgoood.space^
 ||lifilogo.com^
+||liftepic.com^
 ||light.casino2024.online^
 ||light.concept.org^
 ||light.trading.maximarkets.mobi^
@@ -4000,6 +4002,7 @@ nocona..boots.com
 ||timberlandmx.com.mx^
 ||timestaking.me^
 ||timestrendd.com^
+||timexespana.com.es^
 ||tinfoil.io^
 ||tiny.one^
 ||tioctrically.com^
@@ -4565,6 +4568,7 @@ nocona..boots.com
 ||xufuji.xyz^
 ||xvkdfashion.shop^
 ||xworld.gg^
+||xxxdan.com^
 ||xyzverse.io^
 ||yangcong.info^
 ||yankeewarehouse.co^
