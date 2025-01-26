@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.26.230049.2025
+! Version: 01.26.233046.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 26 23:00:49 UTC 2025
+! Last modified: Sun Jan 26 23:30:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4707
+! Number of entries: 4711
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -367,6 +367,7 @@ nocona..boots.com
 ||astrocrestonunion.com^
 ||astroearning.com^
 ||astropayminer.com^
+||asusboard.cn^
 ||atamedya.shop^
 ||ataraxonline.net^
 ||atb14.com^
@@ -2225,6 +2226,7 @@ nocona..boots.com
 ||jbnil.top^
 ||jdmax88.com^
 ||jerseyeugee.com^
+||jesellear.best^
 ||jessemade.es^
 ||jetmarssofertas.online^
 ||jewelrygiftcenter.com^
@@ -2754,6 +2756,7 @@ nocona..boots.com
 ||monipoints.com^
 ||monnromall.com^
 ||monofilsawali.top^
+||monsterhighhaven.shop^
 ||moodefine.com^
 ||moonfareinvest.com^
 ||moonflexmagement.com^
@@ -4562,6 +4565,7 @@ nocona..boots.com
 ||worldofhurtonline.com^
 ||worldproductssprogram.com^
 ||worldsdates.com^
+||worldtradex.email^
 ||worldwardrobe.shop^
 ||worstcase.online^
 ||wowcams.com^
