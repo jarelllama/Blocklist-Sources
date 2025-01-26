@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.26.012757.2025
+! Version: 01.26.020156.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 26 01:27:57 UTC 2025
+! Last modified: Sun Jan 26 02:01:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4616
+! Number of entries: 4621
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1470,6 +1470,7 @@ nocona..boots.com
 ||entreur.com^
 ||entrustify.co.in^
 ||enviosrastreios.online^
+||enzabit.com^
 ||eobot.net^
 ||eonsalestore.com^
 ||eosbit.com^
@@ -1499,6 +1500,7 @@ nocona..boots.com
 ||esysgb.com^
 ||etdase.com^
 ||eterminal.net^
+||ethereum.defi.vip^
 ||ethjpn.com^
 ||etoro66.vip^
 ||eu.tamaris.com^
@@ -1894,6 +1896,7 @@ nocona..boots.com
 ||gricop.com^
 ||griefquotes.xyz^
 ||grindsoft.com^
+||grmontrewatches.com^
 ||growthcapinc.com^
 ||growthsedges.online^
 ||grunsguru.com^
@@ -2193,6 +2196,7 @@ nocona..boots.com
 ||jobforge.ca^
 ||jobmarketwatch.com^
 ||joeyritchie.shop^
+||jogostorrent.online^
 ||johncrestani.online.com^
 ||johnhearingaids.com^
 ||join.lavishivy.com^
@@ -3695,6 +3699,7 @@ nocona..boots.com
 ||sofiahalbofanimeworld.blogspot.nl^
 ||softgama.online^
 ||softontop.io^
+||softserve.vip.click^
 ||softserve.vip.com^
 ||softwhimsy.com^
 ||sogoode.store^
