@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.26.183437.2025
+! Version: 01.26.190054.2025
 ! Expires: 30 minutes
-! Last modified: Sun Jan 26 18:34:37 UTC 2025
+! Last modified: Sun Jan 26 19:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4674
+! Number of entries: 4678
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -178,6 +178,7 @@ nocona..boots.com
 ||airdrop.flock.com^
 ||airdropclaims.netlify.app^
 ||airdropusdt.shop^
+||airfiltermask.shop^
 ||airobotcn.com^
 ||airobotplatform888.com^
 ||airobotsmart.net^
@@ -811,6 +812,7 @@ nocona..boots.com
 ||capitaltradestartlimited.com^
 ||capitalvisionaryfx.com^
 ||capminespace.com^
+||captcha.club^
 ||captchaoutil.site^
 ||capvpartnersltd.com^
 ||car.zhouznq.cn^
@@ -1277,6 +1279,7 @@ nocona..boots.com
 ||dibitcoin.com^
 ||dickies.com.es^
 ||dickssportinggoodsholiday.com^
+||dickssportinggoodsoutlets.shop^
 ||dickssportingofficial.com^
 ||differentgeneration.online^
 ||digestionscience.com^
@@ -3225,6 +3228,7 @@ nocona..boots.com
 ||praytech.ma^
 ||precedings.shop^
 ||precisionbevel.com^
+||preferablyagicent.online.com^
 ||preferee.pharmacie.fr^
 ||premium.iptvpro.com^
 ||premiumbankleyfx.com^
