@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.27.070109.2025
+! Version: 01.27.073055.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 27 07:01:09 UTC 2025
+! Last modified: Mon Jan 27 07:30:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4747
+! Number of entries: 4750
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -751,6 +751,7 @@ nocona..boots.com
 ||btcminer.tech^
 ||btcotcvip.net^
 ||btcpaypartners.com^
+||btctransferwallet.com^
 ||btcvipotc.com^
 ||btfxtraders.com^
 ||btradescenter.com^
@@ -898,6 +899,7 @@ nocona..boots.com
 ||chassoutlel.shop^
 ||cheapammoaustralia.com^
 ||cheapertoolparts.com^
+||cheapproducts.online^
 ||chemicaldepotllc.com^
 ||chemicaltiger.com^
 ||cheqseep.online^
@@ -2491,6 +2493,7 @@ nocona..boots.com
 ||livebroadcast518.online^
 ||liveccvv.mp^
 ||livextop.com^
+||lixtrade.com^
 ||llbeanfactoryoutlets.shop^
 ||lmhous.net^
 ||lmxx002.aspwyvsj.com^
