@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.27.040100.2025
+! Version: 01.27.043440.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 27 04:01:00 UTC 2025
+! Last modified: Mon Jan 27 04:34:40 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4731
+! Number of entries: 4734
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1844,6 +1844,7 @@ nocona..boots.com
 ||getrumpmemes.cc^
 ||getrumpmemes.org^
 ||getshyne.com^
+||getsightcarefast.net^
 ||getslimbrew.com^
 ||getsoothesmooth.com^
 ||getstrumpmemes.lol^
@@ -3448,6 +3449,7 @@ nocona..boots.com
 ||rect.reward.glacier.website^
 ||redbeautylife.com^
 ||reddit.streams.online^
+||redeemabi.netlify.app^
 ||redeemai.site^
 ||redgol.cl^
 ||redomax.online^
@@ -4599,6 +4601,7 @@ nocona..boots.com
 ||wusveso.im^
 ||wusveso.vip^
 ||ww7.lemoniada.online^
+||wwerular.shop^
 ||wwtchain.top^
 ||www.6546.com^
 ||www.apeswap.org^
