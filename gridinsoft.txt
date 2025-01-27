@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.27.170101.2025
+! Version: 01.27.173159.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 27 17:01:01 UTC 2025
+! Last modified: Mon Jan 27 17:31:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4797
+! Number of entries: 4801
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -318,6 +318,7 @@ nocona..boots.com
 ||appanalytics.online^
 ||appdevelopmenthouse.com^
 ||appengroupltd.com^
+||appic.events^
 ||appj.online^
 ||appleusa.tk^
 ||apps.aremining.app^
@@ -594,6 +595,7 @@ nocona..boots.com
 ||bitcoinsi.com^
 ||bitcoinwell.com^
 ||bitcoinx.app.com^
+||bitcoinxact.com^
 ||bitconemine.com^
 ||bitdolphx.com^
 ||bitdouble.net^
@@ -3979,6 +3981,7 @@ nocona..boots.com
 ||surveymonkey.com^
 ||survoom.com^
 ||survyhelp.com^
+||suspectplainrevulsion.com^
 ||svip.work46.com^
 ||swapcrypto.exchange^
 ||swapmonero.exchange^
@@ -4673,6 +4676,7 @@ nocona..boots.com
 ||www1.thepiratebay3.to^
 ||www2.rarbggo.to^
 ||wwwwscsb500comios2ser.wscbs.vip^
+||wykkselling.online^
 ||wyy158.fun^
 ||x.coin.app^
 ||x.tokens.live^
