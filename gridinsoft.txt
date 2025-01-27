@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.27.050058.2025
+! Version: 01.27.053241.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 27 05:00:58 UTC 2025
+! Last modified: Mon Jan 27 05:32:41 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4734
+! Number of entries: 4738
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -216,6 +216,7 @@ nocona..boots.com
 ||alleycatsol.xyz^
 ||allianceroyals.com^
 ||allicross.online^
+||allinonemarket.online^
 ||alljerseys.io^
 ||allstarhomeandgarden.za.com^
 ||alltrainerspc.com^
@@ -957,6 +958,7 @@ nocona..boots.com
 ||clickmhtwages.buzz^
 ||clickppuwages.buzz^
 ||clickwages.buzz^
+||clickwfzwages.buzz^
 ||clickyfwprize.buzz^
 ||clids.mastercasc.top^
 ||clientesparcel.dhl.es^
@@ -1231,6 +1233,7 @@ nocona..boots.com
 ||decentralizedtek.pages.dev^
 ||decorhome.arg.store^
 ||deenext.com^
+||deepcoinf.com^
 ||deepnude.to^
 ||deepnudeai.online^
 ||deepweb.fixedmatches.com^
@@ -2507,6 +2510,7 @@ nocona..boots.com
 ||loreall.gp.top^
 ||lorealwear.com^
 ||loryvel.com^
+||losthorizonoutdoorgear.shop^
 ||lotesycasaspro.online^
 ||lotto.bw.de^
 ||lottobet.online^
