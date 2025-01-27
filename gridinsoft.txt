@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.27.053241.2025
+! Version: 01.27.060103.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 27 05:32:41 UTC 2025
+! Last modified: Mon Jan 27 06:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4738
+! Number of entries: 4741
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -576,6 +576,7 @@ nocona..boots.com
 ||bitblockasset.com^
 ||bitcapital.online^
 ||bitcexpro.vip^
+||bitcoin.700eprex.com^
 ||bitcoin.laundry2.net^
 ||bitcoin.pays.com^
 ||bitcoinfreemining.com^
@@ -2518,6 +2519,7 @@ nocona..boots.com
 ||lourdeswestleyhawk.org^
 ||lovdomnotiallus.top^
 ||lovejabsk.click^
+||lovejili21.com^
 ||lovelyfrenchbulldogs.com^
 ||lovelymeds.com^
 ||lovemyparfum.com^
@@ -3075,6 +3077,7 @@ nocona..boots.com
 ||openmonero.co^
 ||opennetworklink.co.in^
 ||openseabids.io^
+||optimalcapitalco.com^
 ||optimaldatabases.com^
 ||optimumhackersrecovery.com^
 ||optimumsmax.com^
