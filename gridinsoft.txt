@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.27.213127.2025
+! Version: 01.27.220054.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 27 21:31:27 UTC 2025
+! Last modified: Mon Jan 27 22:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4826
+! Number of entries: 4829
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -854,6 +854,7 @@ nocona..boots.com
 ||careerboostconsultants.com^
 ||careerchangerstrading.club^
 ||careeredge.online^
+||carethy.at^
 ||cargoloop.shop^
 ||carhartoutlet.store^
 ||carhartt.wipeu.shop^
@@ -1576,6 +1577,7 @@ nocona..boots.com
 ||etdase.com^
 ||eterminal.net^
 ||ethereum.defi.vip^
+||ethereum.smart.com^
 ||ethjpn.com^
 ||etoro66.vip^
 ||eu.tamaris.com^
@@ -4550,6 +4552,7 @@ nocona..boots.com
 ||watch.us.live^
 ||watch24hubs.store^
 ||watchivo.shop^
+||watchseries.bar^
 ||wave.trader.com^
 ||wavytalkza.store^
 ||waxx.network^
