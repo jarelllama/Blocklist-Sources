@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.27.200114.2025
+! Version: 01.27.203145.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 27 20:01:14 UTC 2025
+! Last modified: Mon Jan 27 20:31:45 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4813
+! Number of entries: 4818
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -221,6 +221,7 @@ nocona..boots.com
 ||allicross.online^
 ||allinonemarket.online^
 ||alljerseys.io^
+||allsmm.net^
 ||allstarhomeandgarden.za.com^
 ||alltrainerspc.com^
 ||allyeder.com^
@@ -1789,6 +1790,7 @@ nocona..boots.com
 ||freestar.buzz^
 ||freetron.in^
 ||freeusdtforever.com^
+||freexstar.top^
 ||frienditeglobal.online^
 ||friendlyrussianblue.com^
 ||frontbulletin.com^
@@ -2832,6 +2834,7 @@ nocona..boots.com
 ||morganenergyph.com^
 ||mormark.eu^
 ||mostirex.com^
+||motoboss.shop^
 ||motorwolt.com^
 ||movenzo.com^
 ||movie123full.com^
@@ -3844,6 +3847,7 @@ nocona..boots.com
 ||snjalltaeki.store^
 ||snowdaycalculator.online^
 ||soankelle.vip^
+||soc.proof.su^
 ||soccerlive.app^
 ||sociedaduniversal.com^
 ||socioplanet.com^
@@ -4773,6 +4777,7 @@ nocona..boots.com
 ||yts.skin^
 ||yunpso.com^
 ||yupoo.vip^
+||yusey.website^
 ||yyyu.0001.vip^
 ||yzonaautomotive.shop^
 ||z2u.com^
