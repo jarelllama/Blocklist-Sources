@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.27.133302.2025
+! Version: 01.27.140102.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 27 13:33:02 UTC 2025
+! Last modified: Mon Jan 27 14:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4778
+! Number of entries: 4782
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -407,6 +407,7 @@ nocona..boots.com
 ||authtracking.com^
 ||authwalletsolutionetherdapp.app^
 ||auto.downloads.com^
+||autofaucet.dutchycorp.space^
 ||automegaoption.com^
 ||autonorte.online^
 ||autotracksolution.com^
@@ -834,6 +835,7 @@ nocona..boots.com
 ||capitalsprings.info^
 ||capitaltradestartlimited.com^
 ||capitalvisionaryfx.com^
+||capitus.net^
 ||capminespace.com^
 ||captcha.club^
 ||captchaoutil.site^
@@ -2507,6 +2509,7 @@ nocona..boots.com
 ||livebroadcast518.online^
 ||liveccvv.mp^
 ||livextop.com^
+||livraison.interrompu.com^
 ||lixtrade.com^
 ||llbeanfactoryoutlets.shop^
 ||lmhous.net^
@@ -4319,6 +4322,7 @@ nocona..boots.com
 ||unitedparcelexpress.online^
 ||universalwealth.org^
 ||uniwin.top^
+||unlockcontent.org^
 ||unltee.com^
 ||unnatitoys.com^
 ||unvaulted.coomer.party^
