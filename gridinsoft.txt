@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.27.153057.2025
+! Version: 01.27.160110.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 27 15:30:57 UTC 2025
+! Last modified: Mon Jan 27 16:01:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4786
+! Number of entries: 4791
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -350,6 +350,7 @@ nocona..boots.com
 ||arnavix.online^
 ||ars88safe.online^
 ||artabusiness.com^
+||artchains.org^
 ||artosnomics.com^
 ||artsyfame.homes^
 ||artwareworld.com^
@@ -993,6 +994,7 @@ nocona..boots.com
 ||cloudgateflowershop.com^
 ||cloudgeardesign.com^
 ||cloudimpactx.com^
+||cloudlessdatapowerful.com^
 ||cloudsoft.ae^
 ||cloudstream.pro^
 ||cloverstone.ek.com^
@@ -2213,6 +2215,7 @@ nocona..boots.com
 ||iotexai.com^
 ||ip.hz.com^
 ||ipctd.online^
+||ipfs.io^
 ||iprimetv.store^
 ||iptvkaufen24.de^
 ||iptvnexus.com^
@@ -3584,6 +3587,7 @@ nocona..boots.com
 ||ronbo.buzz^
 ||roofing.services.fb.online^
 ||rootkaro.com^
+||ropaioutlet.shop^
 ||rosrtle.com^
 ||roveaskin.fr^
 ||royal.marines.online^
@@ -4681,6 +4685,7 @@ nocona..boots.com
 ||xewios.com^
 ||xfnity.id8743.info^
 ||xfnwnw.com^
+||xgame.usdt.com^
 ||xilsen.com^
 ||ximqijiu.online^
 ||ximqiwu.online^
