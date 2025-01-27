@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.27.012745.2025
+! Version: 01.27.020106.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 27 01:27:45 UTC 2025
+! Last modified: Mon Jan 27 02:01:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4716
+! Number of entries: 4723
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -388,6 +388,7 @@ nocona..boots.com
 ||aubuds.com^
 ||aukweb3.com^
 ||auraexchangehub.com^
+||auroaespana.online^
 ||auroracherie.com^
 ||ausdedaoubaandou.gdyxlxxh.com^
 ||austeretv.com^
@@ -1663,6 +1664,7 @@ nocona..boots.com
 ||finlandowala.com^
 ||finmaza.com^
 ||fintechmexicofestival.com^
+||finzennews.com^
 ||firmdrexworld.com^
 ||firstwinbet.online^
 ||fissmarket.com^
@@ -1730,6 +1732,7 @@ nocona..boots.com
 ||foxsofe.app.bond^
 ||fozan.online^
 ||fpswiss.com^
+||fqafq.shop^
 ||fr.tradingview.com^
 ||fra.grandado.com^
 ||fraganciapura.store^
@@ -1814,6 +1817,7 @@ nocona..boots.com
 ||gdqai.com^
 ||geassets.com^
 ||geasta.com^
+||geekscoin.com^
 ||gel9.online^
 ||gem.minelab.net^
 ||gemini.ai.net^
@@ -3086,6 +3090,7 @@ nocona..boots.com
 ||out.parks.es.com^
 ||outfitexpress.online^
 ||outfitloft.com^
+||outfittersmountainhardwear.com^
 ||outlook.8i7.net^
 ||outlook.gamial.com^
 ||outputts.shop^
@@ -3638,6 +3643,7 @@ nocona..boots.com
 ||semello.fr^
 ||semphasize.com^
 ||semw.store^
+||senarah.com^
 ||sensernion.vip^
 ||senso.cat^
 ||senteted.com^
@@ -4182,6 +4188,7 @@ nocona..boots.com
 ||tronlok.tv^
 ||tronminingfarm.com^
 ||tronok.cloud^
+||tronok.x.app^
 ||tronvortex.com^
 ||trophycase.cc^
 ||troyers.info^
