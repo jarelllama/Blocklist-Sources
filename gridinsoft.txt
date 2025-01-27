@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.27.033322.2025
+! Version: 01.27.040100.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 27 03:33:22 UTC 2025
+! Last modified: Mon Jan 27 04:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4727
+! Number of entries: 4731
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -106,6 +106,7 @@ nocona..boots.com
 ||ac8.w1t4b8.com^
 ||acard50.ru^
 ||acceleratew.com^
+||access.abstract.com^
 ||accordsatisfy.com^
 ||account.cardplus.cc^
 ||accounts.avanquest.com^
@@ -1406,6 +1407,7 @@ nocona..boots.com
 ||earringssale.com^
 ||easefuldreams.com^
 ||easelayer.co^
+||easybtc.mining.com^
 ||easycryptoblog.com^
 ||easymintminer.com^
 ||easyrcashdae.buzz^
@@ -1486,6 +1488,7 @@ nocona..boots.com
 ||empowerforward.cy^
 ||emttrading.com^
 ||emuxev.com^
+||en.loader.to^
 ||enaviia.com^
 ||enchantedcubes.com^
 ||enclarhealth.com^
@@ -3616,6 +3619,7 @@ nocona..boots.com
 ||scorpiotaurusleofire.top^
 ||scubaprosale.us.shop^
 ||scuffersespanatienda.com^
+||scyrox.com^
 ||sdwff.shop^
 ||sdx96.com^
 ||sdxsjc.com^
