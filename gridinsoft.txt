@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.27.060103.2025
+! Version: 01.27.063623.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 27 06:01:03 UTC 2025
+! Last modified: Mon Jan 27 06:36:23 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4741
+! Number of entries: 4745
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -752,6 +752,7 @@ nocona..boots.com
 ||btcpaypartners.com^
 ||btcvipotc.com^
 ||btfxtraders.com^
+||btradescenter.com^
 ||btseus.net^
 ||bubblesbets.com^
 ||buble.com.cn^
@@ -789,6 +790,7 @@ nocona..boots.com
 ||bybithodings.com^
 ||bycicle.net^
 ||byproaip.com^
+||bytes.link.online^
 ||bytexcrypto.com^
 ||bzillion.club^
 ||c24house.com^
@@ -1103,6 +1105,7 @@ nocona..boots.com
 ||creneau.2025.mondial.com^
 ||creneau.mondial.relay.2025.com^
 ||creodeapps.com^
+||cresolix.com^
 ||crestprofits.com^
 ||cripexbit.com^
 ||cripto.keys.store^
@@ -3217,6 +3220,7 @@ nocona..boots.com
 ||pietrodiuccio.com^
 ||pilatesmotion.co^
 ||pillowhubglobal.com^
+||pilot.iptv.com^
 ||pinetworkvalidator.com^
 ||pinkonline.store^
 ||pinnacle.equitygroup.com^
