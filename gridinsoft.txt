@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.27.203145.2025
+! Version: 01.27.210100.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 27 20:31:45 UTC 2025
+! Last modified: Mon Jan 27 21:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4818
+! Number of entries: 4824
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -624,6 +624,7 @@ nocona..boots.com
 ||bithorizons.org^
 ||bithub.bot^
 ||bitly.net^
+||bitmain.com.vc^
 ||bitmamining.com^
 ||bitmartvipp.com^
 ||bitmertex.com^
@@ -2649,6 +2650,7 @@ nocona..boots.com
 ||mantraprint.in^
 ||manualslibrary.co^
 ||maqiqsent.com^
+||marcotfx.com^
 ||margin.coins.space^
 ||mariswiss.com^
 ||market4s.com^
@@ -2863,6 +2865,7 @@ nocona..boots.com
 ||mundys.online^
 ||mungu.in^
 ||music8.online^
+||musicgearexperts.com^
 ||muskratmarinesstingeras.pro^
 ||muvtea.com^
 ||mvknnd.online^
@@ -3862,6 +3865,7 @@ nocona..boots.com
 ||sohosquare.online^
 ||solanamining.net^
 ||solarhude.com^
+||solaudit.ai.com^
 ||solaxy.io^
 ||solpension.co^
 ||solpick.io^
@@ -4349,6 +4353,7 @@ nocona..boots.com
 ||unik.co.id^
 ||unimaxcreativeminers.com^
 ||unionhow.top^
+||uniqlosaleksa.com^
 ||uniquepropertygroup.co.uk^
 ||uniquetrustrades.com^
 ||unitedparcelexpress.online^
@@ -4784,6 +4789,7 @@ nocona..boots.com
 ||zadig.et.voltaire.eu.com^
 ||zadigvoltairevip.com^
 ||zakds.info^
+||zakworld.ltd^
 ||zalurex.com^
 ||zapaka.fr^
 ||zapatillasespanaoutlet.org^
