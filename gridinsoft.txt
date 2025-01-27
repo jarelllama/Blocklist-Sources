@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.27.080117.2025
+! Version: 01.27.083437.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 27 08:01:17 UTC 2025
+! Last modified: Mon Jan 27 08:34:37 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4753
+! Number of entries: 4756
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -86,6 +86,7 @@ nocona..boots.com
 ||8xfilms.living^
 ||90jogo5.com^
 ||988359.com^
+||9bxz.com^
 ||9eight5.co.nz^
 ||9jwjegw.mmdlkx.info^
 ||9k9m.com^
@@ -407,6 +408,7 @@ nocona..boots.com
 ||autotracksolution.com^
 ||autry.eu.shop^
 ||autryzzt.online^
+||av4.us^
 ||ava.area.io^
 ||avalonfinance.io^
 ||avalontrdpro.com^
@@ -2832,6 +2834,7 @@ nocona..boots.com
 ||my.commbank.com.au^
 ||my.deco.shop.com^
 ||my.fxmt.tech^
+||myaccount.enigmasoftware.com^
 ||myamericanprizes3.com^
 ||mycotina.com^
 ||mydesi2.net^
