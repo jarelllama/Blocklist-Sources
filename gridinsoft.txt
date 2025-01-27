@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.27.210100.2025
+! Version: 01.27.213127.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 27 21:01:00 UTC 2025
+! Last modified: Mon Jan 27 21:31:27 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4824
+! Number of entries: 4826
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1728,6 +1728,7 @@ nocona..boots.com
 ||flirtingplaza.com^
 ||floattrust.com^
 ||flomac.shop^
+||flowermountainstore.shop^
 ||flowfaucet.online^
 ||flowzapakda.top^
 ||flrdroplines.com^
@@ -4569,6 +4570,7 @@ nocona..boots.com
 ||wealthwavestocks.org^
 ||wealthytradesinvestors.com^
 ||wealttradershalliance.com^
+||weastto.com^
 ||weatherbeetaery.top^
 ||web.cotiplus.top^
 ||web.debank.netlify.app^
