@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.27.093212.2025
+! Version: 01.27.100102.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 27 09:32:12 UTC 2025
+! Last modified: Mon Jan 27 10:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4761
+! Number of entries: 4768
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -150,6 +150,7 @@ nocona..boots.com
 ||adwarerecoveryspecialist.com^
 ||adyenn.com^
 ||adyptuniverse.com^
+||aecombenefits.com^
 ||aegisai.online^
 ||aero.ozgo.cc^
 ||aerodromefi.claims.app^
@@ -1151,6 +1152,7 @@ nocona..boots.com
 ||cryptolexs.com^
 ||cryptolios.net^
 ||cryptominingfx.com^
+||cryptomininggenius.online^
 ||cryptominingpoolfxs.com^
 ||cryptominingworld.shop^
 ||cryptomission.io^
@@ -2767,6 +2769,7 @@ nocona..boots.com
 ||mmllarchitects.com^
 ||mmrtb.com^
 ||mncr.club^
+||mobefind.ie.com^
 ||mobile.btcoinus.org^
 ||mobilecasino88.com^
 ||modacloaks.com^
@@ -3421,6 +3424,7 @@ nocona..boots.com
 ||qualitynoteschange.com^
 ||qualityresells.shop^
 ||quantconnect.ai.com^
+||quantumaitradingwallet.com^
 ||quantumdigitalmatket.com^
 ||quantums.financialsystem.com^
 ||quantumxexn.org^
@@ -3844,6 +3848,7 @@ nocona..boots.com
 ||specialtyvehiclesoftulsa.com^
 ||sphadsworld.com^
 ||spincex.com^
+||spindletrade.org^
 ||spinslot88won.online^
 ||spoorme.com^
 ||sport.prints.online^
@@ -4178,6 +4183,7 @@ nocona..boots.com
 ||tradeforger.online^
 ||tradehivehub.com^
 ||tradelinelite.com^
+||tradematix.info^
 ||traderszenith.com^
 ||tradestationcryptofx.com^
 ||tradetip.analysis.live^
@@ -4547,6 +4553,7 @@ nocona..boots.com
 ||weichgeback.com^
 ||welovegenshinimpact.com^
 ||wenku.k8kaifa.com^
+||westernaitrade.com^
 ||westtic.com^
 ||wfbs.store^
 ||wfoqfashion.shop^
