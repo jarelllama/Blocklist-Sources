@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.27.063623.2025
+! Version: 01.27.070109.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 27 06:36:23 UTC 2025
+! Last modified: Mon Jan 27 07:01:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4745
+! Number of entries: 4747
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -737,6 +737,7 @@ nocona..boots.com
 ||bsdgyfv.shop^
 ||bt.masterskaya.online^
 ||btanru.shop^
+||btc200x.net^
 ||btc200x.org^
 ||btc913.com^
 ||btc933.com^
@@ -1530,6 +1531,7 @@ nocona..boots.com
 ||equitytrusttrading.com^
 ||eraw.top^
 ||ercdlp.com^
+||erenova.in^
 ||erkulbicak.com^
 ||ermsty.com^
 ||erybdu.com^
