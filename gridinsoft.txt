@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.27.160110.2025
+! Version: 01.27.163442.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 27 16:01:10 UTC 2025
+! Last modified: Mon Jan 27 16:34:42 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4791
+! Number of entries: 4793
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -897,6 +897,7 @@ nocona..boots.com
 ||cenutix.com^
 ||cerabiapparels.com^
 ||cerebrumiq.com^
+||cert.fnmt.es^
 ||certocorretoradeseguros.site^
 ||cfbit.org^
 ||cfdqqx.com^
@@ -2756,6 +2757,7 @@ nocona..boots.com
 ||mining.tether.com^
 ||miningcompany.ltd^
 ||mininvstplatform.com^
+||minnetonkafrance.com^
 ||minoptraso.top^
 ||minotrasovestra.com^
 ||minotraspto.top^
