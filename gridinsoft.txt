@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.27.150110.2025
+! Version: 01.27.153057.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 27 15:01:10 UTC 2025
+! Last modified: Mon Jan 27 15:30:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4783
+! Number of entries: 4786
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -3203,6 +3203,7 @@ nocona..boots.com
 ||paybaz.com^
 ||paygateway.lol^
 ||pazvbha.com^
+||pbrs.affectation.com^
 ||pcex.com^
 ||pchelpsoft.com^
 ||pe.trabajosdiarios.com^
@@ -3769,6 +3770,7 @@ nocona..boots.com
 ||simpsonai.club^
 ||simranparajapati.com^
 ||sine.exercise.online^
+||sinex.pro^
 ||singingfiles.com^
 ||singlaarchitects.info^
 ||sinneery.com^
@@ -4256,6 +4258,7 @@ nocona..boots.com
 ||trustcoin.vip^
 ||trustcryptoprofit.com^
 ||trusted.paysbtc.com^
+||trustedcrypsigfex.com^
 ||trustedvincheck.com^
 ||trustgreenfirm.live^
 ||trustphin.com^
