@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.27.090054.2025
+! Version: 01.27.093212.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 27 09:00:54 UTC 2025
+! Last modified: Mon Jan 27 09:32:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4756
+! Number of entries: 4761
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -321,6 +321,7 @@ nocona..boots.com
 ||apps.onebeyond.com^
 ||aprontify.de^
 ||apsqze.info^
+||apttradingsignals.top^
 ||ar68bc2h0d78l4saqd0.heldit.shop^
 ||arabwood.ir^
 ||arakaxabux.com^
@@ -503,6 +504,7 @@ nocona..boots.com
 ||bestnationalcreditunion.com^
 ||bestxsvilrsoftopia.com^
 ||bet4.pe^
+||betatrademarket.com^
 ||betnight.online^
 ||betonline.love^
 ||betpawa.tips.com^
@@ -1584,6 +1586,7 @@ nocona..boots.com
 ||evyplay.com^
 ||excotrade.com^
 ||exiledexchange2.com^
+||exnesstradecenter.com^
 ||exnesstradexpert.com^
 ||exnori.com^
 ||exoky.com^
@@ -1591,6 +1594,7 @@ nocona..boots.com
 ||exorbit.online^
 ||expand.experts.com^
 ||expert.coinasset.com^
+||expertmarkettrade.com^
 ||experttraderchanel.com^
 ||exploit.in^
 ||explore.share.work.com^
@@ -3339,6 +3343,7 @@ nocona..boots.com
 ||psychrine.com^
 ||pth223.com^
 ||pth668.com^
+||pu220ev.com^
 ||pub.c5acfd5a4f1943a7bfc858676472adce.r2.dev^
 ||publicznenewsy.click^
 ||pudcapsminners.pro^
