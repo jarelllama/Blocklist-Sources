@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.27.163442.2025
+! Version: 01.27.170101.2025
 ! Expires: 30 minutes
-! Last modified: Mon Jan 27 16:34:42 UTC 2025
+! Last modified: Mon Jan 27 17:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4793
+! Number of entries: 4797
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1765,6 +1765,7 @@ nocona..boots.com
 ||fozan.online^
 ||fpswiss.com^
 ||fqafq.shop^
+||fr.pokepetshop.com^
 ||fr.tradingview.com^
 ||fra.grandado.com^
 ||fraganciapura.store^
@@ -2302,6 +2303,7 @@ nocona..boots.com
 ||jpnthom.com^
 ||jpxmarket.com^
 ||jqfgwl.shop^
+||jqvllo.cfd^
 ||jradx.ca^
 ||jrelievedy.monster^
 ||jrqyonline.com^
@@ -2879,6 +2881,7 @@ nocona..boots.com
 ||myvanomi.com^
 ||n.ag.vip^
 ||naaeeoy.com^
+||nannyirrationalacquainted.com^
 ||naorisprotocol.web.app^
 ||napapijriapps.com^
 ||narvafinance.com^
@@ -3968,6 +3971,7 @@ nocona..boots.com
 ||superwatch.live^
 ||supplycenterusa.com^
 ||supportbitget.com^
+||supportsentparticle.com^
 ||suredafa.com^
 ||surfing777.online^
 ||surfingsunday.shop^
