@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.28.004518.2025
+! Version: 01.28.012748.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 28 00:45:18 UTC 2025
+! Last modified: Tue Jan 28 01:27:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4843
+! Number of entries: 4847
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -3185,6 +3185,7 @@ nocona..boots.com
 ||p000.ph^
 ||p2btradehubx.info^
 ||paatoais.com^
+||pabyly.com^
 ||pacau.store^
 ||packetshare.io^
 ||padelofficiel.com^
@@ -3219,6 +3220,7 @@ nocona..boots.com
 ||paramediavideo.blogspot.com^
 ||parapcc.com^
 ||pardentcapital.com^
+||parecoin.com^
 ||parisdocase.com^
 ||parkit.nc.com^
 ||parksideatvip.shop^
@@ -3502,6 +3504,7 @@ nocona..boots.com
 ||rajatsinghchauhan.com^
 ||ralkem.com^
 ||ralphlauren.best^
+||randura.com^
 ||ranoz.gg^
 ||ranthambhoresafaritour.in^
 ||rapelust.com^
@@ -4432,6 +4435,7 @@ nocona..boots.com
 ||uyde.store^
 ||v2.youconvert.net^
 ||v9drop.com^
+||vacolex.com^
 ||vajero.com^
 ||valeriehouseofdigital.online^
 ||validatemypimainnetwallet.online^
