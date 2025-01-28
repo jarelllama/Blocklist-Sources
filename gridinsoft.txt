@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.28.040053.2025
+! Version: 01.28.043343.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 28 04:00:53 UTC 2025
+! Last modified: Tue Jan 28 04:33:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4876
+! Number of entries: 4879
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -801,6 +801,7 @@ nocona..boots.com
 ||buyantibiotics24h.net^
 ||buybeararcheryonline.com^
 ||buyclonedcards.co.uk^
+||buycocatea.com^
 ||buymasksgivemasks.top^
 ||buythepencil.com^
 ||buzdikstore.com^
@@ -2052,6 +2053,7 @@ nocona..boots.com
 ||handgripknuckle.com^
 ||handytoolsale.com^
 ||hansen.oslo.com^
+||happyfresh.no^
 ||happyvape.nl^
 ||happyvilleonline.com^
 ||harrislogisticsllc.com^
@@ -2818,6 +2820,7 @@ nocona..boots.com
 ||mitmine.com^
 ||mitoleyn.com^
 ||mitsoku.com^
+||mittenes.shop^
 ||mixtsp.com^
 ||mizunomexicooutlet.com.mx^
 ||mjir.shop^
