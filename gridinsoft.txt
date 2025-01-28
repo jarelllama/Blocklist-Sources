@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.28.164723.2025
+! Version: 01.28.170053.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 28 16:47:23 UTC 2025
+! Last modified: Tue Jan 28 17:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4955
+! Number of entries: 4958
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -744,6 +744,7 @@
 ||brasatrade.com^
 ||braw4.net^
 ||breakmine.online^
+||breathbit.org^
 ||breathingottersca.com^
 ||breville.online^
 ||breyfe.com^
@@ -1911,6 +1912,7 @@
 ||gel9.online^
 ||gem.minelab.net^
 ||gemini.ai.net^
+||gemini.foundation.org^
 ||geminin.s.com^
 ||geminiwealthwinnings.com^
 ||gen.jut.su.com^
@@ -2031,6 +2033,7 @@
 ||gptexcelacademycl.com^
 ||graceiful.com^
 ||graftonoakwood.com^
+||grandura.shop^
 ||graphixplanet.com^
 ||grassroot.impact.centre.org^
 ||gratisvps.net^
@@ -2149,6 +2152,7 @@
 ||homelava.com^
 ||homepillowfort.com^
 ||homersimpson.fun^
+||hondapartshouse.com^
 ||honey.bee.iptv.com^
 ||honeyskin.online^
 ||hongruialliance.com^
@@ -3775,6 +3779,7 @@
 ||saveconsulting.si^
 ||saveweb2zip.com^
 ||savvyessence.com^
+||savvysmartdeals.com^
 ||saylor.giftx2.com^
 ||sbk.trx1.com^
 ||scalpingtrade.online^
