@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.28.070058.2025
+! Version: 01.28.073052.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 28 07:00:58 UTC 2025
+! Last modified: Tue Jan 28 07:30:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4899
+! Number of entries: 4901
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -3645,6 +3645,7 @@ nocona..boots.com
 ||rifleson.cc^
 ||rightgist.com^
 ||rigimmune.xyz^
+||rimbuicshop.com^
 ||rimicoins.com^
 ||ringgitplus.com^
 ||riskcomplianceportfolio134043.online^
@@ -4532,6 +4533,7 @@ nocona..boots.com
 ||vflmo.online^
 ||vhufdiu.com^
 ||vibegal.com^
+||vibekickz.company.site^
 ||vibyage.com^
 ||viceoriassccet.com^
 ||victordle.net^
