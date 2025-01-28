@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.28.060108.2025
+! Version: 01.28.063540.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 28 06:01:08 UTC 2025
+! Last modified: Tue Jan 28 06:35:40 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4887
+! Number of entries: 4893
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -55,6 +55,7 @@ nocona..boots.com
 ||34k.site^
 ||3549urk.kipkeo.info^
 ||365bitcoinminer.com^
+||37bracelets.com^
 ||37mea68.eyjvds.info^
 ||44phl789.com^
 ||485941.coinbase.com^
@@ -313,6 +314,7 @@ nocona..boots.com
 ||app.landshare.website^
 ||app.lockswallet.net^
 ||app.markthal.vip^
+||app.mediaplayhihi.com^
 ||app.meteora.ag^
 ||app.olet8.com^
 ||app.privatecoin.net^
@@ -549,6 +551,7 @@ nocona..boots.com
 ||billabonghotsale.shop^
 ||billabongmx.com.mx^
 ||billboardapparel.store^
+||billgcoin.com^
 ||biloxsolution.com^
 ||binagpt.io^
 ||binanbot.exchange^
@@ -2655,6 +2658,7 @@ nocona..boots.com
 ||mabhaykamath.online^
 ||mablehelp.online^
 ||macpac.ts.shop^
+||mactrac.act.org^
 ||macystoreclothing.com^
 ||maddowk.com^
 ||madeinss.com^
@@ -2751,6 +2755,7 @@ nocona..boots.com
 ||mercado.shop.com^
 ||merjen.online^
 ||merrelldepot.com^
+||meryin.com^
 ||messiah777.com^
 ||meta.cafe.net^
 ||metafight.airdrop.com^
@@ -3055,6 +3060,7 @@ nocona..boots.com
 ||norwichguidon.org^
 ||nosso.online^
 ||nouert.com^
+||novaprimeinvest.com^
 ||novaspire.live^
 ||novaxmetals.com^
 ||novazone53.top^
