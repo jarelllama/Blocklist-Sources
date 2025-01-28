@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.28.100053.2025
+! Version: 01.28.103408.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 28 10:00:53 UTC 2025
+! Last modified: Tue Jan 28 10:34:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4923
+! Number of entries: 4928
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1558,6 +1558,7 @@ nocona..boots.com
 ||enerpinpellets.shop^
 ||enerty.top^
 ||engineeriinglife.com^
+||englishcoachnicole.com^
 ||enhanceprotocol.co.in^
 ||eniqai.com^
 ||enjify.com^
@@ -2793,6 +2794,7 @@ nocona..boots.com
 ||mickeliuiu.shop^
 ||micro100.life^
 ||microdr.ones.com.ng^
+||micropic.com.br^
 ||microstrategy.xin^
 ||midlandintercontinental.com^
 ||midly.in^
@@ -3265,6 +3267,7 @@ nocona..boots.com
 ||pandapremium.wtf^
 ||pandoraiptv.net^
 ||panicocapentryfirewood.co.uk^
+||panth.cmg.com^
 ||paooi.shop^
 ||papdex.com^
 ||paperpadpen.com^
@@ -4386,6 +4389,7 @@ nocona..boots.com
 ||trxbee.io^
 ||trxchains.com^
 ||trxminerboost.com^
+||tryessnce.com^
 ||tryriva.com^
 ||ts761hgd.com^
 ||tsauvip.ing^
@@ -4583,6 +4587,7 @@ nocona..boots.com
 ||viralityshop.online^
 ||vircloth.com^
 ||vishopee.com^
+||visionsco.online^
 ||visprintdesign.biz^
 ||vitadex.org^
 ||vitalpetlife.com^
