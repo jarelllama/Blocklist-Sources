@@ -2606,7 +2606,6 @@
 ||locations.online.us^
 ||lockheed3.com^
 ||logammulia.xyz^
-||login.gy^
 ||login.microsoft.com^
 ||logomagik.online^
 ||lolasee.com^
@@ -4494,7 +4493,6 @@
 ||us.amtmodels.com^
 ||us.biglots.top^
 ||us.cuiiwwell.com^
-||us.kg^
 ||us.retgdsence.com^
 ||us.viiceemall.com^
 ||usa.hellyhansen.com^
