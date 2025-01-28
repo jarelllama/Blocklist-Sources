@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.28.223240.2025
+! Version: 01.28.230054.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 28 22:32:40 UTC 2025
+! Last modified: Tue Jan 28 23:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4978
+! Number of entries: 4985
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -1310,6 +1310,7 @@
 ||defisetstrategies.dev^
 ||defistamp.com^
 ||defiswap.life^
+||deglobal.cfd^
 ||dekarbericht.com^
 ||dekarcheck.com^
 ||delicatede.com^
@@ -1645,6 +1646,7 @@
 ||evmprime.com^
 ||evornelle.click^
 ||evyplay.com^
+||ewaqg.com^
 ||excotrade.com^
 ||exiledexchange2.com^
 ||exnesstradecenter.com^
@@ -1739,6 +1741,7 @@
 ||filegear.sg.me^
 ||fileplanet.com^
 ||files.fm^
+||filmgratuit.stream^
 ||finan.ssl.wemfbox.ch^
 ||financeaa.vip^
 ||financehub.help^
@@ -2429,6 +2432,7 @@
 ||kariox.trade.net^
 ||kartio.live^
 ||kavvaweb3.netlify.app^
+||kaynine.cyberservices.com^
 ||kcexai.com^
 ||kedaivgg.online^
 ||keenchile.net^
@@ -4334,6 +4338,7 @@
 ||totoolookaa88.online^
 ||touristcoves.com^
 ||tourmarketing.world.com^
+||towercrash.com^
 ||towork.998.vip^
 ||towork158.com^
 ||toyota.mall.com^
@@ -4711,6 +4716,7 @@
 ||wealthassetcapital.org^
 ||wealthassets.app^
 ||wealthbaseinvestment.com^
+||wealthrecoveryspecialist.com^
 ||wealthus.net^
 ||wealthwavestocks.org^
 ||wealthytradesinvestors.com^
@@ -4923,6 +4929,7 @@
 ||yourwebarmorsolutions.com^
 ||youtub.v23.buzz^
 ||youtube85.com^
+||youtubetomp3convert.com^
 ||youtubnow.co^
 ||youxiangonline.live^
 ||yowin.site^
