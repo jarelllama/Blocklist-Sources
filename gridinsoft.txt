@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.28.012748.2025
+! Version: 01.28.015931.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 28 01:27:48 UTC 2025
+! Last modified: Tue Jan 28 01:59:31 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4847
+! Number of entries: 4851
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -365,6 +365,7 @@ nocona..boots.com
 ||asigpt.ai^
 ||asigpt.io^
 ||aslminer.com^
+||asmeit.com^
 ||asossamplesale.com^
 ||aspenunion.com^
 ||assegurarcorretoradeseguros.site^
@@ -1681,6 +1682,7 @@ nocona..boots.com
 ||fenben.pro^
 ||fenovur.com^
 ||fenryon.com^
+||fenutor.com^
 ||fermebuche.com^
 ||fernandezfarmacia.com^
 ||ferzip.com^
@@ -1845,6 +1847,7 @@ nocona..boots.com
 ||gadcet.london^
 ||gaga.pe^
 ||gainrbx.com^
+||galabix.com^
 ||galacvy.com^
 ||galaxiumtoken.com^
 ||galjoyhit.com^
@@ -3928,6 +3931,7 @@ nocona..boots.com
 ||sseeline.com^
 ||sstdocumentos.com^
 ||sstee247.shop^
+||st.george.spray.tans.square.site^
 ||stablest.shop^
 ||staemcommunnuty.com^
 ||staemcomunnity.com^
