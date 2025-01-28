@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.28.093154.2025
+! Version: 01.28.100053.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 28 09:31:54 UTC 2025
+! Last modified: Tue Jan 28 10:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4919
+! Number of entries: 4923
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -747,6 +747,7 @@ nocona..boots.com
 ||breville.online^
 ||breyfe.com^
 ||briansclub.cm.shop^
+||bridgecapitalservices.com^
 ||bridgeconnection.co.in^
 ||brieam.com^
 ||brighodew.com^
@@ -2718,6 +2719,7 @@ nocona..boots.com
 ||marvellousperfumes.com^
 ||marvelusdt.com^
 ||marvmys.com^
+||mashreqstandardcapital.com^
 ||massgrave.dev^
 ||massimodvttioutlets.com^
 ||masterfulart.homes^
@@ -2815,6 +2817,7 @@ nocona..boots.com
 ||mine.bnb.com^
 ||minepulse.top^
 ||minequartz.com^
+||minersmarketsplace.com^
 ||minervabot.net^
 ||mingmarket.com^
 ||mini.well.store^
@@ -4873,6 +4876,7 @@ nocona..boots.com
 ||ysafei.vip^
 ||ysoouinmn.com^
 ||ytmp3.cc^
+||ytmp3.ec^
 ||yts.skin^
 ||yunpso.com^
 ||yupoo.vip^
