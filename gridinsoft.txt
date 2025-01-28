@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.28.160059.2025
+! Version: 01.28.163501.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 28 16:00:59 UTC 2025
+! Last modified: Tue Jan 28 16:35:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4946
+! Number of entries: 4953
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -328,6 +328,7 @@ nocona..boots.com
 ||appleusa.tk^
 ||apps.aremining.app^
 ||apps.onebeyond.com^
+||appvr.org^
 ||aprontify.de^
 ||apsqze.info^
 ||apttradingsignals.top^
@@ -1694,6 +1695,7 @@ nocona..boots.com
 ||fashioze.com^
 ||fast.financial.com^
 ||fastbrush.online^
+||fastconnectionflow.com^
 ||fastee.top^
 ||fastnetworks.xyz^
 ||fastshare.cloud^
@@ -1793,6 +1795,7 @@ nocona..boots.com
 ||fordeeal.shop^
 ||forex.autotrades.com^
 ||forexmatrix.ltd^
+||forexpulse.site^
 ||forge.university.com^
 ||forge.wallet.com^
 ||formoreup.xyz^
@@ -1915,6 +1918,7 @@ nocona..boots.com
 ||general.xchange.pro^
 ||genesisminingbot.com^
 ||geninsur.com^
+||genwoleads.top^
 ||geographz.com^
 ||geoxsdiscountshop.com^
 ||get.activated.win^
@@ -2156,6 +2160,7 @@ nocona..boots.com
 ||horze.it.top^
 ||host.hotel.com^
 ||hostackhomefurnishings.shop^
+||hotbmotoca.cc^
 ||hotbtujeka.cc^
 ||hotbvamove.today^
 ||hotbveleki.cc^
@@ -2503,6 +2508,7 @@ nocona..boots.com
 ||larkinashlandstylist.com^
 ||laronnistore.com^
 ||lasopaclan897.weebly.com^
+||lavinettecaplimited.com^
 ||lavishluck.net^
 ||lavishsupply.net^
 ||law.blade.solutions.com^
@@ -3298,6 +3304,7 @@ nocona..boots.com
 ||partecularly.com^
 ||pascoprime.com^
 ||pasion.padel.com^
+||passcoin.net^
 ||pastelunm.com^
 ||pataugasenligne.com^
 ||patek.ydx.com^
