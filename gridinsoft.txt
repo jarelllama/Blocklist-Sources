@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.28.030131.2025
+! Version: 01.28.033235.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 28 03:01:31 UTC 2025
+! Last modified: Tue Jan 28 03:32:35 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4869
+! Number of entries: 4873
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1121,6 +1121,7 @@ nocona..boots.com
 ||courseam.xin^
 ||courtkingsph.com^
 ||courveam.xin^
+||couthix.com^
 ||couturedrift.com^
 ||couturevista.com^
 ||cpasbien.zip^
@@ -2678,6 +2679,7 @@ nocona..boots.com
 ||maqiqsent.com^
 ||marcotfx.com^
 ||margin.coins.space^
+||marimekko.eu.com^
 ||mariswiss.com^
 ||market4s.com^
 ||marketglobalweb.com^
@@ -3186,6 +3188,7 @@ nocona..boots.com
 ||ourruless.store^
 ||ourtime.com^
 ||out.parks.es.com^
+||outdoorshoping.com^
 ||outfitexpress.online^
 ||outfitloft.com^
 ||outfittersmountainhardwear.com^
@@ -4296,6 +4299,7 @@ nocona..boots.com
 ||trejoapp.com^
 ||tremvolknipi.online^
 ||trend.shop9.space^
+||trendfusionwear.com^
 ||trendiano.in^
 ||trendly24.com^
 ||trendmartus.com^
