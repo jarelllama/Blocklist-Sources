@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.28.080055.2025
+! Version: 01.28.083404.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 28 08:00:55 UTC 2025
+! Last modified: Tue Jan 28 08:34:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4908
+! Number of entries: 4912
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -319,6 +319,7 @@ nocona..boots.com
 ||app.olet8.com^
 ||app.privatecoin.net^
 ||app.sanagl.cc^
+||app.sparmall.vip^
 ||appanalytics.online^
 ||appdevelopmenthouse.com^
 ||appengroupltd.com^
@@ -2152,6 +2153,7 @@ nocona..boots.com
 ||hotbvetovu.cc^
 ||hotbviviva.cc^
 ||hotbwodama.today^
+||hotbxurupa.cc^
 ||hotel.great.value9531.online^
 ||hotels21.com^
 ||hotelvalues.com^
@@ -2998,6 +3000,7 @@ nocona..boots.com
 ||newrocksouthafrica.com^
 ||news.bfowago.cc^
 ||news.bgitagu.cc^
+||news.bgupona.cc^
 ||news.bkemowi.cc^
 ||news.bkeyole.cc^
 ||news.bkiluxe.cc^
@@ -4486,6 +4489,7 @@ nocona..boots.com
 ||uspharmacy247.com^
 ||usps.tracking.helepoanx.cc^
 ||uspsdhl.com^
+||utsoease.com^
 ||uvkxe.co^
 ||uwtandarts.online^
 ||uyde.store^
