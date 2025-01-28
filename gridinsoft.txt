@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.28.033235.2025
+! Version: 01.28.040053.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 28 03:32:35 UTC 2025
+! Last modified: Tue Jan 28 04:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4873
+! Number of entries: 4876
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -1315,6 +1315,7 @@ nocona..boots.com
 ||deporvillage.fr^
 ||deriveln.com^
 ||dermodemacher.de^
+||descubretesoro.com^
 ||desipin.com^
 ||destinypulseprize.com^
 ||determin.shop^
@@ -1956,6 +1957,7 @@ nocona..boots.com
 ||glod.usdeth.top^
 ||glowpast.com^
 ||glowywill.com^
+||gmhledger.com^
 ||gnde.shop^
 ||gnhvcx.cc^
 ||gnulahd.org^
@@ -2013,6 +2015,7 @@ nocona..boots.com
 ||gricop.com^
 ||griefquotes.xyz^
 ||grindsoft.com^
+||grisportfrance.fr^
 ||grmontrewatches.com^
 ||growthcapinc.com^
 ||growthsedges.online^
