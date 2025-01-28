@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.28.063540.2025
+! Version: 01.28.070058.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 28 06:35:40 UTC 2025
+! Last modified: Tue Jan 28 07:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4893
+! Number of entries: 4899
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -370,6 +370,7 @@ nocona..boots.com
 ||asmeit.com^
 ||asossamplesale.com^
 ||aspenunion.com^
+||asper.my^
 ||assegurarcorretoradeseguros.site^
 ||asset.ust.top^
 ||assetquantification.top^
@@ -1484,6 +1485,7 @@ nocona..boots.com
 ||ecomsamm.store^
 ||ecos.am^
 ||ecovipshop.top^
+||ecrater.com^
 ||ecstore2021.com^
 ||eddyconstructions.com^
 ||edekn.com^
@@ -2956,6 +2958,7 @@ nocona..boots.com
 ||naturaenutra.online^
 ||natureflux.shop^
 ||nav43.global.com^
+||naveskin.store^
 ||navyunhanded.com^
 ||nc.ph.2974.zerads.com^
 ||ncbofficielfr.com^
@@ -4350,6 +4353,7 @@ nocona..boots.com
 ||trumptokenofficial.com^
 ||trust.forest7.com^
 ||trustaipay.com^
+||trustbklmt.com^
 ||trustcoin.vip^
 ||trustcryptoprofit.com^
 ||trusted.paysbtc.com^
@@ -4401,6 +4405,7 @@ nocona..boots.com
 ||uhbideal.store^
 ||uhg.shop.nl^
 ||uhorix.online^
+||uhray.clubstrack.shop^
 ||uidsse.com^
 ||ukhomebase.com^
 ||ulmire.com^
@@ -4569,6 +4574,7 @@ nocona..boots.com
 ||vnzvietnam10.online^
 ||vocabularye.com^
 ||vocationay.com^
+||vogue.kildare.com^
 ||voguervault.co^
 ||vokryer.com^
 ||volcminer.io^
