@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.28.190059.2025
+! Version: 01.28.193050.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 28 19:00:59 UTC 2025
+! Last modified: Tue Jan 28 19:30:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4965
+! Number of entries: 4969
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -3826,6 +3826,7 @@
 ||sellmmar.best^
 ||sellonamazontoday.com^
 ||selo.metodovl.site^
+||selwix.net^
 ||semello.fr^
 ||semphasize.com^
 ||semw.store^
@@ -4416,6 +4417,7 @@
 ||trustedcrypsigfex.com^
 ||trustedvincheck.com^
 ||trustgreenfirm.live^
+||trustmarkettrading.com^
 ||trustphin.com^
 ||trx.cosanai.cc^
 ||trx.earning.pro^
@@ -4432,6 +4434,7 @@
 ||ttslot.com^
 ||ttslot01.com^
 ||ttslot05.com^
+||tudinerito.com^
 ||tupperwares.ru^
 ||turbogamesapk.com^
 ||turbotrump.info^
@@ -4511,6 +4514,7 @@
 ||usahawanlg.my^
 ||usahellyhansen.com^
 ||usamedsdeals24.com^
+||usapassportonline.org^
 ||usarmunukr.online^
 ||usdbmwmsport.cc^
 ||usde.ink^
