@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.28.022621.2025
+! Version: 01.28.024418.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 28 02:26:21 UTC 2025
+! Last modified: Tue Jan 28 02:44:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4859
+! Number of entries: 4868
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -474,6 +474,7 @@ nocona..boots.com
 ||bdyg.store^
 ||bearatten.com^
 ||beastter.com^
+||beastvem.com^
 ||beat.sticker.online^
 ||beaucham.com^
 ||bedtige.top^
@@ -850,6 +851,7 @@ nocona..boots.com
 ||captchaoutil.site^
 ||capvpartnersltd.com^
 ||car.zhouznq.cn^
+||carawex.com^
 ||carbage.online^
 ||carbondefi.cc^
 ||cardmasparamiempresa.wuaze.com^
@@ -912,6 +914,7 @@ nocona..boots.com
 ||cfbit.org^
 ||cfdqqx.com^
 ||cfs.trades.com^
+||chadstone99.top^
 ||chainbank.network^
 ||chainfun.click^
 ||chainmine.cloud^
@@ -1156,6 +1159,7 @@ nocona..boots.com
 ||crypto4u.news^
 ||crypto5.news^
 ||cryptoassetfortressltd.com^
+||cryptobatex.com^
 ||cryptobox.digital^
 ||cryptobtc.pro^
 ||cryptobullmining.com^
@@ -1232,6 +1236,7 @@ nocona..boots.com
 ||dailytehillim.online^
 ||dailyuploads.net^
 ||dainese.sale.shop^
+||dalarex.com^
 ||dalladesh.com^
 ||daltonitsolutions.com^
 ||danxdex.com^
@@ -1396,6 +1401,7 @@ nocona..boots.com
 ||doraln.com^
 ||dork.baby^
 ||dorobotvip.com^
+||doswex.com^
 ||download.wondershare.net^
 ||downloadfiles.link^
 ||dowynert.com^
@@ -1415,6 +1421,7 @@ nocona..boots.com
 ||driverpack.io^
 ||drivesafeinspects.com^
 ||drmartensnews.com^
+||drochill.com^
 ||drogen.kaufen.com^
 ||ds2play.com^
 ||dsaileads.com^
@@ -2897,6 +2904,7 @@ nocona..boots.com
 ||my.fxmt.tech^
 ||myaccount.enigmasoftware.com^
 ||myamericanprizes3.com^
+||mybrightframe.com^
 ||mycotina.com^
 ||mydesi2.net^
 ||myetherwzallet.com^
@@ -4753,6 +4761,7 @@ nocona..boots.com
 ||xilsen.com^
 ||ximqijiu.online^
 ||ximqiwu.online^
+||xinetex.com^
 ||xjsv.store^
 ||xmbroker.click^
 ||xo123.cc^
