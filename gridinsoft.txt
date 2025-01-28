@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.28.073052.2025
+! Version: 01.28.080055.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 28 07:30:52 UTC 2025
+! Last modified: Tue Jan 28 08:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4901
+! Number of entries: 4908
 nocona..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
@@ -481,6 +481,7 @@ nocona..boots.com
 ||beat.sticker.online^
 ||beaucham.com^
 ||bedtige.top^
+||bedtodream.com^
 ||beedermaus.com^
 ||beetlejuice.2.online^
 ||befilabs.space^
@@ -1275,6 +1276,7 @@ nocona..boots.com
 ||ddsteel.online^
 ||dealzforu.pro^
 ||deans.shoprite.online^
+||deathance.com^
 ||decentralizedtek.pages.dev^
 ||decorhome.arg.store^
 ||deenext.com^
@@ -1336,6 +1338,7 @@ nocona..boots.com
 ||dexonar.com^
 ||dexzet.com^
 ||dfi00dcub57gcevs69yg.com^
+||dfiplus.com^
 ||dfr.corp.com^
 ||dghv.store^
 ||dhlmall.vip^
@@ -2872,6 +2875,7 @@ nocona..boots.com
 ||monlyx.com^
 ||monnromall.com^
 ||monofilsawali.top^
+||monostarscope.com^
 ||monsterhighhaven.shop^
 ||moodefine.com^
 ||moonfareinvest.com^
@@ -3284,6 +3288,7 @@ nocona..boots.com
 ||pay.risepay.com.br^
 ||paybaz.com^
 ||paygateway.lol^
+||pazaswq.com^
 ||pazvbha.com^
 ||pbrs.affectation.com^
 ||pcex.com^
@@ -3650,6 +3655,7 @@ nocona..boots.com
 ||ringgitplus.com^
 ||riskcomplianceportfolio134043.online^
 ||ritoudown.com^
+||rivobanc.com^
 ||rkbanks.com^
 ||roadsilk.top^
 ||robenscamping.com^
@@ -4300,6 +4306,7 @@ nocona..boots.com
 ||tradeusdt.live^
 ||tradewaves.org^
 ||tradewiseexchange.net^
+||tradextron.top^
 ||trading.elevation.net^
 ||tradion.cyou^
 ||tradiso.com^
