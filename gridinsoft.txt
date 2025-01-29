@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.160057.2025
+! Version: 01.29.163500.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 16:00:57 UTC 2025
+! Last modified: Wed Jan 29 16:35:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5095
+! Number of entries: 5100
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -317,6 +317,7 @@
 ||apotek1.biz^
 ||apounes.com^
 ||app.acuityscheduling.com^
+||app.antiriciclaggio.mps.com^
 ||app.city2000.cc^
 ||app.gomining.com^
 ||app.landshare.website^
@@ -2283,6 +2284,7 @@
 ||iaoption.com^
 ||iastfund.com^
 ||ibisnashikhotel.online^
+||ibksport.eu^
 ||ibmqgt.com^
 ||iceriver.company^
 ||iconicinternational.online^
@@ -2313,6 +2315,7 @@
 ||indiapostkz.vip^
 ||indojayapokeramp.xyz^
 ||indpeapract.cfd^
+||indrokil.icu^
 ||infernoforge.store^
 ||infiniteinvestcompany.com^
 ||infinity.hash.io^
@@ -2375,6 +2378,7 @@
 ||istarimart.com^
 ||istorechub.com^
 ||isx.financial^
+||it.mediolanumbanca.com^
 ||itactivejobs.xyz^
 ||italybookofra.online^
 ||itau.com.py^
@@ -3875,6 +3879,7 @@
 ||sauconyfootwear.com^
 ||sauconysneakersdiscount.shop^
 ||sauditech.link^
+||saudkas.cyou^
 ||save.learning.com^
 ||saveconsulting.si^
 ||saveweb2zip.com^
