@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.043334.2025
+! Version: 01.29.050054.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 04:33:34 UTC 2025
+! Last modified: Wed Jan 29 05:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5024
+! Number of entries: 5029
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -521,6 +521,7 @@
 ||bestluxurysaller.com^
 ||bestmayoreo.com.mx^
 ||bestnationalcreditunion.com^
+||bestoffersnew.xyz^
 ||bestxsvilrsoftopia.com^
 ||bet4.pe^
 ||betatrademarket.com^
@@ -1276,6 +1277,7 @@
 ||data.driveninvesting.net^
 ||datadexterity.online^
 ||dataminr.ai.xyz^
+||dataprocessinghere.online^
 ||datempire.com^
 ||datezone.com^
 ||datmyx.online^
@@ -1615,6 +1617,7 @@
 ||eschallengersmode.com^
 ||escortbazar.in^
 ||escrowpi.com^
+||eshophu.com^
 ||esquentabet.online^
 ||est.invest.pro^
 ||establishmentlottery.top^
@@ -1851,6 +1854,7 @@
 ||freebnbgo.net^
 ||freedogecoinmining.com^
 ||freefli.com^
+||freegamerob.xyz^
 ||freelibrary.ru^
 ||freesamplesprousa.com^
 ||freestar.buzz^
@@ -3760,6 +3764,7 @@
 ||roofing.services.fb.online^
 ||rootkaro.com^
 ||ropaioutlet.shop^
+||rosamondpurcell.com^
 ||rosrtle.com^
 ||roveaskin.fr^
 ||royal.marines.online^
