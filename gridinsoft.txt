@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.223249.2025
+! Version: 01.29.230103.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 22:32:49 UTC 2025
+! Last modified: Wed Jan 29 23:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5149
+! Number of entries: 5152
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
 ||02nev.cc^
@@ -1276,6 +1276,7 @@
 ||cybernetsecurity.org^
 ||cybex.360.com^
 ||cymatics.fm^
+||cynthiarobotti.acemlnb.com^
 ||cyphermarket.ru^
 ||cztrskaw.xyz^
 ||czvinwqzs.zjxjmp.cn^
@@ -2749,6 +2750,7 @@
 ||lucky.motorcycles.com^
 ||lucky888.top^
 ||luckypro.store^
+||luckyvictoria.shop^
 ||luckywhalecasino.com^
 ||lulalola.com^
 ||luluisrael.co.il^
@@ -2938,6 +2940,7 @@
 ||mimosabarkhaven.com^
 ||minavip.top^
 ||minbtc.com^
+||mindgo.vip^
 ||mindofpepe.com^
 ||mindreset.site^
 ||mine.bnb.com^
