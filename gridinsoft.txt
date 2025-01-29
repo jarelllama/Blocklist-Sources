@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.050054.2025
+! Version: 01.29.053239.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 05:00:54 UTC 2025
+! Last modified: Wed Jan 29 05:32:39 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5029
+! Number of entries: 5034
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -248,6 +248,7 @@
 ||alwaysfindonline.shop^
 ||alza.hu^
 ||am.usdenelx.com^
+||amadershare.com^
 ||amalbio.shop^
 ||amaluckorder.cc^
 ||amanwarehouse.com^
@@ -2977,6 +2978,7 @@
 ||muke.ai^
 ||mulherstore.shop^
 ||multicanais.games^
+||multics.eu^
 ||multiminer.net^
 ||multismart.solve.pages.dev^
 ||multisportstv.online^
@@ -3179,6 +3181,7 @@
 ||ofertabook.online^
 ||ofertadomostruario.com^
 ||offersheres.net^
+||offersjournal.com^
 ||officedesk.commercialdeals.online^
 ||officialmagacoin.com^
 ||offresdespace24.com^
@@ -4005,6 +4008,7 @@
 ||smtpdeal.com^
 ||snapbuy.us^
 ||snapsave.app^
+||snatchstraps.com.au^
 ||sneakersfaclub.com^
 ||snjalltaeki.store^
 ||snowdaycalculator.online^
@@ -4273,6 +4277,7 @@
 ||thejewelexch.com^
 ||thelegacybuilderprogram.com^
 ||theleolab.online^
+||thelifehmart.com^
 ||theluckylk.com^
 ||themagaoffers.com^
 ||themagistv.com^
