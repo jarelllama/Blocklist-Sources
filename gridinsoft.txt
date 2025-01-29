@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.033254.2025
+! Version: 01.29.040105.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 03:32:54 UTC 2025
+! Last modified: Wed Jan 29 04:01:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5017
+! Number of entries: 5020
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -455,6 +455,7 @@
 ||baominpower.com^
 ||bapes.com.mx^
 ||bar47menu.online^
+||bargainro.com^
 ||bargainxpressz.bet^
 ||bartrustfund.com^
 ||basatrade.net^
@@ -2129,6 +2130,7 @@
 ||helps.sbs^
 ||henglai.online^
 ||henomi.shop^
+||hepetex.com^
 ||her.wellness.online^
 ||herbelladay.com^
 ||hermez4dx500.com^
@@ -3434,6 +3436,7 @@
 ||ploise.com^
 ||plurao.com^
 ||plusdiscountedproperties.xyz^
+||plushlaser.com^
 ||plusindig.info^
 ||plustraderspro.net^
 ||pmcdiecast.com^
