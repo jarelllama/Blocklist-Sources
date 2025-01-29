@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.210056.2025
+! Version: 01.29.213046.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 21:00:56 UTC 2025
+! Last modified: Wed Jan 29 21:30:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5130
+! Number of entries: 5135
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -468,6 +468,7 @@
 ||bar47menu.online^
 ||bargainro.com^
 ||bargainxpressz.bet^
+||bartoil.kz^
 ||bartrustfund.com^
 ||basatrade.net^
 ||base.fastbitl.cc^
@@ -1077,6 +1078,7 @@
 ||cocotte.fr.com^
 ||code.getoffus.site^
 ||codflict.com^
+||coeursinconnus.com^
 ||coin.go.in^
 ||coin.gofastgo.online^
 ||coinarbitrage.io^
@@ -1789,6 +1791,7 @@
 ||finefestool.com^
 ||fineprint.online^
 ||finessedownload.com^
+||finkea.com^
 ||finlandowala.com^
 ||finmaza.com^
 ||fintechmexicofestival.com^
@@ -1932,6 +1935,7 @@
 ||fxvision.net^
 ||g.meds.com^
 ||g.newpoint.com^
+||g9ja.online^
 ||gadcet.london^
 ||gaga.pe^
 ||gainrbx.com^
@@ -4352,6 +4356,7 @@
 ||thefinal.show.com^
 ||theflashlightshop.com^
 ||thefurniturestudio.store^
+||theglowdrive.com^
 ||thegoodguyssignup.com^
 ||theguisson.co.uk^
 ||thehairiva.com^
