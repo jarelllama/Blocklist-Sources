@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.170102.2025
+! Version: 01.29.173200.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 17:01:02 UTC 2025
+! Last modified: Wed Jan 29 17:32:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5101
+! Number of entries: 5106
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -227,6 +227,7 @@
 ||allicross.online^
 ||allinonemarket.online^
 ||alljerseys.io^
+||allmy.cam^
 ||allsmm.net^
 ||allstarhomeandgarden.za.com^
 ||alltrainerspc.com^
@@ -1636,6 +1637,7 @@
 ||es.bankinter.usuario.com^
 ||es.ccm.net^
 ||es.expressunlocks.com^
+||es.savefrom.net^
 ||escapitals.com^
 ||eschallengersmode.com^
 ||escortbazar.in^
@@ -2122,6 +2124,7 @@
 ||gymshark.outlet.shop^
 ||h01k.xyz^
 ||h5.aifeex.com^
+||h5.amazonpd.club^
 ||h5.amengine.top^
 ||h5.aqsmsp.com^
 ||h5.bytesi.vip^
@@ -4226,6 +4229,7 @@
 ||survyhelp.com^
 ||suspectplainrevulsion.com^
 ||svip.work46.com^
+||swap.waves.com^
 ||swapcrypto.exchange^
 ||swapmonero.exchange^
 ||swedenfixedmatch.com^
@@ -4664,6 +4668,7 @@
 ||uspharmacy247.com^
 ||usps.tracking.helepoanx.cc^
 ||uspsdhl.com^
+||utens360.com^
 ||utsoease.com^
 ||uttpforum.st^
 ||uvkxe.co^
