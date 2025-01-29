@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.193102.2025
+! Version: 01.29.200057.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 19:31:02 UTC 2025
+! Last modified: Wed Jan 29 20:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5123
+! Number of entries: 5125
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -1292,7 +1292,6 @@
 ||darkpick.com^
 ||dash.optimus.vip^
 ||dash.probits.cc^
-||dashboard.teneo.pro^
 ||dashnex.plexusmarket.fund^
 ||data.driveninvesting.net^
 ||datadexterity.online^
@@ -1998,6 +1997,7 @@
 ||gfslsecurities.cc^
 ||ggff.net^
 ||gggwg.online^
+||ggwin.bet^
 ||gh.rcgolds.com^
 ||ghomesmart.com^
 ||ghsgdkag.com^
@@ -4311,6 +4311,7 @@
 ||tenadex.com^
 ||tenctify.com^
 ||tenek.vip^
+||teneo.pro^
 ||tentron.mining.net^
 ||terbangria.online^
 ||terestdeals.shop^
@@ -4499,6 +4500,7 @@
 ||traffictrack.online^
 ||trafiguracity.info^
 ||trahia.com^
+||traiex.com^
 ||traihomphuoctaitho.com^
 ||transscene.com^
 ||trantbitf.astpro.top^
