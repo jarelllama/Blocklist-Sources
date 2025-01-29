@@ -3,17 +3,18 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.060106.2025
+! Version: 01.29.063523.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 06:01:06 UTC 2025
+! Last modified: Wed Jan 29 06:35:23 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5039
+! Number of entries: 5044
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
 ||1.tiktokimg.online^
 ||100aventuras.com.mx^
 ||1024tera.com^
+||10bestsweepstakes.com^
 ||11ph9.com^
 ||123notices.com^
 ||12se12.com^
@@ -1385,6 +1386,7 @@
 ||digitalwebchain.xyz^
 ||digiterminator.online^
 ||digitsagency.online^
+||digitsathi.co.in^
 ||diptyque.shop^
 ||diptysales.com^
 ||directamatch.com^
@@ -1526,6 +1528,7 @@
 ||eexevaudraikair.net^
 ||effortlessluxurious.com^
 ||effuciaency.com^
+||egqgzks7sytjxydypez1ls.8akm5.ondigitalocean.app^
 ||egyptiantech.org^
 ||ehoaq.com^
 ||eileenfisher.us.com^
@@ -2372,6 +2375,7 @@
 ||ja.cat^
 ||jadloresga.shop^
 ||jamai.top^
+||janrvnuagnt.co^
 ||jaraza.shop^
 ||jaysranchhamden.online^
 ||jb.store.jp.com^
@@ -3709,6 +3713,7 @@
 ||res.ldrescdn.com^
 ||research.web3caff.com^
 ||researchchemicalskopen.net^
+||resellerboost.com^
 ||resminair.in^
 ||resortburg.online^
 ||retoswap.com^
