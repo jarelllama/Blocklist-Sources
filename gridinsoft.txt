@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.000152.2025
+! Version: 01.29.004520.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 00:01:52 UTC 2025
+! Last modified: Wed Jan 29 00:45:20 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4992
+! Number of entries: 4995
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -2478,6 +2478,7 @@
 ||klixglobal.net^
 ||kloomba.com^
 ||kmspico.ltd^
+||kndr.digital^
 ||knighted.shop^
 ||knoblatter.com^
 ||kobaltoutletstore.com^
@@ -3224,6 +3225,7 @@
 ||onlinestoretechshop.com^
 ||onlinewealthmantra.com^
 ||onlkey.com^
+||onlymegalovers.com^
 ||onlymodels.me^
 ||onlyterrific.com^
 ||onpriority.com^
@@ -4453,6 +4455,7 @@
 ||ttslot01.com^
 ||ttslot05.com^
 ||tudinerito.com^
+||tuiiovm.top^
 ||tupperwares.ru^
 ||turbogamesapk.com^
 ||turbotrump.info^
