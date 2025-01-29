@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.120118.2025
+! Version: 01.29.124228.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 12:01:18 UTC 2025
+! Last modified: Wed Jan 29 12:42:28 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5074
+! Number of entries: 5077
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -2007,6 +2007,7 @@
 ||glasslockmart.shop^
 ||glbgpt.com^
 ||glecapitalsrl.online^
+||glenjoyce.com^
 ||gletber.com^
 ||glmrjwl.com^
 ||global.tinv.org^
@@ -2225,6 +2226,7 @@
 ||hotbvetovu.cc^
 ||hotbviviva.cc^
 ||hotbwodama.today^
+||hotbxegabo.today^
 ||hotbxurupa.cc^
 ||hotel.great.value9531.online^
 ||hotels21.com^
@@ -3965,6 +3967,7 @@
 ||shoppingmall11.top^
 ||shoppingmall22.top^
 ||shoppingmall44.top^
+||shopr.tv^
 ||shopsaltana.com^
 ||shopsavvysimpsons.com^
 ||shoptastic.io^
