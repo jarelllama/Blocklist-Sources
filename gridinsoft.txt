@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.130449.2025
+! Version: 01.29.133301.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 13:04:49 UTC 2025
+! Last modified: Wed Jan 29 13:33:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5081
+! Number of entries: 5085
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -862,6 +862,7 @@
 ||canadaposts.cc^
 ||cancerdecodedseries.com^
 ||canconsulting.in^
+||canewsisite.com^
 ||canvaschronicle.homes^
 ||canvasgenius.homes^
 ||capaciousdrewreligion.com^
@@ -1315,6 +1316,7 @@
 ||deepcoinf.com^
 ||deepnude.to^
 ||deepnudeai.online^
+||deepseekai.vip^
 ||deepweb.fixedmatches.com^
 ||defashionette.xyz^
 ||defi.drop.xyz^
@@ -2817,6 +2819,7 @@
 ||mavocossycloud.com^
 ||maxcgi.com^
 ||maxclick.xyz^
+||maxfinishseveral.com^
 ||maxices.com^
 ||maximinxassetltd.com^
 ||maxmara.sa.com^
@@ -5082,6 +5085,7 @@
 ||zornher.com^
 ||zorunex.com^
 ||zorvalor.com^
+||ztmining.com^
 ||ztudim.work.top^
 ||ztxzhb.shop^
 ||zuhouee.com^
