@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.200057.2025
+! Version: 01.29.203152.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 20:00:57 UTC 2025
+! Last modified: Wed Jan 29 20:31:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5125
+! Number of entries: 5128
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -2346,6 +2346,7 @@
 ||interactive.pov.com^
 ||interelecbox.com^
 ||interexpresscourier.com^
+||interiorautoacc.com^
 ||introtocrypto.xyz^
 ||invest.cryptonetworkspace.com^
 ||investingincryptocurrency.com^
@@ -2591,6 +2592,7 @@
 ||larkinashlandstylist.com^
 ||laronnistore.com^
 ||lasopaclan897.weebly.com^
+||latelyous.com^
 ||lavinettecaplimited.com^
 ||lavishluck.net^
 ||lavishsupply.net^
@@ -3930,6 +3932,7 @@
 ||secure.cryptex.to^
 ||securecryptorecovery.com^
 ||secured.triumphfx.com^
+||securedalliances.com^
 ||securedjointnetwork.co.in^
 ||sedonainvestments.co.uk^
 ||seedswanted.online^
