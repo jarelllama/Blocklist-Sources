@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.28.233059.2025
+! Version: 01.29.000152.2025
 ! Expires: 30 minutes
-! Last modified: Tue Jan 28 23:30:59 UTC 2025
+! Last modified: Wed Jan 29 00:01:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4986
+! Number of entries: 4992
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -1070,6 +1070,7 @@
 ||coinoah.vip.cc^
 ||coinomi.com^
 ||coins.shade.com^
+||coinsland.top^
 ||coinsorex.com^
 ||coinswift.exchange^
 ||cointir.cc^
@@ -2827,6 +2828,7 @@
 ||mgiga2.com^
 ||michaelkorseu.shop^
 ||mickeliuiu.shop^
+||micro.coin.org^
 ||micro100.life^
 ||microdr.ones.com.ng^
 ||micropic.com.br^
@@ -2886,6 +2888,7 @@
 ||mkcgopdregistration.online^
 ||mkurtos.com^
 ||mkvcinemas.phd^
+||mlmarmy.net^
 ||mlstrafnews.com^
 ||mmdbill.com^
 ||mmllarchitects.com^
@@ -3130,6 +3133,7 @@
 ||nuroswealth.org^
 ||nutraway.top^
 ||nvidiaair.com^
+||nvidiatoken.io^
 ||nxntfbe.idudex.com^
 ||nyc3.digitaloceanspaces.com^
 ||oakwell.finance^
@@ -3639,6 +3643,7 @@
 ||redsphere.solutions^
 ||reegwallet.store^
 ||reelshort.2025.com^
+||ref.eu.com^
 ||ref2tron.top^
 ||refefshopin.top^
 ||reg.yourgamebuilder.com^
@@ -4774,6 +4779,7 @@
 ||whiteminer.com^
 ||whittakerassistance.com^
 ||whmcmanus.shop^
+||wholefilter.com^
 ||whoopyrewards.com^
 ||whubaesingotbrewer.com^
 ||wiaa.in^
