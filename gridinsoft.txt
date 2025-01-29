@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.063523.2025
+! Version: 01.29.070057.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 06:35:23 UTC 2025
+! Last modified: Wed Jan 29 07:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5044
+! Number of entries: 5047
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -2095,6 +2095,7 @@
 ||guestreservations.com^
 ||gugd.store^
 ||guide.sante.space^
+||gukur.sbs^
 ||gunluksevilenkampanyalarsizlerle.online^
 ||gusalio.com^
 ||gvgcxm.cc^
@@ -3181,6 +3182,7 @@
 ||obtuyme.com^
 ||obuchenie.taro.online^
 ||occreply.com^
+||ocean.fx.investment.ltd^
 ||oceangatemarket.com^
 ||oceanprotocol2.life^
 ||oceanprotocol2.xyz^
@@ -3990,6 +3992,7 @@
 ||skytrustltd.com^
 ||skywing.ltd.com^
 ||slashfilm.perfect.com^
+||slcpark.com^
 ||slecks.shop^
 ||sleekfitz.com^
 ||sleepwelldental.online^
