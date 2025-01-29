@@ -3,12 +3,13 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.220059.2025
+! Version: 01.29.223249.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 22:00:59 UTC 2025
+! Last modified: Wed Jan 29 22:32:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5142
+! Number of entries: 5149
 ||019edcfceefke.jumpkj.chuairan.com^
+||02bitx.com^
 ||02nev.cc^
 ||05012025.info^
 ||1.tiktokimg.online^
@@ -384,6 +385,7 @@
 ||asossamplesale.com^
 ||aspenunion.com^
 ||asper.my^
+||assai.io^
 ||assegurarcorretoradeseguros.site^
 ||asset.ust.top^
 ||assetquantification.top^
@@ -511,6 +513,7 @@
 ||belmondagency.com^
 ||beloryx.com^
 ||beltlox.top^
+||beltotv.com^
 ||benfu.biz^
 ||benjamindavispersonaltrainer.com^
 ||bergmannmodehaus.com^
@@ -2147,6 +2150,7 @@
 ||hakim.media^
 ||hamivibe.com^
 ||handfull.shop^
+||handfulspeed.com^
 ||handgripknuckle.com^
 ||handytoolsale.com^
 ||hansen.oslo.com^
@@ -3491,6 +3495,7 @@
 ||pinetworkvalidator.com^
 ||pinkonline.store^
 ||pinnacle.equitygroup.com^
+||pionex.com^
 ||pip4gains.com^
 ||pippopet.store^
 ||pipsmartacademy.com^
@@ -3744,6 +3749,7 @@
 ||redeemabi.netlify.app^
 ||redeemai.site^
 ||redgol.cl^
+||redobtc.com^
 ||redomax.online^
 ||redozen.online^
 ||redsphere.solutions^
@@ -4331,6 +4337,7 @@
 ||terbangria.online^
 ||terestdeals.shop^
 ||terrapulsedfg.site^
+||teslaspacexelon.com^
 ||tesolarhubs.buzz^
 ||test.aspwyvsj.com^
 ||testorush.eu^
