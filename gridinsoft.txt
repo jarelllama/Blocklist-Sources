@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.083409.2025
+! Version: 01.29.090055.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 08:34:09 UTC 2025
+! Last modified: Wed Jan 29 09:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5058
+! Number of entries: 5064
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -190,6 +190,7 @@
 ||airobotcn.com^
 ||airobotplatform888.com^
 ||airobotsmart.net^
+||airocargo.com^
 ||airtraveler.club^
 ||aisfcth.ink^
 ||aitgiant.com^
@@ -652,6 +653,7 @@
 ||bitnetx.cloud^
 ||bitpaymentstore.com^
 ||bitperxio.com^
+||bitprimepro.com^
 ||bitprogain.com^
 ||bitronce.com^
 ||bitru.cc^
@@ -2104,6 +2106,7 @@
 ||gukur.sbs^
 ||gunluksevilenkampanyalarsizlerle.online^
 ||gusalio.com^
+||gustmining.pro^
 ||gvgcxm.cc^
 ||gymshark.outlet.shop^
 ||h01k.xyz^
@@ -2546,6 +2549,7 @@
 ||labellovers.nl^
 ||laboratoire.osmose.com^
 ||labrary.store^
+||labs24.nl^
 ||labscosmic.net^
 ||laceandlush.com^
 ||lacefaves.com^
@@ -2599,6 +2603,7 @@
 ||letsoc.com^
 ||leupold.us.shop^
 ||levelbucks.com^
+||lexclubwrld.site^
 ||lexingtonhazelwoodstylist.com^
 ||lfj.gg^
 ||lhndy.cn^
@@ -3938,6 +3943,7 @@
 ||shittt.store^
 ||shokexycexng.shop^
 ||shootloverstore.com^
+||shop.gamma.vip^
 ||shop.sale4.quest^
 ||shop.sale6.quest^
 ||shopa66.com^
