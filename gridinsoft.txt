@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.070057.2025
+! Version: 01.29.073057.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 07:00:57 UTC 2025
+! Last modified: Wed Jan 29 07:30:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5047
+! Number of entries: 5053
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -638,8 +638,10 @@
 ||bitgetzone.top^
 ||bitharbour.org^
 ||bitharvest.io^
+||bithivetrades.com^
 ||bithorizons.org^
 ||bithub.bot^
+||bitindicieskryptotrade.com^
 ||bitly.net^
 ||bitmain.com.vc^
 ||bitmamining.com^
@@ -1009,6 +1011,7 @@
 ||clever.buffalo.pejrxqol.sandboxcms.com^
 ||clever.turtle.1plivsii.sandboxcms.com^
 ||click.linksynergy.com^
+||click4income.xyz^
 ||click5tawages.buzz^
 ||clickclpwages.buzz^
 ||clickiezwages.buzz^
@@ -1023,6 +1026,7 @@
 ||clime.mastercasc.top^
 ||clipr.cc^
 ||clkiva.shop^
+||clksite.com^
 ||clladss.com^
 ||cloc.mastercasc.top^
 ||closer.university.com^
@@ -3126,6 +3130,7 @@
 ||ninzamistry.com^
 ||niolic.com^
 ||nira.id^
+||nitrobet.club^
 ||nkninkqq.com^
 ||nlcrents.com^
 ||nlleenbakker.com^
@@ -4065,6 +4070,7 @@
 ||spec1trend8.shop^
 ||special.sale.sbs^
 ||specialtyvehiclesoftulsa.com^
+||spectrumsbaloans.com^
 ||sphadsworld.com^
 ||spincex.com^
 ||spindletrade.org^
