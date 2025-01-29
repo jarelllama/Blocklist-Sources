@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.073057.2025
+! Version: 01.29.080058.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 07:30:57 UTC 2025
+! Last modified: Wed Jan 29 08:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5053
+! Number of entries: 5056
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -397,6 +397,7 @@
 ||atb14.com^
 ||atb15.com^
 ||atheemart.top^
+||athna.su^
 ||ativado.org^
 ||atlasore.com^
 ||atlaspays.com^
@@ -4607,6 +4608,7 @@
 ||usdttransfer.xyz^
 ||usdtwesc.shop^
 ||usdtworlds.com^
+||usefultoolpart.com^
 ||useproakira.com^
 ||usepxl8r.com^
 ||user.abmining.pro^
@@ -4957,6 +4959,7 @@
 ||xsdvdeal.store^
 ||xtb.com^
 ||xtoken.presale.com^
+||xtrade.com^
 ||xtraexcharge.com^
 ||xtremediscount.net^
 ||xtremeiptv.online^
