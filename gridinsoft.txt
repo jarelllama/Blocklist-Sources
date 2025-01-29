@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.053239.2025
+! Version: 01.29.060106.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 05:32:39 UTC 2025
+! Last modified: Wed Jan 29 06:01:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5034
+! Number of entries: 5039
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -1085,6 +1085,7 @@
 ||cointir.cc^
 ||coinvale.io^
 ||coinwbga.com^
+||coldbit.net^
 ||colfayc.cc^
 ||colgatebnbai.com^
 ||colosseumdiroma.tickets.com^
@@ -1170,6 +1171,7 @@
 ||crownpointfin.com^
 ||crsverify.online^
 ||cryptallstars.online^
+||cryptn.org^
 ||crypto.chinese.com^
 ||crypto.coin.base.com^
 ||crypto.coin.site^
@@ -1747,6 +1749,7 @@
 ||fidelixdigitals.de^
 ||fieldloom.com^
 ||fighterseurope.com^
+||figshadeonline.com^
 ||fiheos.co.in^
 ||fijrol.com^
 ||filas.com.mx^
@@ -1781,6 +1784,7 @@
 ||fkaesthetics.online^
 ||flarial.xyz^
 ||flashbtc.rf.gd^
+||flashcoin.info^
 ||flashremitt.com^
 ||flashusdt.shop^
 ||flashxu.com^
@@ -4526,6 +4530,7 @@
 ||uhorix.online^
 ||uhray.clubstrack.shop^
 ||uidsse.com^
+||ukflirtzone.com^
 ||ukhomebase.com^
 ||ulmire.com^
 ||ultimateexperttrade247.com^
