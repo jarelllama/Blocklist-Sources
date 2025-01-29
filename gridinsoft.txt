@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.103357.2025
+! Version: 01.29.110051.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 10:33:57 UTC 2025
+! Last modified: Wed Jan 29 11:00:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5068
+! Number of entries: 5069
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -4375,6 +4375,7 @@
 ||todayyouwin.com^
 ||tofro.com^
 ||together2night.com^
+||toggle.pro^
 ||tokeiyaginza.com^
 ||tokenhedg.com^
 ||tokentrade.top^
