@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.004520.2025
+! Version: 01.29.012743.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 00:45:20 UTC 2025
+! Last modified: Wed Jan 29 01:27:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4995
+! Number of entries: 4997
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -3071,6 +3071,7 @@
 ||nexamazon.com^
 ||next4x.com^
 ||nextcrypto.top^
+||nextlevelpayments.online^
 ||nextshop.fun^
 ||nexusaaso5kxt75bigvtixw63dot3mnthl3pwqxg4d6tlj5yfqjuviid.online^
 ||nexustvonline.com^
@@ -3133,6 +3134,7 @@
 ||nupdhyzetb.com^
 ||nuroswealth.org^
 ||nutraway.top^
+||nvidiaai.bet^
 ||nvidiaair.com^
 ||nvidiatoken.io^
 ||nxntfbe.idudex.com^
