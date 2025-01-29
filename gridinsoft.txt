@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.090055.2025
+! Version: 01.29.093132.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 09:00:55 UTC 2025
+! Last modified: Wed Jan 29 09:31:32 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5064
+! Number of entries: 5066
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -660,6 +660,7 @@
 ||bitrue.cc^
 ||bitrustvest.com^
 ||bitstake.su^
+||bittdrex.com^
 ||bittrading.online^
 ||bittrsecur.top^
 ||bitunix.com^
@@ -3198,6 +3199,7 @@
 ||oceangatemarket.com^
 ||oceanprotocol2.life^
 ||oceanprotocol2.xyz^
+||oceb.bizvalley.shop^
 ||oemete.com^
 ||oexbit.com^
 ||ofertabook.online^
