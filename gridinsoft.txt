@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.030153.2025
+! Version: 01.29.033254.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 03:01:53 UTC 2025
+! Last modified: Wed Jan 29 03:32:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5013
+! Number of entries: 5017
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -818,6 +818,7 @@
 ||buymasksgivemasks.top^
 ||buythepencil.com^
 ||buzdikstore.com^
+||buzh3n1n4.online^
 ||bveusdt.com^
 ||bvgod.com^
 ||bxfinvestment.com^
@@ -883,6 +884,7 @@
 ||carlinkitmall.com^
 ||carlylepledge.com^
 ||carolbradley.shop^
+||carousell585.vip^
 ||carrepairus0507.online^
 ||carte.grise.france.fr^
 ||cartradinghub.com^
@@ -2704,6 +2706,7 @@
 ||lzminer.com^
 ||m.bitunixex.com^
 ||m.dodorado.com^
+||m.lbank.com^
 ||m.parrotes.com^
 ||m.payasset.com^
 ||m1jspkd.com^
@@ -3737,6 +3740,7 @@
 ||roblox.et^
 ||robochain.pro^
 ||robochipcfd.biz^
+||roboq.cc^
 ||rockhillcapital.org^
 ||rockportfrance.fr^
 ||rogofodeputeburomi.shop^
