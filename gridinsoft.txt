@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.173200.2025
+! Version: 01.29.180058.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 17:32:00 UTC 2025
+! Last modified: Wed Jan 29 18:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5106
+! Number of entries: 5115
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -2895,6 +2895,7 @@
 ||mexxfrance.com^
 ||mgdsbbd.com^
 ||mgiga2.com^
+||miairobot.com^
 ||michaelkorseu.shop^
 ||mickeliuiu.shop^
 ||micro.coin.org^
@@ -3100,11 +3101,13 @@
 ||neobitix.com^
 ||neomaven.pro^
 ||neopaypoint.org^
+||nerofax.com^
 ||nestedfashion.com^
 ||netbitcapital.net^
 ||netdcbf.com^
 ||netfucks1.com^
 ||nethaless.com^
+||networkpartialchain.co.in^
 ||neuratech.global^
 ||neuromatics.com^
 ||neversettleppc.com^
@@ -3139,6 +3142,7 @@
 ||news.xvagoda.cc^
 ||news.xwivuxe.com^
 ||newsletter.nailedit.club^
+||newstargetingads.top^
 ||newsyoucanread24.com^
 ||newulife.com^
 ||newyorkshroomsonline.com^
@@ -3663,6 +3667,7 @@
 ||quantconnect.ai.com^
 ||quantumaitradingwallet.com^
 ||quantumdigitalmatket.com^
+||quantumledger.top^
 ||quantums.financialsystem.com^
 ||quantumxexn.org^
 ||quantvine.online^
@@ -4287,6 +4292,7 @@
 ||techzesh.com^
 ||tecnorn.online^
 ||tedexy.com^
+||teedrowed.co.in^
 ||teeluxegifts.com^
 ||teflam.com^
 ||teiagrma.pub^
@@ -4294,6 +4300,8 @@
 ||telegramok.com^
 ||telelabs.online^
 ||telezgram.org^
+||telunor.com^
+||teluvor.com^
 ||temxn.vip^
 ||tenadex.com^
 ||tenctify.com^
@@ -4547,6 +4555,7 @@
 ||trx.earning.pro^
 ||trxbee.io^
 ||trxchains.com^
+||trxchargepoint.net^
 ||trxminerboost.com^
 ||tryessnce.com^
 ||tryriva.com^
