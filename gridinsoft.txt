@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.015926.2025
+! Version: 01.29.022602.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 01:59:26 UTC 2025
+! Last modified: Wed Jan 29 02:26:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5003
+! Number of entries: 5006
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -1761,6 +1761,7 @@
 ||fissmarket.com^
 ||fitgirl.repacks.site^
 ||fivon.online^
+||fixedmatch.website^
 ||fixweb3connect.pages.dev^
 ||fiyboy.com^
 ||fjallraven.eu.com^
@@ -2064,6 +2065,7 @@
 ||grunsguru.com^
 ||grupohersa.org^
 ||gs.zbzy.cc^
+||gtc.lol^
 ||gten956.vip^
 ||gtkjean.com^
 ||guabsons.com^
@@ -2955,6 +2957,7 @@
 ||msscrypto.com^
 ||mtg08v1zr.com^
 ||mttathletics.com^
+||mttsports.com^
 ||mujeresconbienestar.gob.mx.info^
 ||muke.ai^
 ||mulherstore.shop^
