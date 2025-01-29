@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.213046.2025
+! Version: 01.29.220059.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 21:30:46 UTC 2025
+! Last modified: Wed Jan 29 22:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5135
+! Number of entries: 5142
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -960,6 +960,7 @@
 ||charmcot.com^
 ||charmingfavor.com^
 ||chassoutlel.shop^
+||chatlink.wchatlink.com^
 ||cheapammoaustralia.com^
 ||cheapertoolparts.com^
 ||cheapproducts.online^
@@ -1141,6 +1142,7 @@
 ||contactandplay.com^
 ||contactconsultingservices.com^
 ||contestcraze.today^
+||continental.invest.ltd^
 ||contractnerds.com^
 ||controlnetworks.com.au^
 ||conveneprecedent.top^
@@ -1785,6 +1787,7 @@
 ||finan.ssl.wemfbox.ch^
 ||financeaa.vip^
 ||financehub.help^
+||financeig.com^
 ||financeusdt.com^
 ||finder2loans.com^
 ||findsomee.com^
@@ -3048,6 +3051,7 @@
 ||mungu.in^
 ||music8.online^
 ||musicgearexperts.com^
+||musicinstrumentsupply.com^
 ||muskratmarinesstingeras.pro^
 ||muvtea.com^
 ||mvknnd.online^
@@ -3564,6 +3568,7 @@
 ||primemoverexpress.online^
 ||primeotp.com^
 ||primeplatform.online^
+||primetransactltd.com^
 ||primitivesystem.online^
 ||pristinedrivecarcare.com^
 ||privatesportshop.fr^
@@ -3998,6 +4003,7 @@
 ||shop.sale6.quest^
 ||shopa66.com^
 ||shopavs.store^
+||shopbiggestdeals.com^
 ||shopbopafiliate.org^
 ||shope4you.shop^
 ||shopeevip.shop^
@@ -4695,6 +4701,7 @@
 ||uspharmacy247.com^
 ||usps.tracking.helepoanx.cc^
 ||uspsdhl.com^
+||ustherealreal.com^
 ||utens360.com^
 ||utsoease.com^
 ||uttpforum.st^
