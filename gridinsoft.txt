@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.022602.2025
+! Version: 01.29.024359.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 02:26:02 UTC 2025
+! Last modified: Wed Jan 29 02:43:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5006
+! Number of entries: 5011
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -242,6 +242,7 @@
 ||altano.store^
 ||altieer.com^
 ||altimotradingsltd.com^
+||altraprime.trade.org^
 ||alturametatrade.com^
 ||alwaysfindonline.shop^
 ||alza.hu^
@@ -728,6 +729,7 @@
 ||boots.litbio.org^
 ||boounti.com^
 ||boscark.shop^
+||bossfusion.xyz^
 ||bostakingu.com^
 ||bot.merisprivate.net^
 ||botfypro.com^
@@ -2333,6 +2335,7 @@
 ||itactivejobs.xyz^
 ||italybookofra.online^
 ||itau.com.py^
+||itemforhouse.com^
 ||itidyo.com^
 ||itopexst.com^
 ||itorrents.igruha.org^
@@ -3041,6 +3044,7 @@
 ||nethaless.com^
 ||neuratech.global^
 ||neversettleppc.com^
+||new11thstreet.online^
 ||newalking.com^
 ||newbalancelink.com^
 ||newdefineservice.online^
@@ -3163,6 +3167,7 @@
 ||ofertadomostruario.com^
 ||offersheres.net^
 ||officedesk.commercialdeals.online^
+||officialmagacoin.com^
 ||offresdespace24.com^
 ||ofrprizcoup.com^
 ||oguiadossonhos15anos.online^
