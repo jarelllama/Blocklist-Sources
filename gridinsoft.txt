@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.012743.2025
+! Version: 01.29.015926.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 01:27:43 UTC 2025
+! Last modified: Wed Jan 29 01:59:26 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 4997
+! Number of entries: 5003
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02nev.cc^
 ||05012025.info^
@@ -2149,6 +2149,7 @@
 ||hlamw.top^
 ||hlgonaricks.com^
 ||hm.ru^
+||hm.shop.to^
 ||hmemoir.lol^
 ||hmstr.web3launchpoolbinance.pages.dev^
 ||hoardrare.com^
@@ -2493,6 +2494,7 @@
 ||kreashops.com^
 ||krebson.ru^
 ||krecociler.monster^
+||kredit24.com^
 ||kreed5425210621621.online^
 ||krefractoryr.lol^
 ||kremas.shop^
@@ -3863,6 +3865,7 @@
 ||setes.live^
 ||setyobim.online^
 ||seuguiadefinitivo.com^
+||severalmarks.com^
 ||sewric.com^
 ||sexanzeigen.huren.online^
 ||sexfullmovies.mobi^
@@ -4017,6 +4020,7 @@
 ||spaindvs.com^
 ||sparkflr.info^
 ||spartanbusinesssystems.com^
+||spatiumoutdoor.com^
 ||spctravelads.com^
 ||spec1trend8.shop^
 ||special.sale.sbs^
@@ -4257,6 +4261,7 @@
 ||thepiratebay0.org^
 ||thepiratebay3.org^
 ||thepreorderhub.com^
+||therealworldjoin.co^
 ||therrafirms.com^
 ||thespotifypremiumapk.com^
 ||thestockstandout.com^
@@ -4553,6 +4558,7 @@
 ||usdtwesc.shop^
 ||usdtworlds.com^
 ||useproakira.com^
+||usepxl8r.com^
 ||user.abmining.pro^
 ||user.ecosbitcoinmining.com^
 ||user.ecosminer.io^
