@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.30.160057.2025
+! Version: 01.30.163511.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 30 16:00:57 UTC 2025
+! Last modified: Thu Jan 30 16:35:11 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5251
+! Number of entries: 5255
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1385,6 +1385,7 @@ redback..boots.com
 ||delifact.com^
 ||delilahskittenparadise.com^
 ||delta.electric.top^
+||delta.exchange^
 ||deltadex.io^
 ||deltausdt.site^
 ||deluxe.goods.uk^
@@ -2404,6 +2405,7 @@ redback..boots.com
 ||interelecbox.com^
 ||interexpresscourier.com^
 ||interiorautoacc.com^
+||internhouse.online^
 ||introtocrypto.xyz^
 ||invest.cryptonetworkspace.com^
 ||investingincryptocurrency.com^
@@ -2699,6 +2701,7 @@ redback..boots.com
 ||levelbucks.com^
 ||lexclubwrld.site^
 ||lexingtonhazelwoodstylist.com^
+||lffpy10mnsnp.com^
 ||lfj.gg^
 ||lhndy.cn^
 ||liberatucuerporenuevatuenergia.com^
@@ -3952,6 +3955,7 @@ redback..boots.com
 ||rxdealsusa.com^
 ||rxwin.org^
 ||ryfibei.shop^
+||rynolia.com^
 ||s.dz.com^
 ||s1gamer.online^
 ||s2.skladchinmore.net^
