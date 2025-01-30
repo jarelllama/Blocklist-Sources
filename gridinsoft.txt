@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.30.040102.2025
+! Version: 01.30.043408.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 30 04:01:02 UTC 2025
+! Last modified: Thu Jan 30 04:34:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5186
+! Number of entries: 5191
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -217,6 +217,7 @@ redback..boots.com
 ||alexquantify.com^
 ||alfagroup.inter.com^
 ||alfianacendani.online^
+||alfristonassetproperties.com^
 ||algainhouse.com^
 ||alidropnuig.com^
 ||aliex.proxy.robot.shop^
@@ -1133,6 +1134,7 @@ redback..boots.com
 ||comfy.vibes.fr^
 ||comfyonline.app^
 ||comic.hupshop.com^
+||comicoml.com^
 ||communaltrades.com^
 ||communitydisscussion.com^
 ||compare.deals.online.info^
@@ -2405,6 +2407,7 @@ redback..boots.com
 ||irisium.lat^
 ||ironchainbank.io^
 ||irwin.tools.com^
+||ishomedepot.com^
 ||islanddluxe.top^
 ||isozpn.com^
 ||ispoeti.com^
@@ -3310,6 +3313,7 @@ redback..boots.com
 ||on.shoes.uae.com^
 ||oncees.live^
 ||oncloud.shoes.us.com^
+||onconferences.com.jmailroute.net^
 ||ondasvirtuais.online^
 ||oneck.vip^
 ||oneclickmart.online^
@@ -3658,6 +3662,7 @@ redback..boots.com
 ||purplepeony.sbs^
 ||pushkoin.com^
 ||pussieshairy.org^
+||puzzelgames.com^
 ||puzzleio.com^
 ||pvdenroute.com^
 ||pvgpassd.com^
