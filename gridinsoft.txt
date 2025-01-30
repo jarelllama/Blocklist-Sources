@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.30.130426.2025
+! Version: 01.30.133227.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 30 13:04:26 UTC 2025
+! Last modified: Thu Jan 30 13:32:27 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5240
+! Number of entries: 5244
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1995,6 +1995,7 @@ redback..boots.com
 ||gameshopfinaldeals.com^
 ||gameslux.store^
 ||gametop.bet^
+||gamingbeasts.com^
 ||ganando.imperios.com^
 ||gapconnectionbridge.co.in^
 ||gaspol268.com^
@@ -2279,6 +2280,7 @@ redback..boots.com
 ||horze.it.top^
 ||host.hotel.com^
 ||hostackhomefurnishings.shop^
+||hotbdorogo.cc^
 ||hotbmotoca.cc^
 ||hotbmuyedi.today^
 ||hotbnaxele.today^
@@ -2351,6 +2353,7 @@ redback..boots.com
 ||igetintopc.com^
 ||iiozb.shop^
 ||ijex.com^
+||ijex.pro^
 ||iklktec.com^
 ||ilclawgroup.com^
 ||imbictoz.com^
@@ -4894,6 +4897,7 @@ redback..boots.com
 ||viviennewestwoodoutlets.com^
 ||viviokko.com^
 ||vivivs.com^
+||viwew.click^
 ||vizivu.one^
 ||vntgvogue.com^
 ||vnzvietnam08.online^
