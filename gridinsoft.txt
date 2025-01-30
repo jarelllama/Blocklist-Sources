@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.29.233050.2025
+! Version: 01.30.000146.2025
 ! Expires: 30 minutes
-! Last modified: Wed Jan 29 23:30:50 UTC 2025
+! Last modified: Thu Jan 30 00:01:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5157
+! Number of entries: 5161
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
 ||02nev.cc^
@@ -751,6 +751,7 @@
 ||bookmarkfc.info^
 ||boomerenginvestitionen.com^
 ||boots.litbio.org^
+||bootymes.com^
 ||boounti.com^
 ||boscark.shop^
 ||bossfusion.xyz^
@@ -1174,6 +1175,7 @@
 ||couthix.com^
 ||couturedrift.com^
 ||couturevista.com^
+||cpalead.com^
 ||cpasbien.zip^
 ||cqzywhisper.shop^
 ||cr.brands.net^
@@ -4305,6 +4307,7 @@
 ||tackleft.com^
 ||tads.baker.co.za^
 ||takchu.com^
+||takewins.com^
 ||talentloompro.de.com^
 ||talentstreamnet.com^
 ||talklikesm.best^
@@ -4659,6 +4662,7 @@
 ||unionhow.top^
 ||uniqlosaleksa.com^
 ||uniquepropertygroup.co.uk^
+||uniquespinner.com^
 ||uniquetrustrades.com^
 ||unitedparcelexpress.online^
 ||universalwealth.org^
