@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.30.163511.2025
+! Version: 01.30.170104.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 30 16:35:11 UTC 2025
+! Last modified: Thu Jan 30 17:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5255
+! Number of entries: 5256
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -3777,6 +3777,7 @@ redback..boots.com
 ||quarkaitrade.com^
 ||qubetics.com^
 ||query.redir.com^
+||quickerapparently.com^
 ||quillpunt.online^
 ||quiltsbedspreads.com^
 ||quintessential.quillaig.shop^
