@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.30.223238.2025
+! Version: 01.30.230102.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 30 22:32:38 UTC 2025
+! Last modified: Thu Jan 30 23:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5280
+! Number of entries: 5285
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -777,6 +777,7 @@ redback..boots.com
 ||bowtiehouse.us^
 ||bpee.top^
 ||bphash.top^
+||bptmdensep.top^
 ||bran.ny.bond^
 ||branch.forex.com^
 ||brandedsstore.online^
@@ -1898,6 +1899,7 @@ redback..boots.com
 ||fordeeal.shop^
 ||forex.autotrades.com^
 ||forexmatrix.ltd^
+||forexpotentialtrade.com^
 ||forexpulse.site^
 ||forge.university.com^
 ||forge.wallet.com^
@@ -2040,6 +2042,7 @@ redback..boots.com
 ||getimage.online^
 ||getintopc.com^
 ||getoca.com^
+||getpersonalizedshop.com^
 ||getrumpmemes.cc^
 ||getrumpmemes.org^
 ||getshyne.com^
@@ -3568,6 +3571,7 @@ redback..boots.com
 ||petermillarsale.shop^
 ||petiteridiony.com^
 ||petronordstorage.nl^
+||petusmart.shop^
 ||pg77.game^
 ||pgfff8trk.com^
 ||phamcore.com^
@@ -4519,6 +4523,7 @@ redback..boots.com
 ||thetaus.top^
 ||thethaonhanphat.com^
 ||thetodayhealth.xyz^
+||thetrackrecord.org^
 ||thetradehub.net^
 ||thetruthinfo.club^
 ||theworkstep.com^
