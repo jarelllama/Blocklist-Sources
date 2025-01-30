@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.30.230102.2025
+! Version: 01.30.233049.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 30 23:01:02 UTC 2025
+! Last modified: Thu Jan 30 23:30:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5285
+! Number of entries: 5289
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -2375,6 +2375,7 @@ redback..boots.com
 ||iklktec.com^
 ||ilclawgroup.com^
 ||imbictoz.com^
+||immediate.daypro.co^
 ||immediateexalgoai.com^
 ||immediatepump.com^
 ||importantstuff.online^
@@ -3344,6 +3345,7 @@ redback..boots.com
 ||offersheres.net^
 ||offersjournal.com^
 ||officedesk.commercialdeals.online^
+||officialmaga.com^
 ||officialmagacoin.com^
 ||offresdespace24.com^
 ||ofrprizcoup.com^
@@ -4400,6 +4402,7 @@ redback..boots.com
 ||sxelin.com^
 ||sxioka.store^
 ||sxjxjcc.com^
+||sxsdg.com^
 ||sxyprn.net^
 ||sybbex.com^
 ||sycuantime.com^
@@ -5238,6 +5241,7 @@ redback..boots.com
 ||ytmp3.cc^
 ||ytmp3.ec^
 ||yts.skin^
+||yumbrandsreview.com^
 ||yumpulses.com^
 ||yunpso.com^
 ||yupoo.vip^
