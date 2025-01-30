@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.30.000146.2025
+! Version: 01.30.004519.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 30 00:01:46 UTC 2025
+! Last modified: Thu Jan 30 00:45:19 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5161
+! Number of entries: 5164
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
 ||02nev.cc^
@@ -3426,6 +3426,7 @@
 ||papdex.com^
 ||paperpadpen.com^
 ||paradisedesignsco.com^
+||paraear.co.uk^
 ||parajumpersoutlet.it^
 ||paramediavideo.blogspot.com^
 ||parapcc.com^
@@ -3733,6 +3734,7 @@
 ||rarechemsonline.org^
 ||raweggs.cc^
 ||raycart.in^
+||rbcroyalbankcanada.com^
 ||rbs55.top^
 ||rccarsale.shop^
 ||rclicks.in^
@@ -3864,6 +3866,7 @@
 ||roveaskin.fr^
 ||royal.marines.online^
 ||royalmail.i78.xyz^
+||royalmaillogistics.com^
 ||royalpinkcreations.com^
 ||royalqfinance.com^
 ||royalreels7.com^
