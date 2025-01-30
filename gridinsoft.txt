@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.30.083327.2025
+! Version: 01.30.090105.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 30 08:33:27 UTC 2025
+! Last modified: Thu Jan 30 09:01:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5219
+! Number of entries: 5224
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -632,6 +632,7 @@ redback..boots.com
 ||bitcoin.pays.com^
 ||bitcoinfreemining.com^
 ||bitcoinfum.cloud^
+||bitcoins.fund.manager.com^
 ||bitcoinsi.com^
 ||bitcoinwell.com^
 ||bitcoinx.app.com^
@@ -2003,6 +2004,7 @@ redback..boots.com
 ||gemini.foundation.org^
 ||geminin.s.com^
 ||geminiwealthwinnings.com^
+||geminycapltd.com^
 ||gen.jut.su.com^
 ||generadorespro24.com^
 ||general.xchange.pro^
@@ -2606,6 +2608,7 @@ redback..boots.com
 ||kremas.shop^
 ||krossify.com^
 ||krpod.com^
+||kryptos.io^
 ||ksda.online.org^
 ||kuailuon.com^
 ||kubabuy.com^
@@ -3816,6 +3819,7 @@ redback..boots.com
 ||reg.yourgamebuilder.com^
 ||regalosorpresivo.com^
 ||regenita.com^
+||reginakumaspells.com^
 ||register.aitprotocoldefi.network^
 ||register.bckrcoin.com^
 ||register.defi.app^
@@ -4307,6 +4311,7 @@ redback..boots.com
 ||superfesta.online^
 ||superficial.work.com^
 ||superkegel.store^
+||supermax888.site^
 ||superoffrs.com^
 ||supersery.com^
 ||superwatch.live^
