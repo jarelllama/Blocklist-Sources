@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.30.093113.2025
+! Version: 01.30.100053.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 30 09:31:13 UTC 2025
+! Last modified: Thu Jan 30 10:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5226
+! Number of entries: 5228
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1976,6 +1976,7 @@ redback..boots.com
 ||galacvy.com^
 ||galaxiumtoken.com^
 ||galjoyhit.com^
+||gallentra.com^
 ||gamacasino9448.xyz^
 ||gamblers.monster^
 ||gamblerx.fun^
@@ -4031,6 +4032,7 @@ redback..boots.com
 ||senso.cat^
 ||senteted.com^
 ||seokore.com^
+||serenbrisk.com^
 ||serenifty.com^
 ||sereno.madrid.com^
 ||server.dgm0.com^
