@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.30.070059.2025
+! Version: 01.30.073050.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 30 07:00:59 UTC 2025
+! Last modified: Thu Jan 30 07:30:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5211
+! Number of entries: 5215
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -211,6 +211,7 @@ redback..boots.com
 ||akurat33.com^
 ||akusoli.com^
 ||al.rafidahcapital.com^
+||al.sahabinvestment.com^
 ||albertcrypto.pro^
 ||alcazie.in^
 ||aldozapatos.com^
@@ -1271,6 +1272,7 @@ redback..boots.com
 ||cuan66.co^
 ||cuesandcases.com^
 ||cuevana3.ch^
+||cuisinepro.shop^
 ||cuisineskit.com^
 ||cupomdepix.online^
 ||cupvxu.com^
@@ -1577,6 +1579,7 @@ redback..boots.com
 ||egqgzks7sytjxydypez1ls.8akm5.ondigitalocean.app^
 ||egyptiantech.org^
 ||ehoaq.com^
+||ehoplay.com^
 ||eileenfisher.us.com^
 ||einhell.eusite.com^
 ||ekbrick.com^
@@ -2420,6 +2423,7 @@ redback..boots.com
 ||islanddluxe.top^
 ||isozpn.com^
 ||ispoeti.com^
+||istanbulmeeting.com^
 ||istarimart.com^
 ||istorechub.com^
 ||isx.financial^
