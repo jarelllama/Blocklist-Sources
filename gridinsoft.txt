@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.30.073050.2025
+! Version: 01.30.080110.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 30 07:30:50 UTC 2025
+! Last modified: Thu Jan 30 08:01:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5215
+! Number of entries: 5219
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -457,6 +457,7 @@ redback..boots.com
 ||babytoll.shop^
 ||babyu.shop^
 ||baccarats.com.au^
+||backcountrygunshop.com^
 ||backtoblu.online^
 ||baffinca.com^
 ||bagii.shop^
@@ -2714,6 +2715,7 @@ redback..boots.com
 ||linkmcltogel3.org^
 ||linkvertise.com^
 ||linnios.com^
+||linxbucks.net^
 ||lipozem.web.shop^
 ||lipozemus.com^
 ||lippizapatillaes.shop^
@@ -4213,6 +4215,7 @@ redback..boots.com
 ||spotifypremiumapk.com.co^
 ||spraisy.live^
 ||springcapipro.com^
+||springcp.online^
 ||springfieldarmoryarms.com^
 ||sprunkiphase.online^
 ||srchfst.com^
@@ -5071,6 +5074,7 @@ redback..boots.com
 ||wwtchain.top^
 ||www.6546.com^
 ||www.apeswap.org^
+||www.indigocard.com^
 ||www.jcb.co.vaengi.com^
 ||www.virtual.vip^
 ||www.y2mate.com^
