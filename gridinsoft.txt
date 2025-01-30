@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.30.063512.2025
+! Version: 01.30.070059.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 30 06:35:12 UTC 2025
+! Last modified: Thu Jan 30 07:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5206
+! Number of entries: 5211
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -77,6 +77,7 @@ redback..boots.com
 ||67phspin.vip^
 ||689fa.com^
 ||68shop.europe.com^
+||7.eleven.ac^
 ||777color87.com^
 ||7k.casino.16.online^
 ||7l77vn.site^
@@ -1398,6 +1399,7 @@ redback..boots.com
 ||devineprotocol.com^
 ||devzone2.online^
 ||dewbots.com^
+||dewjobs.com^
 ||dewsenergyconstruction.com^
 ||dex.trade.global^
 ||dexboss.io^
@@ -2132,6 +2134,7 @@ redback..boots.com
 ||grindsoft.com^
 ||grisportfrance.fr^
 ||grmontrewatches.com^
+||grokcoin.meme^
 ||growthcapinc.com^
 ||growthsedges.online^
 ||grunsguru.com^
@@ -2712,6 +2715,7 @@ redback..boots.com
 ||lippizapatillaes.shop^
 ||liquidationpalletshub.top^
 ||lisandoo.com^
+||listladder.com^
 ||litebix.com^
 ||litepick.io^
 ||littlefoliage.com^
@@ -4068,6 +4072,7 @@ redback..boots.com
 ||shoppingmall11.top^
 ||shoppingmall22.top^
 ||shoppingmall44.top^
+||shoppuz.com^
 ||shopr.tv^
 ||shopsaltana.com^
 ||shopsavvysimpsons.com^
