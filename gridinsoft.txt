@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.30.173151.2025
+! Version: 01.30.180102.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 30 17:31:51 UTC 2025
+! Last modified: Thu Jan 30 18:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5259
+! Number of entries: 5267
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -89,6 +89,7 @@ redback..boots.com
 ||82lottery9.in^
 ||852web3.io^
 ||88jl99.com^
+||8shop.instock.us.kg^
 ||8xfilms.living^
 ||90jogo5.com^
 ||988359.com^
@@ -1416,6 +1417,7 @@ redback..boots.com
 ||dewsenergyconstruction.com^
 ||dex.trade.global^
 ||dexboss.io^
+||dexmask.pro^
 ||dexonar.com^
 ||dexzet.com^
 ||dfi00dcub57gcevs69yg.com^
@@ -1809,6 +1811,7 @@ redback..boots.com
 ||fernandezfarmacia.com^
 ||ferzip.com^
 ||festival88.online^
+||fezuvax.com^
 ||fget.career.com^
 ||fhusg.com^
 ||fiahub.com^
@@ -1840,6 +1843,7 @@ redback..boots.com
 ||fintechmexicofestival.com^
 ||finzennews.com^
 ||firmdrexworld.com^
+||firstwin.click^
 ||firstwinbet.online^
 ||fissmarket.com^
 ||fitgirl.repacks.site^
@@ -2580,6 +2584,7 @@ redback..boots.com
 ||khelobet24.com^
 ||khipp.com^
 ||kickscrew.com^
+||kidol.in^
 ||kijl.online^
 ||kingpack7.quest^
 ||kinosotik.com^
@@ -3666,6 +3671,7 @@ redback..boots.com
 ||profittrade.live^
 ||projectplaygroundtech.com^
 ||projetparis.fr^
+||promask.pro^
 ||promo.offer.com^
 ||promptfunds.org^
 ||prompts.top^
@@ -3795,6 +3801,7 @@ redback..boots.com
 ||raineyeshadowguilty.com^
 ||rainsweb.com^
 ||rajatsinghchauhan.com^
+||rakoof.shop^
 ||ralkem.com^
 ||ralphlauren.best^
 ||randura.com^
@@ -5139,6 +5146,7 @@ redback..boots.com
 ||xerecoe.shop^
 ||xeromex.com^
 ||xewios.com^
+||xexdex.com^
 ||xfnity.id8743.info^
 ||xfnwnw.com^
 ||xgame.usdt.com^
