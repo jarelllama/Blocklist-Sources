@@ -3,11 +3,12 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.30.024243.2025
+! Version: 01.30.030109.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 30 02:42:43 UTC 2025
+! Last modified: Thu Jan 30 03:01:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5172
+! Number of entries: 5175
+redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
 ||02nev.cc^
@@ -2688,6 +2689,7 @@
 ||linkmcltogel3.org^
 ||linkvertise.com^
 ||linnios.com^
+||lipozem.web.shop^
 ||lipozemus.com^
 ||lippizapatillaes.shop^
 ||liquidationpalletshub.top^
@@ -3276,6 +3278,7 @@
 ||offresdespace24.com^
 ||ofrprizcoup.com^
 ||oguiadossonhos15anos.online^
+||ogxrh.com^
 ||ohatia.online^
 ||oilai.cc^
 ||oiufds.com^
