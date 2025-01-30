@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.30.180102.2025
+! Version: 01.30.183517.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 30 18:01:02 UTC 2025
+! Last modified: Thu Jan 30 18:35:17 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5267
+! Number of entries: 5270
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -2111,6 +2111,7 @@ redback..boots.com
 ||golddex.web3.net^
 ||golden.lucky.com^
 ||goldengooseselect.com^
+||goldengoosetgreece.cc^
 ||goldenpristine.com^
 ||golderagifts.com^
 ||golditry.com^
@@ -2192,6 +2193,7 @@ redback..boots.com
 ||h5.koinexbit.com^
 ||h5.visionaryaicinema.vip^
 ||h5.wltfund.com^
+||h5ufqm0.anusur.com^
 ||habmentsell.shop^
 ||hacerlouin.com^
 ||haidth.com^
@@ -4050,6 +4052,7 @@ redback..boots.com
 ||securedjointnetwork.co.in^
 ||sedonainvestments.co.uk^
 ||seedswanted.online^
+||seekthatonline.com^
 ||seephotograp.top^
 ||seletar.mall.vip^
 ||self.love.shop.co.uk^
