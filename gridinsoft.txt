@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.30.022404.2025
+! Version: 01.30.024243.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 30 02:24:04 UTC 2025
+! Last modified: Thu Jan 30 02:42:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5169
+! Number of entries: 5172
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
 ||02nev.cc^
@@ -2638,6 +2638,7 @@
 ||legendwox.online^
 ||legitdogemining.com^
 ||leisuwashtech.com^
+||lejuer.com^
 ||lekzhro.com^
 ||lemofax.com^
 ||lemovax.com^
@@ -2874,6 +2875,7 @@
 ||mechawats.shop^
 ||mecnex.com^
 ||med4go.com^
+||medaratradingbv.com^
 ||mediamartk.xyz^
 ||medicorners.com^
 ||mednakit.com^
@@ -4478,6 +4480,7 @@
 ||toolstationuk.shop^
 ||top.plans.fr^
 ||top.sportinggoods.shop^
+||topbestrunner.shop^
 ||topdailyfanaticspips.com^
 ||topdealsaving.com^
 ||topelitewealth.com^
