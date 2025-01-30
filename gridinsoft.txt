@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.30.053311.2025
+! Version: 01.30.060104.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 30 05:33:11 UTC 2025
+! Last modified: Thu Jan 30 06:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5202
+! Number of entries: 5205
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1950,6 +1950,7 @@ redback..boots.com
 ||fxcrypto.elites.com^
 ||fxcrypto.live^
 ||fxddarab.online^
+||fxlvls.com^
 ||fxminedeotra.com^
 ||fxnexapipstream.com^
 ||fxpipstrading.com^
@@ -2165,6 +2166,7 @@ redback..boots.com
 ||h5.visionaryaicinema.vip^
 ||h5.wltfund.com^
 ||habmentsell.shop^
+||hacerlouin.com^
 ||haidth.com^
 ||hakim.media^
 ||hamivibe.com^
@@ -2560,6 +2562,7 @@ redback..boots.com
 ||kisslove.com^
 ||kissminis.com^
 ||kisuort.shop^
+||kitchen.products.online^
 ||kitculture.store^
 ||kiterexchangez.click^
 ||kittycomfortstore.com^
