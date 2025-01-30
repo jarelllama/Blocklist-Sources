@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.30.033309.2025
+! Version: 01.30.040102.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 30 03:33:09 UTC 2025
+! Last modified: Thu Jan 30 04:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5180
+! Number of entries: 5186
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -458,6 +458,8 @@ redback..boots.com
 ||baffinca.com^
 ||bagii.shop^
 ||bagsupermarket.com^
+||balloon.com.co^
+||balloon.com.es^
 ||baloongame777.online^
 ||bamajt.world^
 ||bancaseguraporlnternetdeempresas.scotialbanrkperu.online^
@@ -941,6 +943,7 @@ redback..boots.com
 ||ccsnkrs.store^
 ||ccuqjc.top^
 ||cdonnsauw.top^
+||ceaondlet.com^
 ||ceipa.edu.co^
 ||celebprize.com^
 ||celeharm.com^
@@ -1397,6 +1400,7 @@ redback..boots.com
 ||dfi00dcub57gcevs69yg.com^
 ||dfiplus.com^
 ||dfr.corp.com^
+||dgenct.com^
 ||dghv.store^
 ||dhlmall.vip^
 ||diamantemcb.us^
@@ -3555,6 +3559,7 @@ redback..boots.com
 ||pocketoption.bwgcompany.com^
 ||pocketoption.com^
 ||pokebooster.fr^
+||pokepackbrostcg.com^
 ||pokexperiment.com^
 ||pokezone.ca^
 ||pokharaapartment.com^
@@ -3990,6 +3995,7 @@ redback..boots.com
 ||semphasize.com^
 ||semw.store^
 ||senarah.com^
+||senkaculture.com^
 ||sensernion.vip^
 ||senso.cat^
 ||senteted.com^
