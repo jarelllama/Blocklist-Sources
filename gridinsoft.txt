@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.30.030109.2025
+! Version: 01.30.033309.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 30 03:01:09 UTC 2025
+! Last modified: Thu Jan 30 03:33:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5175
+! Number of entries: 5180
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -2383,8 +2383,11 @@ redback..boots.com
 ||ipctd.online^
 ||ipfs.io^
 ||iprimetv.store^
+||ipshows4k.site^
+||iptv4d.com^
 ||iptvkaufen24.de^
 ||iptvnexus.com^
+||iptvnw.us^
 ||iptvproducts.com^
 ||iptvtvsmarters.com^
 ||iqmind.co^
@@ -3612,6 +3615,7 @@ redback..boots.com
 ||propandcounterfietmoney.com^
 ||propfirmpassingservice.net^
 ||propichain.finance^
+||prosaleoff.com^
 ||prospero.ae^
 ||proswapex.com^
 ||proteinbestsell.com^
@@ -4165,6 +4169,7 @@ redback..boots.com
 ||special.sale.sbs^
 ||specialtyvehiclesoftulsa.com^
 ||spectrumsbaloans.com^
+||speedii.shop^
 ||sphadsworld.com^
 ||spincex.com^
 ||spindletrade.org^
