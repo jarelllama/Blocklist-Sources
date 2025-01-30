@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.30.140057.2025
+! Version: 01.30.143212.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 30 14:00:57 UTC 2025
+! Last modified: Thu Jan 30 14:32:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5245
+! Number of entries: 5248
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -2281,6 +2281,7 @@ redback..boots.com
 ||horze.it.top^
 ||host.hotel.com^
 ||hostackhomefurnishings.shop^
+||hotbcopupu.cc^
 ||hotbdorogo.cc^
 ||hotbmotoca.cc^
 ||hotbmuyedi.today^
@@ -3197,6 +3198,7 @@ redback..boots.com
 ||newlearning.icu^
 ||newlrra.online^
 ||newrocksouthafrica.com^
+||news.bbavuri.info^
 ||news.bfowago.cc^
 ||news.bgitagu.cc^
 ||news.bgupona.cc^
@@ -3238,6 +3240,7 @@ redback..boots.com
 ||nft.babydoge.com^
 ||nft.fantasyapp.pages.dev^
 ||nftcolo.com^
+||nfwakawai.cz^
 ||nicedelicate.com^
 ||nicevps.net^
 ||nicliquid.com^
