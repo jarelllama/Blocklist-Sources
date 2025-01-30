@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.30.150058.2025
+! Version: 01.30.153201.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 30 15:00:58 UTC 2025
+! Last modified: Thu Jan 30 15:32:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5249
+! Number of entries: 5251
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -952,6 +952,7 @@ redback..boots.com
 ||ccard50.ru^
 ||ccsnkrs.store^
 ||ccuqjc.top^
+||cdn.a1.jumbomail.me^
 ||cdonnsauw.top^
 ||ceaondlet.com^
 ||ceipa.edu.co^
@@ -1783,6 +1784,7 @@ redback..boots.com
 ||fastbrush.online^
 ||fastconnectionflow.com^
 ||fastee.top^
+||fastlovestore.sbs^
 ||fastnetworks.xyz^
 ||fastshare.cloud^
 ||fastswap.one^
