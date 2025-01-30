@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.30.043408.2025
+! Version: 01.30.050052.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 30 04:34:08 UTC 2025
+! Last modified: Thu Jan 30 05:00:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5191
+! Number of entries: 5198
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -560,6 +560,7 @@ redback..boots.com
 ||biconomy.com^
 ||bielsko.biala.online^
 ||big.bossaviator.com^
+||bigboobdate.com^
 ||bigfat.chat^
 ||biggetex.com^
 ||biglotsclosures.com^
@@ -787,6 +788,7 @@ redback..boots.com
 ||bridgeconnection.co.in^
 ||brieam.com^
 ||brighodew.com^
+||brightoncannabisclub.co.uk^
 ||brilliantlyouth.store^
 ||britishairwaysroyaldeliverycompany.com^
 ||bruleuzz.com^
@@ -885,6 +887,7 @@ redback..boots.com
 ||capital.fargofx.ltd^
 ||capital.shares.com^
 ||capitalbean.com^
+||capitalgrowthalliance.org^
 ||capitalix.com^
 ||capitalmastery.org^
 ||capitalquesttrades.com^
@@ -2609,6 +2612,7 @@ redback..boots.com
 ||labs24.nl^
 ||labscosmic.net^
 ||laceandlush.com^
+||lacebread.com^
 ||lacefaves.com^
 ||lacostes.com.mx^
 ||ladysstreet.com^
@@ -4054,6 +4058,7 @@ redback..boots.com
 ||shopifyoutlets.com^
 ||shoponlinesale.shop^
 ||shopotopeni.net^
+||shopping2025.ru^
 ||shoppingmall11.top^
 ||shoppingmall22.top^
 ||shoppingmall44.top^
@@ -4170,6 +4175,7 @@ redback..boots.com
 ||sos.bg.sof.1.exo.io^
 ||soundcoreindiawebsite.com^
 ||southafricalotto.co.za^
+||sovereigngoldengate.com^
 ||spagamia.com^
 ||spaindvs.com^
 ||sparkflr.info^
@@ -4701,6 +4707,7 @@ redback..boots.com
 ||unnatitoys.com^
 ||unvaulted.coomer.party^
 ||unveriumenflue.com^
+||up999999.com^
 ||upayy.online^
 ||upb.edu.co^
 ||upgoods.shop^
