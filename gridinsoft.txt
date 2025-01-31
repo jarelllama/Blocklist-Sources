@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.31.100058.2025
+! Version: 01.31.103348.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 31 10:00:58 UTC 2025
+! Last modified: Fri Jan 31 10:33:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5345
+! Number of entries: 5349
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1480,6 +1480,7 @@ redback..boots.com
 ||discoverymart.net^
 ||discttime.shop^
 ||distoysonline.com^
+||distributionretard.com^
 ||disusdt.cc^
 ||diversitymeds.com^
 ||divicast.com^
@@ -3724,6 +3725,7 @@ redback..boots.com
 ||profittrade.live^
 ||projectplaygroundtech.com^
 ||projetparis.fr^
+||prologisticsolution.com^
 ||promask.pro^
 ||promo.offer.com^
 ||promptfunds.org^
@@ -4238,6 +4240,7 @@ redback..boots.com
 ||slotsaces.net^
 ||slotstat.net^
 ||smahealthbenefits.com^
+||smart.finances.org^
 ||smartearningpool.online^
 ||smartgyro.es^
 ||smartmove.biz^
@@ -4859,6 +4862,7 @@ redback..boots.com
 ||us.viiceemall.com^
 ||usa.hellyhansen.com^
 ||usa.mito.com^
+||usafis.org^
 ||usahawanlg.my^
 ||usahellyhansen.com^
 ||usamedsdeals24.com^
