@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.31.183457.2025
+! Version: 01.31.190050.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 31 18:34:57 UTC 2025
+! Last modified: Fri Jan 31 19:00:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5377
+! Number of entries: 5382
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1570,6 +1570,7 @@ redback..boots.com
 ||eaglepointx.org^
 ||eagletrade.in^
 ||earn.pepe.com^
+||earnblocks.com^
 ||earncrash.in^
 ||earnscashmb.buzz^
 ||earnytbvideo.top^
@@ -2887,6 +2888,7 @@ redback..boots.com
 ||luxins.shop^
 ||luxriahu2.quest^
 ||luxurydo.ru^
+||luxxfur.com^
 ||lvl.singapore.pte.site^
 ||lvlbit.com^
 ||lwbbc.com^
@@ -2965,6 +2967,7 @@ redback..boots.com
 ||matteomarcelli.com^
 ||mavliker.net^
 ||mavocossycloud.com^
+||maxcapitaltrust.online^
 ||maxcgi.com^
 ||maxclick.xyz^
 ||maxfinishseveral.com^
@@ -2992,6 +2995,7 @@ redback..boots.com
 ||meerai.io^
 ||mega.easy.prize.pro^
 ||megaflix.co^
+||megalotery.com^
 ||megalxibtrade.com^
 ||megatrendsplaza.shop^
 ||meindl.norge.com^
@@ -5196,6 +5200,7 @@ redback..boots.com
 ||world.dailyincome.com^
 ||world.delivery.service.com^
 ||worldfamoushotboys.net^
+||worldinvestorssrl.net^
 ||worldlibertyfinancial.com^
 ||worldmovesolutions.com^
 ||worldnftmarket.top^
