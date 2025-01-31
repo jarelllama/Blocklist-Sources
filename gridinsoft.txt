@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.31.203104.2025
+! Version: 01.31.210050.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 31 20:31:04 UTC 2025
+! Last modified: Fri Jan 31 21:00:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5387
+! Number of entries: 5394
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1035,6 +1035,7 @@ redback..boots.com
 ||cisuzou.com^
 ||cit.invests.com^
 ||cite.architecture.org^
+||citexbits.com^
 ||citibanamex.serv00.net^
 ||citrusgraphics.com.au^
 ||cituuyed.com^
@@ -4936,6 +4937,7 @@ redback..boots.com
 ||v9drop.com^
 ||vacolex.com^
 ||vajero.com^
+||valentinatang.com^
 ||valeriehouseofdigital.online^
 ||validatemypimainnetwallet.online^
 ||valtenz.top^
@@ -4976,6 +4978,7 @@ redback..boots.com
 ||verpeliculasultra.com^
 ||verskyultimate.top^
 ||verticalvinvehicle.com^
+||verunax.com^
 ||vestrum.io^
 ||vetusgifts.com^
 ||vevorheater.com^
@@ -5004,6 +5007,7 @@ redback..boots.com
 ||vikashtiwari97.github.io^
 ||villalemana.cl^
 ||vilmoria.com^
+||vilotex.com^
 ||vincecomfort.com^
 ||vineyardsoutlet.com^
 ||vinkaoilgasconsultant.com^
@@ -5045,6 +5049,7 @@ redback..boots.com
 ||volundvt.dk^
 ||vopifg.com^
 ||vorgang.abschliessen.online^
+||vorobit.com^
 ||votelya.com^
 ||votingplatform.ct.ws^
 ||vovara.brisbane.com^
@@ -5141,6 +5146,7 @@ redback..boots.com
 ||wenku.k8kaifa.com^
 ||westernaitrade.com^
 ||westtic.com^
+||wetoxy.com^
 ||wfbs.store^
 ||wfoqfashion.shop^
 ||wftqatar.com^
@@ -5264,6 +5270,7 @@ redback..boots.com
 ||xfnity.id8743.info^
 ||xfnwnw.com^
 ||xgame.usdt.com^
+||xhhmsc.shop^
 ||xilsen.com^
 ||ximqijiu.online^
 ||ximqiwu.online^
