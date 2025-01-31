@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.31.012740.2025
+! Version: 01.31.015952.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 31 01:27:40 UTC 2025
+! Last modified: Fri Jan 31 01:59:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5305
+! Number of entries: 5312
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -413,6 +413,7 @@ redback..boots.com
 ||atb14.com^
 ||atb15.com^
 ||atheemart.top^
+||athenafinanceltd.in^
 ||athna.su^
 ||ativado.org^
 ||atlasore.com^
@@ -1514,6 +1515,7 @@ redback..boots.com
 ||dpd777.cc^
 ||dpe.gov.bd^
 ||dragonfly.shop.com^
+||drakar.one^
 ||draliko.com^
 ||drapehue.com^
 ||drawmaniauk.shop^
@@ -1548,6 +1550,7 @@ redback..boots.com
 ||dystarwears.com^
 ||dzan23.cn^
 ||e.bookforthought.com^
+||eagleautomotivesales.com^
 ||eaglecrestonline.com^
 ||eaglepointx.org^
 ||eagletrade.in^
@@ -1833,6 +1836,7 @@ redback..boots.com
 ||fileplanet.com^
 ||files.fm^
 ||filmgratuit.stream^
+||filmyfly.esq^
 ||finan.ssl.wemfbox.ch^
 ||financeaa.vip^
 ||financehub.help^
@@ -2076,6 +2080,7 @@ redback..boots.com
 ||gihsfilm.weebly.com^
 ||gimelove.com^
 ||girlfriendwisely.com^
+||givemeanswers.net^
 ||givespacex.io^
 ||glamoreal.com^
 ||glanzberg.mode.de^
@@ -4407,6 +4412,7 @@ redback..boots.com
 ||swiftcryptox.com^
 ||swiftfinverge.com^
 ||swingdeceive.com^
+||swingfxmarket.com^
 ||swipelake.shop^
 ||swiss.mo.inv.com^
 ||switbittradepips.com^
@@ -5120,6 +5126,7 @@ redback..boots.com
 ||wmartrewards.com^
 ||wmomall.space^
 ||wndzs.com^
+||woifu.com^
 ||womoke.com^
 ||woonr.top^
 ||work44.com^
