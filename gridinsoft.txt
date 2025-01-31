@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.31.130412.2025
+! Version: 01.31.133215.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 31 13:04:12 UTC 2025
+! Last modified: Fri Jan 31 13:32:15 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5359
+! Number of entries: 5361
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -2288,6 +2288,7 @@ redback..boots.com
 ||hkapp.telegram.net^
 ||hkcryptoexchange.com^
 ||hkdatong.shop^
+||hkfutufund.com^
 ||hlamw.top^
 ||hlgonaricks.com^
 ||hm.ru^
@@ -3905,6 +3906,7 @@ redback..boots.com
 ||redomax.online^
 ||redozen.online^
 ||redsphere.solutions^
+||reeglist.store^
 ||reegwallet.store^
 ||reelshort.2025.com^
 ||ref.eu.com^
