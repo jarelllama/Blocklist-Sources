@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.31.124204.2025
+! Version: 01.31.130412.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 31 12:42:04 UTC 2025
+! Last modified: Fri Jan 31 13:04:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5353
+! Number of entries: 5359
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1645,6 +1645,7 @@ redback..boots.com
 ||emboldnoblefx.com^
 ||emcustomstudios.com^
 ||emea01.safelinks.protection.outlook.com^
+||emeraldbux.com^
 ||emeralfates.com^
 ||emergencyplumbingservices3009.online^
 ||emetom.com^
@@ -3475,6 +3476,7 @@ redback..boots.com
 ||optionstradeshub.com^
 ||optnutritips.com^
 ||orange.co.uk^
+||orbisbux.com^
 ||orbitdigitalfund.com^
 ||orbitray.cc^
 ||orcaslicer.co^
@@ -3750,6 +3752,7 @@ redback..boots.com
 ||psschool.edu.bd^
 ||psychedelicsdispensaryonline.com^
 ||psychrine.com^
+||pt.rockport.com^
 ||pth223.com^
 ||pth668.com^
 ||pu220ev.com^
@@ -3988,6 +3991,7 @@ redback..boots.com
 ||robochipcfd.biz^
 ||roboq.cc^
 ||rockhillcapital.org^
+||rockport.pt.com^
 ||rockportfrance.fr^
 ||rogofodeputeburomi.shop^
 ||rojadirectvonline.com^
@@ -4013,6 +4017,7 @@ redback..boots.com
 ||rpnodes.tech^
 ||rroyaltyj.monster^
 ||rturd.com^
+||rufiji.capital^
 ||rugbywow.com^
 ||ruktu.com^
 ||rumadining.com^
@@ -4941,6 +4946,7 @@ redback..boots.com
 ||ventrobi.io^
 ||ventulor.com^
 ||vepnext.com^
+||veralea.com^
 ||veroir.com^
 ||verol.shop^
 ||verpeliculasultra.com^
