@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.31.080057.2025
+! Version: 01.31.083329.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 31 08:00:57 UTC 2025
+! Last modified: Fri Jan 31 08:33:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5336
+! Number of entries: 5338
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -3571,6 +3571,7 @@ redback..boots.com
 ||pazaswq.com^
 ||pazvbha.com^
 ||pbrs.affectation.com^
+||pbs.affectation.com^
 ||pcex.com^
 ||pchelpsoft.com^
 ||pe.trabajosdiarios.com^
@@ -4835,6 +4836,7 @@ redback..boots.com
 ||upayy.online^
 ||upb.edu.co^
 ||upgoods.shop^
+||upiptv.de^
 ||upizoneltd.com^
 ||upjmall.info^
 ||uploadhaven.com^
