@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.30.233049.2025
+! Version: 01.31.000149.2025
 ! Expires: 30 minutes
-! Last modified: Thu Jan 30 23:30:49 UTC 2025
+! Last modified: Fri Jan 31 00:01:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5289
+! Number of entries: 5296
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1353,6 +1353,7 @@ redback..boots.com
 ||dcodesnippet.com^
 ||dcqww.com^
 ||ddsteel.online^
+||deacetrader.com^
 ||dealzforu.pro^
 ||deans.shoprite.online^
 ||deathance.com^
@@ -2071,6 +2072,7 @@ redback..boots.com
 ||gifttowallet.com^
 ||giftvalidator.com^
 ||gihsfilm.weebly.com^
+||gimelove.com^
 ||girlfriendwisely.com^
 ||givespacex.io^
 ||glamoreal.com^
@@ -2415,6 +2417,7 @@ redback..boots.com
 ||integratedapps.tech^
 ||intelligiencehub.com^
 ||inter.entregas.online^
+||interac.capital.com^
 ||interactive.pov.com^
 ||interelecbox.com^
 ||interexpresscourier.com^
@@ -3421,6 +3424,7 @@ redback..boots.com
 ||onlymegalovers.com^
 ||onlymodels.me^
 ||onlyterrific.com^
+||onnkfv.shop^
 ||onpriority.com^
 ||onruning.top^
 ||onrunning.top^
@@ -3982,6 +3986,7 @@ redback..boots.com
 ||ryfibei.shop^
 ||rynolia.com^
 ||s.dz.com^
+||s.optvz.com^
 ||s1gamer.online^
 ||s2.skladchinmore.net^
 ||s66639.co^
@@ -4644,6 +4649,7 @@ redback..boots.com
 ||tradewiseexchange.net^
 ||tradextron.top^
 ||trading.elevation.net^
+||tradingcardsstoredeals.com^
 ||tradingpoint.cc^
 ||tradion.cyou^
 ||tradiso.com^
@@ -5176,6 +5182,7 @@ redback..boots.com
 ||xinetex.com^
 ||xjsv.store^
 ||xmbroker.click^
+||xmcopytrade.com^
 ||xo123.cc^
 ||xo789.cc^
 ||xordecisions.com^
