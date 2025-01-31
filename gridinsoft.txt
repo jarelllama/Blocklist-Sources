@@ -3,9 +3,9 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.31.043328.2025
+! Version: 01.31.050046.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 31 04:33:28 UTC 2025
+! Last modified: Fri Jan 31 05:00:46 UTC 2025
 ! Syntax: Adblock Plus
 ! Number of entries: 5325
 redback..boots.com
