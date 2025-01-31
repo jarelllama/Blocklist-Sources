@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.31.004516.2025
+! Version: 01.31.012740.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 31 00:45:16 UTC 2025
+! Last modified: Fri Jan 31 01:27:40 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5299
+! Number of entries: 5305
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -235,6 +235,7 @@ redback..boots.com
 ||allinonemarket.online^
 ||alljerseys.io^
 ||allmy.cam^
+||allora.toronto.com^
 ||allsmm.net^
 ||allstarhomeandgarden.za.com^
 ||alltrainerspc.com^
@@ -297,6 +298,7 @@ redback..boots.com
 ||animvip.com^
 ||ankr.top^
 ||annafieldshops.fr^
+||annexdeliveryservice.com^
 ||annuallye.com^
 ||anonhost.xyz^
 ||anonym.ninja^
@@ -2091,6 +2093,7 @@ redback..boots.com
 ||globalflashco.com^
 ||globalfutureltd.com^
 ||globallogisticsco.com^
+||globalnexusoptimum.com^
 ||globalnotelab.com^
 ||globalsfundrecovery.com^
 ||globalsmartrade.com^
@@ -2220,6 +2223,7 @@ redback..boots.com
 ||harvestcommunityunion.com^
 ||harveylux.com^
 ||hashfactor.net^
+||hashmart.vip^
 ||hassampc.com^
 ||havenstiendas.com^
 ||hayeswheel.com^
@@ -2823,6 +2827,7 @@ redback..boots.com
 ||ltc.mine.com^
 ||ltcautomining.com^
 ||ltcminer.com^
+||ltcming.pw^
 ||ltcpay.net^
 ||ltcxminer.pro^
 ||luatypticures.co.in^
@@ -4693,6 +4698,7 @@ redback..boots.com
 ||tromevixion.live^
 ||tron.soy^
 ||tronfast.org^
+||trongo.top^
 ||tronholdingsllc.com^
 ||tronlok.tv^
 ||tronminingfarm.com^
