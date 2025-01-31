@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.31.193048.2025
+! Version: 01.31.200053.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 31 19:30:48 UTC 2025
+! Last modified: Fri Jan 31 20:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5384
+! Number of entries: 5387
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1523,6 +1523,7 @@ redback..boots.com
 ||dork.baby^
 ||dorobotvip.com^
 ||doswex.com^
+||dosya.co^
 ||download.wondershare.net^
 ||downloadfiles.link^
 ||dowynert.com^
@@ -3668,6 +3669,7 @@ redback..boots.com
 ||pixbay.online^
 ||pkvn68.online^
 ||placeofgame.com^
+||plantkindom.com^
 ||platform8414.com^
 ||play.cantikpggames.com^
 ||play.qqvip303.online^
@@ -4428,6 +4430,7 @@ redback..boots.com
 ||sunbit.cc^
 ||sunbit.ren^
 ||sundararajanneurohospital.com^
+||sunriseshop.in^
 ||suny77.online^
 ||sunyiying.com^
 ||super.ai.me^
