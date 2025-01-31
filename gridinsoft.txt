@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.31.230049.2025
+! Version: 01.31.233049.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 31 23:00:49 UTC 2025
+! Last modified: Fri Jan 31 23:30:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5398
+! Number of entries: 5401
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -103,6 +103,7 @@ redback..boots.com
 ||a1b2c4.shop^
 ||aariatees.net^
 ||aattechnologies.net^
+||aawfurniture.com^
 ||abaok.vip^
 ||abdullahonline.store^
 ||aberfields.com^
@@ -1725,6 +1726,7 @@ redback..boots.com
 ||estarenergy.ltd^
 ||estherwinter.eu^
 ||estiloargento.com.ar^
+||estrazint.com^
 ||esysgb.com^
 ||etdase.com^
 ||eterminal.net^
@@ -3120,6 +3122,7 @@ redback..boots.com
 ||mobile.btcoinus.org^
 ||mobilecasino88.com^
 ||mobilephotokiosk.app^
+||mobofox.site^
 ||modacloaks.com^
 ||modefi4o.com^
 ||modeflair.com^
