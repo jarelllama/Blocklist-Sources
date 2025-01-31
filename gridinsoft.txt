@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.31.060051.2025
+! Version: 01.31.063553.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 31 06:00:51 UTC 2025
+! Last modified: Fri Jan 31 06:35:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5325
+! Number of entries: 5327
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -307,6 +307,7 @@ redback..boots.com
 ||antasportsjapan.com^
 ||antautosurf.com^
 ||anti.fraudcentre.com^
+||antibot.v2.com^
 ||antigellingeriesale.com^
 ||aouve.store^
 ||apanharwatch.com^
@@ -3336,6 +3337,7 @@ redback..boots.com
 ||nudify.online^
 ||nupdhyzetb.com^
 ||nuroswealth.org^
+||nurturepetwellness.com^
 ||nutraway.top^
 ||nvidiaai.bet^
 ||nvidiaair.com^
