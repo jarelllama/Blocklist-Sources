@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.31.063553.2025
+! Version: 01.31.070103.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 31 06:35:53 UTC 2025
+! Last modified: Fri Jan 31 07:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5327
+! Number of entries: 5332
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1970,6 +1970,7 @@ redback..boots.com
 ||fulenix.com^
 ||funcapsnl.com^
 ||fundedbullfx.com^
+||fundsretrievalpanel.com^
 ||fundxrecover.com^
 ||fungretail.shop^
 ||funnel.peonlyshop.com^
@@ -3019,6 +3020,7 @@ redback..boots.com
 ||micro100.life^
 ||microdr.ones.com.ng^
 ||micropic.com.br^
+||microsoftmailgfcyggwfaomrdta.tiponside.com^
 ||microstrategy.xin^
 ||midlandintercontinental.com^
 ||midly.in^
@@ -3561,6 +3563,7 @@ redback..boots.com
 ||pawsitivetraining.online^
 ||pay.risepay.com.br^
 ||paybaz.com^
+||paybitopro.com^
 ||paygateway.lol^
 ||pazaswq.com^
 ||pazvbha.com^
@@ -3593,6 +3596,7 @@ redback..boots.com
 ||personalloans30096.online^
 ||pesaksh.org^
 ||pesdnfeje.shop^
+||pesktop.com^
 ||petermillarsale.shop^
 ||petiteridiony.com^
 ||petronordstorage.nl^
@@ -3722,6 +3726,7 @@ redback..boots.com
 ||proswapex.com^
 ||proteinbestsell.com^
 ||protocolsafe.co.in^
+||proupwholesale.com^
 ||proveedor.io^
 ||przedstawiamynagranie.click^
 ||przekazujemy.click^
