@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.31.140050.2025
+! Version: 01.31.143257.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 31 14:00:50 UTC 2025
+! Last modified: Fri Jan 31 14:32:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5364
+! Number of entries: 5367
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -890,6 +890,7 @@ redback..boots.com
 ||cacr883.com^
 ||cadogoa.shop^
 ||cafeciro.in^
+||cagovip.com^
 ||cailingxi.com^
 ||caldwellassetsmanagement.com^
 ||caliwebstudios.com^
@@ -2531,6 +2532,7 @@ redback..boots.com
 ||jetmarssofertas.online^
 ||jewelrygiftcenter.com^
 ||jewelrysgiftstore.com^
+||jgyfgroup.co^
 ||jigsawmans.online^
 ||jikinideals.shop^
 ||jiuyu.fit^
@@ -2588,6 +2590,7 @@ redback..boots.com
 ||jysk.sale.com^
 ||jyskfurniture.eu.com^
 ||jyskhome.eu.com^
+||jyskus.com^
 ||k.waymall.shop^
 ||k03p.xyz^
 ||kadesignandbuild.co.uk^
