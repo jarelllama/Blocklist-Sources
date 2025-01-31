@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.31.024439.2025
+! Version: 01.31.030130.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 31 02:44:39 UTC 2025
+! Last modified: Fri Jan 31 03:01:30 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5318
+! Number of entries: 5321
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1134,6 +1134,7 @@ redback..boots.com
 ||coinoah.vip.cc^
 ||coinomi.com^
 ||coins.shade.com^
+||coinsamp.com^
 ||coinsland.top^
 ||coinsorex.com^
 ||coinswift.exchange^
@@ -1611,6 +1612,7 @@ redback..boots.com
 ||eldercity.xyz^
 ||eleganthush.com^
 ||elineverhoye.shop^
+||elitecapitalgain.org^
 ||elitecapitalmarket.com^
 ||elitecapitalprofits.com^
 ||eliteclonecards.com^
@@ -5158,6 +5160,7 @@ redback..boots.com
 ||wqwln8trk.com^
 ||wristpointshop.com^
 ||writerless.online^
+||wsimply.com^
 ||wtcentral.com^
 ||wtemerityv.monster^
 ||wtgu.store^
