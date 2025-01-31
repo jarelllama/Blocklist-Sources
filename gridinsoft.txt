@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 01.31.030130.2025
+! Version: 01.31.033214.2025
 ! Expires: 30 minutes
-! Last modified: Fri Jan 31 03:01:30 UTC 2025
+! Last modified: Fri Jan 31 03:32:14 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5321
+! Number of entries: 5325
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -2963,6 +2963,7 @@ redback..boots.com
 ||mecnex.com^
 ||med4go.com^
 ||medaratradingbv.com^
+||media.io^
 ||mediamartk.xyz^
 ||medicorners.com^
 ||mednakit.com^
@@ -4847,6 +4848,7 @@ redback..boots.com
 ||usde.ink^
 ||usdpick.io^
 ||usdt.eth66d.net^
+||usdt.jmsmucker.vip.org^
 ||usdtbb.com^
 ||usdtboost.com^
 ||usdtflasher.org^
@@ -5101,6 +5103,7 @@ redback..boots.com
 ||whubaesingotbrewer.com^
 ||wiaa.in^
 ||wichhistor.co.uk^
+||wideopentriggers.com^
 ||williamarnold.online^
 ||williamhillfixedmatch.com^
 ||wilsoncrypto.pro^
@@ -5324,6 +5327,7 @@ redback..boots.com
 ||ztmining.com^
 ||ztudim.work.top^
 ||ztxzhb.shop^
+||zucess.online.com^
 ||zuhouee.com^
 ||zutaonline.com^
 ||zx3.io^
