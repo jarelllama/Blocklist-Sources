@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.01.050106.2025
+! Version: 02.01.053205.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  1 05:01:06 UTC 2025
+! Last modified: Sat Feb  1 05:32:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5428
+! Number of entries: 5431
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -2102,6 +2102,7 @@ redback..boots.com
 ||gfslsecurities.cc^
 ||ggff.net^
 ||gggwg.online^
+||ggjdc.com^
 ||ggwin.bet^
 ||gh.rcgolds.com^
 ||ghomesmart.com^
@@ -4652,6 +4653,7 @@ redback..boots.com
 ||timberlandenchiles.top^
 ||timberlandmx.com.mx^
 ||timebtc.com^
+||timegetgo.com^
 ||timestaking.me^
 ||timestrendd.com^
 ||timexespana.com.es^
@@ -5298,6 +5300,7 @@ redback..boots.com
 ||xegukiy.shop^
 ||xeodeals.shop^
 ||xerecoe.shop^
+||xerocoke.com^
 ||xeromex.com^
 ||xewios.com^
 ||xexdex.com^
