@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.01.230100.2025
+! Version: 02.01.233046.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  1 23:01:00 UTC 2025
+! Last modified: Sat Feb  1 23:30:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5517
+! Number of entries: 5521
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -2380,6 +2380,7 @@ redback..boots.com
 ||hookupers.co^
 ||hopifex.com^
 ||hopsonflagship.com^
+||horizonblockhash.com^
 ||horizoncapitals.org^
 ||horyx.shop^
 ||horze.it.top^
@@ -2852,6 +2853,7 @@ redback..boots.com
 ||link.center.net^
 ||link.traders.com^
 ||linkaa.cyou^
+||linkdewacukong88.pro^
 ||linkgurd.online^
 ||linkmcltogel3.org^
 ||linkvertise.com^
@@ -3127,6 +3129,7 @@ redback..boots.com
 ||miespe.espe.edu.ec^
 ||migflash.net^
 ||mightycleansolutions.com^
+||mightypol.com^
 ||migraine.massage.service.988.online^
 ||migration.dioneprotocol.pages.dev^
 ||miiiralo.com^
@@ -3441,6 +3444,7 @@ redback..boots.com
 ||nowmining.fun^
 ||nowquality.ca^
 ||npebr8trk.com^
+||nrilimited.com^
 ||nrsa.in^
 ||nt.h5.com^
 ||nubil.nl^
