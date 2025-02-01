@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.01.100059.2025
+! Version: 02.01.103238.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  1 10:00:59 UTC 2025
+! Last modified: Sat Feb  1 10:32:38 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5441
+! Number of entries: 5443
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -138,6 +138,7 @@ redback..boots.com
 ||action.profits.com^
 ||activations.ledger.com^
 ||activeprobeauty.com^
+||actufinance.fr^
 ||adatenight.com^
 ||adblocker.one^
 ||addressfinancial.com^
@@ -418,7 +419,6 @@ redback..boots.com
 ||ataraxonline.net^
 ||atb14.com^
 ||atb15.com^
-||ath.genesisminning.com^
 ||atheemart.top^
 ||athenafinanceltd.in^
 ||athna.su^
@@ -2075,6 +2075,7 @@ redback..boots.com
 ||generadorespro24.com^
 ||general.xchange.pro^
 ||genesisminingbot.com^
+||genesisminning.com^
 ||geninsur.com^
 ||genwoleads.top^
 ||geographz.com^
@@ -4608,6 +4609,7 @@ redback..boots.com
 ||thefinal.show.com^
 ||theflashlightshop.com^
 ||thefurniturestudio.store^
+||thegenesismining.com^
 ||theglowdrive.com^
 ||thegoodguyssignup.com^
 ||theguisson.co.uk^
