@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.01.193055.2025
+! Version: 02.01.200050.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  1 19:30:55 UTC 2025
+! Last modified: Sat Feb  1 20:00:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5482
+! Number of entries: 5490
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -527,6 +527,7 @@ redback..boots.com
 ||bedtige.top^
 ||bedtodream.com^
 ||beedermaus.com^
+||beeintv.com^
 ||beetlejuice.2.online^
 ||befilabs.space^
 ||behque.click^
@@ -1485,6 +1486,7 @@ redback..boots.com
 ||digitalkeysoftware.com^
 ||digitalolive.shop^
 ||digitalsmartone.online^
+||digitalterra.org^
 ||digitalwebchain.xyz^
 ||digiterminator.online^
 ||digitsagency.online^
@@ -2328,6 +2330,7 @@ redback..boots.com
 ||hikarudistribution.com^
 ||himalayaoutlet.me^
 ||hindappstore.com^
+||hippo.mall.vip^
 ||hiptrain.digital^
 ||hireahackers.pro^
 ||hireuphelp.online^
@@ -2575,6 +2578,7 @@ redback..boots.com
 ||jbei99.vip^
 ||jbnil.top^
 ||jdmax88.com^
+||jennyfloyd.shop^
 ||jerseyeugee.com^
 ||jesellear.best^
 ||jessemade.es^
@@ -2646,6 +2650,7 @@ redback..boots.com
 ||kadesignandbuild.co.uk^
 ||kadobarvapesstore.com^
 ||kagevest.org^
+||kaigong.shop^
 ||kalpwd.vip^
 ||kamagrafrance.com^
 ||kamagraonline.com^
@@ -4119,6 +4124,7 @@ redback..boots.com
 ||rynolia.com^
 ||s.dz.com^
 ||s.optvz.com^
+||s1.expresswallet.pro^
 ||s1gamer.online^
 ||s2.skladchinmore.net^
 ||s66639.co^
@@ -4754,6 +4760,7 @@ redback..boots.com
 ||toppills.com^
 ||toppipoptions.online^
 ||topsmanings.top^
+||topsmmshops.com^
 ||topthingsinlife.com^
 ||toptoolskits.com^
 ||topvibes.top^
@@ -5055,6 +5062,7 @@ redback..boots.com
 ||verol.shop^
 ||verpeliculasultra.com^
 ||verskyultimate.top^
+||vertexxchange.com^
 ||verticalvinvehicle.com^
 ||verunax.com^
 ||vestrum.io^
