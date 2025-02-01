@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.01.004530.2025
+! Version: 02.01.012806.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  1 00:45:30 UTC 2025
+! Last modified: Sat Feb  1 01:28:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5409
+! Number of entries: 5415
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -188,6 +188,7 @@ redback..boots.com
 ||aifuturepro.io^
 ||aiignedfoundation.genesis.com^
 ||aiinvesttron.com^
+||aimxecoin.com^
 ||ainewslive.online^
 ||ainology.com^
 ||airbagtravel.store^
@@ -2306,6 +2307,7 @@ redback..boots.com
 ||hkcryptoexchange.com^
 ||hkdatong.shop^
 ||hkfutufund.com^
+||hklminingtech.com^
 ||hlamw.top^
 ||hlgonaricks.com^
 ||hm.ru^
@@ -3338,6 +3340,7 @@ redback..boots.com
 ||niolic.com^
 ||nira.id^
 ||nitrobet.club^
+||nitronsignalmarket.com^
 ||nkninkqq.com^
 ||nlcrents.com^
 ||nlleenbakker.com^
@@ -4256,6 +4259,7 @@ redback..boots.com
 ||sk5698.com^
 ||sk5698.top^
 ||skandere.online^
+||skateshoesonline.sk^
 ||skhealthline.com^
 ||skidipapap.online^
 ||skillcrafttech.com^
@@ -5221,6 +5225,7 @@ redback..boots.com
 ||woonr.top^
 ||work44.com^
 ||worker.cash^
+||workpathnet.com^
 ||workshop.forex.com^
 ||world.dailyincome.com^
 ||world.delivery.service.com^
@@ -5244,6 +5249,7 @@ redback..boots.com
 ||wristpointshop.com^
 ||writerless.online^
 ||wsimply.com^
+||wsjdistributor.com^
 ||wtcentral.com^
 ||wtemerityv.monster^
 ||wtgu.store^
