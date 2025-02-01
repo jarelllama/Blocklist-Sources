@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.01.190053.2025
+! Version: 02.01.193055.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  1 19:00:53 UTC 2025
+! Last modified: Sat Feb  1 19:30:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5476
+! Number of entries: 5482
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -845,6 +845,7 @@ redback..boots.com
 ||btcmall.club^
 ||btcminebot.com^
 ||btcminer.tech^
+||btcminer.uk^
 ||btcotcvip.net^
 ||btcpaypartners.com^
 ||btctransferwallet.com^
@@ -1246,6 +1247,7 @@ redback..boots.com
 ||creneau.2025.mondial.com^
 ||creneau.mondial.relay.2025.com^
 ||creodeapps.com^
+||creofing.com^
 ||cresolix.com^
 ||crestprofits.com^
 ||cripexbit.com^
@@ -1258,6 +1260,7 @@ redback..boots.com
 ||crushon.ai^
 ||cryp22earn.com^
 ||cryptallstars.online^
+||cryptcrestltd.com^
 ||cryptn.org^
 ||crypto.chinese.com^
 ||crypto.coin.base.com^
@@ -2169,6 +2172,7 @@ redback..boots.com
 ||gnhvcx.cc^
 ||gnulahd.nu^
 ||gnulahd.org^
+||gnus.ai^
 ||go.alphalamenace.com^
 ||goapoachowoovol.net^
 ||goblinx.org^
@@ -2674,6 +2678,7 @@ redback..boots.com
 ||khipp.com^
 ||kickscrew.com^
 ||kidol.in^
+||kidschannel.online^
 ||kijl.online^
 ||kingpack7.quest^
 ||kinosotik.com^
@@ -3058,6 +3063,7 @@ redback..boots.com
 ||memubit.com^
 ||menorul.com^
 ||menrmbxdxextzwsom.shop^
+||menvok.com^
 ||mercado.shop.com^
 ||merjen.online^
 ||merrelldepot.com^
