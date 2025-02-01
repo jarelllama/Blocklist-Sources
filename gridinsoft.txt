@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.01.093036.2025
+! Version: 02.01.100059.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  1 09:30:36 UTC 2025
+! Last modified: Sat Feb  1 10:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5437
+! Number of entries: 5441
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -418,6 +418,7 @@ redback..boots.com
 ||ataraxonline.net^
 ||atb14.com^
 ||atb15.com^
+||ath.genesisminning.com^
 ||atheemart.top^
 ||athenafinanceltd.in^
 ||athna.su^
@@ -3811,6 +3812,7 @@ redback..boots.com
 ||puffinvapesehopgv.shop^
 ||pulaski.towing.top^
 ||pulimore.com^
+||pulpysearch.com^
 ||pulsed.fr^
 ||pulsenotifynow.top^
 ||pulsepicks.pro^
@@ -4202,6 +4204,7 @@ redback..boots.com
 ||sfardlanka.com^
 ||sgtbill.com^
 ||sgtcv.com^
+||shaamining.com^
 ||shamfreshen.com^
 ||shapeitstore.com^
 ||sharkdefi.com^
@@ -5208,6 +5211,7 @@ redback..boots.com
 ||wiaa.in^
 ||wichhistor.co.uk^
 ||wideopentriggers.com^
+||wilbal.com^
 ||williamarnold.online^
 ||williamhillfixedmatch.com^
 ||wilsoncrypto.pro^
