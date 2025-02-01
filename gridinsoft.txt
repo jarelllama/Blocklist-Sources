@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.01.203134.2025
+! Version: 02.01.210053.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  1 20:31:34 UTC 2025
+! Last modified: Sat Feb  1 21:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5495
+! Number of entries: 5499
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1401,6 +1401,7 @@ redback..boots.com
 ||deepcoinf.com^
 ||deepnude.to^
 ||deepnudeai.online^
+||deepseek2025.com^
 ||deepseekai.vip^
 ||deepweb.fixedmatches.com^
 ||defashionette.xyz^
@@ -1825,6 +1826,7 @@ redback..boots.com
 ||familychoicedrugstore.com^
 ||fanatics.com^
 ||fancyfont.online^
+||fancymiami.com^
 ||fanyil.com^
 ||faphouse.com^
 ||fapy.ai^
@@ -4744,6 +4746,7 @@ redback..boots.com
 ||tomyvipstore.shop^
 ||tonbig.com^
 ||tonpick.game^
+||tonshaker.com^
 ||toolspik.com^
 ||toolstationsale.com^
 ||toolstationuk.shop^
@@ -4943,6 +4946,7 @@ redback..boots.com
 ||undetectedbanknotes.com^
 ||undress.xxx^
 ||undressbaby.com^
+||uniceshop.online^
 ||unifiedasset.live^
 ||unifiedtradeoption.pro^
 ||unik.co.id^
