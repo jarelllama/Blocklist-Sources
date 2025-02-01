@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.01.210053.2025
+! Version: 02.01.213050.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  1 21:00:53 UTC 2025
+! Last modified: Sat Feb  1 21:30:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5499
+! Number of entries: 5504
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -924,6 +924,7 @@ redback..boots.com
 ||capital.fargofx.ltd^
 ||capital.shares.com^
 ||capitalbean.com^
+||capitalcrests.pro^
 ||capitalgrowthalliance.org^
 ||capitalix.com^
 ||capitalmastery.org^
@@ -1086,6 +1087,7 @@ redback..boots.com
 ||click4income.xyz^
 ||click5tawages.buzz^
 ||clickclpwages.buzz^
+||clickeowwages.buzz^
 ||clickiezwages.buzz^
 ||clickmhtwages.buzz^
 ||clickmiqwages.buzz^
@@ -3078,6 +3080,7 @@ redback..boots.com
 ||merrelldepot.com^
 ||meryin.com^
 ||messiah777.com^
+||met123.top^
 ||meta.cafe.net^
 ||meta.pro.space^
 ||metafight.airdrop.com^
@@ -4481,6 +4484,7 @@ redback..boots.com
 ||sthbill.com^
 ||stocklogs.info^
 ||stockresoluteprofx.com^
+||stockstrategytrade.com^
 ||stoigr.org^
 ||stonxdex.com^
 ||store.belgianshop.com^
@@ -5282,6 +5286,7 @@ redback..boots.com
 ||winner.com^
 ||winplay.online^
 ||winsdonechipper.com^
+||wintogetherplan.com^
 ||wintronrtx.com^
 ||winuno55.com^
 ||winviag.com^
