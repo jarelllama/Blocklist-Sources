@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.01.213050.2025
+! Version: 02.01.220048.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  1 21:30:50 UTC 2025
+! Last modified: Sat Feb  1 22:00:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5504
+! Number of entries: 5507
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -320,6 +320,7 @@ redback..boots.com
 ||apexcapital.wealth.com^
 ||apexcapitallimited.com^
 ||apexcapitalspro.com^
+||apexcapitalwealth.pro^
 ||apexcapltd.com^
 ||apexcoins.org^
 ||apexfep.com^
@@ -3748,6 +3749,7 @@ redback..boots.com
 ||play.qqvip303.online^
 ||play.regal.fr.online^
 ||playdax.top^
+||playfly.us.com^
 ||playfortune.cc^
 ||playgmz.online^
 ||playstation.stores.com^
@@ -4317,6 +4319,7 @@ redback..boots.com
 ||simplefarmacias.com^
 ||simpsonai.club^
 ||simranparajapati.com^
+||sincerityy.com^
 ||sine.exercise.online^
 ||sinex.pro^
 ||singingfiles.com^
