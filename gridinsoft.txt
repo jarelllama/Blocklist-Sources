@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.01.073049.2025
+! Version: 02.01.080056.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  1 07:30:49 UTC 2025
+! Last modified: Sat Feb  1 08:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5434
+! Number of entries: 5435
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -2960,6 +2960,7 @@ redback..boots.com
 ||mallmyacy.com^
 ||mallprix.com^
 ||malltrabaho.online^
+||mamafi.cc^
 ||manadapp.lol^
 ||mantraprint.in^
 ||manualslibrary.co^
