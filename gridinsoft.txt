@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.01.153109.2025
+! Version: 02.01.160058.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  1 15:31:09 UTC 2025
+! Last modified: Sat Feb  1 16:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5463
+! Number of entries: 5464
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -5243,6 +5243,7 @@ redback..boots.com
 ||winfy.top^
 ||winhges.com^
 ||winix.sbs^
+||winly.sbs^
 ||winner.com^
 ||winplay.online^
 ||winsdonechipper.com^
