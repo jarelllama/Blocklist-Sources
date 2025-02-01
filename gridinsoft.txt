@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.01.053205.2025
+! Version: 02.01.060052.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  1 05:32:05 UTC 2025
+! Last modified: Sat Feb  1 06:00:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5431
+! Number of entries: 5433
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -3254,6 +3254,7 @@ redback..boots.com
 ||naseox.org^
 ||natadler.com^
 ||nationalcasinolp.com^
+||nationdistributor.com^
 ||naturaenutra.online^
 ||natureflux.shop^
 ||nav43.global.com^
@@ -4160,6 +4161,7 @@ redback..boots.com
 ||secured.triumphfx.com^
 ||securedalliances.com^
 ||securedjointnetwork.co.in^
+||securedspot.vip^
 ||sedonainvestments.co.uk^
 ||seedswanted.online^
 ||seekthatonline.com^
