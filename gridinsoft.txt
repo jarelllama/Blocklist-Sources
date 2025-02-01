@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.01.133050.2025
+! Version: 02.01.140100.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  1 13:30:50 UTC 2025
+! Last modified: Sat Feb  1 14:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5455
+! Number of entries: 5458
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -2697,6 +2697,7 @@ redback..boots.com
 ||kobaltoutletstore.com^
 ||kokaindrogekaufen.com^
 ||kolem.shop^
+||komvideo.cc^
 ||kongva.com^
 ||konigsbruder.com^
 ||konwix.com^
@@ -3767,6 +3768,7 @@ redback..boots.com
 ||prestigeprint.uk^
 ||pretiboiy.com^
 ||prettyright.com^
+||pricepool88.com^
 ||primaxoptions.com^
 ||primeart.org^
 ||primefitnessgroup.online^
@@ -4264,6 +4266,7 @@ redback..boots.com
 ||shwacbda.com^
 ||siabrocenipellets.com^
 ||sicmundus.online^
+||sidney.com.tr^
 ||siftai.net^
 ||sigmaweb.online^
 ||signalarchitects.cloud^
