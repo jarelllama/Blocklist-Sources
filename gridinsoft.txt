@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.01.200050.2025
+! Version: 02.01.203134.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  1 20:00:50 UTC 2025
+! Last modified: Sat Feb  1 20:31:34 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5490
+! Number of entries: 5495
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -2127,6 +2127,7 @@ redback..boots.com
 ||ggwin.bet^
 ||gh.rcgolds.com^
 ||ghomesmart.com^
+||ghostcheats.com^
 ||ghsgdkag.com^
 ||ghsyps.ca^
 ||gibraltarfbn.com^
@@ -2465,6 +2466,7 @@ redback..boots.com
 ||inamksa.icu^
 ||incart.co.za^
 ||incestflix.com^
+||inclinedallusionnearby.com^
 ||inclutde.com^
 ||income.access.com^
 ||ind.888.site^
@@ -4605,6 +4607,7 @@ redback..boots.com
 ||telebionix.click^
 ||telegramok.com^
 ||telelabs.online^
+||teletechhub.com^
 ||telezgram.org^
 ||telunor.com^
 ||teluvor.com^
@@ -4655,6 +4658,7 @@ redback..boots.com
 ||theguisson.co.uk^
 ||thehairiva.com^
 ||thehealthyfriday.com^
+||thehuskytoolshare.com^
 ||thehygienefree.top^
 ||theinvisibleaffiliate.com^
 ||thejewelexch.com^
@@ -4815,6 +4819,7 @@ redback..boots.com
 ||trahia.com^
 ||traiex.com^
 ||traihomphuoctaitho.com^
+||trangotech.xyz^
 ||transscene.com^
 ||trantbitf.astpro.top^
 ||trantnguyentech.store^
