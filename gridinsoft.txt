@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.01.000200.2025
+! Version: 02.01.004530.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  1 00:02:00 UTC 2025
+! Last modified: Sat Feb  1 00:45:30 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5406
+! Number of entries: 5409
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1551,6 +1551,7 @@ redback..boots.com
 ||drmartensnews.com^
 ||drochill.com^
 ||drogen.kaufen.com^
+||drw.vip.cc^
 ||ds2play.com^
 ||dsaileads.com^
 ||dstockaffaires.com^
@@ -4657,6 +4658,7 @@ redback..boots.com
 ||tngizt.energy.com^
 ||tobysph.shop^
 ||tockexa.shop^
+||todays.superr.storre.shop^
 ||todayyouwin.com^
 ||tofro.com^
 ||together2night.com^
@@ -4866,6 +4868,7 @@ redback..boots.com
 ||undress.xxx^
 ||undressbaby.com^
 ||unifiedasset.live^
+||unifiedtradeoption.pro^
 ||unik.co.id^
 ||unimaxcreativeminers.com^
 ||unionhow.top^
