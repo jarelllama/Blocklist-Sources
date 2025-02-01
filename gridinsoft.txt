@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.01.223217.2025
+! Version: 02.01.230100.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  1 22:32:17 UTC 2025
+! Last modified: Sat Feb  1 23:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5512
+! Number of entries: 5517
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -823,6 +823,7 @@ redback..boots.com
 ||brightoncannabisclub.co.uk^
 ||brilliantassetsltd.com^
 ||brilliantlyouth.store^
+||britebatshop.com^
 ||britishairwaysroyaldeliverycompany.com^
 ||bruleuzz.com^
 ||brushbeacon.homes^
@@ -1008,6 +1009,7 @@ redback..boots.com
 ||cfdqqx.com^
 ||cfs.trades.com^
 ||chadstone99.top^
+||chailic.com^
 ||chainbank.network^
 ||chainfun.click^
 ||chainmine.cloud^
@@ -3029,6 +3031,7 @@ redback..boots.com
 ||marvmys.com^
 ||mashreqstandardcapital.com^
 ||massgrave.dev^
+||massimoduttisa.top^
 ||massimodvttioutlets.com^
 ||masterfulart.homes^
 ||matrixbit.net^
@@ -3145,6 +3148,7 @@ redback..boots.com
 ||minequartz.com^
 ||minersmarketsplace.com^
 ||minervabot.net^
+||minervahacks.tech^
 ||mingmarket.com^
 ||mini.well.store^
 ||minibitcoin.xyz^
@@ -3238,6 +3242,7 @@ redback..boots.com
 ||mqyn.odqmjbta.shop^
 ||mr.verify.net^
 ||mrefractiont.lol^
+||mrgasdisposableshop.com^
 ||ms.nordictrack.cc^
 ||mscfxtrader.com^
 ||mscommerce.net^
