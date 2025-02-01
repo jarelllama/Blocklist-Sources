@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.01.220048.2025
+! Version: 02.01.223217.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  1 22:00:48 UTC 2025
+! Last modified: Sat Feb  1 22:32:17 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5507
+! Number of entries: 5512
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1544,6 +1544,7 @@ redback..boots.com
 ||dohood.ru^
 ||doiquant.com^
 ||dolophin.com^
+||dom.zalivov.sbs^
 ||domesticraws.com^
 ||dominatei.shop^
 ||donsagace.net^
@@ -2069,6 +2070,7 @@ redback..boots.com
 ||game.zixia.com^
 ||game.zone.pro^
 ||gamefabrique.com^
+||gamer.spot.com^
 ||gamesfull.app^
 ||gamesgx.net^
 ||gameshopfinaldeals.com^
@@ -3560,6 +3562,7 @@ redback..boots.com
 ||openmonero.co^
 ||opennetworklink.co.in^
 ||openseabids.io^
+||opportunity.freedom.com^
 ||optimalcapitalco.com^
 ||optimaldatabases.com^
 ||optimumhackersrecovery.com^
@@ -5339,6 +5342,7 @@ redback..boots.com
 ||writerless.online^
 ||wsimply.com^
 ||wsjdistributor.com^
+||wsucm.store^
 ||wtcentral.com^
 ||wtemerityv.monster^
 ||wtgu.store^
@@ -5440,6 +5444,7 @@ redback..boots.com
 ||youmeya.online^
 ||youngglobalinvestmentsinc.com^
 ||yourcreditshistory.com^
+||yourdigitalshield.com^
 ||yourselfirst.com^
 ||yourwebarmorsolutions.com^
 ||youtub.v23.buzz^
