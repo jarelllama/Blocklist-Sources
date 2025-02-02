@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.02.203102.2025
+! Version: 02.02.210058.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  2 20:31:02 UTC 2025
+! Last modified: Sun Feb  2 21:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5622
+! Number of entries: 5627
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -181,6 +181,8 @@ redback..boots.com
 ||agrozenith.org^
 ||agyabashipping.com^
 ||ahhaqq.com^
+||ai.deepseek.org^
+||ai.deepseek.pro^
 ||ai.fund.top^
 ||ai.kraken2025.com^
 ||ai.pool.trading^
@@ -836,6 +838,7 @@ redback..boots.com
 ||brilliantlyouth.store^
 ||britebatshop.com^
 ||britishairwaysroyaldeliverycompany.com^
+||browser.app.com^
 ||bruleuzz.com^
 ||brushbeacon.homes^
 ||brutescaler.com^
@@ -901,6 +904,7 @@ redback..boots.com
 ||buythepencil.com^
 ||buzdikstore.com^
 ||buzh3n1n4.online^
+||buzzsum0.site^
 ||bveusdt.com^
 ||bvgod.com^
 ||bxfinvestment.com^
@@ -973,6 +977,7 @@ redback..boots.com
 ||carlinkitmall.com^
 ||carlylepledge.com^
 ||carolbradley.shop^
+||carousel51.com^
 ||carousell585.vip^
 ||carrepairus0507.online^
 ||carte.grise.france.fr^
