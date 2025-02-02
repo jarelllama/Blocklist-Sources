@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.02.220057.2025
+! Version: 02.02.223233.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  2 22:00:57 UTC 2025
+! Last modified: Sun Feb  2 22:32:33 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5638
+! Number of entries: 5645
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1042,6 +1042,7 @@ redback..boots.com
 ||charmingfavor.com^
 ||chassoutlel.shop^
 ||chat.ichatlink.net^
+||chatgpt.1.xyz^
 ||chatlink.wchatlink.com^
 ||cheapammoaustralia.com^
 ||cheapertoolparts.com^
@@ -1444,6 +1445,11 @@ redback..boots.com
 ||deepseek.marketing^
 ||deepseek.me^
 ||deepseek2025.com^
+||deepseekai.ltd^
+||deepseekai.net^
+||deepseekai.shop^
+||deepseekai.si^
+||deepseekai.studio^
 ||deepseekai.vip^
 ||deepweb.fixedmatches.com^
 ||defashionette.xyz^
@@ -1583,6 +1589,7 @@ redback..boots.com
 ||dogefree.in^
 ||dogeminerpro.com^
 ||dogepick.io^
+||dogloveschatgpt.com^
 ||dogooddaldaadw.com^
 ||dogs.kim^
 ||dohood.ru^
