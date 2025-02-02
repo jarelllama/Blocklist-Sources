@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.01.233046.2025
+! Version: 02.02.000151.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  1 23:30:46 UTC 2025
+! Last modified: Sun Feb  2 00:01:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5521
+! Number of entries: 5525
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -190,6 +190,7 @@ redback..boots.com
 ||aifuturepro.io^
 ||aiignedfoundation.genesis.com^
 ||aiinvesttron.com^
+||aimbotfortnite.org^
 ||aimxecoin.com^
 ||ainewslive.online^
 ||ainology.com^
@@ -700,6 +701,7 @@ redback..boots.com
 ||bitprimepro.com^
 ||bitprogain.com^
 ||bitquappst789.com^
+||bitreclaim.com^
 ||bitronce.com^
 ||bitronx.xyz^
 ||bitru.cc^
@@ -916,6 +918,7 @@ redback..boots.com
 ||campershoessales1.best^
 ||canadagunsandammo.com^
 ||canadaposts.cc^
+||canadianwealthtrust.com^
 ||cancerdecodedseries.com^
 ||canconsulting.in^
 ||canewsisite.com^
@@ -2242,6 +2245,7 @@ redback..boots.com
 ||greenlanemarketing.bond^
 ||greenpeople.life^
 ||greenranddam.com^
+||greevip.org^
 ||gricop.com^
 ||griefquotes.xyz^
 ||grindsoft.com^
