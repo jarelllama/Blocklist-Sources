@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.02.190054.2025
+! Version: 02.02.193053.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  2 19:00:54 UTC 2025
+! Last modified: Sun Feb  2 19:30:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5609
+! Number of entries: 5614
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -524,6 +524,7 @@ redback..boots.com
 ||bcplgi.shop^
 ||bcvc.pro^
 ||bdjf2ls.com^
+||bdxxa.com^
 ||bdyg.store^
 ||bearatten.com^
 ||beastter.com^
@@ -1502,6 +1503,7 @@ redback..boots.com
 ||diamantemcb.us^
 ||dibitcoin.com^
 ||dickies.com.es^
+||dicksportingwholesale.com^
 ||dickssportinggoodsholiday.com^
 ||dickssportinggoodsoutlets.shop^
 ||dickssportingofficial.com^
@@ -3500,6 +3502,7 @@ redback..boots.com
 ||nowidi.monopulses.com^
 ||nowmining.fun^
 ||nowquality.ca^
+||noxgu.com^
 ||npebr8trk.com^
 ||nrilimited.com^
 ||nrsa.in^
@@ -3786,6 +3789,7 @@ redback..boots.com
 ||pharmarket.com^
 ||philandco.vip^
 ||phillipa.online^
+||phjlplus668.cc^
 ||phonetopups.com^
 ||photographingge.com^
 ||photoviewave.com^
@@ -5161,6 +5165,7 @@ redback..boots.com
 ||ventrix.top^
 ||ventrobi.io^
 ||ventulor.com^
+||venturewavecapital.net^
 ||vepnext.com^
 ||ver3052.com^
 ||veralea.com^
