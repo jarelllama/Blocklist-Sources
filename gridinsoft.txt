@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.02.033331.2025
+! Version: 02.02.040059.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  2 03:33:31 UTC 2025
+! Last modified: Sun Feb  2 04:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5542
+! Number of entries: 5547
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -2324,6 +2324,7 @@ redback..boots.com
 ||healthcompounds.com^
 ||healthessencial.com^
 ||healthtimers.com^
+||healthybodynow.net^
 ||heartlandstandardbk.com^
 ||heavensender.pro^
 ||hedahour.com^
@@ -2549,6 +2550,7 @@ redback..boots.com
 ||iptvkaufen24.de^
 ||iptvnexus.com^
 ||iptvnw.us^
+||iptvpremier.fr^
 ||iptvproducts.com^
 ||iptvtvsmarters.com^
 ||iqmind.co^
@@ -3027,6 +3029,7 @@ redback..boots.com
 ||mantraprint.in^
 ||manualslibrary.co^
 ||maqiqsent.com^
+||maracoins.com^
 ||marcotfx.com^
 ||margin.coins.space^
 ||marimekko.eu.com^
@@ -3807,6 +3810,7 @@ redback..boots.com
 ||popmartoficial.com^
 ||popmartonline.my.asia^
 ||popwork.net^
+||pornshort.com^
 ||pornxp.quest^
 ||portaldedicasonline.com^
 ||portumltd.com^
@@ -4470,6 +4474,7 @@ redback..boots.com
 ||srchfst.com^
 ||sreamconmymnltty.com^
 ||srimuthappanholidayscoorg.com^
+||sriwtte.com^
 ||sse.s.com^
 ||sseeline.com^
 ||sstdocumentos.com^
