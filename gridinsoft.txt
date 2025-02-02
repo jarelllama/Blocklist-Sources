@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.02.193053.2025
+! Version: 02.02.200057.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  2 19:30:53 UTC 2025
+! Last modified: Sun Feb  2 20:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5614
+! Number of entries: 5620
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1769,6 +1769,7 @@ redback..boots.com
 ||epoiu.com^
 ||equallyto.com^
 ||equistak.com^
+||equitradeciv.com^
 ||equitytrustbn.com^
 ||equitytrusttrading.com^
 ||eraw.top^
@@ -3296,6 +3297,7 @@ redback..boots.com
 ||movenzo.com^
 ||movie123full.com^
 ||moviediskhd.cloud^
+||movies4u.tc^
 ||movil.ing.soporte.com^
 ||moxwin.top^
 ||mpc7.cc^
@@ -3897,6 +3899,7 @@ redback..boots.com
 ||privatesportshop.fr^
 ||prizefrenzyzone.today^
 ||prizerebel.com^
+||prizetcashrf.buzz^
 ||pro.cion.com^
 ||procim.online^
 ||productonline.cloud^
@@ -4335,6 +4338,7 @@ redback..boots.com
 ||sexfullmovies.mobi^
 ||sexyforums.com^
 ||sfardlanka.com^
+||sfptrust.com^
 ||sgtbill.com^
 ||sgtcv.com^
 ||shaamining.com^
@@ -4599,6 +4603,7 @@ redback..boots.com
 ||stylesock.com^
 ||subduedespana.com^
 ||subscribelg.my^
+||suckbetg.online^
 ||sueeshop.com^
 ||sugarsyncglycooptimizer.com^
 ||suivi.france.info^
@@ -4986,6 +4991,7 @@ redback..boots.com
 ||trxchains.com^
 ||trxchargepoint.net^
 ||trxminerboost.com^
+||tryanua.co^
 ||tryessnce.com^
 ||tryriva.com^
 ||ts761hgd.com^
