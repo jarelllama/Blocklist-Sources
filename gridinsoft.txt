@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.02.090100.2025
+! Version: 02.02.093052.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  2 09:01:00 UTC 2025
+! Last modified: Sun Feb  2 09:30:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5564
+! Number of entries: 5569
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -996,6 +996,7 @@ redback..boots.com
 ||ccard50.ru^
 ||ccsnkrs.store^
 ||ccuqjc.top^
+||cddlnc.net^
 ||cdn.a1.jumbomail.me^
 ||cdonnsauw.top^
 ||ceaondlet.com^
@@ -2879,6 +2880,7 @@ redback..boots.com
 ||link.traders.com^
 ||linkaa.cyou^
 ||linkdewacukong88.pro^
+||linkfly.to^
 ||linkgurd.online^
 ||linkmcltogel3.org^
 ||linkvertise.com^
@@ -5032,6 +5034,7 @@ redback..boots.com
 ||upizoneltd.com^
 ||upjmall.info^
 ||uploadhaven.com^
+||uploadmall.com^
 ||upstinatolos.com^
 ||urbantapes.com^
 ||urefie.net^
@@ -5463,6 +5466,7 @@ redback..boots.com
 ||xtremediscount.net^
 ||xtremeiptv.online^
 ||xufuji.xyz^
+||xv.ru.com^
 ||xvkdfashion.shop^
 ||xworld.gg^
 ||xxxdan.com^
@@ -5488,6 +5492,7 @@ redback..boots.com
 ||yinxing.info^
 ||ynmufr.9l5lortoe.top^
 ||ynmufr.h2os7lzt7.top^
+||yobit.net^
 ||yocart.vip^
 ||yomovies1.skin^
 ||yoomiy.shop^
