@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.02.113046.2025
+! Version: 02.02.120054.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  2 11:30:46 UTC 2025
+! Last modified: Sun Feb  2 12:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5575
+! Number of entries: 5578
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -3600,6 +3600,7 @@ redback..boots.com
 ||onruning.top^
 ||onrunning.top^
 ||onsalewarehouse.com^
+||ontweak.com^
 ||onvariable.com^
 ||oo456bet.com^
 ||opdomain22.online^
@@ -4412,6 +4413,7 @@ redback..boots.com
 ||smart.finances.org^
 ||smartearningpool.online^
 ||smartgyro.es^
+||smartmarketmaven.com^
 ||smartmove.biz^
 ||smartns.ink^
 ||smartphone.ue.shop^
@@ -4503,6 +4505,7 @@ redback..boots.com
 ||st.george.spray.tans.square.site^
 ||stablest.shop^
 ||staemcommunnuty.com^
+||staemcomunitly.com^
 ||staemcomunnity.com^
 ||stakeindexfx.com^
 ||stakgpdgd.com^
