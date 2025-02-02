@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.02.004520.2025
+! Version: 02.02.012759.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  2 00:45:20 UTC 2025
+! Last modified: Sun Feb  2 01:27:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5528
+! Number of entries: 5532
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -154,6 +154,7 @@ redback..boots.com
 ||adsarp.com^
 ||adsphericalsuits.com^
 ||adtgnt.com^
+||adultgames.to^
 ||advanced.globaldorsett.com^
 ||advanced.onlineguestline.com^
 ||advanced.software.session.now.top^
@@ -408,6 +409,7 @@ redback..boots.com
 ||assai.io^
 ||assegurarcorretoradeseguros.site^
 ||asset.ust.top^
+||assetcrafters.org^
 ||assetquantification.top^
 ||assetsnavigator.com^
 ||assetwise.invest.com^
@@ -3402,6 +3404,7 @@ redback..boots.com
 ||nft.fantasyapp.pages.dev^
 ||nftcolo.com^
 ||nfwakawai.cz^
+||ngn.goldvip68.com^
 ||nicedelicate.com^
 ||nicevps.net^
 ||nicliquid.com^
@@ -5183,6 +5186,7 @@ redback..boots.com
 ||vx88t.com^
 ||w3.hexafiles.com^
 ||w3er.top^
+||waa7.com^
 ||waas.network^
 ||wagerinox.com^
 ||wagexera.com^
