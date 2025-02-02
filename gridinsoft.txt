@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.02.050050.2025
+! Version: 02.02.053204.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  2 05:00:50 UTC 2025
+! Last modified: Sun Feb  2 05:32:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5553
+! Number of entries: 5557
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1626,6 +1626,7 @@ redback..boots.com
 ||earringssale.com^
 ||easefuldreams.com^
 ||easelayer.co^
+||easy.earn.org^
 ||easybtc.mining.com^
 ||easycryptoblog.com^
 ||easymintminer.com^
@@ -2350,6 +2351,7 @@ redback..boots.com
 ||hgtn.fun^
 ||hh.click.com^
 ||hianime.to^
+||hiddnarchive.com^
 ||hidollshop.top^
 ||highhillfurniture.com^
 ||hijra7.online^
@@ -4563,10 +4565,12 @@ redback..boots.com
 ||suny77.online^
 ||sunyiying.com^
 ||super.ai.me^
+||super.basketball.shop^
 ||superai.xin^
 ||superakbov.best^
 ||superamzdu.store^
 ||supercasuals.cc^
+||supercharger.usd.vip^
 ||superfesta.online^
 ||superficial.work.com^
 ||superkegel.store^
