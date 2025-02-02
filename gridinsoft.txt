@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.02.012759.2025
+! Version: 02.02.020224.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  2 01:27:59 UTC 2025
+! Last modified: Sun Feb  2 02:02:24 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5532
+! Number of entries: 5536
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -800,6 +800,7 @@ redback..boots.com
 ||botfypro.com^
 ||boundary.metal.com^
 ||boutique.dispatche.com^
+||bovada.lv^
 ||bowscalessales.com^
 ||bowtiehouse.us^
 ||bpee.top^
@@ -1176,6 +1177,7 @@ redback..boots.com
 ||coinsorex.com^
 ||coinswift.exchange^
 ||cointir.cc^
+||cointmin.cc^
 ||coinvale.io^
 ||coinwbga.com^
 ||coldbit.net^
@@ -1460,6 +1462,7 @@ redback..boots.com
 ||desipin.com^
 ||dessi.co^
 ||destinypulseprize.com^
+||desyarnic.com^
 ||determin.shop^
 ||detransp.digital^
 ||deuspower.to^
@@ -5141,6 +5144,7 @@ redback..boots.com
 ||vioratricot.com^
 ||vip.amazon182.com^
 ||vipback.vip^
+||vipbox.lc^
 ||vipehelp.com^
 ||vipemip.net^
 ||viralityshop.online^
