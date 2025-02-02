@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.02.183422.2025
+! Version: 02.02.190054.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  2 18:34:22 UTC 2025
+! Last modified: Sun Feb  2 19:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5600
+! Number of entries: 5609
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -876,6 +876,7 @@ redback..boots.com
 ||buffboycrops.com^
 ||builderall.net^
 ||buiudr.com^
+||bujortca.com^
 ||bulanjitu.org^
 ||buletboard.com^
 ||bulksendtokens.xyz^
@@ -1472,6 +1473,7 @@ redback..boots.com
 ||descubretesoro.com^
 ||desicinemas.to^
 ||desipin.com^
+||desirebells.com^
 ||dessi.co^
 ||destinypulseprize.com^
 ||desyarnic.com^
@@ -1577,6 +1579,8 @@ redback..boots.com
 ||doraln.com^
 ||dork.baby^
 ||dorobotvip.com^
+||dorulex.com^
+||dorunex.com^
 ||doswex.com^
 ||dosya.co^
 ||download.wondershare.net^
@@ -1706,6 +1710,7 @@ redback..boots.com
 ||elmoerc.com^
 ||elonactivemarket.com^
 ||elonbet.com^
+||elonearn.pro^
 ||elyaevents.com^
 ||elysiumvip.top^
 ||elysse.store^
@@ -2120,6 +2125,7 @@ redback..boots.com
 ||geasta.com^
 ||geekscoin.com^
 ||gel9.online^
+||geldxup.com^
 ||gem.minelab.net^
 ||gemini.ai.net^
 ||gemini.foundation.org^
@@ -2764,6 +2770,7 @@ redback..boots.com
 ||kmspico.ltd^
 ||kndr.digital^
 ||knighted.shop^
+||knitleaf.com^
 ||knoblatter.com^
 ||kobaltoutletstore.com^
 ||kokaindrogekaufen.com^
@@ -2856,6 +2863,7 @@ redback..boots.com
 ||leparis.club^
 ||lepetitportailbasque.com^
 ||lesparentszens.acemlnb.com^
+||lespetales.com.au^
 ||letsgotothemoon.travel.com^
 ||letsoc.com^
 ||leupold.us.shop^
@@ -3621,6 +3629,7 @@ redback..boots.com
 ||openmonero.co^
 ||opennetworklink.co.in^
 ||openseabids.io^
+||opetap.com^
 ||opportunity.freedom.com^
 ||optimalcapitalco.com^
 ||optimaldatabases.com^
