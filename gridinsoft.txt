@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.02.140058.2025
+! Version: 02.02.143053.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  2 14:00:58 UTC 2025
+! Last modified: Sun Feb  2 14:30:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5582
+! Number of entries: 5585
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1158,6 +1158,7 @@ redback..boots.com
 ||cocotte.fr.com^
 ||code.getoffus.site^
 ||codflict.com^
+||codprize.com^
 ||coeursinconnus.com^
 ||coin.go.in^
 ||coin.gofastgo.online^
@@ -2786,6 +2787,7 @@ redback..boots.com
 ||kuiuonsale.com^
 ||kuka.ninja^
 ||kulken.com^
+||kunbestsk.best^
 ||kupid.ai^
 ||kurtastudio.com^
 ||kxw69.com^
@@ -3027,6 +3029,7 @@ redback..boots.com
 ||mainelobstersstore.com^
 ||mainmarketshop.shop^
 ||mainstreetmall.shop^
+||maisaleet.best^
 ||maisonflorence.ca^
 ||maisonjardina.com^
 ||majere44.ffn.com^
