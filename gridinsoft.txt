@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.02.030235.2025
+! Version: 02.02.033331.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  2 03:02:35 UTC 2025
+! Last modified: Sun Feb  2 03:33:31 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5538
+! Number of entries: 5542
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -883,6 +883,7 @@ redback..boots.com
 ||burneliegoulding.fr^
 ||bursaelitescorthatun.com^
 ||burtoneu.shop^
+||buxclaims.neocities.org^
 ||buy.dogizen.io^
 ||buyado.de^
 ||buyantibiotics24h.net^
@@ -1079,6 +1080,7 @@ redback..boots.com
 ||claims.sonicfoundation.com^
 ||claims.sonicfoundation.org^
 ||claimweby.live^
+||clammypunero.com^
 ||clarifai1.xyz^
 ||classicteefox.com^
 ||classicused.cars.com^
@@ -1746,6 +1748,7 @@ redback..boots.com
 ||epoiu.com^
 ||equallyto.com^
 ||equistak.com^
+||equitytrustbn.com^
 ||equitytrusttrading.com^
 ||eraw.top^
 ||ercdlp.com^
@@ -2887,6 +2890,7 @@ redback..boots.com
 ||livextop.com^
 ||livraison.interrompu.com^
 ||lixtrade.com^
+||lizardlabshop.com^
 ||llbeanfactoryoutlets.shop^
 ||lmhous.net^
 ||lmxx002.aspwyvsj.com^
