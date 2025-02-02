@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.02.133038.2025
+! Version: 02.02.140058.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  2 13:30:38 UTC 2025
+! Last modified: Sun Feb  2 14:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5580
+! Number of entries: 5582
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -2333,6 +2333,7 @@ redback..boots.com
 ||hassampc.com^
 ||havenstiendas.com^
 ||hayeswheel.com^
+||hd.redditf.xyz^
 ||hdtoday.tv^
 ||healthcompounds.com^
 ||healthessencial.com^
@@ -2951,6 +2952,7 @@ redback..boots.com
 ||lovelymeds.com^
 ||lovemyparfum.com^
 ||loverzsk.best^
+||lovesapar.click^
 ||lowaespana.es^
 ||lowandeasylending.com^
 ||lowhofour.life^
