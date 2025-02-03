@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.03.012751.2025
+! Version: 02.03.020054.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb  3 01:27:51 UTC 2025
+! Last modified: Mon Feb  3 02:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5687
+! Number of entries: 5695
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -391,6 +391,7 @@ redback..boots.com
 ||armadaclothing.online^
 ||armani.ai.com^
 ||arnavix.online^
+||arowinvest.pro^
 ||ars88safe.online^
 ||artabusiness.com^
 ||artchains.org^
@@ -696,6 +697,7 @@ redback..boots.com
 ||bithivetrades.com^
 ||bithorizons.org^
 ||bithub.bot^
+||biticrypto.com^
 ||bitindicieskryptotrade.com^
 ||bitly.net^
 ||bitmain.com.vc^
@@ -1492,6 +1494,10 @@ redback..boots.com
 ||deepseekr1.world^
 ||deepseekr1.xyz^
 ||deepseekr1ai.xyz^
+||deepseektrading.xyz^
+||deepseektranslator.com^
+||deepseektravelagent.com^
+||deepseektrump.xyz^
 ||deepweb.fixedmatches.com^
 ||defashionette.xyz^
 ||defi.drop.xyz^
@@ -4668,6 +4674,7 @@ redback..boots.com
 ||stupidus.top^
 ||stusdt.world^
 ||stylesock.com^
+||styline.shop^
 ||subduedespana.com^
 ||subscribelg.my^
 ||suckbetg.online^
@@ -5438,6 +5445,7 @@ redback..boots.com
 ||whittakerassistance.com^
 ||whmcmanus.shop^
 ||wholefilter.com^
+||wholesale21.com^
 ||whoopyrewards.com^
 ||whubaesingotbrewer.com^
 ||wiaa.in^
