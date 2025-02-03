@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.03.030311.2025
+! Version: 02.03.033445.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb  3 03:03:11 UTC 2025
+! Last modified: Mon Feb  3 03:34:45 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5701
+! Number of entries: 5706
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1765,6 +1765,7 @@ redback..boots.com
 ||eldercity.xyz^
 ||electronics.brand.com^
 ||eleganthush.com^
+||elevateminer.com^
 ||elineverhoye.shop^
 ||elitecapitalgain.org^
 ||elitecapitalmarket.com^
@@ -2137,6 +2138,7 @@ redback..boots.com
 ||fulenix.com^
 ||funcapsnl.com^
 ||fundedbullfx.com^
+||fundedsportstrader.com^
 ||fundsretrievalpanel.com^
 ||fundxrecover.com^
 ||fungretail.shop^
@@ -3080,6 +3082,7 @@ redback..boots.com
 ||lushyedge.com^
 ||lusive.xyz^
 ||luujin.info^
+||luvastro.com^
 ||luvwehair.com^
 ||luxbedcom.store^
 ||luxebazaar.online^
@@ -3943,6 +3946,7 @@ redback..boots.com
 ||poseidoncoin.top^
 ||poudresdenarco.com^
 ||powerelixir.online^
+||powerkit.fr^
 ||powermaxph.com^
 ||powertools.market.com^
 ||pppbvvvisys.bond^
@@ -3979,6 +3983,7 @@ redback..boots.com
 ||prizetcashrf.buzz^
 ||pro.cion.com^
 ||procim.online^
+||production.hub.cc^
 ||productonline.cloud^
 ||professional.trading.com^
 ||profittrade.live^
