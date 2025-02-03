@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.03.210059.2025
+! Version: 02.03.213050.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb  3 21:00:59 UTC 2025
+! Last modified: Mon Feb  3 21:30:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5799
+! Number of entries: 5802
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -597,6 +597,7 @@ redback..boots.com
 ||betsclub.pro^
 ||betteranime.net^
 ||betterdiscountdeals.com^
+||betterzone19.info^
 ||betwave.vip^
 ||bewizi.com^
 ||beyondprostate.com^
@@ -2612,6 +2613,7 @@ redback..boots.com
 ||ibmqgt.com^
 ||iceriver.company^
 ||iconicinternational.online^
+||id184124.com^
 ||idatech.online^
 ||idealpiptrade.com^
 ||idjqwinla.net^
@@ -5471,6 +5473,7 @@ redback..boots.com
 ||wayfairclearance.online^
 ||wayfairv.shop^
 ||wbocash.online^
+||wck37.top^
 ||wcostream.tv^
 ||wctclaim.netlify.app^
 ||wdisales.store^
