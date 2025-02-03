@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.03.230058.2025
+! Version: 02.03.233048.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb  3 23:00:58 UTC 2025
+! Last modified: Mon Feb  3 23:30:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5812
+! Number of entries: 5817
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -193,6 +193,7 @@ redback..boots.com
 ||ai.kraken2025.com^
 ||ai.pool.trading^
 ||ai.trades.co^
+||aibtcapp1.com^
 ||aicryptofinancepro.com^
 ||aicryptotradings.com^
 ||aicryptozone.com^
@@ -489,6 +490,7 @@ redback..boots.com
 ||avlissatdnagait.online^
 ||avrixdynamiservices.com^
 ||awkngtv.org^
+||axustroncapital.com^
 ||ayridchandler.shop^
 ||babylon3.vip^
 ||babytoll.shop^
@@ -3593,6 +3595,7 @@ redback..boots.com
 ||nft.babydoge.com^
 ||nft.fantasyapp.pages.dev^
 ||nftcolo.com^
+||nftfarm.online^
 ||nfwakawai.cz^
 ||ngn.goldvip68.com^
 ||nicedelicate.com^
@@ -3713,6 +3716,7 @@ redback..boots.com
 ||ometvporn.com^
 ||omgminer.vip^
 ||omgprice10.cc^
+||on.mx.com^
 ||on.shoes.uae.com^
 ||oncees.live^
 ||oncloud.shoes.us.com^
@@ -4778,6 +4782,7 @@ redback..boots.com
 ||suivi.france.info^
 ||sulop.online^
 ||summeyco.online^
+||summitcapital.ltd^
 ||summitsage.org^
 ||sunbit.cc^
 ||sunbit.ren^
