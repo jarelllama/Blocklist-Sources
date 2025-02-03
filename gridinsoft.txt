@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.03.124217.2025
+! Version: 02.03.130437.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb  3 12:42:17 UTC 2025
+! Last modified: Mon Feb  3 13:04:37 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5746
+! Number of entries: 5750
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -2595,6 +2595,7 @@ redback..boots.com
 ||idjqwinla.net^
 ||idtumy.com^
 ||ifast2.com^
+||iframeforward.com^
 ||ig9612.top^
 ||igetintopc.com^
 ||iiozb.shop^
@@ -2859,6 +2860,7 @@ redback..boots.com
 ||kkminer.top^
 ||kks.encrypted.com^
 ||kksworld.com^
+||klaassenhaardhout.com^
 ||kleinanzeigen.de^
 ||klim.us.store.shop^
 ||klixglobal.net^
@@ -3333,6 +3335,7 @@ redback..boots.com
 ||mitsoku.com^
 ||mittenes.shop^
 ||mivovaa.shop^
+||mixerusdt.com^
 ||mixtsp.com^
 ||mizunomexicooutlet.com.mx^
 ||mjir.shop^
@@ -3625,6 +3628,7 @@ redback..boots.com
 ||oakwell.finance^
 ||oandaelitetrading.com^
 ||oandapaxbp.vip^
+||oasiscorporations.com^
 ||obagee.com^
 ||obalaso.online^
 ||obraspublicaschaco2024.online^
