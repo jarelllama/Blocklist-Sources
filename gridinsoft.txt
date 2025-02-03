@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.03.050058.2025
+! Version: 02.03.053233.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb  3 05:00:58 UTC 2025
+! Last modified: Mon Feb  3 05:32:33 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5715
+! Number of entries: 5717
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -3717,6 +3717,7 @@ redback..boots.com
 ||openmonero.co^
 ||opennetworklink.co.in^
 ||openseabids.io^
+||openseabtc.com^
 ||opetap.com^
 ||opportunity.freedom.com^
 ||optimalcapitalco.com^
@@ -4989,6 +4990,7 @@ redback..boots.com
 ||track718.com^
 ||track718.us^
 ||trackqsu.top^
+||tracktooffrs.com^
 ||tracy925digital.pro^
 ||trade.definity.co^
 ||trade.emeraltrade.com^
