@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.03.043405.2025
+! Version: 02.03.050058.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb  3 04:34:05 UTC 2025
+! Last modified: Mon Feb  3 05:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5710
+! Number of entries: 5715
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1071,6 +1071,7 @@ redback..boots.com
 ||cicc.ink^
 ||ciekawoscobywateli.click^
 ||cigarettes.pas.cher.com^
+||cikatijirigokulohu.shop^
 ||cimarronclub.com^
 ||cineb.rs^
 ||cinema.fskit.com^
@@ -4664,6 +4665,7 @@ redback..boots.com
 ||steroidskaufen.com^
 ||stggege.org^
 ||sthbill.com^
+||stleamccmmnunlty.com^
 ||stocklogs.info^
 ||stockresoluteprofx.com^
 ||stockstrategytrade.com^
@@ -4808,6 +4810,7 @@ redback..boots.com
 ||tenctify.com^
 ||tenek.vip^
 ||teneo.pro^
+||tentroearnings.com^
 ||tentron.mining.net^
 ||terbangria.online^
 ||terestdeals.shop^
@@ -5686,6 +5689,7 @@ redback..boots.com
 ||zenjett.com^
 ||zenoex.com^
 ||zerocodeblock.com^
+||zervit.co^
 ||zesphyr.com^
 ||zetboom.com^
 ||zetdax.top^
@@ -5697,6 +5701,7 @@ redback..boots.com
 ||ziatex.com^
 ||zielbioinc.com^
 ||zimasilkt.com^
+||zimtrades.com^
 ||zjulpujub.wlasnnz.cn^
 ||zkexchange.org^
 ||zkfair.io^
