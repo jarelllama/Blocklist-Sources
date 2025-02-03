@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.03.060058.2025
+! Version: 02.03.063548.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb  3 06:00:58 UTC 2025
+! Last modified: Mon Feb  3 06:35:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5721
+! Number of entries: 5724
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -2889,6 +2889,7 @@ redback..boots.com
 ||kxw69.com^
 ||kyorescart.shop^
 ||l.qorder.com^
+||l3fnstrk.com^
 ||labellovers.nl^
 ||laboratoire.osmose.com^
 ||labrary.store^
@@ -3542,6 +3543,7 @@ redback..boots.com
 ||ngn.goldvip68.com^
 ||nicedelicate.com^
 ||nicevps.net^
+||nickspizzasubs.com^
 ||nicliquid.com^
 ||nicolcssubreville.shop^
 ||niffyhub.com^
@@ -4346,6 +4348,7 @@ redback..boots.com
 ||saryarkacargo.com^
 ||satllcdubai.com^
 ||sato.castle.com^
+||satrc20.app^
 ||saturnwallet.app^
 ||sauconyfootwear.com^
 ||sauconysneakersdiscount.shop^
