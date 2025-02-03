@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.03.193101.2025
+! Version: 02.03.200058.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb  3 19:31:01 UTC 2025
+! Last modified: Mon Feb  3 20:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5785
+! Number of entries: 5790
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -502,6 +502,7 @@ redback..boots.com
 ||bamajt.world^
 ||bancaseguraporlnternetdeempresas.scotialbanrkperu.online^
 ||bangunbersama.online^
+||banishclean.com^
 ||bank.sepah.com^
 ||bank888.cc^
 ||bankingbux.com^
@@ -1589,6 +1590,7 @@ redback..boots.com
 ||dghv.store^
 ||dhlmall.vip^
 ||diamantemcb.us^
+||diamondjack.top^
 ||dibitcoin.com^
 ||dickies.com.es^
 ||dicksportingwholesale.com^
@@ -2322,6 +2324,7 @@ redback..boots.com
 ||glomaes.congo.com^
 ||glowpast.com^
 ||glowywill.com^
+||gmb1l.online^
 ||gmhledger.com^
 ||gnde.shop^
 ||gnhvcx.cc^
@@ -3069,6 +3072,7 @@ redback..boots.com
 ||loranza.nl^
 ||loreall.gp.top^
 ||lorealwear.com^
+||lorunix.com^
 ||loryvel.com^
 ||losthorizonoutdoorgear.shop^
 ||lotesycasaspro.online^
@@ -4323,6 +4327,7 @@ redback..boots.com
 ||rokinat.co.in^
 ||roll2x.com^
 ||rollercoin.com^
+||rolsxcas.com^
 ||rolunex.com^
 ||rominance.com^
 ||romsfun.com^
