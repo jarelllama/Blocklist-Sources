@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.03.200058.2025
+! Version: 02.03.203134.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb  3 20:00:58 UTC 2025
+! Last modified: Mon Feb  3 20:31:34 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5790
+! Number of entries: 5793
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1438,6 +1438,7 @@ redback..boots.com
 ||dawnfelt.com^
 ||daxpulse.com^
 ||daxtok.com^
+||daywint.com^
 ||dbbjrhhn.guru^
 ||dbespot.com^
 ||dbmsurvey.com^
@@ -4588,6 +4589,7 @@ redback..boots.com
 ||sleepwelldental.online^
 ||slexionz.cc^
 ||slmsbz.com^
+||slot.lots.com^
 ||slot7.onlinecasino.com^
 ||slotsaces.net^
 ||slotstat.net^
@@ -5424,6 +5426,7 @@ redback..boots.com
 ||vtmarkets.net^
 ||vtwinschool.com^
 ||vudu.top^
+||vuksy.site^
 ||vvdes.store^
 ||vx88.vx.com^
 ||vx8802.com^
