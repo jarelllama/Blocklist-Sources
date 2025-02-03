@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.03.053233.2025
+! Version: 02.03.060058.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb  3 05:32:33 UTC 2025
+! Last modified: Mon Feb  3 06:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5717
+! Number of entries: 5721
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -2384,6 +2384,7 @@ redback..boots.com
 ||gugd.store^
 ||guide.sante.space^
 ||gukur.sbs^
+||gulfofmexico.com^
 ||gunluksevilenkampanyalarsizlerle.online^
 ||gusalio.com^
 ||gustmining.pro^
@@ -4074,6 +4075,7 @@ redback..boots.com
 ||q4ddc0.webwave.dev^
 ||qaleel.com^
 ||qalrlr.shop^
+||qauory.info^
 ||qavalui9.pro^
 ||qawcklos.com^
 ||qaz.ream.top^
@@ -4913,6 +4915,7 @@ redback..boots.com
 ||timexespana.com.es^
 ||tinfoil.io^
 ||tiny.one^
+||tinybyte.minipc.com^
 ||tioctrically.com^
 ||tionoc.net^
 ||tistokmall.pro^
@@ -4960,6 +4963,7 @@ redback..boots.com
 ||topgreenview.com^
 ||topinfoarticlesforu.com^
 ||topmall.life^
+||topointradehub.co^
 ||toppills.com^
 ||toppipoptions.online^
 ||topsmanings.top^
