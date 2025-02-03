@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.03.063548.2025
+! Version: 02.03.070102.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb  3 06:35:48 UTC 2025
+! Last modified: Mon Feb  3 07:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5724
+! Number of entries: 5728
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1643,6 +1643,7 @@ redback..boots.com
 ||dogooddaldaadw.com^
 ||dogs.kim^
 ||dohood.ru^
+||doi.usd.com^
 ||doiquant.com^
 ||dolophin.com^
 ||dom.zalivov.sbs^
@@ -1685,6 +1686,7 @@ redback..boots.com
 ||drw.vip.cc^
 ||ds2play.com^
 ||dsaileads.com^
+||dskonline.bg^
 ||dstockaffaires.com^
 ||dtfvg.net^
 ||dtloo.com^
@@ -1930,6 +1932,7 @@ redback..boots.com
 ||f76j.xyz^
 ||f95zone.to.it^
 ||fa.arabianmall.vip^
+||fa.cosanai.cc^
 ||fa.outletking.cc^
 ||fa122.vip^
 ||fabalchemy.shop^
@@ -2573,6 +2576,7 @@ redback..boots.com
 ||iamnew.powerappsportals.com^
 ||iaoption.com^
 ||iastfund.com^
+||iavvky.com^
 ||ibisnashikhotel.online^
 ||ibksport.eu^
 ||ibmqgt.com^
