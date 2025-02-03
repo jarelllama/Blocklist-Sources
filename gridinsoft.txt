@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.03.130437.2025
+! Version: 02.03.133245.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb  3 13:04:37 UTC 2025
+! Last modified: Mon Feb  3 13:32:45 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5750
+! Number of entries: 5754
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -19,6 +19,7 @@ redback..boots.com
 ||10bestsweepstakes.com^
 ||11ph9.com^
 ||123notices.com^
+||128gloireunlimited.corporation.com^
 ||12se12.com^
 ||1337x.tw^
 ||13yo.lollita.online^
@@ -3089,6 +3090,7 @@ redback..boots.com
 ||luckypro.store^
 ||luckyvictoria.shop^
 ||luckywhalecasino.com^
+||lugber.com^
 ||lulalola.com^
 ||luluisrael.co.il^
 ||lulusafh.com^
@@ -4128,6 +4130,7 @@ redback..boots.com
 ||qualitynoteschange.com^
 ||qualityresells.shop^
 ||quantconnect.ai.com^
+||quantum.capital.me^
 ||quantumaitradingwallet.com^
 ||quantumdigitalmatket.com^
 ||quantumledger.top^
@@ -4684,6 +4687,7 @@ redback..boots.com
 ||steamworkshopdownloader.io^
 ||stechol.com^
 ||steest.net^
+||stellaclark.eu^
 ||stellarskyline.com^
 ||stellwisestore.com^
 ||stemncommunity.com^
