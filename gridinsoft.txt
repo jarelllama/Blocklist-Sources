@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.03.024335.2025
+! Version: 02.03.030311.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb  3 02:43:35 UTC 2025
+! Last modified: Mon Feb  3 03:03:11 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5697
+! Number of entries: 5701
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -62,6 +62,7 @@ redback..boots.com
 ||365bitcoinminer.com^
 ||37bracelets.com^
 ||37mea68.eyjvds.info^
+||42ph00w.etiziwa.info^
 ||44phl789.com^
 ||485941.coinbase.com^
 ||4uvize.com^
@@ -105,6 +106,7 @@ redback..boots.com
 ||a1b2c4.shop^
 ||aariatees.net^
 ||aattechnologies.net^
+||aav15y8.tipitkd.info^
 ||aawfurniture.com^
 ||abaok.vip^
 ||abdullahonline.store^
@@ -2182,6 +2184,7 @@ redback..boots.com
 ||game.zone.pro^
 ||gamefabrique.com^
 ||gamer.spot.com^
+||gamer.zone.fr^
 ||gamesfull.app^
 ||gamesgx.net^
 ||gameshopfinaldeals.com^
@@ -4629,6 +4632,7 @@ redback..boots.com
 ||startpayu.com^
 ||startperfectsolutions.com^
 ||startwrit.com^
+||stateonlineauction.com^
 ||static.olymptrade.com^
 ||stavelux.net^
 ||stealthmist.com^
