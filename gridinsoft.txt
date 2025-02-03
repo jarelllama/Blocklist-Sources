@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.03.213050.2025
+! Version: 02.03.220049.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb  3 21:30:50 UTC 2025
+! Last modified: Mon Feb  3 22:00:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5802
+! Number of entries: 5807
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -83,6 +83,7 @@ redback..boots.com
 ||67phspin.vip^
 ||689fa.com^
 ||68shop.europe.com^
+||6dc3ecg.yyadjai.info^
 ||7.eleven.ac^
 ||777color87.com^
 ||7k.casino.16.online^
@@ -3752,6 +3753,7 @@ redback..boots.com
 ||onlinepromotionsusa.com^
 ||onlineproptrading.com^
 ||onlinesevafine.com^
+||onlineshopleader.com^
 ||onlinessyodobashis.cc^
 ||onlinestoretechshop.com^
 ||onlinewealthmantra.com^
@@ -4586,6 +4588,7 @@ redback..boots.com
 ||skyby.aviation.school.com^
 ||skymine.online^
 ||skyplusevtr.com^
+||skyrech.com^
 ||skytrustltd.com^
 ||skywing.ltd.com^
 ||slashfilm.perfect.com^
@@ -5214,6 +5217,7 @@ redback..boots.com
 ||ulmire.com^
 ||ultimateexperttrade247.com^
 ||ultimatefinance.co.in^
+||ultracapitals.org^
 ||umamiicrate.store^
 ||umarinfomobiles.online^
 ||umrahcabonline.com^
@@ -5551,6 +5555,7 @@ redback..boots.com
 ||wholefilter.com^
 ||wholesale21.com^
 ||whoopyrewards.com^
+||whop.com^
 ||whubaesingotbrewer.com^
 ||wiaa.in^
 ||wichhistor.co.uk^
