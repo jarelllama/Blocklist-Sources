@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.03.140107.2025
+! Version: 02.03.143319.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb  3 14:01:07 UTC 2025
+! Last modified: Mon Feb  3 14:33:19 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5755
+! Number of entries: 5758
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -548,6 +548,7 @@ redback..boots.com
 ||beetlejuice.2.online^
 ||befilabs.space^
 ||behque.click^
+||beigerise.com^
 ||beijingwatches.com^
 ||bekerja.online^
 ||belinggift.com^
@@ -2659,6 +2660,7 @@ redback..boots.com
 ||intimocontenitivo.com^
 ||introtocrypto.xyz^
 ||invest.cryptonetworkspace.com^
+||investairobot.com^
 ||investingincryptocurrency.com^
 ||investmentbloom.com^
 ||investor.digiestate.online^
@@ -5197,6 +5199,7 @@ redback..boots.com
 ||uniwin.top^
 ||unlockcontent.org^
 ||unltee.com^
+||unnatijobs.com^
 ||unnatitoys.com^
 ||unsold2024.com^
 ||unvaulted.coomer.party^
