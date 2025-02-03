@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.03.150054.2025
+! Version: 02.03.153209.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb  3 15:00:54 UTC 2025
+! Last modified: Mon Feb  3 15:32:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5763
+! Number of entries: 5769
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1588,6 +1588,7 @@ redback..boots.com
 ||dicksportingwholesale.com^
 ||dickssportinggoodsholiday.com^
 ||dickssportinggoodsoutlets.shop^
+||dickssportinggoodssoutlet.com^
 ||dickssportingofficial.com^
 ||differentgeneration.online^
 ||digestionscience.com^
@@ -1855,6 +1856,7 @@ redback..boots.com
 ||epeweko.info^
 ||epicchest.net^
 ||epicdigitalflow.com^
+||epicrecordsrvip.com^
 ||epoiu.com^
 ||equallyto.com^
 ||equistak.com^
@@ -2088,6 +2090,7 @@ redback..boots.com
 ||followthepromo.com^
 ||footballdisease.com^
 ||footboom1.com^
+||footboxes.com^
 ||footjoyeu.shop^
 ||footjoyofficial.com^
 ||footjoysale.shop^
@@ -3271,6 +3274,7 @@ redback..boots.com
 ||metodolog.online^
 ||metropolidata.com^
 ||metrotradeltd.com^
+||metroxenterprise.com^
 ||mevbridge.com^
 ||mexcgpt.com^
 ||mexcter.cc^
@@ -4334,6 +4338,7 @@ redback..boots.com
 ||rumadining.com^
 ||ruopors.co.in^
 ||russesale.shop^
+||rust.bet.com^
 ||rutor8.com^
 ||rvresell.be^
 ||rvxathe.com^
@@ -5478,6 +5483,7 @@ redback..boots.com
 ||web3km.online^
 ||web3land.net^
 ||web3pay.biz^
+||webador.de^
 ||webmail.vip.webasa.site^
 ||website.87e9feb8.quaaludes.io^
 ||websparkstore.com^
