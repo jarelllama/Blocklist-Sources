@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.03.000155.2025
+! Version: 02.03.004523.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb  3 00:01:55 UTC 2025
+! Last modified: Mon Feb  3 00:45:23 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5669
+! Number of entries: 5678
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1473,6 +1473,15 @@ redback..boots.com
 ||deepseekfree.in^
 ||deepseekfree.online^
 ||deepseekfriend.com^
+||deepseekmac.com^
+||deepseekmagic.com^
+||deepseekmakers.com^
+||deepseekmall.com^
+||deepseekmarket.com^
+||deepseekmars.com^
+||deepseekmatrix.com^
+||deepseekmax.com^
+||deepseekoraclegrid.dev^
 ||deepseekr1.cloud^
 ||deepweb.fixedmatches.com^
 ||defashionette.xyz^
