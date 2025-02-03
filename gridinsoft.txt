@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.03.183510.2025
+! Version: 02.03.190102.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb  3 18:35:10 UTC 2025
+! Last modified: Mon Feb  3 19:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5777
+! Number of entries: 5780
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -274,6 +274,7 @@ redback..boots.com
 ||altano.store^
 ||altieer.com^
 ||altimotradingsltd.com^
+||altmisnews.com^
 ||altraprime.trade.org^
 ||alturametatrade.com^
 ||alwaysfindonline.shop^
@@ -4061,6 +4062,7 @@ redback..boots.com
 ||psychedelicsdispensaryonline.com^
 ||psychrine.com^
 ||pt.rockport.com^
+||pt.urcdkeys.com^
 ||pth223.com^
 ||pth668.com^
 ||pu220ev.com^
@@ -4372,6 +4374,7 @@ redback..boots.com
 ||sale.oggi.com^
 ||salebeddingus.com^
 ||salefuet.best^
+||salemagazineonline.com^
 ||salewaoutletsespana.es^
 ||samaucy.com^
 ||samimpex.org^
