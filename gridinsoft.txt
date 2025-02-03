@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.03.190102.2025
+! Version: 02.03.193101.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb  3 19:01:02 UTC 2025
+! Last modified: Mon Feb  3 19:31:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5780
+! Number of entries: 5785
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -2820,6 +2820,7 @@ redback..boots.com
 ||k03p.xyz^
 ||kadesignandbuild.co.uk^
 ||kadobarvapesstore.com^
+||kaembal.com^
 ||kagevest.org^
 ||kaigong.shop^
 ||kalpwd.vip^
@@ -3252,6 +3253,7 @@ redback..boots.com
 ||meistrgold.com^
 ||melaspin.com^
 ||melbet.india.net^
+||melunix.com^
 ||melutor.com^
 ||memetrump.org^
 ||memoforce.net^
@@ -3412,6 +3414,7 @@ redback..boots.com
 ||mopspartneronline.com^
 ||morganenergyph.com^
 ||mormark.eu^
+||morulex.com^
 ||mostirex.com^
 ||motoboss.shop^
 ||motorwolt.com^
@@ -4794,6 +4797,7 @@ redback..boots.com
 ||swedwayinnovations.com^
 ||sweepzprizes.com^
 ||sweet.paradise.online^
+||sweetydolls.com^
 ||swift.asset.com^
 ||swift.blink.com^
 ||swiftcryptox.com^
@@ -5742,6 +5746,7 @@ redback..boots.com
 ||zapaka.fr^
 ||zapatillasespanaoutlet.org^
 ||zbx.exchanges.com^
+||zchuryakov.shop^
 ||zcode.system.online^
 ||zdigitalagencymt.cc^
 ||zeharris.online^
