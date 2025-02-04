@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.04.063612.2025
+! Version: 02.04.070055.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb  4 06:36:12 UTC 2025
+! Last modified: Tue Feb  4 07:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5874
+! Number of entries: 5880
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1441,6 +1441,7 @@
 ||dappschainapp.com^
 ||dark.link.sbs^
 ||darkpick.com^
+||darmavenue.com^
 ||dash.optimus.vip^
 ||dash.probits.cc^
 ||dashnex.plexusmarket.fund^
@@ -2073,6 +2074,7 @@
 ||finzennews.com^
 ||firmco.mobility.com^
 ||firmdrexworld.com^
+||firstcomfortsgroup.com^
 ||firstwin.click^
 ||firstwinbet.online^
 ||fiseign.com^
@@ -2648,6 +2650,7 @@
 ||iframeforward.com^
 ||ig9612.top^
 ||igetintopc.com^
+||ii.beanoutlets.com^
 ||iiozb.shop^
 ||iitang.com^
 ||ijex.com^
@@ -4054,6 +4057,7 @@
 ||pprrc.com^
 ||practicalss.com^
 ||practicemakesperfect.online^
+||prav.consult.biz^
 ||praytech.ma^
 ||precedings.shop^
 ||precisionbevel.com^
@@ -4541,6 +4545,7 @@
 ||sewric.com^
 ||sexanzeigen.huren.online^
 ||sexfullmovies.mobi^
+||sextoysindubai.com^
 ||sexyforums.com^
 ||sfardlanka.com^
 ||sfptrust.com^
@@ -4574,6 +4579,7 @@
 ||shopavs.store^
 ||shopbiggestdeals.com^
 ||shopbopafiliate.org^
+||shope1.a1finder.com^
 ||shope4you.shop^
 ||shopeevip.shop^
 ||shophopesboutique.com.montgomerymiss.com^
