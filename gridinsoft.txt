@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.03.233048.2025
+! Version: 02.04.000145.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb  3 23:30:48 UTC 2025
+! Last modified: Tue Feb  4 00:01:45 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5817
+! Number of entries: 5822
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -134,6 +134,7 @@ redback..boots.com
 ||acessoftog.com^
 ||achadosonline2790.com^
 ||achatdrogues.com^
+||acheminement.echec.com^
 ||acheterdrogues.com^
 ||ackstar.top^
 ||acnetratamientofacial.com^
@@ -2349,6 +2350,7 @@ redback..boots.com
 ||goinvest.credit.com^
 ||golat.online^
 ||goldackerstrading.com^
+||goldcoin.trade.org^
 ||golddex.web3.net^
 ||golden.lucky.com^
 ||goldengooseselect.com^
@@ -4810,6 +4812,7 @@ redback..boots.com
 ||suredafa.com^
 ||surfing777.online^
 ||surfingsunday.shop^
+||surl.li^
 ||surveyanswer.xyz^
 ||surveymonkey.com^
 ||survoom.com^
@@ -4929,6 +4932,7 @@ redback..boots.com
 ||thecryptobullrun.life^
 ||thedollar.online^
 ||thedopestshopusa.com^
+||thefareed.co^
 ||thefashiontrandhub.com^
 ||thefinal.show.com^
 ||theflashlightshop.com^
@@ -5768,6 +5772,7 @@ redback..boots.com
 ||yyyu.0001.vip^
 ||yzonaautomotive.shop^
 ||z.lib.io^
+||z.zenshop.com^
 ||z2u.com^
 ||zadig.et.voltaire.eu.com^
 ||zadigvoltairevip.com^
