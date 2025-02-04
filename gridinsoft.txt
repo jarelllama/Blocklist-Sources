@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.04.200101.2025
+! Version: 02.04.203156.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb  4 20:01:01 UTC 2025
+! Last modified: Tue Feb  4 20:31:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5939
+! Number of entries: 5943
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2503,6 +2503,7 @@
 ||happyvilleonline.com^
 ||harrislogisticsllc.com^
 ||harshalpawar.in^
+||harvest.growth.org^
 ||harvestcommunityunion.com^
 ||harveylux.com^
 ||hash.shiny.com^
@@ -2623,6 +2624,7 @@
 ||hotuiner.shop^
 ||hotvxfs.shop^
 ||hotwatch.live^
+||hotwatch.pro^
 ||housescrappersllc.online^
 ||housevaluetool.com^
 ||hoveraires.site^
@@ -4375,6 +4377,7 @@
 ||retoswap.com^
 ||retroclubkit.co^
 ||retrofxmarkets.com^
+||retromoods.com^
 ||retropixellc.com^
 ||reupsupplies.com^
 ||revanced.net^
@@ -4933,6 +4936,7 @@
 ||swiftfinverge.com^
 ||swiftradinginvestpro.com^
 ||swiftreturnexchange.com^
+||swimcarnival.com^
 ||swingdeceive.com^
 ||swingfxmarket.com^
 ||swipelake.shop^
