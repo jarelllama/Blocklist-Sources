@@ -69,6 +69,7 @@ append_header() {
 ! Last modified: $(date -u)
 ! Syntax: Adblock Plus
 ! Number of entries: $(wc -l < compiled.tmp)
+!
 EOF
 }
 
