@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.04.103425.2025
+! Version: 02.04.110055.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb  4 10:34:25 UTC 2025
+! Last modified: Tue Feb  4 11:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5900
+! Number of entries: 5907
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -852,6 +852,7 @@
 ||brasatrade.com^
 ||brasilenviosnet.com^
 ||braw4.net^
+||brda.io^
 ||bread.usd.shop^
 ||breakmine.online^
 ||breathbit.org^
@@ -1705,6 +1706,7 @@
 ||dorunex.com^
 ||doswex.com^
 ||dosya.co^
+||doubledeckertourbus.com^
 ||download.wondershare.net^
 ||downloadfiles.link^
 ||dowynert.com^
@@ -2695,6 +2697,7 @@
 ||informathote.com^
 ||informed.deliveryghfgh.top^
 ||informed.deliveryqbnsk.top^
+||ingprep.com^
 ||innovayours.store^
 ||innserong.shop^
 ||insads.net^
@@ -2910,6 +2913,7 @@
 ||kidschannel.online^
 ||kijl.online^
 ||kingpack7.quest^
+||kinopolis.elite.com^
 ||kinosotik.com^
 ||kiproind.com^
 ||kirillviktoriawedding.online^
@@ -3541,6 +3545,7 @@
 ||myvanomi.com^
 ||n.ag.vip^
 ||n.pkup.fr^
+||na01.safelinks.protection.outlook.com^
 ||naaeeoy.com^
 ||nannyirrationalacquainted.com^
 ||naorisprotocol.web.app^
@@ -4072,6 +4077,7 @@
 ||practicemakesperfect.online^
 ||prav.consult.biz^
 ||praytech.ma^
+||prboost.io^
 ||precedings.shop^
 ||precisionbevel.com^
 ||preferablyagicent.online.com^
@@ -4113,6 +4119,7 @@
 ||promo.offer.com^
 ||promptfunds.org^
 ||prompts.top^
+||pronatum.com^
 ||proofpeak.org^
 ||propandcounterfietmoney.com^
 ||propfirmpassingservice.net^
