@@ -3,13 +3,12 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.04.054355.2025
+! Version: 02.04.054820.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb  4 05:43:55 UTC 2025
+! Last modified: Tue Feb  4 05:48:20 UTC 2025
 ! Syntax: Adblock Plus
 ! Number of entries: 5863
 !
-||redback..boots.com^
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
 ||02nev.cc^
@@ -4661,6 +4660,7 @@
 ||smmtribe.com^
 ||smokelifeshop.com^
 ||smoothingout.com^
+||smorec.store^
 ||smtpdeal.com^
 ||snapbuy.us^
 ||snapsave.app^
