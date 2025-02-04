@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.04.213050.2025
+! Version: 02.04.220102.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb  4 21:30:50 UTC 2025
+! Last modified: Tue Feb  4 22:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5950
+! Number of entries: 5955
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -418,6 +418,7 @@
 ||artguru.ai^
 ||artosnomics.com^
 ||artsyfame.homes^
+||arturelights.com^
 ||artwareworld.com^
 ||arul.online^
 ||arzookanak.in^
@@ -2560,6 +2561,7 @@
 ||hiptrain.digital^
 ||hireahackers.pro^
 ||hireuphelp.online^
+||hiringlense.in^
 ||hkapp.telegram.net^
 ||hkcryptoexchange.com^
 ||hkdatong.shop^
@@ -2760,6 +2762,7 @@
 ||ipctd.online^
 ||ipfs.io^
 ||iprimetv.store^
+||ipscene.com^
 ||ipshows4k.site^
 ||iptv4d.com^
 ||iptvkaufen24.de^
@@ -2947,6 +2950,7 @@
 ||kissminis.com^
 ||kisuort.shop^
 ||kitchen.products.online^
+||kitcollection.monster^
 ||kitculture.store^
 ||kiterexchangez.click^
 ||kittycomfortstore.com^
@@ -3515,6 +3519,7 @@
 ||mpc7.cc^
 ||mqyn.odqmjbta.shop^
 ||mr.verify.net^
+||mrandmrsfastsale.com^
 ||mrefractiont.lol^
 ||mrgasdisposableshop.com^
 ||ms.nordictrack.cc^
