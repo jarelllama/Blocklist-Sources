@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.04.043332.2025
+! Version: 02.04.050055.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb  4 04:33:32 UTC 2025
+! Last modified: Tue Feb  4 05:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5852
+! Number of entries: 5857
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1959,6 +1959,7 @@ redback..boots.com
 ||exploit.in^
 ||explore.share.work.com^
 ||expressdeh.cfd^
+||extrapyro.com^
 ||ezdrivema.cfd^
 ||ezdrivhkr.top^
 ||ezymny.com^
@@ -2786,6 +2787,7 @@ redback..boots.com
 ||jianceo8.vip^
 ||jigsawmans.online^
 ||jikinideals.shop^
+||jili.ma^
 ||jimi2mall.com^
 ||jiuyu.fit^
 ||jlkwelding.online^
@@ -4191,6 +4193,7 @@ redback..boots.com
 ||qruirseven.com^
 ||qtvvcshop.com^
 ||quality.cures.com^
+||qualityfakeid.com^
 ||qualitynoteschange.com^
 ||qualityresells.shop^
 ||quantconnect.ai.com^
@@ -4256,6 +4259,7 @@ redback..boots.com
 ||rebelsatoshi.com^
 ||recaptchav2.com^
 ||recetasexpres.com^
+||reclaimbackassets.com^
 ||recruit.threadsstaffs.com^
 ||rect.reward.glacier.website^
 ||redbeautylife.com^
@@ -4341,6 +4345,7 @@ redback..boots.com
 ||rimbuicshop.com^
 ||rimicoins.com^
 ||ringgitplus.com^
+||riothye.com^
 ||riskcomplianceportfolio134043.online^
 ||ritoudown.com^
 ||rivobanc.com^
