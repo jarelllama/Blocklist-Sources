@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.04.054820.2025
+! Version: 02.04.060106.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb  4 05:48:20 UTC 2025
+! Last modified: Tue Feb  4 06:01:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5863
+! Number of entries: 5868
 !
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1961,6 +1961,7 @@
 ||explore.share.work.com^
 ||expressdeh.cfd^
 ||extrapyro.com^
+||ezdrive.com^
 ||ezdrivema.cfd^
 ||ezdrivhkr.top^
 ||ezymny.com^
@@ -3275,6 +3276,8 @@
 ||media.io^
 ||mediamartk.xyz^
 ||medicorners.com^
+||medipirol.com^
+||medistorehub.com^
 ||mednakit.com^
 ||meerai.io^
 ||mega.easy.prize.pro^
@@ -4865,6 +4868,7 @@
 ||swiftcryptox.com^
 ||swiftfinverge.com^
 ||swiftradinginvestpro.com^
+||swiftreturnexchange.com^
 ||swingdeceive.com^
 ||swingfxmarket.com^
 ||swipelake.shop^
@@ -5138,6 +5142,7 @@
 ||tradingcardsstoredeals.com^
 ||tradingid.acemlnb.com^
 ||tradingpoint.cc^
+||tradingsoros.com^
 ||tradion.cyou^
 ||tradiso.com^
 ||tradix.cc^
