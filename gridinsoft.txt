@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.04.093154.2025
+! Version: 02.04.100107.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb  4 09:31:54 UTC 2025
+! Last modified: Tue Feb  4 10:01:07 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5895
+! Number of entries: 5897
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1052,6 +1052,7 @@
 ||cenotor.com^
 ||cenovus.life^
 ||centercontact.top^
+||central.bank.io^
 ||centralworldmall.org^
 ||centralworldmall.vip^
 ||cenutix.com^
@@ -4863,6 +4864,7 @@
 ||superficial.work.com^
 ||superkegel.store^
 ||supermax888.site^
+||supernovaasias.com^
 ||superoffrs.com^
 ||supersery.com^
 ||superwatch.live^
