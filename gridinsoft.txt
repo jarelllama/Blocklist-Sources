@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.04.193053.2025
+! Version: 02.04.200101.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb  4 19:30:53 UTC 2025
+! Last modified: Tue Feb  4 20:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5936
+! Number of entries: 5939
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -373,6 +373,7 @@
 ||app.sparmall.vip^
 ||appanalytics.online^
 ||appdevelopmenthouse.com^
+||appdynamicstech.com^
 ||appengroupltd.com^
 ||appic.events^
 ||appj.online^
@@ -1776,6 +1777,7 @@
 ||earringssale.com^
 ||easefuldreams.com^
 ||easelayer.co^
+||easun.energy.com^
 ||easy.earn.org^
 ||easybtc.mining.com^
 ||easycryptoblog.com^
@@ -5642,6 +5644,7 @@
 ||web3land.net^
 ||web3pay.biz^
 ||webador.de^
+||webglobalinc.net^
 ||webmail.vip.webasa.site^
 ||website.87e9feb8.quaaludes.io^
 ||websparkstore.com^
