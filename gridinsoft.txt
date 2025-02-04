@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.04.033311.2025
+! Version: 02.04.040100.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb  4 03:33:11 UTC 2025
+! Last modified: Tue Feb  4 04:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5845
+! Number of entries: 5848
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1128,6 +1128,7 @@ redback..boots.com
 ||clarkeglobalinc.com^
 ||classicteefox.com^
 ||classicused.cars.com^
+||classinewshoes.com^
 ||clcriptomonedas006.com^
 ||clcriptomonedas007.com^
 ||cldepot.com^
@@ -1887,6 +1888,7 @@ redback..boots.com
 ||eraw.top^
 ||ercdlp.com^
 ||erenova.in^
+||erias.xyz^
 ||erkulbicak.com^
 ||ermsty.com^
 ||erybdu.com^
@@ -3064,6 +3066,7 @@ redback..boots.com
 ||live.uncody.site^
 ||livebroadcast518.online^
 ||liveccvv.mp^
+||livenewbuzz.com^
 ||livextop.com^
 ||liveyourwetdream.com^
 ||livraison.interrompu.com^
