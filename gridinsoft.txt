@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.04.050055.2025
+! Version: 02.04.053258.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb  4 05:00:55 UTC 2025
+! Last modified: Tue Feb  4 05:32:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5857
+! Number of entries: 5861
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -2185,6 +2185,7 @@ redback..boots.com
 ||fulenix.com^
 ||funcapsnl.com^
 ||fundedbullfx.com^
+||fundedkingdom.com^
 ||fundedsportstrader.com^
 ||fundsretrievalpanel.com^
 ||fundxrecover.com^
@@ -5377,6 +5378,7 @@ redback..boots.com
 ||veepee.fr.shop^
 ||veezpass.com^
 ||vegobit.com^
+||vehiclevinstickers.com^
 ||velari.nl^
 ||veldainty.com^
 ||velivyne.com^
@@ -5661,6 +5663,8 @@ redback..boots.com
 ||worldofdypians.ch^
 ||worldofhurtonline.com^
 ||worldproductssprogram.com^
+||worldproin.com^
+||worldproit.com^
 ||worldsdates.com^
 ||worldtradex.email^
 ||worldwardrobe.shop^
