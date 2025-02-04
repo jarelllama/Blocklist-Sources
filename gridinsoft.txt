@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.04.110055.2025
+! Version: 02.04.113054.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb  4 11:00:55 UTC 2025
+! Last modified: Tue Feb  4 11:30:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5907
+! Number of entries: 5913
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2588,6 +2588,7 @@
 ||hostackhomefurnishings.shop^
 ||hotbcopupu.cc^
 ||hotbdorogo.cc^
+||hotbloloza.cc^
 ||hotbmotoca.cc^
 ||hotbmuyedi.today^
 ||hotbnaxele.today^
@@ -2599,6 +2600,7 @@
 ||hotbwodama.today^
 ||hotbxegabo.today^
 ||hotbxurupa.cc^
+||hotbzozuda.cc^
 ||hotel.great.value9531.online^
 ||hotels21.com^
 ||hotelvalues.com^
@@ -2855,6 +2857,8 @@
 ||junbuna.com^
 ||juniperhayesweddingdesign.com^
 ||juno.download.promo.com^
+||jupitertrades.org^
+||just.mining.co^
 ||justanorganizedhome.online^
 ||justanothercarpenter.online^
 ||justhoston.com^
@@ -4066,6 +4070,7 @@
 ||portaldedicasonline.com^
 ||portumltd.com^
 ||poseidoncoin.top^
+||postyourlife.com^
 ||poudresdenarco.com^
 ||powerelixir.online^
 ||powerkit.fr^
@@ -4629,6 +4634,7 @@
 ||siftai.net^
 ||sigmaweb.online^
 ||signalarchitects.cloud^
+||signalpeak.io^
 ||silegx.org^
 ||silentun.com^
 ||silverstone.ltd.com^
