@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.04.022647.2025
+! Version: 02.04.024502.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb  4 02:26:47 UTC 2025
+! Last modified: Tue Feb  4 02:45:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5831
+! Number of entries: 5836
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1713,6 +1713,7 @@ redback..boots.com
 ||drmartensnews.com^
 ||drochill.com^
 ||drogen.kaufen.com^
+||drupacolony.tech^
 ||drw.vip.cc^
 ||ds2play.com^
 ||dsaileads.com^
@@ -3514,6 +3515,7 @@ redback..boots.com
 ||naseebetiris.naseebet77.com^
 ||naseox.org^
 ||natadler.com^
+||natayark.us.kg^
 ||nationalcasinolp.com^
 ||nationdistributor.com^
 ||naturaenutra.online^
@@ -4281,6 +4283,7 @@ redback..boots.com
 ||renmsuq.shop^
 ||renonur.com^
 ||renovix.online^
+||renrys.com^
 ||rentabay.shop^
 ||renvara.com^
 ||renvoie.mondialrelay.com^
@@ -4653,6 +4656,7 @@ redback..boots.com
 ||socioplanet.com^
 ||sockshappystore.com^
 ||sofiahalbofanimeworld.blogspot.co.uk^
+||sofiahalbofanimeworld.blogspot.com^
 ||sofiahalbofanimeworld.blogspot.nl^
 ||softgama.online^
 ||softontop.io^
@@ -5804,6 +5808,7 @@ redback..boots.com
 ||zenjett.com^
 ||zenoex.com^
 ||zerocodeblock.com^
+||zerocoin.top^
 ||zervit.co^
 ||zesphyr.com^
 ||zetboom.com^
