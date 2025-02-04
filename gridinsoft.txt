@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.04.073055.2025
+! Version: 02.04.080104.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb  4 07:30:55 UTC 2025
+! Last modified: Tue Feb  4 08:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5882
+! Number of entries: 5887
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -582,6 +582,7 @@
 ||bervospace.com^
 ||besafetoday.top^
 ||beseenmarketing.online^
+||besstnews.info^
 ||best.expertonline.com^
 ||best.outdoor.gear.com^
 ||best4youu.info^
@@ -1688,6 +1689,7 @@
 ||dom.zalivov.sbs^
 ||domesticraws.com^
 ||dominatei.shop^
+||donarex.com^
 ||donsagace.net^
 ||dopehungary.hu.com^
 ||dopesneakers.shop^
@@ -2496,6 +2498,7 @@
 ||healthessencial.com^
 ||healthproductspro.com^
 ||healthtimers.com^
+||healthwellonline.online^
 ||healthybodynow.net^
 ||heartlandstandardbk.com^
 ||heavensender.pro^
@@ -4266,6 +4269,7 @@
 ||readeraspect.in^
 ||readermodeext.info^
 ||reaintell.com^
+||realavaitor.pro^
 ||realintelligence.club^
 ||realionetwork.claims^
 ||reallilya.com^
@@ -5881,6 +5885,7 @@
 ||zorunex.com^
 ||zorvalor.com^
 ||zoveco.com^
+||zoxtrade.com^
 ||ztmining.com^
 ||ztudim.work.top^
 ||ztxzhb.shop^
