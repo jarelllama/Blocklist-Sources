@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.04.230057.2025
+! Version: 02.04.233050.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb  4 23:00:57 UTC 2025
+! Last modified: Tue Feb  4 23:30:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5961
+! Number of entries: 5964
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1695,6 +1695,7 @@
 ||docs.shibariumtech.com^
 ||doctorformen.space^
 ||dodi.repacks.site^
+||dogdex.run^
 ||dogecoin.usdt.vip^
 ||dogee.vip^
 ||dogefree.in^
@@ -3896,6 +3897,7 @@
 ||orzenge.com^
 ||osirisshoesfactory.com^
 ||ostehard.com^
+||osurx.com^
 ||ota.partnership.com^
 ||otcpets.com^
 ||otherstoriessale.shop^
@@ -5517,6 +5519,7 @@
 ||vibyage.com^
 ||viceoriassccet.com^
 ||victordle.net^
+||victoriousact.com^
 ||vidcloud1.com^
 ||video.earns.top^
 ||video4k.site^
