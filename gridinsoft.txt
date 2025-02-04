@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.04.040100.2025
+! Version: 02.04.043332.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb  4 04:01:00 UTC 2025
+! Last modified: Tue Feb  4 04:33:32 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5848
+! Number of entries: 5852
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -2360,6 +2360,7 @@ redback..boots.com
 ||goldcoin.trade.org^
 ||golddex.web3.net^
 ||golden.lucky.com^
+||goldenaxisllc.com^
 ||goldengooseselect.com^
 ||goldengoosetgreece.cc^
 ||goldenpristine.com^
@@ -4092,6 +4093,7 @@ redback..boots.com
 ||protectivemethod.com^
 ||proteinbestsell.com^
 ||protocolsafe.co.in^
+||protradesafeapp.info^
 ||proupwholesale.com^
 ||proveedor.io^
 ||przedstawiamynagranie.click^
@@ -4296,6 +4298,7 @@ redback..boots.com
 ||renvoie.mondialrelay.com^
 ||reoe.shop^
 ||repaircontractors2us0507.online^
+||repliquesuisse.co^
 ||reploysai.io^
 ||reportcryptoscam.forum.online^
 ||res.ldrescdn.com^
@@ -4796,6 +4799,7 @@ redback..boots.com
 ||stusdt.world^
 ||stylesock.com^
 ||styline.shop^
+||styvor.com^
 ||subduedespana.com^
 ||subscribelg.my^
 ||suckbetg.online^
