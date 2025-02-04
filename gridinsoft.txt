@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.04.080104.2025
+! Version: 02.04.083418.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb  4 08:01:04 UTC 2025
+! Last modified: Tue Feb  4 08:34:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5887
+! Number of entries: 5890
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -19,6 +19,7 @@
 ||1024tera.com^
 ||10bestsweepstakes.com^
 ||11ph9.com^
+||123movie.press^
 ||123notices.com^
 ||128gloireunlimited.corporation.com^
 ||12se12.com^
@@ -1373,6 +1374,7 @@
 ||cryptorecoverysquad.com^
 ||cryptosgx.com^
 ||cryptoshieldx.com^
+||cryptosolutionsltd.org^
 ||cryptotabfarm.com^
 ||cryptouniverse.io^
 ||cryptowallet.cloud^
@@ -3566,6 +3568,7 @@
 ||nemalur.com^
 ||nemovix.com^
 ||neobitix.com^
+||neogorthopedicsupports.shop^
 ||neomaven.pro^
 ||neopaypoint.org^
 ||nerofax.com^
