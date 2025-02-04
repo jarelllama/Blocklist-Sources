@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.04.020005.2025
+! Version: 02.04.022647.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb  4 02:00:05 UTC 2025
+! Last modified: Tue Feb  4 02:26:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5826
+! Number of entries: 5831
 redback..boots.com
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
@@ -1939,6 +1939,7 @@ redback..boots.com
 ||evornelle.click^
 ||evyplay.com^
 ||ewaqg.com^
+||exciting.meet.casual.com^
 ||excotrade.com^
 ||exiledexchange2.com^
 ||exnesstradecenter.com^
@@ -2508,6 +2509,7 @@ redback..boots.com
 ||hikarudistribution.com^
 ||himalayaoutlet.me^
 ||hindappstore.com^
+||hingfck.com^
 ||hippo.mall.vip^
 ||hiptrain.digital^
 ||hireahackers.pro^
@@ -2811,6 +2813,7 @@ redback..boots.com
 ||jrelievedy.monster^
 ||jrqyonline.com^
 ||jsonvieweronline.io^
+||jtddate.com^
 ||juinfd.com^
 ||juliusbaerusd.com^
 ||jump.panel.surprise.clever.top^
@@ -4052,6 +4055,7 @@ redback..boots.com
 ||primetransactltd.com^
 ||primitivesystem.online^
 ||pristinedrivecarcare.com^
+||privatebin.net^
 ||privatesportshop.fr^
 ||prizefrenzyzone.today^
 ||prizerebel.com^
@@ -4449,6 +4453,7 @@ redback..boots.com
 ||sciaticnerve.treatment.16.online^
 ||sclongteng.com^
 ||scorpiotaurusleofire.top^
+||screy.pro^
 ||scubaprosale.us.shop^
 ||scuffersespanatienda.com^
 ||scyrox.com^
