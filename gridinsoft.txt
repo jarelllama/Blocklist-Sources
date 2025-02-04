@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.04.113054.2025
+! Version: 02.04.120109.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb  4 11:30:54 UTC 2025
+! Last modified: Tue Feb  4 12:01:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5913
+! Number of entries: 5916
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1453,6 +1453,7 @@
 ||dashnex.plexusmarket.fund^
 ||data.driveninvesting.net^
 ||datadexterity.online^
+||dataminr.ai.org^
 ||dataminr.ai.xyz^
 ||dataprocessinghere.online^
 ||datempire.com^
@@ -2248,6 +2249,7 @@
 ||gamblers.monster^
 ||gamblerx.fun^
 ||gambyllion.com^
+||game.portal.2025.store^
 ||game.zixia.com^
 ||game.zone.pro^
 ||gamefabrique.com^
@@ -4721,6 +4723,7 @@
 ||sofiahalbofanimeworld.blogspot.co.uk^
 ||sofiahalbofanimeworld.blogspot.com^
 ||sofiahalbofanimeworld.blogspot.nl^
+||softastrd.com^
 ||softgama.online^
 ||softontop.io^
 ||softserve.vip.click^
