@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.05.090059.2025
+! Version: 02.05.093222.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb  5 09:00:59 UTC 2025
+! Last modified: Wed Feb  5 09:32:22 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6022
+! Number of entries: 6027
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2161,6 +2161,7 @@
 ||flutorix.com^
 ||fluxpockopt.com^
 ||flwoertime.de^
+||fmaglobal.io^
 ||fmcg5.biz^
 ||fmovies.co^
 ||focusmarkets.com^
@@ -2984,6 +2985,7 @@
 ||kissminis.com^
 ||kisuort.shop^
 ||kitchen.products.online^
+||kitcollection.fun^
 ||kitcollection.monster^
 ||kitculture.store^
 ||kiterexchangez.click^
@@ -3104,6 +3106,7 @@
 ||leupold.us.shop^
 ||levelbucks.com^
 ||lexclubwrld.site^
+||lexidex.com^
 ||lexingtonhazelwoodstylist.com^
 ||lffpy10mnsnp.com^
 ||lfj.gg^
@@ -3127,6 +3130,7 @@
 ||light.concept.org^
 ||light.trading.maximarkets.mobi^
 ||lightchain.ai^
+||lightinthebox.com^
 ||lightsha.com^
 ||likebargainsothers.world^
 ||limdex.capital.com^
@@ -5982,6 +5986,7 @@
 ||zchuryakov.shop^
 ||zcode.system.online^
 ||zdigitalagencymt.cc^
+||zedger.net^
 ||zeharris.online^
 ||zelamex.com^
 ||zelonor.com^
