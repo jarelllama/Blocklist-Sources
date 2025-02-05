@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.05.004516.2025
+! Version: 02.05.012749.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb  5 00:45:16 UTC 2025
+! Last modified: Wed Feb  5 01:27:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5968
+! Number of entries: 5971
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -3775,6 +3775,7 @@
 ||oceanprotocol2.xyz^
 ||oceb.bizvalley.shop^
 ||odessacalvertphotographer.com^
+||oduwow.com^
 ||oemete.com^
 ||oexbit.com^
 ||ofertabook.online^
@@ -3885,6 +3886,7 @@
 ||optimumsmax.com^
 ||optionstradeshub.com^
 ||optnutritips.com^
+||opukoj.com^
 ||orange.co.uk^
 ||orbisbux.com^
 ||orbitdigitalfund.com^
@@ -5684,6 +5686,7 @@
 ||wegovy.shop.online^
 ||weichgeback.com^
 ||welovegenshinimpact.com^
+||wemixplay.com^
 ||wenku.k8kaifa.com^
 ||westernaitrade.com^
 ||westtic.com^
