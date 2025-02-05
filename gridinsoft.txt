@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.05.060102.2025
+! Version: 02.05.063538.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb  5 06:01:02 UTC 2025
+! Last modified: Wed Feb  5 06:35:38 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6002
+! Number of entries: 6004
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2378,6 +2378,7 @@
 ||gletber.com^
 ||glmrjwl.com^
 ||global.tinv.org^
+||global.tokenex.net^
 ||globalaro.digitaladvanced.com^
 ||globalbusinesspays.com^
 ||globalcapitalista.com^
@@ -3138,6 +3139,7 @@
 ||linkzip.uk^
 ||linnios.com^
 ||linxbucks.net^
+||linxiangyun.com^
 ||lipozem.web.shop^
 ||lipozemus.com^
 ||lippizapatillaes.shop^
