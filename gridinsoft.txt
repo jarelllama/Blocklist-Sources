@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.05.053325.2025
+! Version: 02.05.060102.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb  5 05:33:25 UTC 2025
+! Last modified: Wed Feb  5 06:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5999
+! Number of entries: 6002
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2298,6 +2298,7 @@
 ||gapconnectionbridge.co.in^
 ||garrysignals.com^
 ||gaspol268.com^
+||gcgold.club^
 ||gdcecusd.com^
 ||gdmining.site^
 ||gdqai.com^
@@ -3351,6 +3352,7 @@
 ||meb.budget.com^
 ||mechawats.shop^
 ||mecnex.com^
+||med.care24.com^
 ||med4go.com^
 ||medaratradingbv.com^
 ||media.io^
@@ -5182,6 +5184,7 @@
 ||tokeiyaginza.com^
 ||tokenhedg.com^
 ||tokentrade.top^
+||tokocrypto.com^
 ||tokxon.com^
 ||tomyvipstore.shop^
 ||tonbig.com^
