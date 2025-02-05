@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.04.233050.2025
+! Version: 02.05.000158.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb  4 23:30:50 UTC 2025
+! Last modified: Wed Feb  5 00:01:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5964
+! Number of entries: 5966
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -33,6 +33,7 @@
 ||16785a.top^
 ||17.magic88.cc^
 ||19www.vivetuaventurasinlimitespromo.com^
+||1movierulzhd.my^
 ||1ohm.in^
 ||1woqab.top^
 ||1worldtraining.com^
@@ -3627,6 +3628,7 @@
 ||netdcbf.com^
 ||netfucks1.com^
 ||nethaless.com^
+||networkcycle.co.in^
 ||networkpartialchain.co.in^
 ||neuratech.global^
 ||neuromatics.com^
