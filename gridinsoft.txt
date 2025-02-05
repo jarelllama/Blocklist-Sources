@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.05.020056.2025
+! Version: 02.05.024342.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb  5 02:00:56 UTC 2025
+! Last modified: Wed Feb  5 02:43:42 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5977
+! Number of entries: 5981
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1368,6 +1368,7 @@
 ||cryptobitnance.net^
 ||cryptobox.digital^
 ||cryptobtc.pro^
+||cryptobtcash.com^
 ||cryptobullmining.com^
 ||cryptocurrency.events.com^
 ||cryptocurrency.recovery.com^
@@ -1449,6 +1450,7 @@
 ||dagahna.fun^
 ||daily.deals.sale^
 ||daily2jili8.vip^
+||dailygivebacks.com^
 ||dailytehillim.online^
 ||dailyuploads.net^
 ||dainese.sale.shop^
@@ -1658,6 +1660,7 @@
 ||digiterminator.online^
 ||digitsagency.online^
 ||digitsathi.co.in^
+||dinodex.net^
 ||diptyque.shop^
 ||diptysales.com^
 ||directamatch.com^
@@ -5853,6 +5856,7 @@
 ||xorylia.com^
 ||xpertlex.online^
 ||xpfmall.biz^
+||xposz.shop^
 ||xpresswealthbnk.com^
 ||xpronlineoffertstore.com^
 ||xrpofficial.reward.com^
