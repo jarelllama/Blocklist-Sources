@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.05.160100.2025
+! Version: 02.05.163552.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb  5 16:01:00 UTC 2025
+! Last modified: Wed Feb  5 16:35:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6056
+! Number of entries: 6059
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -3180,6 +3180,7 @@
 ||live.uncody.site^
 ||livebroadcast518.online^
 ||liveccvv.mp^
+||livegoodtour.com^
 ||livenewbuzz.com^
 ||livextop.com^
 ||liveyourwetdream.com^
@@ -5073,6 +5074,7 @@
 ||tbkis.com^
 ||tbwa.dad^
 ||tc126.xyz^
+||tdglobalcompany.com^
 ||te.currency.xshares.site^
 ||teachmecompliance.com^
 ||teaforteheaven.shop^
@@ -5547,6 +5549,7 @@
 ||valuefirm.us^
 ||valueversion.com^
 ||valxcane.lol^
+||vanadex.com^
 ||vanbet.top^
 ||vantique.net^
 ||varidhirathore.github.io^
