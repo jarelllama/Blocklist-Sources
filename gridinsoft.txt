@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.05.213100.2025
+! Version: 02.05.220055.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb  5 21:31:00 UTC 2025
+! Last modified: Wed Feb  5 22:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6084
+! Number of entries: 6088
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2515,6 +2515,7 @@
 ||gtc.lol^
 ||gten956.vip^
 ||gtkjean.com^
+||gtrewe.co.in^
 ||guabsons.com^
 ||guaranteeswift.com^
 ||guardwallet.io^
@@ -3764,10 +3765,12 @@
 ||nicliquid.com^
 ||nicolcssubreville.shop^
 ||niffyhub.com^
+||nightbux.com^
 ||nikecolombiabogota.co^
 ||nikocanvas.com^
 ||nilsenconsulting.io^
 ||nimo0.info^
+||ninebux.com^
 ||ninjasapp.io^
 ||ninzamistry.com^
 ||niolic.com^
@@ -3872,6 +3875,7 @@
 ||okwintss.com^
 ||okxtrade.org^
 ||oldendroff.com^
+||oldschoolbux.com^
 ||olimpp.bet^
 ||olivia.paradox.ai^
 ||oluciones.shop^
