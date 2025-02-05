@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.05.024342.2025
+! Version: 02.05.030309.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb  5 02:43:42 UTC 2025
+! Last modified: Wed Feb  5 03:03:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5981
+! Number of entries: 5986
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2336,6 +2336,7 @@
 ||gettrampmeme.org^
 ||gettrampmemes.com^
 ||gettrumpairdrop.web.app^
+||getwhispeara.com^
 ||getxwin.com^
 ||gfgsdgkgk.com^
 ||gfslsecurities.cc^
@@ -3881,6 +3882,7 @@
 ||oousdt.com^
 ||opdomain22.online^
 ||open.weixin.qq.com^
+||openai1.xyz^
 ||openfundsag.org^
 ||openmonero.co^
 ||opennetworklink.co.in^
@@ -4051,6 +4053,7 @@
 ||photographingge.com^
 ||photoviewave.com^
 ||phrush27859.com^
+||phub.at^
 ||physichope.com^
 ||piako.finance.com^
 ||pietrodiuccio.com^
@@ -4685,6 +4688,7 @@
 ||sidney.com.tr^
 ||siemens999.tv^
 ||siftai.net^
+||sigma.pharma.shop^
 ||sigmaweb.online^
 ||signalarchitects.cloud^
 ||signalpeak.io^
@@ -5744,6 +5748,7 @@
 ||winsdonechipper.com^
 ||wintogetherplan.com^
 ||wintronrtx.com^
+||wintrustequities.net^
 ||winuno55.com^
 ||winviag.com^
 ||winwin.bet^
