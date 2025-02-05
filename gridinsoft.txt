@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.05.093222.2025
+! Version: 02.05.100113.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb  5 09:32:22 UTC 2025
+! Last modified: Wed Feb  5 10:01:13 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6027
+! Number of entries: 6034
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1872,6 +1872,7 @@
 ||elleynur.com^
 ||elluminex.com^
 ||elmoerc.com^
+||elmordjene.fr^
 ||elonactivemarket.com^
 ||elonbet.com^
 ||elonearn.pro^
@@ -1903,6 +1904,7 @@
 ||enchantedcubes.com^
 ||enclarhealth.com^
 ||encomendas.importacao.online^
+||encuestapagada.es^
 ||endeavourmarketing.global.vip^
 ||enegsseinvestmentteam.info^
 ||enerpinpellets.shop^
@@ -3586,6 +3588,7 @@
 ||mundoonline.link^
 ||mundys.online^
 ||mungu.in^
+||musevancouver.com^
 ||music8.online^
 ||musicgearexperts.com^
 ||musicinstrumentsupply.com^
@@ -3649,6 +3652,7 @@
 ||nebumine.com^
 ||neckcaredevices.com^
 ||nectarskinus.com^
+||nedvltd.com^
 ||neecaps.com^
 ||neesedresses.com^
 ||nefera.online^
@@ -3839,6 +3843,7 @@
 ||okwintss.com^
 ||okxtrade.org^
 ||oldendroff.com^
+||olimpp.bet^
 ||olivia.paradox.ai^
 ||oluciones.shop^
 ||oluwasegunakinyemi.com^
@@ -3847,6 +3852,7 @@
 ||ometvporn.com^
 ||omgminer.vip^
 ||omgprice10.cc^
+||omnis.trade.com^
 ||on.mx.com^
 ||on.shoes.uae.com^
 ||oncees.live^
@@ -3867,6 +3873,7 @@
 ||online.advertising.73412.bond^
 ||online.advertising.96909.bond^
 ||online.aktarmalar.hizmeti.store^
+||online.burtouns.com^
 ||online.courses.classes.21368.bond^
 ||online.courses.classes.44486.bond^
 ||online.courses.de.2618.click^
