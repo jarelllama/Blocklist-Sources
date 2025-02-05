@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.05.203228.2025
+! Version: 02.05.210056.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb  5 20:32:28 UTC 2025
+! Last modified: Wed Feb  5 21:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6077
+! Number of entries: 6080
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1708,6 +1708,7 @@
 ||diversitymeds.com^
 ||divicast.com^
 ||divinark.store^
+||divinebase.com^
 ||divingcentercadaques.com^
 ||diwataplay.bet^
 ||dl.surfright.nl^
@@ -2177,6 +2178,7 @@
 ||fluminer.com^
 ||fluminer.org^
 ||flutorix.com^
+||fluxitv.xyz^
 ||fluxpockopt.com^
 ||flwoertime.de^
 ||fmaglobal.io^
@@ -4104,6 +4106,7 @@
 ||pesktop.com^
 ||petermillarsale.shop^
 ||petiteridiony.com^
+||petorugs.com^
 ||petronordstorage.nl^
 ||petusmart.shop^
 ||pg77.game^
