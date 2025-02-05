@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.05.073104.2025
+! Version: 02.05.080113.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb  5 07:31:04 UTC 2025
+! Last modified: Wed Feb  5 08:01:13 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6012
+! Number of entries: 6014
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -849,6 +849,7 @@
 ||botfypro.com^
 ||boundary.metal.com^
 ||bounty.dough.com^
+||boutique.amy.com^
 ||boutique.dispatche.com^
 ||bovada.lv^
 ||bowscalessales.com^
@@ -2701,6 +2702,7 @@
 ||iavvky.com^
 ||ibisnashikhotel.online^
 ||ibksport.eu^
+||ibluestore.com^
 ||ibmqgt.com^
 ||iceriver.company^
 ||iconicinternational.online^
