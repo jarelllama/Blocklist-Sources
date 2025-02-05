@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.05.223402.2025
+! Version: 02.05.230103.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb  5 22:34:02 UTC 2025
+! Last modified: Wed Feb  5 23:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6092
+! Number of entries: 6097
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2876,6 +2876,7 @@
 ||iyilikler.online^
 ||j110s.xyz^
 ||j110y.xyz^
+||j679y.top^
 ||ja.cat^
 ||jadloresga.shop^
 ||jamai.top^
@@ -4915,6 +4916,8 @@
 ||sport.prints.online^
 ||sportarenastores.shop^
 ||sportsalpin.com^
+||spotifyinfo.app^
+||spotifymode.com^
 ||spotifypremiumapk.com.co^
 ||spraisy.live^
 ||springcapipro.com^
@@ -4927,6 +4930,7 @@
 ||sriwtte.com^
 ||sse.s.com^
 ||sseeline.com^
+||ssseeebays.com^
 ||sstdocumentos.com^
 ||sstee247.shop^
 ||st.george.spray.tans.square.site^
@@ -5443,6 +5447,7 @@
 ||twin143.com^
 ||twiney.shop^
 ||twitclicks.com^
+||twitter.video.download.xyz^
 ||twixly.store^
 ||txex.fun^
 ||tymcra.com^
