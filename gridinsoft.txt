@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.05.200103.2025
+! Version: 02.05.203228.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb  5 20:01:03 UTC 2025
+! Last modified: Wed Feb  5 20:32:28 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6072
+! Number of entries: 6077
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1410,6 +1410,7 @@
 ||cryptoplanetsx.net^
 ||cryptorecovers.com^
 ||cryptorecoverysquad.com^
+||cryptorestitutor.com^
 ||cryptosgx.com^
 ||cryptoshieldx.com^
 ||cryptosolutionsltd.org^
@@ -1607,6 +1608,7 @@
 ||delicemaison.com^
 ||delifact.com^
 ||delilahskittenparadise.com^
+||delta.coininvestment.com^
 ||delta.electric.top^
 ||delta.exchange^
 ||deltadex.io^
@@ -2161,6 +2163,7 @@
 ||flexcapital.top^
 ||flexjobhubs.com^
 ||flexswiftways.online^
+||flhtbill.com^
 ||flirt4free.com^
 ||flirtingplaza.com^
 ||floattrust.com^
@@ -4260,6 +4263,7 @@
 ||psicologiaencasa.online^
 ||pspllly.top^
 ||psschool.edu.bd^
+||psurbill.com^
 ||psychedelicsdispensaryonline.com^
 ||psychrine.com^
 ||pt.rockport.com^
@@ -5002,6 +5006,7 @@
 ||super.ai.me^
 ||super.basketball.shop^
 ||superai.xin^
+||superai7.top^
 ||superakbov.best^
 ||superamzdu.store^
 ||supercasuals.cc^
