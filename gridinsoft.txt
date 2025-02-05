@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.05.070052.2025
+! Version: 02.05.073104.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb  5 07:00:52 UTC 2025
+! Last modified: Wed Feb  5 07:31:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6009
+! Number of entries: 6012
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2134,6 +2134,7 @@
 ||fkaesthetics.online^
 ||flaredrop.site^
 ||flarial.xyz^
+||flarskitsv.fun^
 ||flashbtc.rf.gd^
 ||flashcoin.info^
 ||flashremitt.com^
@@ -3881,6 +3882,7 @@
 ||onlineoverstock.cc^
 ||onlinepromotionsusa.com^
 ||onlineproptrading.com^
+||onlinesafetybase.com^
 ||onlinesevafine.com^
 ||onlineshopleader.com^
 ||onlinessyodobashis.cc^
@@ -4064,6 +4066,7 @@
 ||pg77.game^
 ||pgfff8trk.com^
 ||phamcore.com^
+||pharmacy1990.com^
 ||pharmarket.com^
 ||philandco.vip^
 ||phillipa.online^
