@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.05.150100.2025
+! Version: 02.05.153300.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb  5 15:01:00 UTC 2025
+! Last modified: Wed Feb  5 15:33:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6049
+! Number of entries: 6055
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1981,6 +1981,7 @@
 ||eumarijuanashop.com^
 ||euopue.click^
 ||eurocheapoonline.advanced.com^
+||eurofashionflair.com^
 ||europamundo.ink.com^
 ||european.sickfind.shop^
 ||europharmacy.net^
@@ -2659,6 +2660,7 @@
 ||hotbwodama.today^
 ||hotbxegabo.today^
 ||hotbxurupa.cc^
+||hotbyagade.cc^
 ||hotbzozuda.cc^
 ||hotel.great.value9531.online^
 ||hotels21.com^
@@ -2799,6 +2801,7 @@
 ||ioicity.mall.top^
 ||iomoio.com^
 ||ionmining.com^
+||iopoq.click^
 ||iotexai.com^
 ||ip.hz.com^
 ||ipctd.online^
@@ -3199,6 +3202,7 @@
 ||lolasee.com^
 ||lolex.net^
 ||lomi.flow.com^
+||london.elegance.com^
 ||londongroupinvestments.com^
 ||longchampespana.cc^
 ||lookmovie2.to^
@@ -3714,6 +3718,7 @@
 ||news.xricuno.cc^
 ||news.xtivima.com^
 ||news.xvagoda.cc^
+||news.xvenocu.com^
 ||news.xwivuxe.com^
 ||newsletter.nailedit.club^
 ||newstargetingads.top^
@@ -5650,6 +5655,7 @@
 ||volcminer.io^
 ||volcminer.store^
 ||voleoex.com^
+||volklsports.com^
 ||volmar.sinformations.cfd^
 ||volundvt.dk^
 ||vopifg.com^
