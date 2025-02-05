@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.05.080113.2025
+! Version: 02.05.083325.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb  5 08:01:13 UTC 2025
+! Last modified: Wed Feb  5 08:33:25 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6014
+! Number of entries: 6020
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -783,6 +783,7 @@
 ||blackswangeeksllc.online^
 ||blackwellresearch.com^
 ||bladeware.app.tech^
+||blaena.com^
 ||blast.tv.org^
 ||blazecasin.com^
 ||blinghair.com^
@@ -3119,6 +3120,7 @@
 ||lifeneed.online^
 ||lifeproofsales.com^
 ||lifesgoood.space^
+||liffecoin.com^
 ||lifilogo.com^
 ||liftepic.com^
 ||light.casino2024.online^
@@ -4043,6 +4045,7 @@
 ||pelis182.com^
 ||pembimbingketiga.com^
 ||pempekrahayu.online^
+||pendeprism.co.uk^
 ||pendowoolenmills.us^
 ||penetratea.com^
 ||penguin.zkirc.com^
@@ -4054,6 +4057,7 @@
 ||pepeunchained.io^
 ||peraplay.ph^
 ||percyverencecoin.com^
+||perdyna.com^
 ||peregrinetravelwa.cloud.com^
 ||perfectideas.store^
 ||permblox.com^
@@ -4468,6 +4472,7 @@
 ||ringgitplus.com^
 ||riothye.com^
 ||riskcomplianceportfolio134043.online^
+||ritongt.com^
 ||ritoudown.com^
 ||rivobanc.com^
 ||rkbanks.com^
@@ -4488,6 +4493,7 @@
 ||rockhillcapital.org^
 ||rockport.pt.com^
 ||rockportfrance.fr^
+||rofblox.com^
 ||rogofodeputeburomi.shop^
 ||rojadirectvonline.com^
 ||rokinat.co.in^
