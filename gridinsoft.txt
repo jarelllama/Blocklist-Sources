@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.05.033433.2025
+! Version: 02.05.040101.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb  5 03:34:33 UTC 2025
+! Last modified: Wed Feb  5 04:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5987
+! Number of entries: 5989
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1259,6 +1259,7 @@
 ||colfayc.cc^
 ||colgatebnbai.com^
 ||colosseumdiroma.tickets.com^
+||columbiapicturesaquaverse.com^
 ||com.513i.cfd^
 ||com.businesstrackyrbd.top^
 ||com.businesstrackyrbf.top^
@@ -1650,6 +1651,7 @@
 ||digigrownow.com^
 ||digihash.io^
 ||digiqhub.com^
+||digital.license.shop.com^
 ||digital.usdt.com^
 ||digitalfinancemarketingpro.com^
 ||digitalfolio.online^
