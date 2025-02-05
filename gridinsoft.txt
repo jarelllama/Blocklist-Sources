@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.05.000158.2025
+! Version: 02.05.004516.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb  5 00:01:58 UTC 2025
+! Last modified: Wed Feb  5 00:45:16 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5966
+! Number of entries: 5968
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1038,6 +1038,7 @@
 ||caterpillarargentinaonline.com^
 ||catquarium.store^
 ||catslaptoken.com^
+||cattaild.com^
 ||catx.bar^
 ||catzilla.meme^
 ||causehoodies.com^
@@ -3578,6 +3579,7 @@
 ||myplatform.top^
 ||myrbcdevice.secure.com^
 ||myrewardslocker.com^
+||myshare.ws^
 ||myshroomiq.com^
 ||mysticstonesgallery.com^
 ||mytraveldaddy.us^
