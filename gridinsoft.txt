@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.05.210056.2025
+! Version: 02.05.213100.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb  5 21:00:56 UTC 2025
+! Last modified: Wed Feb  5 21:31:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6080
+! Number of entries: 6084
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -764,6 +764,7 @@
 ||bitrue.cc^
 ||bitrustvest.com^
 ||bitsellex.com^
+||bitsmoon.com^
 ||bitstake.su^
 ||bittdrex.com^
 ||bittrading.online^
@@ -3502,6 +3503,7 @@
 ||mining.online^
 ||mining.tether.com^
 ||miningcompany.ltd^
+||miningsc.vip^
 ||mininvstplatform.com^
 ||minnetonkafrance.com^
 ||minoptraso.top^
@@ -4845,6 +4847,7 @@
 ||sneakersfaclub.com^
 ||snjalltaeki.store^
 ||snowdaycalculator.online^
+||snusitout.com^
 ||soankelle.vip^
 ||soc.proof.su^
 ||soccerlive.app^
@@ -5398,6 +5401,7 @@
 ||trustgreenfirm.live^
 ||trustmarkettrading.com^
 ||trustphin.com^
+||trustpoin.pro^
 ||trustwallet.support.info^
 ||trx.cosanai.cc^
 ||trx.earning.pro^
