@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.05.043401.2025
+! Version: 02.05.050058.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb  5 04:34:01 UTC 2025
+! Last modified: Wed Feb  5 05:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5993
+! Number of entries: 5997
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -314,6 +314,7 @@
 ||amniktechnologies.com^
 ||amontreupfr.shop^
 ||amouzo.com^
+||amp.pemuda138.com^
 ||amuropay.biz^
 ||amyslamps.com^
 ||amzkdt.online^
@@ -991,6 +992,7 @@
 ||capital.shares.com^
 ||capitalbean.com^
 ||capitalcrests.pro^
+||capitalfieldinvestment.ltd^
 ||capitalgrowthalliance.org^
 ||capitalix.com^
 ||capitalmastery.org^
@@ -3569,6 +3571,7 @@
 ||music8.online^
 ||musicgearexperts.com^
 ||musicinstrumentsupply.com^
+||muskhere.org^
 ||muskratmarinesstingeras.pro^
 ||muvtea.com^
 ||mvknnd.online^
@@ -4747,6 +4750,7 @@
 ||slmsbz.com^
 ||slot.lots.com^
 ||slot7.onlinecasino.com^
+||slotdemogacor.online^
 ||slotsaces.net^
 ||slotstat.net^
 ||smahealthbenefits.com^
