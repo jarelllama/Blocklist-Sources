@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.05.012749.2025
+! Version: 02.05.020056.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb  5 01:27:49 UTC 2025
+! Last modified: Wed Feb  5 02:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 5971
+! Number of entries: 5977
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -299,6 +299,7 @@
 ||amaon2.com^
 ||amazingfindsonline.com^
 ||amaznmarket.shop^
+||amazol.biz^
 ||amazonsellersappeal.com^
 ||amazonstorepro.com^
 ||ambientefiscal.email^
@@ -2393,6 +2394,7 @@
 ||gnulahd.org^
 ||gnus.ai^
 ||go.alphalamenace.com^
+||goal11.love^
 ||goapoachowoovol.net^
 ||goblinx.org^
 ||goddyusmall.com^
@@ -2400,6 +2402,7 @@
 ||goinvest.credit.com^
 ||golat.online^
 ||goldackerstrading.com^
+||goldcash7.com^
 ||goldcoin.trade.org^
 ||golddex.web3.net^
 ||golden.lucky.com^
@@ -2502,6 +2505,7 @@
 ||hackthissite.org^
 ||haidth.com^
 ||hakim.media^
+||halyvvis.com^
 ||hamivibe.com^
 ||handfull.shop^
 ||handfulspeed.com^
@@ -2975,6 +2979,7 @@
 ||kloomba.com^
 ||kmspico.ltd^
 ||kndr.digital^
+||knifebeststore.com^
 ||knighted.shop^
 ||knitleaf.com^
 ||knoblatter.com^
@@ -5312,6 +5317,7 @@
 ||trxminerboost.com^
 ||tryanua.co^
 ||tryessnce.com^
+||trygamecrate.com^
 ||tryriva.com^
 ||ts761hgd.com^
 ||tsauvip.ing^
