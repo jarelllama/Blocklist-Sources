@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.05.220055.2025
+! Version: 02.05.223402.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb  5 22:00:55 UTC 2025
+! Last modified: Wed Feb  5 22:34:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6088
+! Number of entries: 6092
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -950,6 +950,8 @@
 ||bursaelitescorthatun.com^
 ||burtoneu.shop^
 ||buxclaims.neocities.org^
+||buxone.com^
+||buxvisit.net^
 ||buy.dogizen.io^
 ||buyado.de^
 ||buyantibiotics24h.net^
@@ -2178,6 +2180,7 @@
 ||flugger.pl^
 ||fluminer.com^
 ||fluminer.org^
+||flushfactorweb.com^
 ||flutorix.com^
 ||fluxitv.xyz^
 ||fluxpockopt.com^
@@ -4960,6 +4963,7 @@
 ||stechol.com^
 ||steest.net^
 ||stellaclark.eu^
+||stellantisbiz.top^
 ||stellarskyline.com^
 ||stellwisestore.com^
 ||stemncommunity.com^
