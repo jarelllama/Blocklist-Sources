@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.05.230103.2025
+! Version: 02.05.233048.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb  5 23:01:03 UTC 2025
+! Last modified: Wed Feb  5 23:30:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6097
+! Number of entries: 6101
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2973,6 +2973,7 @@
 ||kamagraonline.com^
 ||kamagraoriginal.to^
 ||kapten178.com^
+||kaptohelp.top^
 ||karavvan.com^
 ||karenmillenfrance.com^
 ||kariox.trade.net^
@@ -3195,6 +3196,7 @@
 ||litepick.io^
 ||littlefoliage.com^
 ||littletinyhouse.com^
+||livaxy.shop^
 ||live.broadcast53.live^
 ||live.uncody.site^
 ||livebroadcast518.online^
@@ -4350,6 +4352,7 @@
 ||qeqywui8.pro^
 ||qer.qvelo.top^
 ||qertlin.sbs^
+||qeso.spaactivs.top^
 ||qfsassets.backups.com^
 ||qfsbackupassets.ltd^
 ||qfslite.sbs^
@@ -4800,6 +4803,7 @@
 ||sjtmv.com^
 ||sk5698.com^
 ||sk5698.top^
+||skahelp.top^
 ||skandere.online^
 ||skateshoesonline.sk^
 ||skhealthline.com^
