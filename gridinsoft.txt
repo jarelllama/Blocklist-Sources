@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.06.004518.2025
+! Version: 02.06.012748.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb  6 00:45:18 UTC 2025
+! Last modified: Thu Feb  6 01:27:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6103
+! Number of entries: 6106
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -55,6 +55,7 @@
 ||24autopartsmaster.com^
 ||24proleverage.com^
 ||24x7defi.com^
+||268chill.store^
 ||278.hnyuanoo.top^
 ||27design.online^
 ||2llcc.vip^
@@ -3705,6 +3706,7 @@
 ||nestlady.com^
 ||netbitcapital.net^
 ||netdcbf.com^
+||netflix.eltonymarketing.com^
 ||netfucks1.com^
 ||nethaless.com^
 ||netreviewflix.com^
@@ -5642,6 +5644,7 @@
 ||vf555.wiki^
 ||vflcsz.info^
 ||vflmo.online^
+||vfogkw.subjectshow.shop^
 ||vhufdiu.com^
 ||viagogo.com^
 ||vibegal.com^
