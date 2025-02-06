@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.06.110057.2025
+! Version: 02.06.113108.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb  6 11:00:57 UTC 2025
+! Last modified: Thu Feb  6 11:31:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6178
+! Number of entries: 6183
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -550,6 +550,7 @@
 ||bartoil.kz^
 ||bartrustfund.com^
 ||basatrade.net^
+||bascamp.com^
 ||base.fastbitl.cc^
 ||base.ro.com^
 ||baseballdealusa.com^
@@ -1288,6 +1289,7 @@
 ||coldbit.net^
 ||colfayc.cc^
 ||colgatebnbai.com^
+||colloimed.de^
 ||colosseumdiroma.tickets.com^
 ||columbiapicturesaquaverse.com^
 ||com.513i.cfd^
@@ -3411,6 +3413,7 @@
 ||masterfulart.homes^
 ||matrixbit.net^
 ||matteomarcelli.com^
+||mavie.global^
 ||mavliker.net^
 ||mavocossycloud.com^
 ||maxcapitaltrust.online^
@@ -5352,6 +5355,7 @@
 ||toolstationuk.shop^
 ||top.plans.fr^
 ||top.sportinggoods.shop^
+||top1social.com^
 ||topbestrunner.shop^
 ||topdailyfanaticspips.com^
 ||topdealsaving.com^
@@ -5540,6 +5544,7 @@
 ||ucbibanking.io^
 ||ucboc.com^
 ||ucmmr.com^
+||ucryptocapital.co^
 ||udrop.com^
 ||uehdspecial.shop^
 ||ugksq.merganser.cn^
