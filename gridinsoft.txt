@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.06.093159.2025
+! Version: 02.06.100101.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb  6 09:31:59 UTC 2025
+! Last modified: Thu Feb  6 10:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6171
+! Number of entries: 6175
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -361,6 +361,7 @@
 ||apkholes.com^
 ||apkhot.xyz^
 ||apkturbo.com^
+||apmbestex.vip^
 ||apnef.shop^
 ||apods1spain.com^
 ||aporover.com^
@@ -1989,6 +1990,7 @@
 ||escrowpi.com^
 ||eshophu.com^
 ||esquentabet.online^
+||essaymarket.net^
 ||est.invest.pro^
 ||establishmentlottery.top^
 ||estarenergy.ltd^
@@ -4849,6 +4851,7 @@
 ||sincerityy.com^
 ||sine.exercise.online^
 ||sinex.pro^
+||singamlottery.app^
 ||singingfiles.com^
 ||singlaarchitects.info^
 ||sinneery.com^
@@ -5983,6 +5986,7 @@
 ||wristpointshop.com^
 ||writeasservice.com^
 ||writerless.online^
+||writingradar.net^
 ||wsimply.com^
 ||wsjdistributor.com^
 ||wsucm.store^
