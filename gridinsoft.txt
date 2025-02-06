@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.06.190057.2025
+! Version: 02.06.193056.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb  6 19:00:57 UTC 2025
+! Last modified: Thu Feb  6 19:30:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6212
+! Number of entries: 6216
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1128,6 +1128,7 @@
 ||cheapertoolparts.com^
 ||cheapglovesoutlet.com^
 ||cheapproducts.online^
+||cheapsleepingtablets.net^
 ||checkout.square.site^
 ||chemicaldepotllc.com^
 ||chemicaltiger.com^
@@ -3621,6 +3622,7 @@
 ||monetoad.com^
 ||moneyfarms.club^
 ||moneyseasilyaogt.buzz^
+||monikazaniewski.shop^
 ||monipoints.com^
 ||monlyx.com^
 ||monnromall.com^
@@ -5104,6 +5106,7 @@
 ||subduedespana.com^
 ||subscribelg.my^
 ||suckbetg.online^
+||sucreat.com^
 ||suculentowatch.com^
 ||sueeshop.com^
 ||sugarsyncglycooptimizer.com^
@@ -5676,6 +5679,7 @@
 ||uspsdhl.com^
 ||usspanish.4life.com^
 ||ustherealreal.com^
+||ustoday24h.com^
 ||utens360.com^
 ||utsoease.com^
 ||uttpforum.st^
