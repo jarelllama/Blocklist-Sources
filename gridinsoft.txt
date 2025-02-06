@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.06.043441.2025
+! Version: 02.06.050051.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb  6 04:34:41 UTC 2025
+! Last modified: Thu Feb  6 05:00:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6134
+! Number of entries: 6138
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1685,6 +1685,7 @@
 ||digitalfinancemarketingpro.com^
 ||digitalfolio.online^
 ||digitalkeysoftware.com^
+||digitallanguagevault.com^
 ||digitalolive.shop^
 ||digitalsmartone.online^
 ||digitalterra.org^
@@ -2450,6 +2451,7 @@
 ||goapoachowoovol.net^
 ||goblinx.org^
 ||goddyusmall.com^
+||godisgreatshop.com^
 ||gog.games.to^
 ||goinvest.credit.com^
 ||golat.online^
@@ -3867,6 +3869,7 @@
 ||oceanprotocol2.xyz^
 ||oceb.bizvalley.shop^
 ||odessacalvertphotographer.com^
+||odkhomeshop.shop^
 ||oduwow.com^
 ||oemete.com^
 ||oexbit.com^
@@ -4995,6 +4998,7 @@
 ||steamcomunnuity.com^
 ||steamfunds.ltd^
 ||steamncommunnuty.com^
+||steampowered.playtestapps.icu^
 ||steamworkshopdownloader.io^
 ||stechol.com^
 ||steest.net^
