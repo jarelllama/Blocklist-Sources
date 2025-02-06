@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.06.080103.2025
+! Version: 02.06.083437.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb  6 08:01:03 UTC 2025
+! Last modified: Thu Feb  6 08:34:37 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6166
+! Number of entries: 6170
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2291,6 +2291,7 @@
 ||fungretail.shop^
 ||funnel.peonlyshop.com^
 ||funninexchange.com^
+||funtoball.com^
 ||furensocks.shop^
 ||furniturej.shop^
 ||fusion.gain.cfd^
@@ -3103,6 +3104,7 @@
 ||lacebread.com^
 ||lacefaves.com^
 ||lacostes.com.mx^
+||ladderux.org^
 ||ladysstreet.com^
 ||laferreteriaweb.com^
 ||lahomy.co^
@@ -4312,6 +4314,7 @@
 ||pspllly.top^
 ||psschool.edu.bd^
 ||psurbill.com^
+||pswoods.com^
 ||psychedelicsdispensaryonline.com^
 ||psychrine.com^
 ||pt.rockport.com^
@@ -4603,6 +4606,7 @@
 ||rollercoin.com^
 ||rolsxcas.com^
 ||rolunex.com^
+||romance.jakartainn.shop^
 ||rominance.com^
 ||romsfun.com^
 ||ronbo.buzz^
