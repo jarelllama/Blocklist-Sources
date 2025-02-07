@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.093145.2025
+! Version: 02.07.100054.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 09:31:45 UTC 2025
+! Last modified: Fri Feb  7 10:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6300
+! Number of entries: 6302
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2211,6 +2211,7 @@
 ||fishbatppc.com^
 ||fissmarket.com^
 ||fitgirl.repacks.site^
+||fitnestapparel.com^
 ||fivon.online^
 ||fixedmatch.website^
 ||fixweb3connect.pages.dev^
@@ -4505,6 +4506,7 @@
 ||qrefuishz.monster^
 ||qruirseven.com^
 ||qtvvcshop.com^
+||qtwaieraxglobo.com^
 ||quality.cures.com^
 ||qualityfakeid.com^
 ||qualitynoteschange.com^
