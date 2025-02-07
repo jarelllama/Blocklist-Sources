@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.060102.2025
+! Version: 02.07.063613.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 06:01:02 UTC 2025
+! Last modified: Fri Feb  7 06:36:13 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6280
+! Number of entries: 6284
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -965,6 +965,7 @@
 ||buletboard.com^
 ||bulksendtokens.xyz^
 ||bullcent.com^
+||bullfx.io^
 ||bullrun.trades.com^
 ||bumble7.com^
 ||bunmk2539.icu^
@@ -1670,6 +1671,7 @@
 ||departmentstoreclearance.com^
 ||deporvillage.fr^
 ||deriveln.com^
+||dermess.com^
 ||dermodemacher.de^
 ||descubretesoro.com^
 ||desicinemas.to^
@@ -2142,6 +2144,7 @@
 ||fazmex.com^
 ||fc244.com^
 ||fcbarcelona.eu.shop^
+||fdkwire.com^
 ||febgtvh.com^
 ||fedilitylogistics.com^
 ||feeliey.com^
@@ -3314,6 +3317,7 @@
 ||lootbar.gg^
 ||lopa.store^
 ||loranza.nl^
+||loravelle.com^
 ||loreall.gp.top^
 ||lorealwear.com^
 ||lorunix.com^
