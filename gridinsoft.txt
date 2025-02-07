@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.090104.2025
+! Version: 02.07.093145.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 09:01:04 UTC 2025
+! Last modified: Fri Feb  7 09:31:45 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6299
+! Number of entries: 6300
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -5578,6 +5578,7 @@
 ||trqw.store^
 ||tructi.com^
 ||truecareliving.online^
+||truepayx.com^
 ||trumpfair.io^
 ||trumpmeme.info^
 ||trumptokenofficial.com^
