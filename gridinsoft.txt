@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.073036.2025
+! Version: 02.07.080103.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 07:30:36 UTC 2025
+! Last modified: Fri Feb  7 08:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6292
+! Number of entries: 6295
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -293,6 +293,7 @@
 ||altadefinizione01.website^
 ||altadefiniziones.co^
 ||altano.store^
+||alternazeor.com^
 ||altexpert.digital.com^
 ||altieer.com^
 ||altimotradingsltd.com^
@@ -1843,6 +1844,7 @@
 ||dstockaffaires.com^
 ||dtfvg.net^
 ||dtloo.com^
+||dtradeempire.com^
 ||dtxexchange.com^
 ||du.fastopay.my.uae.com^
 ||dualmine.com^
@@ -2451,6 +2453,7 @@
 ||ggjdc.com^
 ||ggwin.bet^
 ||gh.rcgolds.com^
+||ghiblishop.fr^
 ||ghomesmart.com^
 ||ghostcheats.com^
 ||ghsgdkag.com^
