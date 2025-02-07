@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.024411.2025
+! Version: 02.07.030422.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 02:44:11 UTC 2025
+! Last modified: Fri Feb  7 03:04:22 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6250
+! Number of entries: 6254
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -707,6 +707,7 @@
 ||bit.binary.org^
 ||bit.btc.com^
 ||bit.chain.trade^
+||bit.fince.live^
 ||bit.now.com^
 ||bit.pays.com^
 ||bit.stocks.com^
@@ -891,6 +892,7 @@
 ||brandtrendp.com^
 ||brasatrade.com^
 ||brasilenviosnet.com^
+||braveitaliangreyhound.com^
 ||braw4.net^
 ||brda.io^
 ||bread.usd.shop^
@@ -2373,6 +2375,7 @@
 ||gamingbeasts.com^
 ||ganando.imperios.com^
 ||gapconnectionbridge.co.in^
+||garcuconte.co.in^
 ||garrysignals.com^
 ||gaspol268.com^
 ||gcgold.club^
@@ -5461,6 +5464,7 @@
 ||tracy925digital.pro^
 ||trade.definity.co^
 ||trade.emeraltrade.com^
+||trade2swap.com^
 ||tradefinancebureau.com^
 ||tradefinancial.com^
 ||tradeforger.online^
