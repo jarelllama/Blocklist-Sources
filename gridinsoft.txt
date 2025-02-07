@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.153145.2025
+! Version: 02.07.160056.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 15:31:45 UTC 2025
+! Last modified: Fri Feb  7 16:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6312
+! Number of entries: 6317
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -374,6 +374,7 @@
 ||apnef.shop^
 ||apods1spain.com^
 ||aporover.com^
+||apostillecorp.com^
 ||apotek1.biz^
 ||apounes.com^
 ||app.acuityscheduling.com^
@@ -928,6 +929,7 @@
 ||bsbjnlzdq.org^
 ||bsdgyfv.shop^
 ||bt.masterskaya.online^
+||bt4gprx.com^
 ||btanru.shop^
 ||btc200x.net^
 ||btc200x.org^
@@ -1657,6 +1659,7 @@
 ||defiswap.life^
 ||deftmedicallaboratory.ca^
 ||deglobal.cfd^
+||dehla.shop^
 ||dekarbericht.com^
 ||dekarcheck.com^
 ||delicatede.com^
@@ -2237,6 +2240,7 @@
 ||flexjobhubs.com^
 ||flexswiftways.online^
 ||flhtbill.com^
+||flightpath.vip.com^
 ||flirt4free.com^
 ||flirtingplaza.com^
 ||floattrust.com^
@@ -5390,6 +5394,7 @@
 ||thestockstandout.com^
 ||thestylefoundrycle.store^
 ||thetaus.top^
+||thetechguy.io^
 ||thethaonhanphat.com^
 ||thetodayhealth.xyz^
 ||thetrackrecord.org^
