@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.190051.2025
+! Version: 02.07.193059.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 19:00:51 UTC 2025
+! Last modified: Fri Feb  7 19:30:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6339
+! Number of entries: 6344
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -164,6 +164,7 @@
 ||addressfinancial.com^
 ||adgkj.com^
 ||adidas.rest^
+||adifootballshop.com^
 ||adilayroofing.com^
 ||adityaagrawal.site^
 ||adjacentin.com^
@@ -171,6 +172,7 @@
 ||adminpg.online^
 ||admolo.com^
 ||adorehike.com^
+||adornmentcustom.com^
 ||ads.trafficircles.com^
 ||adsarp.com^
 ||adsphericalsuits.com^
@@ -194,6 +196,7 @@
 ||aerosdromes.net^
 ||affiliatemarketlite.com^
 ||affirmgrowth.co^
+||affjumbo.com^
 ||agarwoody.shop^
 ||ageeon.com^
 ||agentdaisy.site^
@@ -3284,6 +3287,7 @@
 ||light.concept.org^
 ||light.trading.maximarkets.mobi^
 ||lightchain.ai^
+||lightenous.com^
 ||lightinthebox.com^
 ||lightsha.com^
 ||likebargainsothers.world^
@@ -3733,6 +3737,7 @@
 ||movie123full.com^
 ||moviediskhd.cloud^
 ||movies4u.tc^
+||moviesda.mobi^
 ||movil.ing.soporte.com^
 ||moxwin.top^
 ||mpc7.cc^
