@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.000154.2025
+! Version: 02.07.004515.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 00:01:54 UTC 2025
+! Last modified: Fri Feb  7 00:45:15 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6239
+! Number of entries: 6242
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1852,6 +1852,7 @@
 ||earringssale.com^
 ||easefuldreams.com^
 ||easelayer.co^
+||eastshares.com^
 ||easun.energy.com^
 ||easy.earn.org^
 ||easybtc.mining.com^
@@ -2300,6 +2301,7 @@
 ||frugalflix.com^
 ||fruit77.one^
 ||fruit777.tech^
+||fruitadder100.shop^
 ||frutopy.com^
 ||ftx.global.site^
 ||fudianbank.win^
@@ -4784,6 +4786,7 @@
 ||securedjointnetwork.co.in^
 ||securedspot.vip^
 ||sedonainvestments.co.uk^
+||seecomoffer.com^
 ||seedswanted.online^
 ||seekthatonline.com^
 ||seephotograp.top^
