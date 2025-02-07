@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.183536.2025
+! Version: 02.07.190051.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 18:35:36 UTC 2025
+! Last modified: Fri Feb  7 19:00:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6333
+! Number of entries: 6339
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -393,6 +393,7 @@
 ||app.sanagl.cc^
 ||app.sparmall.vip^
 ||appanalytics.online^
+||apparelbeach.com^
 ||appdevelopmenthouse.com^
 ||appdynamicstech.com^
 ||appengroupltd.com^
@@ -497,6 +498,7 @@
 ||auroaespana.online^
 ||auroracherie.com^
 ||ausdedaoubaandou.gdyxlxxh.com^
+||aussiehaven.shop^
 ||austeretv.com^
 ||australiansafesttradingbot.online^
 ||auth.mashash.co^
@@ -512,6 +514,7 @@
 ||automegaoption.com^
 ||autonorte.online^
 ||autotracksolution.com^
+||autotrade.software.com^
 ||autry.eu.shop^
 ||autryzzt.online^
 ||av4.us^
@@ -523,6 +526,7 @@
 ||avianca.com^
 ||aviation.ancienne.forumactif.com^
 ||avillioncapital.org^
+||avirus.hu^
 ||avlissatdnagait.online^
 ||avrixdynamiservices.com^
 ||awkngtv.org^
@@ -718,6 +722,7 @@
 ||bit.pays.com^
 ||bit.stocks.com^
 ||bit.usdt.com^
+||bitana.co^
 ||bitantea.cc^
 ||bitb.trading^
 ||bitblockasset.com^
@@ -3524,6 +3529,7 @@
 ||maybe.up.com^
 ||mayer.boutique.de^
 ||mayzik.com^
+||mbtauckland.com^
 ||mcmsale.top^
 ||mdl789.com^
 ||meantallie.com^
