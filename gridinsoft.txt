@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.030422.2025
+! Version: 02.07.033507.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 03:04:22 UTC 2025
+! Last modified: Fri Feb  7 03:35:07 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6254
+! Number of entries: 6260
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1231,6 +1231,7 @@
 ||cloc.mastercasc.top^
 ||closer.university.com^
 ||closingclients.io^
+||clothfashionmalls.com^
 ||cloud.mail.ru^
 ||cloud.mining.cc^
 ||cloud.vogelrain.hopto.org^
@@ -1742,6 +1743,7 @@
 ||discoverthebest.co^
 ||discoverymart.net^
 ||discttime.shop^
+||disticountampalace.shop^
 ||distoysonline.com^
 ||distributionretard.com^
 ||disusdt.cc^
@@ -2940,6 +2942,7 @@
 ||j679y.top^
 ||ja.cat^
 ||jadloresga.shop^
+||jaguafrangosalimentosltda.com^
 ||jamai.top^
 ||jamesisti.site^
 ||janrvnuagnt.co^
@@ -3978,6 +3981,7 @@
 ||omnis.trade.com^
 ||on.mx.com^
 ||on.shoes.uae.com^
+||onboots.com.co^
 ||oncees.live^
 ||oncloud.shoes.us.com^
 ||onconferences.com.jmailroute.net^
@@ -4691,6 +4695,7 @@
 ||rugbywow.com^
 ||ruktu.com^
 ||rumadining.com^
+||rumaxtech.com^
 ||ruopors.co.in^
 ||russesale.shop^
 ||rust.bet.com^
@@ -5834,6 +5839,7 @@
 ||vivivs.com^
 ||viwew.click^
 ||vizivu.one^
+||vnkmall.online^
 ||vntgvogue.com^
 ||vnzvietnam08.online^
 ||vnzvietnam10.online^
