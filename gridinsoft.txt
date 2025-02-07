@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.070107.2025
+! Version: 02.07.073036.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 07:01:07 UTC 2025
+! Last modified: Fri Feb  7 07:30:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6289
+! Number of entries: 6292
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1301,6 +1301,7 @@
 ||coinoah.vip.cc^
 ||coinomi.com^
 ||coins.shade.com^
+||coinsair.com^
 ||coinsamp.com^
 ||coinsland.top^
 ||coinsorex.com^
@@ -3084,6 +3085,7 @@
 ||khujooutlet.es^
 ||kickscrew.com^
 ||kidol.in^
+||kids4attire.com^
 ||kidschannel.online^
 ||kijl.online^
 ||kingpack7.quest^
@@ -4544,6 +4546,7 @@
 ||rapiddigitalrecovery.org^
 ||rapidtransitmodels.com^
 ||rarechemsonline.org^
+||ravvisa.com^
 ||raweggs.cc^
 ||raycart.in^
 ||rbcroyalbankcanada.com^
