@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.004515.2025
+! Version: 02.07.012746.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 00:45:15 UTC 2025
+! Last modified: Fri Feb  7 01:27:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6242
+! Number of entries: 6245
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -453,6 +453,7 @@
 ||assegurarcorretoradeseguros.site^
 ||asset.ust.top^
 ||assetcrafters.org^
+||assetftx.net^
 ||assetquantification.top^
 ||assetsnavigator.com^
 ||assetwise.invest.com^
@@ -3100,6 +3101,7 @@
 ||knoblatter.com^
 ||kobaltoutletstore.com^
 ||kokaindrogekaufen.com^
+||koko101.com^
 ||kolem.shop^
 ||komvideo.cc^
 ||kongva.com^
@@ -5993,6 +5995,7 @@
 ||winhges.com^
 ||winix.sbs^
 ||winly.sbs^
+||winmachance.casino.net^
 ||winner.com^
 ||winplay.online^
 ||winsdonechipper.com^
