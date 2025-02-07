@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.223235.2025
+! Version: 02.07.230055.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 22:32:35 UTC 2025
+! Last modified: Fri Feb  7 23:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6366
+! Number of entries: 6368
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -436,6 +436,7 @@
 ||arkacoin.com^
 ||arkcypher.net^
 ||arldeemix.com^
+||arlequin.traiteur.com^
 ||arlira.fr^
 ||armadaclothing.online^
 ||armani.ai.com^
@@ -2147,6 +2148,7 @@
 ||falalamxn.vip^
 ||falconfxtrading.com^
 ||familychoicedrugstore.com^
+||famoususers.com^
 ||fanatics.com^
 ||fancyfont.online^
 ||fancymiami.com^
