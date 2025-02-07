@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.063613.2025
+! Version: 02.07.070107.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 06:36:13 UTC 2025
+! Last modified: Fri Feb  7 07:01:07 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6284
+! Number of entries: 6289
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1028,6 +1028,7 @@
 ||capchains.ex.com^
 ||capital.fargofx.ltd^
 ||capital.shares.com^
+||capital500.co^
 ||capitalbean.com^
 ||capitalcrests.pro^
 ||capitalfieldinvestment.ltd^
@@ -1143,6 +1144,7 @@
 ||cheapproducts.online^
 ||cheapsleepingtablets.net^
 ||checkout.square.site^
+||cheerycouture.com^
 ||chemicaldepotllc.com^
 ||chemicaltiger.com^
 ||cheqseep.online^
@@ -3466,6 +3468,7 @@
 ||marvmys.com^
 ||mashreqstandardcapital.com^
 ||masquato.com^
+||masscoin.us^
 ||massgrave.dev^
 ||massimoduttisa.top^
 ||massimodvttioutlets.com^
@@ -5061,6 +5064,7 @@
 ||spincex.com^
 ||spindletrade.org^
 ||spinslot88won.online^
+||sponta.io^
 ||spoorme.com^
 ||sport.prints.online^
 ||sportarenastores.shop^
@@ -5982,6 +5986,7 @@
 ||wedexy.com^
 ||wedgshop.top^
 ||weebull.co^
+||weedcoffeeshop.eu^
 ||weetarget.online^
 ||wegmansmall.shop^
 ||wegovy.shop.online^
