@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.210102.2025
+! Version: 02.07.213046.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 21:01:02 UTC 2025
+! Last modified: Fri Feb  7 21:30:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6356
+! Number of entries: 6360
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -283,6 +283,7 @@
 ||allstarhomeandgarden.za.com^
 ||alltrainerspc.com^
 ||allyeder.com^
+||alma.box^
 ||alo88.black^
 ||aloidvg.com^
 ||alpaboost.com^
@@ -3006,6 +3007,7 @@
 ||jamai.top^
 ||jamesisti.site^
 ||janrvnuagnt.co^
+||jar.ru.com^
 ||jaraza.shop^
 ||javpay.net^
 ||jaysranchhamden.online^
@@ -3954,6 +3956,7 @@
 ||noirvere.com^
 ||nolitex.com^
 ||nomisite8.online^
+||nordfinnance.com^
 ||nordic.finanx.com^
 ||nordicremolquesl.com^
 ||nordyen.com^
@@ -5034,6 +5037,7 @@
 ||slotdemogacor.online^
 ||slotsaces.net^
 ||slotstat.net^
+||slott31.com^
 ||smahealthbenefits.com^
 ||smart.finances.org^
 ||smartearningpool.online^
