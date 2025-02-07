@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.050048.2025
+! Version: 02.07.053255.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 05:00:48 UTC 2025
+! Last modified: Fri Feb  7 05:32:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6272
+! Number of entries: 6277
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -19,6 +19,7 @@
 ||1024tera.com^
 ||10bestsweepstakes.com^
 ||11ph9.com^
+||123684.com^
 ||123movie.press^
 ||123notices.com^
 ||128gloireunlimited.corporation.com^
@@ -2385,6 +2386,7 @@
 ||ganando.imperios.com^
 ||gapconnectionbridge.co.in^
 ||garcuconte.co.in^
+||garizi.co^
 ||garrysignals.com^
 ||gaspol268.com^
 ||gcgold.club^
@@ -5846,6 +5848,7 @@
 ||vitadex.org^
 ||vitalpetlife.com^
 ||vitosync.com^
+||vitrofx.org^
 ||viviennewestwoodoutlets.com^
 ||viviokko.com^
 ||vivivs.com^
@@ -5858,6 +5861,7 @@
 ||vocabularye.com^
 ||vocationay.com^
 ||vocewuu.info^
+||vogstores.com^
 ||vogue.kildare.com^
 ||voguervault.co^
 ||vokryer.com^
@@ -6226,6 +6230,7 @@
 ||zalurex.com^
 ||zapaka.fr^
 ||zapatillasespanaoutlet.org^
+||zapsurveys.com^
 ||zbx.exchanges.com^
 ||zchuryakov.shop^
 ||zcode.system.online^
