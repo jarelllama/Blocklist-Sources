@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.033507.2025
+! Version: 02.07.040055.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 03:35:07 UTC 2025
+! Last modified: Fri Feb  7 04:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6260
+! Number of entries: 6267
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -948,6 +948,7 @@
 ||bubblesbets.com^
 ||buble.com.cn^
 ||bubully.com^
+||budcloud.de^
 ||buddyenid.com^
 ||bueenotgay.duckdns.org^
 ||buenomarket.store^
@@ -959,6 +960,7 @@
 ||bulanjitu.org^
 ||buletboard.com^
 ||bulksendtokens.xyz^
+||bullcent.com^
 ||bullrun.trades.com^
 ||bumble7.com^
 ||bunmk2539.icu^
@@ -1287,6 +1289,7 @@
 ||coinfazi.com^
 ||coinfet.net^
 ||coinget.online^
+||coinghw.com^
 ||coinlocally.forex^
 ||coinoah.vip.cc^
 ||coinomi.com^
@@ -1639,6 +1642,7 @@
 ||defisetstrategies.dev^
 ||defistamp.com^
 ||defiswap.life^
+||deftmedicallaboratory.ca^
 ||deglobal.cfd^
 ||dekarbericht.com^
 ||dekarcheck.com^
@@ -2965,6 +2969,7 @@
 ||jigsawmans.online^
 ||jikinideals.shop^
 ||jili.ma^
+||jili22.games^
 ||jimi2mall.com^
 ||jiuyu.fit^
 ||jlkwelding.online^
@@ -3450,6 +3455,7 @@
 ||marvelusdt.com^
 ||marvmys.com^
 ||mashreqstandardcapital.com^
+||masquato.com^
 ||massgrave.dev^
 ||massimoduttisa.top^
 ||massimodvttioutlets.com^
@@ -5499,6 +5505,7 @@
 ||trahia.com^
 ||traiex.com^
 ||traihomphuoctaitho.com^
+||tramitedigitalfdcr.online^
 ||trangotech.xyz^
 ||transscene.com^
 ||trantbitf.astpro.top^
