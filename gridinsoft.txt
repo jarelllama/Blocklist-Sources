@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.220054.2025
+! Version: 02.07.223235.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 22:00:54 UTC 2025
+! Last modified: Fri Feb  7 22:32:35 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6361
+! Number of entries: 6366
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -3153,6 +3153,7 @@
 ||kitculture.store^
 ||kiterexchangez.click^
 ||kittycomfortstore.com^
+||kittysonic.com^
 ||kivaai.com^
 ||kiwiown.co.nz^
 ||kixaikisuccessful.net^
@@ -3181,8 +3182,10 @@
 ||konigsbruder.com^
 ||konwix.com^
 ||korucc.com^
+||kotaiproject.com^
 ||kpmy556.cc^
 ||kraken.chek.xyz^
+||krakenatfxx.com^
 ||kreashops.com^
 ||krebson.ru^
 ||krecociler.monster^
@@ -4446,6 +4449,8 @@
 ||proupwholesale.com^
 ||proveedor.io^
 ||przedstawiamynagranie.click^
+||przekazosiedla.click^
+||przekazpubliczny.click^
 ||przekazujemy.click^
 ||przewidywalnosc.click^
 ||psera.nimprove.top^
