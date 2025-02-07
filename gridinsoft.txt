@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.080103.2025
+! Version: 02.07.083354.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 08:01:03 UTC 2025
+! Last modified: Fri Feb  7 08:33:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6295
+! Number of entries: 6298
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -380,7 +380,6 @@
 ||app.antiriciclaggio.mps.com^
 ||app.brainstorm.market^
 ||app.city2000.cc^
-||app.gomining.com^
 ||app.hash.blue^
 ||app.landshare.website^
 ||app.lockswallet.net^
@@ -784,6 +783,7 @@
 ||bitrustvest.com^
 ||bitsellex.com^
 ||bitsmoon.com^
+||bitsop.pro^
 ||bitstake.su^
 ||bittdrex.com^
 ||bittrading.online^
@@ -2402,6 +2402,7 @@
 ||gdmining.site^
 ||gdqai.com^
 ||gdqvip.com^
+||gearsplay.com^
 ||geassets.com^
 ||geasta.com^
 ||geekscoin.com^
@@ -2535,6 +2536,7 @@
 ||golfwangdk.com^
 ||gomafrausa.com^
 ||gominer.net^
+||gomining.com^
 ||gonow.dbdefi.com^
 ||goo.su^
 ||goodcasino.ph^
@@ -3195,6 +3197,7 @@
 ||lavishsupply.net^
 ||law.blade.solutions.com^
 ||lawnagain.com^
+||lbank.com^
 ||lbl07.com^
 ||le3go.com^
 ||leadadream.top^
@@ -3401,7 +3404,6 @@
 ||m.bitunixex.com^
 ||m.bxamax.com^
 ||m.dodorado.com^
-||m.lbank.com^
 ||m.parrotes.com^
 ||m.payasset.com^
 ||m.starbucksmall.com^
@@ -4252,6 +4254,7 @@
 ||phub.at^
 ||physichope.com^
 ||piako.finance.com^
+||pickyspun.com^
 ||pietrodiuccio.com^
 ||pilatesmotion.co^
 ||pillowhubglobal.com^
