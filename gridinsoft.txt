@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.160056.2025
+! Version: 02.07.163603.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 16:00:56 UTC 2025
+! Last modified: Fri Feb  7 16:36:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6317
+! Number of entries: 6320
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -100,6 +100,7 @@
 ||80.25.buu.com^
 ||80.25.pcs.com^
 ||8196666.com^
+||82bet.org^
 ||82lottery24.com^
 ||82lottery9.in^
 ||852web3.io^
@@ -1917,6 +1918,7 @@
 ||edificiocomercial.com.br^
 ||ediwfashion.shop^
 ||edmxed66.com^
+||edulcor.com^
 ||edx32.com^
 ||eexevaudraikair.net^
 ||effortlessluxurious.com^
@@ -1991,6 +1993,7 @@
 ||enerpinpellets.shop^
 ||enerty.top^
 ||engineeriinglife.com^
+||english2days.com^
 ||englishcoachnicole.com^
 ||enhanceprotocol.co.in^
 ||eniqai.com^
