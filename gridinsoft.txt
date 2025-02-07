@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.173150.2025
+! Version: 02.07.180104.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 17:31:50 UTC 2025
+! Last modified: Fri Feb  7 18:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6326
+! Number of entries: 6330
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -943,6 +943,7 @@
 ||btceex.com^
 ||btcgame.cc^
 ||btchtep.com^
+||btcion315.com^
 ||btcion332.com^
 ||btcmall.club^
 ||btcminebot.com^
@@ -1557,6 +1558,7 @@
 ||datempire.com^
 ||datezone.com^
 ||datmyx.online^
+||dauntlessgpautobot.pro^
 ||daviliem.shop^
 ||dawnfelt.com^
 ||daxpulse.com^
@@ -2508,6 +2510,7 @@
 ||globallogisticsco.com^
 ||globalnexusoptimum.com^
 ||globalnotelab.com^
+||globalrainingcoin.com^
 ||globalsfundrecovery.com^
 ||globalsmartrade.com^
 ||globalswift.access.com^
@@ -3353,6 +3356,7 @@
 ||lotesycasaspro.online^
 ||lotto.bw.de^
 ||lottobet.online^
+||lottochampweb.com^
 ||lotusgames777.online^
 ||loueshop.com^
 ||lourdeswestleyhawk.org^
