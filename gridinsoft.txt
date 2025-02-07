@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.200105.2025
+! Version: 02.07.203143.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 20:01:05 UTC 2025
+! Last modified: Fri Feb  7 20:31:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6346
+! Number of entries: 6351
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -330,6 +330,7 @@
 ||amirimexicos.com^
 ||ammobigsale.shop^
 ||amniktechnologies.com^
+||amongusonline.io^
 ||amontreupfr.shop^
 ||amouzo.com^
 ||amp.pemuda138.com^
@@ -359,6 +360,7 @@
 ||anti.fraudcentre.com^
 ||antibot.v2.com^
 ||antigellingeriesale.com^
+||anyvoicelab.com^
 ||aouve.store^
 ||apanharwatch.com^
 ||apex.swift.com^
@@ -2338,6 +2340,7 @@
 ||freebnbgo.net^
 ||freecebstar.top^
 ||freedogecoinmining.com^
+||freedomescapexcelerator.com^
 ||freefli.com^
 ||freegamerob.xyz^
 ||freelibrary.ru^
@@ -3108,6 +3111,7 @@
 ||kefu.swapbit.top^
 ||kelansu.com^
 ||kenton.vip^
+||kerasmining.one^
 ||keren138.vip.online^
 ||keruico.com^
 ||keruitegs.com^
@@ -5794,6 +5798,7 @@
 ||usps.tracking.helepoanx.cc^
 ||uspsdhl.com^
 ||usspanish.4life.com^
+||ussr.star.com^
 ||ustherealreal.com^
 ||ustoday24h.com^
 ||utens360.com^
