@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.163603.2025
+! Version: 02.07.170056.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 16:36:03 UTC 2025
+! Last modified: Fri Feb  7 17:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6320
+! Number of entries: 6324
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1078,6 +1078,7 @@
 ||casadecorato.store^
 ||cascadefinco.org^
 ||casetesy.com^
+||cashcow.wang^
 ||cashphoneoriginal.com^
 ||casinofree2.online^
 ||casioeesti.com^
@@ -1351,6 +1352,7 @@
 ||connectdefix.online^
 ||connectionos.xyz^
 ||connectmanualtools.com^
+||consensuts.com^
 ||conservativista.com^
 ||consorciosrt.online^
 ||constipation.relieve.16.online^
@@ -2299,6 +2301,7 @@
 ||foundators.x.click^
 ||foundryusa.com^
 ||foxcc.online^
+||foxracingoutlet.shop^
 ||foxsofe.app.bond^
 ||fozan.online^
 ||fpsconstructivos.contenedores.com^
@@ -5299,6 +5302,7 @@
 ||teaserfast.ru^
 ||techberry.online.com^
 ||techcertlabs.org^
+||techdriveinc.online^
 ||technozone.com.au^
 ||techsecurebase.com^
 ||techzesh.com^
