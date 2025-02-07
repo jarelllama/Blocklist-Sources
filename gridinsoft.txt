@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.170056.2025
+! Version: 02.07.173150.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 17:00:56 UTC 2025
+! Last modified: Fri Feb  7 17:31:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6324
+! Number of entries: 6326
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -519,6 +519,7 @@
 ||avalonfinance.io^
 ||avalontrdpro.com^
 ||avastosgr.fun^
+||averagedadofficial.com^
 ||avianca.com^
 ||aviation.ancienne.forumactif.com^
 ||avillioncapital.org^
@@ -2102,6 +2103,7 @@
 ||exploit.in^
 ||explore.share.work.com^
 ||expressdeh.cfd^
+||expresswallet.pro^
 ||extrapyro.com^
 ||ezdrive.com^
 ||ezdrivema.cfd^
@@ -3659,6 +3661,7 @@
 ||mkvcinemas.phd^
 ||mlmarmy.net^
 ||mlstrafnews.com^
+||mltradepro.com^
 ||mmdbill.com^
 ||mmllarchitects.com^
 ||mmrtb.com^
@@ -4756,7 +4759,6 @@
 ||s.dz.com^
 ||s.optvz.com^
 ||s.team^
-||s1.expresswallet.pro^
 ||s1gamer.online^
 ||s2.skladchinmore.net^
 ||s66639.co^
