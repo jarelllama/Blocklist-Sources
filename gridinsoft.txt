@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.180104.2025
+! Version: 02.07.183536.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 18:01:04 UTC 2025
+! Last modified: Fri Feb  7 18:35:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6330
+! Number of entries: 6333
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -728,6 +728,7 @@
 ||bitcoin.pays.com^
 ||bitcoinfreemining.com^
 ||bitcoinfum.cloud^
+||bitcoinker.com^
 ||bitcoinmining.pw^
 ||bitcoins.fund.manager.com^
 ||bitcoinsi.com^
@@ -1530,6 +1531,7 @@
 ||dagahna.fun^
 ||daily.deals.sale^
 ||daily2jili8.vip^
+||dailyfreebits.com^
 ||dailygivebacks.com^
 ||dailytehillim.online^
 ||dailyuploads.net^
@@ -2656,6 +2658,7 @@
 ||happyfresh.no^
 ||happyvape.nl^
 ||happyvilleonline.com^
+||hardblock.com.au^
 ||harpreetkaur.site^
 ||harrislogisticsllc.com^
 ||harshalpawar.in^
