@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.033243.2025
+! Version: 02.08.040100.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 03:32:43 UTC 2025
+! Last modified: Sat Feb  8 04:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6419
+! Number of entries: 6423
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2227,6 +2227,7 @@
 ||fiheos.co.in^
 ||fijrol.com^
 ||filas.com.mx^
+||filecloud.cfd^
 ||filegear.sg.me^
 ||filemoon.sx^
 ||fileplanet.com^
@@ -4219,6 +4220,7 @@
 ||padelofficiel.com^
 ||pagalopount.site^
 ||pageindustriesltd.com^
+||pages.pgatourinfo.com^
 ||pages.tempisite.com^
 ||pagewings.com^
 ||pagmseguro.online^
@@ -4472,6 +4474,8 @@
 ||propandcounterfietmoney.com^
 ||propfirmpassingservice.net^
 ||propichain.finance^
+||prortarde.com^
+||pros.omudin.site^
 ||prosaleoff.com^
 ||prosperhub.site^
 ||prospero.ae^
