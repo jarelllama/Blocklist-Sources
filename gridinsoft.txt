@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.183351.2025
+! Version: 02.08.190056.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 18:33:51 UTC 2025
+! Last modified: Sat Feb  8 19:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6530
+! Number of entries: 6539
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -175,6 +175,7 @@
 ||adjacentin.com^
 ||admin.ph.online^
 ||adminpg.online^
+||admiralmine.com^
 ||admolo.com^
 ||adorehike.com^
 ||adornmentcustom.com^
@@ -198,14 +199,17 @@
 ||aenoxperts.com^
 ||aero.ozgo.cc^
 ||aerodromefi.claims.app^
+||aeroexperiaservice.com^
 ||aerosdromes.net^
 ||affiliatemarketlite.com^
 ||affirmgrowth.co^
 ||affjumbo.com^
+||afrigoldmines.com^
 ||agarwoody.shop^
 ||ageeon.com^
 ||agentdaisy.site^
 ||agilaclub3.com^
+||agilecoingain.com^
 ||agonas.techubz.com^
 ||agribicerhansolutionsltd.net^
 ||agrozenith.org^
@@ -913,6 +917,7 @@
 ||boots.litbio.org^
 ||bootymes.com^
 ||boounti.com^
+||borexfund.xyz^
 ||boscark.shop^
 ||bossfusion.xyz^
 ||bostakingu.com^
@@ -2420,6 +2425,7 @@
 ||fuexweb.com^
 ||fuga.studios.com^
 ||fulenix.com^
+||funbingo44.com^
 ||funcapsnl.com^
 ||fundedbullfx.com^
 ||fundedkingdom.com^
@@ -3180,6 +3186,7 @@
 ||keencn.com^
 ||kefu.swapbit.top^
 ||kelansu.com^
+||ken.exmax.com^
 ||kenton.vip^
 ||kerasmining.one^
 ||keren138.vip.online^
@@ -3579,6 +3586,7 @@
 ||margin.coins.space^
 ||marimekko.eu.com^
 ||mariswiss.com^
+||markencf.com^
 ||market4s.com^
 ||marketglobalweb.com^
 ||marketing4solutionsblog.online^
@@ -5614,6 +5622,7 @@
 ||tiktokwares.com^
 ||timberlandenchiles.top^
 ||timberlandmx.com.mx^
+||time.capital.xyz^
 ||timebtc.com^
 ||timegetgo.com^
 ||timestaking.me^
