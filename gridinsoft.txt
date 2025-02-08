@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.080059.2025
+! Version: 02.08.083336.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 08:00:59 UTC 2025
+! Last modified: Sat Feb  8 08:33:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6476
+! Number of entries: 6484
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1735,6 +1735,7 @@
 ||desirebells.com^
 ||dessi.co^
 ||destinypulseprize.com^
+||destinyroad.online^
 ||desyarnic.com^
 ||determin.shop^
 ||detransp.digital^
@@ -1983,6 +1984,7 @@
 ||ekbrick.com^
 ||elabd.online^
 ||eldercity.xyz^
+||electric.bike.deal.online^
 ||electronics.brand.com^
 ||eleganthush.com^
 ||elevateminer.com^
@@ -3396,6 +3398,7 @@
 ||livextop.com^
 ||liveyourwetdream.com^
 ||livraison.interrompu.com^
+||lixqwok.com^
 ||lixtrade.com^
 ||lizardlabshop.com^
 ||llbeanfactoryoutlets.shop^
@@ -4491,6 +4494,7 @@
 ||profit.centr24.ru^
 ||profittrade.live^
 ||projectplaygroundtech.com^
+||projektmiesiaca.click^
 ||projetparis.fr^
 ||prole.aposiiz.com^
 ||prologisticsolution.com^
@@ -4660,6 +4664,7 @@
 ||qubetics.com^
 ||query.redir.com^
 ||quickerapparently.com^
+||quickq.fit^
 ||quickqi.top^
 ||quillpunt.online^
 ||quiltsbedspreads.com^
@@ -4694,6 +4699,7 @@
 ||raweggs.cc^
 ||raycart.in^
 ||rbcroyalbankcanada.com^
+||rblist.store^
 ||rbs55.top^
 ||rccarsale.shop^
 ||rclicks.in^
@@ -4867,6 +4873,7 @@
 ||rturd.com^
 ||rufiji.capital^
 ||rugbywow.com^
+||ruiruios.com^
 ||ruktu.com^
 ||rumadining.com^
 ||rumaxtech.com^
@@ -6420,6 +6427,7 @@
 ||z.lib.io^
 ||z.zenshop.com^
 ||z2u.com^
+||zacatecasgourmet.online^
 ||zadig.et.voltaire.eu.com^
 ||zadigvoltairevip.com^
 ||zakds.info^
