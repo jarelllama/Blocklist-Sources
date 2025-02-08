@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.043304.2025
+! Version: 02.08.050058.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 04:33:04 UTC 2025
+! Last modified: Sat Feb  8 05:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6432
+! Number of entries: 6440
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2719,6 +2719,7 @@
 ||havenstiendas.com^
 ||hayeswheel.com^
 ||hba.la^
+||hco.bank.top^
 ||hd.redditf.xyz^
 ||hdtoday.tv^
 ||healthcompounds.com^
@@ -4480,6 +4481,9 @@
 ||pronatum.com^
 ||proofpeak.org^
 ||propandcounterfietmoney.com^
+||property.18478.homes^
+||property.18478.mom^
+||property.18478.shop^
 ||propfirmcrm.com^
 ||propfirmpassingservice.net^
 ||propichain.finance^
@@ -5343,6 +5347,8 @@
 ||swap.waves.com^
 ||swapcrypto.exchange^
 ||swapmonero.exchange^
+||swearatware.top^
+||sweaterlove.com^
 ||swedenfixedmatch.com^
 ||swedwayinnovations.com^
 ||sweepzprizes.com^
@@ -5352,6 +5358,7 @@
 ||swift.blink.com^
 ||swiftcryptox.com^
 ||swiftfinverge.com^
+||swiftpaytb.net^
 ||swiftradinginvestpro.com^
 ||swiftreturnexchange.com^
 ||swimcarnival.com^
@@ -5832,6 +5839,7 @@
 ||upstinatolos.com^
 ||urbantapes.com^
 ||urefie.net^
+||ureka88.com^
 ||urlsing.com^
 ||us.alpinestars.com^
 ||us.amtmodels.com^
