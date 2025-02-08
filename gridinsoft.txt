@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.210056.2025
+! Version: 02.08.213102.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 21:00:56 UTC 2025
+! Last modified: Sat Feb  8 21:31:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6552
+! Number of entries: 6556
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1362,6 +1362,7 @@
 ||coinsair.com^
 ||coinsamp.com^
 ||coinsland.top^
+||coinsniperbot.org^
 ||coinsorex.com^
 ||coinstacksinvests.com^
 ||coinswift.exchange^
@@ -2607,6 +2608,7 @@
 ||glowpast.com^
 ||glowywill.com^
 ||gmb1l.online^
+||gmerchantpay.com^
 ||gmhledger.com^
 ||gnde.shop^
 ||gnhvcx.cc^
@@ -4198,6 +4200,7 @@
 ||online.marketing.degree.901935125.zone^
 ||online.retrievars.click^
 ||onlinebettingidprovider.co.in^
+||onlineclasssolution.com^
 ||onlinecoachingacademy.net^
 ||onlineelectronics.store^
 ||onlineforeignexchangeplatform.icu^
@@ -6500,6 +6503,7 @@
 ||zapaka.fr^
 ||zapatillasespanaoutlet.org^
 ||zapsurveys.com^
+||zarastoreonline.com^
 ||zayqi.fun^
 ||zbx.exchanges.com^
 ||zchuryakov.shop^
