@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.053140.2025
+! Version: 02.08.060055.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 05:31:40 UTC 2025
+! Last modified: Sat Feb  8 06:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6447
+! Number of entries: 6452
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -593,6 +593,7 @@
 ||bathroomremodelingus1207.online^
 ||bauer.parndorf.at^
 ||baxtertradings.online^
+||bbajya.ahm6185.com^
 ||bbc.tv.org^
 ||bbdoapp.help^
 ||bbwerzhuq333.com^
@@ -1981,6 +1982,7 @@
 ||eleganthush.com^
 ||elevateminer.com^
 ||elineverhoye.shop^
+||elishine.us^
 ||elitecapitalgain.org^
 ||elitecapitalmarket.com^
 ||elitecapitalprofits.com^
@@ -3118,6 +3120,7 @@
 ||juuibv.com^
 ||jvault.xyz^
 ||jwpei.espana.es^
+||jys55722.com^
 ||jysk.online.com^
 ||jysk.sale.com^
 ||jyskfurniture.eu.com^
@@ -5266,6 +5269,7 @@
 ||stellarskyline.com^
 ||stellwisestore.com^
 ||stemncommunity.com^
+||stenocarpustheft.shop^
 ||steparian.com^
 ||steredapharmacy.com^
 ||stermcommunity.com^
@@ -5887,6 +5891,7 @@
 ||usindie.com^
 ||usp773.com^
 ||uspharmacy247.com^
+||usps.rip.shop^
 ||usps.tracking.helepoanx.cc^
 ||uspsdhl.com^
 ||usspanish.4life.com^
