@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.063426.2025
+! Version: 02.08.070047.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 06:34:26 UTC 2025
+! Last modified: Sat Feb  8 07:00:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6457
+! Number of entries: 6463
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1041,6 +1041,7 @@
 ||ca.25uby.xin^
 ||cacaba.shop^
 ||cacr883.com^
+||caddygo.io^
 ||cadogoa.shop^
 ||cafeciro.in^
 ||cagovip.com^
@@ -1443,6 +1444,7 @@
 ||creofing.com^
 ||cresolix.com^
 ||crestprofits.com^
+||crewzarowing.com^
 ||cripexbit.com^
 ||cripto.keys.store^
 ||cristianmartinez.online^
@@ -1827,6 +1829,7 @@
 ||docker.1ms.run^
 ||doclothes.com^
 ||docs.connect.wallet.teachable.com^
+||docs.linqai.com^
 ||docs.shibariumtech.com^
 ||doctorformen.space^
 ||dodi.repacks.site^
@@ -2301,6 +2304,7 @@
 ||flirtingplaza.com^
 ||floattrust.com^
 ||flomac.shop^
+||flotr.online^
 ||flowermountainstore.shop^
 ||flowfaucet.online^
 ||flowzapakda.top^
@@ -2708,6 +2712,7 @@
 ||happyvape.nl^
 ||happyvilleonline.com^
 ||hardblock.com.au^
+||harley.davidsonsalestore.shop^
 ||harpreetkaur.site^
 ||harrislogisticsllc.com^
 ||harshalpawar.in^
@@ -4482,6 +4487,7 @@
 ||projectplaygroundtech.com^
 ||projetparis.fr^
 ||prologisticsolution.com^
+||prom.baltyk24.eu5.net^
 ||promask.pro^
 ||promo.offer.com^
 ||promptfunds.org^
