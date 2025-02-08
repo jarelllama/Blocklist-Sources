@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.163318.2025
+! Version: 02.08.170104.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 16:33:18 UTC 2025
+! Last modified: Sat Feb  8 17:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6510
+! Number of entries: 6515
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2621,6 +2621,7 @@
 ||goldmanmarkets.io^
 ||goldstradeapp.com^
 ||goldstrategyvip.com^
+||goldtrx.xyz^
 ||golfevip.shop^
 ||golfwangdk.com^
 ||gomafrausa.com^
@@ -3751,6 +3752,7 @@
 ||mistoleo.com^
 ||mitmine.com^
 ||mitoleyn.com^
+||mitolynmarket.com^
 ||mitsoku.com^
 ||mittenes.shop^
 ||mivovaa.shop^
@@ -3915,6 +3917,7 @@
 ||nbysrhcvxzg.shop^
 ||nc.ph.2974.zerads.com^
 ||ncbofficielfr.com^
+||ncvv.pro^
 ||ndamazon.com^
 ||ndclothing.toronto.com^
 ||nearriot.com^
@@ -4196,6 +4199,7 @@
 ||onpriority.com^
 ||onruning.top^
 ||onrunning.top^
+||onrunningcolombia.net.co^
 ||onsalewarehouse.com^
 ||ontweak.com^
 ||onvariable.com^
@@ -4278,6 +4282,7 @@
 ||paintingservices2us0507.online^
 ||pairrelax.com^
 ||palavaproperties.in^
+||paldo.site^
 ||palessaint.com^
 ||palettepro.homes^
 ||palliee.com^
