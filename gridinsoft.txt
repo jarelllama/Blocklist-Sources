@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.173038.2025
+! Version: 02.08.180059.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 17:30:38 UTC 2025
+! Last modified: Sat Feb  8 18:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6522
+! Number of entries: 6527
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2227,6 +2227,7 @@
 ||fcbarcelona.eu.shop^
 ||fdkwire.com^
 ||febgtvh.com^
+||febit.vip^
 ||fedilitylogistics.com^
 ||feeliey.com^
 ||feenox.com^
@@ -2361,6 +2362,7 @@
 ||forsage.io^
 ||fortressfinex.com^
 ||fortune.engine.com^
+||fortune.inheritance.com^
 ||fortuneinterest.com^
 ||forums.socialmediagirls.com^
 ||forygood.com^
@@ -3692,6 +3694,7 @@
 ||miairobot.com^
 ||michaelkorseu.shop^
 ||mickeliuiu.shop^
+||micro.coin.ltd^
 ||micro.coin.org^
 ||micro100.life^
 ||microdr.ones.com.ng^
@@ -4152,6 +4155,7 @@
 ||oneclickmart.online^
 ||onefarm.pro^
 ||onehappynere.com^
+||onepaysolution.buzz^
 ||onerosey.com^
 ||onestopvalue44.info^
 ||onfrental.com^
@@ -5855,6 +5859,7 @@
 ||ucryptocapital.co^
 ||udrop.com^
 ||uehdspecial.shop^
+||ufcufiufh.info^
 ||ugksq.merganser.cn^
 ||ugreathue.com^
 ||uhbideal.store^
