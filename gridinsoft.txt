@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.124115.2025
+! Version: 02.08.130301.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 12:41:15 UTC 2025
+! Last modified: Sat Feb  8 13:03:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6496
+! Number of entries: 6498
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2253,6 +2253,7 @@
 ||filemoon.sx^
 ||fileplanet.com^
 ||files.fm^
+||filespayouts.com^
 ||filmgratuit.stream^
 ||filmpalast.to^
 ||filmyfly.esq^
@@ -2376,6 +2377,7 @@
 ||fra.grandado.com^
 ||fraganciapura.store^
 ||fragrancesrealms.com^
+||frdl.io^
 ||free.bonk.com^
 ||free.ethereum.io^
 ||freeajvstar.top^
