@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.07.233049.2025
+! Version: 02.08.000155.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb  7 23:30:49 UTC 2025
+! Last modified: Sat Feb  8 00:01:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6370
+! Number of entries: 6374
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -820,6 +820,7 @@
 ||bizdoctr.com^
 ||bjcryptos.com^
 ||bjfdyh.com^
+||bk8pac.com^
 ||bkcryptotrade.com^
 ||bkkkb.com^
 ||blackfridaywholesale.ru^
@@ -3871,6 +3872,7 @@
 ||netfucks1.com^
 ||nethaless.com^
 ||netreviewflix.com^
+||netteknits.com^
 ||networkcycle.co.in^
 ||networkpartialchain.co.in^
 ||neuratech.global^
@@ -4471,6 +4473,7 @@
 ||ptrd.trdechat.top^
 ||pu220ev.com^
 ||pub.c5acfd5a4f1943a7bfc858676472adce.r2.dev^
+||pubgrlxvote.top^
 ||publicznenewsy.click^
 ||publikacjadanych.click^
 ||pudcapsminners.pro^
@@ -4878,6 +4881,7 @@
 ||searchanything.co^
 ||searchednow.com^
 ||searchnow.online^
+||seasonzone.site^
 ||seatsnet.com^
 ||seawin.top^
 ||sec.loanbusiness.com^
