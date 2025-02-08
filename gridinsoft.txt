@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.050058.2025
+! Version: 02.08.053140.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 05:00:58 UTC 2025
+! Last modified: Sat Feb  8 05:31:40 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6440
+! Number of entries: 6447
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -209,6 +209,7 @@
 ||agrozenith.org^
 ||agyabashipping.com^
 ||ahhaqq.com^
+||aht.mfjw05.com^
 ||ai.deepseek.org^
 ||ai.deepseek.pro^
 ||ai.fund.top^
@@ -3875,6 +3876,7 @@
 ||nav43.global.com^
 ||naveskin.store^
 ||navyunhanded.com^
+||nbysrhcvxzg.shop^
 ||nc.ph.2974.zerads.com^
 ||ncbofficielfr.com^
 ||ndamazon.com^
@@ -4178,6 +4180,7 @@
 ||optimumhackersrecovery.com^
 ||optimumsmax.com^
 ||optionstradeshub.com^
+||optisynctrading.com^
 ||optnutritips.com^
 ||opukoj.com^
 ||orange.co.uk^
@@ -4639,6 +4642,7 @@
 ||qubetics.com^
 ||query.redir.com^
 ||quickerapparently.com^
+||quickqi.top^
 ||quillpunt.online^
 ||quiltsbedspreads.com^
 ||quintessential.quillaig.shop^
@@ -4808,6 +4812,7 @@
 ||rockhillcapital.org^
 ||rockport.pt.com^
 ||rockportfrance.fr^
+||rodriguezcuba.com^
 ||rofblox.com^
 ||rogofodeputeburomi.shop^
 ||rohanrawool.com^
@@ -5509,6 +5514,7 @@
 ||thespotifypremiumapk.com^
 ||thestockstandout.com^
 ||thestylefoundrycle.store^
+||thesuperioroffers.com^
 ||thetaus.top^
 ||thetechguy.io^
 ||thethaonhanphat.com^
@@ -5548,6 +5554,7 @@
 ||tinybyte.minipc.com^
 ||tioctrically.com^
 ||tionoc.net^
+||tipobet6474.com^
 ||tistokmall.pro^
 ||titan13.com^
 ||titfinder.com^
