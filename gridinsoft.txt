@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.060055.2025
+! Version: 02.08.063426.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 06:00:55 UTC 2025
+! Last modified: Sat Feb  8 06:34:26 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6452
+! Number of entries: 6457
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2647,6 +2647,7 @@
 ||greenlanemarketing.bond^
 ||greenpeople.life^
 ||greenranddam.com^
+||greenseedhub.com^
 ||greevip.org^
 ||gricop.com^
 ||griefquotes.xyz^
@@ -3756,6 +3757,7 @@
 ||moefr3trk.com^
 ||mokshatravels.online^
 ||momahc.com^
+||mon.expedition.com^
 ||monasteriodelamor.com^
 ||mondiai.relay.mobile.com^
 ||mondiairelay.livraison.com^
@@ -4947,6 +4949,7 @@
 ||searchanything.co^
 ||searchednow.com^
 ||searchnow.online^
+||searqle.org^
 ||seasonzone.site^
 ||seatsnet.com^
 ||seawin.top^
@@ -5645,6 +5648,7 @@
 ||trade.definity.co^
 ||trade.emeraltrade.com^
 ||trade2swap.com^
+||tradecg.company.info^
 ||tradefinancebureau.com^
 ||tradefinancial.com^
 ||tradeforger.online^
@@ -6116,6 +6120,7 @@
 ||web.cotiplus.top^
 ||web.debank.netlify.app^
 ||web.nnleas.top^
+||web.rhino.org^
 ||web3.coinbasewallet.top^
 ||web3.gpt.blog^
 ||web3.gpt.shop^
