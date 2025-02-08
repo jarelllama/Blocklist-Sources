@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.012744.2025
+! Version: 02.08.015834.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 01:27:44 UTC 2025
+! Last modified: Sat Feb  8 01:58:34 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6385
+! Number of entries: 6389
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -828,6 +828,7 @@
 ||blackfridaywholesale.ru^
 ||blackhousemarket.co^
 ||blackjack888.ph^
+||blackpass.sale^
 ||blackshelter.org^
 ||blackswangeeksllc.online^
 ||blackwellresearch.com^
@@ -1849,6 +1850,7 @@
 ||dpboss.services^
 ||dpd777.cc^
 ||dpe.gov.bd^
+||dqaojspovuavms.shop^
 ||dragonfly.shop.com^
 ||drakar.one^
 ||draliko.com^
@@ -2772,6 +2774,7 @@
 ||homelava.com^
 ||homepillowfort.com^
 ||homersimpson.fun^
+||hometrendsdesign.top^
 ||hondapartshouse.com^
 ||honey.bee.iptv.com^
 ||honeyskin.online^
@@ -6292,6 +6295,7 @@
 ||yilettt.shop^
 ||yiminstyle.com^
 ||yinxing.info^
+||yishyhu.com^
 ||ynmufr.9l5lortoe.top^
 ||ynmufr.h2os7lzt7.top^
 ||yobit.net^
