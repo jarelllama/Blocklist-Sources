@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.015834.2025
+! Version: 02.08.022407.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 01:58:34 UTC 2025
+! Last modified: Sat Feb  8 02:24:07 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6389
+! Number of entries: 6398
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -664,6 +664,7 @@
 ||bewizi.com^
 ||beyondprostate.com^
 ||beyondstandard.org^
+||bgcdsd.shop^
 ||bggbet.com^
 ||bgoyia.vip^
 ||bic.a.com^
@@ -736,6 +737,7 @@
 ||bitantea.cc^
 ||bitb.trading^
 ||bitblockasset.com^
+||bitbuycoinex.com^
 ||bitcapital.online^
 ||bitcexpro.vip^
 ||bitcoin.700eprex.com^
@@ -2132,6 +2134,7 @@
 ||ezdrive.com^
 ||ezdrivema.cfd^
 ||ezdrivhkr.top^
+||ezwkef.jxe8021.com^
 ||ezymny.com^
 ||f.f7v.cn^
 ||f1store.formula1.eu.com^
@@ -2334,6 +2337,7 @@
 ||foxracingoutlet.shop^
 ||foxsofe.app.bond^
 ||fozan.online^
+||fpibank.com^
 ||fpsconstructivos.contenedores.com^
 ||fpswiss.com^
 ||fqafq.shop^
@@ -2888,6 +2892,7 @@
 ||immediate.daypro.co^
 ||immediateexalgoai.com^
 ||immediatepump.com^
+||imonthestereo.com^
 ||importantstuff.online^
 ||improvementy.com^
 ||in.tmwn.online^
@@ -3835,6 +3840,7 @@
 ||n.pkup.fr^
 ||na01.safelinks.protection.outlook.com^
 ||naaeeoy.com^
+||naldoricketts.com^
 ||nannyirrationalacquainted.com^
 ||naorisprotocol.web.app^
 ||napapijriapps.com^
@@ -4459,6 +4465,8 @@
 ||protectivemethod.com^
 ||proteinbestsell.com^
 ||protocolsafe.co.in^
+||protoolbox.life^
+||protork.info^
 ||protradesafeapp.info^
 ||proupwholesale.com^
 ||proveedor.io^
@@ -4499,6 +4507,7 @@
 ||pulsepicks.pro^
 ||pumacolombia.net^
 ||pumacolombiaoutlet.com.co^
+||pummadiscounnt.com^
 ||punkoutfit.com^
 ||puntodeencuentroarte.com^
 ||puravive.net^
