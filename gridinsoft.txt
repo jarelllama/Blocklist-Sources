@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.103306.2025
+! Version: 02.08.110053.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 10:33:06 UTC 2025
+! Last modified: Sat Feb  8 11:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6492
+! Number of entries: 6495
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2597,6 +2597,7 @@
 ||goddyusmall.com^
 ||godisgreatshop.com^
 ||gog.games.to^
+||gogc.ge^
 ||goinvest.credit.com^
 ||golat.online^
 ||goldackerstrading.com^
@@ -4488,6 +4489,7 @@
 ||pristinedrivecarcare.com^
 ||privatebin.net^
 ||privatesportshop.fr^
+||privevault.com^
 ||prizefrenzyzone.today^
 ||prizerebel.com^
 ||prizetcashrf.buzz^
@@ -5095,6 +5097,7 @@
 ||signalpeak.io^
 ||silegx.org^
 ||silentun.com^
+||silverlinktechnologies.com^
 ||silverstone.ltd.com^
 ||silverstonebank.org^
 ||silviicia.com^
