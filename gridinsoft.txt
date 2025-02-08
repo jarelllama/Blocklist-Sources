@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.190056.2025
+! Version: 02.08.193047.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 19:00:56 UTC 2025
+! Last modified: Sat Feb  8 19:30:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6539
+! Number of entries: 6544
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1934,6 +1934,7 @@
 ||dystarwears.com^
 ||dzan23.cn^
 ||e.bookforthought.com^
+||e.wu.store.com^
 ||eagleautomotivesales.com^
 ||eaglecrestonline.com^
 ||eaglepointx.org^
@@ -1985,6 +1986,7 @@
 ||edmxed66.com^
 ||edulcor.com^
 ||edx32.com^
+||edx33.com^
 ||eexevaudraikair.net^
 ||effortlessluxurious.com^
 ||effuciaency.com^
@@ -2087,6 +2089,7 @@
 ||epoiu.com^
 ||equallyto.com^
 ||equistak.com^
+||equitradecf.com^
 ||equitradeciv.com^
 ||equitytrustbn.com^
 ||equitytrusttrading.com^
@@ -2130,6 +2133,7 @@
 ||euopue.click^
 ||eur.pharmacy.com^
 ||eurocheapoonline.advanced.com^
+||eurocoinlct.com^
 ||eurofashionflair.com^
 ||europamundo.ink.com^
 ||european.sickfind.shop^
@@ -2229,6 +2233,7 @@
 ||faucetcrypto.net^
 ||fazmex.com^
 ||fc244.com^
+||fcaageafin.com^
 ||fcbarcelona.eu.shop^
 ||fdkwire.com^
 ||febgtvh.com^
