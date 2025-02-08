@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.160056.2025
+! Version: 02.08.163318.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 16:00:56 UTC 2025
+! Last modified: Sat Feb  8 16:33:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6507
+! Number of entries: 6510
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -93,6 +93,7 @@
 ||68shop.europe.com^
 ||6dc3ecg.yyadjai.info^
 ||7.eleven.ac^
+||777.batata777.vip^
 ||777color87.com^
 ||777xk153.cc^
 ||7k.casino.16.online^
@@ -3804,6 +3805,7 @@
 ||monostarscope.com^
 ||monsteratalent.com^
 ||monsterhighhaven.shop^
+||monterosource.com^
 ||moodefine.com^
 ||moonfareinvest.com^
 ||moonflexmagement.com^
@@ -4262,6 +4264,7 @@
 ||pabyly.com^
 ||pacau.store^
 ||packetshare.io^
+||padavip.com^
 ||padelofficiel.com^
 ||pagalopount.site^
 ||pageindustriesltd.com^
