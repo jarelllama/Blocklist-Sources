@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.000155.2025
+! Version: 02.08.004511.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 00:01:55 UTC 2025
+! Last modified: Sat Feb  8 00:45:11 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6374
+! Number of entries: 6381
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2820,6 +2820,7 @@
 ||hoylitecandle.store^
 ||hozpetro.com^
 ||hplcstandards.com^
+||hptts.tealagarm.com^
 ||hrbtpl.com^
 ||href.li^
 ||hrtai.vip^
@@ -3237,6 +3238,7 @@
 ||laronnistore.com^
 ||laroque.mode.com^
 ||lasopaclan897.weebly.com^
+||lasso.guru^
 ||lastbit.in^
 ||lataminversion.com^
 ||latelyous.com^
@@ -3298,6 +3300,7 @@
 ||lifeneed.online^
 ||lifeproofsales.com^
 ||lifesgoood.space^
+||lifewithasia.com^
 ||liffecoin.com^
 ||lifilogo.com^
 ||liftepic.com^
@@ -3864,6 +3867,7 @@
 ||neomaven.pro^
 ||neopaypoint.org^
 ||nerofax.com^
+||nervedefend.company.site^
 ||nestedfashion.com^
 ||nestlady.com^
 ||netbitcapital.net^
@@ -4453,6 +4457,8 @@
 ||protradesafeapp.info^
 ||proupwholesale.com^
 ||proveedor.io^
+||prymus.agd.staszsw.myfreesites.net^
+||prysmaratr.com^
 ||przedstawiamynagranie.click^
 ||przekazosiedla.click^
 ||przekazpubliczny.click^
@@ -4703,6 +4709,7 @@
 ||revenuebot.io^
 ||reviewsrecipes.com^
 ||revnest.online^
+||revnroar.square.site^
 ||revoget.com^
 ||revolutregister.com^
 ||revvedsupply.com^
