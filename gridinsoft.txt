@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.100104.2025
+! Version: 02.08.103306.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 10:01:04 UTC 2025
+! Last modified: Sat Feb  8 10:33:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6490
+! Number of entries: 6492
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -523,6 +523,7 @@
 ||auto.downloads.com^
 ||autodatainspection.com^
 ||autofaucet.dutchycorp.space^
+||autoinsurancematchup.com^
 ||autoliftsolution.com^
 ||automegaoption.com^
 ||autonorte.online^
@@ -4567,6 +4568,7 @@
 ||pulsed.fr^
 ||pulsenotifynow.top^
 ||pulsepicks.pro^
+||pulsesd.com^
 ||pumacolombia.net^
 ||pumacolombiaoutlet.com.co^
 ||pummadiscounnt.com^
