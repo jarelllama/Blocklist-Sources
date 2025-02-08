@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.040100.2025
+! Version: 02.08.043304.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 04:01:00 UTC 2025
+! Last modified: Sat Feb  8 04:33:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6423
+! Number of entries: 6432
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -33,6 +33,7 @@
 ||163jl.com^
 ||16785a.top^
 ||17.magic88.cc^
+||190724.com^
 ||19www.vivetuaventurasinlimitespromo.com^
 ||1movierulzhd.my^
 ||1ohm.in^
@@ -108,7 +109,9 @@
 ||8shop.instock.us.kg^
 ||8xfilms.living^
 ||90jogo5.com^
+||951345141ruby616asdcxvz.com^
 ||988359.com^
+||99phl789.com^
 ||99predict.com^
 ||9bxz.com^
 ||9eight5.co.nz^
@@ -1558,8 +1561,11 @@
 ||daily2jili8.vip^
 ||dailyfreebits.com^
 ||dailygivebacks.com^
+||dailyjili10.club^
+||dailyjili41.com^
 ||dailytehillim.online^
 ||dailyuploads.net^
+||dailyxjili16.com^
 ||dainese.sale.shop^
 ||daintyrarly.com^
 ||dalarex.com^
@@ -1812,6 +1818,7 @@
 ||dminer.website^
 ||dmjff.com^
 ||dmswebsolution.com^
+||dnb.znin82.com^
 ||dnsdefender.xyz^
 ||dnswatch.info^
 ||doam.co.in^
@@ -4334,6 +4341,7 @@
 ||philandco.vip^
 ||phillipa.online^
 ||phjlplus668.cc^
+||phlruby.club^
 ||phonetopups.com^
 ||photographingge.com^
 ||photoviewave.com^
@@ -4472,6 +4480,7 @@
 ||pronatum.com^
 ||proofpeak.org^
 ||propandcounterfietmoney.com^
+||propfirmcrm.com^
 ||propfirmpassingservice.net^
 ||propichain.finance^
 ||prortarde.com^
