@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.030225.2025
+! Version: 02.08.033243.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 03:02:25 UTC 2025
+! Last modified: Sat Feb  8 03:32:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6414
+! Number of entries: 6419
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -591,6 +591,7 @@
 ||baxtertradings.online^
 ||bbc.tv.org^
 ||bbdoapp.help^
+||bbwerzhuq333.com^
 ||bbyklai.shop^
 ||bcapstaking.com^
 ||bchminer.com^
@@ -890,6 +891,8 @@
 ||bongodigitalbd.com^
 ||bonta.store^
 ||bonusewin.com^
+||bonustrader.store^
+||bonustrader.website^
 ||boodiecawquaw.top^
 ||booie.online^
 ||bookmarkfc.info^
@@ -4470,6 +4473,7 @@
 ||propfirmpassingservice.net^
 ||propichain.finance^
 ||prosaleoff.com^
+||prosperhub.site^
 ||prospero.ae^
 ||proswapex.com^
 ||protecthubmaster.xyz^
@@ -4905,6 +4909,7 @@
 ||scubaprosale.us.shop^
 ||scuffersespanatienda.com^
 ||scyrox.com^
+||sdbullioncoin.com^
 ||sdwff.shop^
 ||sdx96.com^
 ||sdxsjc.com^
