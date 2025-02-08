@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.230055.2025
+! Version: 02.08.233053.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 23:00:55 UTC 2025
+! Last modified: Sat Feb  8 23:30:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6560
+! Number of entries: 6563
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -3935,6 +3935,7 @@
 ||naseox.org^
 ||natadler.com^
 ||natayark.us.kg^
+||national.scam.helpline.org.uk^
 ||nationalcasinolp.com^
 ||nationdistributor.com^
 ||naturaenutra.online^
@@ -5628,6 +5629,7 @@
 ||thomashouseofdigitals.store^
 ||thormarkets.com^
 ||thothub.vip^
+||threadsociety.online^
 ||threadsvault.com^
 ||thugpepe.click^
 ||tickfyx.shop^
@@ -5657,6 +5659,7 @@
 ||tistokmall.pro^
 ||titan13.com^
 ||titfinder.com^
+||tixuren.com^
 ||tjsummer.com^
 ||tjzrcu.info^
 ||tkshophr.com^
