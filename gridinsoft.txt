@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.170104.2025
+! Version: 02.08.173038.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 17:01:04 UTC 2025
+! Last modified: Sat Feb  8 17:30:38 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6515
+! Number of entries: 6522
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -16,6 +16,7 @@
 ||05012025.info^
 ||1.tiktokimg.online^
 ||100aventuras.com.mx^
+||100dollarsmails.com^
 ||1024tera.com^
 ||10bestsweepstakes.com^
 ||11ph9.com^
@@ -4769,6 +4770,7 @@
 ||reg.yourgamebuilder.com^
 ||regalosorpresivo.com^
 ||regenita.com^
+||regentcoin.finance^
 ||reginakumaspells.com^
 ||register.aitprotocoldefi.network^
 ||register.bckrcoin.com^
@@ -5050,6 +5052,7 @@
 ||sexyforums.com^
 ||sfardlanka.com^
 ||sfptrust.com^
+||sftboww.com^
 ||sgtbill.com^
 ||sgtcv.com^
 ||shaamining.com^
@@ -5172,6 +5175,7 @@
 ||slott31.com^
 ||smahealthbenefits.com^
 ||smart.finances.org^
+||smartbux.net^
 ||smartearningpool.online^
 ||smartgyro.es^
 ||smartmarketmaven.com^
@@ -6482,6 +6486,7 @@
 ||zenithdigital.xyz^
 ||zenjett.com^
 ||zenoex.com^
+||zentrade.org^
 ||zero.faucet.com^
 ||zerocodeblock.com^
 ||zerocoin.top^
@@ -6513,10 +6518,12 @@
 ||zorvalor.com^
 ||zoveco.com^
 ||zoxtrade.com^
+||zozo.worldsnow.com^
 ||ztmining.com^
 ||ztudim.work.top^
 ||ztxzhb.shop^
 ||zucess.online.com^
+||zuen.fund^
 ||zuhouee.com^
 ||zutaonline.com^
 ||zx3.io^
