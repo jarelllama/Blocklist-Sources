@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.024246.2025
+! Version: 02.08.030225.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 02:42:46 UTC 2025
+! Last modified: Sat Feb  8 03:02:25 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6404
+! Number of entries: 6414
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -611,6 +611,7 @@
 ||beeintv.com^
 ||beetlejuice.2.online^
 ||befilabs.space^
+||begendir.info^
 ||behque.click^
 ||beigerise.com^
 ||beijingwatches.com^
@@ -2082,6 +2083,7 @@
 ||esysgb.com^
 ||etdase.com^
 ||eterminal.net^
+||eterni.click^
 ||ethereum.defi.vip^
 ||ethereum.smart.com^
 ||ethjpn.com^
@@ -3020,8 +3022,10 @@
 ||j2j1a9eb.forms.app^
 ||j679y.top^
 ||ja.cat^
+||jachworks.com^
 ||jadloresga.shop^
 ||jaguafrangosalimentosltda.com^
+||jainmandir.info^
 ||jamai.top^
 ||jamesisti.site^
 ||janrvnuagnt.co^
@@ -4058,6 +4062,8 @@
 ||oguiadossonhos15anos.online^
 ||ogxrh.com^
 ||ohatia.online^
+||ohoho.info^
+||ohye.info^
 ||oilai.cc^
 ||oiufds.com^
 ||ojrq.net^
@@ -4314,6 +4320,7 @@
 ||petorugs.com^
 ||petronordstorage.nl^
 ||petusmart.shop^
+||pfoh.info^
 ||pg77.game^
 ||pgfff8trk.com^
 ||phamcore.com^
@@ -4828,6 +4835,7 @@
 ||rxwin.org^
 ||ryfibei.shop^
 ||rynolia.com^
+||rzfhn8trk.com^
 ||s.dz.com^
 ||s.optvz.com^
 ||s.team^
@@ -5519,6 +5527,7 @@
 ||titan13.com^
 ||titfinder.com^
 ||tjsummer.com^
+||tjzrcu.info^
 ||tkshophr.com^
 ||tkshopp.vip^
 ||tkxxtk.com^
@@ -6394,6 +6403,7 @@
 ||zkfair.io^
 ||zks7.com^
 ||zlibrary.to^
+||zonedir.info^
 ||zoodel.online^
 ||zoosurvey.online^
 ||zoria.click^
