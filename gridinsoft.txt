@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.193047.2025
+! Version: 02.08.200052.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 19:30:47 UTC 2025
+! Last modified: Sat Feb  8 20:00:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6544
+! Number of entries: 6547
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2451,6 +2451,7 @@
 ||futurofinanzachile.com^
 ||fvyreu.com^
 ||fwpy.swelucky.com^
+||fx.trinity.com^
 ||fxandcryptoanalysis.today^
 ||fxclr.com^
 ||fxcrypto.elites.com^
@@ -3392,6 +3393,7 @@
 ||limeremce.com^
 ||limxbet.com^
 ||linconomyinvest.com^
+||linderan.com^
 ||linfordoffice.com^
 ||link.center.net^
 ||link.traders.com^
@@ -3507,6 +3509,7 @@
 ||lulalola.com^
 ||luluisrael.co.il^
 ||lulusafh.com^
+||luluyogastore.com^
 ||lumacex.com^
 ||lumeraco.com^
 ||luminassociate.com^
