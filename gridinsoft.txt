@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.070047.2025
+! Version: 02.08.073046.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 07:00:47 UTC 2025
+! Last modified: Sat Feb  8 07:30:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6463
+! Number of entries: 6469
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1022,6 +1022,7 @@
 ||buymasksgivemasks.top^
 ||buysoma.online^
 ||buythepencil.com^
+||buyweedonlineinusa.shop^
 ||buzdikstore.com^
 ||buzh3n1n4.online^
 ||buzzsum0.site^
@@ -3364,6 +3365,7 @@
 ||linkfly.to^
 ||linkgurd.online^
 ||linkmcltogel3.org^
+||linkperfeito.online^
 ||linkr.it^
 ||linkresmi.airbet88.online^
 ||linkslot2025.com^
@@ -3432,6 +3434,7 @@
 ||lotusgames777.online^
 ||loueshop.com^
 ||lourdeswestleyhawk.org^
+||louvalence.co^
 ||lovdomnotiallus.top^
 ||lovecoget.click^
 ||lovejabsk.click^
@@ -4486,6 +4489,7 @@
 ||profittrade.live^
 ||projectplaygroundtech.com^
 ||projetparis.fr^
+||prole.aposiiz.com^
 ||prologisticsolution.com^
 ||prom.baltyk24.eu5.net^
 ||promask.pro^
@@ -4761,6 +4765,7 @@
 ||resellerboost.com^
 ||resminair.in^
 ||resortburg.online^
+||restaurant.lepetitcochon.com^
 ||retoswap.com^
 ||retroclubkit.co^
 ||retrofxmarkets.com^
@@ -5214,6 +5219,7 @@
 ||spin777t.com^
 ||spincex.com^
 ||spindletrade.org^
+||spinmesin88.online^
 ||spinslot88won.online^
 ||sponta.io^
 ||spoorme.com^
