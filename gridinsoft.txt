@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.083336.2025
+! Version: 02.08.090049.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 08:33:36 UTC 2025
+! Last modified: Sat Feb  8 09:00:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6484
+! Number of entries: 6487
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -612,6 +612,7 @@
 ||beat.sticker.online^
 ||beatmakerz.club^
 ||beaucham.com^
+||beazavnftojh.shop^
 ||bedtige.top^
 ||bedtodream.com^
 ||beedermaus.com^
@@ -1561,6 +1562,7 @@
 ||d.binrefund.top^
 ||d.c3g.cn^
 ||d3bqx5dvn4460l.drnppqmp.cc^
+||d3pcx41g7mhiud.cloudfront.net^
 ||d4iqpj8tqft8l.cloudfront.net^
 ||dagahna.fun^
 ||daily.deals.sale^
@@ -5937,6 +5939,7 @@
 ||uyqsfashion.shop^
 ||v2.youconvert.net^
 ||v9drop.com^
+||vacacionesfamilia.com^
 ||vacolex.com^
 ||vajero.com^
 ||valentinatang.com^
