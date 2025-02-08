@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.08.022407.2025
+! Version: 02.08.024246.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb  8 02:24:07 UTC 2025
+! Last modified: Sat Feb  8 02:42:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6398
+! Number of entries: 6404
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1109,6 +1109,7 @@
 ||casvnm.com^
 ||catenarydojo.com^
 ||caterpillarargentinaonline.com^
+||catholicpsychconsult.com^
 ||catquarium.store^
 ||catslaptoken.com^
 ||cattaild.com^
@@ -1313,6 +1314,7 @@
 ||coinank.com^
 ||coinarbitrage.io^
 ||coinarns.com^
+||coinbase.mywallet.com^
 ||coinbase.staking.com^
 ||coinbasesupport.blog^
 ||coinbaux.com^
@@ -2596,6 +2598,7 @@
 ||goodserchez.com^
 ||goodsixsk.best^
 ||goodvigorous.com^
+||goodygooddeals.com^
 ||goodyouco.com^
 ||google.com.gt^
 ||google592.com^
@@ -4462,6 +4465,8 @@
 ||prosaleoff.com^
 ||prospero.ae^
 ||proswapex.com^
+||protecthubmaster.xyz^
+||protectionproadvisor.xyz^
 ||protectivemethod.com^
 ||proteinbestsell.com^
 ||protocolsafe.co.in^
@@ -4678,6 +4683,7 @@
 ||ref.eu.com^
 ||ref2tron.top^
 ||refefshopin.top^
+||reffbyte.com^
 ||reg.yourgamebuilder.com^
 ||regalosorpresivo.com^
 ||regenita.com^
