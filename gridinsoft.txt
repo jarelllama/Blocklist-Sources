@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.09.120103.2025
+! Version: 02.09.124041.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  9 12:01:03 UTC 2025
+! Last modified: Sun Feb  9 12:40:41 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6610
+! Number of entries: 6614
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -457,6 +457,7 @@
 ||armadaclothing.online^
 ||armani.ai.com^
 ||arnavix.online^
+||arokini.com^
 ||arowinvest.pro^
 ||ars88safe.online^
 ||artabusiness.com^
@@ -968,6 +969,7 @@
 ||brilliantlyouth.store^
 ||britebatshop.com^
 ||britishairwaysroyaldeliverycompany.com^
+||broker.zaffex.com^
 ||browser.app.com^
 ||bruleuzz.com^
 ||brumabruma.com^
@@ -4904,6 +4906,7 @@
 ||rhodemexico.com^
 ||ribumee.shop^
 ||ricfxc.shop^
+||richbash.com^
 ||richjl08.cc^
 ||ridswear.com^
 ||rifleson.cc^
@@ -6034,6 +6037,7 @@
 ||useproakira.com^
 ||usepxl8r.com^
 ||user.abmining.pro^
+||user.aiminers.pro^
 ||user.ecosbitcoinmining.com^
 ||user.ecosminer.io^
 ||usermanualsonline.com^
