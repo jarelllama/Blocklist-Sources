@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.09.060056.2025
+! Version: 02.09.063451.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  9 06:00:56 UTC 2025
+! Last modified: Sun Feb  9 06:34:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6577
+! Number of entries: 6580
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1198,6 +1198,7 @@
 ||cheapammoaustralia.com^
 ||cheapertoolparts.com^
 ||cheapglovesoutlet.com^
+||cheapmaggiesstore.com^
 ||cheapproducts.online^
 ||cheapsleepingtablets.net^
 ||checkout.square.site^
@@ -3339,6 +3340,7 @@
 ||lawnagain.com^
 ||lbank.com^
 ||lbl07.com^
+||lconenine.monster^
 ||le3go.com^
 ||leadadream.top^
 ||leadcommunity.ai^
@@ -3712,6 +3714,7 @@
 ||methodeversohnungvonbeziehungen.online^
 ||metodo.sigma.online^
 ||metodolog.online^
+||metroparcl.online^
 ||metropolidata.com^
 ||metrotradeltd.com^
 ||metroxenterprise.com^
