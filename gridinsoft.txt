@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.09.193100.2025
+! Version: 02.09.200058.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  9 19:31:00 UTC 2025
+! Last modified: Sun Feb  9 20:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6631
+! Number of entries: 6634
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1957,6 +1957,7 @@
 ||dysb.store^
 ||dystarwears.com^
 ||dzan23.cn^
+||e.bayaffiliate.life^
 ||e.bookforthought.com^
 ||e.wu.store.com^
 ||eagleautomotivesales.com^
@@ -2955,6 +2956,7 @@
 ||hxxokerase.fyi^
 ||hyperbit.biz^
 ||hyph666.win^
+||hyteg.lansemeiyunbunchuanxishi.top^
 ||i.apple.com.tr^
 ||iakamgaming.com^
 ||iamnew.powerappsportals.com^
@@ -4277,6 +4279,7 @@
 ||onlymodels.me^
 ||onlyterrific.com^
 ||onnkfv.shop^
+||onopride.store^
 ||onpriority.com^
 ||onruning.top^
 ||onrunning.top^
