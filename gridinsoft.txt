@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.09.133100.2025
+! Version: 02.09.140057.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  9 13:31:00 UTC 2025
+! Last modified: Sun Feb  9 14:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6617
+! Number of entries: 6619
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2168,6 +2168,7 @@
 ||eventscodm.com^
 ||evericsedge.com^
 ||everlastingluck.co.uk^
+||everythingmoe.com^
 ||evestv.com^
 ||evil.com^
 ||evli.fr^
@@ -3956,6 +3957,7 @@
 ||myshare.ws^
 ||myshroomiq.com^
 ||mysticstonesgallery.com^
+||mytradecoin.pro^
 ||mytraveldaddy.us^
 ||myvanomi.com^
 ||n.ag.vip^
