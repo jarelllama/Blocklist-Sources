@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.09.230048.2025
+! Version: 02.09.233046.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  9 23:00:48 UTC 2025
+! Last modified: Sun Feb  9 23:30:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6643
+! Number of entries: 6649
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -840,6 +840,7 @@
 ||bitsmoon.com^
 ||bitsop.pro^
 ||bitstake.su^
+||bitsxpro.com^
 ||bittdrex.com^
 ||bittrading.online^
 ||bittrsecur.top^
@@ -986,6 +987,7 @@
 ||brutescaler.com^
 ||brutus.xyz^
 ||bruxera.es^
+||brvipl.top^
 ||bs2best.at^
 ||bsbjnlzdq.org^
 ||bsdgyfv.shop^
@@ -2146,6 +2148,7 @@
 ||est.invest.pro^
 ||establishmentlottery.top^
 ||estarenergy.ltd^
+||estesmediaseo.com^
 ||estherwinter.eu^
 ||estiloargento.com.ar^
 ||estrazint.com^
@@ -3555,6 +3558,7 @@
 ||ltcxminer.pro^
 ||luatypticures.co.in^
 ||luckizac.top^
+||luckuystore.com^
 ||lucky.motorcycles.com^
 ||lucky888.top^
 ||luckypro.store^
@@ -6045,6 +6049,7 @@
 ||usamedsdeals24.com^
 ||usapassportonline.org^
 ||usarmunukr.online^
+||usd98.com^
 ||usdbmwmsport.cc^
 ||usdd.club^
 ||usde.ink^
@@ -6194,6 +6199,7 @@
 ||vishopee.com^
 ||visionsco.online^
 ||visprintdesign.biz^
+||vistatrack.net^
 ||vitadex.org^
 ||vitalpetlife.com^
 ||vitosync.com^
