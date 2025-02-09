@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.09.110101.2025
+! Version: 02.09.113102.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  9 11:01:01 UTC 2025
+! Last modified: Sun Feb  9 11:31:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6606
+! Number of entries: 6608
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -281,6 +281,7 @@
 ||all.pcb.online^
 ||allcricketid.com^
 ||allegrolokalniepl.9683081239018571985139763.online^
+||allemall.top^
 ||alleycatsol.xyz^
 ||allgoodkeys.com^
 ||alliancegpc.com^
@@ -315,6 +316,7 @@
 ||altieer.com^
 ||altimotradingsltd.com^
 ||altmisnews.com^
+||altomine.top^
 ||altraprime.trade.org^
 ||alturametatrade.com^
 ||alvesbenedek.com^
