@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.09.183350.2025
+! Version: 02.09.190049.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  9 18:33:50 UTC 2025
+! Last modified: Sun Feb  9 19:00:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6627
+! Number of entries: 6630
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2018,6 +2018,7 @@
 ||eghealthsolutions.com^
 ||egqgzks7sytjxydypez1ls.8akm5.ondigitalocean.app^
 ||egyptiantech.org^
+||ehamarkets.com^
 ||ehoaq.com^
 ||ehoplay.com^
 ||eileenfisher.us.com^
@@ -3881,6 +3882,7 @@
 ||monsterhighhaven.shop^
 ||monterosource.com^
 ||moodefine.com^
+||moonacy.io^
 ||moonfareinvest.com^
 ||moonflexmagement.com^
 ||moonhaus.is^
@@ -5872,6 +5874,7 @@
 ||trongo.top^
 ||tronholdingsllc.com^
 ||tronlok.tv^
+||tronlok.vip^
 ||tronminingfarm.com^
 ||tronok.cloud^
 ||tronok.x.app^
