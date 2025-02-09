@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.09.083250.2025
+! Version: 02.09.090057.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  9 08:32:50 UTC 2025
+! Last modified: Sun Feb  9 09:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6593
+! Number of entries: 6597
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -871,6 +871,7 @@
 ||blokchainsbit.com^
 ||blombard.com^
 ||bloom.as^
+||bloxchest.com^
 ||bloxevent.org^
 ||blue798798.com^
 ||bluewhaleapps.life^
@@ -1270,6 +1271,7 @@
 ||cleanway.5asec.fr^
 ||clearnview.com^
 ||cled.euteschan.top^
+||clem.es^
 ||cleoca.store^
 ||cleshy.com^
 ||clever.buffalo.pejrxqol.sandboxcms.com^
@@ -2159,6 +2161,7 @@
 ||event.thedefiant.io^
 ||eventscodm.com^
 ||evericsedge.com^
+||everlastingluck.co.uk^
 ||evestv.com^
 ||evil.com^
 ||evli.fr^
@@ -3806,6 +3809,7 @@
 ||mittenes.shop^
 ||mivovaa.shop^
 ||mixerusdt.com^
+||mixloco.com^
 ||mixtsp.com^
 ||mizunomexicooutlet.com.mx^
 ||mjir.shop^
