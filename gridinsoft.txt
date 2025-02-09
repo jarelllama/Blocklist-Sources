@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.09.143111.2025
+! Version: 02.09.150056.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  9 14:31:11 UTC 2025
+! Last modified: Sun Feb  9 15:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6620
+! Number of entries: 6622
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1253,6 +1253,7 @@
 ||cityaccesshouse.com^
 ||civilwarcrisis.com^
 ||cjs.cdkeys.com^
+||claim.flork.com^
 ||claim.hyperliquiditychain.com^
 ||claim.seraphia.xyz^
 ||claim.trumpmemes.xyz^
@@ -5016,6 +5017,7 @@
 ||salebeddingus.com^
 ||salefuet.best^
 ||salemagazineonline.com^
+||salesbetov.best^
 ||salewaoutletsespana.es^
 ||salomonteam.com^
 ||samaucy.com^
