@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.09.173051.2025
+! Version: 02.09.180100.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  9 17:30:51 UTC 2025
+! Last modified: Sun Feb  9 18:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6624
+! Number of entries: 6627
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -477,6 +477,7 @@
 ||asiacargo.online^
 ||asigpt.ai^
 ||asigpt.io^
+||asistencia.renovacion.com^
 ||aslminer.com^
 ||asmeit.com^
 ||asossamplesale.com^
@@ -801,6 +802,7 @@
 ||bitgetone.me^
 ||bitgetpool.vip^
 ||bitgetzone.top^
+||bitgity.com^
 ||bitharbour.org^
 ||bitharvest.io^
 ||bithivetrades.com^
@@ -2839,6 +2841,7 @@
 ||hireahackers.pro^
 ||hireuphelp.online^
 ||hiringlense.in^
+||hitthewalls.top^
 ||hkapp.telegram.net^
 ||hkcryptoexchange.com^
 ||hkdatong.shop^
