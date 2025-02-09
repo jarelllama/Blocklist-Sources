@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.09.070054.2025
+! Version: 02.09.073037.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  9 07:00:54 UTC 2025
+! Last modified: Sun Feb  9 07:30:37 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6583
+! Number of entries: 6586
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1617,6 +1617,7 @@
 ||dataminr.ai.xyz^
 ||dataprocessinghere.online^
 ||datempire.com^
+||datesoffrs.com^
 ||datezone.com^
 ||datmyx.online^
 ||dauntlessgpautobot.pro^
@@ -4449,6 +4450,7 @@
 ||pilatesmotion.co^
 ||pillowhubglobal.com^
 ||pilot.iptv.com^
+||pinafinance.org^
 ||pinetworkvalidator.com^
 ||pinkonline.store^
 ||pinmate.app^
@@ -4789,6 +4791,7 @@
 ||realintelligence.club^
 ||realionetwork.claims^
 ||reallilya.com^
+||realmadrid.eu.shop^
 ||realmoney.live^
 ||realstockinvestsltd.com^
 ||reasonablu.com^
