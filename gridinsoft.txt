@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.09.130252.2025
+! Version: 02.09.133100.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  9 13:02:52 UTC 2025
+! Last modified: Sun Feb  9 13:31:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6615
+! Number of entries: 6617
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -3038,6 +3038,7 @@
 ||investmentbloom.com^
 ||investor.digiestate.online^
 ||invexfinance.com^
+||invistribe.com^
 ||invitrofertilizationtreatment001.online^
 ||ioctrust.com^
 ||ioicity.mall.top^
@@ -5440,6 +5441,7 @@
 ||styline.shop^
 ||styvor.com^
 ||subduedespana.com^
+||subscribe.free.fr^
 ||subscribelg.my^
 ||suckbetg.online^
 ||sucreat.com^
