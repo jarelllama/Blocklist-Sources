@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.09.223234.2025
+! Version: 02.09.230048.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  9 22:32:34 UTC 2025
+! Last modified: Sun Feb  9 23:00:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6638
+! Number of entries: 6643
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -300,6 +300,7 @@
 ||alltrainerspc.com^
 ||allyeder.com^
 ||alma.box^
+||alo.yogaoutlet.com^
 ||alo88.black^
 ||aloidvg.com^
 ||alpaboost.com^
@@ -637,6 +638,7 @@
 ||bedtodream.com^
 ||beedermaus.com^
 ||beeintv.com^
+||beepays.net^
 ||beetlejuice.2.online^
 ||befilabs.space^
 ||begendir.info^
@@ -1377,6 +1379,7 @@
 ||coinlocally.forex^
 ||coinoah.vip.cc^
 ||coinomi.com^
+||coins.free.com^
 ||coins.shade.com^
 ||coinsair.com^
 ||coinsamp.com^
@@ -4075,6 +4078,7 @@
 ||nexamazon.com^
 ||next4x.com^
 ||nextcrypto.top^
+||nextglobalfxtrade.online^
 ||nextlevelpayments.online^
 ||nextshop.fun^
 ||nexusaaso5kxt75bigvtixw63dot3mnthl3pwqxg4d6tlj5yfqjuviid.online^
@@ -6023,6 +6027,7 @@
 ||uploadmall.com^
 ||upstinatolos.com^
 ||urbantapes.com^
+||urbanwuff.store^
 ||urefie.net^
 ||ureka88.com^
 ||urlsing.com^
