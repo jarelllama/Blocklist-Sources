@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.09.073037.2025
+! Version: 02.09.080102.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  9 07:30:37 UTC 2025
+! Last modified: Sun Feb  9 08:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6586
+! Number of entries: 6591
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2716,6 +2716,7 @@
 ||gtkjean.com^
 ||gtrewe.co.in^
 ||guabsons.com^
+||guaranteedbuyers247.com^
 ||guaranteeswift.com^
 ||guardwallet.io^
 ||guavarina.com.br^
@@ -2779,6 +2780,7 @@
 ||hco.bank.top^
 ||hd.redditf.xyz^
 ||hdtoday.tv^
+||hdtodaytv.pro^
 ||healthcompounds.com^
 ||healthessencial.com^
 ||healthproductspro.com^
@@ -3206,6 +3208,7 @@
 ||kedaivgg.online^
 ||keenchile.net^
 ||keencn.com^
+||keenfootwear.outlets.store^
 ||kefu.swapbit.top^
 ||kelansu.com^
 ||ken.exmax.com^
@@ -5065,6 +5068,7 @@
 ||securedalliances.com^
 ||securedjointnetwork.co.in^
 ||securedspot.vip^
+||securitybulb360.co^
 ||sedonainvestments.co.uk^
 ||seecomoffer.com^
 ||seedswanted.online^
@@ -5433,6 +5437,7 @@
 ||sunbit.ren^
 ||sundararajanneurohospital.com^
 ||sunehladeal.com^
+||sunnygo.co.uk^
 ||sunriseshop.in^
 ||suny77.online^
 ||sunyiying.com^
