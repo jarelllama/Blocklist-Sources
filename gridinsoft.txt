@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.10.000207.2025
+! Version: 02.10.004518.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 10 00:02:07 UTC 2025
+! Last modified: Mon Feb 10 00:45:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6652
+! Number of entries: 6657
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -210,6 +210,7 @@
 ||agarwoody.shop^
 ||ageeon.com^
 ||agentdaisy.site^
+||aggrandize.alliances.com^
 ||agilaclub3.com^
 ||agilecoingain.com^
 ||agonas.techubz.com^
@@ -3446,6 +3447,7 @@
 ||lightsha.com^
 ||lihi.cc^
 ||likebargainsothers.world^
+||lillaloom.com^
 ||limdex.capital.com^
 ||lime.elysia.47.tiiny.site^
 ||limeremce.com^
@@ -3874,6 +3876,7 @@
 ||modunls.shop^
 ||moefr3trk.com^
 ||mokshatravels.online^
+||moltstar.com^
 ||momahc.com^
 ||mon.expedition.com^
 ||monasteriodelamor.com^
@@ -4287,6 +4290,7 @@
 ||onlinestoretechshop.com^
 ||onlinewealthmantra.com^
 ||onlkey.com^
+||onlycartel.net^
 ||onlymegalovers.com^
 ||onlymodels.me^
 ||onlyterrific.com^
@@ -4640,6 +4644,7 @@
 ||prosaleoff.com^
 ||prosperhub.site^
 ||prospero.ae^
+||prostvvive.com^
 ||proswapex.com^
 ||protecthubmaster.xyz^
 ||protectionproadvisor.xyz^
