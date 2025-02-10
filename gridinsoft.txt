@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.10.130505.2025
+! Version: 02.10.133334.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 10 13:05:05 UTC 2025
+! Last modified: Mon Feb 10 13:33:34 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6705
+! Number of entries: 6709
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -673,6 +673,7 @@
 ||best4youu.info^
 ||bestbiccle.shop^
 ||bestbuy.ink^
+||bestcouponsnow.com^
 ||bestdogcare.one^
 ||besteboni.online^
 ||bestgreensuperfood.com^
@@ -2541,6 +2542,7 @@
 ||game.zixia.com^
 ||game.zone.pro^
 ||gamefabrique.com^
+||gamemarket.cyou^
 ||gamer.spot.com^
 ||gamer.zone.fr^
 ||gamesfull.app^
@@ -3632,6 +3634,7 @@
 ||m.vk.com^
 ||m1jspkd.com^
 ||m66iu.xyz^
+||maasvlakteoilterminal.com^
 ||mabar88go.online^
 ||mabhaykamath.online^
 ||mablehelp.online^
@@ -4231,6 +4234,7 @@
 ||offersheres.net^
 ||offersjournal.com^
 ||officedesk.commercialdeals.online^
+||official.promo.net^
 ||officialmaga.com^
 ||officialmagacoin.com^
 ||offresdespace24.com^
