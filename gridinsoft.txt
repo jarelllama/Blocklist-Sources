@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.10.190053.2025
+! Version: 02.10.193043.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 10 19:00:53 UTC 2025
+! Last modified: Mon Feb 10 19:30:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6728
+! Number of entries: 6732
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -752,6 +752,7 @@
 ||bingo.ba^
 ||binjohn.com^
 ||binomo.com^
+||binoproducts.com^
 ||binoption.net^
 ||binta.xyz^
 ||binterio.com^
@@ -1195,6 +1196,7 @@
 ||ceipa.edu.co^
 ||celebprize.com^
 ||celeharm.com^
+||celium.arbitrage.com^
 ||cencomall.org^
 ||cendyngroup.com^
 ||cenotor.com^
@@ -6270,6 +6272,7 @@
 ||vipbox.lc^
 ||vipehelp.com^
 ||vipemip.net^
+||viphookups.online^
 ||viralityshop.online^
 ||vircloth.com^
 ||vishopee.com^
@@ -6680,6 +6683,7 @@
 ||zbx.exchanges.com^
 ||zchuryakov.shop^
 ||zcode.system.online^
+||zcsmw.com^
 ||zdigitalagencymt.cc^
 ||zedger.net^
 ||zeharris.online^
