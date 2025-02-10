@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.10.060112.2025
+! Version: 02.10.063631.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 10 06:01:12 UTC 2025
+! Last modified: Mon Feb 10 06:36:31 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6675
+! Number of entries: 6676
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -4398,6 +4398,7 @@
 ||paldo.site^
 ||palessaint.com^
 ||palettepro.homes^
+||palladiumone.inc.com^
 ||palliee.com^
 ||pallitfold.com^
 ||pallmetostasarmory.shop^
