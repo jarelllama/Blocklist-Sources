@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.10.030449.2025
+! Version: 02.10.033525.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 10 03:04:49 UTC 2025
+! Last modified: Mon Feb 10 03:35:25 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6666
+! Number of entries: 6669
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -3360,6 +3360,7 @@
 ||lacebread.com^
 ||lacefaves.com^
 ||lacostes.com.mx^
+||lacymate.com^
 ||ladderux.org^
 ||ladysstreet.com^
 ||laferreteriaweb.com^
@@ -3539,6 +3540,7 @@
 ||lottochampweb.com^
 ||lotusgames777.online^
 ||loueshop.com^
+||louislemonnier.com^
 ||lourdeswestleyhawk.org^
 ||louvalence.co^
 ||lovdomnotiallus.top^
@@ -4887,6 +4889,7 @@
 ||register.bckrcoin.com^
 ||register.defi.app^
 ||register.soniclabs.com^
+||rei.com^
 ||reil.cam^
 ||relayl.ink^
 ||relaymondial.net^
