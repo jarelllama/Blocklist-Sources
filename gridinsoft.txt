@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.10.160102.2025
+! Version: 02.10.163530.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 10 16:01:02 UTC 2025
+! Last modified: Mon Feb 10 16:35:30 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6716
+! Number of entries: 6719
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1397,6 +1397,7 @@
 ||coinoah.vip.cc^
 ||coinomi.com^
 ||coins.free.com^
+||coins.ro.com^
 ||coins.shade.com^
 ||coinsair.com^
 ||coinsamp.com^
@@ -5305,6 +5306,7 @@
 ||skilllynxw.top^
 ||skinrave.gg^
 ||skirtvibez.com^
+||skokka.com^
 ||skresporti.shop^
 ||skyby.aviation.school.com^
 ||skymine.online^
@@ -6010,6 +6012,7 @@
 ||tv.08.com^
 ||tvlux.co^
 ||tw.iutkhi.shop^
+||tweelessatic.co.in^
 ||twin143.com^
 ||twiney.shop^
 ||twitch.tj^
