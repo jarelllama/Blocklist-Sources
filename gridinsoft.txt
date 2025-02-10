@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.10.213102.2025
+! Version: 02.10.220055.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 10 21:31:02 UTC 2025
+! Last modified: Mon Feb 10 22:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6742
+! Number of entries: 6747
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -149,6 +149,7 @@
 ||accounts.avanquest.com^
 ||accu.tech.pro^
 ||accumarkets.live^
+||ace.capitals.com^
 ||acerintplc.online^
 ||acesports.world^
 ||acessoftog.com^
@@ -522,6 +523,7 @@
 ||athenafinanceltd.in^
 ||athna.su^
 ||ativado.org^
+||atlanticuni.com^
 ||atlasore.com^
 ||atlaspays.com^
 ||atomicwalletdapp.com^
@@ -1954,6 +1956,7 @@
 ||dresscorez.com^
 ||dressedgez.com^
 ||dressglowz.com^
+||drholding.ag.com^
 ||dripcenters.com^
 ||driveridentifier.com^
 ||driverless.pro^
@@ -4016,6 +4019,7 @@
 ||mycotina.com^
 ||mydesi2.net^
 ||myetherwzallet.com^
+||myfarm.base.com^
 ||myg01d.com^
 ||mygardenhelper.online^
 ||myhoneyandpine.com^
@@ -6289,6 +6293,7 @@
 ||visprintdesign.biz^
 ||vistatrack.net^
 ||vitadex.org^
+||vitalityblissmart.com^
 ||vitalpetlife.com^
 ||vitosync.com^
 ||vitrofx.org^
