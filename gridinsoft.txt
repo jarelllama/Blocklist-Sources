@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.10.203230.2025
+! Version: 02.10.210051.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 10 20:32:30 UTC 2025
+! Last modified: Mon Feb 10 21:00:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6737
+! Number of entries: 6740
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2338,6 +2338,7 @@
 ||filmpalast.to^
 ||filmyfly.esq^
 ||finan.ssl.wemfbox.ch^
+||finance.phantom.ca^
 ||financeaa.vip^
 ||financehub.help^
 ||financeig.com^
@@ -2672,6 +2673,7 @@
 ||globexedge.com^
 ||glod.usdeth.top^
 ||glomaes.congo.com^
+||glothkom.de^
 ||glowpast.com^
 ||glowywill.com^
 ||gmb1l.online^
@@ -3740,6 +3742,7 @@
 ||mayer.boutique.de^
 ||mayzik.com^
 ||mbtauckland.com^
+||mc0nsdtrk.com^
 ||mcmsale.top^
 ||mdl789.com^
 ||meantallie.com^
