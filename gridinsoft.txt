@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.10.110100.2025
+! Version: 02.10.113055.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 10 11:01:00 UTC 2025
+! Last modified: Mon Feb 10 11:30:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6697
+! Number of entries: 6701
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -4554,6 +4554,7 @@
 ||pkvn68.online^
 ||placeofgame.com^
 ||plantkindom.com^
+||plasma.finance.com^
 ||platform8414.com^
 ||play.cantikpggames.com^
 ||play.qqvip303.online^
@@ -4597,6 +4598,7 @@
 ||pornxp.quest^
 ||portal.worldbusinesspay.com^
 ||portaldedicasonline.com^
+||portfolioactivate.com^
 ||portumltd.com^
 ||poseidoncoin.top^
 ||postyourlife.com^
@@ -4626,6 +4628,7 @@
 ||prettyright.com^
 ||pricepool88.com^
 ||primaxoptions.com^
+||prime.energie.france.com^
 ||primeart.org^
 ||primefitnessgroup.online^
 ||primeglobalfxexchange.live^
@@ -5359,6 +5362,7 @@
 ||softontop.io^
 ||softserve.vip.click^
 ||softserve.vip.com^
+||softwarekeep.com^
 ||softwhimsy.com^
 ||softysound.com^
 ||sogoode.store^
