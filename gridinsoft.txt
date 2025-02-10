@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.10.020212.2025
+! Version: 02.10.024414.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 10 02:02:12 UTC 2025
+! Last modified: Mon Feb 10 02:44:14 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6660
+! Number of entries: 6664
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -568,6 +568,7 @@
 ||axustroncapital.com^
 ||ayridchandler.shop^
 ||ayurlife.online^
+||azmovies.ag^
 ||babylon3.vip^
 ||babytoll.shop^
 ||babyu.shop^
@@ -772,6 +773,7 @@
 ||bitbuycoinex.com^
 ||bitcapital.online^
 ||bitcexpro.vip^
+||bitcine.app^
 ||bitcoin.700eprex.com^
 ||bitcoin.laundry2.net^
 ||bitcoin.pays.com^
@@ -2837,6 +2839,7 @@
 ||herotoyshop.com^
 ||herpesyls.click^
 ||hesamkianikhah.com^
+||hexa.watch^
 ||heyderbid.com^
 ||heyfuckme.com^
 ||hgtn.fun^
@@ -4086,6 +4089,7 @@
 ||newulife.com^
 ||newyorkshroomsonline.com^
 ||nexamazon.com^
+||nexomining.com^
 ||next4x.com^
 ||nextcrypto.top^
 ||nextglobalfxtrade.online^
