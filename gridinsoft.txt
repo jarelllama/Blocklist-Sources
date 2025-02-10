@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.10.073055.2025
+! Version: 02.10.080057.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 10 07:30:55 UTC 2025
+! Last modified: Mon Feb 10 08:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6681
+! Number of entries: 6683
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1001,6 +1001,7 @@
 ||btc200x.net^
 ||btc200x.org^
 ||btc322.com^
+||btc4coin.info^
 ||btc913.com^
 ||btc933.com^
 ||btcagent.io^
@@ -4303,6 +4304,7 @@
 ||onlineshopleader.com^
 ||onlinessyodobashis.cc^
 ||onlinestoretechshop.com^
+||onlineveda.shop^
 ||onlinewealthmantra.com^
 ||onlkey.com^
 ||onlycartel.net^
