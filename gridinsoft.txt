@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.10.063631.2025
+! Version: 02.10.070056.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 10 06:36:31 UTC 2025
+! Last modified: Mon Feb 10 07:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6676
+! Number of entries: 6679
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1075,6 +1075,7 @@
 ||bytes.link.online^
 ||bytexcrypto.com^
 ||bzillion.club^
+||c.c3g.cn^
 ||c24house.com^
 ||c6s.net^
 ||ca.25uby.xin^
@@ -5057,6 +5058,7 @@
 ||sakwesrealtors.com^
 ||salavi88.com^
 ||sale.oggi.com^
+||sale.sviphsh.cn^
 ||salebeddingus.com^
 ||salefuet.best^
 ||salemagazineonline.com^
@@ -5649,6 +5651,7 @@
 ||testorush.eu^
 ||tether.global.com^
 ||tether.xaut.org^
+||tetherminingcloud.com^
 ||texbiom.com^
 ||texitcoin.org^
 ||tfalcon.online^
