@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.09.233046.2025
+! Version: 02.10.000207.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb  9 23:30:46 UTC 2025
+! Last modified: Mon Feb 10 00:02:07 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6649
+! Number of entries: 6652
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2277,6 +2277,7 @@
 ||febit.vip^
 ||fedilitylogistics.com^
 ||feeliey.com^
+||feels.ct.ws^
 ||feenox.com^
 ||felguss.com^
 ||fenben.pro^
@@ -5393,6 +5394,7 @@
 ||st.george.spray.tans.square.site^
 ||stablest.shop^
 ||staemcommunnuty.com^
+||staemcomnunnity.com^
 ||staemcomunitly.com^
 ||staemcomunnity.com^
 ||stake786.com^
@@ -5448,6 +5450,7 @@
 ||store.belgianshop.com^
 ||store.creedhouse.online^
 ||store.payproglobal.com^
+||store.uni.app.com^
 ||storeclosingclearance.com^
 ||storemineci.com^
 ||storeyork.com.mx^
