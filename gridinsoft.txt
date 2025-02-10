@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.10.200059.2025
+! Version: 02.10.203230.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 10 20:00:59 UTC 2025
+! Last modified: Mon Feb 10 20:32:30 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6733
+! Number of entries: 6737
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2193,6 +2193,7 @@
 ||eurocheapoonline.advanced.com^
 ||eurocoinlct.com^
 ||eurofashionflair.com^
+||eurolife.info^
 ||europamundo.ink.com^
 ||european.sickfind.shop^
 ||europharmacy.net^
@@ -3905,6 +3906,7 @@
 ||mobilephotokiosk.app^
 ||mobiteamapp.com^
 ||mobofox.site^
+||moclicks.com^
 ||modacloaks.com^
 ||moddys.watches.com^
 ||modefi4o.com^
@@ -3985,6 +3987,7 @@
 ||multismart.solve.pages.dev^
 ||multisportstv.online^
 ||multiverse.retifications.netlify.app^
+||mumkt.com^
 ||mundonovo.ms.gov.br^
 ||mundoonline.link^
 ||mundys.online^
@@ -6739,6 +6742,7 @@
 ||zutaonline.com^
 ||zx3.io^
 ||zxzclitin.shop^
+||zynpouchescanada.co^
 ||zyxelia.com^
 ||zyzyjgw8899.cn.vip^
 ||zzbinvestment.org^
