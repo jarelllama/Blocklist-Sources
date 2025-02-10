@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.10.113055.2025
+! Version: 02.10.120107.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 10 11:30:55 UTC 2025
+! Last modified: Mon Feb 10 12:01:07 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6701
+! Number of entries: 6704
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2374,6 +2374,7 @@
 ||flashusdt.shop^
 ||flashxu.com^
 ||flawflessas.com^
+||fleecedgy.com^
 ||flexcapital.top^
 ||flexjobhubs.com^
 ||flexswiftways.online^
@@ -2791,6 +2792,7 @@
 ||habmentsell.shop^
 ||hacerlouin.com^
 ||hackthissite.org^
+||haglofss.com^
 ||haidth.com^
 ||hakim.media^
 ||halyvvis.com^
@@ -6420,6 +6422,7 @@
 ||whop.com^
 ||whubaesingotbrewer.com^
 ||wiaa.in^
+||wibikesstreet.com^
 ||wichhistor.co.uk^
 ||wideopentriggers.com^
 ||wilbal.com^
