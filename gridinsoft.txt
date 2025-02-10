@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.10.163530.2025
+! Version: 02.10.170056.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 10 16:35:30 UTC 2025
+! Last modified: Mon Feb 10 17:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6719
+! Number of entries: 6722
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -241,6 +241,7 @@
 ||aimxecoin.com^
 ||ainewslive.online^
 ||ainology.com^
+||aiprofit.us^
 ||airbagtravel.store^
 ||airbrush.fr.com^
 ||airdrop.flock.com^
@@ -3862,6 +3863,7 @@
 ||mipng.com^
 ||miracleorganics.online^
 ||mirai123.online^
+||miravia.es^
 ||mischievousflirt.com^
 ||missav.cam^
 ||misterlamp.de^
@@ -5576,6 +5578,7 @@
 ||surl.li^
 ||surveyanswer.xyz^
 ||surveymonkey.com^
+||surveytik.online^
 ||survoom.com^
 ||survyhelp.com^
 ||suspectplainrevulsion.com^
