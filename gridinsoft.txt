@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.10.133334.2025
+! Version: 02.10.140104.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 10 13:33:34 UTC 2025
+! Last modified: Mon Feb 10 14:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6709
+! Number of entries: 6711
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -3963,6 +3963,7 @@
 ||mttsports.com^
 ||mujeresconbienestar.gob.mx.info^
 ||muke.ai^
+||muldellltd.com^
 ||mulherstore.shop^
 ||multicanais.games^
 ||multichant.com^
@@ -5510,6 +5511,7 @@
 ||streakbullexperts.com^
 ||streamworld.co^
 ||streetfair.xyz^
+||strengtheng.fr^
 ||streyker.shop^
 ||strikearchive.com^
 ||strommaglobal.com^
