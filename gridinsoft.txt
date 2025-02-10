@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.10.043508.2025
+! Version: 02.10.050059.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 10 04:35:08 UTC 2025
+! Last modified: Mon Feb 10 05:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6671
+! Number of entries: 6673
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -3088,6 +3088,7 @@
 ||iptvproducts.com^
 ||iptvtvsmarters.com^
 ||iqcent.com^
+||iqcenter.net^
 ||iqmind.co^
 ||iqmining.com^
 ||iqtradegpt.com^
@@ -6336,6 +6337,7 @@
 ||web3.skdalo.xyz^
 ||web3app.org^
 ||web3bay.io^
+||web3cry.cc^
 ||web3duck.com^
 ||web3gpt.rest^
 ||web3gptify.com^
