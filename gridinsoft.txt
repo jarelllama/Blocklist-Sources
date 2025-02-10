@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.10.100054.2025
+! Version: 02.10.103502.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 10 10:00:54 UTC 2025
+! Last modified: Mon Feb 10 10:35:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6692
+! Number of entries: 6695
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -203,6 +203,7 @@
 ||aerodromefi.claims.app^
 ||aeroexperiaservice.com^
 ||aerosdromes.net^
+||aff.nikkymedia.com.ng^
 ||affiliatemarketlite.com^
 ||affirmgrowth.co^
 ||affjumbo.com^
@@ -793,6 +794,7 @@
 ||bitdouble.net^
 ||bitfnx.com^
 ||bitfufu.com^
+||bitgainershub.com^
 ||bitget.cloud^
 ||bitget1.com^
 ||bitget2.com^
@@ -5515,6 +5517,7 @@
 ||sugarsyncglycooptimizer.com^
 ||sugerure.shop^
 ||suivi.france.info^
+||suivre.envoi.com^
 ||sulop.online^
 ||summeyco.online^
 ||summitcapital.ltd^
