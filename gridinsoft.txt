@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.10.004518.2025
+! Version: 02.10.012758.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 10 00:45:18 UTC 2025
+! Last modified: Mon Feb 10 01:27:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6657
+! Number of entries: 6659
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1068,6 +1068,7 @@
 ||bybithodings.com^
 ||bycicle.net^
 ||byproaip.com^
+||bytech.us.com^
 ||bytes.link.online^
 ||bytexcrypto.com^
 ||bzillion.club^
@@ -1100,6 +1101,7 @@
 ||capaciousdrewreligion.com^
 ||capchains.ex.com^
 ||capital.fargofx.ltd^
+||capital.recovery.click^
 ||capital.shares.com^
 ||capital500.co^
 ||capitalbean.com^
