@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.11.043340.2025
+! Version: 02.11.050055.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 11 04:33:40 UTC 2025
+! Last modified: Tue Feb 11 05:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6779
+! Number of entries: 6781
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -939,6 +939,7 @@
 ||bodegamexco.shop^
 ||bodegaurreramxn.com^
 ||bodymove.gr^
+||boeing233.com^
 ||bognerztte.shop^
 ||bogrit.com^
 ||bolderloft.nl^
@@ -4707,6 +4708,7 @@
 ||professional.trading.com^
 ||profit.centr24.ru^
 ||profittrade.live^
+||profumeriearoma.com^
 ||projectplaygroundtech.com^
 ||projektmiesiaca.click^
 ||projetparis.fr^
