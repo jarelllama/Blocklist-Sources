@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.11.000157.2025
+! Version: 02.11.004520.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 11 00:01:57 UTC 2025
+! Last modified: Tue Feb 11 00:45:20 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6756
+! Number of entries: 6759
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -363,6 +363,7 @@
 ||amontreupfr.shop^
 ||amouzo.com^
 ||amp.pemuda138.com^
+||ampay.su^
 ||amrrvip.com^
 ||amuropay.biz^
 ||amyslamps.com^
@@ -1981,6 +1982,7 @@
 ||dtxexchange.com^
 ||du.fastopay.my.uae.com^
 ||dualmine.com^
+||duexpro.co.uk^
 ||duluthtradingusasale.com^
 ||dummud.com^
 ||dunamiscybersolution.com^
@@ -6548,6 +6550,7 @@
 ||wowonlinestores.co.in^
 ||woxdem.com^
 ||wparst.com^
+||wpfots.info^
 ||wqwln8trk.com^
 ||wristpointshop.com^
 ||writeasservice.com^
