@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.11.124220.2025
+! Version: 02.11.130517.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 11 12:42:20 UTC 2025
+! Last modified: Tue Feb 11 13:05:17 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6810
+! Number of entries: 6812
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -3905,6 +3905,7 @@
 ||minicowsranch.com^
 ||mining.online^
 ||mining.tether.com^
+||mining189.com^
 ||miningcompany.ltd^
 ||miningsc.vip^
 ||mininvstplatform.com^
@@ -4725,7 +4726,6 @@
 ||procim.online^
 ||production.hub.cc^
 ||productonline.cloud^
-||professional.trading.com^
 ||profit.centr24.ru^
 ||profittrade.live^
 ||profumeriearoma.com^
@@ -4998,6 +4998,7 @@
 ||remittix.io^
 ||remix.web3console.com^
 ||remoteworkerinternal.co^
+||renatoribeirobmf.com.br^
 ||renmsuq.shop^
 ||renonur.com^
 ||renovix.online^
@@ -5976,6 +5977,7 @@
 ||tradewaves.org^
 ||tradewiseexchange.net^
 ||tradextron.top^
+||trading.com^
 ||trading.elevation.net^
 ||trading.masteredgetrust.com^
 ||tradingaccessfx.com^
