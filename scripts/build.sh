@@ -6,10 +6,10 @@
 readonly DOMAIN_REGEX='[[:alnum:]][[:alnum:].-]*[[:alnum:]]\.[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*'
 
 source_gridinsoft() {
-    local url='https://gridinsoft.com/website-reputation-checker'
+    local source_url='https://gridinsoft.com/website-reputation-checker'
 
     # Some entries have '_' instead of '-' in the domain name
-    curl -sS --retry 2 --retry-all-errors "$url" \
+    curl -sS --retry 2 --retry-all-errors "$source_url" \
         | grep -Po "online-virus-scanner/url/\K[[:alnum:].-_]+-[[:alnum:]-]+(?=\".*--suspicious\">)" \
         | mawk '{gsub(/_/, "-"); gsub(/-/, "."); print}' >> gridinsoft.txt
 
@@ -17,16 +17,26 @@ source_gridinsoft() {
 }
 
 source_easydmarc() {
-    local url='https://easydmarc.com/tools/phishing-url'
+    local source_url='https://easydmarc.com/tools/phishing-url'
 
-    curl -sS --retry 2 --retry-all-errors "$url" \
+    curl -sS --retry 2 --retry-all-errors "$source_url" \
         | grep -Po "https://\K${DOMAIN_REGEX}(?=(/[^/]+)*</a></td><td><span class=\"eas-tag eas-tag--standard eas-tag--red\">SUSPICIOUS)" \
         >> easydmarc.txt
 
     build easydmarc.txt
 }
 
-# Function 'build' formats the blocklist passed.
+source_malwareurl() {
+    local source_url='https://www.malwareurl.com/index.php'
+
+    curl -sS --retry 2 --retry-all-errors "$source_url" \
+        | grep -Po "class=\"text-marked\">\K${DOMAIN_REGEX}(?=</span></li>)" \
+        >> malwareurl.txt
+
+    build malwareurl.txt
+}
+
+# Format the blocklist.
 # Input:
 #   $1: unformatted blocklist to format
 # Output:
@@ -45,16 +55,12 @@ build() {
     # Sort since the hostlist compiler does not sort the domains
     sort -u compiled.tmp -o compiled.tmp
 
-    # Remove dead domains
-    #printf "\n"
-    #dead-domains-linter -a -i compiled.tmp
-
     # Deploy blocklist
     append_header "$1"
     cat compiled.tmp >> "$1"
 }
 
-# Function 'append_header' appends the Adblock Plus header to the blocklist.
+# Append the Adblock Plus header to the blocklist.
 # Input:
 #   $1: blocklist to append header to
 append_header() {
@@ -96,3 +102,5 @@ set -e
 source_gridinsoft
 
 #source_easydmarc
+
+source_malwareurl
