@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.11.160059.2025
+! Version: 02.11.163607.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 11 16:00:59 UTC 2025
+! Last modified: Tue Feb 11 16:36:07 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6821
+! Number of entries: 6826
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -215,6 +215,7 @@
 ||agarwoody.shop^
 ||ageeon.com^
 ||agentdaisy.site^
+||agentpepe.ai^
 ||aggrandize.alliances.com^
 ||agilaclub3.com^
 ||agilecoingain.com^
@@ -3819,6 +3820,7 @@
 ||melbet.india.net^
 ||melunix.com^
 ||melutor.com^
+||meme.bot.trade^
 ||memetrump.org^
 ||memoforce.net^
 ||memubit.com^
@@ -4681,6 +4683,7 @@
 ||pornxp.quest^
 ||portal.worldbusinesspay.com^
 ||portaldedicasonline.com^
+||porteparis.com^
 ||portfolioactivate.com^
 ||portumltd.com^
 ||poseidoncoin.top^
@@ -5711,6 +5714,8 @@
 ||tackleft.com^
 ||tads.baker.co.za^
 ||takchu.com^
+||takemyhairs.com^
+||takemyhairs.top^
 ||takewins.com^
 ||talentloompro.de.com^
 ||talentstreamnet.com^
