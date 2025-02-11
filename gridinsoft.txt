@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.11.030411.2025
+! Version: 02.11.033413.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 11 03:04:11 UTC 2025
+! Last modified: Tue Feb 11 03:34:13 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6770
+! Number of entries: 6772
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -357,6 +357,7 @@
 ||americasvirtualshop.online^
 ||amgesic.com^
 ||amirimexicos.com^
+||ammethy.com^
 ||ammobigsale.shop^
 ||amniktechnologies.com^
 ||amongusonline.io^
@@ -4060,6 +4061,7 @@
 ||nannyirrationalacquainted.com^
 ||naorisprotocol.web.app^
 ||napapijriapps.com^
+||napkforpc.com^
 ||narvafinance.com^
 ||naseebetiris.naseebet77.com^
 ||naseox.org^
