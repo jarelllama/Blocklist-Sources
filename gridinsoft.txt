@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.11.193058.2025
+! Version: 02.11.200058.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 11 19:30:58 UTC 2025
+! Last modified: Tue Feb 11 20:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6850
+! Number of entries: 6853
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1810,6 +1810,7 @@
 ||delicemaison.com^
 ||delifact.com^
 ||delilahskittenparadise.com^
+||delseyworld.com^
 ||delta.coininvestment.com^
 ||delta.electric.top^
 ||delta.exchange^
@@ -4925,6 +4926,7 @@
 ||quantumxexn.org^
 ||quantvine.online^
 ||quantwise.ai^
+||quantyx.io^
 ||quarkaitrade.com^
 ||qubetics.com^
 ||query.redir.com^
@@ -6714,6 +6716,7 @@
 ||xshiba.app^
 ||xtb.com^
 ||xtbinvesting.com^
+||xtcalien.com^
 ||xtoken.presale.com^
 ||xtrade.com^
 ||xtraexcharge.com^
