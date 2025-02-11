@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.11.020107.2025
+! Version: 02.11.024412.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 11 02:01:07 UTC 2025
+! Last modified: Tue Feb 11 02:44:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6767
+! Number of entries: 6769
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2716,6 +2716,7 @@
 ||goldengooseselect.com^
 ||goldengoosetgreece.cc^
 ||goldenpristine.com^
+||goldentrade.life^
 ||golderagifts.com^
 ||golditry.com^
 ||goldmanmarkets.io^
@@ -6036,6 +6037,7 @@
 ||tshilaige.com^
 ||tsyndicate.com^
 ||tt.tiktokmarketplace.online^
+||ttescort.com^
 ||ttoeore.com^
 ||ttslot.com^
 ||ttslot01.com^
