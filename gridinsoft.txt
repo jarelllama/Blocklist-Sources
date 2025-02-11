@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.11.223311.2025
+! Version: 02.11.230052.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 11 22:33:11 UTC 2025
+! Last modified: Tue Feb 11 23:00:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6861
+! Number of entries: 6871
 !
 en.us..lotterydefeated.com
 ||0019.coinbase.com^
@@ -641,6 +641,7 @@ en.us..lotterydefeated.com
 ||bathroomremodelingus1207.online^
 ||bauer.parndorf.at^
 ||baxtertradings.online^
+||bazarswap.com^
 ||bbajya.ahm6185.com^
 ||bbc.tv.org^
 ||bbdoapp.help^
@@ -4076,6 +4077,7 @@ en.us..lotterydefeated.com
 ||mvknnd.online^
 ||mvrglobal.online^
 ||mwmhelphub.com^
+||mx.technolutions.net^
 ||my.bebes.com^
 ||my.commbank.com.au^
 ||my.deco.shop.com^
@@ -4128,6 +4130,7 @@ en.us..lotterydefeated.com
 ||natureflux.shop^
 ||nav43.global.com^
 ||naveskin.store^
+||navorem.com^
 ||navyunhanded.com^
 ||nbysrhcvxzg.shop^
 ||nc.ph.2974.zerads.com^
@@ -4526,6 +4529,7 @@ en.us..lotterydefeated.com
 ||palmesale.shop^
 ||palmettostatearmoryam.store^
 ||palyzoo.online^
+||panbetix.com^
 ||pandapremium.wtf^
 ||pandora.ai.io^
 ||pandoraiptv.net^
@@ -5563,6 +5567,7 @@ en.us..lotterydefeated.com
 ||staemcomunnity.com^
 ||stake786.com^
 ||stakeindexfx.com^
+||stakeso.com^
 ||stakgpdgd.com^
 ||starcici.com^
 ||staregyptgame.online^
@@ -5861,6 +5866,7 @@ en.us..lotterydefeated.com
 ||thepreorderhub.com^
 ||theprimecapital.com^
 ||therealworldjoin.co^
+||therivieraofluck.site^
 ||therrafirms.com^
 ||thespotifypremiumapk.com^
 ||thestockstandout.com^
@@ -5976,6 +5982,7 @@ en.us..lotterydefeated.com
 ||topx.one^
 ||torrentz9.org^
 ||torresip.com^
+||torunex.com^
 ||tosdex.com^
 ||toshiba99.com^
 ||totalwellstore.com^
@@ -6535,6 +6542,7 @@ en.us..lotterydefeated.com
 ||weebull.co^
 ||weedcoffeeshop.eu^
 ||weetarget.online^
+||wegcub.top^
 ||wegmansmall.shop^
 ||wegovy.shop.online^
 ||weichgeback.com^
@@ -6592,6 +6600,7 @@ en.us..lotterydefeated.com
 ||winner.com^
 ||winplay.online^
 ||winsdonechipper.com^
+||winstreasure.com^
 ||wintogetherplan.com^
 ||wintronrtx.com^
 ||wintrustequities.net^
@@ -6853,6 +6862,7 @@ en.us..lotterydefeated.com
 ||zornher.com^
 ||zorunex.com^
 ||zorvalor.com^
+||zovbet.top^
 ||zoveco.com^
 ||zoxtrade.com^
 ||zozo.worldsnow.com^
