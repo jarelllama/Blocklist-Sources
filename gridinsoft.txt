@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.11.012750.2025
+! Version: 02.11.020107.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 11 01:27:50 UTC 2025
+! Last modified: Tue Feb 11 02:01:07 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6760
+! Number of entries: 6767
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -795,6 +795,7 @@
 ||bitcoinfreemining.com^
 ||bitcoinfum.cloud^
 ||bitcoinker.com^
+||bitcoinmining.cyou^
 ||bitcoinmining.pw^
 ||bitcoins.fund.manager.com^
 ||bitcoinsi.com^
@@ -1050,6 +1051,7 @@
 ||builderall.net^
 ||buiudr.com^
 ||bujortca.com^
+||buki.shop.com^
 ||bulanjitu.org^
 ||buletboard.com^
 ||bulksendtokens.xyz^
@@ -1896,6 +1898,7 @@
 ||diwataplay.bet^
 ||dl.surfright.nl^
 ||dlivvplive.com^
+||dmenergy.biz^
 ||dminer.website^
 ||dmjff.com^
 ||dmswebsolution.com^
@@ -2788,6 +2791,7 @@
 ||guaranteeswift.com^
 ||guardwallet.io^
 ||guavarina.com.br^
+||gudjersey.com^
 ||guejoin.com^
 ||guestreservations.com^
 ||gugd.store^
@@ -2888,6 +2892,7 @@
 ||hijra7.online^
 ||hikarudistribution.com^
 ||himalayaoutlet.me^
+||hinataso.com^
 ||hindappstore.com^
 ||hingfck.com^
 ||hippo.mall.vip^
@@ -5031,6 +5036,7 @@
 ||rivobanc.com^
 ||rkbanks.com^
 ||rnkex.net^
+||roadsideassistance24h.com^
 ||roadsilk.top^
 ||robeco.usdt.com^
 ||robenscamping.com^
@@ -6096,6 +6102,7 @@
 ||undetectedbanknotes.com^
 ||undress.xxx^
 ||undressbaby.com^
+||uniassetsglobal.com^
 ||uniceshop.online^
 ||unifiedasset.live^
 ||unifiedtradeoption.pro^
