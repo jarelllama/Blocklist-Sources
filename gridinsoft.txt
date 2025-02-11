@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.11.040101.2025
+! Version: 02.11.043340.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 11 04:01:01 UTC 2025
+! Last modified: Tue Feb 11 04:33:40 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6774
+! Number of entries: 6779
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -395,6 +395,7 @@
 ||anyvoicelab.com^
 ||aouve.store^
 ||apanharwatch.com^
+||apegis.com^
 ||apex.foundation.online^
 ||apex.swift.com^
 ||apexcapital.wealth.com^
@@ -1224,6 +1225,7 @@
 ||cfbit.org^
 ||cfdqqx.com^
 ||cfs.trades.com^
+||chabagsnew.com^
 ||chadstone99.top^
 ||chailic.com^
 ||chainbank.network^
@@ -1879,6 +1881,7 @@
 ||dirtysexywives.com^
 ||dis.solitmc.com^
 ||disciplinen.com^
+||discoplo.com^
 ||discount.area.com^
 ||discountamzn.com^
 ||discountanabolics.com^
@@ -5475,6 +5478,7 @@
 ||spotifymode.com^
 ||spotifypremiumapk.com.co^
 ||spraisy.live^
+||spraygames.com^
 ||springcapipro.com^
 ||springcp.online^
 ||springfieldarmoryarms.com^
@@ -6070,6 +6074,7 @@
 ||tymcra.com^
 ||typoair.com^
 ||tywurystore.buzz^
+||tzdxi.com^
 ||tzoneip.vip^
 ||u.usd.com^
 ||u4usdt.com^
