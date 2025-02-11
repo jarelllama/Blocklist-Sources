@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.11.180105.2025
+! Version: 02.11.183530.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 11 18:01:05 UTC 2025
+! Last modified: Tue Feb 11 18:35:30 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6839
+! Number of entries: 6846
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -134,6 +134,7 @@
 ||aberfields.com^
 ||aberomx.lol^
 ||abestcloths.com^
+||abilityfx.com^
 ||abmintelligent.com^
 ||aboutamir.com^
 ||abppbsdlex.de^
@@ -150,6 +151,7 @@
 ||accounts.avanquest.com^
 ||accu.tech.pro^
 ||accumarkets.live^
+||accurecrypto.com^
 ||ace.capitals.com^
 ||acerintplc.online^
 ||acesports.world^
@@ -168,6 +170,7 @@
 ||action.profits.com^
 ||activations.ledger.com^
 ||activeprobeauty.com^
+||activityuk.shop^
 ||actufinance.fr^
 ||adapterworkshop.com^
 ||adatenight.com^
@@ -805,6 +808,7 @@
 ||bitcoinfum.cloud^
 ||bitcoinker.com^
 ||bitcoinmining.cyou^
+||bitcoinmining.fund^
 ||bitcoinmining.pw^
 ||bitcoins.fund.manager.com^
 ||bitcoinsi.com^
@@ -4891,6 +4895,7 @@
 ||qfsnesara.io^
 ||qhnkbqxqna.shop^
 ||qi38sksl.com^
+||qifava.com^
 ||qigongexercise.com^
 ||qixub.stmaryjoseph.com^
 ||qlmavip.top^
@@ -6668,6 +6673,7 @@
 ||xanarx.live^
 ||xapool.com^
 ||xchallengers.com^
+||xcloudmining.com^
 ||xclusivefxtrade.com^
 ||xcyera.com^
 ||xdopig.com^
@@ -6780,6 +6786,7 @@
 ||zakds.info^
 ||zakworld.ltd^
 ||zalurex.com^
+||zambezifive.com^
 ||zapaka.fr^
 ||zapatillasespanaoutlet.org^
 ||zapsurveys.com^
