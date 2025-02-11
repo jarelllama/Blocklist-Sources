@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.11.083427.2025
+! Version: 02.11.090058.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 11 08:34:27 UTC 2025
+! Last modified: Tue Feb 11 09:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6795
+! Number of entries: 6798
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1040,6 +1040,7 @@
 ||btcminer.uk^
 ||btcotcvip.net^
 ||btcpaypartners.com^
+||btcpromining.com^
 ||btctransferwallet.com^
 ||btcvipotc.com^
 ||btfxtraders.com^
@@ -5451,6 +5452,7 @@
 ||songreviewerww.com^
 ||sony.vod.com^
 ||soonjay.arawbet01.com^
+||sooto.quebec.com^
 ||sopenny.com^
 ||sophie.paris.com^
 ||soportestreaming.online^
@@ -5947,6 +5949,7 @@
 ||trade.emeraltrade.com^
 ||trade2swap.com^
 ||tradecg.company.info^
+||tradeeuglobal.net^
 ||tradefinancebureau.com^
 ||tradefinancial.com^
 ||tradeforger.online^
