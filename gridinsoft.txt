@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.11.080109.2025
+! Version: 02.11.083427.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 11 08:01:09 UTC 2025
+! Last modified: Tue Feb 11 08:34:27 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6792
+! Number of entries: 6795
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2894,6 +2894,7 @@
 ||herpesyls.click^
 ||hesamkianikhah.com^
 ||hexa.watch^
+||hexafiber.com^
 ||heyderbid.com^
 ||heyfuckme.com^
 ||hgtn.fun^
@@ -3110,6 +3111,7 @@
 ||interexpresscourier.com^
 ||interflowlogistic.com^
 ||interiorautoacc.com^
+||interlogistics.com.vn^
 ||internhouse.online^
 ||intimocontenitivo.com^
 ||introtocrypto.xyz^
@@ -3515,6 +3517,7 @@
 ||lihi.cc^
 ||likebargainsothers.world^
 ||lillaloom.com^
+||lilyshop2020.com^
 ||limdex.capital.com^
 ||lime.elysia.47.tiiny.site^
 ||limeremce.com^
