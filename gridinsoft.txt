@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.12.124224.2025
+! Version: 02.12.130504.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 12 12:42:24 UTC 2025
+! Last modified: Wed Feb 12 13:05:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6909
+! Number of entries: 6913
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -168,6 +168,7 @@
 ||acquistadocumenti.com^
 ||acropolisnow.top^
 ||acrossfold.com^
+||actiers.com^
 ||action.profits.com^
 ||activations.ledger.com^
 ||activeprobeauty.com^
@@ -3636,6 +3637,7 @@
 ||looneydodo.com^
 ||lootbar.gg^
 ||lopa.store^
+||lopurez.com^
 ||loranza.nl^
 ||loravelle.com^
 ||loreall.gp.top^
@@ -4519,6 +4521,7 @@
 ||oxblockmines.com^
 ||oxredo.com^
 ||oxylersess.co.in^
+||oziotrader.com^
 ||p000.ph^
 ||p2btradehubx.info^
 ||paatoais.com^
@@ -4788,6 +4791,7 @@
 ||profit.centr24.ru^
 ||profittrade.live^
 ||profumeriearoma.com^
+||programafullpc.com^
 ||projectplaygroundtech.com^
 ||projektmiesiaca.click^
 ||projetparis.fr^
