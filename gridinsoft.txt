@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.12.083432.2025
+! Version: 02.12.090056.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 12 08:34:32 UTC 2025
+! Last modified: Wed Feb 12 09:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6894
+! Number of entries: 6898
 !
 en.us..lotterydefeated.com
 ||0019.coinbase.com^
@@ -2408,6 +2408,7 @@ en.us..lotterydefeated.com
 ||fintechmexicofestival.com^
 ||fintxpert.com^
 ||finzennews.com^
+||fireonfootball.com^
 ||firmco.mobility.com^
 ||firmdrexworld.com^
 ||firstcomfortsgroup.com^
@@ -4365,6 +4366,7 @@ en.us..lotterydefeated.com
 ||okpay.bar^
 ||oksaleonline.com^
 ||okwintss.com^
+||okxmax.io^
 ||okxtrade.org^
 ||oldendroff.com^
 ||oldschoolbux.com^
@@ -4986,6 +4988,7 @@ en.us..lotterydefeated.com
 ||rapelust.com^
 ||rapiddigitalrecovery.org^
 ||rapidtransitmodels.com^
+||rareanimes.net^
 ||rarechemsonline.org^
 ||ravvisa.com^
 ||raweggs.cc^
@@ -5555,6 +5558,7 @@ en.us..lotterydefeated.com
 ||spoorme.com^
 ||sport.prints.online^
 ||sportarenastores.shop^
+||sportchekca.com^
 ||sportsalpin.com^
 ||sportzone3.com^
 ||spotifyinfo.app^
