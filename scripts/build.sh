@@ -10,8 +10,8 @@ source_gridinsoft() {
 
     # Some entries have '_' instead of '-' in the domain name
     curl -sS --retry 2 --retry-all-errors "$source_url" \
-        | grep -Po "online-virus-scanner/url/\K[[:alnum:].-_]+-[[:alnum:]-]+(?=\".*--suspicious\">)" \
-        | mawk '{gsub(/_/, "-"); gsub(/-/, "."); print}' >> gridinsoft.txt
+        | grep -Po 'online-virus-scanner/url/\K[[:alnum:]][[:alnum:].-_]*[[:alnum:]]-[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*(?=" class="websiteReportItem websiteReportItem--suspicious">)' \
+        | mawk '{ gsub(/_/, "-"); gsub(/-/, "."); print }' >> gridinsoft.txt
 
     build gridinsoft.txt
 }
@@ -79,13 +79,9 @@ append_header() {
 EOF
 }
 
-cleanup() {
-    find . -maxdepth 1 -type f -name "*.tmp" -delete
-}
-
 # Entry point
 
-trap cleanup EXIT
+trap 'rm ./*.tmp 2> /dev/null || true' EXIT
 
 # Install AdGuard's Dead Domains Linter
 if ! command -v dead-domains-linter &> /dev/null; then

@@ -9,7 +9,6 @@
 ! Syntax: Adblock Plus
 ! Number of entries: 6900
 !
-en.us..lotterydefeated.com
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
 ||02bitx.com^
