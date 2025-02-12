@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.12.073036.2025
+! Version: 02.12.080114.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 12 07:30:36 UTC 2025
+! Last modified: Wed Feb 12 08:01:14 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6892
+! Number of entries: 6893
 !
 en.us..lotterydefeated.com
 ||0019.coinbase.com^
@@ -4486,6 +4486,7 @@ en.us..lotterydefeated.com
 ||ostehard.com^
 ||osurx.com^
 ||ota.partnership.com^
+||otakuanimezone.shop^
 ||otcpets.com^
 ||otherstoriessale.shop^
 ||ourcoincash.xyz^
