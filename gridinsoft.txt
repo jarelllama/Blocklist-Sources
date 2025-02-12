@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.12.200056.2025
+! Version: 02.12.203212.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 12 20:00:56 UTC 2025
+! Last modified: Wed Feb 12 20:32:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6953
+! Number of entries: 6955
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1271,6 +1271,7 @@
 ||changelon.com^
 ||chaparriexpeditions.com^
 ||charmcot.com^
+||charming.lady.com^
 ||charmingfavor.com^
 ||chassoutlel.shop^
 ||chat.ichatlink.net^
@@ -2470,6 +2471,7 @@
 ||floraltide.com^
 ||flotr.online^
 ||flowermountainstore.shop^
+||flowers4dallas.com^
 ||flowfaucet.online^
 ||flowzapakda.top^
 ||flrdroplines.com^
