@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.12.120101.2025
+! Version: 02.12.124224.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 12 12:01:01 UTC 2025
+! Last modified: Wed Feb 12 12:42:24 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6906
+! Number of entries: 6909
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -4848,6 +4848,7 @@
 ||pu220ev.com^
 ||pub.c5acfd5a4f1943a7bfc858676472adce.r2.dev^
 ||pubgrlxvote.top^
+||publicacoesonline.com.br^
 ||publicznenewsy.click^
 ||publikacjadanych.click^
 ||pudcapsminners.pro^
@@ -4855,6 +4856,7 @@
 ||pulaski.towing.top^
 ||pulimore.com^
 ||pullix.io^
+||pullocabless.co.in^
 ||pulpysearch.com^
 ||pulsed.fr^
 ||pulsenotifynow.top^
@@ -5407,6 +5409,7 @@
 ||sigmaweb.online^
 ||signalarchitects.cloud^
 ||signalpeak.io^
+||signaturescbk.com^
 ||silegx.org^
 ||silentun.com^
 ||silverlinktechnologies.com^
