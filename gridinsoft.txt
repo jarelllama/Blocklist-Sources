@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.12.060058.2025
+! Version: 02.12.063545.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 12 06:00:58 UTC 2025
+! Last modified: Wed Feb 12 06:35:45 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6890
+! Number of entries: 6891
 !
 en.us..lotterydefeated.com
 ||0019.coinbase.com^
@@ -3655,6 +3655,7 @@ en.us..lotterydefeated.com
 ||lovemyparfum.com^
 ||loverzsk.best^
 ||lovesapar.click^
+||lovinghosethus.com^
 ||lowaespana.es^
 ||lowandeasylending.com^
 ||lowhofour.life^
