@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.12.190053.2025
+! Version: 02.12.193050.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 12 19:00:53 UTC 2025
+! Last modified: Wed Feb 12 19:30:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6948
+! Number of entries: 6951
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1268,6 +1268,7 @@
 ||chalaorry.shop^
 ||changeip.net^
 ||changelon.com^
+||chaparriexpeditions.com^
 ||charmcot.com^
 ||charmingfavor.com^
 ||chassoutlel.shop^
@@ -5495,6 +5496,7 @@
 ||sleepwelldental.online^
 ||slexiodr.cc^
 ||slexionz.cc^
+||slimfling.com^
 ||slmsbz.com^
 ||slot.lots.com^
 ||slot2024c.bet^
@@ -6770,6 +6772,7 @@
 ||xai79a.com^
 ||xanarx.live^
 ||xapool.com^
+||xcexextw.com^
 ||xchallengers.com^
 ||xcloudmining.com^
 ||xclusivefxtrade.com^
