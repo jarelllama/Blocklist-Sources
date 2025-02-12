@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.12.210054.2025
+! Version: 02.12.213053.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 12 21:00:54 UTC 2025
+! Last modified: Wed Feb 12 21:30:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6956
+! Number of entries: 6965
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -898,6 +898,7 @@
 ||bitxglobal.exchange^
 ||bitxplorers.org^
 ||bitzealy.com^
+||bitzena.com^
 ||bitzofi.pro^
 ||bitzoy.com^
 ||bixcointrading.com^
@@ -1213,6 +1214,7 @@
 ||casioeesti.com^
 ||cassappcard.com^
 ||castarsdk.com^
+||casvix.com^
 ||casvnm.com^
 ||catenarydojo.com^
 ||caterpillarargentinaonline.com^
@@ -2152,6 +2154,7 @@
 ||elonactivemarket.com^
 ||elonbet.com^
 ||elonearn.pro^
+||elontocas.com^
 ||elyaevents.com^
 ||elysiumvip.top^
 ||elysse.store^
@@ -2678,6 +2681,7 @@
 ||genwoleads.top^
 ||geographz.com^
 ||geoxsdiscountshop.com^
+||germ4.com^
 ||get.activated.win^
 ||get.matsato.com^
 ||getcommunitytrumpmemes.com^
@@ -3281,6 +3285,7 @@
 ||jerseyeugee.com^
 ||jesellear.best^
 ||jessemade.es^
+||jetluck.com^
 ||jetmarssofertas.online^
 ||jewelrygiftcenter.com^
 ||jewelrysgiftstore.com^
@@ -4179,6 +4184,7 @@
 ||nav43.global.com^
 ||naveskin.store^
 ||navorem.com^
+||navorex.com^
 ||navyunhanded.com^
 ||nbysrhcvxzg.shop^
 ||nc.ph.2974.zerads.com^
@@ -4338,6 +4344,7 @@
 ||nowmining.fun^
 ||nowquality.ca^
 ||noxgu.com^
+||noxmy.com^
 ||npebr8trk.com^
 ||nrilimited.com^
 ||nrsa.in^
@@ -5365,6 +5372,7 @@
 ||senteted.com^
 ||seokore.com^
 ||sepholormophi.com^
+||serbet.top^
 ||serenbrisk.com^
 ||serenifty.com^
 ||sereno.madrid.com^
@@ -6161,6 +6169,7 @@
 ||tronminingfarm.com^
 ||tronok.cloud^
 ||tronok.x.app^
+||tronomicx.com^
 ||tronvortex.com^
 ||trophycase.cc^
 ||troyers.info^
