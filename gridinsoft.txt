@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.12.213053.2025
+! Version: 02.12.220101.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 12 21:30:53 UTC 2025
+! Last modified: Wed Feb 12 22:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6965
+! Number of entries: 6971
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1572,6 +1572,7 @@
 ||crownpointfin.com^
 ||crsverify.online^
 ||crushon.ai^
+||crydapp.ai^
 ||cryp22earn.com^
 ||cryptallstars.online^
 ||cryptcrestltd.com^
@@ -1687,6 +1688,7 @@
 ||daily.deals.sale^
 ||daily2jili8.vip^
 ||daily4texas.com^
+||dailydoseofleaks.com^
 ||dailyfreebits.com^
 ||dailygivebacks.com^
 ||dailyjili10.club^
@@ -1723,6 +1725,7 @@
 ||datmyx.online^
 ||dauntlessgpautobot.pro^
 ||daviliem.shop^
+||davyholdenhistory.com^
 ||dawnfelt.com^
 ||daxpulse.com^
 ||daxtok.com^
@@ -2944,6 +2947,7 @@
 ||hedahour.com^
 ||hedgeincrease.com^
 ||helenaatelier.com^
+||helikon.texoffxp.shop^
 ||hello.hello.site^
 ||hellokitty.store.com^
 ||hellotripsitters.com^
@@ -5721,6 +5725,7 @@
 ||stupidus.top^
 ||stusdt.world^
 ||stylesock.com^
+||stylexlab.com^
 ||styline.shop^
 ||styvor.com^
 ||subduedespana.com^
@@ -6857,6 +6862,7 @@
 ||yieldboostinvests.com^
 ||yilettt.shop^
 ||yiminstyle.com^
+||yinghe.app^
 ||yinxing.info^
 ||yishyhu.com^
 ||ynmufr.9l5lortoe.top^
