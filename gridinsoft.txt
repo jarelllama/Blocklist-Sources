@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.12.090056.2025
+! Version: 02.12.093202.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 12 09:00:56 UTC 2025
+! Last modified: Wed Feb 12 09:32:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6898
+! Number of entries: 6900
 !
 en.us..lotterydefeated.com
 ||0019.coinbase.com^
@@ -2811,6 +2811,7 @@ en.us..lotterydefeated.com
 ||great.citycb.com^
 ||greatnewoffr.org^
 ||greatsealbadge.com^
+||greendoge.live^
 ||greenharrmonyherb.com^
 ||greenlanemarketing.bond^
 ||greenpeople.life^
@@ -6238,6 +6239,7 @@ en.us..lotterydefeated.com
 ||universe.sandbox.2.free.com^
 ||uniwin.top^
 ||unleashexchange.online^
+||unlimited.offer.kesug.com^
 ||unlockcontent.org^
 ||unlockriver.com^
 ||unltee.com^
