@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.12.180103.2025
+! Version: 02.12.183601.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 12 18:01:03 UTC 2025
+! Last modified: Wed Feb 12 18:36:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6943
+! Number of entries: 6946
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1524,6 +1524,7 @@
 ||costexcorporation.com^
 ||cosycustume.com^
 ||cotizadorsoat.segurosdelestado.com^
+||coupangsell.com^
 ||couplemagnates.shop^
 ||couponxoo.com^
 ||courieam.xin^
@@ -6374,7 +6375,9 @@
 ||valises.stopepa.org^
 ||valtenz.top^
 ||valuefirm.us^
+||valueinvestingcollective.com^
 ||valueversion.com^
+||valutrades.io^
 ||valxcane.lol^
 ||vanadex.com^
 ||vanbet.top^
