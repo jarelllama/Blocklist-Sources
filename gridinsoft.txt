@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.12.143339.2025
+! Version: 02.12.150108.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 12 14:33:39 UTC 2025
+! Last modified: Wed Feb 12 15:01:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6921
+! Number of entries: 6925
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -440,6 +440,7 @@
 ||app.mediaplayhihi.com^
 ||app.meteora.ag^
 ||app.olet8.com^
+||app.primeopinion.com^
 ||app.privatecoin.net^
 ||app.sanagl.cc^
 ||app.solaspy.io^
@@ -1671,6 +1672,7 @@
 ||d3bqx5dvn4460l.drnppqmp.cc^
 ||d3pcx41g7mhiud.cloudfront.net^
 ||d4iqpj8tqft8l.cloudfront.net^
+||daarklabsuplementos.com^
 ||dagahna.fun^
 ||daily.deals.sale^
 ||daily2jili8.vip^
@@ -2478,6 +2480,7 @@
 ||fokuskan.diri.shop^
 ||followgram.co^
 ||followthepromo.com^
+||fonsatrade.com^
 ||foonlab.net^
 ||footballdisease.com^
 ||footboom1.com^
@@ -5034,6 +5037,7 @@
 ||reasonablu.com^
 ||rebasedex.cloud^
 ||rebelsatoshi.com^
+||recaptcha.verify.9n.pages.dev^
 ||recaptchav2.com^
 ||recetasexpres.com^
 ||reclaimbackassets.com^
