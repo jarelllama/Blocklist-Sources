@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.12.153257.2025
+! Version: 02.12.160103.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 12 15:32:57 UTC 2025
+! Last modified: Wed Feb 12 16:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6925
+! Number of entries: 6927
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2030,6 +2030,7 @@
 ||dualmine.com^
 ||dualtricks.in^
 ||duexpro.co.uk^
+||dukastradefx.com^
 ||duluthtradingusasale.com^
 ||dummud.com^
 ||dunamiscybersolution.com^
@@ -4249,6 +4250,7 @@
 ||nexusaaso5kxt75bigvtixw63dot3mnthl3pwqxg4d6tlj5yfqjuviid.online^
 ||nexustvonline.com^
 ||nfbu.store^
+||nflix.workoffice.com^
 ||nfs.eletronica.dezembro.com^
 ||nfs.fazenda.empresas.com^
 ||nfseletronica.fazenda.com^
