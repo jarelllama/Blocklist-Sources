@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.12.160103.2025
+! Version: 02.12.163547.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 12 16:01:03 UTC 2025
+! Last modified: Wed Feb 12 16:35:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6927
+! Number of entries: 6931
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -591,6 +591,7 @@
 ||aviation.ancienne.forumactif.com^
 ||avillioncapital.org^
 ||avirus.hu^
+||avitechwin.co.in^
 ||avlissatdnagait.online^
 ||avrixdynamiservices.com^
 ||awkngtv.org^
@@ -2452,6 +2453,7 @@
 ||flexjobhubs.com^
 ||flexswiftways.online^
 ||flhtbill.com^
+||flibex.com^
 ||flightpath.vip.com^
 ||flirt4free.com^
 ||flirtingplaza.com^
@@ -2939,6 +2941,7 @@
 ||herbelladay.com^
 ||hereford123.cc^
 ||hermez4dx500.com^
+||herolomyotoseum.co.in^
 ||herotoyshop.com^
 ||herpesyls.click^
 ||hesamkianikhah.com^
@@ -4068,6 +4071,7 @@
 ||movil.ing.soporte.com^
 ||moxwin.top^
 ||mpc7.cc^
+||mqueercr.monster^
 ||mqyn.odqmjbta.shop^
 ||mr.verify.net^
 ||mrandmrsfastsale.com^
