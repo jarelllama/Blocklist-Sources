@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.12.220101.2025
+! Version: 02.12.223259.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 12 22:01:01 UTC 2025
+! Last modified: Wed Feb 12 22:32:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6971
+! Number of entries: 6974
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1615,6 +1615,7 @@
 ||cryptominingworld.shop^
 ||cryptomission.io^
 ||cryptoneerpro.com^
+||cryptoonchai.com^
 ||cryptoplace.site^
 ||cryptoplanetsx.net^
 ||cryptorecovers.com^
@@ -2611,6 +2612,7 @@
 ||fxcrypto.live^
 ||fxddarab.online^
 ||fxlvls.com^
+||fxmedallion.com^
 ||fxminedeotra.com^
 ||fxnexapipstream.com^
 ||fxpipstrading.com^
@@ -3456,6 +3458,7 @@
 ||kobaltoutletstore.com^
 ||kobominer.site^
 ||kofixgroup.com^
+||koinfleet.com^
 ||kokaindrogekaufen.com^
 ||koko101.com^
 ||kolem.shop^
