@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.12.163547.2025
+! Version: 02.12.170058.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 12 16:35:47 UTC 2025
+! Last modified: Wed Feb 12 17:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6931
+! Number of entries: 6936
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1164,6 +1164,7 @@
 ||capitalfieldinvestment.ltd^
 ||capitalgrowthalliance.org^
 ||capitalix.com^
+||capitalmanager.net^
 ||capitalmastery.org^
 ||capitalquesttrades.com^
 ||capitalsprings.info^
@@ -3114,6 +3115,7 @@
 ||iklktec.com^
 ||ilclawgroup.com^
 ||illuminatitemplo.org^
+||imagiashop.com^
 ||imbictoz.com^
 ||immediate.daypro.co^
 ||immediateexalgoai.com^
@@ -3537,6 +3539,7 @@
 ||lemovax.com^
 ||leniaudelectromenager.com^
 ||leonemicrofinance.com^
+||leonneo.com^
 ||leparis.club^
 ||lepetitportailbasque.com^
 ||lesparentszens.acemlnb.com^
@@ -4591,6 +4594,7 @@
 ||parkit.nc.com^
 ||parksideatvip.shop^
 ||parksideclearance.com^
+||parksideofficials.com^
 ||parksidept.shop.com^
 ||parksides.net^
 ||parksidestores.com^
@@ -5442,6 +5446,7 @@
 ||simon.frei.pc.online^
 ||simontok.fans^
 ||simplefarmacias.com^
+||simpleunlimitedwealth.com^
 ||simpsonai.club^
 ||simranparajapati.com^
 ||sincerityy.com^
