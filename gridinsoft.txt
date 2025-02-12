@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.12.103423.2025
+! Version: 02.12.110101.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 12 10:34:23 UTC 2025
+! Last modified: Wed Feb 12 11:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6903
+! Number of entries: 6906
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -550,6 +550,7 @@
 ||atualcance.online^
 ||au24shop.com^
 ||aubuds.com^
+||aukit.co^
 ||aukweb3.com^
 ||auraaccessorize.com^
 ||auraexchangehub.com^
@@ -1140,6 +1141,7 @@
 ||campershoessales1.best^
 ||canadagunsandammo.com^
 ||canadaposts.cc^
+||canadatusso.com^
 ||canadianwealthtrust.com^
 ||cancerdecodedseries.com^
 ||canconsulting.in^
@@ -3909,6 +3911,7 @@
 ||microsoftmailgfcyggwfaomrdta.tiponside.com^
 ||microsoftuj.cz^
 ||microstrategy.xin^
+||midgetsporn.com^
 ||midlandintercontinental.com^
 ||midly.in^
 ||midsizedcars.com^
