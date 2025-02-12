@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.12.000159.2025
+! Version: 02.12.004520.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 12 00:01:59 UTC 2025
+! Last modified: Wed Feb 12 00:45:20 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6876
+! Number of entries: 6879
 !
 en.us..lotterydefeated.com
 ||0019.coinbase.com^
@@ -4566,6 +4566,7 @@ en.us..lotterydefeated.com
 ||pastelunm.com^
 ||pataugasenligne.com^
 ||patek.ydx.com^
+||pathtruths.com^
 ||patioupre.com^
 ||patsao.com^
 ||paulheilman.shop^
@@ -5924,6 +5925,7 @@ en.us..lotterydefeated.com
 ||tionoc.net^
 ||tipobet6474.com^
 ||tistokmall.pro^
+||tita.group.it.com^
 ||titan13.com^
 ||titfinder.com^
 ||tixuren.com^
@@ -6193,6 +6195,7 @@ en.us..lotterydefeated.com
 ||ultimatefinance.co.in^
 ||ultiverseoption.com^
 ||ultracapitals.org^
+||ultraoption.online^
 ||umamiicrate.store^
 ||umarinfomobiles.online^
 ||umrahcabonline.com^
