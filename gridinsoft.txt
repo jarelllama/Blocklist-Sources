@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.12.173244.2025
+! Version: 02.12.180103.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 12 17:32:44 UTC 2025
+! Last modified: Wed Feb 12 18:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6939
+! Number of entries: 6943
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1883,6 +1883,7 @@
 ||dhlmall.vip^
 ||diamantemcb.us^
 ||diamondjack.top^
+||diaonm.com^
 ||dibitcoin.com^
 ||dickies.com.es^
 ||dicksportingwholesale.com^
@@ -3463,6 +3464,7 @@
 ||krpod.com^
 ||kryptos.io^
 ||ksda.online.org^
+||ksxsg.com^
 ||kuailuon.com^
 ||kubabuy.com^
 ||kucoinc.com^
@@ -4972,6 +4974,7 @@
 ||qr1.be^
 ||qrefuishz.monster^
 ||qruirseven.com^
+||qshinglez.lol^
 ||qtvvcshop.com^
 ||qtwaieraxglobo.com^
 ||quality.cures.com^
@@ -6571,6 +6574,7 @@
 ||wealthytradesinvestors.com^
 ||wealttradershalliance.com^
 ||wearbreeze.co^
+||wearjade.store^
 ||wearychallengeraise.com^
 ||weastto.com^
 ||weatherbeetaery.top^
