@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.12.130504.2025
+! Version: 02.12.133326.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 12 13:05:04 UTC 2025
+! Last modified: Wed Feb 12 13:33:26 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6913
+! Number of entries: 6918
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -382,6 +382,7 @@
 ||amzreturnsalebox.com^
 ||an.post.ie.com^
 ||anabolenverkoop.net^
+||anabolic.bitcoin.com^
 ||analdin.com^
 ||anamodashop.com^
 ||anaxdex.com^
@@ -1192,6 +1193,7 @@
 ||carolbradley.shop^
 ||carousel51.com^
 ||carousell585.vip^
+||carpinistore.com^
 ||carrepairus0507.online^
 ||carte.grise.france.fr^
 ||cartradinghub.com^
@@ -2983,6 +2985,7 @@
 ||homebasetrading.com^
 ||homebymeagency.com^
 ||homecleaners.online^
+||homegroth.com^
 ||homeika.com^
 ||homelava.com^
 ||homepillowfort.com^
@@ -5093,6 +5096,7 @@
 ||retromoods.com^
 ||retropixellc.com^
 ||reupsupplies.com^
+||revalationtradehubs.com^
 ||revanced.net^
 ||revealgenderonline.com^
 ||reventa.co^
@@ -5698,6 +5702,7 @@
 ||sunehladeal.com^
 ||sunnygo.co.uk^
 ||sunriseshop.in^
+||sunsetln.com^
 ||suny77.online^
 ||sunyiying.com^
 ||super.ai.me^
