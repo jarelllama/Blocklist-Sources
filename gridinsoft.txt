@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.12.100102.2025
+! Version: 02.12.103423.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 12 10:01:02 UTC 2025
+! Last modified: Wed Feb 12 10:34:23 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6900
+! Number of entries: 6903
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1219,6 +1219,7 @@
 ||cbex3.com^
 ||cbex9.com^
 ||cbtfturbo99.com^
+||cbverify.top^
 ||ccard50.ru^
 ||ccsnkrs.store^
 ||ccuqjc.top^
@@ -2623,6 +2624,7 @@
 ||garizi.co^
 ||garrysignals.com^
 ||gaspol268.com^
+||gaypornbuddy.com^
 ||gcgold.club^
 ||gdcecusd.com^
 ||gdmining.site^
@@ -2876,6 +2878,7 @@
 ||handytoolsale.com^
 ||hansen.oslo.com^
 ||happyfresh.no^
+||happyporns.com^
 ||happyvape.nl^
 ||happyvilleonline.com^
 ||hardblock.com.au^
@@ -3061,6 +3064,7 @@
 ||hxsc.store^
 ||hxxokerase.fyi^
 ||hyperbit.biz^
+||hyperbot.fun^
 ||hyph666.win^
 ||hyteg.lansemeiyunbunchuanxishi.top^
 ||i.apple.com.tr^
