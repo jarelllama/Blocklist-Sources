@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.12.050100.2025
+! Version: 02.12.053249.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 12 05:01:00 UTC 2025
+! Last modified: Wed Feb 12 05:32:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6888
+! Number of entries: 6890
 !
 en.us..lotterydefeated.com
 ||0019.coinbase.com^
@@ -1284,6 +1284,7 @@ en.us..lotterydefeated.com
 ||childrenshealthintl.org^
 ||chillpotrandom.com^
 ||chocolitodoraemonhunt.com^
+||choiceclothes.xyz^
 ||christianlouboutinmexicos.top^
 ||christmas.decors.com^
 ||christopherchaves.com^
@@ -4709,6 +4710,7 @@ en.us..lotterydefeated.com
 ||policja.pl112.online^
 ||policyautosave.com^
 ||polpick.io^
+||polvfbks.info^
 ||popmart.mx.com^
 ||popmartoficial.com^
 ||popmartonline.my.asia^
