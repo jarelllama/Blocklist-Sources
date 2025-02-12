@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.12.030320.2025
+! Version: 02.12.033350.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 12 03:03:20 UTC 2025
+! Last modified: Wed Feb 12 03:33:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6881
+! Number of entries: 6886
 !
 en.us..lotterydefeated.com
 ||0019.coinbase.com^
@@ -226,6 +226,7 @@ en.us..lotterydefeated.com
 ||agilaclub3.com^
 ||agilecoingain.com^
 ||agonas.techubz.com^
+||agoradrugstore.org^
 ||agribicerhansolutionsltd.net^
 ||agrozenith.org^
 ||agyabashipping.com^
@@ -402,6 +403,7 @@ en.us..lotterydefeated.com
 ||anti.fraudcentre.com^
 ||antibot.v2.com^
 ||antigellingeriesale.com^
+||anxietyaids.org^
 ||anyvoicelab.com^
 ||aouve.store^
 ||apanharwatch.com^
@@ -2562,6 +2564,7 @@ en.us..lotterydefeated.com
 ||fusion.gain.cfd^
 ||fustorix.com^
 ||futurecryptominer.com^
+||futurenft.net^
 ||futuresprous.com^
 ||futurewisehub.com^
 ||futurofinanzachile.com^
@@ -3173,6 +3176,7 @@ en.us..lotterydefeated.com
 ||iptvnw.us^
 ||iptvpremier.fr^
 ||iptvproducts.com^
+||iptvsreseller.com^
 ||iptvtvsmarters.com^
 ||iqcent.com^
 ||iqcenter.net^
@@ -4413,6 +4417,7 @@ en.us..lotterydefeated.com
 ||onlineforeignexchangeplatform.icu^
 ||onlinegalaxus.net^
 ||onlinematpilates.com^
+||onlinemedsguru.com^
 ||onlinemoneyloans860973.icu^
 ||onlinemostwanted.com^
 ||onlineotizmdanisma.com^
