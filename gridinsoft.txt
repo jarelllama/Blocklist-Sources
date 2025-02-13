@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.143341.2025
+! Version: 02.13.150105.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 14:33:41 UTC 2025
+! Last modified: Thu Feb 13 15:01:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7048
+! Number of entries: 7050
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -4491,6 +4491,7 @@
 ||oncloud.shoes.us.com^
 ||onconferences.com.jmailroute.net^
 ||ondasvirtuais.online^
+||oneaceglobal.com^
 ||oneck.vip^
 ||oneclickmart.online^
 ||onefarm.pro^
@@ -5733,6 +5734,7 @@
 ||startwrit.com^
 ||stateonlineauction.com^
 ||static.olymptrade.com^
+||statspoot.com^
 ||stavelux.net^
 ||stealthmist.com^
 ||steam.communitychartsdev.com^
