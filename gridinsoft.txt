@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.012749.2025
+! Version: 02.13.020136.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 01:27:49 UTC 2025
+! Last modified: Thu Feb 13 02:01:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6979
+! Number of entries: 6982
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1300,6 +1300,7 @@
 ||chiefaiofficer.biz^
 ||childrenshealthintl.org^
 ||chillpotrandom.com^
+||chinchincasino.com^
 ||chocolitodoraemonhunt.com^
 ||choiceclothes.xyz^
 ||christianlouboutinmexicos.top^
@@ -3553,6 +3554,7 @@
 ||ledgerlock.io^
 ||ledsmdlight.com^
 ||leftisaldopt.shop^
+||legacy.coin.com^
 ||legacyoptions.org^
 ||legend88juara.online^
 ||legendplay.online.com^
@@ -5660,6 +5662,7 @@
 ||stakeindexfx.com^
 ||stakeso.com^
 ||stakgpdgd.com^
+||stampstorenew.com^
 ||starcici.com^
 ||staregyptgame.online^
 ||stargazecapital.co^
