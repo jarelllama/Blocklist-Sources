@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.213049.2025
+! Version: 02.13.220104.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 21:30:49 UTC 2025
+! Last modified: Thu Feb 13 22:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7085
+! Number of entries: 7091
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -255,6 +255,7 @@
 ||aiignedfoundation.genesis.com^
 ||aiinvesttron.com^
 ||aimbotfortnite.org^
+||aimrents.com^
 ||aimxecoin.com^
 ||aineel.com^
 ||ainewslive.online^
@@ -952,6 +953,7 @@
 ||bloxevent.org^
 ||bloxtools.ca^
 ||blue798798.com^
+||bluebear.foundation^
 ||bluewhaleapps.life^
 ||blulumxn.vip^
 ||blumeheat.shop^
@@ -1515,6 +1517,7 @@
 ||comfyonline.app^
 ||comic.hupshop.com^
 ||comicoml.com^
+||committedworld.com^
 ||communaltrades.com^
 ||communitydisscussion.com^
 ||compare.deals.online.info^
@@ -4785,6 +4788,7 @@
 ||phonetopups.com^
 ||photographingge.com^
 ||photoviewave.com^
+||phpgames31.com^
 ||phrush27859.com^
 ||phub.at^
 ||physichope.com^
@@ -5698,6 +5702,7 @@
 ||spctravelads.com^
 ||spec1trend8.shop^
 ||special.sale.sbs^
+||specialsurprises.online^
 ||specialtyvehiclesoftulsa.com^
 ||spectrumsbaloans.com^
 ||speedii.shop^
@@ -6008,6 +6013,7 @@
 ||thebestofferforyoutoday.online^
 ||thebestpdf.com^
 ||thebrighthotel.website^
+||thebrooklynguitarshow.com^
 ||thecapitalholdings.io^
 ||thecardvaultsstore.com^
 ||thecardvaultstore.com^
