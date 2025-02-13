@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.030346.2025
+! Version: 02.13.033354.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 03:03:46 UTC 2025
+! Last modified: Thu Feb 13 03:33:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6986
+! Number of entries: 6989
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -536,6 +536,7 @@
 ||astroearning.site^
 ||astropayminer.com^
 ||asusboard.cn^
+||ataash.com^
 ||atamedya.shop^
 ||ataraxonline.net^
 ||atb14.com^
@@ -3333,6 +3334,7 @@
 ||jollypulse.co.in^
 ||josephina.shop^
 ||joycv.com^
+||joyeuxliens.com^
 ||joyfball.com^
 ||jpgcompressor.online^
 ||jpm.financial.com^
@@ -5814,6 +5816,7 @@
 ||swift.asset.com^
 ||swift.blink.com^
 ||swiftcryptox.com^
+||swiftdebtassist.com^
 ||swiftfinverge.com^
 ||swiftpaytb.net^
 ||swiftradinginvestpro.com^
