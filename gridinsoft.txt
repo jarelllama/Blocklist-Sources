@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.033354.2025
+! Version: 02.13.040053.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 03:33:54 UTC 2025
+! Last modified: Thu Feb 13 04:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6989
+! Number of entries: 6994
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1307,6 +1307,7 @@
 ||choiceclothes.xyz^
 ||christianlouboutinmexicos.top^
 ||christmas.decors.com^
+||christmashiba.xyz^
 ||christopherchaves.com^
 ||chrossx.com^
 ||chuddahs.com^
@@ -1437,6 +1438,7 @@
 ||codprize.com^
 ||coeursinconnus.com^
 ||cohenxy.com^
+||coin.a.com^
 ||coin.go.in^
 ||coin.gofastgo.online^
 ||coinank.com^
@@ -2482,6 +2484,7 @@
 ||flirt4free.com^
 ||flirtingplaza.com^
 ||floattrust.com^
+||flokisanta.christmas^
 ||flomac.shop^
 ||floraltide.com^
 ||flotr.online^
@@ -3100,6 +3103,7 @@
 ||hululusol.com^
 ||hummingbirdbsc.xyz^
 ||hunnybank.com^
+||hushedhype.co^
 ||hustlersuniversityapp.com^
 ||hvuaill.com^
 ||hwg.lol^
@@ -6171,6 +6175,7 @@
 ||trendiano.in^
 ||trendly24.com^
 ||trendmartus.com^
+||trendnestw.com^
 ||trendyhubllc.shop^
 ||trianz.life^
 ||trimalajucredit.com^
