@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.080112.2025
+! Version: 02.13.083441.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 08:01:12 UTC 2025
+! Last modified: Thu Feb 13 08:34:41 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7012
+! Number of entries: 7015
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1599,6 +1599,7 @@
 ||crypto.culture.xyz^
 ||crypto.currency.group^
 ||crypto.hold.com^
+||crypto.miner.co^
 ||crypto.motorsports.com^
 ||crypto360talks.com^
 ||crypto4u.news^
@@ -1753,6 +1754,7 @@
 ||dcard50.ru^
 ||dcodesnippet.com^
 ||dcqww.com^
+||ddbminer.com^
 ||ddsteel.online^
 ||deacetrader.com^
 ||dealzforu.pro^
@@ -6362,6 +6364,7 @@
 ||upjmall.info^
 ||uploadhaven.com^
 ||uploadmall.com^
+||upshoparg.com^
 ||upstinatolos.com^
 ||urbantapes.com^
 ||urbanwuff.store^
