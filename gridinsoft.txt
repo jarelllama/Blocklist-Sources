@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.150105.2025
+! Version: 02.13.153155.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 15:01:05 UTC 2025
+! Last modified: Thu Feb 13 15:31:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7050
+! Number of entries: 7051
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -4454,6 +4454,7 @@
 ||officialmaga.com^
 ||officialmagacoin.com^
 ||offresdespace24.com^
+||ofleak.netlify.app^
 ||ofrprizcoup.com^
 ||oguiadossonhos15anos.online^
 ||ogxrh.com^
