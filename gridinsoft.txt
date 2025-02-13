@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.063548.2025
+! Version: 02.13.070056.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 06:35:48 UTC 2025
+! Last modified: Thu Feb 13 07:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7005
+! Number of entries: 7007
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -3911,6 +3911,7 @@
 ||megaflix.co^
 ||megalotery.com^
 ||megalxibtrade.com^
+||megapari.com^
 ||megasaleweb.store^
 ||megatrendsplaza.shop^
 ||megaup.net^
@@ -6453,6 +6454,7 @@
 ||velari.nl^
 ||veldainty.com^
 ||velivyne.com^
+||vellour.store^
 ||velogisc.com^
 ||velourtoronto.com^
 ||velourwatches.store^
