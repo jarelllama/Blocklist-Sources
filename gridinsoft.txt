@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.193056.2025
+! Version: 02.13.200059.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 19:30:56 UTC 2025
+! Last modified: Thu Feb 13 20:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7071
+! Number of entries: 7075
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2368,6 +2368,7 @@
 ||fabalchemy.shop^
 ||fabootd.com^
 ||facebook.busines.tempisite.com^
+||facebook.fr^
 ||fadedarkspotsfast.com^
 ||faithfultly.com^
 ||fakaira.space^
@@ -2644,6 +2645,7 @@
 ||fusion.gain.cfd^
 ||fustorix.com^
 ||futurecryptominer.com^
+||futurefmt.com^
 ||futurenft.net^
 ||futuresprous.com^
 ||futurewisehub.com^
@@ -3436,6 +3438,7 @@
 ||kaptohelp.top^
 ||karachaganakfield.kz^
 ||karavvan.com^
+||kardsinc.info^
 ||karenmillenfrance.com^
 ||kariox.trade.net^
 ||kartio.live^
@@ -4695,6 +4698,7 @@
 ||parksides.net^
 ||parksidestores.com^
 ||parksldeshop.com^
+||parquelaplancha.com^
 ||partecularly.com^
 ||pascoprime.com^
 ||pasion.padel.com^
