@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.153155.2025
+! Version: 02.13.160105.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 15:31:55 UTC 2025
+! Last modified: Thu Feb 13 16:01:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7051
+! Number of entries: 7054
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -946,6 +946,7 @@
 ||bloom.as^
 ||bloxchest.com^
 ||bloxevent.org^
+||bloxtools.ca^
 ||blue798798.com^
 ||bluewhaleapps.life^
 ||blulumxn.vip^
@@ -6097,6 +6098,7 @@
 ||todays.superr.storre.shop^
 ||todayyouwin.com^
 ||tofro.com^
+||tofro.pro^
 ||together2night.com^
 ||toggle.pro^
 ||tokeiyaginza.com^
@@ -6669,6 +6671,7 @@
 ||wctclaim.netlify.app^
 ||wdisales.store^
 ||wdnhspecial.shop^
+||wds.weqs.ink^
 ||we.bull.help^
 ||we.inv.com^
 ||wealthassetcapital.org^
