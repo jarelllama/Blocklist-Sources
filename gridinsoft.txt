@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.083441.2025
+! Version: 02.13.090059.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 08:34:41 UTC 2025
+! Last modified: Thu Feb 13 09:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7015
+! Number of entries: 7019
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -631,6 +631,7 @@
 ||baominpower.com^
 ||bapes.com.mx^
 ||bar47menu.online^
+||barbouresp.com^
 ||barcelonaoutlets.shop^
 ||bargainro.com^
 ||bargainxpressz.bet^
@@ -2485,6 +2486,7 @@
 ||flashusdt.shop^
 ||flashxu.com^
 ||flawflessas.com^
+||flcname.cam^
 ||fleecedgy.com^
 ||flexcapital.top^
 ||flexjobhubs.com^
@@ -2513,6 +2515,7 @@
 ||fluxitv.xyz^
 ||fluxpockopt.com^
 ||flwoertime.de^
+||flygame.in^
 ||fmaglobal.io^
 ||fmcg5.biz^
 ||fmovies.co^
@@ -3591,6 +3594,7 @@
 ||leniaudelectromenager.com^
 ||leonemicrofinance.com^
 ||leonneo.com^
+||leparadisdespets.com^
 ||leparis.club^
 ||lepetitportailbasque.com^
 ||lesparentszens.acemlnb.com^
