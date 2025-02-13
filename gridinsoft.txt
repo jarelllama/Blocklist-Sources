@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.024408.2025
+! Version: 02.13.030346.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 02:44:08 UTC 2025
+! Last modified: Thu Feb 13 03:03:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6985
+! Number of entries: 6986
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1857,6 +1857,7 @@
 ||demo.cratictwil.ight.com^
 ||demogamingsalam123.online^
 ||deniise.com^
+||deniove.com^
 ||dent.code.com^
 ||dentalclinicgreaternoida.com^
 ||dentrodel.com^
