@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.043417.2025
+! Version: 02.13.050054.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 04:34:17 UTC 2025
+! Last modified: Thu Feb 13 05:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6997
+! Number of entries: 7000
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1482,6 +1482,7 @@
 ||colfayc.cc^
 ||colgatebnbai.com^
 ||colloimed.de^
+||colmall.top^
 ||colosseumdiroma.tickets.com^
 ||columbiapicturesaquaverse.com^
 ||com.513i.cfd^
@@ -6376,6 +6377,7 @@
 ||usde.ink^
 ||usdpick.io^
 ||usdt.eth66d.net^
+||usdt.ethy.icu^
 ||usdt.jmsmucker.vip.org^
 ||usdtbb.com^
 ||usdtboost.com^
@@ -6599,6 +6601,7 @@
 ||washerdryer.my^
 ||watch.us.live^
 ||watch24hubs.store^
+||watchescollector.shop^
 ||watchivo.shop^
 ||watchseries.bar^
 ||wattprosaver.com^
