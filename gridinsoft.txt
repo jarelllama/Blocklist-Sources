@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.203156.2025
+! Version: 02.13.210058.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 20:31:56 UTC 2025
+! Last modified: Thu Feb 13 21:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7076
+! Number of entries: 7079
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -232,6 +232,7 @@
 ||agonas.techubz.com^
 ||agoradrugstore.org^
 ||agribicerhansolutionsltd.net^
+||agrocryptorealty.com^
 ||agrozenith.org^
 ||agyabashipping.com^
 ||ahhaqq.com^
@@ -803,6 +804,7 @@
 ||biologysimple.com^
 ||bionovo.bio^
 ||birddecoysofnorthamerica.com^
+||birkenstockchoice.com^
 ||birkenstores.us^
 ||birthdaywishesmarathi.online^
 ||birthjeans.icu^
@@ -2633,6 +2635,7 @@
 ||fundedkingdom.com^
 ||fundedsportstrader.com^
 ||fundedstake.io^
+||fundertrade.com^
 ||fundsretrievalpanel.com^
 ||fundxrecover.com^
 ||fungretail.shop^
