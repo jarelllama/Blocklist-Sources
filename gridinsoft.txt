@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.070056.2025
+! Version: 02.13.073045.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 07:00:56 UTC 2025
+! Last modified: Thu Feb 13 07:30:45 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7007
+! Number of entries: 7010
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -553,6 +553,7 @@
 ||atomishine.com^
 ||atouchofgreenboutique.com^
 ||atriumset.com^
+||attmailboxalerttt.weebly.com^
 ||attriaction.com^
 ||atualcance.online^
 ||au24shop.com^
@@ -2614,6 +2615,7 @@
 ||funtoball.com^
 ||furensocks.shop^
 ||furniturej.shop^
+||fusin.club^
 ||fusion.gain.cfd^
 ||fustorix.com^
 ||futurecryptominer.com^
@@ -5990,6 +5992,7 @@
 ||thestockstandout.com^
 ||thestudysphere.online^
 ||thestylefoundrycle.store^
+||thesugarbabe81.square.site^
 ||thesuperioroffers.com^
 ||thetaus.top^
 ||thetechguy.io^
