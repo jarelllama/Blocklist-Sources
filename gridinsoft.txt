@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.170100.2025
+! Version: 02.13.173111.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 17:01:00 UTC 2025
+! Last modified: Thu Feb 13 17:31:11 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7057
+! Number of entries: 7061
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2465,6 +2465,7 @@
 ||finkea.com^
 ||finlandowala.com^
 ||finmaza.com^
+||finnacletrade.com^
 ||fintechmexicofestival.com^
 ||fintxpert.com^
 ||finzennews.com^
@@ -3527,6 +3528,7 @@
 ||kreed5425210621621.online^
 ||krefractoryr.lol^
 ||kremas.shop^
+||kresbit.com^
 ||krnl.in^
 ||krossify.com^
 ||krpod.com^
@@ -4516,6 +4518,7 @@
 ||online.courses.classes.21368.bond^
 ||online.courses.classes.44486.bond^
 ||online.courses.de.2618.click^
+||online.cybex.shop^
 ||online.dating.sk.1481.today^
 ||online.degree.fr.en.9888354.fyi^
 ||online.english.classes641012.xyz^
@@ -5860,6 +5863,7 @@
 ||swapmonero.exchange^
 ||swappa.com^
 ||swapstak.com^
+||swarmnode.ai^
 ||swearatware.top^
 ||sweaterlove.com^
 ||swedenfixedmatch.com^
