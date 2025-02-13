@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.183605.2025
+! Version: 02.13.190058.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 18:36:05 UTC 2025
+! Last modified: Thu Feb 13 19:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7063
+! Number of entries: 7066
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1881,6 +1881,7 @@
 ||dent.code.com^
 ||dentalclinicgreaternoida.com^
 ||dentrodel.com^
+||deovolenteventures.com^
 ||depannedt.com^
 ||departmentstoreclearance.com^
 ||deporvillage.fr^
@@ -2061,6 +2062,7 @@
 ||drmartensnews.com^
 ||drochill.com^
 ||drogen.kaufen.com^
+||droveit.net^
 ||drupacolony.tech^
 ||drw.vip.cc^
 ||ds2play.com^
@@ -4680,6 +4682,7 @@
 ||parisdocase.com^
 ||parkhughes.com^
 ||parkit.nc.com^
+||parksideamonline.shop^
 ||parksideatvip.shop^
 ||parksideclearance.com^
 ||parksideofficials.com^
