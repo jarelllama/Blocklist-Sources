@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.223302.2025
+! Version: 02.13.230055.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 22:33:02 UTC 2025
+! Last modified: Thu Feb 13 23:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7097
+! Number of entries: 7104
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -512,6 +512,7 @@
 ||arzookanak.in^
 ||asap777.online^
 ||ascensionio.online^
+||ascot.pro^
 ||asiacargo.online^
 ||asian.gifts.square.site^
 ||asickey.com^
@@ -1774,6 +1775,7 @@
 ||dcodesnippet.com^
 ||dcqww.com^
 ||ddbminer.com^
+||ddgwy.com^
 ||ddsteel.online^
 ||deacetrader.com^
 ||dealzforu.pro^
@@ -2264,6 +2266,7 @@
 ||epicdigitalflow.com^
 ||epicrecordsrvip.com^
 ||epoiu.com^
+||epulsive.com^
 ||equallyto.com^
 ||equistak.com^
 ||equitradecf.com^
@@ -3140,6 +3143,7 @@
 ||hrbtpl.com^
 ||href.li^
 ||hrtai.vip^
+||hrumer.ua^
 ||hsubmiti.top^
 ||htadz.online^
 ||htask.vip^
@@ -4893,6 +4897,7 @@
 ||prboost.io^
 ||precedings.shop^
 ||precisionbevel.com^
+||prefabricated.homes.95590.bond^
 ||preferablyagicent.online.com^
 ||preferee.pharmacie.fr^
 ||premier.td.net^
@@ -5452,6 +5457,7 @@
 ||securedalliances.com^
 ||securedjointnetwork.co.in^
 ||securedspot.vip^
+||securepayments.us^
 ||securitybulb360.co^
 ||sedonainvestments.co.uk^
 ||seecomoffer.com^
@@ -5963,6 +5969,7 @@
 ||teachmecompliance.com^
 ||teaforteheaven.shop^
 ||teaserfast.ru^
+||techbehemoths.cc^
 ||techberry.online.com^
 ||techcertlabs.org^
 ||techdriveinc.online^
