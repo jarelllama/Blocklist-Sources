@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.210058.2025
+! Version: 02.13.213049.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 21:00:58 UTC 2025
+! Last modified: Thu Feb 13 21:30:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7079
+! Number of entries: 7085
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -744,6 +744,7 @@
 ||betterzone19.info^
 ||betwave.vip^
 ||bewizi.com^
+||bexola.com^
 ||beyondprostate.com^
 ||beyondstandard.org^
 ||bgcdsd.shop^
@@ -996,6 +997,7 @@
 ||bookmarkfc.info^
 ||booknflow.fr^
 ||boomerenginvestitionen.com^
+||boonweb.systems^
 ||boots.litbio.org^
 ||bootymes.com^
 ||boounti.com^
@@ -2653,6 +2655,7 @@
 ||futuresprous.com^
 ||futurewisehub.com^
 ||futurofinanzachile.com^
+||fvmbij.mdgameb.top^
 ||fvyreu.com^
 ||fwpy.swelucky.com^
 ||fx.trinity.com^
@@ -3748,6 +3751,7 @@
 ||loravelle.com^
 ||loreall.gp.top^
 ||lorealwear.com^
+||lorenamargaleff.com^
 ||lorunix.com^
 ||loryvel.com^
 ||losthorizonoutdoorgear.shop^
@@ -4211,6 +4215,7 @@
 ||my.bebes.com^
 ||my.commbank.com.au^
 ||my.deco.shop.com^
+||my.exness.com^
 ||my.fxmt.tech^
 ||myaccount.enigmasoftware.com^
 ||myamericanprizes3.com^
@@ -5716,6 +5721,7 @@
 ||spotifymode.com^
 ||spotifypremiumapk.com.co^
 ||spraisy.live^
+||spranix.com^
 ||spraygames.com^
 ||springcapipro.com^
 ||springcp.online^
