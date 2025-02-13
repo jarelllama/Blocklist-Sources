@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.230055.2025
+! Version: 02.13.233048.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 23:00:56 UTC 2025
+! Last modified: Thu Feb 13 23:30:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7104
+! Number of entries: 7107
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -686,6 +686,7 @@
 ||bedtige.top^
 ||bedtodream.com^
 ||beedermaus.com^
+||beefund2.com^
 ||beeintv.com^
 ||beepays.net^
 ||beetlejuice.2.online^
@@ -3013,6 +3014,7 @@
 ||heavensender.pro^
 ||hedahour.com^
 ||hedgeincrease.com^
+||hedition.com^
 ||helenaatelier.com^
 ||helikon.texoffxp.shop^
 ||hello.hello.site^
@@ -6575,6 +6577,7 @@
 ||verunax.com^
 ||vestergaardtz.com^
 ||vestrum.io^
+||vetswhogetmarketing.com^
 ||vetusgifts.com^
 ||vevorheater.com^
 ||vexunax.com^
