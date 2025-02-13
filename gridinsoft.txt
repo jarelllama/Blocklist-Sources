@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.100100.2025
+! Version: 02.13.103441.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 10:01:00 UTC 2025
+! Last modified: Thu Feb 13 10:34:41 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7025
+! Number of entries: 7030
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2553,6 +2553,7 @@
 ||forums.socialmediagirls.com^
 ||forygood.com^
 ||foryouheart.com^
+||fottewoicouce.7141.vercel.app^
 ||fotytv.com^
 ||foundationrepair0407.online^
 ||foundationrepair3009.online^
@@ -3096,6 +3097,7 @@
 ||hotwatch.pro^
 ||housescrappersllc.online^
 ||housevaluetool.com^
+||houze.ie.2025.shop^
 ||hoveraires.site^
 ||hoylitecandle.store^
 ||hozpetro.com^
@@ -3324,6 +3326,7 @@
 ||jessemade.es^
 ||jetluck.com^
 ||jetmarssofertas.online^
+||jetswiftcourier.com^
 ||jewelrygiftcenter.com^
 ||jewelrysgiftstore.com^
 ||jgyfgroup.co^
@@ -6204,6 +6207,7 @@
 ||trendyhubllc.shop^
 ||trezzor.io.start.it.webflow.io^
 ||trianz.life^
+||trickytiktok.com^
 ||trimalajucredit.com^
 ||trimtonezone.online^
 ||trinasolaroi.com^
@@ -6305,6 +6309,7 @@
 ||ucapsidop.info^
 ||ucbibanking.io^
 ||ucboc.com^
+||ucc.weedage1.ru^
 ||ucmmr.com^
 ||ucryptocapital.co^
 ||udqvh.com^
