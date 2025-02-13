@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.130520.2025
+! Version: 02.13.133332.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 13:05:20 UTC 2025
+! Last modified: Thu Feb 13 13:33:32 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7043
+! Number of entries: 7046
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -193,6 +193,7 @@
 ||adorehike.com^
 ||adornmentcustom.com^
 ||ads.trafficircles.com^
+||ads2cash.co^
 ||adsarp.com^
 ||adsphericalsuits.com^
 ||adtgnt.com^
@@ -4871,6 +4872,7 @@
 ||primeotp.com^
 ||primeplatform.online^
 ||primetransactltd.com^
+||primewire.tf^
 ||primitivesystem.online^
 ||pristinedrivecarcare.com^
 ||privatebin.net^
@@ -5486,6 +5488,7 @@
 ||shopavs.store^
 ||shopbiggestdeals.com^
 ||shopbopafiliate.org^
+||shopclickfr.store^
 ||shope1.a1finder.com^
 ||shope4you.shop^
 ||shopeevip.shop^
