@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.220104.2025
+! Version: 02.13.223302.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 22:01:04 UTC 2025
+! Last modified: Thu Feb 13 22:33:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7091
+! Number of entries: 7097
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -784,6 +784,7 @@
 ||binanbot.exchange^
 ||binance.web3.com.cn^
 ||binance.web3.com.ru^
+||binanceannouncement.com^
 ||binancedefi.io^
 ||binancetradings.org^
 ||binarium.com^
@@ -1497,6 +1498,7 @@
 ||coinvale.io^
 ||coinwbga.com^
 ||coldbit.net^
+||colddms.com^
 ||colfayc.cc^
 ||colgatebnbai.com^
 ||colloimed.de^
@@ -1911,6 +1913,7 @@
 ||deuspower.to^
 ||deutsche.schnelleaktivierung160125.com^
 ||deutschland.online.store^
+||dev.cccbb.xyz^
 ||devcrack.org^
 ||devineprotocol.com^
 ||devzone2.online^
@@ -2376,6 +2379,7 @@
 ||fabootd.com^
 ||facebook.busines.tempisite.com^
 ||facebook.fr^
+||facts.r.friends.com^
 ||fadedarkspotsfast.com^
 ||faithfultly.com^
 ||fakaira.space^
@@ -3369,6 +3373,7 @@
 ||jili22.games^
 ||jimi2mall.com^
 ||jiuyu.fit^
+||jljcw.net^
 ||jljl330.com^
 ||jlkwelding.online^
 ||jmitdk9.szvne337c.org^
@@ -6138,6 +6143,7 @@
 ||toggle.pro^
 ||tokeiyaginza.com^
 ||tokenhedg.com^
+||tokenseas.com^
 ||tokentrade.top^
 ||tokocrypto.com^
 ||tokxon.com^
