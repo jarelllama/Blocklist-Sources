@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.020136.2025
+! Version: 02.13.024408.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 02:01:36 UTC 2025
+! Last modified: Thu Feb 13 02:44:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 6982
+! Number of entries: 6985
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1100,6 +1100,7 @@
 ||burneliegoulding.fr^
 ||bursaelitescorthatun.com^
 ||burtoneu.shop^
+||business2.community^
 ||businessloanscenter.online^
 ||buxclaims.neocities.org^
 ||buxone.com^
@@ -1393,6 +1394,7 @@
 ||closer.university.com^
 ||closingclients.io^
 ||clothfashionmalls.com^
+||cloud.aiminers.pro^
 ||cloud.mail.ru^
 ||cloud.mining.cc^
 ||cloud.vogelrain.hopto.org^
@@ -4542,6 +4544,7 @@
 ||oriwhiz.com^
 ||orlawonders.com^
 ||orourkeapp.com^
+||orthoture.com^
 ||orzenge.com^
 ||osextant.monster^
 ||osirisshoesfactory.com^
