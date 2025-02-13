@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.110055.2025
+! Version: 02.13.113052.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 11:00:55 UTC 2025
+! Last modified: Thu Feb 13 11:30:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7035
+! Number of entries: 7040
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2105,6 +2105,7 @@
 ||easy.earn.org^
 ||easybtc.mining.com^
 ||easycryptoblog.com^
+||easygloballtd.com^
 ||easymintminer.com^
 ||easyrcashdae.buzz^
 ||easyshort.fun^
@@ -3155,6 +3156,7 @@
 ||id184124.com^
 ||idatech.online^
 ||idealpiptrade.com^
+||ideeth.co^
 ||idempire.us^
 ||idjqwinla.net^
 ||idtumy.com^
@@ -5162,6 +5164,7 @@
 ||relutar.com^
 ||remittix.io^
 ||remix.web3console.com^
+||remixidi.com^
 ||remoteworkerinternal.co^
 ||renatoribeirobmf.com.br^
 ||renmsuq.shop^
@@ -5169,6 +5172,7 @@
 ||renovix.online^
 ||renrys.com^
 ||rentabay.shop^
+||rentvista.net^
 ||renvara.com^
 ||renvoie.mondialrelay.com^
 ||reoe.shop^
@@ -6557,6 +6561,7 @@
 ||vipehelp.com^
 ||vipemip.net^
 ||viphookups.online^
+||viprh.com^
 ||viralityshop.online^
 ||vircloth.com^
 ||vishopee.com^
