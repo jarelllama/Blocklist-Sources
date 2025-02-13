@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.103441.2025
+! Version: 02.13.110055.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 10:34:41 UTC 2025
+! Last modified: Thu Feb 13 11:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7030
+! Number of entries: 7035
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -355,6 +355,7 @@
 ||amanwarehouse.com^
 ||amaon2.com^
 ||amazingfindsonline.com^
+||amazingsoulpeace.shop^
 ||amaznmarket.shop^
 ||amazol.biz^
 ||amazonsellersappeal.com^
@@ -1987,6 +1988,7 @@
 ||dnsdefender.xyz^
 ||dnswatch.info^
 ||doam.co.in^
+||doc.0011325120631789.pdfinvoivedownloadisauthsuccessfullcom.glitch.me^
 ||docker.1ms.run^
 ||doclothes.com^
 ||docs.connect.wallet.teachable.com^
@@ -2316,6 +2318,7 @@
 ||evyplay.com^
 ||ewaqg.com^
 ||exciting.meet.casual.com^
+||exclusive.redeem.com^
 ||excotrade.com^
 ||exiledexchange2.com^
 ||exnesstradecenter.com^
@@ -3453,6 +3456,7 @@
 ||kijl.online^
 ||kingpack7.quest^
 ||kinguin.net^
+||kinkfits.com^
 ||kinopolis.elite.com^
 ||kinosotik.com^
 ||kiproind.com^
@@ -4826,6 +4830,7 @@
 ||portfolioactivate.com^
 ||portumltd.com^
 ||poseidoncoin.top^
+||postmailer.pages.dev^
 ||postyourlife.com^
 ||poudresdenarco.com^
 ||powerelixir.online^
