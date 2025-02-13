@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.190058.2025
+! Version: 02.13.193056.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 19:00:58 UTC 2025
+! Last modified: Thu Feb 13 19:30:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7066
+! Number of entries: 7071
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -82,6 +82,7 @@
 ||485941.coinbase.com^
 ||4fitnessbg.com^
 ||4fzsx51x.forms.app^
+||4kiptvspot.net^
 ||4uvize.com^
 ||500.intal.org^
 ||552059.com^
@@ -1722,6 +1723,7 @@
 ||dailyxjili16.com^
 ||dainese.sale.shop^
 ||daintyrarly.com^
+||dakademie.net^
 ||dalarex.com^
 ||dalladesh.com^
 ||daltonitsolutions.com^
@@ -2087,6 +2089,7 @@
 ||dutchstorebv.nl^
 ||dvancedco.biz^
 ||dvdsociety.shop^
+||dyetui.com^
 ||dysb.store^
 ||dystarwears.com^
 ||dzan23.cn^
@@ -2562,6 +2565,7 @@
 ||fortune.inheritance.com^
 ||fortuneinterest.com^
 ||forums.socialmediagirls.com^
+||forwardamp.com^
 ||forygood.com^
 ||foryouheart.com^
 ||fottewoicouce.7141.vercel.app^
@@ -4203,6 +4207,7 @@
 ||my.fxmt.tech^
 ||myaccount.enigmasoftware.com^
 ||myamericanprizes3.com^
+||mybewin.com^
 ||mybrightframe.com^
 ||mycotina.com^
 ||mydesi2.net^
