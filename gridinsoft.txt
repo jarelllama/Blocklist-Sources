@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.14.080056.2025
+! Version: 02.14.083414.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 14 08:00:56 UTC 2025
+! Last modified: Fri Feb 14 08:34:14 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7142
+! Number of entries: 7144
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -3089,6 +3089,7 @@
 ||hobbyball.com^
 ||hobokenheadshots.com^
 ||hok55.com^
+||hoka.com.es^
 ||hokinaga88.com^
 ||hollden.shop^
 ||hollistercolombia.com.co^
@@ -5842,6 +5843,7 @@
 ||stockresoluteprofx.com^
 ||stockstrategytrade.com^
 ||stoigr.org^
+||stoktrade.invest.com^
 ||stonxdex.com^
 ||store.belgianshop.com^
 ||store.creedhouse.online^
