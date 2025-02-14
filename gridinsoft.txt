@@ -3,9 +3,9 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.14.170057.2025
+! Version: 02.14.173134.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 14 17:00:57 UTC 2025
+! Last modified: Fri Feb 14 17:31:34 UTC 2025
 ! Syntax: Adblock Plus
 ! Number of entries: 7168
 !
@@ -140,6 +140,7 @@
 ||aberomx.lol^
 ||abestcloths.com^
 ||abilityfx.com^
+||abmining.pro^
 ||abmintelligent.com^
 ||aboutamir.com^
 ||abppbsdlex.de^
@@ -6553,7 +6554,6 @@
 ||usefultoolpart.com^
 ||useproakira.com^
 ||usepxl8r.com^
-||user.abmining.pro^
 ||user.aiminers.pro^
 ||user.ecosbitcoinmining.com^
 ||user.ecosminer.io^
