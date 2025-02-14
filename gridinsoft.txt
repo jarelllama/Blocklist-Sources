@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.14.030331.2025
+! Version: 02.14.033400.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 14 03:03:31 UTC 2025
+! Last modified: Fri Feb 14 03:34:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7130
+! Number of entries: 7133
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1238,6 +1238,7 @@
 ||cashcow.wang^
 ||cashphoneoriginal.com^
 ||casinofree2.online^
+||casinopurple.com^
 ||casioeesti.com^
 ||cassappcard.com^
 ||castarsdk.com^
@@ -5872,6 +5873,7 @@
 ||suivi.france.info^
 ||suivre.envoi.com^
 ||sulop.online^
+||summaryas.com^
 ||summeyco.online^
 ||summitcapital.ltd^
 ||summitsage.org^
@@ -6272,6 +6274,7 @@
 ||trahia.com^
 ||traiex.com^
 ||traihomphuoctaitho.com^
+||trainydatagt.com^
 ||tramitedigitalfdcr.online^
 ||trangotech.xyz^
 ||transappltd.com^
