@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.14.230056.2025
+! Version: 02.14.233041.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 14 23:00:56 UTC 2025
+! Last modified: Fri Feb 14 23:30:41 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7190
+! Number of entries: 7193
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -4238,6 +4238,7 @@
 ||mpc7.cc^
 ||mqueercr.monster^
 ||mqyn.odqmjbta.shop^
+||mr.destock.com^
 ||mr.verify.net^
 ||mrandmrsfastsale.com^
 ||mrefractiont.lol^
@@ -4381,6 +4382,7 @@
 ||newbalancelink.com^
 ||newdefineservice.online^
 ||newdynaxioncb.org^
+||newideaa.shop^
 ||newlearning.icu^
 ||newlrra.online^
 ||newrocksouthafrica.com^
@@ -6377,6 +6379,7 @@
 ||tronok.cloud^
 ||tronok.x.app^
 ||tronomicx.com^
+||trons.love^
 ||tronvortex.com^
 ||trophycase.cc^
 ||troyers.info^
