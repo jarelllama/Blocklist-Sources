@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.14.000157.2025
+! Version: 02.14.004513.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 14 00:01:57 UTC 2025
+! Last modified: Fri Feb 14 00:45:13 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7111
+! Number of entries: 7116
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -659,6 +659,8 @@
 ||bassonlineca.com^
 ||bassslots1bonanza.com^
 ||basswin.org.uk^
+||bathroom.remodeling.57755.bond^
+||bathroom.remodeling.88604.bond^
 ||bathroomremodelingus1207.online^
 ||bauer.parndorf.at^
 ||baxtertradings.online^
@@ -3035,6 +3037,7 @@
 ||herotoyshop.com^
 ||herpesyls.click^
 ||hesamkianikhah.com^
+||hevistoundocumental.com^
 ||hexa.watch^
 ||hexafiber.com^
 ||heyderbid.com^
@@ -3103,6 +3106,7 @@
 ||horizoncapitals.org^
 ||horyx.shop^
 ||horze.it.top^
+||hospitaltests.com^
 ||host.hotel.com^
 ||hostackhomefurnishings.shop^
 ||hotbcaguba.cc^
@@ -5195,6 +5199,7 @@
 ||redomax.online^
 ||redozen.online^
 ||redsphere.solutions^
+||redwingbootsza.com^
 ||reeglist.store^
 ||reegwallet.store^
 ||reelshort.2025.com^
