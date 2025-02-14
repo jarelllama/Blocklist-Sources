@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.14.004513.2025
+! Version: 02.14.012748.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 14 00:45:13 UTC 2025
+! Last modified: Fri Feb 14 01:27:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7116
+! Number of entries: 7119
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2209,6 +2209,7 @@
 ||elonbet.com^
 ||elonearn.pro^
 ||elontocas.com^
+||eltaherfarm.com^
 ||elyaevents.com^
 ||elysiumvip.top^
 ||elysse.store^
@@ -2953,6 +2954,7 @@
 ||gusalio.com^
 ||gustmining.pro^
 ||gvgcxm.cc^
+||gwendolyngantt.com^
 ||gymshark.outlet.shop^
 ||h01k.xyz^
 ||h5.aifeex.com^
@@ -5636,6 +5638,7 @@
 ||slot2024c.bet^
 ||slot7.onlinecasino.com^
 ||slotdemogacor.online^
+||slotland.eu^
 ||slotsaces.net^
 ||slotstat.net^
 ||slott31.com^
