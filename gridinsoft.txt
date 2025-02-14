@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.14.033400.2025
+! Version: 02.14.040053.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 14 03:34:00 UTC 2025
+! Last modified: Fri Feb 14 04:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7133
+! Number of entries: 7137
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -506,6 +506,7 @@
 ||artosnomics.com^
 ||artswardrobe.com^
 ||artsyfame.homes^
+||arttokenhub.com^
 ||arturelights.com^
 ||artwareworld.com^
 ||arul.online^
@@ -629,6 +630,7 @@
 ||baloongame777.online^
 ||bamajt.world^
 ||bancaseguraporlnternetdeempresas.scotialbanrkperu.online^
+||bangpouches.com^
 ||bangunbersama.online^
 ||banishclean.com^
 ||bank.mails.com^
@@ -4139,6 +4141,7 @@
 ||mobiteamapp.com^
 ||mobofox.site^
 ||moclicks.com^
+||moda.milano.it^
 ||modacloaks.com^
 ||moddys.watches.com^
 ||modefi4o.com^
@@ -4903,6 +4906,7 @@
 ||powerkit.fr^
 ||powermaxph.com^
 ||powertools.market.com^
+||ppcashadder.com^
 ||pppbvvvisys.bond^
 ||pprrc.com^
 ||practicalss.com^
