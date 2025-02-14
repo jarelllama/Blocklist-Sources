@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.14.043345.2025
+! Version: 02.14.050057.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 14 04:33:45 UTC 2025
+! Last modified: Fri Feb 14 05:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7137
+! Number of entries: 7139
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -774,6 +774,7 @@
 ||bigoutdoorshop.com^
 ||bigsales.top^
 ||bigtfreedom2025.com^
+||bigwarp.io^
 ||bigyarddigital.com^
 ||bijouxdebella.com^
 ||bikinibossmiamieu.com^
@@ -5861,6 +5862,7 @@
 ||stuncreditfb.com^
 ||stupidus.top^
 ||stusdt.world^
+||stussyshopping.shop^
 ||stylesock.com^
 ||stylexlab.com^
 ||styline.shop^
