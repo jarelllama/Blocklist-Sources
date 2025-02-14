@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.14.093150.2025
+! Version: 02.14.100054.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 14 09:31:50 UTC 2025
+! Last modified: Fri Feb 14 10:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7144
+! Number of entries: 7147
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1238,6 +1238,7 @@
 ||casadecorato.store^
 ||cascadefinco.org^
 ||casetesy.com^
+||cash.tube.online^
 ||cashcow.wang^
 ||cashphoneoriginal.com^
 ||casinofree2.online^
@@ -2241,6 +2242,7 @@
 ||empowerforward.cy^
 ||empowerglobalreward.com^
 ||emttrading.com^
+||emuparadise.me^
 ||emuxev.com^
 ||en.glucocontrol.com^
 ||en.loader.to^
@@ -2581,6 +2583,7 @@
 ||forbiddenpant.com^
 ||fordeeal.shop^
 ||forex.autotrades.com^
+||forex.traders.cc^
 ||forexcrackedvip.com^
 ||forexmatrix.ltd^
 ||forexpotentialtrade.com^
