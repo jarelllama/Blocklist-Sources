@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.14.213048.2025
+! Version: 02.14.220048.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 14 21:30:48 UTC 2025
+! Last modified: Fri Feb 14 22:00:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7185
+! Number of entries: 7188
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2960,6 +2960,7 @@
 ||grindsoft.com^
 ||grisportfrance.fr^
 ||grmontrewatches.com^
+||groepsverblijven.com^
 ||grokcoin.meme^
 ||growthcapinc.com^
 ||growthsedges.online^
@@ -3965,6 +3966,7 @@
 ||markservers.com^
 ||maroyia.com^
 ||marqjoy.com^
+||marseilleoff.shop^
 ||marsincfog.com^
 ||martvalley.online^
 ||marvellousperfumes.com^
@@ -5722,6 +5724,7 @@
 ||snapsave.app^
 ||snatchstraps.com.au^
 ||sneakersfaclub.com^
+||sniperbuisnesscenter.com^
 ||snjalltaeki.store^
 ||snowdaycalculator.online^
 ||snusitout.com^
