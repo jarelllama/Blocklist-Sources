@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.14.113041.2025
+! Version: 02.14.120058.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 14 11:30:41 UTC 2025
+! Last modified: Fri Feb 14 12:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7149
+! Number of entries: 7153
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -95,6 +95,7 @@
 ||61www.vivetuaventurasinlimitespromo.com^
 ||63810.com^
 ||65cryptoleo3933.com^
+||66312.cc^
 ||66wineshop.com^
 ||67phspin.vip^
 ||689fa.com^
@@ -713,6 +714,7 @@
 ||benjamindavispersonaltrainer.com^
 ||bergmannmodehaus.com^
 ||bergstrombees.store^
+||berichinnvest1.com^
 ||bernaid.shop^
 ||bernardex.com^
 ||bervospace.com^
@@ -1565,6 +1567,7 @@
 ||coperatefinance.com^
 ||cophasehome.com^
 ||corcard.shop^
+||coreepo.icu^
 ||corescientific.refine.com^
 ||corigc.top^
 ||corporalgaming.com^
@@ -6078,6 +6081,7 @@
 ||thefashiontrandhub.com^
 ||thefinal.show.com^
 ||theflashlightshop.com^
+||theflixertv.to^
 ||thefurniturestudio.store^
 ||thegenesismining.com^
 ||thegirlwithabluemind.com^
