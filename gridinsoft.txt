@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.14.024410.2025
+! Version: 02.14.030331.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 14 02:44:10 UTC 2025
+! Last modified: Fri Feb 14 03:03:31 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7125
+! Number of entries: 7130
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -844,6 +844,7 @@
 ||bitcoinmining.fund^
 ||bitcoinmining.pw^
 ||bitcoins.fund.manager.com^
+||bitcoinsfreak.com^
 ||bitcoinsi.com^
 ||bitcoinwell.com^
 ||bitcoinx.app.com^
@@ -1316,6 +1317,7 @@
 ||cheapproducts.online^
 ||cheapsleepingtablets.net^
 ||checkout.square.site^
+||cheeptoys.com^
 ||cheerycouture.com^
 ||chemicaldepotllc.com^
 ||chemicaltiger.com^
@@ -2426,6 +2428,7 @@
 ||fastshare.cloud^
 ||fastswap.one^
 ||fastworldtravels.com^
+||father.mining.top^
 ||faucetcrypto.net^
 ||fazmex.com^
 ||fc244.com^
@@ -5380,6 +5383,7 @@
 ||s66639.co^
 ||sabready.com^
 ||sadalds.store^
+||safarywatches.com^
 ||safeapk.net^
 ||safehavenbancshares.online^
 ||safemedistore.com^
@@ -6304,6 +6308,7 @@
 ||triplecloth.shop^
 ||tritonforex.innovationmarket.live^
 ||trmanifesto.com^
+||troeteltuin.com^
 ||trolleytimes.online^
 ||tromevixion.live^
 ||tron.soy^
