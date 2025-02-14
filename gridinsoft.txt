@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.14.020102.2025
+! Version: 02.14.024410.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 14 02:01:02 UTC 2025
+! Last modified: Fri Feb 14 02:44:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7121
+! Number of entries: 7125
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1258,6 +1258,7 @@
 ||cbex18.com^
 ||cbex3.com^
 ||cbex9.com^
+||cbmarketradar.com^
 ||cbtfturbo99.com^
 ||cbverify.top^
 ||ccard50.ru^
@@ -2599,6 +2600,7 @@
 ||foxsofe.app.bond^
 ||fozan.online^
 ||fpibank.com^
+||fpmartkets.com^
 ||fpsconstructivos.contenedores.com^
 ||fpswiss.com^
 ||fqafq.shop^
@@ -4874,6 +4876,7 @@
 ||polarbg.com^
 ||policja.pl112.online^
 ||policyautosave.com^
+||polocase.com^
 ||polpick.io^
 ||polvfbks.info^
 ||popmart.mx.com^
@@ -6419,6 +6422,7 @@
 ||ultiverseoption.com^
 ||ultracapitals.org^
 ||ultraoption.online^
+||ultrastockmarket.com^
 ||umamiicrate.store^
 ||umarinfomobiles.online^
 ||umrahcabonline.com^
