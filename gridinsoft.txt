@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.14.173134.2025
+! Version: 02.14.180056.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 14 17:31:34 UTC 2025
+! Last modified: Fri Feb 14 18:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7168
+! Number of entries: 7171
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1803,6 +1803,7 @@
 ||deathance.com^
 ||decentralizedtek.pages.dev^
 ||decorhome.arg.store^
+||decorstore.club^
 ||deenext.com^
 ||deepcoinf.com^
 ||deepnude.to^
@@ -4275,6 +4276,7 @@
 ||myamericanprizes3.com^
 ||mybewin.com^
 ||mybrightframe.com^
+||mycashpoint.online^
 ||mycotina.com^
 ||mydesi2.net^
 ||myetherwzallet.com^
@@ -4387,6 +4389,7 @@
 ||news.bnaxura.cc^
 ||news.bponeyu.cc^
 ||news.bpotibu.cc^
+||news.choicehomewarranty.com^
 ||news.jufife.com^
 ||news.xceyuna.live^
 ||news.xfoxeyo.cc^
