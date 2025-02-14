@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.14.133319.2025
+! Version: 02.14.140051.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 14 13:33:19 UTC 2025
+! Last modified: Fri Feb 14 14:00:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7158
+! Number of entries: 7161
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1761,6 +1761,7 @@
 ||dapprestore.site^
 ||dappschainapp.com^
 ||dark.link.sbs^
+||darklabsusplesmentos.com^
 ||darklog.mp^
 ||darkpick.com^
 ||darmavenue.com^
@@ -3917,6 +3918,7 @@
 ||makecryptosafeagain.biz^
 ||makecryptosafeagain.xyz^
 ||makesurvey.online^
+||makeup.com.ua^
 ||makinfra.online^
 ||makitafr.com^
 ||malaysia.bian.com^
@@ -5434,6 +5436,7 @@
 ||san.stores.com^
 ||sandiego.park.com^
 ||sangdot.online^
+||saninternet.com^
 ||saobentofaculdade.online^
 ||saotex.com^
 ||saoxdex.com^
