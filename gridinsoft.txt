@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.14.012748.2025
+! Version: 02.14.020102.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 14 01:27:48 UTC 2025
+! Last modified: Fri Feb 14 02:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7119
+! Number of entries: 7121
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -6075,6 +6075,7 @@
 ||thenorthernlabs.com^
 ||theonlinejob.co.in^
 ||theoryar.com^
+||thepalaceoftreasuresaustralia.com^
 ||thepatriotpicks.store^
 ||thepillowsintovogue.com^
 ||thepiratebay.mobi^
@@ -6700,6 +6701,7 @@
 ||wakestorage.com^
 ||wakning.com^
 ||wakning.net^
+||walla2.shop^
 ||walletweave.online^
 ||wallstreetpepe.com^
 ||walmartnok.com^
