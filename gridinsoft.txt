@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.14.220048.2025
+! Version: 02.14.223245.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 14 22:00:48 UTC 2025
+! Last modified: Fri Feb 14 22:32:45 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7188
+! Number of entries: 7190
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -4219,6 +4219,7 @@
 ||moonlightmint.co^
 ||moonmagic.com^
 ||moontio.shop^
+||moonwalkbaby.com^
 ||moonwell.fl.xyz^
 ||mopspartneronline.com^
 ||morganenergyph.com^
@@ -7108,6 +7109,7 @@
 ||yt118.com^
 ||ytmp3.cc^
 ||ytmp3.ec^
+||ytmp3.la^
 ||yts.skin^
 ||yumbrandsreview.com^
 ||yumpulses.com^
