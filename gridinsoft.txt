@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.13.233048.2025
+! Version: 02.14.000157.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 13 23:30:48 UTC 2025
+! Last modified: Fri Feb 14 00:01:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7107
+! Number of entries: 7111
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2630,6 +2630,7 @@
 ||freexstar.top^
 ||frienditeglobal.online^
 ||friendlyrussianblue.com^
+||fromlexiwithlove.com^
 ||frontbulletin.com^
 ||frugalflix.com^
 ||fruit77.one^
@@ -5137,6 +5138,7 @@
 ||raceprep.site^
 ||radianta.live^
 ||radianters.com^
+||radioconexaoubermusic.com^
 ||rahhel.com^
 ||raineyeshadowguilty.com^
 ||rainsweb.com^
@@ -5517,6 +5519,7 @@
 ||shelee.vip^
 ||shenghengtrading.com^
 ||shesherose.net^
+||shesking.com^
 ||shib.icu^
 ||shiba.web3.site^
 ||shibaarmy.world^
@@ -5715,6 +5718,7 @@
 ||spctravelads.com^
 ||spec1trend8.shop^
 ||special.sale.sbs^
+||specializedcorp.com^
 ||specialsurprises.online^
 ||specialtyvehiclesoftulsa.com^
 ||spectrumsbaloans.com^
