@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.15.180050.2025
+! Version: 02.15.183355.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 15 18:00:50 UTC 2025
+! Last modified: Sat Feb 15 18:33:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7286
+! Number of entries: 7291
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -184,6 +184,7 @@
 ||activeprobeauty.com^
 ||activityuk.shop^
 ||actufinance.fr^
+||acvslimgummies.us^
 ||adapterworkshop.com^
 ||adatenight.com^
 ||adblocker.one^
@@ -4337,6 +4338,7 @@
 ||mydesi2.net^
 ||myetherwzallet.com^
 ||myfarm.base.com^
+||myfundmax.com^
 ||myg01d.com^
 ||mygardenhelper.online^
 ||myhoneyandpine.com^
@@ -5043,6 +5045,7 @@
 ||privatebin.net^
 ||privatesportshop.fr^
 ||privevault.com^
+||prixmcapital.com^
 ||prize.asset.com^
 ||prizefrenzyzone.today^
 ||prizerebel.com^
@@ -5056,6 +5059,7 @@
 ||profittrade.live^
 ||profumeriearoma.com^
 ||programafullpc.com^
+||proivestgrp.com^
 ||projectplaygroundtech.com^
 ||projektmiesiaca.click^
 ||projetparis.fr^
@@ -7002,6 +7006,7 @@
 ||winmachance.casino.net^
 ||winner.com^
 ||winplay.online^
+||winprofxtrade.com^
 ||winsdonechipper.com^
 ||winstreasure.com^
 ||wintogetherplan.com^
