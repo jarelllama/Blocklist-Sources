@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.15.210055.2025
+! Version: 02.15.213051.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 15 21:00:55 UTC 2025
+! Last modified: Sat Feb 15 21:30:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7311
+! Number of entries: 7312
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -445,6 +445,7 @@
 ||apnef.shop^
 ||apods1spain.com^
 ||aporover.com^
+||aporro.eu^
 ||apostillecorp.com^
 ||apotek1.biz^
 ||apounes.com^
