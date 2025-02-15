@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.15.050055.2025
+! Version: 02.15.053222.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 15 05:00:55 UTC 2025
+! Last modified: Sat Feb 15 05:32:22 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7234
+! Number of entries: 7239
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1038,6 +1038,7 @@
 ||bovada.lv^
 ||bowscalessales.com^
 ||bowtiehouse.us^
+||box24casino.com^
 ||bpee.top^
 ||bphash.top^
 ||bpplc1.com^
@@ -3801,6 +3802,7 @@
 ||livenewbuzz.com^
 ||livextop.com^
 ||liveyourwetdream.com^
+||livingtradecapital.com^
 ||livraison.interrompu.com^
 ||lixqwok.com^
 ||lixtrade.com^
@@ -3811,6 +3813,7 @@
 ||lmy.de^
 ||ln.run^
 ||loanfundsonline.com^
+||localotto.com^
 ||localsgowild.com^
 ||localsinglesnearmefree0.online^
 ||locations.online.us^
@@ -5037,6 +5040,7 @@
 ||prom.baltyk24.eu5.net^
 ||promask.pro^
 ||promo.offer.com^
+||promo122.com^
 ||promptfunds.org^
 ||prompts.top^
 ||pronatum.com^
@@ -5605,6 +5609,7 @@
 ||sgtbill.com^
 ||sgtcv.com^
 ||shaamining.com^
+||shadow.atom.com^
 ||shamfreshen.com^
 ||shapeitstore.com^
 ||sharkdefi.com^
