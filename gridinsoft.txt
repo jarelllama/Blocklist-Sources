@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.15.183355.2025
+! Version: 02.15.190046.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 15 18:33:55 UTC 2025
+! Last modified: Sat Feb 15 19:00:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7291
+! Number of entries: 7294
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -348,6 +348,7 @@
 ||altadefinizione01.website^
 ||altadefiniziones.co^
 ||altano.store^
+||altdexs.com^
 ||alternazeor.com^
 ||altexpert.digital.com^
 ||altieer.com^
@@ -3732,6 +3733,7 @@
 ||lemofax.com^
 ||lemovax.com^
 ||leniaudelectromenager.com^
+||leonbets.com^
 ||leonemicrofinance.com^
 ||leonneo.com^
 ||leparadisdespets.com^
@@ -6319,6 +6321,7 @@
 ||tokxon.com^
 ||tomyvipstore.shop^
 ||tonbig.com^
+||tonix.live^
 ||tonpick.game^
 ||tonshaker.com^
 ||toobittrade.com^
