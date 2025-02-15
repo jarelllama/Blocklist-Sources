@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.15.230050.2025
+! Version: 02.15.233048.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 15 23:00:50 UTC 2025
+! Last modified: Sat Feb 15 23:30:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7323
+! Number of entries: 7325
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -5830,6 +5830,7 @@
 ||snjalltaeki.store^
 ||snowdaycalculator.online^
 ||snusitout.com^
+||snydersfurniture.com^
 ||soankelle.vip^
 ||soc.proof.su^
 ||soccerlive.app^
@@ -5906,6 +5907,7 @@
 ||sportarenastores.shop^
 ||sportchekca.com^
 ||sportsalpin.com^
+||sportsdirectdailydeals.shop^
 ||sportzone3.com^
 ||spotifyinfo.app^
 ||spotifymode.com^
