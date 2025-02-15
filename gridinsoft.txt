@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.15.124113.2025
+! Version: 02.15.130311.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 15 12:41:13 UTC 2025
+! Last modified: Sat Feb 15 13:03:11 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7261
+! Number of entries: 7265
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1128,6 +1128,7 @@
 ||buffboycrops.com^
 ||buildabearshop.com^
 ||builderall.net^
+||buildwealthwithsidehustle.com^
 ||buiudr.com^
 ||bujortca.com^
 ||buki.shop.com^
@@ -2090,6 +2091,7 @@
 ||doswex.com^
 ||dosya.co^
 ||doubledeckertourbus.com^
+||doublemintvip.org^
 ||dowjones.vip.com^
 ||download.wondershare.net^
 ||download2.douploads.com^
@@ -5891,6 +5893,7 @@
 ||stakeso.com^
 ||stakgpdgd.com^
 ||stampstorenew.com^
+||starbucksvip.org^
 ||starcici.com^
 ||staregyptgame.online^
 ||stargazecapital.co^
@@ -6621,6 +6624,7 @@
 ||usd98.com^
 ||usdbmwmsport.cc^
 ||usdd.club^
+||usddunlopsports.cc^
 ||usde.ink^
 ||usdpick.io^
 ||usdt.eth66d.net^
