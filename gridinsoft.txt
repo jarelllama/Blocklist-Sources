@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.15.190046.2025
+! Version: 02.15.193049.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 15 19:00:46 UTC 2025
+! Last modified: Sat Feb 15 19:30:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7294
+! Number of entries: 7301
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1101,6 +1101,7 @@
 ||btc933.com^
 ||btcagent.io^
 ||btcaibot.com^
+||btcap.co^
 ||btcclink.net^
 ||btceex.com^
 ||btcgame.cc^
@@ -1142,6 +1143,7 @@
 ||bullcent.com^
 ||bullfx.io^
 ||bullrun.trades.com^
+||bullxmarkets.org^
 ||bumble7.com^
 ||bunmk2539.icu^
 ||bureepriumism.com^
@@ -1272,6 +1274,7 @@
 ||casioeesti.com^
 ||cassappcard.com^
 ||castarsdk.com^
+||castrovalvalimiteds.com^
 ||casvix.com^
 ||casvnm.com^
 ||catalytics.pro^
@@ -1316,7 +1319,9 @@
 ||centralpointvi.live^
 ||centralworldmall.org^
 ||centralworldmall.vip^
+||centurycrypto.net^
 ||cenutix.com^
+||cenvorx.com^
 ||cerabiapparels.com^
 ||cerebrumiq.com^
 ||cert.fnmt.es^
@@ -1473,6 +1478,7 @@
 ||clqazxvc.com^
 ||clqbd.edistolife.com^
 ||cltlbuslncssonlne.com^
+||clypton.com^
 ||cmacewheel.eu^
 ||cmadex.com^
 ||cmail.com^
@@ -1704,6 +1710,7 @@
 ||cryptosgx.com^
 ||cryptoshieldx.com^
 ||cryptosolutionsltd.org^
+||cryptospin.vip^
 ||cryptotabfarm.com^
 ||cryptouniverse.io^
 ||cryptowallet.cloud^
