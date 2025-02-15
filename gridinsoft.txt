@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.15.140101.2025
+! Version: 02.15.143059.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 15 14:01:01 UTC 2025
+! Last modified: Sat Feb 15 14:30:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7267
+! Number of entries: 7269
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -5223,7 +5223,9 @@
 ||quantumledgerlab.com^
 ||quantums.financialsystem.com^
 ||quantumxexn.org^
+||quantvine.com^
 ||quantvine.online^
+||quantvinee.com^
 ||quantwise.ai^
 ||quantyx.io^
 ||quarkaitrade.com^
