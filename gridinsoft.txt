@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.15.223251.2025
+! Version: 02.15.230050.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 15 22:32:51 UTC 2025
+! Last modified: Sat Feb 15 23:00:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7320
+! Number of entries: 7323
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -17,6 +17,7 @@
 ||1.tiktokimg.online^
 ||100aventuras.com.mx^
 ||100dollarsmails.com^
+||101options.online^
 ||1024tera.com^
 ||10bestsweepstakes.com^
 ||11ph9.com^
@@ -2363,6 +2364,7 @@
 ||escortbazar.in^
 ||escrowpi.com^
 ||eshophu.com^
+||esmadrid.com^
 ||esquentabet.online^
 ||essaymarket.net^
 ||est.invest.pro^
@@ -5286,6 +5288,7 @@
 ||radianta.live^
 ||radianters.com^
 ||radioconexaoubermusic.com^
+||ragratech.fr^
 ||rahhel.com^
 ||raineyeshadowguilty.com^
 ||rainsweb.com^
