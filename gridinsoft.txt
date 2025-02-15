@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.15.033405.2025
+! Version: 02.15.040055.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 15 03:34:05 UTC 2025
+! Last modified: Sat Feb 15 04:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7224
+! Number of entries: 7231
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -31,6 +31,7 @@
 ||15ocakindirim.xyz^
 ||15ocakindirimlerim.xyz^
 ||15ocakindirimlerimi.xyz^
+||163.lu^
 ||163jl.com^
 ||16785a.top^
 ||17.magic88.cc^
@@ -40,6 +41,7 @@
 ||1jili.games^
 ||1movierulzhd.my^
 ||1ohm.in^
+||1strivaincoinc.online^
 ||1woqab.top^
 ||1worldtraining.com^
 ||1wqydy.top^
@@ -1250,6 +1252,7 @@
 ||carte.grise.france.fr^
 ||cartradinghub.com^
 ||casadecorato.store^
+||casalucelighting.com^
 ||cascadefinco.org^
 ||casetesy.com^
 ||cash.tube.online^
@@ -2642,6 +2645,7 @@
 ||foundryusa.com^
 ||fournisseur.io^
 ||foxcc.online^
+||foxexpectplatform.pro^
 ||foxracingoutlet.shop^
 ||foxsofe.app.bond^
 ||fozan.online^
@@ -5800,6 +5804,7 @@
 ||southafricalotto.co.za^
 ||sovereigngoldengate.com^
 ||sp500.cc^
+||spacecminec.com^
 ||spacecoinageminecryps.com^
 ||spagamia.com^
 ||spaindvs.com^
@@ -6106,6 +6111,7 @@
 ||terestdeals.shop^
 ||terrapulsedfg.site^
 ||tesla.investorscorp.pro^
+||teslaproinvestment.com^
 ||teslaspacexelon.com^
 ||tesolarhubs.buzz^
 ||test.aspwyvsj.com^
@@ -6130,6 +6136,7 @@
 ||thebestpdf.com^
 ||thebrighthotel.website^
 ||thebrooklynguitarshow.com^
+||thecapitalconnect.online^
 ||thecapitalholdings.io^
 ||thecardvaultsstore.com^
 ||thecardvaultstore.com^
