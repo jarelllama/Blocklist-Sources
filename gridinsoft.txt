@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.15.213051.2025
+! Version: 02.15.220047.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 15 21:30:51 UTC 2025
+! Last modified: Sat Feb 15 22:00:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7312
+! Number of entries: 7318
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2554,6 +2554,7 @@
 ||financeusdt.com^
 ||financial.acornslimited.com^
 ||financial.investmentconsultantinc.com^
+||finboss.biz^
 ||finbridge.capital.inc.com^
 ||finder2loans.com^
 ||findommeet.com^
@@ -2949,6 +2950,7 @@
 ||goldengooseselect.com^
 ||goldengoosetgreece.cc^
 ||goldenpristine.com^
+||goldenprofitstock.com^
 ||goldentrade.life^
 ||golderagifts.com^
 ||golditry.com^
@@ -3801,6 +3803,7 @@
 ||linconomyinvest.com^
 ||linderan.com^
 ||linfordoffice.com^
+||lingawa.com^
 ||link.center.net^
 ||link.traders.com^
 ||linkaa.cyou^
@@ -5321,6 +5324,7 @@
 ||realmadrid.eu.shop^
 ||realmoney.live^
 ||realstockinvestsltd.com^
+||realworldbroker.pro^
 ||reasonablu.com^
 ||rebasedex.cloud^
 ||rebelsatoshi.com^
@@ -5535,6 +5539,7 @@
 ||salefuet.best^
 ||salemagazineonline.com^
 ||salesbetov.best^
+||saleslickmarket.com^
 ||salewaoutletsespana.es^
 ||salomonteam.com^
 ||samaucy.com^
@@ -6616,6 +6621,7 @@
 ||uniquetrustrades.com^
 ||unitedparcelexpress.online^
 ||unitedstatepharmacy.com^
+||univers.pokemon.fr^
 ||universalwealth.org^
 ||universe.sandbox.2.free.com^
 ||uniwin.top^
