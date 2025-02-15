@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.15.080059.2025
+! Version: 02.15.083248.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 15 08:00:59 UTC 2025
+! Last modified: Sat Feb 15 08:32:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7249
+! Number of entries: 7252
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1493,6 +1493,7 @@
 ||coeursinconnus.com^
 ||cohenxy.com^
 ||coin.a.com^
+||coin.change.live^
 ||coin.go.in^
 ||coin.gofastgo.online^
 ||coinank.com^
@@ -4389,6 +4390,7 @@
 ||neobitix.com^
 ||neogorthopedicsupports.shop^
 ||neomaven.pro^
+||neonfortune.top^
 ||neopaypoint.org^
 ||nerofax.com^
 ||nervedefend.company.site^
@@ -5244,6 +5246,7 @@
 ||ralkem.com^
 ||ralphlauren.best^
 ||randura.com^
+||ranforditsolutions.com^
 ||ranoz.gg^
 ||ranthambhoresafaritour.in^
 ||rapelust.com^
