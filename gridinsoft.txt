@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.15.063513.2025
+! Version: 02.15.070050.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 15 06:35:13 UTC 2025
+! Last modified: Sat Feb 15 07:00:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7240
+! Number of entries: 7243
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -4839,6 +4839,7 @@
 ||pbs.affectation.com^
 ||pcex.com^
 ||pchelpsoft.com^
+||pco.land^
 ||pe.trabajosdiarios.com^
 ||peacheck.com^
 ||peachypeachworld.com^
@@ -5695,6 +5696,7 @@
 ||singingfiles.com^
 ||singlaarchitects.info^
 ||sinneery.com^
+||sinufuu.shop^
 ||sinxed.com^
 ||sirauu.com^
 ||sjtmv.com^
@@ -6968,6 +6970,7 @@
 ||winviag.com^
 ||winwin.bet^
 ||winxdom.com^
+||wirbit.com^
 ||wise.casino.bet^
 ||wise.wealth.net^
 ||wisemean.top^
