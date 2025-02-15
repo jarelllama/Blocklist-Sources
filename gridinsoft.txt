@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.15.024340.2025
+! Version: 02.15.030307.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 15 02:43:40 UTC 2025
+! Last modified: Sat Feb 15 03:03:07 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7212
+! Number of entries: 7216
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1711,6 +1711,7 @@
 ||cu4hsde071bc73f38hm0.enhanceconnection.co.in^
 ||cu7rqq6071bc73a4orp0.protocolchainflow.com^
 ||cuan66.co^
+||cuantrading.com^
 ||cuesandcases.com^
 ||cuevana3.ch^
 ||cuisinepro.shop^
@@ -1970,6 +1971,7 @@
 ||dhlmall.vip^
 ||diamantemcb.us^
 ||diamondjack.top^
+||dianemartinez.shop^
 ||diaonm.com^
 ||dibitcoin.com^
 ||dickies.com.es^
@@ -5922,6 +5924,7 @@
 ||strikearchive.com^
 ||strommaglobal.com^
 ||stroyblock.online^
+||stubitaly.com^
 ||stuncreditfb.com^
 ||stupidus.top^
 ||stusdt.world^
@@ -6179,6 +6182,7 @@
 ||thetrackrecord.org^
 ||thetradehub.net^
 ||thetruthinfo.club^
+||thewisdombible.com^
 ||theworkstep.com^
 ||thgworldwide.com^
 ||thinkcoin.vip^
