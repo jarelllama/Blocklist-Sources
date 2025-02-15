@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.15.173052.2025
+! Version: 02.15.180050.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 15 17:30:52 UTC 2025
+! Last modified: Sat Feb 15 18:00:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7278
+! Number of entries: 7286
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -897,6 +897,7 @@
 ||bithub.bot^
 ||biticrypto.com^
 ||bitindicieskryptotrade.com^
+||bitlancecapitals.com^
 ||bitly.net^
 ||bitmain.com.vc^
 ||bitmain.com^
@@ -922,6 +923,7 @@
 ||bitsellex.com^
 ||bitsmoon.com^
 ||bitsop.pro^
+||bitspin.vip^
 ||bitstake.su^
 ||bitsxpro.com^
 ||bittdrex.com^
@@ -2556,6 +2558,7 @@
 ||fintxpert.com^
 ||finzennews.com^
 ||fireonfootball.com^
+||firm43rades.com^
 ||firmco.mobility.com^
 ||firmdrexworld.com^
 ||firstcomfortsgroup.com^
@@ -4337,6 +4340,7 @@
 ||myg01d.com^
 ||mygardenhelper.online^
 ||myhoneyandpine.com^
+||myloopfmine.com^
 ||mymap.quest^
 ||mymentertainment.online^
 ||mymindwellness.co.uk^
@@ -4580,6 +4584,7 @@
 ||oceangatemarket.com^
 ||oceanprotocol2.life^
 ||oceanprotocol2.xyz^
+||oceant.vip^
 ||oceb.bizvalley.shop^
 ||odaeroticbeauty.netlify.app^
 ||odessacalvertphotographer.com^
@@ -6195,6 +6200,7 @@
 ||thegoodguyssignup.com^
 ||theguisson.co.uk^
 ||thehairiva.com^
+||thehalwayscrest.com^
 ||thehealthyfriday.com^
 ||thehuskytoolshare.com^
 ||thehygienefree.top^
@@ -6311,6 +6317,7 @@
 ||tonbig.com^
 ||tonpick.game^
 ||tonshaker.com^
+||toobittrade.com^
 ||toolspik.com^
 ||toolstationsale.com^
 ||toolstationuk.shop^
@@ -7105,6 +7112,7 @@
 ||xerecoe.shop^
 ||xerocoke.com^
 ||xeromex.com^
+||xetraders.com^
 ||xewios.com^
 ||xexdex.com^
 ||xfnity.id8743.info^
