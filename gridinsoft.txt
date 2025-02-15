@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.15.070050.2025
+! Version: 02.15.073047.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 15 07:00:50 UTC 2025
+! Last modified: Sat Feb 15 07:30:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7243
+! Number of entries: 7246
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -5400,6 +5400,7 @@
 ||roblox.et^
 ||robochain.pro^
 ||robochipcfd.biz^
+||robonhoodgroup.me^
 ||roboq.cc^
 ||robotbitco.in^
 ||rocketusdt.net^
@@ -6914,6 +6915,7 @@
 ||westernaitrade.com^
 ||westtic.com^
 ||wetoxy.com^
+||wfage.cc^
 ||wfbs.store^
 ||wfoqfashion.shop^
 ||wftqatar.com^
@@ -6934,6 +6936,7 @@
 ||whmcmanus.shop^
 ||whole.goldcustom.shop^
 ||wholefilter.com^
+||wholesale.leaks.co^
 ||wholesale21.com^
 ||whoopyrewards.com^
 ||whop.com^
