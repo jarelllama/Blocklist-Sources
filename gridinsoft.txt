@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.15.043451.2025
+! Version: 02.15.050055.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 15 04:34:51 UTC 2025
+! Last modified: Sat Feb 15 05:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7232
+! Number of entries: 7234
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -945,6 +945,7 @@
 ||bk8pac.com^
 ||bkcryptotrade.com^
 ||bkkkb.com^
+||bl777d.com^
 ||blackfridaywholesale.ru^
 ||blackhousemarket.co^
 ||blackjack888.ph^
@@ -6182,6 +6183,7 @@
 ||thepreorderhub.com^
 ||theprimecapital.com^
 ||therealworldjoin.co^
+||theredlioncasino.com^
 ||therivieraofluck.site^
 ||therrafirms.com^
 ||thespotifypremiumapk.com^
