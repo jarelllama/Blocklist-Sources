@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.15.004512.2025
+! Version: 02.15.012743.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 15 00:45:12 UTC 2025
+! Last modified: Sat Feb 15 01:27:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7199
+! Number of entries: 7201
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -264,6 +264,7 @@
 ||aineel.com^
 ||ainewslive.online^
 ||ainology.com^
+||aipodcastempire.live^
 ||aiprofit.us^
 ||airbagtravel.store^
 ||airbrush.fr.com^
@@ -1118,6 +1119,7 @@
 ||buenomarket.store^
 ||buff.163cd.com^
 ||buffboycrops.com^
+||buildabearshop.com^
 ||builderall.net^
 ||buiudr.com^
 ||bujortca.com^
