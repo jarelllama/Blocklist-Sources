@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.15.160049.2025
+! Version: 02.15.163445.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 15 16:00:49 UTC 2025
+! Last modified: Sat Feb 15 16:34:45 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7270
+! Number of entries: 7277
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1155,6 +1155,7 @@
 ||buyado.de^
 ||buyantibiotics24h.net^
 ||buybeararcheryonline.com^
+||buybuywear.com^
 ||buyclonedcards.co.uk^
 ||buycocatea.com^
 ||buymasksgivemasks.top^
@@ -1269,6 +1270,7 @@
 ||castarsdk.com^
 ||casvix.com^
 ||casvnm.com^
+||catalytics.pro^
 ||catenarydojo.com^
 ||caterpillarargentinaonline.com^
 ||catholicpsychconsult.com^
@@ -3090,6 +3092,7 @@
 ||hedition.com^
 ||helenaatelier.com^
 ||helikon.texoffxp.shop^
+||helixtimes.com^
 ||hello.hello.site^
 ||hellokitty.store.com^
 ||hellotripsitters.com^
@@ -5175,6 +5178,7 @@
 ||q.orlen.org.pl^
 ||q.usdnba.cc^
 ||q4ddc0.webwave.dev^
+||qa.ooooo.ink^
 ||qaleel.com^
 ||qalrlr.shop^
 ||qartba.com^
@@ -5995,6 +5999,7 @@
 ||sunbit.cc^
 ||sunbit.ren^
 ||sundararajanneurohospital.com^
+||sundaura.us^
 ||sunehladeal.com^
 ||sunnygo.co.uk^
 ||sunriseshop.in^
@@ -6085,6 +6090,7 @@
 ||t2.awagama2.org^
 ||tackleft.com^
 ||tads.baker.co.za^
+||tailoredsucorp.com^
 ||takchu.com^
 ||takemyhairs.com^
 ||takemyhairs.top^
@@ -7205,6 +7211,7 @@
 ||zadigvoltairevip.com^
 ||zakds.info^
 ||zakworld.ltd^
+||zaldman.com^
 ||zalurex.com^
 ||zambezifive.com^
 ||zapaka.fr^
