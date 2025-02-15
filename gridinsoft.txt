@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.15.083248.2025
+! Version: 02.15.090047.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 15 08:32:48 UTC 2025
+! Last modified: Sat Feb 15 09:00:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7252
+! Number of entries: 7254
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -522,6 +522,7 @@
 ||asap777.online^
 ||ascensionio.online^
 ||ascot.pro^
+||asdfger.com^
 ||asiacargo.online^
 ||asian.gifts.square.site^
 ||asickey.com^
@@ -4844,6 +4845,7 @@
 ||pchelpsoft.com^
 ||pco.land^
 ||pe.trabajosdiarios.com^
+||peacegals.com^
 ||peacheck.com^
 ||peachypeachworld.com^
 ||peakstonebull.com^
