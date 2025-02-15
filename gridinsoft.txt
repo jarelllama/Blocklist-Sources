@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.14.233041.2025
+! Version: 02.15.000158.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 14 23:30:41 UTC 2025
+! Last modified: Sat Feb 15 00:01:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7193
+! Number of entries: 7198
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -174,6 +174,7 @@
 ||acquistadocumenti.com^
 ||acropolisnow.top^
 ||acrossfold.com^
+||acrylicinvestment.com^
 ||actiers.com^
 ||action.profits.com^
 ||activations.ledger.com^
@@ -538,6 +539,7 @@
 ||assetsnavigator.com^
 ||assetwise.invest.com^
 ||assetxchangee.com^
+||assiduousdistributor.com^
 ||assignations.pb.com^
 ||assignmenthelpersonline.co.uk^
 ||assiseaulosdansy.online^
@@ -1502,6 +1504,7 @@
 ||coinget.online^
 ||coingetbit.com^
 ||coinghw.com^
+||coinjak.com^
 ||coinlocally.forex^
 ||coinoah.vip.cc^
 ||coinomi.com^
@@ -4503,6 +4506,7 @@
 ||npebr8trk.com^
 ||nrilimited.com^
 ||nrsa.in^
+||nswgame.com^
 ||nt.h5.com^
 ||nubil.nl^
 ||nudevista.com^
@@ -6573,6 +6577,7 @@
 ||usdttransfer.xyz^
 ||usdtwesc.shop^
 ||usdtworlds.com^
+||use.flirt.com^
 ||usefultoolpart.com^
 ||useproakira.com^
 ||usepxl8r.com^
