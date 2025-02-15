@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.15.113100.2025
+! Version: 02.15.120104.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 15 11:31:00 UTC 2025
+! Last modified: Sat Feb 15 12:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7257
+! Number of entries: 7260
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1899,6 +1899,7 @@
 ||defi.pad.com^
 ||defi.v1.com^
 ||defi999.vip^
+||defiatxkm.com^
 ||deficonnect.dev^
 ||defid.top^
 ||defidappsrestore.web.app^
@@ -2091,6 +2092,7 @@
 ||doubledeckertourbus.com^
 ||dowjones.vip.com^
 ||download.wondershare.net^
+||download2.douploads.com^
 ||downloadfiles.link^
 ||downloadfree4.com^
 ||dowynert.com^
@@ -2405,6 +2407,7 @@
 ||exorbit.online^
 ||expand.experts.com^
 ||expert.coinasset.com^
+||expert.tech.org^
 ||expertmarkettrade.com^
 ||experttraderchanel.com^
 ||exploit.in^
