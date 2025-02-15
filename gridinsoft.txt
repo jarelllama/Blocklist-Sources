@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.15.203043.2025
+! Version: 02.15.210055.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 15 20:30:43 UTC 2025
+! Last modified: Sat Feb 15 21:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7306
+! Number of entries: 7311
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -785,6 +785,7 @@
 ||biglotsoverstock.com^
 ||biglotsshoppingplaza.com^
 ||biglotsusa.sale.com^
+||biglotswv.com^
 ||bigminings.org^
 ||bigminings.pro^
 ||bigoutdoorshop.com^
@@ -2648,6 +2649,7 @@
 ||forex.autotrades.com^
 ||forex.traders.cc^
 ||forexcrackedvip.com^
+||forexew.com^
 ||forexmatrix.ltd^
 ||forexpotentialtrade.com^
 ||forexpulse.site^
@@ -3590,6 +3592,7 @@
 ||khoten.shop^
 ||khujooutlet.es^
 ||kickscrew.com^
+||kiddionsmodmenu.com^
 ||kidol.in^
 ||kids4attire.com^
 ||kidschannel.online^
@@ -5070,6 +5073,7 @@
 ||productonline.cloud^
 ||profit.centr24.ru^
 ||profittrade.live^
+||profitwithwifi.com^
 ||profumeriearoma.com^
 ||programafullpc.com^
 ||proivestgrp.com^
@@ -6303,6 +6307,7 @@
 ||tita.group.it.com^
 ||titan13.com^
 ||titfinder.com^
+||titmining.com^
 ||tixuren.com^
 ||tjsummer.com^
 ||tjzrcu.info^
