@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.15.030307.2025
+! Version: 02.15.033405.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 15 03:03:07 UTC 2025
+! Last modified: Sat Feb 15 03:34:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7216
+! Number of entries: 7224
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -548,6 +548,7 @@
 ||assortedtechnology.com^
 ||assuredincs.com^
 ||ast2025.shop^
+||asterfxsignals.com^
 ||astomstyle.asia^
 ||astradumps.com^
 ||astrocrestonunion.com^
@@ -1526,6 +1527,7 @@
 ||cointmin.cc^
 ||cointradeexchange.asia^
 ||coinvale.io^
+||coinvestoptions.com^
 ||coinwbga.com^
 ||coldbit.net^
 ||colddms.com^
@@ -2133,6 +2135,7 @@
 ||dunamiscybersolution.com^
 ||dundundumpling.online^
 ||dunekhing.com^
+||dunenectarwebexpert.com^
 ||duod03.com^
 ||dutchstorebv.nl^
 ||dvancedco.biz^
@@ -2381,8 +2384,10 @@
 ||evornelle.click^
 ||evyplay.com^
 ||ewaqg.com^
+||exchangevista.com^
 ||exciting.meet.casual.com^
 ||exclusive.redeem.com^
+||exclusivetradeoption.live^
 ||excotrade.com^
 ||exiledexchange2.com^
 ||exnesstradecenter.com^
@@ -4298,6 +4303,7 @@
 ||my.exness.com^
 ||my.fxmt.tech^
 ||myaccount.enigmasoftware.com^
+||myalphanexus.com^
 ||myamericanprizes3.com^
 ||mybewin.com^
 ||mybrightframe.com^
@@ -4997,6 +5003,7 @@
 ||primeotp.com^
 ||primeplatform.online^
 ||primetransactltd.com^
+||primetslatrading.com^
 ||primewire.tf^
 ||primitivesystem.online^
 ||pristinedrivecarcare.com^
@@ -5833,6 +5840,7 @@
 ||springcapipro.com^
 ||springcp.online^
 ||springfieldarmoryarms.com^
+||springpromotors.com^
 ||sprunkiphase.online^
 ||srchfst.com^
 ||sreamconmymnltty.com^
