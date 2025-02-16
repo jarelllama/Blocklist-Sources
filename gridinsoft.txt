@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.16.180105.2025
+! Version: 02.16.183416.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 16 18:01:05 UTC 2025
+! Last modified: Sun Feb 16 18:34:16 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7405
+! Number of entries: 7409
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -111,6 +111,7 @@
 ||777.batata777.vip^
 ||777color87.com^
 ||777xk153.cc^
+||7gamevip.vip^
 ||7k.casino.16.online^
 ||7l77vn.site^
 ||7starbet.com^
@@ -3673,6 +3674,7 @@
 ||kleinanzeigen.de^
 ||klim.us.store.shop^
 ||klixglobal.net^
+||klmclassicauto.com^
 ||kloomba.com^
 ||klowin.com^
 ||kmspico.ltd^
@@ -4998,6 +5000,7 @@
 ||pilot.iptv.com^
 ||pinafinance.org^
 ||pinetworkvalidator.com^
+||pinklipserum.com^
 ||pinkonline.store^
 ||pinmate.app^
 ||pinmatedownloader.com^
@@ -5460,6 +5463,7 @@
 ||revealgenderonline.com^
 ||reventa.co^
 ||revenuebot.io^
+||revicorck.com^
 ||reviewsrecipes.com^
 ||revisnest.com^
 ||revnest.online^
