@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.16.163420.2025
+! Version: 02.16.170056.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 16 16:34:20 UTC 2025
+! Last modified: Sun Feb 16 17:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7396
+! Number of entries: 7401
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1196,6 +1196,7 @@
 ||bytes.link.online^
 ||bytexcrypto.com^
 ||bzillion.club^
+||bzmra.com^
 ||c.c3g.cn^
 ||c24house.com^
 ||c6s.net^
@@ -2919,6 +2920,7 @@
 ||givemeanswers.net^
 ||givespacex.io^
 ||glamoreal.com^
+||glamourpeptides.com^
 ||glanzberg.mode.de^
 ||glasslockmart.shop^
 ||glbgpt.com^
@@ -3269,6 +3271,7 @@
 ||hotvxfs.shop^
 ||hotwatch.live^
 ||hotwatch.pro^
+||hotyprise.com^
 ||housescrappersllc.online^
 ||housevaluetool.com^
 ||houze.ie.2025.shop^
@@ -5026,6 +5029,7 @@
 ||playstation.stores.com^
 ||pledgeoffers.com^
 ||plinko.france.org^
+||plinkooyunu.net^
 ||pljn.store^
 ||plmin.xyz^
 ||ploise.com^
@@ -6989,6 +6993,7 @@
 ||wck37.top^
 ||wcostream.tv^
 ||wctclaim.netlify.app^
+||wdass.com^
 ||wdisales.store^
 ||wdnhspecial.shop^
 ||wds.weqs.ink^
