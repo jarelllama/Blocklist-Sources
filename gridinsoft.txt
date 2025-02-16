@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.16.024541.2025
+! Version: 02.16.030651.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 16 02:45:41 UTC 2025
+! Last modified: Sun Feb 16 03:06:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7346
+! Number of entries: 7349
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1664,6 +1664,7 @@
 ||crsverify.online^
 ||crushon.ai^
 ||crydapp.ai^
+||crynet2.top^
 ||cryp22earn.com^
 ||cryptallstars.online^
 ||cryptcrestltd.com^
@@ -3464,6 +3465,7 @@
 ||jadloresga.shop^
 ||jaguafrangosalimentosltda.com^
 ||jainmandir.info^
+||jalisco.qr.online^
 ||jamai.top^
 ||jamesisti.site^
 ||janrvnuagnt.co^
@@ -7222,6 +7224,7 @@
 ||ycrxys.com^
 ||ydior.shop^
 ||yeahiptvi.com^
+||yearpilrim.com^
 ||yeezys.com.mx^
 ||yen.tky.com^
 ||yepbit4.com^
