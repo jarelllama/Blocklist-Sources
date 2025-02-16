@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.16.080104.2025
+! Version: 02.16.083251.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 16 08:01:04 UTC 2025
+! Last modified: Sun Feb 16 08:32:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7369
+! Number of entries: 7371
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2254,6 +2254,7 @@
 ||ehamarkets.com^
 ||ehoaq.com^
 ||ehoplay.com^
+||ei.svn.online.online^
 ||eileenfisher.us.com^
 ||einhell.eusite.com^
 ||ekbrick.com^
@@ -7162,6 +7163,7 @@
 ||wwtchain.top^
 ||www.6546.com^
 ||www.apeswap.org^
+||www.bidencash.com^
 ||www.indigocard.com^
 ||www.jcb.co.vaengi.com^
 ||www.rae.es.webpkgcache.com^
