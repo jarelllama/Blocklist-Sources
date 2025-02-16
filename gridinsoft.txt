@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.16.060049.2025
+! Version: 02.16.063440.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 16 06:00:49 UTC 2025
+! Last modified: Sun Feb 16 06:34:40 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7361
+! Number of entries: 7363
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1124,6 +1124,7 @@
 ||btcpaypartners.com^
 ||btcpromining.com^
 ||btctransferwallet.com^
+||btcut.io^
 ||btcvipotc.com^
 ||btfxtraders.com^
 ||btradescenter.com^
@@ -3632,6 +3633,7 @@
 ||kissasiantv.cx^
 ||kisslove.com^
 ||kissminis.com^
+||kissoffering.com^
 ||kisuort.shop^
 ||kitcarik.com^
 ||kitchen.products.online^
