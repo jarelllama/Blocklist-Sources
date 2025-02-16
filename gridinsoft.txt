@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.16.070052.2025
+! Version: 02.16.073046.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 16 07:00:52 UTC 2025
+! Last modified: Sun Feb 16 07:30:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7364
+! Number of entries: 7368
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2589,6 +2589,7 @@
 ||firm43rades.com^
 ||firmco.mobility.com^
 ||firmdrexworld.com^
+||firmtechrecovery.net^
 ||firstcomfortsgroup.com^
 ||firstwin.click^
 ||firstwinbet.online^
@@ -4558,6 +4559,7 @@
 ||nlleenbakker.com^
 ||nlvivobarefoot.com^
 ||nnenry.online^
+||noblehackshield.com^
 ||nobrix.cfd^
 ||nobull.colombia.co^
 ||node29.datanodes.to^
@@ -4633,6 +4635,7 @@
 ||oceanprotocol2.xyz^
 ||oceant.vip^
 ||oceb.bizvalley.shop^
+||octagonfix.com^
 ||odaeroticbeauty.netlify.app^
 ||odessacalvertphotographer.com^
 ||odex.top^
@@ -6536,6 +6539,7 @@
 ||tructi.com^
 ||truecareliving.online^
 ||truepayx.com^
+||trump.ust.com^
 ||trumpfair.io^
 ||trumpmeme.info^
 ||trumptokenofficial.com^
