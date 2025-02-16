@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.16.020619.2025
+! Version: 02.16.024541.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 16 02:06:19 UTC 2025
+! Last modified: Sun Feb 16 02:45:41 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7342
+! Number of entries: 7346
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -4257,6 +4257,7 @@
 ||modeflair.com^
 ||modehouse.melbourne.com^
 ||modenest.com^
+||modernsmarttech.com^
 ||modernwristwatches.shop^
 ||modilimitado.io^
 ||modpenset.com^
@@ -5966,6 +5967,7 @@
 ||startperfectsolutions.com^
 ||startrader.com^
 ||startwrit.com^
+||statedebtreliefprogram.com^
 ||stateonlineauction.com^
 ||static.olymptrade.com^
 ||statspoot.com^
@@ -6138,6 +6140,7 @@
 ||t.mediapros02.world^
 ||t.peer.com^
 ||t2.awagama2.org^
+||tabtouch.com.au^
 ||tackleft.com^
 ||tads.baker.co.za^
 ||tailoredsucorp.com^
@@ -7064,6 +7067,7 @@
 ||winviag.com^
 ||winwin.bet^
 ||winxdom.com^
+||wipowaxe.com^
 ||wirbit.com^
 ||wise.casino.bet^
 ||wise.wealth.net^
