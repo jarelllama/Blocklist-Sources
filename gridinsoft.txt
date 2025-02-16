@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.16.183416.2025
+! Version: 02.16.190051.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 16 18:34:16 UTC 2025
+! Last modified: Sun Feb 16 19:00:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7409
+! Number of entries: 7412
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2584,6 +2584,7 @@
 ||financial.acornslimited.com^
 ||financial.investmentconsultantinc.com^
 ||finboss.biz^
+||finbot.vip^
 ||finbridge.capital.inc.com^
 ||fincoinax.com^
 ||finder2loans.com^
@@ -3906,6 +3907,7 @@
 ||lolasee.com^
 ||lolex.net^
 ||lomi.flow.com^
+||lomocrewz.com^
 ||london.elegance.com^
 ||londongroupinvestments.com^
 ||longchampespana.cc^
@@ -4588,6 +4590,7 @@
 ||nodess.pages.dev^
 ||noirvere.com^
 ||nolitex.com^
+||nomadedigital.me^
 ||nomisite8.online^
 ||nordfinnance.com^
 ||nordic.finanx.com^
