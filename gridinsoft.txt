@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.16.130346.2025
+! Version: 02.16.133049.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 16 13:03:46 UTC 2025
+! Last modified: Sun Feb 16 13:30:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7381
+! Number of entries: 7386
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -506,6 +506,7 @@
 ||arjantltd.com^
 ||ark888.vip^
 ||arkacoin.com^
+||arkavevr.com^
 ||arkcypher.net^
 ||arldeemix.com^
 ||arlequin.traiteur.com^
@@ -1065,6 +1066,7 @@
 ||brandmasterswholesale.com^
 ||brandtrendp.com^
 ||brasatrade.com^
+||brasilenviosbr.com^
 ||brasilenviosnet.com^
 ||braveitaliangreyhound.com^
 ||braw4.net^
@@ -1789,6 +1791,7 @@
 ||d3bqx5dvn4460l.drnppqmp.cc^
 ||d3pcx41g7mhiud.cloudfront.net^
 ||d4iqpj8tqft8l.cloudfront.net^
+||d6vn.com^
 ||daarklabsuplementos.com^
 ||dagahna.fun^
 ||daily.deals.sale^
@@ -6373,6 +6376,7 @@
 ||tldindia.online^
 ||tlklwruwbjekpxu.online^
 ||tllenmarketing.online^
+||tme.st^
 ||tmgmoo.com^
 ||tmtnft.com^
 ||tmtnft.xyz^
@@ -6934,6 +6938,7 @@
 ||w3er.top^
 ||waa7.com^
 ||waas.network^
+||wafssstore.shop^
 ||wagerinox.com^
 ||wagexera.com^
 ||wailinfortcapital.com^
