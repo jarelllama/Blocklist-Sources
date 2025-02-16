@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.16.160100.2025
+! Version: 02.16.163420.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 16 16:01:00 UTC 2025
+! Last modified: Sun Feb 16 16:34:20 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7390
+! Number of entries: 7396
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2449,6 +2449,7 @@
 ||exoky.com^
 ||exonvic.com^
 ||exorbit.online^
+||exoticparrotpetstore.com^
 ||expand.experts.com^
 ||expert.coinasset.com^
 ||expert.tech.org^
@@ -2941,6 +2942,7 @@
 ||globalsfundrecovery.com^
 ||globalsmartrade.com^
 ||globalswift.access.com^
+||globalultrafx.net^
 ||globe.trade.ltd^
 ||globeathome.online^
 ||globeprimesignals.online^
@@ -4613,8 +4615,10 @@
 ||npebr8trk.com^
 ||nrilimited.com^
 ||nrsa.in^
+||nsbbi.com^
 ||nswgame.com^
 ||nt.h5.com^
+||nubex.net^
 ||nubil.nl^
 ||nudevista.com^
 ||nudify.online^
@@ -6031,6 +6035,7 @@
 ||steroidskaufen.com^
 ||stggege.org^
 ||sthbill.com^
+||stieamccommnunlty.com^
 ||stleamccmmnunlty.com^
 ||stocklogs.info^
 ||stockresoluteprofx.com^
@@ -7118,6 +7123,7 @@
 ||wittweidende.store^
 ||wixrol.com^
 ||wizonex.com^
+||wj2ph11.com^
 ||wjfggroup.co^
 ||wkwvmall.shop^
 ||wldshop.online^
