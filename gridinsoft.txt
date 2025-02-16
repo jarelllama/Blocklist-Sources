@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.16.090058.2025
+! Version: 02.16.093048.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 16 09:00:58 UTC 2025
+! Last modified: Sun Feb 16 09:30:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7371
+! Number of entries: 7374
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -267,6 +267,7 @@
 ||aiignedfoundation.genesis.com^
 ||aiinvesttron.com^
 ||aimbotfortnite.org^
+||aimhaven.com^
 ||aimrents.com^
 ||aimxecoin.com^
 ||aineel.com^
@@ -4969,6 +4970,7 @@
 ||phrush27859.com^
 ||phub.at^
 ||physichope.com^
+||pi2usd.com^
 ||piako.finance.com^
 ||pickyspun.com^
 ||pietrodiuccio.com^
@@ -5800,6 +5802,7 @@
 ||skateshoesonline.sk^
 ||skhealthline.com^
 ||skidipapap.online^
+||skidrowcodex.net^
 ||skillcrafttech.com^
 ||skilllynxw.top^
 ||skinrave.gg^
