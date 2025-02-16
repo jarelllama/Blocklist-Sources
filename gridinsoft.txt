@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.16.004531.2025
+! Version: 02.16.012830.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 16 00:45:31 UTC 2025
+! Last modified: Sun Feb 16 01:28:30 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7332
+! Number of entries: 7338
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1169,6 +1169,7 @@
 ||buybuywear.com^
 ||buyclonedcards.co.uk^
 ||buycocatea.com^
+||buydecorhome.com^
 ||buymasksgivemasks.top^
 ||buysoma.online^
 ||buythepencil.com^
@@ -2030,6 +2031,7 @@
 ||digiterminator.online^
 ||digitsagency.online^
 ||digitsathi.co.in^
+||dinegt.click^
 ||dinodex.net^
 ||diptyque.shop^
 ||diptysales.com^
@@ -2268,6 +2270,7 @@
 ||elitezone.online^
 ||elixotrade.com^
 ||elixrium.online^
+||eljobhuntde.com^
 ||ellamode.nl^
 ||elleynur.com^
 ||elluminex.com^
@@ -5928,6 +5931,7 @@
 ||sreamconmymnltty.com^
 ||srimuthappanholidayscoorg.com^
 ||sriwtte.com^
+||sscnapoli.eu.shop^
 ||sse.s.com^
 ||sseeline.com^
 ||ssseeebays.com^
@@ -7001,6 +7005,7 @@
 ||wfbs.store^
 ||wfoqfashion.shop^
 ||wftqatar.com^
+||wg1888.com^
 ||whalelogistic.com^
 ||whatisketamine.com^
 ||whatsapp.hustlerdiaries.com^
@@ -7033,6 +7038,7 @@
 ||williamssonomaind.com^
 ||wilsoncrypto.pro^
 ||win.streak.net^
+||win666.net^
 ||winberx.com^
 ||winbignowz92.info^
 ||winbiology.online^
