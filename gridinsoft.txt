@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.16.203100.2025
+! Version: 02.16.210051.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 16 20:31:00 UTC 2025
+! Last modified: Sun Feb 16 21:00:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7418
+! Number of entries: 7421
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -779,6 +779,7 @@
 ||beyondprostate.com^
 ||beyondstandard.org^
 ||bgcdsd.shop^
+||bgczz.com^
 ||bggbet.com^
 ||bgoyia.vip^
 ||bic.a.com^
@@ -2170,6 +2171,7 @@
 ||drw.vip.cc^
 ||ds2play.com^
 ||dsaileads.com^
+||dshbitcomail.com^
 ||dskonline.bg^
 ||dstockaffaires.com^
 ||dtfvg.net^
@@ -4563,6 +4565,7 @@
 ||nickspizzasubs.com^
 ||nicliquid.com^
 ||nicolcssubreville.shop^
+||niduf.com^
 ||niffyhub.com^
 ||nightbux.com^
 ||nikecolombiabogota.co^
