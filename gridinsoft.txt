@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.16.230104.2025
+! Version: 02.16.233047.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 16 23:01:04 UTC 2025
+! Last modified: Sun Feb 16 23:30:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7439
+! Number of entries: 7447
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -3092,6 +3092,7 @@
 ||gvgcxm.cc^
 ||gwendolyngantt.com^
 ||gymshark.outlet.shop^
+||gzjmelectronic.com^
 ||h01k.xyz^
 ||h5.aifeex.com^
 ||h5.amazonpd.club^
@@ -3600,6 +3601,7 @@
 ||jyskfurniture.eu.com^
 ||jyskhome.eu.com^
 ||jyskus.com^
+||jztjgy.com^
 ||k.waymall.shop^
 ||k03p.xyz^
 ||kadesignandbuild.co.uk^
@@ -3679,6 +3681,7 @@
 ||kiwiown.co.nz^
 ||kixaikisuccessful.net^
 ||kjkjg.top^
+||kjsdh.com^
 ||kkczocen.shop^
 ||kkminer.top^
 ||kks.encrypted.com^
@@ -4215,6 +4218,7 @@
 ||midlandintercontinental.com^
 ||midly.in^
 ||midsizedcars.com^
+||miehou.com^
 ||miespe.espe.edu.ec^
 ||migflash.net^
 ||mightycleansolutions.com^
@@ -5575,6 +5579,7 @@
 ||royalreels7.com^
 ||rpmvape.com^
 ||rpnodes.tech^
+||rrbob.com^
 ||rroyaltyj.monster^
 ||rturd.com^
 ||rufiji.capital^
@@ -7386,6 +7391,7 @@
 ||zcode.system.online^
 ||zcsmw.com^
 ||zdigitalagencymt.cc^
+||zdwlx.com^
 ||zedger.net^
 ||zeharris.online^
 ||zelamex.com^
@@ -7406,6 +7412,7 @@
 ||zesphyr.com^
 ||zetboom.com^
 ||zetdax.top^
+||zfits.com^
 ||zfp.zfppool.com^
 ||zgiu.store^
 ||zgub.store^
@@ -7417,6 +7424,7 @@
 ||zimasilkt.com^
 ||zimtrades.com^
 ||ziprecruiter.com^
+||zjj.jh.com^
 ||zjulpujub.wlasnnz.cn^
 ||zkexchange.org^
 ||zkfair.io^
