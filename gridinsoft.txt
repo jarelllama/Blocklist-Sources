@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.15.233048.2025
+! Version: 02.16.000159.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 15 23:30:48 UTC 2025
+! Last modified: Sun Feb 16 00:01:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7325
+! Number of entries: 7331
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -39,6 +39,7 @@
 ||17ebook.com^
 ||190724.com^
 ||19www.vivetuaventurasinlimitespromo.com^
+||1fuel.live^
 ||1jili.games^
 ||1movierulzhd.my^
 ||1ohm.in^
@@ -2235,6 +2236,7 @@
 ||eexevaudraikair.net^
 ||effortlessluxurious.com^
 ||effuciaency.com^
+||egascm.com^
 ||eggmall.vip^
 ||eghealthsolutions.com^
 ||egqgzks7sytjxydypez1ls.8akm5.ondigitalocean.app^
@@ -3164,6 +3166,7 @@
 ||hkdatong.shop^
 ||hkfutufund.com^
 ||hklminingtech.com^
+||hkuev.com^
 ||hlamw.top^
 ||hlgonaricks.com^
 ||hm.ru^
@@ -5567,6 +5570,7 @@
 ||satllcdubai.com^
 ||sato.castle.com^
 ||satrc20.app^
+||sats.crypto.us^
 ||saturnwallet.app^
 ||sauconyfootwear.com^
 ||sauconysneakersdiscount.shop^
@@ -6183,6 +6187,7 @@
 ||teneo.pro^
 ||tentroearnings.com^
 ||tentron.mining.net^
+||tenueazur.blog^
 ||terbangria.online^
 ||terestdeals.shop^
 ||terrapulsedfg.site^
@@ -6919,6 +6924,7 @@
 ||wattprosaver.com^
 ||wave.trader.com^
 ||wavytalkza.store^
+||waxebet.com^
 ||waxx.network^
 ||wayestyle.store^
 ||wayfair.mall.cc^
