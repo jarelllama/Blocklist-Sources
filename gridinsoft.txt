@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.16.050051.2025
+! Version: 02.16.053226.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 16 05:00:51 UTC 2025
+! Last modified: Sun Feb 16 05:32:26 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7356
+! Number of entries: 7360
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -60,6 +60,7 @@
 ||2026.lat^
 ||2040stage.online^
 ||20game7.com^
+||2360tv.com^
 ||244buildschile.com^
 ||247cryptotrade.net^
 ||24autopartsmaster.com^
@@ -3034,6 +3035,7 @@
 ||growthsedges.online^
 ||grunsguru.com^
 ||grupohersa.org^
+||gryphon.trx.com^
 ||gs.zbzy.cc^
 ||gtc.lol^
 ||gten956.vip^
@@ -3157,6 +3159,7 @@
 ||hianime.to^
 ||hiddnarchive.com^
 ||hidollshop.top^
+||highgradeglobal.com^
 ||highhillfurniture.com^
 ||hijra7.online^
 ||hikarudistribution.com^
@@ -3295,6 +3298,7 @@
 ||iakamgaming.com^
 ||iamnew.powerappsportals.com^
 ||iaoption.com^
+||iapwe.org^
 ||iastfund.com^
 ||iavvky.com^
 ||ibisnashikhotel.online^
