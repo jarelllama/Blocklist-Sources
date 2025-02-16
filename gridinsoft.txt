@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.16.220056.2025
+! Version: 02.16.223203.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 16 22:00:56 UTC 2025
+! Last modified: Sun Feb 16 22:32:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7423
+! Number of entries: 7432
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -788,6 +788,7 @@
 ||bielsko.biala.online^
 ||big.bossaviator.com^
 ||bigboobdate.com^
+||bigboomax.com^
 ||bigfat.chat^
 ||biggetex.com^
 ||biglotsclosures.com^
@@ -1286,6 +1287,7 @@
 ||cash.tube.online^
 ||cashcow.wang^
 ||cashphoneoriginal.com^
+||casinoblue.world^
 ||casinofree2.online^
 ||casinopurple.com^
 ||casioeesti.com^
@@ -2672,6 +2674,7 @@
 ||focusmarkets.com^
 ||fogeque.shop^
 ||fokatcash.in^
+||foksdex.com^
 ||fokuskan.diri.shop^
 ||followgram.co^
 ||followthepromo.com^
@@ -6078,7 +6081,9 @@
 ||strapsui.com^
 ||strategy66.cc^
 ||strattrade.org^
+||strazwix.com^
 ||streakbullexperts.com^
+||streakspin.com^
 ||streamworld.co^
 ||streetfair.xyz^
 ||strengtheng.fr^
@@ -6086,6 +6091,7 @@
 ||strikearchive.com^
 ||strommaglobal.com^
 ||stroyblock.online^
+||strugdex.fun^
 ||stubitaly.com^
 ||stuncreditfb.com^
 ||stupidus.top^
@@ -7075,6 +7081,7 @@
 ||welovegenshinimpact.com^
 ||wemixplay.com^
 ||wenku.k8kaifa.com^
+||werendex.com^
 ||westernaitrade.com^
 ||westtic.com^
 ||wetoxy.com^
@@ -7132,6 +7139,7 @@
 ||winprofxtrade.com^
 ||winsdonechipper.com^
 ||winstreasure.com^
+||wintakes.com^
 ||wintogetherplan.com^
 ||wintronrtx.com^
 ||wintrustequities.net^
@@ -7139,6 +7147,7 @@
 ||winviag.com^
 ||winwin.bet^
 ||winxdom.com^
+||winzo.bet^
 ||wipowaxe.com^
 ||wirbit.com^
 ||wise.casino.bet^
