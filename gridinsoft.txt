@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.16.223203.2025
+! Version: 02.16.230104.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 16 22:32:03 UTC 2025
+! Last modified: Sun Feb 16 23:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7432
+! Number of entries: 7439
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -517,6 +517,7 @@
 ||arnavix.online^
 ||arokini.com^
 ||arowinvest.pro^
+||arrowsale.com^
 ||ars88safe.online^
 ||artabusiness.com^
 ||artchains.org^
@@ -1134,6 +1135,7 @@
 ||btcut.io^
 ||btcvipotc.com^
 ||btfxtraders.com^
+||btgbtm.com^
 ||btradescenter.com^
 ||btseus.net^
 ||bubblesbets.com^
@@ -2825,6 +2827,7 @@
 ||galjoyhit.com^
 ||gallentra.com^
 ||gamacasino9448.xyz^
+||gambler.solutions^
 ||gamblers.monster^
 ||gamblerx.fun^
 ||gambyllion.com^
@@ -4511,6 +4514,7 @@
 ||newideaa.shop^
 ||newlearning.icu^
 ||newlrra.online^
+||newperseverance.shop^
 ||newrocksouthafrica.com^
 ||news.bbavuri.info^
 ||news.bfowago.cc^
@@ -5498,6 +5502,7 @@
 ||rezorbit.com^
 ||rfyw.store^
 ||rg.rgmg.xyz^
+||rgxfl.com^
 ||rhinetops.com^
 ||rhodemexico.com^
 ||ribumee.shop^
@@ -6280,6 +6285,7 @@
 ||tether.xaut.org^
 ||tetherminingcloud.com^
 ||texbiom.com^
+||texbiom.pro^
 ||texitcoin.org^
 ||tfalcon.online^
 ||tfoskn.shop^
@@ -6624,6 +6630,7 @@
 ||ts761hgd.com^
 ||tsauvip.ing^
 ||tshilaige.com^
+||tslsjc.com^
 ||tsyndicate.com^
 ||tt.tiktokmarketplace.online^
 ||ttescort.com^
