@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.16.170056.2025
+! Version: 02.16.173102.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 16 17:00:56 UTC 2025
+! Last modified: Sun Feb 16 17:31:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7401
+! Number of entries: 7402
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -4892,6 +4892,7 @@
 ||parecoin.com^
 ||paribet.in^
 ||parisdocase.com^
+||parkdealer.com^
 ||parkhughes.com^
 ||parkit.nc.com^
 ||parksideamonline.shop^
