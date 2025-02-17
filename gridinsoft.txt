@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.193055.2025
+! Version: 02.17.200058.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 19:30:55 UTC 2025
+! Last modified: Mon Feb 17 20:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7548
+! Number of entries: 7549
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -4890,6 +4890,7 @@
 ||optnutritips.com^
 ||opukoj.com^
 ||orange.co.uk^
+||orbimount.io^
 ||orbisbux.com^
 ||orbitdigitalfund.com^
 ||orbitray.cc^
