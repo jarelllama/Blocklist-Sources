@@ -5,6 +5,10 @@
 
 readonly DOMAIN_REGEX='[[:alnum:]][[:alnum:].-]*[[:alnum:]]\.[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*'
 
+for source in source_gridinsoft source_malwareurl; do
+    $source || true
+done
+
 source_gridinsoft() {
     local source_url='https://gridinsoft.com/website-reputation-checker'
 
@@ -93,9 +97,3 @@ if ! command -v hostlist-compiler &> /dev/null; then
 fi
 
 set -e
-
-source_gridinsoft
-
-#source_easydmarc
-
-source_malwareurl
