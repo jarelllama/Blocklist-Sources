@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.140050.2025
+! Version: 02.17.143351.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 14:00:50 UTC 2025
+! Last modified: Mon Feb 17 14:33:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7524
+! Number of entries: 7527
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1406,6 +1406,7 @@
 ||chemicaldepotllc.com^
 ||chemicaltiger.com^
 ||cheqseep.online^
+||cherax.menu^
 ||chesterron.com^
 ||chiccraftz.com^
 ||chicfitx.com^
@@ -3464,6 +3465,7 @@
 ||interiorautoacc.com^
 ||interlogistics.com.vn^
 ||internhouse.online^
+||interodigitalwork25.com^
 ||intimocontenitivo.com^
 ||introtocrypto.xyz^
 ||invest.cryptonetworkspace.com^
@@ -5671,6 +5673,7 @@
 ||sabready.com^
 ||sadalds.store^
 ||safarywatches.com^
+||safe-tradefinance.ltd^
 ||safeapk.net^
 ||safehavenbancshares.online^
 ||safemedistore.com^
