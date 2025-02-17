@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.143351.2025
+! Version: 02.17.150056.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 14:33:51 UTC 2025
+! Last modified: Mon Feb 17 15:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7527
+! Number of entries: 7532
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -305,6 +305,7 @@
 ||aixomi.com^
 ||aiyibay.com^
 ||aiyun689kuaile789aizai798.com^
+||ak.litaudrootsa.net^
 ||akaregisteredtoypoodlepups.com^
 ||akilesh.hopto.org^
 ||akurat33.com^
@@ -1416,6 +1417,7 @@
 ||chinchincasino.com^
 ||chocolitodoraemonhunt.com^
 ||choiceclothes.xyz^
+||choxessaiglee.net^
 ||christianlouboutinmexicos.top^
 ||christmas.decors.com^
 ||christmashiba.xyz^
@@ -2114,6 +2116,7 @@
 ||distoysonline.com^
 ||distributionretard.com^
 ||disusdt.cc^
+||dithodackee.com^
 ||diversitymeds.com^
 ||divicast.com^
 ||divinark.store^
@@ -2431,6 +2434,7 @@
 ||escrowpi.com^
 ||eshophu.com^
 ||esmadrid.com^
+||espoch.edu.ec^
 ||esquentabet.online^
 ||essaymarket.net^
 ||essentmen.com^
@@ -6761,6 +6765,7 @@
 ||ucmmr.com^
 ||ucryptocapital.co^
 ||udqvh.com^
+||udqwmall.shop^
 ||udrop.com^
 ||uehdspecial.shop^
 ||uewlihasq.com^
