@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.100054.2025
+! Version: 02.17.103505.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 10:00:54 UTC 2025
+! Last modified: Mon Feb 17 10:35:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7505
+! Number of entries: 7508
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -2810,6 +2810,7 @@
 ||funninexchange.com^
 ||funtoball.com^
 ||furensocks.shop^
+||furnittrendonline.com^
 ||furniturej.shop^
 ||fusin.club^
 ||fusion.gain.cfd^
@@ -3363,6 +3364,7 @@
 ||iapwe.org^
 ||iastfund.com^
 ||iavvky.com^
+||ib.mondfx.com^
 ||ibisnashikhotel.online^
 ||ibksport.eu^
 ||ibluestore.com^
@@ -6708,6 +6710,7 @@
 ||turbotrump.info^
 ||tusheedrosep.net^
 ||tuuoi.shop^
+||tv-08.com^
 ||tv.08.com^
 ||tvlux.co^
 ||tvpanel.net^
