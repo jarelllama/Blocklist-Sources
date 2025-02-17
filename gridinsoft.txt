@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.16.233047.2025
+! Version: 02.17.000158.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 16 23:30:47 UTC 2025
+! Last modified: Mon Feb 17 00:01:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7447
+! Number of entries: 7451
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -959,6 +959,7 @@
 ||bitzoy.com^
 ||bixcointrading.com^
 ||bizdoctr.com^
+||bizxhj.com^
 ||bjcryptos.com^
 ||bjfdyh.com^
 ||bk8pac.com^
@@ -3654,6 +3655,7 @@
 ||kidol.in^
 ||kids4attire.com^
 ||kidschannel.online^
+||kiece.com^
 ||kijl.online^
 ||kingpack7.quest^
 ||kinguin.net^
@@ -3730,6 +3732,7 @@
 ||kryptos.io^
 ||ksda.online.org^
 ||ksxsg.com^
+||ktxt.net^
 ||kuailuon.com^
 ||kubabuy.com^
 ||kucoinc.com^
@@ -3740,6 +3743,7 @@
 ||kunbestsk.best^
 ||kupid.ai^
 ||kurtastudio.com^
+||kwikpay.net^
 ||kxw69.com^
 ||kyorescart.shop^
 ||l.qorder.com^
