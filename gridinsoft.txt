@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.040058.2025
+! Version: 02.17.043421.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 04:00:58 UTC 2025
+! Last modified: Mon Feb 17 04:34:21 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7465
+! Number of entries: 7474
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -70,6 +70,7 @@
 ||268chill.store^
 ||278.hnyuanoo.top^
 ||27design.online^
+||2dgameworld.com^
 ||2llcc.vip^
 ||2mbet.link^
 ||2rcorretora.site^
@@ -386,6 +387,7 @@
 ||amberpop.com^
 ||ambientefiscal.email^
 ||ambiledhub.com^
+||ambipurcar.com^
 ||amdconsults.com^
 ||american.edu.co^
 ||americanfunds.com^
@@ -2267,6 +2269,7 @@
 ||edificiocomercial.com.br^
 ||ediwfashion.shop^
 ||edmxed66.com^
+||edsmower.com^
 ||edulcor.com^
 ||edx32.com^
 ||edx33.com^
@@ -2988,6 +2991,7 @@
 ||gnus.ai^
 ||go.alphalamenace.com^
 ||goal11.love^
+||goaplay.com^
 ||goapoachowoovol.net^
 ||goblinx.org^
 ||goboltllc.com^
@@ -3155,6 +3159,7 @@
 ||havenstiendas.com^
 ||hayeswheel.com^
 ||hba.la^
+||hc1976.com^
 ||hco.bank.top^
 ||hd.redditf.xyz^
 ||hdtoday.tv^
@@ -3570,6 +3575,7 @@
 ||joker999do.com^
 ||joliiy.com^
 ||jollypulse.co.in^
+||joltleft.com^
 ||josephina.shop^
 ||joycv.com^
 ||joyeuxliens.com^
@@ -3929,6 +3935,7 @@
 ||locations.online.us^
 ||lockheed3.com^
 ||logammulia.xyz^
+||loganmay.com^
 ||login.microsoft.com^
 ||logindesjardinsinfo.com^
 ||logomagik.online^
@@ -6884,6 +6891,7 @@
 ||venotem.com^
 ||venotux.com^
 ||ventalor.com^
+||ventanalegal.com^
 ||ventness.com^
 ||ventrix.top^
 ||ventrobi.io^
@@ -7324,6 +7332,7 @@
 ||xworld.gg^
 ||xxx.fingerapp.xyz^
 ||xxxdan.com^
+||xxxee3.com^
 ||xyzverse.io^
 ||y42coaxh.shop^
 ||yangcong.info^
