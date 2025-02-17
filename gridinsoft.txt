@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.070109.2025
+! Version: 02.17.073056.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 07:01:09 UTC 2025
+! Last modified: Mon Feb 17 07:30:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7484
+! Number of entries: 7487
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -843,6 +843,7 @@
 ||binoption.net^
 ||binta.xyz^
 ||binterio.com^
+||binwinkoin.com^
 ||bio.drop.com^
 ||bio.protocol.xyz^
 ||bioairdrop.com^
@@ -4041,6 +4042,7 @@
 ||m.bitunixex.com^
 ||m.bxamax.com^
 ||m.dodorado.com^
+||m.mxt-line-id.online^
 ||m.parrotes.com^
 ||m.payasset.com^
 ||m.peprobots.com^
@@ -4400,6 +4402,7 @@
 ||mscommerce.net^
 ||msdrop.com.ua^
 ||msscrypto.com^
+||mteen.net^
 ||mtg08v1zr.com^
 ||mttathletics.com^
 ||mttsports.com^
