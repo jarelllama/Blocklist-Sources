@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.220054.2025
+! Version: 02.17.223232.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 22:00:54 UTC 2025
+! Last modified: Mon Feb 17 22:32:32 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7554
+! Number of entries: 7559
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1292,6 +1292,7 @@
 ||careerboostconsultants.com^
 ||careerchangerstrading.club^
 ||careeredge.online^
+||careers.natively.com^
 ||carethy.at^
 ||cargoloop.shop^
 ||carhartoutlet.store^
@@ -1991,6 +1992,7 @@
 ||defiexplained.net^
 ||defikv.com^
 ||defineyeri.net^
+||defionline.pro^
 ||defiproducts.vip^
 ||defisaver.foundation.com^
 ||defisaversecureapp.com^
@@ -2770,6 +2772,7 @@
 ||fozan.online^
 ||fpibank.com^
 ||fpmartkets.com^
+||fpminer.com^
 ||fpsconstructivos.contenedores.com^
 ||fpswiss.com^
 ||fqafq.shop^
@@ -3106,6 +3109,7 @@
 ||greenranddam.com^
 ||greenseedhub.com^
 ||greevip.org^
+||greycredits.com^
 ||gricop.com^
 ||griefquotes.xyz^
 ||grindsoft.com^
@@ -5066,6 +5070,7 @@
 ||petermillarsale.shop^
 ||petiteridiony.com^
 ||petorugs.com^
+||petroluxxterminal.com^
 ||petronordstorage.nl^
 ||petusmart.shop^
 ||pfoh.info^
