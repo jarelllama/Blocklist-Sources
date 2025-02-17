@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.012756.2025
+! Version: 02.17.020329.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 01:27:56 UTC 2025
+! Last modified: Mon Feb 17 02:03:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7459
+! Number of entries: 7460
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -4402,6 +4402,7 @@
 ||multisportstv.online^
 ||multiverse.retifications.netlify.app^
 ||mumkt.com^
+||mundojadake.com^
 ||mundonovo.ms.gov.br^
 ||mundoonline.link^
 ||mundys.online^
