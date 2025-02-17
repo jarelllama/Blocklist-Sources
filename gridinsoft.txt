@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.170051.2025
+! Version: 02.17.173131.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 17:00:51 UTC 2025
+! Last modified: Mon Feb 17 17:31:31 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7539
+! Number of entries: 7542
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -5391,6 +5391,7 @@
 ||qlvzjmtg.inqku.cn^
 ||qmbit.org^
 ||qoeaz1.tiktokimg.online^
+||qqawin.net^
 ||qqbit.net^
 ||qr1.be^
 ||qrefuishz.monster^
@@ -6451,6 +6452,7 @@
 ||thetrackrecord.org^
 ||thetradehub.net^
 ||thetruthinfo.club^
+||thewealthwave.co^
 ||thewisdombible.com^
 ||theworkstep.com^
 ||thgworldwide.com^
@@ -7496,6 +7498,7 @@
 ||zenlifehealth.com^
 ||zenodex.net^
 ||zenoex.com^
+||zentivawellness.com^
 ||zentrade.org^
 ||zero.faucet.com^
 ||zerocodeblock.com^
