@@ -8,10 +8,9 @@ readonly DOMAIN_REGEX='[[:alnum:]][[:alnum:].-]*[[:alnum:]]\.[[:alnum:]-]*[a-z]{
 source_gridinsoft() {
     local source_url='https://gridinsoft.com/website-reputation-checker'
 
-    # Some entries have '_' instead of '-' in the domain name
-    curl -sS --retry 2 --retry-all-errors "$source_url" \
-        | grep -Po 'online-virus-scanner/url/\K[[:alnum:]][[:alnum:].-_]*[[:alnum:]]-[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*(?=" class="websiteReportItem websiteReportItem--suspicious">)' \
-        | mawk '{ gsub(/_/, "-"); gsub(/-/, "."); print }' >> gridinsoft.txt
+    curl -sSL --retry 2 --retry-all-errors "$source_url" \
+        | mawk '/<span>Suspicious/ { for(i=0; i<7; i++) getline; print }' \
+        | grep -Po "$DOMAIN_REGEX" >> gridinsoft.txt
 
     build gridinsoft.txt
 }
@@ -19,7 +18,7 @@ source_gridinsoft() {
 source_easydmarc() {
     local source_url='https://easydmarc.com/tools/phishing-url'
 
-    curl -sS --retry 2 --retry-all-errors "$source_url" \
+    curl -sSL --retry 2 --retry-all-errors "$source_url" \
         | grep -Po "https://\K${DOMAIN_REGEX}(?=(/[^/]+)*</a></td><td><span class=\"eas-tag eas-tag--standard eas-tag--red\">SUSPICIOUS)" \
         >> easydmarc.txt
 
@@ -27,9 +26,9 @@ source_easydmarc() {
 }
 
 source_malwareurl() {
-    local source_url='https://www.malwareurl.com/index.php'
+    local source_url='https://www.malwareurl.com'
 
-    curl -sS --retry 2 --retry-all-errors "$source_url" \
+    curl -sSL --retry 2 --retry-all-errors "$source_url" \
         | grep -Po "class=\"text-marked\">\K${DOMAIN_REGEX}(?=</span></li>)" \
         >> malwareurl.txt
 
