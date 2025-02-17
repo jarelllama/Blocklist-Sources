@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.124238.2025
+! Version: 02.17.130556.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 12:42:38 UTC 2025
+! Last modified: Mon Feb 17 13:05:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7518
+! Number of entries: 7520
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1204,6 +1204,7 @@
 ||buyclonedcards.co.uk^
 ||buycocatea.com^
 ||buydecorhome.com^
+||buygoods.com^
 ||buymasksgivemasks.top^
 ||buysoma.online^
 ||buythepencil.com^
@@ -4321,6 +4322,7 @@
 ||mitmine.com^
 ||mitoleyn.com^
 ||mitolynmarket.com^
+||mitra-shipping.top^
 ||mitsoku.com^
 ||mittenes.shop^
 ||mivovaa.shop^
