@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.103505.2025
+! Version: 02.17.110101.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 10:35:05 UTC 2025
+! Last modified: Mon Feb 17 11:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7508
+! Number of entries: 7510
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -229,6 +229,7 @@
 ||aecombenefits.com^
 ||aegisai.online^
 ||aenoxperts.com^
+||aeon-asset.net^
 ||aero.ozgo.cc^
 ||aerodromefi.claims.app^
 ||aeroexperiaservice.com^
@@ -3076,6 +3077,7 @@
 ||great.citycb.com^
 ||greatnewoffr.org^
 ||greatsealbadge.com^
+||greenbackfx.com^
 ||greendoge.live^
 ||greenharrmonyherb.com^
 ||greenlanemarketing.bond^
