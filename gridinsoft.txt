@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.064557.2025
+! Version: 02.17.070109.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 06:45:57 UTC 2025
+! Last modified: Mon Feb 17 07:01:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7480
+! Number of entries: 7484
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -193,6 +193,7 @@
 ||actufinance.fr^
 ||acvslimgummies.us^
 ||adapterworkshop.com^
+||adaptivesscheme.com^
 ||adatenight.com^
 ||adblocker.one^
 ||addressfinancial.com^
@@ -3487,6 +3488,7 @@
 ||ishomedepot.com^
 ||islanddluxe.top^
 ||isozpn.com^
+||isphcoin.com^
 ||ispoeti.com^
 ||issfang.online^
 ||istanbulmeeting.com^
@@ -5181,6 +5183,7 @@
 ||proegro.shop^
 ||proexcels.com^
 ||profit.centr24.ru^
+||profitsusd.com^
 ||profittrade.live^
 ||profitwithwifi.com^
 ||profumeriearoma.com^
@@ -6656,6 +6659,7 @@
 ||trxbee.io^
 ||trxchains.com^
 ||trxchargepoint.net^
+||trxgain.com^
 ||trxminerboost.com^
 ||tryanua.co^
 ||tryessnce.com^
