@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.133402.2025
+! Version: 02.17.140050.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 13:34:02 UTC 2025
+! Last modified: Mon Feb 17 14:00:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7520
+! Number of entries: 7524
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1661,6 +1661,7 @@
 ||cosr.malssfw.org^
 ||costexcorporation.com^
 ||cosycustume.com^
+||cotease.com^
 ||cotizadorsoat.segurosdelestado.com^
 ||coupangsell.com^
 ||couplemagnates.shop^
@@ -1771,6 +1772,7 @@
 ||cryptox8.vip^
 ||cryptox88.com^
 ||cryptoxwave.com^
+||cryptrx.net^
 ||crystalglobalwealth.com^
 ||crystaliptv.shop^
 ||crystalpromo.site^
@@ -2372,6 +2374,7 @@
 ||encomendas.importacao.online^
 ||encuestapagada.es^
 ||endeavourmarketing.global.vip^
+||endrifle.com^
 ||enegsseinvestmentteam.info^
 ||enerpinpellets.shop^
 ||enerty.top^
@@ -6781,6 +6784,7 @@
 ||umarinfomobiles.online^
 ||umrahcabonline.com^
 ||unblocked.watch^
+||unclaimedsettlement.com^
 ||undetectedbanknotes.com^
 ||undress.xxx^
 ||undressbaby.com^
