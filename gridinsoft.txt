@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.083521.2025
+! Version: 02.17.090055.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 08:35:21 UTC 2025
+! Last modified: Mon Feb 17 09:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7494
+! Number of entries: 7499
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1651,6 +1651,7 @@
 ||cosmayae.com^
 ||cosmicgroundingcode.com^
 ||cosometaldetector.com^
+||cosr.malssfw.org^
 ||costexcorporation.com^
 ||cosycustume.com^
 ||cotizadorsoat.segurosdelestado.com^
@@ -1851,6 +1852,7 @@
 ||darmavenue.com^
 ||dash.optimus.vip^
 ||dash.probits.cc^
+||dash2trade.com^
 ||dashnex.plexusmarket.fund^
 ||data.driveninvesting.net^
 ||datadexterity.online^
@@ -2604,6 +2606,7 @@
 ||filmgratuit.stream^
 ||filmpalast.to^
 ||filmyfly.esq^
+||filmyworkvip.com^
 ||finan.ssl.wemfbox.ch^
 ||finance.phantom.ca^
 ||financeaa.vip^
@@ -5873,6 +5876,7 @@
 ||simontok.fans^
 ||simplefarmacias.com^
 ||simpleunlimitedwealth.com^
+||simpside.com^
 ||simpsonai.club^
 ||simranparajapati.com^
 ||sincerityy.com^
@@ -5941,6 +5945,7 @@
 ||smith.newyork.com^
 ||smmboost24.online^
 ||smmflare.com^
+||smmpanelus.com^
 ||smmtribe.com^
 ||smokelifeshop.com^
 ||smoothingout.com^
