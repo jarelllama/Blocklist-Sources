@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.004525.2025
+! Version: 02.17.012756.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 00:45:25 UTC 2025
+! Last modified: Mon Feb 17 01:27:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7456
+! Number of entries: 7459
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -429,6 +429,7 @@
 ||anti.fraudcentre.com^
 ||antibot.v2.com^
 ||antigellingeriesale.com^
+||anvdzor.com^
 ||anxietyaids.org^
 ||anyvoicelab.com^
 ||aouve.store^
@@ -1627,6 +1628,7 @@
 ||conveneprecedent.top^
 ||cookies.1.zuregg.space^
 ||coolbet.peru.online^
+||coolfc.com^
 ||coolrom.com.au^
 ||coperatefinance.com^
 ||cophasehome.com^
@@ -6731,6 +6733,7 @@
 ||unik.co.id^
 ||unimaxcreativeminers.com^
 ||unionhow.top^
+||unionopto.com^
 ||uniqlosaleksa.com^
 ||uniqloschweizs.com^
 ||uniquepropertygroup.co.uk^
