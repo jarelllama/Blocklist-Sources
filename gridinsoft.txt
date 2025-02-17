@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.000158.2025
+! Version: 02.17.004525.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 00:01:58 UTC 2025
+! Last modified: Mon Feb 17 00:45:25 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7451
+! Number of entries: 7456
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -95,12 +95,14 @@
 ||552155.com^
 ||552993.com^
 ||55redefined.online^
+||592b.com^
 ||5movierulz.gay^
 ||5movierulz.rip^
 ||6123328.coinbase.com^
 ||61www.vivetuaventurasinlimitespromo.com^
 ||63810.com^
 ||65cryptoleo3933.com^
+||65mf.com^
 ||66312.cc^
 ||66wineshop.com^
 ||67phspin.vip^
@@ -445,6 +447,7 @@
 ||apkft.xyz^
 ||apkholes.com^
 ||apkhot.xyz^
+||apkrb.com^
 ||apkturbo.com^
 ||aplis.pv.com^
 ||apmbestex.vip^
@@ -962,6 +965,7 @@
 ||bizxhj.com^
 ||bjcryptos.com^
 ||bjfdyh.com^
+||bjysc.com^
 ||bk8pac.com^
 ||bkcryptotrade.com^
 ||bkkkb.com^
@@ -1010,6 +1014,7 @@
 ||bnex.cc^
 ||bnextrade.com^
 ||bnhuf.com^
+||bnjgj.com^
 ||bntrading.pro^
 ||bnxbncp.com^
 ||boardgamesoutletstore.com^
