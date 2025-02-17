@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.093242.2025
+! Version: 02.17.100054.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 09:32:42 UTC 2025
+! Last modified: Mon Feb 17 10:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7502
+! Number of entries: 7505
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -1021,6 +1021,7 @@
 ||bnb118.com^
 ||bnbclaim.cc^
 ||bnbpick.io^
+||bnbto.com^
 ||bnex.cc^
 ||bnextrade.com^
 ||bnhuf.com^
@@ -4454,6 +4455,7 @@
 ||myamericanprizes3.com^
 ||mybewin.com^
 ||mybrightframe.com^
+||mybtclogin.com^
 ||mycashpoint.online^
 ||mycotina.com^
 ||mydesi2.net^
@@ -4685,6 +4687,7 @@
 ||nt.h5.com^
 ||nubex.net^
 ||nubil.nl^
+||nudecandyy.com^
 ||nudevista.com^
 ||nudify.online^
 ||nupdhyzetb.com^
