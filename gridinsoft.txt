@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.223232.2025
+! Version: 02.17.230051.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 22:32:32 UTC 2025
+! Last modified: Mon Feb 17 23:00:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7559
+! Number of entries: 7562
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -4365,8 +4365,10 @@
 ||mnkecom.com^
 ||mobefind.ie.com^
 ||mobile.btcoinus.org^
+||mobile.co.uk^
 ||mobilecasino88.com^
 ||mobilephotokiosk.app^
+||mobiles.co.uk^
 ||mobiteamapp.com^
 ||mobofox.site^
 ||moclicks.com^
@@ -6100,6 +6102,7 @@
 ||sprunkiphase.online^
 ||srchfst.com^
 ||sreamconmymnltty.com^
+||srettle.com^
 ||srimuthappanholidayscoorg.com^
 ||sriwtte.com^
 ||sscnapoli.eu.shop^
