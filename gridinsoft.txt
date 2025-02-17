@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.090055.2025
+! Version: 02.17.093242.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 09:00:55 UTC 2025
+! Last modified: Mon Feb 17 09:32:42 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7499
+! Number of entries: 7502
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -4266,6 +4266,7 @@
 ||milenapowell.com^
 ||miles.london.com^
 ||milisoil.com^
+||millioner-kop.site^
 ||miltonlogistic.com^
 ||milwakusharetexa.com^
 ||mimosabarkhaven.com^
@@ -5172,6 +5173,7 @@
 ||primefitnessgroup.online^
 ||primeglobalfxexchange.live^
 ||primeinvest.app^
+||primeminingexchange.net^
 ||primemoverexpress.online^
 ||primeotp.com^
 ||primeplatform.online^
@@ -6652,6 +6654,7 @@
 ||truecareliving.online^
 ||truepayx.com^
 ||trump.ust.com^
+||trumpcoiners.com^
 ||trumpfair.io^
 ||trumpmeme.info^
 ||trumptokenofficial.com^
