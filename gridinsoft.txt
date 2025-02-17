@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.150056.2025
+! Version: 02.17.153126.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 15:00:56 UTC 2025
+! Last modified: Mon Feb 17 15:31:26 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7532
+! Number of entries: 7534
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -264,6 +264,7 @@
 ||ai.kraken2025.com^
 ||ai.pool.trading^
 ||ai.trades.co^
+||ai5crypto.com^
 ||aibtcapp1.com^
 ||aicryptofinancepro.com^
 ||aicryptotradings.com^
@@ -6347,6 +6348,7 @@
 ||temxn.vip^
 ||tenadex.com^
 ||tenctify.com^
+||tendinvest.com^
 ||tenek.vip^
 ||teneo.pro^
 ||tentroearnings.com^
