@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.113052.2025
+! Version: 02.17.120100.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 11:30:52 UTC 2025
+! Last modified: Mon Feb 17 12:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7511
+! Number of entries: 7516
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -37,6 +37,7 @@
 ||16785a.top^
 ||17.magic88.cc^
 ||17ebook.com^
+||1800rxonline.com^
 ||190724.com^
 ||19www.vivetuaventurasinlimitespromo.com^
 ||1fuel.live^
@@ -439,6 +440,7 @@
 ||anxietyaids.org^
 ||anyvoicelab.com^
 ||aouve.store^
+||aovoise.com^
 ||apanharwatch.com^
 ||apegis.com^
 ||apex.foundation.online^
@@ -483,6 +485,7 @@
 ||app.sparmall.vip^
 ||appanalytics.online^
 ||apparelbeach.com^
+||appcodedark.com^
 ||appdevelopmenthouse.com^
 ||appdynamicstech.com^
 ||appengroupltd.com^
@@ -2726,6 +2729,7 @@
 ||forexpulse.site^
 ||forge.university.com^
 ||forge.wallet.com^
+||forioxtrade.com^
 ||formoreup.xyz^
 ||forsage.io^
 ||fortressfinex.com^
@@ -5121,6 +5125,7 @@
 ||pocketoption.bwgcompany.com^
 ||pocketoption.com^
 ||pockettrader.org^
+||pointway.io^
 ||pokebooster.fr^
 ||pokepackbrostcg.com^
 ||pokexperiment.com^
