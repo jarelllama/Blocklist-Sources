@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.163505.2025
+! Version: 02.17.170051.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 16:35:05 UTC 2025
+! Last modified: Mon Feb 17 17:00:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7537
+! Number of entries: 7539
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -6525,6 +6525,7 @@
 ||tokentrade.top^
 ||tokocrypto.com^
 ||tokxon.com^
+||tomafai.shop^
 ||tommy.ie.com^
 ||tomyvipstore.shop^
 ||tonbig.com^
@@ -7211,6 +7212,7 @@
 ||whoopyrewards.com^
 ||whop.com^
 ||whubaesingotbrewer.com^
+||whycrystall.com^
 ||wiaa.in^
 ||wibikesstreet.com^
 ||wichhistor.co.uk^
