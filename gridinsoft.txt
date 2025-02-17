@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.024505.2025
+! Version: 02.17.030607.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 02:45:05 UTC 2025
+! Last modified: Mon Feb 17 03:06:07 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7461
+! Number of entries: 7463
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -847,6 +847,7 @@
 ||bionovo.bio^
 ||birddecoysofnorthamerica.com^
 ||birkenstockchoice.com^
+||birkenstockfinalsale.com^
 ||birkenstores.us^
 ||birthdaywishesmarathi.online^
 ||birthjeans.icu^
@@ -6010,6 +6011,7 @@
 ||spotifyinfo.app^
 ||spotifymode.com^
 ||spotifypremiumapk.com.co^
+||spotlesslink.com^
 ||spraisy.live^
 ||spranix.com^
 ||spraygames.com^
