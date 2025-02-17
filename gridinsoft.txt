@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.060057.2025
+! Version: 02.17.064557.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 06:00:57 UTC 2025
+! Last modified: Mon Feb 17 06:45:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7479
+! Number of entries: 7480
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -7335,6 +7335,7 @@
 ||xv.ru.com^
 ||xvkdfashion.shop^
 ||xworld.gg^
+||xx7722.net^
 ||xxx.fingerapp.xyz^
 ||xxxdan.com^
 ||xxxee3.com^
