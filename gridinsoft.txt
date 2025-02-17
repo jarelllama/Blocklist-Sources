@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.073056.2025
+! Version: 02.17.080104.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 07:30:56 UTC 2025
+! Last modified: Mon Feb 17 08:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7487
+! Number of entries: 7492
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -476,6 +476,7 @@
 ||app.primeopinion.com^
 ||app.privatecoin.net^
 ||app.sanagl.cc^
+||app.smartunioncredit.com^
 ||app.solaspy.io^
 ||app.sparmall.vip^
 ||appanalytics.online^
@@ -1628,6 +1629,7 @@
 ||consultarpedidosweb.online^
 ||contactandplay.com^
 ||contactconsultingservices.com^
+||contemplatingthedivine.com^
 ||contestcraze.today^
 ||continental.invest.ltd^
 ||contractnerds.com^
@@ -1836,6 +1838,7 @@
 ||daltonitsolutions.com^
 ||damanavaitor.in^
 ||danxdex.com^
+||dapdunetrading.com^
 ||dapp.ens.domains^
 ||dapp.radar.org^
 ||dapprestore.site^
@@ -1957,6 +1960,7 @@
 ||defi.v1.com^
 ||defi999.vip^
 ||defiatxkm.com^
+||defibit.pro^
 ||deficonnect.dev^
 ||defid.top^
 ||defidappsrestore.web.app^
@@ -5066,6 +5070,7 @@
 ||pirlotvhd.lol^
 ||pirlotvhd.org^
 ||piteos.com^
+||pitonex.com^
 ||pitrade.top^
 ||pityeon.com^
 ||piumtraders.org^
