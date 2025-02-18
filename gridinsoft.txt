@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.18.130452.2025
+! Version: 02.18.133323.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 18 13:04:52 UTC 2025
+! Last modified: Tue Feb 18 13:33:23 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7609
+! Number of entries: 7611
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2255,6 +2255,7 @@
 ||dukastradefx.com^
 ||duluthtradingusasale.com^
 ||dummud.com^
+||dumpshouse.com^
 ||dunamiscybersolution.com^
 ||dundundumpling.online^
 ||dunekhing.com^
@@ -3992,6 +3993,7 @@
 ||liveccvv.mp^
 ||livegoodtour.com^
 ||livenewbuzz.com^
+||liveritstore.com^
 ||livextop.com^
 ||liveyourwetdream.com^
 ||livingtradecapital.com^
