@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.18.220056.2025
+! Version: 02.18.223308.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 18 22:00:56 UTC 2025
+! Last modified: Tue Feb 18 22:33:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7668
+! Number of entries: 7670
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5715,6 +5715,7 @@
 ||robinhoodgroupltd.com^
 ||roblox.com.py^
 ||roblox.et^
+||robloxnewsnetwork.com^
 ||robochain.pro^
 ||robochipcfd.biz^
 ||robonhoodgroup.me^
@@ -6075,6 +6076,7 @@
 ||smart.finances.org^
 ||smartbux.net^
 ||smartearningpool.online^
+||smartfares.com^
 ||smartgyro.es^
 ||smartmarketmaven.com^
 ||smartmove.biz^
