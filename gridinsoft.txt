@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.18.190102.2025
+! Version: 02.18.193051.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 18 19:01:02 UTC 2025
+! Last modified: Tue Feb 18 19:30:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7644
+! Number of entries: 7649
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -82,6 +82,7 @@
 ||2dgameworld.com^
 ||2llcc.vip^
 ||2mbet.link^
+||2nzy.com^
 ||2rcorretora.site^
 ||30883t.com^
 ||30883u.com^
@@ -1324,6 +1325,7 @@
 ||carhartt.wipeu.shop^
 ||carharttsalevip.shop^
 ||carharttssvip.shop^
+||carharttworkwear-sale.shop^
 ||caringalwayssupp.com^
 ||carlinkitmall.com^
 ||carlylepledge.com^
@@ -1352,6 +1354,7 @@
 ||casvix.com^
 ||casvnm.com^
 ||catalytics.pro^
+||catchvideo.net^
 ||catenarydojo.com^
 ||caterpillarargentinaonline.com^
 ||catholicpsychconsult.com^
@@ -4570,6 +4573,7 @@
 ||mypassivetrade.com^
 ||mypetlist.in^
 ||myplatform.top^
+||mypremiumkitchens.com^
 ||myrbcdevice.secure.com^
 ||myrewardslocker.com^
 ||myshare.ws^
@@ -5071,6 +5075,7 @@
 ||parksides.net^
 ||parksidestores.com^
 ||parksldeshop.com^
+||parksldevip.shop^
 ||parquelaplancha.com^
 ||partecularly.com^
 ||pascoprime.com^
