@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.18.093213.2025
+! Version: 02.18.100104.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 18 09:32:13 UTC 2025
+! Last modified: Tue Feb 18 10:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7599
+! Number of entries: 7601
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3026,6 +3026,7 @@
 ||globaldocs.online.com^
 ||globalfinaltd.com^
 ||globalflashco.com^
+||globalfoxtrade.com^
 ||globalfutureltd.com^
 ||globallogisticsco.com^
 ||globalnexusoptimum.com^
@@ -7214,6 +7215,7 @@
 ||web3cry.cc^
 ||web3duck.com^
 ||web3gpt.rest^
+||web3gptapp.bar^
 ||web3gptify.com^
 ||web3hireme.com^
 ||web3ii.com^
