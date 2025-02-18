@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.17.233054.2025
+! Version: 02.18.000155.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 17 23:30:54 UTC 2025
+! Last modified: Tue Feb 18 00:01:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7565
+! Number of entries: 7567
 !
 ||0019.coinbase.com^
 ||019edcfceefke.jumpkj.chuairan.com^
@@ -3797,6 +3797,7 @@
 ||ktxt.net^
 ||kuailuon.com^
 ||kubabuy.com^
+||kucoin321.vip^
 ||kucoinc.com^
 ||kuiesd.com^
 ||kuiuonsale.com^
@@ -4000,6 +4001,7 @@
 ||lopurez.com^
 ||loranza.nl^
 ||loravelle.com^
+||lordfilmo.site^
 ||loreall.gp.top^
 ||lorealwear.com^
 ||lorenamargaleff.com^
