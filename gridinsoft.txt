@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.18.170055.2025
+! Version: 02.18.173228.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 18 17:00:55 UTC 2025
+! Last modified: Tue Feb 18 17:32:28 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7627
+! Number of entries: 7632
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -155,6 +155,7 @@
 ||aav15y8.tipitkd.info^
 ||aawfurniture.com^
 ||abaok.vip^
+||abdab.de^
 ||abdullahonline.store^
 ||aberfields.com^
 ||aberomx.lol^
@@ -196,6 +197,7 @@
 ||acrylicinvestment.com^
 ||actiers.com^
 ||action.profits.com^
+||actionfraud-refund.org^
 ||activations.ledger.com^
 ||activeprobeauty.com^
 ||activityuk.shop^
@@ -714,6 +716,7 @@
 ||bassonlineca.com^
 ||bassslots1bonanza.com^
 ||basswin.org.uk^
+||basswin77.com^
 ||bathroom.remodeling.57755.bond^
 ||bathroom.remodeling.88604.bond^
 ||bathroomremodelingus1207.online^
@@ -3313,6 +3316,7 @@
 ||hmstr.web3launchpoolbinance.pages.dev^
 ||hoardrare.com^
 ||hobbyball.com^
+||hobbyhubvip.com^
 ||hobokenheadshots.com^
 ||hok55.com^
 ||hoka.com.es^
@@ -4974,6 +4978,7 @@
 ||otherstoriessale.shop^
 ||ourcoincash.xyz^
 ||ourruless.store^
+||oursportday.com^
 ||ourtime.com^
 ||out.parks.es.com^
 ||outdoorphoto.co.za^
