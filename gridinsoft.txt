@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.18.040058.2025
+! Version: 02.18.043401.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 18 04:00:58 UTC 2025
+! Last modified: Tue Feb 18 04:34:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7580
+! Number of entries: 7584
 !
 ||0019.coinbase.com^
 ||01505.co^
@@ -3434,6 +3434,7 @@
 ||iklktec.com^
 ||ilclawgroup.com^
 ||ilikeauli.com^
+||illuminati-newworldorder.com^
 ||illuminatitemplo.org^
 ||imagiashop.com^
 ||imbictoz.com^
@@ -3700,6 +3701,7 @@
 ||kaynine.cyberservices.com^
 ||kcex.com^
 ||kcexai.com^
+||kdawe.com^
 ||kedaivgg.online^
 ||keenchile.net^
 ||keencn.com^
@@ -5112,6 +5114,7 @@
 ||physichope.com^
 ||pi2usd.com^
 ||piako.finance.com^
+||pickupskinserumproductinstantly.com^
 ||pickyspun.com^
 ||pietrodiuccio.com^
 ||pilatesmotion.co^
@@ -7407,6 +7410,7 @@
 ||ximqijiu.online^
 ||ximqiwu.online^
 ||xinetex.com^
+||xiongteamfx.com^
 ||xjsv.store^
 ||xmbroker.click^
 ||xmcopytrade.com^
