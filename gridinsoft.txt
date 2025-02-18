@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.18.163554.2025
+! Version: 02.18.170055.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 18 16:35:54 UTC 2025
+! Last modified: Tue Feb 18 17:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7622
+! Number of entries: 7627
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2535,6 +2535,7 @@
 ||exnesstradecenter.com^
 ||exnesstradexpert.com^
 ||exnori.com^
+||exnova.digital^
 ||exoky.com^
 ||exon.energy.com^
 ||exonvic.com^
@@ -2724,6 +2725,7 @@
 ||flawflessas.com^
 ||flcname.cam^
 ||fleecedgy.com^
+||fleetscontainers.com^
 ||flexcapital.top^
 ||flexjobhubs.com^
 ||flexswiftways.online^
@@ -3911,6 +3913,7 @@
 ||lekzhro.com^
 ||lemofax.com^
 ||lemovax.com^
+||lemsnetherlands.com^
 ||leniaudelectromenager.com^
 ||leonbets.com^
 ||leonemicrofinance.com^
@@ -5169,6 +5172,7 @@
 ||piumtraders.org^
 ||pivot.capital.ltd^
 ||pixbay.online^
+||pixelshophub.com^
 ||pkvn68.online^
 ||placeofgame.com^
 ||plantkindom.com^
@@ -5596,6 +5600,7 @@
 ||renrys.com^
 ||rentabay.shop^
 ||rentvista.net^
+||renuleads.com^
 ||renvara.com^
 ||renvoie.mondialrelay.com^
 ||reoe.shop^
