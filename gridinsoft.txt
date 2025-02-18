@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.18.150100.2025
+! Version: 02.18.153321.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 18 15:01:00 UTC 2025
+! Last modified: Tue Feb 18 15:33:21 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7617
+! Number of entries: 7620
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1393,6 +1393,7 @@
 ||cessitive.com^
 ||cfar.group^
 ||cfbit.org^
+||cfd.interactiveproltd.com^
 ||cfdqqx.com^
 ||cfs.trades.com^
 ||chabagsnew.com^
@@ -1818,6 +1819,7 @@
 ||cu2fi6m071bc73d7rkeg.enhanceconnection.co.in^
 ||cu4hsde071bc73f38hm0.enhanceconnection.co.in^
 ||cu7rqq6071bc73a4orp0.protocolchainflow.com^
+||cuadraoficial.shop^
 ||cuan66.co^
 ||cuantrading.com^
 ||cuesandcases.com^
@@ -7352,6 +7354,7 @@
 ||workpathnet.com^
 ||workshop.forex.com^
 ||workwizm.top^
+||world-of-pallets.com^
 ||world.dailyincome.com^
 ||world.delivery.service.com^
 ||worldfamoushotboys.net^
