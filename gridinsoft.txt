@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.18.193051.2025
+! Version: 02.18.200057.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 18 19:30:51 UTC 2025
+! Last modified: Tue Feb 18 20:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7649
+! Number of entries: 7653
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -43,6 +43,7 @@
 ||163jl.com^
 ||16785a.top^
 ||17.magic88.cc^
+||1753222.com^
 ||17ebook.com^
 ||1800rxonline.com^
 ||190724.com^
@@ -2181,6 +2182,7 @@
 ||dnsdefender.xyz^
 ||dnswatch.info^
 ||doam.co.in^
+||dobitcoins.com^
 ||doc.0011325120631789.pdfinvoivedownloadisauthsuccessfullcom.glitch.me^
 ||docker.1ms.run^
 ||doclothes.com^
@@ -2631,6 +2633,7 @@
 ||fastworldtravels.com^
 ||father.mining.top^
 ||faucetcrypto.net^
+||faucetxminer.pro^
 ||fazmex.com^
 ||fbkptumgxh.com^
 ||fc244.com^
@@ -4236,6 +4239,7 @@
 ||massimodvttioutlets.com^
 ||massive.recruitment.online^
 ||masterfulart.homes^
+||math2.online^
 ||matrixbit.net^
 ||matteomarcelli.com^
 ||mavie.global^
