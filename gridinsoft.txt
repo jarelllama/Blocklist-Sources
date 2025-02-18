@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.18.200057.2025
+! Version: 02.18.203217.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 18 20:00:57 UTC 2025
+! Last modified: Tue Feb 18 20:32:17 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7653
+! Number of entries: 7659
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -665,6 +665,7 @@
 ||avalonfinance.io^
 ||avalontrdpro.com^
 ||avastosgr.fun^
+||aventra-melbourne.com^
 ||averagedadofficial.com^
 ||avianca.com^
 ||aviation.ancienne.forumactif.com^
@@ -1223,6 +1224,7 @@
 ||burtoneu.shop^
 ||business2.community^
 ||businessloanscenter.online^
+||butlerkj.com^
 ||buxclaims.neocities.org^
 ||buxone.com^
 ||buxvisit.net^
@@ -1663,6 +1665,7 @@
 ||committedworld.com^
 ||communaltrades.com^
 ||communitydisscussion.com^
+||commutide.com^
 ||compare.deals.online.info^
 ||comprasdigitaisglobais.online^
 ||computarius.online^
@@ -1756,6 +1759,7 @@
 ||crushon.ai^
 ||crydapp.ai^
 ||crynet2.top^
+||cryochain.io^
 ||cryp22earn.com^
 ||cryptallstars.online^
 ||cryptcrestltd.com^
@@ -2263,6 +2267,7 @@
 ||dsaileads.com^
 ||dshbitcomail.com^
 ||dskonline.bg^
+||dsolod.com^
 ||dstockaffaires.com^
 ||dtfvg.net^
 ||dtloo.com^
@@ -4263,6 +4268,7 @@
 ||mbtauckland.com^
 ||mc0nsdtrk.com^
 ||mcmsale.top^
+||md11.online^
 ||mdl789.com^
 ||meantallie.com^
 ||meanwhiley.com^
