@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.18.043401.2025
+! Version: 02.18.050057.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 18 04:34:01 UTC 2025
+! Last modified: Tue Feb 18 05:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7584
+! Number of entries: 7587
 !
 ||0019.coinbase.com^
 ||01505.co^
@@ -1532,6 +1532,7 @@
 ||cloudgeardesign.com^
 ||cloudimpactx.com^
 ||cloudlessdatapowerful.com^
+||cloudns.eu^
 ||cloudsoft.ae^
 ||cloudstream.pro^
 ||cloudyfitbyasmitha.com^
@@ -5297,6 +5298,7 @@
 ||protecthubmaster.xyz^
 ||protectionproadvisor.xyz^
 ||protectivemethod.com^
+||protectmeonline.com^
 ||protectxperts.life^
 ||proteinbestsell.com^
 ||protocolsafe.co.in^
@@ -5539,6 +5541,7 @@
 ||reegwallet.store^
 ||reelshort.2025.com^
 ||ref.eu.com^
+||ref.hunnypay.com^
 ||ref2tron.top^
 ||refefshopin.top^
 ||reffbyte.com^
