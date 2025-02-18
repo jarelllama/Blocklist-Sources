@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.18.210050.2025
+! Version: 02.18.213051.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 18 21:00:50 UTC 2025
+! Last modified: Tue Feb 18 21:30:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7661
+! Number of entries: 7665
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1043,6 +1043,7 @@
 ||bloxtools.ca^
 ||blue798798.com^
 ||bluebear.foundation^
+||bluepeaksfinance.com^
 ||bluewhaleapps.life^
 ||blulumxn.vip^
 ||blumeheat.shop^
@@ -3665,6 +3666,7 @@
 ||jljcw.net^
 ||jljl330.com^
 ||jlkwelding.online^
+||jm-date.com^
 ||jmitdk9.szvne337c.org^
 ||jnjus.cc^
 ||jnjus.net^
@@ -4061,6 +4063,7 @@
 ||londongroupinvestments.com^
 ||longchampespana.cc^
 ||lookmovie2.to^
+||loomtrust.com^
 ||looneydodo.com^
 ||lootbar.gg^
 ||lopa.store^
@@ -5643,6 +5646,7 @@
 ||res.ldrescdn.com^
 ||research.web3caff.com^
 ||researchchemicalskopen.net^
+||resellepx.com^
 ||resellerboost.com^
 ||resminair.in^
 ||resortburg.online^
