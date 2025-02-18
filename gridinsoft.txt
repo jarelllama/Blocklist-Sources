@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.18.180100.2025
+! Version: 02.18.183609.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 18 18:01:00 UTC 2025
+! Last modified: Tue Feb 18 18:36:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7635
+! Number of entries: 7638
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -83,6 +83,8 @@
 ||2mbet.link^
 ||2rcorretora.site^
 ||30mxwin.com^
+||325897.cc^
+||325962.cc^
 ||333204.com^
 ||33355007.com^
 ||33www.vivetuaventurasinlimitespromo.com^
@@ -3081,6 +3083,7 @@
 ||gogc.ge^
 ||goinvest.credit.com^
 ||golat.online^
+||gold-minor.top^
 ||goldackerstrading.com^
 ||goldcash7.com^
 ||goldcoin.trade.org^
