@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.18.183609.2025
+! Version: 02.18.190102.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 18 18:36:09 UTC 2025
+! Last modified: Tue Feb 18 19:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7638
+! Number of entries: 7644
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -78,10 +78,13 @@
 ||268chill.store^
 ||278.hnyuanoo.top^
 ||27design.online^
+||28c75.com^
 ||2dgameworld.com^
 ||2llcc.vip^
 ||2mbet.link^
 ||2rcorretora.site^
+||30883t.com^
+||30883u.com^
 ||30mxwin.com^
 ||325897.cc^
 ||325962.cc^
@@ -2793,6 +2796,7 @@
 ||forioxtrade.com^
 ||formoreup.xyz^
 ||forsage.io^
+||fortradshow.com^
 ||fortressfinex.com^
 ||fortune.engine.com^
 ||fortune.inheritance.com^
@@ -2942,6 +2946,7 @@
 ||gamingbeasts.com^
 ||ganamos.lat^
 ||ganando.imperios.com^
+||ganele.com^
 ||gapconnectionbridge.co.in^
 ||garcuconte.co.in^
 ||garizi.co^
@@ -6704,6 +6709,7 @@
 ||trading.masteredgetrust.com^
 ||tradingaccessfx.com^
 ||tradingcardsstoredeals.com^
+||tradinghelden.com^
 ||tradingid.acemlnb.com^
 ||tradingpoint.cc^
 ||tradingsoros.com^
