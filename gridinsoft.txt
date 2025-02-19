@@ -3,14 +3,16 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.19.170055.2025
+! Version: 02.19.173243.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 19 17:00:55 UTC 2025
+! Last modified: Wed Feb 19 17:32:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7758
+! Number of entries: 7767
 !
 ||000074.cc^
 ||0019.coinbase.com^
+||003001.cc^
+||003101.cc^
 ||00635.co^
 ||00635.vip^
 ||01105.co^
@@ -144,6 +146,8 @@
 ||68shop.europe.com^
 ||6dc3ecg.yyadjai.info^
 ||7.eleven.ac^
+||756807.cc^
+||7671185046.com^
 ||777.batata777.vip^
 ||777color87.com^
 ||777xk153.cc^
@@ -159,6 +163,9 @@
 ||82lottery24.com^
 ||82lottery9.in^
 ||852web3.io^
+||861313c.com^
+||863431.com^
+||888558xpj.com^
 ||88jl99.com^
 ||8ag.la^
 ||8agk8.com^
@@ -1331,6 +1338,7 @@
 ||canvasgenius.homes^
 ||capaciousdrewreligion.com^
 ||capchains.ex.com^
+||capital-payscript.com^
 ||capital.fargofx.ltd^
 ||capital.recovery.click^
 ||capital.shares.com^
@@ -6834,6 +6842,7 @@
 ||tramitedigitalfdcr.online^
 ||trangotech.xyz^
 ||transappltd.com^
+||transsabiodetoro-sl.com^
 ||transscene.com^
 ||trantbitf.astpro.top^
 ||trantnguyentech.store^
