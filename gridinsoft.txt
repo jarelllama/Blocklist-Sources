@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.19.024410.2025
+! Version: 02.19.030415.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 19 02:44:10 UTC 2025
+! Last modified: Wed Feb 19 03:04:15 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7682
+! Number of entries: 7686
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2372,6 +2372,7 @@
 ||ei.svn.online.online^
 ||eileenfisher.us.com^
 ||einhell.eusite.com^
+||eirio.vip^
 ||ekbrick.com^
 ||elabd.online^
 ||eldercity.xyz^
@@ -2791,6 +2792,7 @@
 ||followthepromo.com^
 ||fonsatrade.com^
 ||foonlab.net^
+||foot2run.com^
 ||footballdisease.com^
 ||footboom1.com^
 ||footboxes.com^
@@ -4470,6 +4472,7 @@
 ||modernsmarttech.com^
 ||modernwristwatches.shop^
 ||modilimitado.io^
+||modmountltd.com^
 ||modpenset.com^
 ||modunls.shop^
 ||moefr3trk.com^
@@ -4562,6 +4565,7 @@
 ||musicinstrumentsupply.com^
 ||muskhere.org^
 ||muskratmarinesstingeras.pro^
+||mustangautopartsshop.com^
 ||muvtea.com^
 ||mvknnd.online^
 ||mvrglobal.online^
