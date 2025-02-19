@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.19.110054.2025
+! Version: 02.19.113050.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 19 11:00:54 UTC 2025
+! Last modified: Wed Feb 19 11:30:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7728
+! Number of entries: 7729
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2498,6 +2498,7 @@
 ||equistak.com^
 ||equitradecf.com^
 ||equitradeciv.com^
+||equitradezone.com^
 ||equitytrustbn.com^
 ||equitytrusttrading.com^
 ||eraw.top^
