@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.19.060102.2025
+! Version: 02.19.063610.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 19 06:01:02 UTC 2025
+! Last modified: Wed Feb 19 06:36:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7706
+! Number of entries: 7711
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -109,6 +109,8 @@
 ||4kiptvspot.net^
 ||4uvize.com^
 ||500.intal.org^
+||54888uu.com^
+||54888yy.com^
 ||552059.com^
 ||552155.com^
 ||552993.com^
@@ -116,6 +118,8 @@
 ||592b.com^
 ||5movierulz.gay^
 ||5movierulz.rip^
+||5z.pm^
+||5z.wf^
 ||6123328.coinbase.com^
 ||61www.vivetuaventurasinlimitespromo.com^
 ||63810.com^
@@ -2033,6 +2037,7 @@
 ||deepspectre.com^
 ||deepweb.fixedmatches.com^
 ||defashionette.xyz^
+||defense-keychain.com^
 ||defi.drop.xyz^
 ||defi.official.com^
 ||defi.pad.com^
