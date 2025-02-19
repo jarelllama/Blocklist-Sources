@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.19.230050.2025
+! Version: 02.19.233052.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 19 23:00:50 UTC 2025
+! Last modified: Wed Feb 19 23:30:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7795
+! Number of entries: 7799
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -211,6 +211,7 @@
 ||abppbsdlex.de^
 ||abra.pico.top^
 ||absoluteenergyfl.com^
+||abtcoin.vip^
 ||ac8.w1t4b8.com^
 ||acaddemia.com^
 ||acard50.ru^
@@ -3967,6 +3968,7 @@
 ||laceandlush.com^
 ||lacebread.com^
 ||lacefaves.com^
+||lachilirouge.com^
 ||lacostes.com.mx^
 ||lacymate.com^
 ||ladderux.org^
@@ -4240,6 +4242,7 @@
 ||lyvolix.com^
 ||lyycs.store^
 ||lzminer.com^
+||m-bnb.com^
 ||m.bitunixex.com^
 ||m.bxamax.com^
 ||m.dodorado.com^
@@ -5400,6 +5403,7 @@
 ||primeart.org^
 ||primefitnessgroup.online^
 ||primeglobalfxexchange.live^
+||primehiveglobal.online^
 ||primeincomemarket.com^
 ||primeinvest.app^
 ||primeminingexchange.net^
