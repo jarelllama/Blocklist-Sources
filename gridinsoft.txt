@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.19.153247.2025
+! Version: 02.19.160057.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 19 15:32:47 UTC 2025
+! Last modified: Wed Feb 19 16:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7740
+! Number of entries: 7744
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1661,6 +1661,7 @@
 ||coinsland.top^
 ||coinsniperbot.org^
 ||coinsorex.com^
+||coinsprox.com^
 ||coinstacksinvests.com^
 ||coinswift.exchange^
 ||cointir.cc^
@@ -4323,6 +4324,7 @@
 ||mayzik.com^
 ||mbtauckland.com^
 ||mc0nsdtrk.com^
+||mc787.com^
 ||mcmsale.top^
 ||md11.online^
 ||mdl789.com^
@@ -5681,6 +5683,7 @@
 ||register.soniclabs.com^
 ||rei.com^
 ||reil.cam^
+||relativelysuitable.com^
 ||relayl.ink^
 ||relaymondial.net^
 ||reloadingstocks.com^
@@ -6497,6 +6500,7 @@
 ||taskwizy.top^
 ||taskzcove.com^
 ||taxaoar.online^
+||tbdcredits.com^
 ||tbkis.com^
 ||tbwa.dad^
 ||tc126.xyz^
