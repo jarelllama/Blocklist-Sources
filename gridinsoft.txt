@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.19.030415.2025
+! Version: 02.19.033553.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 19 03:04:15 UTC 2025
+! Last modified: Wed Feb 19 03:35:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7686
+! Number of entries: 7691
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -360,6 +360,7 @@
 ||allicross.online^
 ||allinonemarket.online^
 ||alljerseys.io^
+||allmestyle.com^
 ||allmy.cam^
 ||allora.toronto.com^
 ||allsmm.net^
@@ -703,6 +704,7 @@
 ||bank.sepah.com^
 ||bank888.cc^
 ||bankingbux.com^
+||bankwiz.net^
 ||bankxpay.com^
 ||bantuswahilitours.com^
 ||baominpower.com^
@@ -2680,6 +2682,7 @@
 ||figshadeonline.com^
 ||fiheos.co.in^
 ||fijrol.com^
+||fikum.com^
 ||filas.com.mx^
 ||filecloud.cfd^
 ||fileflux.net^
@@ -4908,6 +4911,7 @@
 ||oneck.vip^
 ||oneclickmart.online^
 ||onefarm.pro^
+||onefxgroup.com^
 ||onehappynere.com^
 ||onepaysolution.buzz^
 ||onerosey.com^
@@ -7250,6 +7254,7 @@
 ||watchseries.bar^
 ||wattprosaver.com^
 ||wave.trader.com^
+||wavetune.shop^
 ||wavytalkza.store^
 ||waxebet.com^
 ||waxx.network^
