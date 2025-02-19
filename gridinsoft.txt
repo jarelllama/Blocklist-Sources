@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.19.033553.2025
+! Version: 02.19.040048.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 19 03:35:53 UTC 2025
+! Last modified: Wed Feb 19 04:00:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7691
+! Number of entries: 7695
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -146,6 +146,7 @@
 ||8shop.instock.us.kg^
 ||8xfilms.living^
 ||90jogo5.com^
+||91863.vip^
 ||951345141ruby616asdcxvz.com^
 ||988359.com^
 ||99phl789.com^
@@ -163,6 +164,7 @@
 ||aattechnologies.net^
 ||aav15y8.tipitkd.info^
 ||aawfurniture.com^
+||abacusmarketsite.org^
 ||abaok.vip^
 ||abdab.de^
 ||abdullahonline.store^
@@ -681,6 +683,7 @@
 ||ayridchandler.shop^
 ||ayurlife.online^
 ||azmovies.ag^
+||aztekprimexchange.com^
 ||babylon3.vip^
 ||babytoll.shop^
 ||babyu.shop^
@@ -7522,6 +7525,7 @@
 ||xmcopytrade.com^
 ||xo123.cc^
 ||xo789.cc^
+||xofyciy.shop^
 ||xordecisions.com^
 ||xorylia.com^
 ||xpertlex.online^
