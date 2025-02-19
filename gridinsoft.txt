@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.19.043432.2025
+! Version: 02.19.050048.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 19 04:34:32 UTC 2025
+! Last modified: Wed Feb 19 05:00:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7700
+! Number of entries: 7705
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1389,6 +1389,7 @@
 ||cbtfturbo99.com^
 ||cbverify.top^
 ||ccard50.ru^
+||cccam-premium.pro^
 ||ccsnkrs.store^
 ||ccuqjc.top^
 ||cdaipaid.com^
@@ -1399,6 +1400,7 @@
 ||ceipa.edu.co^
 ||celebprize.com^
 ||celeharm.com^
+||celestica.website^
 ||celium.arbitrage.com^
 ||cencomall.org^
 ||cendyngroup.com^
@@ -3312,6 +3314,7 @@
 ||herotoyshop.com^
 ||herpesyls.click^
 ||hesamkianikhah.com^
+||heusom.com^
 ||hevistoundocumental.com^
 ||hexa.watch^
 ||hexafiber.com^
@@ -4269,6 +4272,7 @@
 ||massive.recruitment.online^
 ||masterfulart.homes^
 ||math2.online^
+||matias.me^
 ||matrixbit.net^
 ||matteomarcelli.com^
 ||mavie.global^
@@ -7202,6 +7206,7 @@
 ||vogstores.com^
 ||vogue.kildare.com^
 ||voguervault.co^
+||voirfilms.online^
 ||vokryer.com^
 ||volcminer.io^
 ||volcminer.store^
