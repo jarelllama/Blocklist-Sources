@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.19.100059.2025
+! Version: 02.19.103439.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 19 10:00:59 UTC 2025
+! Last modified: Wed Feb 19 10:34:39 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7725
+! Number of entries: 7727
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5261,6 +5261,7 @@
 ||play.cantikpggames.com^
 ||play.qqvip303.online^
 ||play.regal.fr.online^
+||play4win.click^
 ||playdax.top^
 ||playfly.us.com^
 ||playfortune.cc^
@@ -6704,6 +6705,7 @@
 ||tonpick.game^
 ||tonshaker.com^
 ||toobittrade.com^
+||tooeood-ve.com^
 ||toolspik.com^
 ||toolstationsale.com^
 ||toolstationuk.shop^
