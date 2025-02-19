@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.19.004516.2025
+! Version: 02.19.012805.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 19 00:45:16 UTC 2025
+! Last modified: Wed Feb 19 01:28:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7674
+! Number of entries: 7676
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2900,6 +2900,7 @@
 ||fusin.club^
 ||fusion.gain.cfd^
 ||fustorix.com^
+||futrade.ltd^
 ||futurecryptominer.com^
 ||futurefmt.com^
 ||futurenft.net^
@@ -6269,6 +6270,7 @@
 ||sthbill.com^
 ||stieamccommnunlty.com^
 ||stleamccmmnunlty.com^
+||stockfrontiertraders.com^
 ||stocklogs.info^
 ||stockout.gr^
 ||stockresoluteprofx.com^
