@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.19.203226.2025
+! Version: 02.19.210100.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 19 20:32:26 UTC 2025
+! Last modified: Wed Feb 19 21:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7782
+! Number of entries: 7784
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1081,6 +1081,7 @@
 ||blochchile.shop^
 ||blockdag.network^
 ||blockmetal.ltd^
+||blockskipad.com^
 ||blofinm.com^
 ||blofinm2.com^
 ||bloginnet.in^
@@ -2139,6 +2140,7 @@
 ||desipin.com^
 ||desirebells.com^
 ||dessi.co^
+||destiny-matrix.online^
 ||destiny.matrix.online^
 ||destinylucks.life^
 ||destinypulseprize.com^
