@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.19.213050.2025
+! Version: 02.19.220104.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 19 21:30:50 UTC 2025
+! Last modified: Wed Feb 19 22:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7787
+! Number of entries: 7791
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3700,6 +3700,7 @@
 ||ivendart.com^
 ||ivermectin4all.com^
 ||ivordui.com^
+||iyftv.org^
 ||iyilikler.online^
 ||j110s.xyz^
 ||j110y.xyz^
@@ -4249,6 +4250,7 @@
 ||m.techxtp.com^
 ||m.vk.com^
 ||m1jspkd.com^
+||m3uiptv.nl^
 ||m66iu.xyz^
 ||maasgain.com^
 ||maasvlakteoilterminal.com^
@@ -5978,6 +5980,7 @@
 ||seatsnet.com^
 ||seawin.top^
 ||sec.loanbusiness.com^
+||secbitfxtrade.com^
 ||secure.ccleaner.com^
 ||secure.getquietlab.com^
 ||secure.logalty.com^
@@ -7086,6 +7089,7 @@
 ||urefie.net^
 ||ureka88.com^
 ||urlsing.com^
+||us-en-zenearra.com^
 ||us.alpinestars.com^
 ||us.amtmodels.com^
 ||us.biglots.top^
