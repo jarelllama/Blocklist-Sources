@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.19.193054.2025
+! Version: 02.19.200102.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 19 19:30:54 UTC 2025
+! Last modified: Wed Feb 19 20:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7778
+! Number of entries: 7780
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6823,6 +6823,7 @@
 ||tradehivehub.com^
 ||tradelinelite.com^
 ||tradematix.info^
+||tradenextmarkets.com^
 ||traderqx.com^
 ||traderszenith.com^
 ||tradestationcryptofx.com^
@@ -7535,6 +7536,7 @@
 ||wowcams.com^
 ||wownine.com^
 ||wowonlinestores.co.in^
+||wowroms.com^
 ||woxdem.com^
 ||wparst.com^
 ||wpfots.info^
