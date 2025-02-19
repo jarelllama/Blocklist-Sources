@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.19.183551.2025
+! Version: 02.19.190051.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 19 18:35:51 UTC 2025
+! Last modified: Wed Feb 19 19:00:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7770
+! Number of entries: 7775
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -383,6 +383,7 @@
 ||alidropnuig.com^
 ||aliex.proxy.robot.shop^
 ||aliquotes.online^
+||alkhair-society.com^
 ||alko1mg.com^
 ||all.chems.com^
 ||all.pcb.online^
@@ -2732,6 +2733,7 @@
 ||fhusg.com^
 ||fiahub.com^
 ||fic.cc^
+||fidel-equity.cc^
 ||fidelixdigitals.de^
 ||fieldloom.com^
 ||fighterseurope.com^
@@ -4587,6 +4589,7 @@
 ||motoboss.shop^
 ||motoclever.com^
 ||motorwolt.com^
+||mountainsportus.com^
 ||movenzo.com^
 ||movie123full.com^
 ||moviediskhd.cloud^
@@ -5641,6 +5644,7 @@
 ||ranthambhoresafaritour.in^
 ||rapelust.com^
 ||rapiddigitalrecovery.org^
+||rapidnftswap.com^
 ||rapidtransitmodels.com^
 ||rareanimes.net^
 ||rarechemsonline.org^
@@ -6661,6 +6665,7 @@
 ||thetechguy.io^
 ||thethaonhanphat.com^
 ||thetodayhealth.xyz^
+||thetollroads-paytollpgq.world^
 ||thetrackrecord.org^
 ||thetradehub.net^
 ||thetruthinfo.club^
