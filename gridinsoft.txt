@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.19.012805.2025
+! Version: 02.19.020210.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 19 01:28:05 UTC 2025
+! Last modified: Wed Feb 19 02:02:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7676
+! Number of entries: 7677
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1829,6 +1829,7 @@
 ||crystalglobalwealth.com^
 ||crystaliptv.shop^
 ||crystalpromo.site^
+||cs.money^
 ||csdiaod.store^
 ||csfpromocao2024.online^
 ||csiskee.com^
