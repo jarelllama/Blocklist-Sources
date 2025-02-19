@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.19.190051.2025
+! Version: 02.19.193054.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 19 19:00:51 UTC 2025
+! Last modified: Wed Feb 19 19:30:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7775
+! Number of entries: 7778
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3377,6 +3377,7 @@
 ||hh.click.com^
 ||hianime.nz^
 ||hianime.to^
+||hiarian.com^
 ||hiddnarchive.com^
 ||hidollshop.top^
 ||highgradeglobal.com^
@@ -4915,6 +4916,7 @@
 ||occreply.com^
 ||ocean.contenedores.com^
 ||ocean.fx.investment.ltd^
+||oceandri.com^
 ||oceangatemarket.com^
 ||oceanprotocol2.life^
 ||oceanprotocol2.xyz^
@@ -5201,6 +5203,7 @@
 ||payments.usavisaconsultant.com^
 ||pazaswq.com^
 ||pazvbha.com^
+||pbaco.blueskyanalytics.net^
 ||pbrs.affectation.com^
 ||pbs.affectation.com^
 ||pcex.com^
