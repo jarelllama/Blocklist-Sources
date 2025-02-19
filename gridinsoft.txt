@@ -3,14 +3,16 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.19.160057.2025
+! Version: 02.19.163516.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 19 16:00:57 UTC 2025
+! Last modified: Wed Feb 19 16:35:16 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7744
+! Number of entries: 7751
 !
 ||000074.cc^
 ||0019.coinbase.com^
+||01105.co^
+||01145.vip^
 ||01505.co^
 ||01625.co^
 ||01675.vip^
@@ -147,6 +149,7 @@
 ||7k.casino.16.online^
 ||7l77vn.site^
 ||7starbet.com^
+||80-25-dss.vip^
 ||80.25.buu.com^
 ||80.25.pcs.com^
 ||8196666.com^
@@ -178,6 +181,8 @@
 ||aawfurniture.com^
 ||abacusmarketsite.org^
 ||abaok.vip^
+||abbymarshall.shop^
+||abccargologistics.com^
 ||abdab.de^
 ||abdullahonline.store^
 ||aberfields.com^
@@ -646,6 +651,7 @@
 ||atomishine.com^
 ||atouchofgreenboutique.com^
 ||atriumset.com^
+||atservineor.com^
 ||attmailboxalerttt.weebly.com^
 ||attriaction.com^
 ||atualcance.online^
@@ -4234,6 +4240,7 @@
 ||madmuscles.com^
 ||maexj2trk.com^
 ||magamart.co^
+||magatrustfunds.com^
 ||magic4you.nu^
 ||mahadev.id.online^
 ||mahakumbhhelicopterservice.online^
