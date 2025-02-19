@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.19.083508.2025
+! Version: 02.19.090059.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 19 08:35:08 UTC 2025
+! Last modified: Wed Feb 19 09:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7722
+! Number of entries: 7724
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3987,6 +3987,7 @@
 ||lepetitportailbasque.com^
 ||lesparentszens.acemlnb.com^
 ||lespetales.com.au^
+||lestonbit.com^
 ||letsgotothemoon.travel.com^
 ||letsoc.com^
 ||leupold.us.shop^
@@ -7146,6 +7147,7 @@
 ||verunax.com^
 ||vestergaardtz.com^
 ||vestrum.io^
+||vestyz.com^
 ||vetswhogetmarketing.com^
 ||vetusgifts.com^
 ||vevorheater.com^
