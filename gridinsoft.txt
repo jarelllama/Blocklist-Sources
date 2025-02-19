@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.19.040048.2025
+! Version: 02.19.043432.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 19 04:00:48 UTC 2025
+! Last modified: Wed Feb 19 04:34:32 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7695
+! Number of entries: 7700
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1111,6 +1111,7 @@
 ||botfypro.com^
 ||boundary.metal.com^
 ||bounty.dough.com^
+||boutique-elmordjene.com^
 ||boutique.amy.com^
 ||boutique.dispatche.com^
 ||bovada.lv^
@@ -3960,6 +3961,7 @@
 ||leniaudelectromenager.com^
 ||leonbets.com^
 ||leonemicrofinance.com^
+||leonesport.club^
 ||leonneo.com^
 ||leparadisdespets.com^
 ||leparis.club^
@@ -4122,6 +4124,7 @@
 ||lpr.articlefindpro.com^
 ||lrefraine.lol^
 ||lrepacks.net^
+||lssc.ltd^
 ||lswuuedxz.makeup^
 ||ltc.mine.com^
 ||ltcautomining.com^
@@ -5631,6 +5634,7 @@
 ||ref2tron.top^
 ||refefshopin.top^
 ||reffbyte.com^
+||refundcashback.org^
 ||reg.yourgamebuilder.com^
 ||regalosorpresivo.com^
 ||regenita.com^
@@ -6103,6 +6107,7 @@
 ||smartphone.ue.shop^
 ||smartrecoup.com^
 ||smartrobot.vip^
+||smarttechenergy.store^
 ||smeftoredu.com^
 ||smesk.online^
 ||smith.newyork.com^
