@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.19.220104.2025
+! Version: 02.19.223214.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 19 22:01:04 UTC 2025
+! Last modified: Wed Feb 19 22:32:14 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7791
+! Number of entries: 7793
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3749,6 +3749,7 @@
 ||jnjus.cc^
 ||jnjus.net^
 ||jnjus.vip^
+||jo-annonlinesale-us.com^
 ||joannla.com^
 ||joanonline.shop^
 ||jobeazi.com^
@@ -6684,6 +6685,7 @@
 ||thewealthwave.co^
 ||thewisdombible.com^
 ||theworkstep.com^
+||thexaut.network^
 ||thgworldwide.com^
 ||thinkcoin.vip^
 ||thirteenants.com^
