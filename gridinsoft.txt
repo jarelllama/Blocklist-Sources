@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.19.210100.2025
+! Version: 02.19.213050.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 19 21:01:00 UTC 2025
+! Last modified: Wed Feb 19 21:30:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7784
+! Number of entries: 7787
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1547,6 +1547,7 @@
 ||cituuyed.com^
 ||citxion.top^
 ||cityaccesshouse.com^
+||cityindexltd.com^
 ||civilwarcrisis.com^
 ||cjs.cdkeys.com^
 ||cl.experts.biz^
@@ -3300,6 +3301,7 @@
 ||haglofss.com^
 ||haidth.com^
 ||hakim.media^
+||haleith.com^
 ||halyvvis.com^
 ||hamivibe.com^
 ||hanatyury.online^
@@ -4470,6 +4472,7 @@
 ||minbtc.com^
 ||mindgo.vip^
 ||mindhorizons.online^
+||mindmetric.ai^
 ||mindofpepe.com^
 ||mindreset.site^
 ||mine.bnb.com^
