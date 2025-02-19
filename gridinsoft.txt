@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.19.063610.2025
+! Version: 02.19.070107.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 19 06:36:10 UTC 2025
+! Last modified: Wed Feb 19 07:01:07 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7711
+! Number of entries: 7716
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -109,6 +109,7 @@
 ||4kiptvspot.net^
 ||4uvize.com^
 ||500.intal.org^
+||53118d.com^
 ||54888uu.com^
 ||54888yy.com^
 ||552059.com^
@@ -116,6 +117,9 @@
 ||552993.com^
 ||55redefined.online^
 ||592b.com^
+||5982r.com^
+||5982u.com^
+||5982z.com^
 ||5movierulz.gay^
 ||5movierulz.rip^
 ||5z.pm^
@@ -2532,6 +2536,7 @@
 ||etoro66.vip^
 ||eu.tamaris.com^
 ||eu.venum.shop^
+||eudocsexpress.com^
 ||eugadneu.de^
 ||eulahy.com^
 ||eumarijuanashop.com^
