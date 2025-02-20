@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.20.223304.2025
+! Version: 02.20.230056.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 20 22:33:04 UTC 2025
+! Last modified: Thu Feb 20 23:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7907
+! Number of entries: 7912
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2029,6 +2029,7 @@
 ||dashnex.plexusmarket.fund^
 ||data.driveninvesting.net^
 ||datadexterity.online^
+||dataforgesphere.cyou^
 ||dataminr.ai.org^
 ||dataminr.ai.xyz^
 ||dataprocessinghere.online^
@@ -2753,6 +2754,7 @@
 ||fastdeliverytrustpills.com^
 ||fastee.top^
 ||fastlovestore.sbs^
+||fastminingpro.com^
 ||fastnetworks.xyz^
 ||fastshare.cloud^
 ||fastswap.one^
@@ -4832,6 +4834,7 @@
 ||nervedefend.company.site^
 ||nestedfashion.com^
 ||nestlady.com^
+||net-republics.net^
 ||netbitcapital.net^
 ||netdcbf.com^
 ||netflix.eltonymarketing.com^
@@ -5129,6 +5132,7 @@
 ||onlycartel.net^
 ||onlymegalovers.com^
 ||onlymodels.me^
+||onlypink.org^
 ||onlyterrific.com^
 ||onnkfv.shop^
 ||onopride.store^
@@ -5438,6 +5442,7 @@
 ||polocase.com^
 ||polpick.io^
 ||polvfbks.info^
+||polycoinsecurityexchange.vip^
 ||popmart.mx.com^
 ||popmartoficial.com^
 ||popmartonline.my.asia^
