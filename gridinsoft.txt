@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.20.193053.2025
+! Version: 02.20.200102.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 20 19:30:53 UTC 2025
+! Last modified: Thu Feb 20 20:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7880
+! Number of entries: 7888
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -145,6 +145,7 @@
 ||65cryptoleo3933.com^
 ||65mf.com^
 ||66312.cc^
+||66463qq.com^
 ||66wineshop.com^
 ||6707888.com^
 ||67phspin.vip^
@@ -225,6 +226,7 @@
 ||accessglobal.earnings.com^
 ||accordsatisfy.com^
 ||account.cardplus.cc^
+||accountretrieva.com^
 ||accounts.avanquest.com^
 ||accu.tech.pro^
 ||accumarkets.live^
@@ -262,6 +264,8 @@
 ||adatenight.com^
 ||adblocker.one^
 ||addressfinancial.com^
+||adexprogain.com^
+||adftips.com^
 ||adgkj.com^
 ||adidas.rest^
 ||adifootballshop.com^
@@ -301,6 +305,8 @@
 ||aerodromefi.claims.app^
 ||aeroexperiaservice.com^
 ||aerosdromes.net^
+||afbug.xyz^
+||afcwjs.shop^
 ||aff.nikkymedia.com.ng^
 ||affiliatemarketlite.com^
 ||affirmgrowth.co^
@@ -2803,6 +2809,7 @@
 ||financehub.help^
 ||financeig.com^
 ||financel.top^
+||financen.vip^
 ||financeusdt.com^
 ||financial.acornslimited.com^
 ||financial.investmentconsultantinc.com^
@@ -3114,6 +3121,7 @@
 ||getintopc.com^
 ||getoca.com^
 ||getpaidtolearnonline658733.icu^
+||getpepe.cc^
 ||getpersonalizedshop.com^
 ||getprimesource.com^
 ||getrumpmemes.cc^
