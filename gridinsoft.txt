@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.20.180103.2025
+! Version: 02.20.183557.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 20 18:01:03 UTC 2025
+! Last modified: Thu Feb 20 18:35:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7858
+! Number of entries: 7866
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -441,6 +441,7 @@
 ||altomine.top^
 ||altraprime.trade.org^
 ||alturametatrade.com^
+||alugueldebrinquedos.online^
 ||alvesbenedek.com^
 ||alwaysfindonline.shop^
 ||alyzoo.org^
@@ -2017,6 +2018,7 @@
 ||dawnfelt.com^
 ||daxpulse.com^
 ||daxtok.com^
+||daydison.shop^
 ||daywint.com^
 ||dbbjrhhn.guru^
 ||dbespot.com^
@@ -2747,6 +2749,7 @@
 ||feenox.com^
 ||felguss.com^
 ||fenben.pro^
+||fenevieve.shop^
 ||fennafashion.de^
 ||fenovur.com^
 ||fenryon.com^
@@ -3250,6 +3253,7 @@
 ||gptdefinityai.app.com^
 ||gptexcelacademycl.com^
 ||gptgirlfriend.online^
+||gpuking.org^
 ||grabpoints.com^
 ||graceiful.com^
 ||graftonoakwood.com^
@@ -3286,6 +3290,7 @@
 ||grupohersa.org^
 ||gryphon.trx.com^
 ||gs.zbzy.cc^
+||gsoporific.monster^
 ||gtc.lol^
 ||gten956.vip^
 ||gtkjean.com^
@@ -3550,6 +3555,7 @@
 ||hustlersuniversityapp.com^
 ||hvuaill.com^
 ||hwg.lol^
+||hwo.io^
 ||hxhyc.com^
 ||hxnkqn.shop^
 ||hxsc.store^
@@ -5437,6 +5443,7 @@
 ||prescienceai.xyz^
 ||prestige-finance-gold.com^
 ||prestigeprint.uk^
+||presttan.shop^
 ||pretiboiy.com^
 ||prettyright.com^
 ||pricepool88.com^
@@ -6084,6 +6091,7 @@
 ||setyobim.online^
 ||seuguiadefinitivo.com^
 ||severalmarks.com^
+||sewin.net^
 ||sewric.com^
 ||sexanzeigen.huren.online^
 ||sexfullmovies.mobi^
