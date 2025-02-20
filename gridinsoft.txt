@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.20.230056.2025
+! Version: 02.20.233120.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 20 23:00:56 UTC 2025
+! Last modified: Thu Feb 20 23:31:20 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7912
+! Number of entries: 7917
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2496,6 +2496,7 @@
 ||elevateminer.com^
 ||elineverhoye.shop^
 ||elishine.us^
+||elite-miners.net^
 ||elitecapitalgain.org^
 ||elitecapitalmarket.com^
 ||elitecapitalprofits.com^
@@ -2810,6 +2811,7 @@
 ||fileplanet.com^
 ||files.fm^
 ||filespayouts.com^
+||filmesonline.blog^
 ||filmgratuit.stream^
 ||filmpalast.to^
 ||filmyfly.esq^
@@ -4273,6 +4275,7 @@
 ||lswuuedxz.makeup^
 ||ltc.mine.com^
 ||ltcautomining.com^
+||ltcfree.cloud^
 ||ltcminer.com^
 ||ltcming.pw^
 ||ltcpay.net^
@@ -6322,6 +6325,7 @@
 ||socioplanet.com^
 ||sockshappystore.com^
 ||sodavac.com^
+||sofiahalbofanimeworld.blogspot.be^
 ||sofiahalbofanimeworld.blogspot.co.uk^
 ||sofiahalbofanimeworld.blogspot.com^
 ||sofiahalbofanimeworld.blogspot.nl^
@@ -7058,6 +7062,7 @@
 ||trxchargepoint.net^
 ||trxgain.com^
 ||trxminerboost.com^
+||trxproxtrade.com^
 ||tryanua.co^
 ||tryessnce.com^
 ||trygamecrate.com^
