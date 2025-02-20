@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.20.183557.2025
+! Version: 02.20.190053.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 20 18:35:57 UTC 2025
+! Last modified: Thu Feb 20 19:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7866
+! Number of entries: 7875
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -193,6 +193,7 @@
 ||9xmoviies.xyz^
 ||a1-wealthmakers.com^
 ||a1b2c4.shop^
+||a1mazon.com^
 ||a1wizardhackes.com^
 ||aariatees.net^
 ||aattechnologies.net^
@@ -229,8 +230,10 @@
 ||accurecrypto.com^
 ||ace.capitals.com^
 ||acerintplc.online^
+||aceroexpressgr.com^
 ||acesports.world^
 ||acessoftog.com^
+||acethreeshop.com^
 ||acgxunuo.one^
 ||achadosonline2790.com^
 ||achatdrogues.com^
@@ -269,6 +272,7 @@
 ||admolo.com^
 ||adorehike.com^
 ||adornmentcustom.com^
+||adrienducrot.shop^
 ||ads.trafficircles.com^
 ||ads2cash.co^
 ||adsarp.com^
@@ -299,6 +303,7 @@
 ||affjumbo.com^
 ||afrigoldmines.com^
 ||afriqjmarbitrage.us^
+||afrxbujefqao.shop^
 ||agarwoody.shop^
 ||ageeon.com^
 ||ageesmart.us^
@@ -314,6 +319,8 @@
 ||agrozenith.org^
 ||agyabashipping.com^
 ||ahhaqq.com^
+||ahkohnkczvfwtrdtd.shop^
+||ahmedbulad.com^
 ||aht.mfjw05.com^
 ||ai-nigarity.com^
 ||ai.btrading.club^
@@ -1420,6 +1427,7 @@
 ||cash.tube.online^
 ||cashcow.wang^
 ||cashphoneoriginal.com^
+||cashtube.co^
 ||casinoblue.world^
 ||casinofree2.online^
 ||casinopurple.com^
@@ -7822,6 +7830,7 @@
 ||zenoex.com^
 ||zentivawellness.com^
 ||zentrade.org^
+||zephyrcloset.com^
 ||zero-faucet.com^
 ||zero.faucet.com^
 ||zerocodeblock.com^
