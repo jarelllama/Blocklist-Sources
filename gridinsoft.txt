@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.20.053300.2025
+! Version: 02.20.060054.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 20 05:33:00 UTC 2025
+! Last modified: Thu Feb 20 06:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7810
+! Number of entries: 7812
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1681,6 +1681,7 @@
 ||coinget.online^
 ||coingetbit.com^
 ||coinghw.com^
+||coinhive.com^
 ||coinjak.com^
 ||coinlocally.forex^
 ||coinoah.vip.cc^
@@ -3935,6 +3936,7 @@
 ||kpmy556.cc^
 ||kraken.chek.xyz^
 ||krakenatfxx.com^
+||kratosaddict.com^
 ||kreashops.com^
 ||krebson.ru^
 ||krecociler.monster^
