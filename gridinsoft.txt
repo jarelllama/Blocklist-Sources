@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.20.060054.2025
+! Version: 02.20.063608.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 20 06:00:54 UTC 2025
+! Last modified: Thu Feb 20 06:36:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7812
+! Number of entries: 7814
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -389,6 +389,7 @@
 ||all.chems.com^
 ||all.pcb.online^
 ||allcricketid.com^
+||alldegrees.shop^
 ||allegrolokalniepl.9683081239018571985139763.online^
 ||allegrotradeia.com^
 ||allemall.top^
@@ -4148,6 +4149,7 @@
 ||logammulia.xyz^
 ||loganmay.com^
 ||login.microsoft.com^
+||login.olx.bg^
 ||logindesjardinsinfo.com^
 ||logomagik.online^
 ||lolasee.com^
