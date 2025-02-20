@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.20.113053.2025
+! Version: 02.20.120106.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 20 11:30:53 UTC 2025
+! Last modified: Thu Feb 20 12:01:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7827
+! Number of entries: 7831
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1476,6 +1476,7 @@
 ||cfbit.org^
 ||cfd.interactiveproltd.com^
 ||cfdqqx.com^
+||cfr.network^
 ||cfs.trades.com^
 ||chabagsnew.com^
 ||chadstone99.top^
@@ -1972,6 +1973,7 @@
 ||dalladesh.com^
 ||daltonitsolutions.com^
 ||damanavaitor.in^
+||danwaygroup.com^
 ||danxdex.com^
 ||dapdunetrading.com^
 ||dapp.ens.domains^
@@ -3430,6 +3432,7 @@
 ||hobbyball.com^
 ||hobbyhubvip.com^
 ||hobokenheadshots.com^
+||hoffapps.com^
 ||hok55.com^
 ||hoka-colombia.com.co^
 ||hoka.com.es^
@@ -6391,6 +6394,7 @@
 ||stellaclark.eu^
 ||stellantisbiz.top^
 ||stellarskyline.com^
+||stellular-bubblegum-7d62af.netlify.app^
 ||stellwisestore.com^
 ||stemncommunity.com^
 ||stenocarpustheft.shop^
