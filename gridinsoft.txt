@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.20.124221.2025
+! Version: 02.20.130543.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 20 12:42:21 UTC 2025
+! Last modified: Thu Feb 20 13:05:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7832
+! Number of entries: 7833
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -712,6 +712,7 @@
 ||avalonfinance.io^
 ||avalontrdpro.com^
 ||avastosgr.fun^
+||avatrade.fr^
 ||aventra-melbourne.com^
 ||averagedadofficial.com^
 ||avianca.com^
