@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.20.220057.2025
+! Version: 02.20.223304.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 20 22:00:57 UTC 2025
+! Last modified: Thu Feb 20 22:33:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7901
+! Number of entries: 7907
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -287,6 +287,7 @@
 ||ads.trafficircles.com^
 ||ads2cash.co^
 ||adsarp.com^
+||adsgoo.com^
 ||adsphericalsuits.com^
 ||adtgnt.com^
 ||adultgames.to^
@@ -386,6 +387,7 @@
 ||aitimart.com^
 ||aitransactionplatform.com^
 ||aitransactionplatform.vip^
+||aivonovapeuae.com^
 ||aixcrypto.xyz^
 ||aixomi.com^
 ||aiyibay.com^
@@ -2252,6 +2254,7 @@
 ||digitalterra.org^
 ||digitalwebchain.xyz^
 ||digiterminator.online^
+||digitrexfox.com^
 ||digitsagency.online^
 ||digitsathi.co.in^
 ||dinegt.click^
@@ -3242,6 +3245,7 @@
 ||goldentrade.life^
 ||golderagifts.com^
 ||golditry.com^
+||goldmac.org^
 ||goldmanmarkets.io^
 ||goldstradeapp.com^
 ||goldstrategyvip.com^
@@ -7114,6 +7118,7 @@
 ||uehdspecial.shop^
 ||uewlihasq.com^
 ||ufcufiufh.info^
+||ufdwk.ltd^
 ||ufyx22ah.top^
 ||uggonline.com.au^
 ||ugksq.merganser.cn^
@@ -7292,6 +7297,7 @@
 ||velourwatches.store^
 ||venarose.online^
 ||vendorbroz.com^
+||venetianlace.com^
 ||venotem.com^
 ||venotux.com^
 ||ventalor.com^
