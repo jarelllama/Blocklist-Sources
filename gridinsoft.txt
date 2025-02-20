@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.19.233052.2025
+! Version: 02.20.000200.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 19 23:30:52 UTC 2025
+! Last modified: Thu Feb 20 00:02:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7799
+! Number of entries: 7802
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1008,6 +1008,7 @@
 ||bithub.bot^
 ||biticrypto.com^
 ||bitindicieskryptotrade.com^
+||bitlabs.pro^
 ||bitlancecapitals.com^
 ||bitly.net^
 ||bitmain.com.vc^
@@ -3243,6 +3244,7 @@
 ||greenranddam.com^
 ||greenseedhub.com^
 ||greevip.org^
+||grelhasonline.mec.pt^
 ||greycredits.com^
 ||gricop.com^
 ||griefquotes.xyz^
@@ -3251,6 +3253,7 @@
 ||grmontrewatches.com^
 ||groepsverblijven.com^
 ||grokcoin.meme^
+||growlxx.com^
 ||growthcapinc.com^
 ||growthsedges.online^
 ||grunsguru.com^
