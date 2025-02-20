@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.20.213103.2025
+! Version: 02.20.220057.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 20 21:31:03 UTC 2025
+! Last modified: Thu Feb 20 22:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7896
+! Number of entries: 7901
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -197,6 +197,7 @@
 ||a1b2c4.shop^
 ||a1mazon.com^
 ||a1wizardhackes.com^
+||aalten.pics^
 ||aariatees.net^
 ||aattechnologies.net^
 ||aav15y8.tipitkd.info^
@@ -224,6 +225,7 @@
 ||acceleratew.com^
 ||access.abstract.com^
 ||accessglobal.earnings.com^
+||accget.com^
 ||accordsatisfy.com^
 ||account.cardplus.cc^
 ||accountretrieva.com^
@@ -6077,6 +6079,7 @@
 ||secure.logalty.com^
 ||secure.weltrade.com^
 ||securecryptorecovery.com^
+||secured.futurehopelimited.com^
 ||secured.triumphfx.com^
 ||securedalliances.com^
 ||securedjointnetwork.co.in^
@@ -6679,6 +6682,7 @@
 ||tenueazur.blog^
 ||terbangria.online^
 ||terestdeals.shop^
+||terrafirmatrade.online^
 ||terrapulsedfg.site^
 ||tescoshangplnglobal.com^
 ||tesla.investorscorp.pro^
@@ -6919,6 +6923,7 @@
 ||tracktooffrs.com^
 ||tractorreplacement.com^
 ||tracy925digital.pro^
+||trade-pool.com^
 ||trade.definity.co^
 ||trade.emeraltrade.com^
 ||trade2swap.com^
