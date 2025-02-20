@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.20.100103.2025
+! Version: 02.20.103448.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 20 10:01:03 UTC 2025
+! Last modified: Thu Feb 20 10:34:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7821
+! Number of entries: 7824
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1769,6 +1769,7 @@
 ||corescientific.refine.com^
 ||corigc.top^
 ||corporalgaming.com^
+||correosaaes.fit^
 ||corseplongeea.com^
 ||cosmayae.com^
 ||cosmicgroundingcode.com^
@@ -4149,6 +4150,7 @@
 ||localsinglesnearmefree0.online^
 ||locations.online.us^
 ||lockheed3.com^
+||lodbnve.com^
 ||logammulia.xyz^
 ||loganmay.com^
 ||login.microsoft.com^
@@ -4260,6 +4262,7 @@
 ||m.bitunixex.com^
 ||m.bxamax.com^
 ||m.dodorado.com^
+||m.fxpro-usd.vip^
 ||m.mxt-line-id.online^
 ||m.oxgatens.net^
 ||m.parrotes.com^
