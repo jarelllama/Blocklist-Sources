@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.20.143357.2025
+! Version: 02.20.150102.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 20 14:33:57 UTC 2025
+! Last modified: Thu Feb 20 15:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7837
+! Number of entries: 7839
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3324,6 +3324,7 @@
 ||halyvvis.com^
 ||hamivibe.com^
 ||hanatyury.online^
+||handelswiss1.com^
 ||handfull.shop^
 ||handfulspeed.com^
 ||handgripknuckle.com^
@@ -5436,6 +5437,7 @@
 ||primeinvest.app^
 ||primeminingexchange.net^
 ||primemoverexpress.online^
+||primeoptimizer.com^
 ||primeotp.com^
 ||primeplatform.online^
 ||primetransactltd.com^
