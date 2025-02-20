@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.20.090056.2025
+! Version: 02.20.093216.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 20 09:00:56 UTC 2025
+! Last modified: Thu Feb 20 09:32:16 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7819
+! Number of entries: 7821
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5464,6 +5464,7 @@
 ||promask.pro^
 ||promo.offer.com^
 ||promo122.com^
+||promotion-a.shop^
 ||promptfunds.org^
 ||prompts.top^
 ||pronatum.com^
@@ -5574,6 +5575,7 @@
 ||pwanew3.3.onmore.top^
 ||pwanew4.1.onmore.top^
 ||pwanew5.1.onmore.top^
+||pwma-portal.com^
 ||pwyt.org^
 ||pxqboso.com^
 ||pyh.news.click^
