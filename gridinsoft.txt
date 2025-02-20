@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.20.190053.2025
+! Version: 02.20.193053.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 20 19:00:53 UTC 2025
+! Last modified: Thu Feb 20 19:30:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7875
+! Number of entries: 7880
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -146,6 +146,7 @@
 ||65mf.com^
 ||66312.cc^
 ||66wineshop.com^
+||6707888.com^
 ||67phspin.vip^
 ||689fa.com^
 ||68shop.europe.com^
@@ -255,6 +256,7 @@
 ||activityuk.shop^
 ||actufinance.fr^
 ||acvslimgummies.us^
+||acwdc.in^
 ||adapterworkshop.com^
 ||adaptivesscheme.com^
 ||adatenight.com^
@@ -269,6 +271,8 @@
 ||admin.ph.online^
 ||adminpg.online^
 ||admiralmine.com^
+||admireeml.com^
+||admitern.com^
 ||admolo.com^
 ||adorehike.com^
 ||adornmentcustom.com^
@@ -3695,6 +3699,7 @@
 ||ipshows4k.site^
 ||iptv4d.com^
 ||iptvexpert.pro^
+||iptvgear.store^
 ||iptvkaufen24.de^
 ||iptvnexus.com^
 ||iptvnw.us^
