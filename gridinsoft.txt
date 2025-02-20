@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.20.210058.2025
+! Version: 02.20.213103.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 20 21:00:58 UTC 2025
+! Last modified: Thu Feb 20 21:31:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7892
+! Number of entries: 7896
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -264,6 +264,7 @@
 ||adatenight.com^
 ||adblocker.one^
 ||addressfinancial.com^
+||aden.cool^
 ||adexprogain.com^
 ||adftips.com^
 ||adgkj.com^
@@ -292,6 +293,7 @@
 ||advanced.software.session.now.top^
 ||advancedaccount.bgng.io^
 ||advancedasset.management.org^
+||advancetrademarket.com^
 ||advetex.net^
 ||adwarerecoveryspecialist.com^
 ||adyenn.com^
@@ -2294,6 +2296,7 @@
 ||dnsdefender.xyz^
 ||dnswatch.info^
 ||doam.co.in^
+||doavyhhe.shop^
 ||dobitcoins.com^
 ||doc.0011325120631789.pdfinvoivedownloadisauthsuccessfullcom.glitch.me^
 ||docker.1ms.run^
@@ -3896,6 +3899,7 @@
 ||kartio.live^
 ||kavvaweb3.netlify.app^
 ||kaynine.cyberservices.com^
+||kazpetro.com^
 ||kcex.com^
 ||kcexai.com^
 ||kdawe.com^
@@ -4404,6 +4408,7 @@
 ||massimoduttisa.top^
 ||massimodvttioutlets.com^
 ||massive.recruitment.online^
+||masteredgetrust.com^
 ||masterfulart.homes^
 ||math2.online^
 ||matias.me^
@@ -6937,7 +6942,6 @@
 ||tradextron.top^
 ||trading.com^
 ||trading.elevation.net^
-||trading.masteredgetrust.com^
 ||tradingaccessfx.com^
 ||tradingcardsstoredeals.com^
 ||tradinghelden.com^
