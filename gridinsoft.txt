@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.20.170101.2025
+! Version: 02.20.173151.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 20 17:01:01 UTC 2025
+! Last modified: Thu Feb 20 17:31:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7847
+! Number of entries: 7853
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -109,6 +109,9 @@
 ||37mea68.eyjvds.info^
 ||42ph00w.etiziwa.info^
 ||44phl789.com^
+||450bushmasterammo.com^
+||45438f.com^
+||45438l.com^
 ||4593fgx52uod58nc9b.nnoomm.co.in^
 ||485941.coinbase.com^
 ||4fitnessbg.com^
@@ -371,6 +374,7 @@
 ||al.sahabinvestment.com^
 ||albertcrypto.pro^
 ||alcazie.in^
+||alcotthrgroup.online^
 ||aldozapatos.com^
 ||alectomedia.online^
 ||alessioduini.com^
@@ -1824,6 +1828,7 @@
 ||cripexbit.com^
 ||cripto.keys.store^
 ||cristianmartinez.online^
+||crm.ecmarkets.sc^
 ||crockful.com^
 ||crohasit.net^
 ||crownpointfin.com^
@@ -6298,6 +6303,7 @@
 ||soufeel.es^
 ||soundcoreindiawebsite.com^
 ||sourceas.com^
+||sourl.cn^
 ||southafricalotto.co.za^
 ||sovereigngoldengate.com^
 ||sp500.cc^
