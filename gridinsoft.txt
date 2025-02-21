@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.21.004527.2025
+! Version: 02.21.012751.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 21 00:45:27 UTC 2025
+! Last modified: Fri Feb 21 01:27:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7921
+! Number of entries: 7926
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -90,6 +90,7 @@
 ||2dgameworld.com^
 ||2llcc.vip^
 ||2mbet.link^
+||2net.co.il^
 ||2nzy.com^
 ||2rcorretora.site^
 ||30883t.com^
@@ -3443,6 +3444,7 @@
 ||herotoyshop.com^
 ||herpesyls.click^
 ||hesamkianikhah.com^
+||hesgenetics.eu^
 ||heusom.com^
 ||hevistoundocumental.com^
 ||hexa.watch^
@@ -4358,6 +4360,7 @@
 ||magic4you.nu^
 ||mahadev.id.online^
 ||mahakumbhhelicopterservice.online^
+||mail.eu.linkedover.com^
 ||mainelobsterget.shop^
 ||mainelobstersstore.com^
 ||mainmarketshop.shop^
@@ -5417,6 +5420,7 @@
 ||playfortune.cc^
 ||playgmz.online^
 ||playstation.stores.com^
+||playzop.org^
 ||pledgeoffers.com^
 ||plinko.france.org^
 ||plinkooyunu.net^
@@ -7118,6 +7122,7 @@
 ||ua.kinogo.ec^
 ||uasdealshop.online^
 ||uavdrone.vip^
+||ubmfspecial.shop^
 ||ubrya.com^
 ||uc.yomithane.ru^
 ||ucapsidop.info^
