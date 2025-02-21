@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.21.213054.2025
+! Version: 02.21.220059.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 21 21:30:54 UTC 2025
+! Last modified: Fri Feb 21 22:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7996
+! Number of entries: 7999
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -80,6 +80,7 @@
 ||244buildschile.com^
 ||247cryptotrade.net^
 ||24autopartsmaster.com^
+||24finance.pro^
 ||24proleverage.com^
 ||24x7defi.com^
 ||25rbx.site^
@@ -3561,6 +3562,7 @@
 ||hospitaltests.com^
 ||host.hotel.com^
 ||hostackhomefurnishings.shop^
+||hostoreonline.com^
 ||hotbcaguba.cc^
 ||hotbcopupu.cc^
 ||hotbdorogo.cc^
@@ -5484,6 +5486,7 @@
 ||plustraderspro.net^
 ||pmcdiecast.com^
 ||pnees.com^
+||pneumatick.com^
 ||pnusaa.com^
 ||pobyporcelain.shop^
 ||pocketoption.bwgcompany.com^
