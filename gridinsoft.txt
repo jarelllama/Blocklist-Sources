@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.21.143247.2025
+! Version: 02.21.150054.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 21 14:32:47 UTC 2025
+! Last modified: Fri Feb 21 15:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7962
+! Number of entries: 7963
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6628,6 +6628,7 @@
 ||sweaterlove.com^
 ||swedenfixedmatch.com^
 ||swedwayinnovations.com^
+||sweepstakesrush.com^
 ||sweepzprizes.com^
 ||sweet.paradise.online^
 ||sweetydolls.com^
