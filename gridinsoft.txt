@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.21.030529.2025
+! Version: 02.21.033442.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 21 03:05:29 UTC 2025
+! Last modified: Fri Feb 21 03:34:42 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7935
+! Number of entries: 7937
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4079,6 +4079,7 @@
 ||lavishsupply.net^
 ||law.blade.solutions.com^
 ||lawnagain.com^
+||lazada.cakepansplus.com^
 ||lbank.com^
 ||lbl07.com^
 ||lconenine.monster^
@@ -6406,6 +6407,7 @@
 ||sport.prints.online^
 ||sportarenastores.shop^
 ||sportchekca.com^
+||sportecentral.com^
 ||sportsalpin.com^
 ||sportsdirectdailydeals.shop^
 ||sportzone3.com^
