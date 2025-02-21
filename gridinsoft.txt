@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.21.110057.2025
+! Version: 02.21.113057.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 21 11:00:57 UTC 2025
+! Last modified: Fri Feb 21 11:30:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7955
+! Number of entries: 7956
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1184,6 +1184,7 @@
 ||bonustrader.website^
 ||boodiecawquaw.top^
 ||booie.online^
+||booking.com-31t.prop5253145.homes^
 ||bookmarkfc.info^
 ||booknflow.fr^
 ||boomerenginvestitionen.com^
