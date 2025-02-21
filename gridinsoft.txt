@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.21.133212.2025
+! Version: 02.21.140100.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 21 13:32:12 UTC 2025
+! Last modified: Fri Feb 21 14:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7959
+! Number of entries: 7962
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1491,6 +1491,7 @@
 ||cdn.a1.jumbomail.me^
 ||cdonnsauw.top^
 ||ceaondlet.com^
+||cegepsi.ca^
 ||ceipa.edu.co^
 ||celebprize.com^
 ||celeharm.com^
@@ -5114,6 +5115,7 @@
 ||onfrental.com^
 ||ongalo.shop^
 ||onimatch.com^
+||online-file-converter.com^
 ||online.abrechnung.info^
 ||online.advertising.23037.bond^
 ||online.advertising.32335.bond^
@@ -5337,6 +5339,7 @@
 ||pchelpsoft.com^
 ||pco.land^
 ||pe.trabajosdiarios.com^
+||peabodysvb.info^
 ||peacegals.com^
 ||peacheck.com^
 ||peachypeachworld.com^
