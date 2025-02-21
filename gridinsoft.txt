@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.21.163513.2025
+! Version: 02.21.170058.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 21 16:35:13 UTC 2025
+! Last modified: Fri Feb 21 17:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7967
+! Number of entries: 7969
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1177,6 +1177,7 @@
 ||bolderloft.nl^
 ||bonanza.usdt.com^
 ||bondicurls.com^
+||bonejump.com^
 ||bongodigitalbd.com^
 ||bonta.store^
 ||bonusewin.com^
@@ -2974,6 +2975,7 @@
 ||fournisseur.io^
 ||foxcc.online^
 ||foxexpectplatform.pro^
+||foxit-coins.com^
 ||foxracingoutlet.shop^
 ||foxsofe.app.bond^
 ||fozan.online^
