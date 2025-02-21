@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.21.024426.2025
+! Version: 02.21.030529.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 21 02:44:26 UTC 2025
+! Last modified: Fri Feb 21 03:05:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7933
+! Number of entries: 7935
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -7000,6 +7000,7 @@
 ||traydai.com^
 ||trazeit.net^
 ||trbowtie.shop^
+||trck.novatrcks.com^
 ||treasurenft.xyz^
 ||treatmeinty.com^
 ||treblesltd.com^
@@ -7779,6 +7780,7 @@
 ||xtraexcharge.com^
 ||xtremediscount.net^
 ||xtremeiptv.online^
+||xu5.cc^
 ||xufuji.xyz^
 ||xv.ru.com^
 ||xvkdfashion.shop^
