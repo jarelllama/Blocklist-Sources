@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.21.200101.2025
+! Version: 02.21.203157.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 21 20:01:01 UTC 2025
+! Last modified: Fri Feb 21 20:31:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7984
+! Number of entries: 7987
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -376,6 +376,7 @@
 ||airdrop.flock.com^
 ||airdropclaims.netlify.app^
 ||airdropusdt.shop^
+||airecchecktop.top^
 ||airfiltermask.shop^
 ||airjordans.com.es^
 ||airobotbest.com^
@@ -3043,6 +3044,7 @@
 ||fundedstake.io^
 ||fundedtradermarkets.com^
 ||fundertrade.com^
+||fundrisetrade.com^
 ||fundsretrievalpanel.com^
 ||fundxrecover.com^
 ||fungretail.shop^
@@ -4032,6 +4034,7 @@
 ||kongva.com^
 ||konigsbruder.com^
 ||konwix.com^
+||kopenozempiconline.com^
 ||korucc.com^
 ||kotaiproject.com^
 ||kpmy556.cc^
