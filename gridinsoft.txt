@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.21.173129.2025
+! Version: 02.21.180055.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 21 17:31:29 UTC 2025
+! Last modified: Fri Feb 21 18:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7973
+! Number of entries: 7976
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2191,6 +2191,7 @@
 ||demogamingsalam123.online^
 ||deniise.com^
 ||deniove.com^
+||denovatechllc.com^
 ||dent.code.com^
 ||dentalclinicgreaternoida.com^
 ||dentrodel.com^
@@ -3268,6 +3269,7 @@
 ||goldenaxisllc.com^
 ||goldengooseselect.com^
 ||goldengoosetgreece.cc^
+||goldenpremiumfx.online^
 ||goldenpristine.com^
 ||goldenprofitstock.com^
 ||goldentrade.life^
@@ -6395,6 +6397,7 @@
 ||sony.vod.com^
 ||soonjay.arawbet01.com^
 ||sooto.quebec.com^
+||sop4sale6.quest^
 ||sopenny.com^
 ||sophie.paris.com^
 ||soportestreaming.online^
