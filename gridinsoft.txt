@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.21.203157.2025
+! Version: 02.21.210101.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 21 20:31:57 UTC 2025
+! Last modified: Fri Feb 21 21:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7987
+! Number of entries: 7992
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -721,6 +721,7 @@
 ||aukweb3.com^
 ||auraaccessorize.com^
 ||auraexchangehub.com^
+||auraviashop.com^
 ||auroaespana.online^
 ||auroracherie.com^
 ||ausdedaoubaandou.gdyxlxxh.com^
@@ -2079,6 +2080,7 @@
 ||dealzforu.pro^
 ||deans.shoprite.online^
 ||deathance.com^
+||debtfreehomez.com^
 ||decentralizedtek.pages.dev^
 ||decorhome.arg.store^
 ||decorstore.club^
@@ -3228,6 +3230,7 @@
 ||globallogisticsco.com^
 ||globalnexusoptimum.com^
 ||globalnotelab.com^
+||globalqashadsclicks.com^
 ||globalrainingcoin.com^
 ||globalsfundrecovery.com^
 ||globalsmartrade.com^
@@ -3787,6 +3790,7 @@
 ||istanbulmeeting.com^
 ||istarimart.com^
 ||istorechub.com^
+||isvb.info^
 ||isx.financial^
 ||it.mediolanumbanca.com^
 ||itactivejobs.xyz^
@@ -4826,6 +4830,7 @@
 ||mytraveldaddy.us^
 ||myvanomi.com^
 ||n.ag.vip^
+||n.nexfinance.org^
 ||n.pkup.fr^
 ||na01.safelinks.protection.outlook.com^
 ||naaeeoy.com^
