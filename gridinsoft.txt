@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.21.020158.2025
+! Version: 02.21.024426.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 21 02:01:58 UTC 2025
+! Last modified: Fri Feb 21 02:44:26 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7930
+! Number of entries: 7933
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2583,6 +2583,7 @@
 ||enzabit.com^
 ||eobot.net^
 ||eonsalestore.com^
+||eoptiautostrust.com^
 ||eosbit.com^
 ||epeweko.info^
 ||epicchest.net^
@@ -6799,6 +6800,7 @@
 ||thetaus.top^
 ||thetechguy.io^
 ||thethaonhanphat.com^
+||thetiecollection.com.au^
 ||thetodayhealth.xyz^
 ||thetollroads-paytollpgq.world^
 ||thetrackrecord.org^
@@ -7269,6 +7271,7 @@
 ||uspsdhl.com^
 ||usspanish.4life.com^
 ||ussr.star.com^
+||ustemik.co.in^
 ||ustherealreal.com^
 ||ustoday24h.com^
 ||utens360.com^
