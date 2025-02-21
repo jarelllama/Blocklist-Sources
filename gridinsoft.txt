@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.21.100056.2025
+! Version: 02.21.103425.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 21 10:00:56 UTC 2025
+! Last modified: Fri Feb 21 10:34:25 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7953
+! Number of entries: 7955
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1777,6 +1777,7 @@
 ||compare.deals.online.info^
 ||comprasdigitaisglobais.online^
 ||computarius.online^
+||computeruniverse.net^
 ||con.ip.com^
 ||condorgaminggroup.com^
 ||confreriedes650.org^
@@ -4512,6 +4513,7 @@
 ||merjen.online^
 ||merrelldepot.com^
 ||meryin.com^
+||mesicas.com^
 ||messiah777.com^
 ||met123.top^
 ||meta.cafe.net^
