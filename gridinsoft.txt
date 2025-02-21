@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.21.080059.2025
+! Version: 02.21.083427.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 21 08:00:59 UTC 2025
+! Last modified: Fri Feb 21 08:34:27 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7947
+! Number of entries: 7951
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1875,6 +1875,7 @@
 ||cryptcrestltd.com^
 ||cryptex.to^
 ||crypthach.com^
+||cryptixi.com^
 ||cryptn.org^
 ||crypto.chinese.com^
 ||crypto.coin.base.com^
@@ -2848,6 +2849,7 @@
 ||finlandowala.com^
 ||finmaza.com^
 ||finnacletrade.com^
+||finoratrade.com^
 ||fintechmexicofestival.com^
 ||fintxpert.com^
 ||finzennews.com^
@@ -7057,6 +7059,7 @@
 ||trophycase.cc^
 ||troyers.info^
 ||trqw.store^
+||trucksontopgames.click^
 ||tructi.com^
 ||truecareliving.online^
 ||truepayx.com^
@@ -7545,6 +7548,7 @@
 ||web3bay.io^
 ||web3cry.cc^
 ||web3duck.com^
+||web3ex.vip^
 ||web3gpt.rest^
 ||web3gptapp.bar^
 ||web3gptify.com^
