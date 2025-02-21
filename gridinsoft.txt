@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.21.012751.2025
+! Version: 02.21.020158.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 21 01:27:51 UTC 2025
+! Last modified: Fri Feb 21 02:01:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7926
+! Number of entries: 7930
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -615,6 +615,7 @@
 ||aregalex.monster^
 ||aremining.app^
 ||aremining.org^
+||arfwatches.com^
 ||argonixhacktech.com^
 ||argosnop.com^
 ||arianthes.com^
@@ -3280,6 +3281,7 @@
 ||gotkawa.co^
 ||gotoloapp.com^
 ||gotospares.com^
+||gotraden.net^
 ||gouldshoes.com^
 ||gowenuy.info^
 ||gowfbfr.shop^
@@ -5357,6 +5359,7 @@
 ||petronordstorage.nl^
 ||petusmart.shop^
 ||pfoh.info^
+||pfxnft.com^
 ||pg77.game^
 ||pgfff8trk.com^
 ||phamcore.com^
@@ -7695,6 +7698,7 @@
 ||wtemerityv.monster^
 ||wtgu.store^
 ||wuiasb.com^
+||wurenyb.top^
 ||wusdt.net^
 ||wusveso.im^
 ||wusveso.vip^
