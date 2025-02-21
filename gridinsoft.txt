@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.21.210101.2025
+! Version: 02.21.213054.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 21 21:01:01 UTC 2025
+! Last modified: Fri Feb 21 21:30:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7992
+! Number of entries: 7996
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2597,6 +2597,7 @@
 ||ens36.sfe.infd.edu.ar^
 ||entanglecoin.com^
 ||entegcis.com^
+||enterprisedundee.com^
 ||enthusiastictrade.shop^
 ||entiq.co^
 ||entreur.com^
@@ -5023,6 +5024,7 @@
 ||novazone53.top^
 ||noveraxcapital.com^
 ||now23support.com^
+||nowbeautyclub.com^
 ||nowidi.monopulses.com^
 ||nowmining.biz^
 ||nowmining.fun^
@@ -6054,6 +6056,7 @@
 ||safeapk.net^
 ||safehavenbancshares.online^
 ||safemedistore.com^
+||safeunlocks.com^
 ||safewealth.holdings.com^
 ||sag.quantify.com^
 ||sagkjsd.com^
@@ -6876,6 +6879,7 @@
 ||tickfyx.shop^
 ||tidshipsas.com^
 ||tiendaplethora.online^
+||tiendaslululemonmexico.com.mx^
 ||tiendassalomoncolombia.com.co^
 ||tiffanymart.online^
 ||tiffanymart.site^
