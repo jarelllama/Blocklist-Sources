@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.21.083427.2025
+! Version: 02.21.090059.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 21 08:34:27 UTC 2025
+! Last modified: Fri Feb 21 09:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 7951
+! Number of entries: 7952
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1976,6 +1976,7 @@
 ||cwwatch.net^
 ||cxglobal.co^
 ||cyber.fuck.com^
+||cybercryptointelligence.com^
 ||cyberguardforchrome.com^
 ||cyberhavenext.pro^
 ||cyberly.org^
