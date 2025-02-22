@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.22.163339.2025
+! Version: 02.22.170052.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 22 16:33:39 UTC 2025
+! Last modified: Sat Feb 22 17:00:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8063
+! Number of entries: 8073
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -249,7 +249,9 @@
 ||acheminement.echec.com^
 ||acheterdrogues.com^
 ||ackstar.top^
+||acmpqk.top^
 ||acnetratamientofacial.com^
+||acnstorage.com^
 ||acpincusdt.com^
 ||acquasculpt.com^
 ||acquistadocumenti.com^
@@ -519,6 +521,7 @@
 ||amyslamps.com^
 ||amysquishy.com^
 ||amzkdt.online^
+||amznwarehousess.com^
 ||amzreturnsalebox.com^
 ||an.post.ie.com^
 ||anabolenverkoop.net^
@@ -643,6 +646,9 @@
 ||arlira.fr^
 ||armadaclothing.online^
 ||armani.ai.com^
+||armazon.org^
+||arminpohl.shop^
+||armorak.ph^
 ||arnavix.online^
 ||arokini.com^
 ||aroseisrose.com^
@@ -789,6 +795,7 @@
 ||bagii.shop^
 ||bagsupermarket.com^
 ||bahissiteleri.2025.us^
+||balaclavawindbreaker.com^
 ||balloon.com.co^
 ||balloon.com.es^
 ||baloongame777.online^
@@ -1138,6 +1145,7 @@
 ||blissifty.com^
 ||blizzboygames.net^
 ||blochchile.shop^
+||blockchainesc-ledger.com^
 ||blockdag.network^
 ||blockera.online^
 ||blockmetal.ltd^
@@ -1243,6 +1251,7 @@
 ||brasilenviosbr.com^
 ||brasilenviosnet.com^
 ||braveitaliangreyhound.com^
+||bravelittlehotdog.com^
 ||braw4.net^
 ||brda.io^
 ||bread.usd.shop^
@@ -1548,6 +1557,7 @@
 ||cfr.network^
 ||cfs.trades.com^
 ||chabagsnew.com^
+||chadiamoalla.shop^
 ||chadstone99.top^
 ||chailic.com^
 ||chainbank.network^
