@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.22.170052.2025
+! Version: 02.22.173149.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 22 17:00:52 UTC 2025
+! Last modified: Sat Feb 22 17:31:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8073
+! Number of entries: 8081
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -749,6 +749,8 @@
 ||authenticreplicanotes.com^
 ||authtracking.com^
 ||authwalletsolutionetherdapp.app^
+||autlook.org^
+||autlook.pro^
 ||auto.downloads.com^
 ||autodatainspection.com^
 ||autoequipmentus.com^
@@ -795,6 +797,8 @@
 ||bagii.shop^
 ||bagsupermarket.com^
 ||bahissiteleri.2025.us^
+||bakedin.shop^
+||bakersaesthetichomedecor.com^
 ||balaclavawindbreaker.com^
 ||balloon.com.co^
 ||balloon.com.es^
@@ -1143,6 +1147,7 @@
 ||blissfulcannabisau.com^
 ||blissfulluck.cfd^
 ||blissifty.com^
+||blixordeal.com^
 ||blizzboygames.net^
 ||blochchile.shop^
 ||blockchainesc-ledger.com^
@@ -1848,8 +1853,10 @@
 ||coperatefinance.com^
 ||cophasehome.com^
 ||corcard.shop^
+||corebespokebaby.shop^
 ||coreepo.icu^
 ||corescientific.refine.com^
+||coresignals.click^
 ||corigc.top^
 ||corporalgaming.com^
 ||correosaaes.fit^
@@ -3201,6 +3208,7 @@
 ||getcommunitytrumpmemes.com^
 ||getcryptodrop.com^
 ||getdrant.shop^
+||getggbetpromo.com^
 ||getimage.online^
 ||getintopc.com^
 ||getoca.com^
