@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.22.073051.2025
+! Version: 02.22.080059.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 22 07:30:51 UTC 2025
+! Last modified: Sat Feb 22 08:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8024
+! Number of entries: 8027
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2410,6 +2410,7 @@
 ||drogen.kaufen.com^
 ||droveit.net^
 ||drug.city.com^
+||drughub.vip^
 ||drupacolony.tech^
 ||drw.vip.cc^
 ||ds2play.com^
@@ -3584,6 +3585,7 @@
 ||hotbmuyedi.today^
 ||hotbnaxele.today^
 ||hotbtujeka.cc^
+||hotbuyea.shop^
 ||hotbvakidi.today^
 ||hotbvamove.today^
 ||hotbvasogo.cc^
@@ -4036,6 +4038,7 @@
 ||klmclassicauto.com^
 ||kloomba.com^
 ||klowin.com^
+||klowroporh.com^
 ||kmspico.ltd^
 ||kndr.digital^
 ||knifebeststore.com^
