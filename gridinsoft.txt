@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.22.103500.2025
+! Version: 02.22.110103.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 22 10:35:00 UTC 2025
+! Last modified: Sat Feb 22 11:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8042
+! Number of entries: 8044
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -412,6 +412,7 @@
 ||alessioduini.com^
 ||alexquantify.com^
 ||alfagroup.inter.com^
+||alfatradersfx.com^
 ||alfianacendani.online^
 ||alfristonassetproperties.com^
 ||algainhouse.com^
@@ -3150,6 +3151,7 @@
 ||gdmining.site^
 ||gdqai.com^
 ||gdqvip.com^
+||gearclix.com^
 ||gearsplay.com^
 ||geassets.com^
 ||geasta.com^
