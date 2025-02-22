@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.22.030249.2025
+! Version: 02.22.033311.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 22 03:02:49 UTC 2025
+! Last modified: Sat Feb 22 03:33:11 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8010
+! Number of entries: 8012
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1291,6 +1291,7 @@
 ||btcminer.tech^
 ||btcminer.uk^
 ||btcmir.com^
+||btcocc.com^
 ||btcotcvip.net^
 ||btcpaypartners.com^
 ||btcpromining.com^
@@ -2707,6 +2708,7 @@
 ||exclusivetradeoption.live^
 ||excotrade.com^
 ||exiledexchange2.com^
+||exness.com^
 ||exnesstradecenter.com^
 ||exnesstradexpert.com^
 ||exnori.com^
@@ -4802,7 +4804,6 @@
 ||my.bebes.com^
 ||my.commbank.com.au^
 ||my.deco.shop.com^
-||my.exness.com^
 ||my.fxmt.tech^
 ||myaccount.enigmasoftware.com^
 ||myalphanexus.com^
@@ -4899,6 +4900,7 @@
 ||net-republics.net^
 ||netbitcapital.net^
 ||netdcbf.com^
+||neteller.com^
 ||netflix.eltonymarketing.com^
 ||netfucks1.com^
 ||nethaless.com^
