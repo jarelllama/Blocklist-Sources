@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.22.153046.2025
+! Version: 02.22.160055.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 22 15:30:46 UTC 2025
+! Last modified: Sat Feb 22 16:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8056
+! Number of entries: 8058
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1378,6 +1378,7 @@
 ||bzillion.club^
 ||bzmra.com^
 ||c.c3g.cn^
+||c1029.dmpdmp.com^
 ||c24house.com^
 ||c6s.net^
 ||ca.25uby.xin^
@@ -6936,6 +6937,7 @@
 ||tiffanymart.online^
 ||tiffanymart.site^
 ||tikmining.com^
+||tiktok178.com^
 ||tiktokonline.cyou^
 ||tiktoks8007.com^
 ||tiktokshopte.com^
