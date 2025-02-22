@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.22.083315.2025
+! Version: 02.22.090050.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 22 08:33:15 UTC 2025
+! Last modified: Sat Feb 22 09:00:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8030
+! Number of entries: 8034
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -930,6 +930,7 @@
 ||big.bossaviator.com^
 ||bigboobdate.com^
 ||bigboomax.com^
+||bigexc.com^
 ||bigfat.chat^
 ||biggetex.com^
 ||biglotsclosures.com^
@@ -1440,6 +1441,7 @@
 ||careers.natively.com^
 ||carethy.at^
 ||cargoloop.shop^
+||cargorefine.com^
 ||carhartoutlet.store^
 ||carhartt.wipeu.shop^
 ||carharttsalevip.shop^
@@ -2899,6 +2901,7 @@
 ||fitnestapparel.com^
 ||fivon.online^
 ||fixedmatch.website^
+||fixotrade.com^
 ||fixweb3connect.pages.dev^
 ||fiyboy.com^
 ||fjallraven.eu.com^
@@ -7750,6 +7753,7 @@
 ||wolrdlibertyfinancial.com^
 ||womoke.com^
 ||woonr.top^
+||work-lifeimmigrationservices.com^
 ||work44.com^
 ||worker.cash^
 ||workpathnet.com^
