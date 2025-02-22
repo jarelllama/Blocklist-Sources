@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.22.173149.2025
+! Version: 02.22.180049.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 22 17:31:49 UTC 2025
+! Last modified: Sat Feb 22 18:00:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8081
+! Number of entries: 8088
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -646,6 +646,7 @@
 ||arlira.fr^
 ||armadaclothing.online^
 ||armani.ai.com^
+||armanicontainergroup.com^
 ||armazon.org^
 ||arminpohl.shop^
 ||armorak.ph^
@@ -969,6 +970,7 @@
 ||billabong.pl.com^
 ||billabonghotsale.shop^
 ||billabongmx.com.mx^
+||billbill.ru^
 ||billboardapparel.store^
 ||billgcoin.com^
 ||biloxsolution.com^
@@ -1466,6 +1468,7 @@
 ||carethy.at^
 ||cargoloop.shop^
 ||cargorefine.com^
+||cargsquarelog.com^
 ||carhartoutlet.store^
 ||carhartt.wipeu.shop^
 ||carharttsalevip.shop^
@@ -1849,6 +1852,7 @@
 ||coolfc.com^
 ||coolkicksmall.net^
 ||coolrom.com.au^
+||coolwayschuhedeutschland.com^
 ||cooperativte.com^
 ||coperatefinance.com^
 ||cophasehome.com^
@@ -6180,6 +6184,7 @@
 ||scalpingtrade.online^
 ||scamhelp.net^
 ||scamtrick.com^
+||scanfakeid.com^
 ||scard50.ru^
 ||scarpa.eu.com^
 ||scholar.achiever.xyz^
@@ -7113,6 +7118,7 @@
 ||tradion.cyou^
 ||tradiso.com^
 ||tradix.cc^
+||trafficshield.xyz^
 ||traffictrack.online^
 ||trafiguracity.info^
 ||trafmag.com^
@@ -7864,6 +7870,7 @@
 ||www.y2mate.com^
 ||www1.thepiratebay3.to^
 ||www2.rarbggo.to^
+||wwwcoa.top^
 ||wwwwscsb500comios2ser.wscbs.vip^
 ||wykkselling.online^
 ||wyy158.fun^
