@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.22.183443.2025
+! Version: 02.22.190056.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 22 18:34:43 UTC 2025
+! Last modified: Sat Feb 22 19:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8094
+! Number of entries: 8097
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2258,6 +2258,7 @@
 ||descorative.com^
 ||descubretesoro.com^
 ||desicinemas.to^
+||designaten.com^
 ||desipin.com^
 ||desirebells.com^
 ||dessi.co^
@@ -3284,6 +3285,7 @@
 ||globalflashco.com^
 ||globalfoxtrade.com^
 ||globalfutureltd.com^
+||globalheritageltd.org^
 ||globallogisticsco.com^
 ||globalnexusoptimum.com^
 ||globalnotelab.com^
@@ -5186,6 +5188,7 @@
 ||oluciones.shop^
 ||oluwasegunakinyemi.com^
 ||olux.to^
+||omahabestdeals.com^
 ||omashaur.com^
 ||ometvporn.com^
 ||omgminer.vip^
