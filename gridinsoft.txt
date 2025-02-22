@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.22.060058.2025
+! Version: 02.22.063555.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 22 06:00:58 UTC 2025
+! Last modified: Sat Feb 22 06:35:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8015
+! Number of entries: 8018
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -465,6 +465,7 @@
 ||altdexs.com^
 ||alternazeor.com^
 ||altexpert.digital.com^
+||altibox.no^
 ||altieer.com^
 ||altimotradingsltd.com^
 ||altmisnews.com^
@@ -5239,6 +5240,7 @@
 ||orbitray.cc^
 ||orcaslicer.co^
 ||order.pharma.com^
+||oregon-state-veterans.com^
 ||org.pay.9t03.cfd^
 ||organicextractstore.com^
 ||origencapitalltd.com^
@@ -6875,6 +6877,7 @@
 ||thetiecollection.com.au^
 ||thetodayhealth.xyz^
 ||thetollroads-paytollpgq.world^
+||thetollroads-paytollqby.world^
 ||thetrackrecord.org^
 ||thetradehub.net^
 ||thetruthinfo.club^
