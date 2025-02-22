@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.22.050054.2025
+! Version: 02.22.053208.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 22 05:00:54 UTC 2025
+! Last modified: Sat Feb 22 05:32:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8013
+! Number of entries: 8015
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -483,6 +483,7 @@
 ||amalylegacy.com^
 ||amanwarehouse.com^
 ||amaon2.com^
+||amazedgoods.com^
 ||amazingfindsonline.com^
 ||amazingsoulpeace.shop^
 ||amaznmarket.shop^
@@ -6480,6 +6481,7 @@
 ||spotifypremiumapk.com.co^
 ||spotlesslink.com^
 ||spraisy.live^
+||sprangebote.online^
 ||spranix.com^
 ||spraygames.com^
 ||springcapipro.com^
