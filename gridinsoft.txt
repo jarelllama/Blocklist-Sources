@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.22.093114.2025
+! Version: 02.22.100053.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 22 09:31:14 UTC 2025
+! Last modified: Sat Feb 22 10:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8036
+! Number of entries: 8039
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1072,6 +1072,7 @@
 ||bitnetx.cloud^
 ||bitomq.com^
 ||bitpaymentstore.com^
+||bitpays.fun^
 ||bitperxio.com^
 ||bitprimepro.com^
 ||bitprogain.com^
@@ -3539,6 +3540,7 @@
 ||hoardrare.com^
 ||hobbyball.com^
 ||hobbyhubvip.com^
+||hobbyindia.store^
 ||hobokenheadshots.com^
 ||hoffapps.com^
 ||hok55.com^
@@ -6176,6 +6178,7 @@
 ||seawin.top^
 ||sec.loanbusiness.com^
 ||secbitfxtrade.com^
+||secretous.com^
 ||secure.ccleaner.com^
 ||secure.getquietlab.com^
 ||secure.logalty.com^
