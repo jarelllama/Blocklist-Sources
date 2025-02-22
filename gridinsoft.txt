@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.22.080059.2025
+! Version: 02.22.083315.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 22 08:00:59 UTC 2025
+! Last modified: Sat Feb 22 08:33:15 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8027
+! Number of entries: 8030
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3900,6 +3900,7 @@
 ||jollypulse.co.in^
 ||joltleft.com^
 ||josephina.shop^
+||josephscoleri.shop^
 ||joyabuy.com^
 ||joycv.com^
 ||joyeuxliens.com^
@@ -4867,6 +4868,7 @@
 ||national.scam.helpline.org.uk^
 ||nationalcasinolp.com^
 ||nationdistributor.com^
+||natpet.com^
 ||naturaenutra.online^
 ||natureflux.shop^
 ||naukbjo.com^
@@ -5899,6 +5901,7 @@
 ||refundcashback.org^
 ||reg.yourgamebuilder.com^
 ||regalosorpresivo.com^
+||regbags.com^
 ||regenita.com^
 ||regentcoin.finance^
 ||reginakumaspells.com^
