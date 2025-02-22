@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.22.120102.2025
+! Version: 02.22.124112.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 22 12:01:02 UTC 2025
+! Last modified: Sat Feb 22 12:41:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8047
+! Number of entries: 8048
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6394,6 +6394,7 @@
 ||smartphone.ue.shop^
 ||smartrecoup.com^
 ||smartrobot.vip^
+||smartsolutionseg.store^
 ||smarttechenergy.store^
 ||smeftoredu.com^
 ||smesk.online^
