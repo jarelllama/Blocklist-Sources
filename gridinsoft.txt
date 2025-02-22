@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.22.193058.2025
+! Version: 02.22.200059.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 22 19:30:58 UTC 2025
+! Last modified: Sat Feb 22 20:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8102
+! Number of entries: 8108
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1662,6 +1662,7 @@
 ||claimweby.live^
 ||clammypunero.com^
 ||clarifai1.xyz^
+||clarity-ventures.top^
 ||clarkeglobalinc.com^
 ||classicteefox.com^
 ||classicused.cars.com^
@@ -1795,6 +1796,7 @@
 ||coinvale.io^
 ||coinvestoptions.com^
 ||coinwbga.com^
+||coinwnto.com^
 ||coldbit.net^
 ||colddms.com^
 ||colfayc.cc^
@@ -2660,6 +2662,7 @@
 ||epicchest.net^
 ||epicdigitalflow.com^
 ||epicrecordsrvip.com^
+||epixiptv.com^
 ||epoiu.com^
 ||epulsive.com^
 ||equallyto.com^
@@ -2753,6 +2756,7 @@
 ||excotrade.com^
 ||exiledexchange2.com^
 ||exness.com^
+||exnesspro.cc^
 ||exnesstradecenter.com^
 ||exnesstradexpert.com^
 ||exnori.com^
@@ -3917,6 +3921,7 @@
 ||jili22.games^
 ||jimi2mall.com^
 ||jiuyu.fit^
+||jkienv.com^
 ||jljcw.net^
 ||jljl330.com^
 ||jlkwelding.online^
@@ -5062,6 +5067,7 @@
 ||nlleenbakker.com^
 ||nlvivobarefoot.com^
 ||nnenry.online^
+||noblecalm.com^
 ||noblehackshield.com^
 ||nobrix.cfd^
 ||nobull.colombia.co^
