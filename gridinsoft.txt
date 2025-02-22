@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.22.230055.2025
+! Version: 02.22.233047.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 22 23:00:55 UTC 2025
+! Last modified: Sat Feb 22 23:30:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8113
+! Number of entries: 8118
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4130,6 +4130,7 @@
 ||krnl.in^
 ||krossify.com^
 ||krpod.com^
+||krylonor.com^
 ||kryptos.io^
 ||ksda.online.org^
 ||ksxsg.com^
@@ -4289,6 +4290,7 @@
 ||linkslot2025.com^
 ||linkvertise.com^
 ||linkzip.uk^
+||linnaco.com^
 ||linnios.com^
 ||linxbucks.net^
 ||linxiangyun.com^
@@ -4710,6 +4712,7 @@
 ||miningcompany.ltd^
 ||miningsc.vip^
 ||mininvstplatform.com^
+||miniwashuk.com^
 ||minnetonkafrance.com^
 ||minoptraso.top^
 ||minotrasovestra.com^
@@ -6097,6 +6100,7 @@
 ||rominance.com^
 ||romsfun.com^
 ||ronbo.buzz^
+||rongshop.com^
 ||roofing.masters.bg.online^
 ||roofing.services.fb.online^
 ||rootkaro.com^
@@ -7090,6 +7094,7 @@
 ||toshiba99.com^
 ||totalwellstore.com^
 ||totoolookaa88.online^
+||tourismoclothing.com^
 ||touristcoves.com^
 ||tourmarketing.world.com^
 ||towercrash.com^
