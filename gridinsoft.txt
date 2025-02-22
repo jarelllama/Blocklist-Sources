@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.22.063555.2025
+! Version: 02.22.070102.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 22 06:35:55 UTC 2025
+! Last modified: Sat Feb 22 07:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8018
+! Number of entries: 8022
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2804,6 +2804,7 @@
 ||fc244.com^
 ||fcaageafin.com^
 ||fcbarcelona.eu.shop^
+||fcbayern-eu.shop^
 ||fcbzj.com^
 ||fdkwire.com^
 ||febgtvh.com^
@@ -4547,6 +4548,7 @@
 ||memubit.com^
 ||menorul.com^
 ||menrmbxdxextzwsom.shop^
+||menrooms.com^
 ||menvok.com^
 ||merca.work^
 ||mercado.shop.com^
@@ -6245,6 +6247,7 @@
 ||shinobi.stickers.com^
 ||shionac.com^
 ||shirudigiseo.top^
+||shisizes.com^
 ||shittt.store^
 ||shokexycexng.shop^
 ||shootloverstore.com^
@@ -6435,6 +6438,7 @@
 ||sopenny.com^
 ||sophie.paris.com^
 ||soportestreaming.online^
+||sortheda.com^
 ||sos.bg.sof.1.exo.io^
 ||soufeel.es^
 ||soundcoreindiawebsite.com^
