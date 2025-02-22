@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.22.180049.2025
+! Version: 02.22.183443.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 22 18:00:49 UTC 2025
+! Last modified: Sat Feb 22 18:34:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8088
+! Number of entries: 8094
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -742,6 +742,7 @@
 ||auroracherie.com^
 ||ausdedaoubaandou.gdyxlxxh.com^
 ||aussiehaven.shop^
+||aussiepooch.top^
 ||austeretv.com^
 ||australiansafesttradingbot.online^
 ||auth.mashash.co^
@@ -1145,6 +1146,7 @@
 ||blaena.com^
 ||blast.tv.org^
 ||blazecasin.com^
+||blimgit.shop^
 ||blinghair.com^
 ||blissfulcannabisau.com^
 ||blissfulluck.cfd^
@@ -1849,6 +1851,8 @@
 ||conveneprecedent.top^
 ||cookies.1.zuregg.space^
 ||coolbet.peru.online^
+||cooldudesautofinancing.com^
+||coolee.store^
 ||coolfc.com^
 ||coolkicksmall.net^
 ||coolrom.com.au^
@@ -4219,6 +4223,7 @@
 ||letsoc.com^
 ||leupold.us.shop^
 ||levelbucks.com^
+||leveractionrifleshop.com^
 ||lexclubwrld.site^
 ||lexidex.com^
 ||lexingtonhazelwoodstylist.com^
@@ -4302,6 +4307,7 @@
 ||livraison.interrompu.com^
 ||lixqwok.com^
 ||lixtrade.com^
+||lizada-fashion.com^
 ||lizardlabshop.com^
 ||llbeanfactoryoutlets.shop^
 ||lmhous.net^
