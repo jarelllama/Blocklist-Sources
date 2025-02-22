@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.22.100053.2025
+! Version: 02.22.103500.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 22 10:00:53 UTC 2025
+! Last modified: Sat Feb 22 10:35:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8039
+! Number of entries: 8042
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4431,6 +4431,7 @@
 ||mainmarketshop.shop^
 ||mainstreetmall.shop^
 ||maisaleet.best^
+||maisondereve.online^
 ||maisonflorence.ca^
 ||maisonjardina.com^
 ||majere44.ffn.com^
@@ -5988,6 +5989,7 @@
 ||ricfxc.shop^
 ||richbash.com^
 ||richjl08.cc^
+||richmins.com^
 ||ridswear.com^
 ||rifleson.cc^
 ||rightgist.com^
@@ -7111,6 +7113,7 @@
 ||trendmartus.com^
 ||trendnestw.com^
 ||trendyhubllc.shop^
+||tresurenft.xyz^
 ||trezzor.io.start.it.webflow.io^
 ||trianz.life^
 ||trickytiktok.com^
