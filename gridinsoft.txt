@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.22.004515.2025
+! Version: 02.22.012747.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 22 00:45:15 UTC 2025
+! Last modified: Sat Feb 22 01:27:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8007
+! Number of entries: 8008
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5599,6 +5599,7 @@
 ||projectplaygroundtech.com^
 ||projektmiesiaca.click^
 ||projetparis.fr^
+||prolaunchtrade.com^
 ||prole.aposiiz.com^
 ||prolinguistreport.org^
 ||prologisticsolution.com^
