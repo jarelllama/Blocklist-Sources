@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.22.140052.2025
+! Version: 02.22.143138.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 22 14:00:52 UTC 2025
+! Last modified: Sat Feb 22 14:31:38 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8050
+! Number of entries: 8053
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1206,6 +1206,7 @@
 ||boots.litbio.org^
 ||bootymes.com^
 ||boounti.com^
+||bopminer.com^
 ||borexfund.xyz^
 ||boscark.shop^
 ||bossfusion.xyz^
@@ -1308,6 +1309,7 @@
 ||btgbtm.com^
 ||btradescenter.com^
 ||btseus.net^
+||btxminer.com^
 ||bubblesbets.com^
 ||buble.com.cn^
 ||bubully.com^
@@ -3177,6 +3179,7 @@
 ||geographz.com^
 ||geoxsdiscountshop.com^
 ||germ4.com^
+||get-derila.com^
 ||get.activated.win^
 ||get.matsato.com^
 ||getcommunitytrumpmemes.com^
