@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.22.015955.2025
+! Version: 02.22.022647.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 22 01:59:55 UTC 2025
+! Last modified: Sat Feb 22 02:26:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8008
+! Number of entries: 8010
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1905,6 +1905,7 @@
 ||crypto360talks.com^
 ||crypto4u.news^
 ||crypto5.news^
+||cryptoaio2o.cc^
 ||cryptoassetfortressltd.com^
 ||cryptobatex.com^
 ||cryptobitnance.net^
@@ -3004,6 +3005,7 @@
 ||fraganciapura.store^
 ||fragrancesrealms.com^
 ||frdl.io^
+||free-ltc-info.com^
 ||free.bonk.com^
 ||free.ethereum.io^
 ||freeajvstar.top^
