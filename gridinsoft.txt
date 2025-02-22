@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.22.190056.2025
+! Version: 02.22.193058.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 22 19:00:56 UTC 2025
+! Last modified: Sat Feb 22 19:30:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8097
+! Number of entries: 8102
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4329,6 +4329,7 @@
 ||login.olx.bg^
 ||logindesjardinsinfo.com^
 ||logomagik.online^
+||logsandcardsshop.com^
 ||lolasee.com^
 ||lolex.net^
 ||lomi.flow.com^
@@ -4551,6 +4552,7 @@
 ||maximinxassetltd.com^
 ||maxmara.sa.com^
 ||maxmaraluxury.shop^
+||maxtoolsstore.com^
 ||maxwin168slot.info^
 ||maxxicrealty.com^
 ||mayavatifashion.in^
@@ -5497,6 +5499,7 @@
 ||phpgames31.com^
 ||phrush27859.com^
 ||phub.at^
+||phyisicist.com^
 ||physichope.com^
 ||pi2usd.com^
 ||piako.finance.com^
@@ -6876,6 +6879,7 @@
 ||the.tradynator.org^
 ||theacc.co.uk^
 ||theatross.com^
+||theauto-verifier.com^
 ||thebeautyinsider.org^
 ||thebestofferforyoutoday.online^
 ||thebestpdf.com^
@@ -7043,6 +7047,7 @@
 ||top.plans.fr^
 ||top.sportinggoods.shop^
 ||top1social.com^
+||topartmarket.pro^
 ||topbestrunner.shop^
 ||topdailyfanaticspips.com^
 ||topdealsaving.com^
