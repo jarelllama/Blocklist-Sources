@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.22.160055.2025
+! Version: 02.22.163339.2025
 ! Expires: 30 minutes
-! Last modified: Sat Feb 22 16:00:55 UTC 2025
+! Last modified: Sat Feb 22 16:33:39 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8058
+! Number of entries: 8063
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -259,6 +259,7 @@
 ||actiers.com^
 ||action.profits.com^
 ||actionfraud-refund.org^
+||activamastiffhome.com^
 ||activations.ledger.com^
 ||activeprobeauty.com^
 ||activityuk.shop^
@@ -421,6 +422,7 @@
 ||alidropnuig.com^
 ||aliex.proxy.robot.shop^
 ||aliquotes.online^
+||alitexwhole.com^
 ||alkhair-society.com^
 ||alko1mg.com^
 ||all.chems.com^
@@ -643,6 +645,8 @@
 ||armani.ai.com^
 ||arnavix.online^
 ||arokini.com^
+||aroseisrose.com^
+||arounqxfbmek.shop^
 ||arowinvest.pro^
 ||arrowsale.com^
 ||ars88safe.online^
@@ -1366,6 +1370,7 @@
 ||buzzsum0.site^
 ||bveusdt.com^
 ||bvgod.com^
+||bvprxznfrdzn.shop^
 ||bxfinvestment.com^
 ||bybit.nidx.com^
 ||bybitcapitals.com^
