@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.23.173139.2025
+! Version: 02.23.180103.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 23 17:31:39 UTC 2025
+! Last modified: Sun Feb 23 18:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8157
+! Number of entries: 8159
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6462,6 +6462,7 @@
 ||slcpark.com^
 ||slecks.shop^
 ||sleekfitz.com^
+||sleepcaresuk.com^
 ||sleepwelldental.online^
 ||slexiodr.cc^
 ||slexionz.cc^
@@ -7396,6 +7397,7 @@
 ||unkrautmarkt.com^
 ||unleashexchange.online^
 ||unlimited.offer.kesug.com^
+||unlimitedtradex.com^
 ||unlockcontent.org^
 ||unlockriver.com^
 ||unltee.com^
