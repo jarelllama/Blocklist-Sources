@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.23.193128.2025
+! Version: 02.23.200104.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 23 19:31:28 UTC 2025
+! Last modified: Sun Feb 23 20:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8170
+! Number of entries: 8174
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1590,6 +1590,7 @@
 ||charmingfavor.com^
 ||chassoutlel.shop^
 ||chat.ichatlink.net^
+||chatework.com^
 ||chatgpt.1.xyz^
 ||chatgpt4devs.com^
 ||chatgpt4login.com^
@@ -1924,6 +1925,7 @@
 ||creodeapps.com^
 ||creofing.com^
 ||cresolix.com^
+||crestfargo.com^
 ||crestprofits.com^
 ||cretailor.com^
 ||crewzarowing.com^
@@ -6456,6 +6458,7 @@
 ||skidrowcodex.net^
 ||skillcrafttech.com^
 ||skilllynxw.top^
+||skinport.com.kz^
 ||skinrave.gg^
 ||skirtvibez.com^
 ||skokka.com^
@@ -6470,6 +6473,7 @@
 ||slater.lat^
 ||slcpark.com^
 ||slecks.shop^
+||sleekcases.in^
 ||sleekfitz.com^
 ||sleepcaresuk.com^
 ||sleepwelldental.online^
