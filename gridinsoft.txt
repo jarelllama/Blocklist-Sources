@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.23.060102.2025
+! Version: 02.23.063508.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 23 06:01:02 UTC 2025
+! Last modified: Sun Feb 23 06:35:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8124
+! Number of entries: 8127
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3098,6 +3098,7 @@
 ||fruitadder100.shop^
 ||frutopy.com^
 ||fsmirror09.lol^
+||fsmirror24.lol^
 ||ftx.global.site^
 ||fudianbank.win^
 ||fuexweb.com^
@@ -6154,6 +6155,7 @@
 ||s66639.co^
 ||sabready.com^
 ||sadalds.store^
+||sadisflix.works^
 ||safarywatches.com^
 ||safe-tradefinance.ltd^
 ||safeapk.net^
@@ -7781,6 +7783,7 @@
 ||wibikesstreet.com^
 ||wichhistor.co.uk^
 ||wideopentriggers.com^
+||wiflix-pro.site^
 ||wilbal.com^
 ||williamarnold.online^
 ||williamhillfixedmatch.com^
