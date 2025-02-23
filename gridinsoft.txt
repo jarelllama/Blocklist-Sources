@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.23.200104.2025
+! Version: 02.23.203128.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 23 20:01:04 UTC 2025
+! Last modified: Sun Feb 23 20:31:28 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8174
+! Number of entries: 8176
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1461,6 +1461,7 @@
 ||capminespace.com^
 ||captcha.club^
 ||captchaoutil.site^
+||captcrest.com^
 ||capvpartnersltd.com^
 ||car.zhouznq.cn^
 ||carawex.com^
@@ -3777,6 +3778,7 @@
 ||immobiliere.royal.invest.com^
 ||imonthestereo.com^
 ||importantstuff.online^
+||importsky.com^
 ||improvementy.com^
 ||in.tmwn.online^
 ||inamksa.icu^
