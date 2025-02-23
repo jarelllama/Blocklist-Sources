@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.23.220052.2025
+! Version: 02.23.223233.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 23 22:00:52 UTC 2025
+! Last modified: Sun Feb 23 22:32:33 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8188
+! Number of entries: 8191
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2385,6 +2385,7 @@
 ||diwataplay.bet^
 ||dl.surfright.nl^
 ||dlivvplive.com^
+||dma-cheats.com^
 ||dmenergy.biz^
 ||dminer.website^
 ||dmjff.com^
@@ -6791,6 +6792,7 @@
 ||superoffrs.com^
 ||supersery.com^
 ||supertrader.app.net^
+||supervol.io^
 ||superwatch.live^
 ||supplycenterusa.com^
 ||supportbitget.com^
@@ -8193,6 +8195,7 @@
 ||zutaonline.com^
 ||zx3.io^
 ||zxzclitin.shop^
+||zybitpay.com^
 ||zynpouchescanada.co^
 ||zyxelia.com^
 ||zyzyjgw8899.cn.vip^
