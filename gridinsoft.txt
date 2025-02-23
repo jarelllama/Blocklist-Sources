@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.23.080056.2025
+! Version: 02.23.083331.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 23 08:00:56 UTC 2025
+! Last modified: Sun Feb 23 08:33:31 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8131
+! Number of entries: 8133
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -268,6 +268,7 @@
 ||actufinance.fr^
 ||acvslimgummies.us^
 ||acwdc.in^
+||ad-doge.com^
 ||adapterworkshop.com^
 ||adaptivesscheme.com^
 ||adatenight.com^
@@ -674,6 +675,7 @@
 ||ascot.pro^
 ||asdfger.com^
 ||asiacargo.online^
+||asiame.com^
 ||asian.gifts.square.site^
 ||asickey.com^
 ||asics-sports.shop^
