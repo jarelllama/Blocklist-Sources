@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.23.213058.2025
+! Version: 02.23.220052.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 23 21:30:58 UTC 2025
+! Last modified: Sun Feb 23 22:00:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8186
+! Number of entries: 8188
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4510,6 +4510,7 @@
 ||maddowk.com^
 ||madeinss.com^
 ||madmuscles.com^
+||madvisa.com^
 ||maexj2trk.com^
 ||magamart.co^
 ||magatrustfunds.com^
@@ -6881,6 +6882,7 @@
 ||taskwizy.top^
 ||taskzcove.com^
 ||taxaoar.online^
+||taytaymerch.com^
 ||tbdcredits.com^
 ||tbkis.com^
 ||tbwa.dad^
