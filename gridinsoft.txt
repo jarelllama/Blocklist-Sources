@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.23.093128.2025
+! Version: 02.23.100048.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 23 09:31:28 UTC 2025
+! Last modified: Sun Feb 23 10:00:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8135
+! Number of entries: 8137
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1489,6 +1489,7 @@
 ||carpinistore.com^
 ||carrepairus0507.online^
 ||carte.grise.france.fr^
+||cartechify.com^
 ||cartradinghub.com^
 ||casadecorato.store^
 ||casalucelighting.com^
@@ -3392,6 +3393,7 @@
 ||gowenuy.info^
 ||gowfbfr.shop^
 ||gpcalliancepro.com^
+||gplcode.net^
 ||gpt.definity.app2.net^
 ||gpt2025.vip^
 ||gptaiminds.com^
