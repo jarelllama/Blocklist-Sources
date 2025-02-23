@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.23.053229.2025
+! Version: 02.23.060102.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 23 05:32:29 UTC 2025
+! Last modified: Sun Feb 23 06:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8123
+! Number of entries: 8124
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1278,6 +1278,7 @@
 ||brighodew.com^
 ||brightoncannabisclub.co.uk^
 ||brightstonestar.com^
+||brightwayint.com^
 ||brilliantassetsltd.com^
 ||brilliantlyouth.store^
 ||britebatshop.com^
