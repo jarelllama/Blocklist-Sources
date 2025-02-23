@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.23.203128.2025
+! Version: 02.23.210046.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 23 20:31:28 UTC 2025
+! Last modified: Sun Feb 23 21:00:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8176
+! Number of entries: 8182
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -747,6 +747,7 @@
 ||aussiepooch.top^
 ||austeretv.com^
 ||australiansafesttradingbot.online^
+||auterijewellersltd.com^
 ||auth.mashash.co^
 ||authenticbrandslimited.com^
 ||authenticounterfeithub.com^
@@ -1880,6 +1881,7 @@
 ||coreepo.icu^
 ||corescientific.refine.com^
 ||coresignals.click^
+||coretraderexp.com^
 ||corigc.top^
 ||corporalgaming.com^
 ||correosaaes.fit^
@@ -2215,6 +2217,7 @@
 ||deepweb.fixedmatches.com^
 ||defashionette.xyz^
 ||defense-keychain.com^
+||defi-usdt.cc^
 ||defi.drop.xyz^
 ||defi.official.com^
 ||defi.pad.com^
@@ -4135,6 +4138,7 @@
 ||kokaindrogekaufen.com^
 ||koko101.com^
 ||kolem.shop^
+||kompaeth.com^
 ||komvideo.cc^
 ||kongva.com^
 ||konigsbruder.com^
@@ -4477,6 +4481,7 @@
 ||m.bitunixex.com^
 ||m.bxamax.com^
 ||m.dodorado.com^
+||m.engievip.cc^
 ||m.fxpro-usd.vip^
 ||m.mxt-line-id.online^
 ||m.oxgatens.net^
@@ -7833,6 +7838,7 @@
 ||wideopentriggers.com^
 ||wiflix-pro.site^
 ||wilbal.com^
+||wilfredknight.com.au^
 ||williamarnold.online^
 ||williamhillfixedmatch.com^
 ||williamssonomaind.com^
