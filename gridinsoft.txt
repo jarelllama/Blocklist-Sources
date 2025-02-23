@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.23.163337.2025
+! Version: 02.23.170053.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 23 16:33:37 UTC 2025
+! Last modified: Sun Feb 23 17:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8152
+! Number of entries: 8155
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4292,6 +4292,7 @@
 ||limdex.capital.com^
 ||lime.elysia.47.tiiny.site^
 ||limeremce.com^
+||limited-offer.pro^
 ||limxbet.com^
 ||linconomyinvest.com^
 ||linderan.com^
@@ -5169,6 +5170,7 @@
 ||oasiscorporations.com^
 ||obagee.com^
 ||obalaso.online^
+||obathp.com^
 ||obraspublicaschaco2024.online^
 ||obsessedarchery.com^
 ||obtuyme.com^
@@ -7599,6 +7601,7 @@
 ||vip.iptv.live^
 ||vipback.vip^
 ||vipbox.lc^
+||vipcolmoff.shop^
 ||vipdeit.top^
 ||vipdunlopsports.top^
 ||vipehelp.com^
