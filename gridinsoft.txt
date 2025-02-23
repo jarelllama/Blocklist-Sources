@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.23.140047.2025
+! Version: 02.23.143249.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 23 14:00:47 UTC 2025
+! Last modified: Sun Feb 23 14:32:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8141
+! Number of entries: 8142
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6017,6 +6017,7 @@
 ||renvara.com^
 ||renvoie.mondialrelay.com^
 ||reoe.shop^
+||reortxxd.top^
 ||repaircontractors2us0507.online^
 ||repliquesuisse.co^
 ||reploysai.io^
