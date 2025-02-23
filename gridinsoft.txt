@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.23.004533.2025
+! Version: 02.23.012816.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 23 00:45:33 UTC 2025
+! Last modified: Sun Feb 23 01:28:16 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8119
+! Number of entries: 8120
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3167,6 +3167,7 @@
 ||game.portal.2025.store^
 ||game.zixia.com^
 ||game.zone.pro^
+||gamebounty.world^
 ||gamefabrique.com^
 ||gamefrog.vip^
 ||gamemarket.cyou^
