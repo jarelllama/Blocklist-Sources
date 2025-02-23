@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.23.153051.2025
+! Version: 02.23.160050.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 23 15:30:51 UTC 2025
+! Last modified: Sun Feb 23 16:00:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8144
+! Number of entries: 8148
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1426,6 +1426,7 @@
 ||caminoverdadyvida.online^
 ||camopia.shop^
 ||campershoessales1.best^
+||canada.thetravelmakers.us^
 ||canadagunsandammo.com^
 ||canadaposts.cc^
 ||canadatusso.com^
@@ -2673,6 +2674,7 @@
 ||epicdigitalflow.com^
 ||epicrecordsrvip.com^
 ||epixiptv.com^
+||eplxt.com^
 ||epoiu.com^
 ||epulsive.com^
 ||equallyto.com^
@@ -5432,6 +5434,7 @@
 ||parkdealer.com^
 ||parkhughes.com^
 ||parkit.nc.com^
+||parkofficialeu.com^
 ||parksideamonline.shop^
 ||parksideatvip.shop^
 ||parksideclearance.com^
@@ -5650,6 +5653,7 @@
 ||premier.td.net^
 ||premium.iptvpro.com^
 ||premiumbankleyfx.com^
+||premiumsportshop.com^
 ||prescienceai.xyz^
 ||prestige-finance-gold.com^
 ||prestigeprint.uk^
