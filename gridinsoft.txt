@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.23.230052.2025
+! Version: 02.23.233049.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 23 23:00:52 UTC 2025
+! Last modified: Sun Feb 23 23:30:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8193
+! Number of entries: 8195
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -76,6 +76,7 @@
 ||2026.lat^
 ||2040stage.online^
 ||20game7.com^
+||21coweb.pyth-usshr.top^
 ||2360tv.com^
 ||244buildschile.com^
 ||247cryptotrade.net^
@@ -4845,6 +4846,7 @@
 ||monterosource.com^
 ||moodefine.com^
 ||moonacy.io^
+||moonbitcoins.com^
 ||moonfareinvest.com^
 ||moonflexmagement.com^
 ||moonhaus.is^
