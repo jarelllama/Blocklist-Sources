@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.23.223233.2025
+! Version: 02.23.230052.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 23 22:32:33 UTC 2025
+! Last modified: Sun Feb 23 23:00:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8191
+! Number of entries: 8193
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2921,6 +2921,7 @@
 ||fileplanet.com^
 ||files.fm^
 ||filespayouts.com^
+||filmai.in^
 ||filmesonline.blog^
 ||filmgratuit.stream^
 ||filmpalast.to^
@@ -3748,6 +3749,7 @@
 ||ibisnashikhotel.online^
 ||ibksport.eu^
 ||ibluestore.com^
+||ibmgtsvip.com^
 ||ibmqgt.com^
 ||icapitalplus.com^
 ||iceriver.company^
