@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.23.160050.2025
+! Version: 02.23.163337.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 23 16:00:50 UTC 2025
+! Last modified: Sun Feb 23 16:33:37 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8148
+! Number of entries: 8152
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1384,6 +1384,7 @@
 ||buydecorhome.com^
 ||buygoods.com^
 ||buymasksgivemasks.top^
+||buyprimevxl.com^
 ||buysoma.online^
 ||buythepencil.com^
 ||buyweedonlineinusa.shop^
@@ -2764,6 +2765,7 @@
 ||exchangevista.com^
 ||exciting.meet.casual.com^
 ||exclusive.redeem.com^
+||exclusivebooksale.com^
 ||exclusivetradeoption.live^
 ||excotrade.com^
 ||exiledexchange2.com^
@@ -5097,6 +5099,7 @@
 ||noblehackshield.com^
 ||nobrix.cfd^
 ||nobull.colombia.co^
+||noctralabs.com^
 ||node29.datanodes.to^
 ||nodego.ai^
 ||nodelyai.org^
@@ -5955,6 +5958,7 @@
 ||realavaitor.pro^
 ||realintelligence.club^
 ||realionetwork.claims^
+||realisticfakemoney.com^
 ||reallilya.com^
 ||realmadrid.eu.shop^
 ||realmoney.live^
