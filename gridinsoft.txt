@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.23.043425.2025
+! Version: 02.23.050056.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 23 04:34:25 UTC 2025
+! Last modified: Sun Feb 23 05:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8122
+! Number of entries: 8123
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2223,6 +2223,7 @@
 ||defisetstrategies.dev^
 ||defistamp.com^
 ||defiswap.life^
+||deforexmp.com^
 ||deftmedicallaboratory.ca^
 ||deglobal.cfd^
 ||dehla.shop^
