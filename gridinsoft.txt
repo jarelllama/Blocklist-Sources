@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.23.183420.2025
+! Version: 02.23.190059.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 23 18:34:20 UTC 2025
+! Last modified: Sun Feb 23 19:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8163
+! Number of entries: 8165
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6401,6 +6401,7 @@
 ||shorturl.at^
 ||shothues.com^
 ||shotzon.com^
+||shrt10.com^
 ||shwacbda.com^
 ||siabrocenipellets.com^
 ||sicmundus.online^
@@ -7372,6 +7373,7 @@
 ||umamiicrate.store^
 ||umarinfomobiles.online^
 ||umrahcabonline.com^
+||umtradings.com^
 ||unblocked.watch^
 ||unclaimedsettlement.com^
 ||undetectedbanknotes.com^
