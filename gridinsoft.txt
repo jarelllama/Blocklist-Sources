@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.23.210046.2025
+! Version: 02.23.213058.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 23 21:00:46 UTC 2025
+! Last modified: Sun Feb 23 21:30:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8182
+! Number of entries: 8186
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1727,6 +1727,7 @@
 ||cloudimpactx.com^
 ||cloudlessdatapowerful.com^
 ||cloudns.eu^
+||cloudns.info^
 ||cloudsoft.ae^
 ||cloudstream.pro^
 ||cloudyfitbyasmitha.com^
@@ -1783,6 +1784,7 @@
 ||coinexpressinv.com^
 ||coinfarex.com^
 ||coinfazi.com^
+||coinfbm.com^
 ||coinfet.net^
 ||coinget.online^
 ||coingetbit.com^
@@ -6381,6 +6383,7 @@
 ||shittt.store^
 ||shokexycexng.shop^
 ||shootloverstore.com^
+||shop-saver-now.com^
 ||shop.gamma.vip^
 ||shop.ledger.com^
 ||shop.sale4.quest^
@@ -7046,6 +7049,7 @@
 ||tiendassalomoncolombia.com.co^
 ||tiffanymart.online^
 ||tiffanymart.site^
+||tigerbiokerc.com^
 ||tikmining.com^
 ||tiktok178.com^
 ||tiktokonline.cyou^
