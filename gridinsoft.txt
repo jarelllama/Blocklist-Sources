@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.23.070100.2025
+! Version: 02.23.073048.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 23 07:01:00 UTC 2025
+! Last modified: Sun Feb 23 07:30:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8128
+! Number of entries: 8131
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5874,6 +5874,7 @@
 ||quantums.financialsystem.com^
 ||quantumxexn.org^
 ||quantvine.com^
+||quantvine.net^
 ||quantvine.online^
 ||quantvinee.com^
 ||quantwise.ai^
@@ -7360,6 +7361,7 @@
 ||uniquepropertygroup.co.uk^
 ||uniquespinner.com^
 ||uniquetrustrades.com^
+||united976.com^
 ||unitedparcelexpress.online^
 ||unitedstatepharmacy.com^
 ||univers.pokemon.fr^
@@ -7672,6 +7674,7 @@
 ||wave.trader.com^
 ||wavetune.shop^
 ||wavytalkza.store^
+||wawacity.social^
 ||waxebet.com^
 ||waxx.network^
 ||wayestyle.store^
