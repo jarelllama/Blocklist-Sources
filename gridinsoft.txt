@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.23.190059.2025
+! Version: 02.23.193128.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 23 19:00:59 UTC 2025
+! Last modified: Sun Feb 23 19:31:28 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8165
+! Number of entries: 8170
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1594,6 +1594,7 @@
 ||chatgpt4devs.com^
 ||chatgpt4login.com^
 ||chatlink.wchatlink.com^
+||chatterediban.com^
 ||cheapammoaustralia.com^
 ||cheapertoolparts.com^
 ||cheapglovesoutlet.com^
@@ -1832,6 +1833,7 @@
 ||committedworld.com^
 ||communaltrades.com^
 ||communitydisscussion.com^
+||communityofdating.online^
 ||commutide.com^
 ||compare.deals.online.info^
 ||comprasdigitaisglobais.online^
@@ -2425,6 +2427,7 @@
 ||dorunex.com^
 ||doswex.com^
 ||dosya.co^
+||doublayx.com^
 ||doubledeckertourbus.com^
 ||doublemintvip.org^
 ||dowjones.vip.com^
@@ -4943,6 +4946,7 @@
 ||n.pkup.fr^
 ||na01.safelinks.protection.outlook.com^
 ||naaeeoy.com^
+||nadexweboption.com^
 ||naldoricketts.com^
 ||nannyirrationalacquainted.com^
 ||naorisprotocol.web.app^
@@ -5494,6 +5498,7 @@
 ||pefctiordent.com^
 ||pelintrvne.com^
 ||pelis182.com^
+||pelishaxpro.com^
 ||pembimbingketiga.com^
 ||pempekrahayu.online^
 ||pencil-packing-job.com^
