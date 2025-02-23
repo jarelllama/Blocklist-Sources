@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.23.180103.2025
+! Version: 02.23.183420.2025
 ! Expires: 30 minutes
-! Last modified: Sun Feb 23 18:01:03 UTC 2025
+! Last modified: Sun Feb 23 18:34:20 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8159
+! Number of entries: 8163
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3464,6 +3464,7 @@
 ||gukur.sbs^
 ||gulfofmexico.com^
 ||gunluksevilenkampanyalarsizlerle.online^
+||gurogroup.co^
 ||gusalio.com^
 ||gustmining.pro^
 ||gvgcxm.cc^
@@ -4726,6 +4727,7 @@
 ||minesactivate.com^
 ||mingmarket.com^
 ||mini.well.store^
+||miniaturepainter.ca^
 ||minibitcoin.xyz^
 ||minibuzzy.online^
 ||minicowsranch.com^
@@ -5512,6 +5514,7 @@
 ||perfectideas.store^
 ||perfumesarabes.net^
 ||permblox.com^
+||personalizedgiftsonlineboutique.click^
 ||personalloans30096.online^
 ||pesaksh.org^
 ||pesdnfeje.shop^
@@ -7945,6 +7948,7 @@
 ||wwwwscsb500comios2ser.wscbs.vip^
 ||wykkselling.online^
 ||wyy158.fun^
+||x-tool.me^
 ||x.coin.app^
 ||x.tokens.live^
 ||x.ua.com^
