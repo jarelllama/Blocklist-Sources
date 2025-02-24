@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.24.093256.2025
+! Version: 02.24.100055.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 24 09:32:56 UTC 2025
+! Last modified: Mon Feb 24 10:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8257
+! Number of entries: 8259
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1306,6 +1306,7 @@
 ||britishairwaysroyaldeliverycompany.com^
 ||britishfx-trade.info^
 ||broker.zaffex.com^
+||brookssoft.com^
 ||browser.app.com^
 ||bruleuzz.com^
 ||brumabruma.com^
@@ -1620,6 +1621,7 @@
 ||chatgpt4login.com^
 ||chatlink.wchatlink.com^
 ||chatterediban.com^
+||chawkyfrenn.com^
 ||cheapammoaustralia.com^
 ||cheapertoolparts.com^
 ||cheapglovesoutlet.com^
