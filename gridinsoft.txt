@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.24.080055.2025
+! Version: 02.24.083518.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 24 08:00:55 UTC 2025
+! Last modified: Mon Feb 24 08:35:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8249
+! Number of entries: 8254
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1222,6 +1222,7 @@
 ||bodegaurreramxn.com^
 ||bodymove.gr^
 ||boeing233.com^
+||bogneronlinesale-eu.shop^
 ||bognerztte.shop^
 ||bogrit.com^
 ||bohemianplus.com^
@@ -1432,6 +1433,7 @@
 ||cacr883.com^
 ||caddygo.io^
 ||cadogoa.shop^
+||caedetic.com^
 ||cafeciro.in^
 ||cagovip.com^
 ||cailingxi.com^
@@ -2431,6 +2433,7 @@
 ||doctorformen.space^
 ||dodi.repacks.site^
 ||dogdex.run^
+||dogebank.pro^
 ||dogebank.space^
 ||dogecoin.usdt.vip^
 ||dogee.vip^
@@ -3138,6 +3141,7 @@
 ||freetron.in^
 ||freeusdtforever.com^
 ||freexstar.top^
+||freshglowz.com^
 ||frienditeglobal.online^
 ||friendlyrussianblue.com^
 ||fromlexiwithlove.com^
@@ -4760,6 +4764,7 @@
 ||milisoil.com^
 ||millioner-kop.site^
 ||miltonlogistic.com^
+||milwakhouse.com^
 ||milwakusharetexa.com^
 ||mimosabarkhaven.com^
 ||minavip.top^
