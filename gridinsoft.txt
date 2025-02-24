@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.24.190052.2025
+! Version: 02.24.193056.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 24 19:00:52 UTC 2025
+! Last modified: Mon Feb 24 19:30:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8298
+! Number of entries: 8306
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -457,6 +457,7 @@
 ||alltrainerspc.com^
 ||allyeder.com^
 ||alma.box^
+||alnassroyaltb.com^
 ||alo.yogaoutlet.com^
 ||alo88.black^
 ||aloidvg.com^
@@ -541,6 +542,7 @@
 ||anamodashop.com^
 ||anaxdex.com^
 ||anchorit.live^
+||anesmone.com^
 ||anesoabdulfatah.com^
 ||angelabrenna.shop^
 ||angelaholman.shop^
@@ -805,6 +807,7 @@
 ||avlissatdnagait.online^
 ||avrixdynamiservices.com^
 ||awkngtv.org^
+||axiora.xyz^
 ||axustroncapital.com^
 ||aylingallery.shop^
 ||aynigroupsecurity.com^
@@ -1957,6 +1960,9 @@
 ||couturevista.com^
 ||cowboycheaper.com^
 ||cozyarn.com^
+||cozycoatl.shop^
+||cozyfash.shop^
+||cozyjkts.com^
 ||cpalead.com^
 ||cpasbien.zip^
 ||cps.cirroparcel.com^
@@ -2155,6 +2161,8 @@
 ||dapp.radar.org^
 ||dapprestore.site^
 ||dappschainapp.com^
+||darancy.com^
+||darayibuy.shop^
 ||dark.link.sbs^
 ||darklabsusplesmentos.com^
 ||darklog.mp^
