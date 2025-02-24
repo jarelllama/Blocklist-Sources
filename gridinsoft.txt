@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.24.153333.2025
+! Version: 02.24.160101.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 24 15:33:33 UTC 2025
+! Last modified: Mon Feb 24 16:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8267
+! Number of entries: 8268
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6771,6 +6771,7 @@
 ||stemncommunity.com^
 ||stenocarpustheft.shop^
 ||steparian.com^
+||stepcurs.com^
 ||steredapharmacy.com^
 ||stermcommunity.com^
 ||steroidskaufen.com^
