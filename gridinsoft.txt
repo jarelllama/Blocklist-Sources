@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.24.060100.2025
+! Version: 02.24.063658.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 24 06:01:00 UTC 2025
+! Last modified: Mon Feb 24 06:36:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8223
+! Number of entries: 8231
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -42,6 +42,7 @@
 ||12se12.com^
 ||1337x.tw^
 ||13yo.lollita.online^
+||140894.com^
 ||15jilicrown.club^
 ||15ocakindirim.xyz^
 ||15ocakindirimlerim.xyz^
@@ -438,6 +439,7 @@
 ||allegrotradeia.com^
 ||allemall.top^
 ||alleycatsol.xyz^
+||allfamilyfinds.com^
 ||allgoodkeys.com^
 ||alliancegpc.com^
 ||allianceroyals.com^
@@ -778,6 +780,7 @@
 ||avalontrdpro.com^
 ||avastosgr.fun^
 ||avatrade.fr^
+||avelinejewelry.com^
 ||aventra-melbourne.com^
 ||averagedadofficial.com^
 ||avianca.com^
@@ -1280,6 +1283,8 @@
 ||brentonways.top^
 ||breville.online^
 ||breyfe.com^
+||brfmhuvgexkunygy.shop^
+||brgjyqpjmbcgvqh.shop^
 ||briansclub.cm.shop^
 ||bridgecapitalservices.com^
 ||bridgeconnection.co.in^
@@ -1400,6 +1405,7 @@
 ||bveusdt.com^
 ||bvgod.com^
 ||bvprxznfrdzn.shop^
+||bwc8.cc^
 ||bxfinvestment.com^
 ||bybit.nidx.com^
 ||bybitcapitals.com^
@@ -4066,6 +4072,7 @@
 ||karenmillenfrance.com^
 ||kariox.trade.net^
 ||kartio.live^
+||katfame.in^
 ||kavvaweb3.netlify.app^
 ||kaynine.cyberservices.com^
 ||kazpetro.com^
@@ -6021,6 +6028,7 @@
 ||reclaimbackassets.com^
 ||recruit.threadsstaffs.com^
 ||rect.reward.glacier.website^
+||recuvahacksolution.pro^
 ||redbeautylife.com^
 ||reddit.streams.online^
 ||redeemabi.netlify.app^
