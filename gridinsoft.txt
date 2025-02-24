@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.24.180112.2025
+! Version: 02.24.183631.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 24 18:01:12 UTC 2025
+! Last modified: Mon Feb 24 18:36:31 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8282
+! Number of entries: 8291
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -540,6 +540,7 @@
 ||anaxdex.com^
 ||anchorit.live^
 ||anesoabdulfatah.com^
+||angeledear.shop^
 ||angelicstoragebv.com^
 ||angelstyledamen.com^
 ||angiebreitschwerdt.shop^
@@ -801,6 +802,8 @@
 ||avrixdynamiservices.com^
 ||awkngtv.org^
 ||axustroncapital.com^
+||aylingallery.shop^
+||aynigroupsecurity.com^
 ||ayridchandler.shop^
 ||ayurlife.online^
 ||azdhcqsjnqvfsxgbvrvn.shop^
@@ -849,6 +852,7 @@
 ||bartrustfund.com^
 ||basatrade.net^
 ||bascamp.com^
+||basdkimbauernhof.online^
 ||base.fastbitl.cc^
 ||base.ro.com^
 ||baseballdealusa.com^
@@ -1008,6 +1012,7 @@
 ||binarium.com^
 ||binariumy.com^
 ||binbulin.com^
+||bincnce.com^
 ||bincoinlux.com^
 ||bine.mails.top^
 ||binfince.com^
@@ -1427,6 +1432,7 @@
 ||bybitcapitals.com^
 ||bybithodings.com^
 ||bycicle.net^
+||byhwhzwnqrnm.shop^
 ||byproaip.com^
 ||bytech.us.com^
 ||bytes.link.online^
@@ -1526,6 +1532,8 @@
 ||cartechify.com^
 ||cartradinghub.com^
 ||casadecorato.store^
+||casaldiscount.com^
+||casallinghi.com^
 ||casalucelighting.com^
 ||cascadefinco.org^
 ||casesblend.com^
@@ -4943,6 +4951,7 @@
 ||mscommerce.net^
 ||msdrop.com.ua^
 ||msscrypto.com^
+||mszzj.com^
 ||mteen.net^
 ||mtg08v1zr.com^
 ||mttathletics.com^
