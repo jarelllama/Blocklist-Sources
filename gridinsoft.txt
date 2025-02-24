@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.24.004526.2025
+! Version: 02.24.012801.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 24 00:45:26 UTC 2025
+! Last modified: Mon Feb 24 01:28:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8201
+! Number of entries: 8203
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5657,6 +5657,7 @@
 ||pornmixer.org^
 ||pornshort.com^
 ||pornxp.quest^
+||portal.hitechgloballtd.online^
 ||portal.worldbusinesspay.com^
 ||portaldedicasonline.com^
 ||porteparis.com^
@@ -7475,6 +7476,7 @@
 ||us.viiceemall.com^
 ||usa.hellyhansen.com^
 ||usa.mito.com^
+||usacomfywear.com^
 ||usafis.org^
 ||usahawanlg.my^
 ||usahellyhansen.com^
