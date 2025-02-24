@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.24.170110.2025
+! Version: 02.24.173155.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 24 17:01:10 UTC 2025
+! Last modified: Mon Feb 24 17:31:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8269
+! Number of entries: 8275
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -638,6 +638,7 @@
 ||aremining.app^
 ||aremining.org^
 ||arfwatches.com^
+||argogints.com^
 ||argonixhacktech.com^
 ||argosnop.com^
 ||arianthes.com^
@@ -1889,6 +1890,7 @@
 ||contactandplay.com^
 ||contactconsultingservices.com^
 ||contemplatingthedivine.com^
+||contenedor-balosan.es^
 ||contestcraze.today^
 ||continental.invest.ltd^
 ||contractnerds.com^
@@ -3514,6 +3516,7 @@
 ||guavarina.com.br^
 ||gudjersey.com^
 ||guejoin.com^
+||guessoutlet-greece.gr^
 ||guestreservations.com^
 ||gugd.store^
 ||guide.sante.space^
@@ -5650,6 +5653,7 @@
 ||pivot.capital.ltd^
 ||pixbay.online^
 ||pixelshophub.com^
+||pixiv.pictures^
 ||pkvn68.online^
 ||placeofgame.com^
 ||plantkindom.com^
@@ -6691,6 +6695,7 @@
 ||sportchekca.com^
 ||sportecentral.com^
 ||sportsalpin.com^
+||sportsdailydeals.com^
 ||sportsdirectdailydeals.shop^
 ||sportzone3.com^
 ||spotifyinfo.app^
@@ -8251,6 +8256,7 @@
 ||zks7.com^
 ||zlibrary.to^
 ||zobtask.com^
+||zolmen.com^
 ||zonedir.info^
 ||zoodel.online^
 ||zoosurvey.online^
