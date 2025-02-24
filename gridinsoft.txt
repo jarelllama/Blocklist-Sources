@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.24.053259.2025
+! Version: 02.24.060100.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 24 05:32:59 UTC 2025
+! Last modified: Mon Feb 24 06:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8220
+! Number of entries: 8223
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6722,6 +6722,7 @@
 ||stechol.com^
 ||steest.net^
 ||stellaclark.eu^
+||stellanovelty.com^
 ||stellantisbiz.top^
 ||stellarskyline.com^
 ||stellular-bubblegum-7d62af.netlify.app^
@@ -7464,6 +7465,7 @@
 ||unusualaccountrestricted72.github.io^
 ||unvaulted.coomer.party^
 ||unveriumenflue.com^
+||unylavc.com^
 ||up999999.com^
 ||upayy.online^
 ||upb.edu.co^
@@ -8194,6 +8196,7 @@
 ||zielbioinc.com^
 ||zimasilkt.com^
 ||zimtrades.com^
+||zinoxt.net^
 ||ziprecruiter.com^
 ||zjj.jh.com^
 ||zjulpujub.wlasnnz.cn^
