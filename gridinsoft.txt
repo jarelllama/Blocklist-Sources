@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.24.193056.2025
+! Version: 02.24.200057.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 24 19:30:56 UTC 2025
+! Last modified: Mon Feb 24 20:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8306
+! Number of entries: 8313
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1436,6 +1436,7 @@
 ||bvprxznfrdzn.shop^
 ||bwc8.cc^
 ||bxfinvestment.com^
+||bxtqwvzcldsah.ink^
 ||bybit.nidx.com^
 ||bybitcapitals.com^
 ||bybithodings.com^
@@ -1538,6 +1539,8 @@
 ||carrepairus0507.online^
 ||carte.grise.france.fr^
 ||cartechify.com^
+||cartnsave.com^
+||cartoesverizon.fun^
 ||cartradinghub.com^
 ||casadecorato.store^
 ||casaldiscount.com^
@@ -1954,11 +1957,14 @@
 ||courieam.xin^
 ||courseam.xin^
 ||courtkingsph.com^
+||courtneyconway.shop^
 ||courveam.xin^
 ||couthix.com^
 ||couturedrift.com^
 ||couturevista.com^
 ||cowboycheaper.com^
+||cowboycoutureshop.com^
+||cowboysbusy.online^
 ||cozyarn.com^
 ||cozycoatl.shop^
 ||cozyfash.shop^
@@ -3500,6 +3506,7 @@
 ||grandhealthonline.com^
 ||grandura.shop^
 ||graphixplanet.com^
+||grasscall.net^
 ||grassroot.impact.centre.org^
 ||gratisvps.net^
 ||graxikha.com^
