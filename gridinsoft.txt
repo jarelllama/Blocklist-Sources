@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.24.173155.2025
+! Version: 02.24.180112.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 24 17:31:55 UTC 2025
+! Last modified: Mon Feb 24 18:01:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8275
+! Number of entries: 8282
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -541,6 +541,8 @@
 ||anchorit.live^
 ||anesoabdulfatah.com^
 ||angelicstoragebv.com^
+||angelstyledamen.com^
+||angiebreitschwerdt.shop^
 ||angiechew.online^
 ||animvip.com^
 ||ankr.top^
@@ -801,6 +803,7 @@
 ||axustroncapital.com^
 ||ayridchandler.shop^
 ||ayurlife.online^
+||azdhcqsjnqvfsxgbvrvn.shop^
 ||azmovies.ag^
 ||aztekprimexchange.com^
 ||babylon3.vip^
@@ -925,6 +928,7 @@
 ||bestbiccle.shop^
 ||bestbuy.ink^
 ||bestbuydepots.com^
+||bestbuyz.online^
 ||bestcouponsnow.com^
 ||bestdogcare.one^
 ||besteboni.online^
@@ -1617,6 +1621,7 @@
 ||charmcot.com^
 ||charming.lady.com^
 ||charmingfavor.com^
+||charmingvape.com^
 ||chassoutlel.shop^
 ||chat.ichatlink.net^
 ||chatework.com^
@@ -2141,6 +2146,7 @@
 ||darklog.mp^
 ||darkpick.com^
 ||darmavenue.com^
+||darvtgwnfcb.shop^
 ||dash.optimus.vip^
 ||dash.probits.cc^
 ||dash2trade.com^
@@ -5035,6 +5041,7 @@
 ||natureflux.shop^
 ||naukbjo.com^
 ||nav43.global.com^
+||naventtuss.com^
 ||naveskin.store^
 ||navorem.com^
 ||navorex.com^
