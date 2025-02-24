@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.24.063658.2025
+! Version: 02.24.070050.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 24 06:36:58 UTC 2025
+! Last modified: Mon Feb 24 07:00:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8231
+! Number of entries: 8236
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -297,6 +297,7 @@
 ||ads.trafficircles.com^
 ||ads2cash.co^
 ||adsarp.com^
+||adsasss-store.com^
 ||adsgoo.com^
 ||adsphericalsuits.com^
 ||adtgnt.com^
@@ -914,6 +915,7 @@
 ||best.expertonline.com^
 ||best.outdoor.gear.com^
 ||best4youu.info^
+||bestarezzo.shop^
 ||bestbiccle.shop^
 ||bestbuy.ink^
 ||bestbuydepots.com^
@@ -2109,6 +2111,7 @@
 ||dalladesh.com^
 ||daltonitsolutions.com^
 ||damanavaitor.in^
+||danielmadrid.shop^
 ||danwaygroup.com^
 ||danxdex.com^
 ||dapdunetrading.com^
@@ -2887,6 +2890,7 @@
 ||father.mining.top^
 ||faucetcrypto.net^
 ||faucetxminer.pro^
+||favesedge.com^
 ||fazmex.com^
 ||fbkptumgxh.com^
 ||fc244.com^
@@ -3475,6 +3479,7 @@
 ||grupohersa.org^
 ||gryphon.trx.com^
 ||gs.zbzy.cc^
+||gsdfre.live^
 ||gsoporific.monster^
 ||gtc.lol^
 ||gten956.vip^
