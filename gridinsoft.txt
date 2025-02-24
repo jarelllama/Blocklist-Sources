@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.24.043413.2025
+! Version: 02.24.050103.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 24 04:34:13 UTC 2025
+! Last modified: Mon Feb 24 05:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8214
+! Number of entries: 8219
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1178,6 +1178,7 @@
 ||bloxevent.org^
 ||bloxtools.ca^
 ||blue798798.com^
+||bluealts.net^
 ||bluebear.foundation^
 ||bluepeaksfinance.com^
 ||bluewhaleapps.life^
@@ -3388,6 +3389,7 @@
 ||goldenprofitstock.com^
 ||goldentrade.life^
 ||golderagifts.com^
+||goldfish.et^
 ||golditry.com^
 ||goldmac.org^
 ||goldmanmarkets.io^
@@ -5973,6 +5975,7 @@
 ||rakoof.shop^
 ||ralkem.com^
 ||ralphlauren.best^
+||ralphlaurencs.online^
 ||randura.com^
 ||ranforditsolutions.com^
 ||ranoz.gg^
@@ -6133,6 +6136,7 @@
 ||riskcomplianceportfolio134043.online^
 ||ritongt.com^
 ||ritoudown.com^
+||riudis.com^
 ||rivobanc.com^
 ||rkbanks.com^
 ||rnkex.net^
@@ -6509,6 +6513,7 @@
 ||sleekfitz.com^
 ||sleepcaresuk.com^
 ||sleepwelldental.online^
+||slenaapparel.com^
 ||slexiodr.cc^
 ||slexionz.cc^
 ||slimfling.com^
