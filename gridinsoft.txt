@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.24.200057.2025
+! Version: 02.24.203238.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 24 20:00:57 UTC 2025
+! Last modified: Mon Feb 24 20:32:38 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8313
+! Number of entries: 8315
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -542,6 +542,7 @@
 ||anamodashop.com^
 ||anaxdex.com^
 ||anchorit.live^
+||andreadorio.shop^
 ||anesmone.com^
 ||anesoabdulfatah.com^
 ||angelabrenna.shop^
@@ -6419,6 +6420,7 @@
 ||securedspot.vip^
 ||securepayments.us^
 ||securitybulb360.co^
+||securolink.com^
 ||sedonainvestments.co.uk^
 ||seecomoffer.com^
 ||seedsfty.com^
