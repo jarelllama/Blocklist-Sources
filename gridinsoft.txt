@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.24.033555.2025
+! Version: 02.24.040105.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 24 03:35:55 UTC 2025
+! Last modified: Mon Feb 24 04:01:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8209
+! Number of entries: 8212
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -919,6 +919,7 @@
 ||besteboni.online^
 ||bestgreensuperfood.com^
 ||besthealth24.online^
+||besthowtoguides.com^
 ||bestluxurysaller.com^
 ||bestmayoreo.com.mx^
 ||bestnationalcreditunion.com^
@@ -1503,6 +1504,7 @@
 ||casadecorato.store^
 ||casalucelighting.com^
 ||cascadefinco.org^
+||casesblend.com^
 ||casetesy.com^
 ||cash.tube.online^
 ||cashcow.wang^
@@ -7114,6 +7116,7 @@
 ||to.lk^
 ||tobysph.shop^
 ||tockexa.shop^
+||toclearance.com^
 ||todays.superr.storre.shop^
 ||todayyouwin.com^
 ||tofro.com^
