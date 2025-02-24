@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.24.213119.2025
+! Version: 02.24.220050.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 24 21:31:19 UTC 2025
+! Last modified: Mon Feb 24 22:00:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8325
+! Number of entries: 8326
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4481,6 +4481,7 @@
 ||londongroupinvestments.com^
 ||longchampespana.cc^
 ||lookmovie2.to^
+||looksaleet.click^
 ||loomtrust.com^
 ||looneydodo.com^
 ||lootbar.gg^
