@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.24.220050.2025
+! Version: 02.24.223318.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 24 22:00:50 UTC 2025
+! Last modified: Mon Feb 24 22:33:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8326
+! Number of entries: 8330
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4079,6 +4079,7 @@
 ||joker999do.com^
 ||joliiy.com^
 ||jollypulse.co.in^
+||jollyvillage.shop^
 ||joltleft.com^
 ||josephina.shop^
 ||josephscoleri.shop^
@@ -4989,6 +4990,7 @@
 ||mtg08v1zr.com^
 ||mttathletics.com^
 ||mttsports.com^
+||mtzbux.site^
 ||mujeresconbienestar.gob.mx.info^
 ||muke.ai^
 ||muldellltd.com^
@@ -5346,6 +5348,7 @@
 ||oksaleonline.com^
 ||okwintss.com^
 ||okxmax.io^
+||okxono.com^
 ||okxtrade.org^
 ||oldendroff.com^
 ||oldschoolbux.com^
@@ -6592,6 +6595,7 @@
 ||skidrowcodex.net^
 ||skillcrafttech.com^
 ||skilllynxw.top^
+||skillmosaic.org^
 ||skinport.com.kz^
 ||skinrave.gg^
 ||skirtvibez.com^
