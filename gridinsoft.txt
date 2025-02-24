@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.24.183631.2025
+! Version: 02.24.190052.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 24 18:36:31 UTC 2025
+! Last modified: Mon Feb 24 19:00:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8291
+! Number of entries: 8298
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -461,6 +461,8 @@
 ||alo88.black^
 ||aloidvg.com^
 ||alpaboost.com^
+||alpentherme.ch^
+||alpenveststrategy.com^
 ||alphaa-group.com^
 ||alphadeltaenterprisesvof.com^
 ||alphahashes.com^
@@ -540,6 +542,8 @@
 ||anaxdex.com^
 ||anchorit.live^
 ||anesoabdulfatah.com^
+||angelabrenna.shop^
+||angelaholman.shop^
 ||angeledear.shop^
 ||angelicstoragebv.com^
 ||angelstyledamen.com^
@@ -847,6 +851,7 @@
 ||barcelonaoutlets.shop^
 ||bargainro.com^
 ||bargainxpressz.bet^
+||barrelwhis.com^
 ||barsurice.com^
 ||bartoil.kz^
 ||bartrustfund.com^
@@ -1626,6 +1631,7 @@
 ||changeip.net^
 ||changelon.com^
 ||chaparriexpeditions.com^
+||charlinerat.com^
 ||charmcot.com^
 ||charming.lady.com^
 ||charmingfavor.com^
@@ -5708,6 +5714,7 @@
 ||pockettrader.org^
 ||pointway.io^
 ||pokebooster.fr^
+||pokecristo.com^
 ||pokepackbrostcg.com^
 ||pokexperiment.com^
 ||pokezone.ca^
