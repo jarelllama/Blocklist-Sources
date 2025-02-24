@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.24.230101.2025
+! Version: 02.24.233047.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 24 23:01:01 UTC 2025
+! Last modified: Mon Feb 24 23:30:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8334
+! Number of entries: 8337
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -80,6 +80,7 @@
 ||2040stage.online^
 ||20game7.com^
 ||21coweb.pyth-usshr.top^
+||22ejkf.org^
 ||2360tv.com^
 ||244buildschile.com^
 ||247cryptotrade.net^
@@ -6380,6 +6381,7 @@
 ||sauconyfootwear.com^
 ||sauconysneakersdiscount.shop^
 ||sauconyspain.es^
+||saudavelsempre.store^
 ||sauditech.link^
 ||saudkas.cyou^
 ||save.learning.com^
@@ -6708,6 +6710,7 @@
 ||soonjay.arawbet01.com^
 ||sooto.quebec.com^
 ||sop4sale6.quest^
+||sopacktravel.com^
 ||sopenny.com^
 ||sophie.paris.com^
 ||soportestreaming.online^
