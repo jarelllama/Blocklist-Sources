@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.24.073040.2025
+! Version: 02.24.080055.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 24 07:30:40 UTC 2025
+! Last modified: Mon Feb 24 08:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8244
+! Number of entries: 8249
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1602,6 +1602,7 @@
 ||chainbank.network^
 ||chainfun.click^
 ||chainmine.cloud^
+||chainriseholdings.com^
 ||chalaorry.shop^
 ||changeip.net^
 ||changelon.com^
@@ -1926,6 +1927,7 @@
 ||couthix.com^
 ||couturedrift.com^
 ||couturevista.com^
+||cowboycheaper.com^
 ||cozyarn.com^
 ||cpalead.com^
 ||cpasbien.zip^
@@ -4980,6 +4982,7 @@
 ||myplatform.top^
 ||mypremiumkitchens.com^
 ||myrbcdevice.secure.com^
+||myreminimod.com^
 ||myrewardslocker.com^
 ||myshare.ws^
 ||myshroomiq.com^
@@ -6188,6 +6191,7 @@
 ||rojadirectvonline.com^
 ||rokinat.co.in^
 ||rolexetf.site^
+||rolexhorlogerie.com^
 ||roll2x.com^
 ||rollercoin.com^
 ||rolsxcas.com^
@@ -7732,6 +7736,7 @@
 ||vorgang.abschliessen.online^
 ||vorobit.com^
 ||vortica.net^
+||voskcoin.net^
 ||votelya.com^
 ||votingplatform.ct.ws^
 ||vovara.brisbane.com^
