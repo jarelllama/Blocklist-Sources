@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.24.113047.2025
+! Version: 02.24.120101.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 24 11:30:47 UTC 2025
+! Last modified: Mon Feb 24 12:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8260
+! Number of entries: 8263
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5313,6 +5313,7 @@
 ||ondasvirtuais.online^
 ||oneaceglobal.com^
 ||oneck.vip^
+||oneclick-pillsexpress24hr.com^
 ||oneclickmart.online^
 ||onefarm.pro^
 ||onefxgroup.com^
@@ -5755,6 +5756,7 @@
 ||primeoptimizer.com^
 ||primeotp.com^
 ||primeplatform.online^
+||primespath.com^
 ||primetransactltd.com^
 ||primetslatrading.com^
 ||primewire.tf^
@@ -7395,6 +7397,7 @@
 ||tupperwares.ru^
 ||tuppirakso.com^
 ||turbo.snails.com^
+||turbodrophub.com^
 ||turbogamesapk.com^
 ||turbotrump.info^
 ||tusheedrosep.net^
