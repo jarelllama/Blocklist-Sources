@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.24.070050.2025
+! Version: 02.24.073040.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 24 07:00:50 UTC 2025
+! Last modified: Mon Feb 24 07:30:40 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8236
+! Number of entries: 8244
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -775,6 +775,8 @@
 ||autotrade.software.com^
 ||autry.eu.shop^
 ||autryzzt.online^
+||autvomoto.com^
+||autxomoto.com^
 ||av4.us^
 ||ava.area.io^
 ||avalonfinance.io^
@@ -986,6 +988,7 @@
 ||billbill.ru^
 ||billboardapparel.store^
 ||billgcoin.com^
+||billysanders.shop^
 ||biloxsolution.com^
 ||binagpt.io^
 ||binanbot.exchange^
@@ -1160,6 +1163,7 @@
 ||blast.tv.org^
 ||blazecasin.com^
 ||blimgit.shop^
+||blingdresses.com^
 ||blinghair.com^
 ||blissfulcannabisau.com^
 ||blissfulluck.cfd^
@@ -1904,6 +1908,7 @@
 ||correosaaes.fit^
 ||corseplongeea.com^
 ||cosmayae.com^
+||cosmetone.cy^
 ||cosmicgroundingcode.com^
 ||cosometaldetector.com^
 ||cosr.malssfw.org^
@@ -2111,6 +2116,7 @@
 ||dalladesh.com^
 ||daltonitsolutions.com^
 ||damanavaitor.in^
+||danielgomez.shop^
 ||danielmadrid.shop^
 ||danwaygroup.com^
 ||danxdex.com^
@@ -6069,6 +6075,7 @@
 ||relativelysuitable.com^
 ||relayl.ink^
 ||relaymondial.net^
+||reloadingdepotusa.com^
 ||reloadingstocks.com^
 ||relutar.com^
 ||remairm.com^
@@ -7729,6 +7736,7 @@
 ||votingplatform.ct.ws^
 ||vovara.brisbane.com^
 ||vpnclix.com^
+||vseeboxtv.co^
 ||vseeboxtv.store^
 ||vtmarkets.net^
 ||vtwinschool.com^
