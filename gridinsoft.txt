@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.24.223318.2025
+! Version: 02.24.230101.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 24 22:33:18 UTC 2025
+! Last modified: Mon Feb 24 23:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8330
+! Number of entries: 8334
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -833,6 +833,7 @@
 ||bahissiteleri.2025.us^
 ||bakedin.shop^
 ||bakersaesthetichomedecor.com^
+||baksmany.com^
 ||balaclavawindbreaker.com^
 ||balloon.com.co^
 ||balloon.com.es^
@@ -6098,6 +6099,7 @@
 ||readermodeext.info^
 ||reaintell.com^
 ||realavaitor.pro^
+||realinest.com^
 ||realintelligence.club^
 ||realionetwork.claims^
 ||realisticfakemoney.com^
@@ -6114,6 +6116,7 @@
 ||recaptchav2.com^
 ||recetasexpres.com^
 ||reclaimbackassets.com^
+||recoverybounce.com^
 ||recruit.threadsstaffs.com^
 ||rect.reward.glacier.website^
 ||recuvahacksolution.pro^
@@ -6183,6 +6186,7 @@
 ||resellerboost.com^
 ||resminair.in^
 ||resortburg.online^
+||responses.help^
 ||restaurant.lepetitcochon.com^
 ||retoswap.com^
 ||retroclubkit.co^
