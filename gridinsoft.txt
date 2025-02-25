@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.24.233047.2025
+! Version: 02.25.000151.2025
 ! Expires: 30 minutes
-! Last modified: Mon Feb 24 23:30:47 UTC 2025
+! Last modified: Tue Feb 25 00:01:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8337
+! Number of entries: 8339
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3341,6 +3341,7 @@
 ||getcommunitytrumpmemes.com^
 ||getcryptodrop.com^
 ||getdrant.shop^
+||getforoutdoor.com^
 ||getggbetpromo.com^
 ||getimage.online^
 ||getintopc.com^
@@ -3913,6 +3914,7 @@
 ||insadspro.com^
 ||insidetraderalerts.com^
 ||insightdreams.online^
+||inspectvehicle.co.uk^
 ||inspectyourvin.com^
 ||inspirecollege.co.uk^
 ||inspirighty.com^
