@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.25.183635.2025
+! Version: 02.25.190100.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 25 18:36:35 UTC 2025
+! Last modified: Tue Feb 25 19:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8411
+! Number of entries: 8418
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -378,6 +378,7 @@
 ||aimbotfortnite.org^
 ||aimhaven.com^
 ||aimining.top^
+||aimpuzzle.shop^
 ||aimrents.com^
 ||aimxecoin.com^
 ||aineel.com^
@@ -577,6 +578,7 @@
 ||anti.fraudcentre.com^
 ||antibot.v2.com^
 ||antigellingeriesale.com^
+||antonioeileen.shop^
 ||anty.dolphin.ru.com^
 ||anurvogel.com^
 ||anvdzor.com^
@@ -833,6 +835,7 @@
 ||azdhcqsjnqvfsxgbvrvn.shop^
 ||azmovies.ag^
 ||aztekprimexchange.com^
+||b2secops.co.uk^
 ||babyclothstore.xyz^
 ||babygoodsnest.store^
 ||babyhav.shop^
@@ -873,6 +876,7 @@
 ||bar47menu.online^
 ||barbouresp.com^
 ||barcelonaoutlets.shop^
+||bargain-s.shop^
 ||bargainro.com^
 ||bargainxpressz.bet^
 ||barrelwhis.com^
@@ -984,6 +988,7 @@
 ||betatrademarket.com^
 ||betatransfer.io^
 ||betcasn.com^
+||betflix.network^
 ||bethblase.shop^
 ||betkitta.com^
 ||betnight.online^
@@ -3450,6 +3455,7 @@
 ||globalpremiers.com^
 ||globalqashadsclicks.com^
 ||globalrainingcoin.com^
+||globalresearchchemicals.com^
 ||globalsfundrecovery.com^
 ||globalsmartrade.com^
 ||globalswift.access.com^
@@ -3999,6 +4005,7 @@
 ||iptv4d.com^
 ||iptvexpert.pro^
 ||iptvgear.store^
+||iptvharmony.net^
 ||iptvkaufen24.de^
 ||iptvnexus.com^
 ||iptvnw.us^
