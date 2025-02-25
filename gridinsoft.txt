@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.25.230058.2025
+! Version: 02.25.233048.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 25 23:00:58 UTC 2025
+! Last modified: Tue Feb 25 23:30:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8446
+! Number of entries: 8449
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -946,6 +946,7 @@
 ||bekerja.online^
 ||belinggift.com^
 ||belkcaseshop.com^
+||bella-pear.com^
 ||bellcasual.com^
 ||bellutia.com^
 ||belmondagency.com^
@@ -1349,6 +1350,7 @@
 ||breathbit.org^
 ||breathingottersca.com^
 ||breeshe.com^
+||breliance.com^
 ||brentonways.top^
 ||breville.online^
 ||breyfe.com^
@@ -1720,6 +1722,7 @@
 ||chinchincasino.com^
 ||chocolitodoraemonhunt.com^
 ||choiceclothes.xyz^
+||choicehomewarranty.com^
 ||choxessaiglee.net^
 ||christianlouboutinmexicos.top^
 ||christmas.decors.com^
@@ -5239,7 +5242,6 @@
 ||news.bnaxura.cc^
 ||news.bponeyu.cc^
 ||news.bpotibu.cc^
-||news.choicehomewarranty.com^
 ||news.jufife.com^
 ||news.xceyuna.live^
 ||news.xfoxeyo.cc^
@@ -7158,6 +7160,7 @@
 ||tenek.vip^
 ||teneo.pro^
 ||tentroearnings.com^
+||tentron-mining.com^
 ||tentron.mining.net^
 ||tenueazur.blog^
 ||terbangria.online^
