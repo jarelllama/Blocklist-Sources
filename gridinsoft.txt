@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.25.020323.2025
+! Version: 02.25.024529.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 25 02:03:23 UTC 2025
+! Last modified: Tue Feb 25 02:45:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8344
+! Number of entries: 8351
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -987,6 +987,7 @@
 ||bicicletaoficial.com^
 ||biconomy.com^
 ||bielsko.biala.online^
+||big-discovery.com^
 ||big.bossaviator.com^
 ||bigboobdate.com^
 ||bigboomax.com^
@@ -1723,6 +1724,7 @@
 ||cityindexltd.com^
 ||civilwarcrisis.com^
 ||cjs.cdkeys.com^
+||cksandy.com^
 ||cl.experts.biz^
 ||claim.flork.com^
 ||claim.hyperliquiditychain.com^
@@ -2026,6 +2028,7 @@
 ||crypthach.com^
 ||cryptixi.com^
 ||cryptn.org^
+||crypto-savingexpert.com^
 ||crypto.chinese.com^
 ||crypto.coin.base.com^
 ||crypto.coin.site^
@@ -2920,6 +2923,7 @@
 ||falalamxn.vip^
 ||falconfxtrading.com^
 ||familychoicedrugstore.com^
+||famoustraders.co^
 ||famoususers.com^
 ||fanatics.com^
 ||fancyfont.online^
@@ -3458,6 +3462,7 @@
 ||golat.online^
 ||gold-minor.top^
 ||goldackerstrading.com^
+||goldcapitals.org^
 ||goldcash7.com^
 ||goldcoin.trade.org^
 ||golddex.web3.net^
@@ -4693,7 +4698,9 @@
 ||math2.online^
 ||matias.me^
 ||matrixbit.net^
+||mattelcreations.shop^
 ||matteomarcelli.com^
+||maturestunningfluency.com^
 ||maturium.com^
 ||mavie.global^
 ||mavliker.net^
