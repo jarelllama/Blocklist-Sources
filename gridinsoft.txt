@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.25.200105.2025
+! Version: 02.25.203254.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 25 20:01:05 UTC 2025
+! Last modified: Tue Feb 25 20:32:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8428
+! Number of entries: 8434
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1699,6 +1699,7 @@
 ||cheapammoaustralia.com^
 ||cheapertoolparts.com^
 ||cheapglovesoutlet.com^
+||cheapjerseys.shop^
 ||cheapmaggiesstore.com^
 ||cheapproducts.online^
 ||cheapsleepingtablets.net^
@@ -3934,6 +3935,7 @@
 ||importantstuff.online^
 ||importsky.com^
 ||improvementy.com^
+||imypass.com^
 ||in.tmwn.online^
 ||inamksa.icu^
 ||incart.co.za^
@@ -5918,6 +5920,7 @@
 ||proegro.shop^
 ||proexcels.com^
 ||profit.centr24.ru^
+||profitly.network^
 ||profitsusd.com^
 ||profittrade.live^
 ||profitwithwifi.com^
@@ -6652,6 +6655,7 @@
 ||silverstonebank.org^
 ||silviicia.com^
 ||silyka.com^
+||simlockfix.com^
 ||simmsfishingonsale.shop^
 ||simon.frei.pc.online^
 ||simontok.fans^
@@ -7382,6 +7386,7 @@
 ||touristcoves.com^
 ||tourmarketing.world.com^
 ||towercrash.com^
+||townan.shop^
 ||towork.998.vip^
 ||towork158.com^
 ||toyota.mall.com^
@@ -7520,6 +7525,7 @@
 ||trustedcrypsigfex.com^
 ||trustedvincheck.com^
 ||trustgreenfirm.live^
+||trustlywealthfx.com^
 ||trustmarkettrading.com^
 ||trustphin.com^
 ||trustpoin.pro^
