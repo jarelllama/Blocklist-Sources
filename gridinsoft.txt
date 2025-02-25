@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.25.173359.2025
+! Version: 02.25.180058.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 25 17:33:59 UTC 2025
+! Last modified: Tue Feb 25 18:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8398
+! Number of entries: 8404
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -413,6 +413,7 @@
 ||aixomi.com^
 ||aiyibay.com^
 ||aiyun689kuaile789aizai798.com^
+||ajmirmart.com^
 ||ak.litaudrootsa.net^
 ||akaregisteredtoypoodlepups.com^
 ||akilesh.hopto.org^
@@ -827,6 +828,9 @@
 ||azdhcqsjnqvfsxgbvrvn.shop^
 ||azmovies.ag^
 ||aztekprimexchange.com^
+||babyclothstore.xyz^
+||babygoodsnest.store^
+||babyhav.shop^
 ||babylon3.vip^
 ||babytoll.shop^
 ||babyu.shop^
@@ -910,6 +914,7 @@
 ||beatmakerz.club^
 ||beaucham.com^
 ||beazavnftojh.shop^
+||bedonz.com^
 ||bedtige.top^
 ||bedtodream.com^
 ||beedermaus.com^
@@ -980,6 +985,7 @@
 ||betsclub.pro^
 ||betteranime.net^
 ||betterdiscountdeals.com^
+||betterhealthshoping.com^
 ||betterzone19.info^
 ||betwave.vip^
 ||bewizi.com^
