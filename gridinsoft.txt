@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.25.190100.2025
+! Version: 02.25.193054.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 25 19:01:00 UTC 2025
+! Last modified: Tue Feb 25 19:30:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8418
+! Number of entries: 8424
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -835,6 +835,8 @@
 ||azdhcqsjnqvfsxgbvrvn.shop^
 ||azmovies.ag^
 ||aztekprimexchange.com^
+||azurichbengalcats.com^
+||azwvzoseutocvrw.shop^
 ||b2secops.co.uk^
 ||babyclothstore.xyz^
 ||babygoodsnest.store^
@@ -849,6 +851,7 @@
 ||backtoblu.online^
 ||baffinca.com^
 ||bagii.shop^
+||bagsmalls.com^
 ||bagsupermarket.com^
 ||bahissiteleri.2025.us^
 ||bakedin.shop^
@@ -923,6 +926,7 @@
 ||beat.sticker.online^
 ||beatmakerz.club^
 ||beaucham.com^
+||beautyxfit.com^
 ||beazavnftojh.shop^
 ||bedonz.com^
 ||bedtige.top^
@@ -1681,6 +1685,7 @@
 ||charming.lady.com^
 ||charmingfavor.com^
 ||charmingvape.com^
+||chasehive.com^
 ||chassoutlel.shop^
 ||chat.ichatlink.net^
 ||chatework.com^
@@ -1824,6 +1829,7 @@
 ||cloudsoft.ae^
 ||cloudstream.pro^
 ||cloudyfitbyasmitha.com^
+||cloverassets.org^
 ||cloverstone.ek.com^
 ||clqazxvc.com^
 ||clqbd.edistolife.com^
