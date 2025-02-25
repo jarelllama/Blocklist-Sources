@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.25.012800.2025
+! Version: 02.25.020323.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 25 01:28:00 UTC 2025
+! Last modified: Tue Feb 25 02:03:23 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8341
+! Number of entries: 8344
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3853,6 +3853,7 @@
 ||id184124.com^
 ||idatech.online^
 ||idealpiptrade.com^
+||idealprotein.com^
 ||ideeth.co^
 ||idempire.us^
 ||idjqwinla.net^
@@ -7617,6 +7618,7 @@
 ||usamedsdeals24.com^
 ||usapassportonline.org^
 ||usarmunukr.online^
+||usasuppli.store^
 ||usd98.com^
 ||usdbmwmsport.cc^
 ||usdd.club^
@@ -7683,6 +7685,7 @@
 ||valxcane.lol^
 ||vanadex.com^
 ||vanbet.top^
+||vanmassstore.com^
 ||vantique.net^
 ||varidhirathore.github.io^
 ||vashiser.com^
