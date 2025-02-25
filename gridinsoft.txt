@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.25.203254.2025
+! Version: 02.25.210059.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 25 20:32:54 UTC 2025
+! Last modified: Tue Feb 25 21:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8434
+! Number of entries: 8437
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3978,6 +3978,7 @@
 ||intdomoinpartner.online^
 ||integratedapps.tech^
 ||intelligiencehub.com^
+||intellignity.com^
 ||inter.entregas.online^
 ||interac.capital.com^
 ||interactive.pov.com^
@@ -5886,6 +5887,7 @@
 ||primaxoptions.com^
 ||prime.energie.france.com^
 ||primeart.org^
+||primecloxminers.com^
 ||primecoinglobalinvestment.com^
 ||primeexpressinternational.online^
 ||primefitnessgroup.online^
@@ -7238,6 +7240,7 @@
 ||theredlioncasino.com^
 ||therivieraofluck.site^
 ||therrafirms.com^
+||therublux.pro^
 ||thespotifypremiumapk.com^
 ||thestockstandout.com^
 ||thestudysphere.online^
