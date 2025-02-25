@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.25.163605.2025
+! Version: 02.25.170100.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 25 16:36:05 UTC 2025
+! Last modified: Tue Feb 25 17:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8387
+! Number of entries: 8390
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -294,6 +294,7 @@
 ||admireeml.com^
 ||admitern.com^
 ||admolo.com^
+||adnxs.com^
 ||adorehike.com^
 ||adornmentcustom.com^
 ||adrienducrot.shop^
@@ -3835,6 +3836,7 @@
 ||hululusol.com^
 ||hummingbirdbsc.xyz^
 ||hunnybank.com^
+||hunnyrich.com^
 ||hushedhype.co^
 ||hustlersuniversityapp.com^
 ||hvuaill.com^
@@ -3923,6 +3925,7 @@
 ||informed.deliveryghfgh.top^
 ||informed.deliveryqbnsk.top^
 ||infpastinto.sbs^
+||inglesvip.top^
 ||ingprep.com^
 ||innovayours.store^
 ||innove.confort.com^
