@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.25.083455.2025
+! Version: 02.25.090056.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 25 08:34:55 UTC 2025
+! Last modified: Tue Feb 25 09:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8362
+! Number of entries: 8366
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -800,6 +800,7 @@
 ||avalontrdpro.com^
 ||avastosgr.fun^
 ||avatrade.fr^
+||avcloth.com^
 ||avelinejewelry.com^
 ||aventra-melbourne.com^
 ||averagedadofficial.com^
@@ -1969,6 +1970,7 @@
 ||couplemagnates.shop^
 ||couponxoo.com^
 ||courieam.xin^
+||coursados.com^
 ||courseam.xin^
 ||courtkingsph.com^
 ||courtneyconway.shop^
@@ -3584,6 +3586,7 @@
 ||gustmining.pro^
 ||gvgcxm.cc^
 ||gwendolyngantt.com^
+||gx.cuevana3.vip^
 ||gymshark.outlet.shop^
 ||gzjmelectronic.com^
 ||h01k.xyz^
@@ -5621,6 +5624,7 @@
 ||paymentprocessingzg.top^
 ||paymentrecieveoptions.com^
 ||payments.usavisaconsultant.com^
+||payvnd.com^
 ||pazaswq.com^
 ||pazvbha.com^
 ||pbaco.blueskyanalytics.net^
