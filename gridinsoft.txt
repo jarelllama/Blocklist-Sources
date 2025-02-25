@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.25.170100.2025
+! Version: 02.25.173359.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 25 17:01:00 UTC 2025
+! Last modified: Tue Feb 25 17:33:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8390
+! Number of entries: 8398
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -27,6 +27,9 @@
 ||02bitx.com^
 ||02nev.cc^
 ||05012025.info^
+||0800299002.com^
+||080907.com^
+||0860d.com^
 ||1.tiktokimg.online^
 ||100aventuras.com.mx^
 ||100dollarsmails.com^
@@ -455,6 +458,7 @@
 ||allmestyle.com^
 ||allmy.cam^
 ||allora.toronto.com^
+||allshowheremarket.com^
 ||allsmm.net^
 ||allstarhomeandgarden.za.com^
 ||alltrainerspc.com^
@@ -1545,6 +1549,7 @@
 ||carharttworkwear-sale.shop^
 ||caringalwayssupp.com^
 ||carlinkitmall.com^
+||carloscornejoart.com^
 ||carlylepledge.com^
 ||carnadox.com^
 ||carolbradley.shop^
@@ -4001,6 +4006,7 @@
 ||iris.tech.online^
 ||irisium.lat^
 ||ironchainbank.io^
+||ironfx.com^
 ||irwin.tools.com^
 ||ishomedepot.com^
 ||islanddluxe.top^
@@ -5385,6 +5391,7 @@
 ||okxmax.io^
 ||okxono.com^
 ||okxtrade.org^
+||oldearsu.com^
 ||oldendroff.com^
 ||oldschoolbux.com^
 ||olimpp.bet^
@@ -7468,6 +7475,7 @@
 ||truecareliving.online^
 ||truepayx.com^
 ||truesaintstore.com^
+||trump-earning.com^
 ||trump.ust.com^
 ||trumpcoiners.com^
 ||trumpfair.io^
