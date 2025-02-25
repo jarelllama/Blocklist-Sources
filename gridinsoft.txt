@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.25.180058.2025
+! Version: 02.25.183635.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 25 18:00:58 UTC 2025
+! Last modified: Tue Feb 25 18:36:35 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8404
+! Number of entries: 8411
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -404,6 +404,7 @@
 ||airocargo.com^
 ||airtraveler.club^
 ||aisfcth.ink^
+||aishabrown.shop^
 ||aitgiant.com^
 ||aitimart.com^
 ||aitransactionplatform.com^
@@ -508,6 +509,8 @@
 ||amalylegacy.com^
 ||amanwarehouse.com^
 ||amaon2.com^
+||amaozn.online^
+||amaritgc.online^
 ||amazedgoods.com^
 ||amazingfindsonline.com^
 ||amazingsoulpeace.shop^
@@ -641,6 +644,8 @@
 ||aprendefullemprendedesdecasa.online^
 ||aprontify.de^
 ||apsqze.info^
+||aptech-eg.com^
+||aptnrfejacpn.shop^
 ||apttradingsignals.top^
 ||aqintesy.org^
 ||aquienchile.com^
@@ -882,6 +887,7 @@
 ||baseballdealusa.com^
 ||basedturbo.io^
 ||basennt.com^
+||basicoavenue.top^
 ||basilux.co^
 ||basithjewellerspvtltd.com^
 ||bassonlineca.com^
@@ -978,6 +984,7 @@
 ||betatrademarket.com^
 ||betatransfer.io^
 ||betcasn.com^
+||bethblase.shop^
 ||betkitta.com^
 ||betnight.online^
 ||betonline.love^
