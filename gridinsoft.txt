@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.210105.2025
+! Version: 02.26.213057.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 21:01:05 UTC 2025
+! Last modified: Wed Feb 26 21:30:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8550
+! Number of entries: 8554
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1253,6 +1253,7 @@
 ||blizzboygames.net^
 ||blochchile.shop^
 ||blockchainesc-ledger.com^
+||blockchaintradee.com^
 ||blockdag.network^
 ||blockera.online^
 ||blockmetal.ltd^
@@ -2002,6 +2003,7 @@
 ||contractnerds.com^
 ||controlnetworks.com.au^
 ||conveneprecedent.top^
+||conveybitinvest.com^
 ||cookies.1.zuregg.space^
 ||coolbet.peru.online^
 ||cooldudesautofinancing.com^
@@ -3663,6 +3665,7 @@
 ||guaranteedbuyers247.com^
 ||guaranteeswift.com^
 ||guardwallet.io^
+||guathsmake.co.in^
 ||guavarina.com.br^
 ||gudjersey.com^
 ||guejoin.com^
@@ -4947,6 +4950,7 @@
 ||midgetsporn.com^
 ||midlandintercontinental.com^
 ||midly.in^
+||midnght.shop^
 ||midsizedcars.com^
 ||miehou.com^
 ||miespe.espe.edu.ec^
