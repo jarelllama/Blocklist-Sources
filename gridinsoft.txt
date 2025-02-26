@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.024510.2025
+! Version: 02.26.030617.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 02:45:10 UTC 2025
+! Last modified: Wed Feb 26 03:06:17 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8454
+! Number of entries: 8456
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -828,6 +828,7 @@
 ||avyxo.com^
 ||awkngtv.org^
 ||axiora.xyz^
+||axonfundstrade.com^
 ||axustroncapital.com^
 ||aylingallery.shop^
 ||aynigroupsecurity.com^
@@ -7997,6 +7998,7 @@
 ||wayfair.mall.cc^
 ||wayfairclearance.online^
 ||wayfairv.shop^
+||wb-digital.com^
 ||wbocash.online^
 ||wck37.top^
 ||wcostream.tv^
