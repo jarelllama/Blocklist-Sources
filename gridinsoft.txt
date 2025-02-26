@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.090105.2025
+! Version: 02.26.093245.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 09:01:05 UTC 2025
+! Last modified: Wed Feb 26 09:32:45 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8487
+! Number of entries: 8490
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -646,6 +646,7 @@
 ||appvr.org^
 ||aprendefullemprendedesdecasa.online^
 ||aprontify.de^
+||apshenyihl.com^
 ||apsqze.info^
 ||aptech-eg.com^
 ||aptnrfejacpn.shop^
@@ -2009,6 +2010,7 @@
 ||cosycustume.com^
 ||cotease.com^
 ||cotizadorsoat.segurosdelestado.com^
+||counterfeitcompany.com^
 ||coupangsell.com^
 ||couplemagnates.shop^
 ||couponxoo.com^
@@ -4677,6 +4679,7 @@
 ||m-bnb.com^
 ||m.bitunixex.com^
 ||m.bxamax.com^
+||m.cexcoin.pro^
 ||m.dodorado.com^
 ||m.engievip.cc^
 ||m.fxpro-usd.vip^
