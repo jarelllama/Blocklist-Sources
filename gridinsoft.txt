@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.020318.2025
+! Version: 02.26.024510.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 02:03:18 UTC 2025
+! Last modified: Wed Feb 26 02:45:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8453
+! Number of entries: 8454
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1053,6 +1053,7 @@
 ||biloxsolution.com^
 ||binagpt.io^
 ||binanbot.exchange^
+||binance-originefondi.com^
 ||binance.web3.com.cn^
 ||binance.web3.com.ru^
 ||binanceannouncement.com^
