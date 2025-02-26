@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.100115.2025
+! Version: 02.26.103455.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 10:01:15 UTC 2025
+! Last modified: Wed Feb 26 10:34:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8496
+! Number of entries: 8499
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3239,6 +3239,7 @@
 ||fragrancesrealms.com^
 ||fraudplatforms.com^
 ||frdl.io^
+||free-bonk.com^
 ||free-ltc-info.com^
 ||free.bonk.com^
 ||free.ethereum.io^
@@ -5038,6 +5039,7 @@
 ||mondiai.relay.mobile.com^
 ||mondiairelay.livraison.com^
 ||mondial.relay.suivicolis.com^
+||mondialrelay-jour.com^
 ||mondialrelay.transit.com^
 ||monespacedroits.com^
 ||monetoad.com^
@@ -7453,6 +7455,7 @@
 ||tozc.online^
 ||tpotraders.com^
 ||tqwin.online^
+||tracelo.com^
 ||track.icloud.info^
 ||track.ptctt.com^
 ||track718.com^
