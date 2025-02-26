@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.173236.2025
+! Version: 02.26.180103.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 17:32:36 UTC 2025
+! Last modified: Wed Feb 26 18:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8536
+! Number of entries: 8540
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -538,7 +538,9 @@
 ||americancaritascreditunion.com^
 ||americanfunds.com^
 ||americasvirtualshop.online^
+||amerswguhocvgudgbfm.shop^
 ||amgesic.com^
+||amihood.com^
 ||amirimexicos.com^
 ||ammethy.com^
 ||ammobigsale.shop^
@@ -1938,6 +1940,7 @@
 ||coinvale.io^
 ||coinvestoptions.com^
 ||coinwbga.com^
+||coinwck.com^
 ||coinwnto.com^
 ||coldbit.net^
 ||colddms.com^
@@ -5380,6 +5383,7 @@
 ||noluva.co^
 ||nomadedigital.me^
 ||nomisite8.online^
+||noosaboutique.com^
 ||nordfinnance.com^
 ||nordic.finanx.com^
 ||nordicremolquesl.com^
