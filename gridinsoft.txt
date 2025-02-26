@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.080101.2025
+! Version: 02.26.083512.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 08:01:01 UTC 2025
+! Last modified: Wed Feb 26 08:35:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8483
+! Number of entries: 8485
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2598,6 +2598,7 @@
 ||dremio.life^
 ||dresscorez.com^
 ||dressedgez.com^
+||dresseswow.com^
 ||dressglowz.com^
 ||drholding.ag.com^
 ||driftwrk.shop^
@@ -3590,6 +3591,7 @@
 ||grassroot.impact.centre.org^
 ||gratisvps.net^
 ||graxikha.com^
+||grayclothing.co.uk^
 ||great.citycb.com^
 ||greatnewoffr.org^
 ||greatsealbadge.com^
