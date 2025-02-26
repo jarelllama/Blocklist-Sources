@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.203235.2025
+! Version: 02.26.210105.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 20:32:35 UTC 2025
+! Last modified: Wed Feb 26 21:01:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8548
+! Number of entries: 8550
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1621,6 +1621,7 @@
 ||cashcow.wang^
 ||cashphoneoriginal.com^
 ||cashtube.co^
+||cashtube.io^
 ||casinoblue.world^
 ||casinofree2.online^
 ||casinopurple.com^
@@ -7758,6 +7759,7 @@
 ||united976.com^
 ||unitedparcelexpress.online^
 ||unitedstatepharmacy.com^
+||unitycapitalfinance.org^
 ||univers.pokemon.fr^
 ||universalwealth.org^
 ||universe.sandbox.2.free.com^
