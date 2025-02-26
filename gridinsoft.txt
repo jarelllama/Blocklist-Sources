@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.183628.2025
+! Version: 02.26.190051.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 18:36:28 UTC 2025
+! Last modified: Wed Feb 26 19:00:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8542
+! Number of entries: 8543
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -7532,6 +7532,7 @@
 ||tradinghelden.com^
 ||tradingid.acemlnb.com^
 ||tradingpoint.cc^
+||tradingshenzhen.com^
 ||tradingsoros.com^
 ||tradion.cyou^
 ||tradiso.com^
