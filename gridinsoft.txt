@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.113056.2025
+! Version: 02.26.120103.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 11:30:56 UTC 2025
+! Last modified: Wed Feb 26 12:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8504
+! Number of entries: 8506
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -324,6 +324,7 @@
 ||aegisai.online^
 ||aenoxperts.com^
 ||aeon-asset.net^
+||aeonmining.net^
 ||aero.ozgo.cc^
 ||aerodromefi.claims.app^
 ||aeroexperiaservice.com^
@@ -1959,6 +1960,7 @@
 ||con.ip.com^
 ||conciergetravel.online^
 ||condorgaminggroup.com^
+||confluence.mil.ua^
 ||confreriedes650.org^
 ||coninvestholdingsltd.com^
 ||conlonfinancegroup.com^
