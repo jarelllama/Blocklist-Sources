@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.012756.2025
+! Version: 02.26.020318.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 01:27:56 UTC 2025
+! Last modified: Wed Feb 26 02:03:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8452
+! Number of entries: 8453
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1357,6 +1357,7 @@
 ||brfmhuvgexkunygy.shop^
 ||brgjyqpjmbcgvqh.shop^
 ||briansclub.cm.shop^
+||bricktify.store^
 ||bridgecapitalservices.com^
 ||bridgeconnection.co.in^
 ||brieam.com^
