@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.170056.2025
+! Version: 02.26.173236.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 17:00:56 UTC 2025
+! Last modified: Wed Feb 26 17:32:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8533
+! Number of entries: 8536
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1600,6 +1600,7 @@
 ||carousell585.vip^
 ||carpinistore.com^
 ||carrepairus0507.online^
+||carrotstudio.co^
 ||carte.grise.france.fr^
 ||cartechify.com^
 ||cartnsave.com^
@@ -1831,6 +1832,7 @@
 ||climbcourse.cam^
 ||clime.mastercasc.top^
 ||clinicamediterranea.it^
+||clipea.eu^
 ||clipr.cc^
 ||clkiva.shop^
 ||clksite.com^
@@ -6905,6 +6907,7 @@
 ||spec1trend8.shop^
 ||special.sale.sbs^
 ||specializedcorp.com^
+||specialoutlet.sbs^
 ||specialsurprises.online^
 ||specialtyvehiclesoftulsa.com^
 ||spectrotel.billcenter.net^
