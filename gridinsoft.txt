@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.25.233048.2025
+! Version: 02.26.000156.2025
 ! Expires: 30 minutes
-! Last modified: Tue Feb 25 23:30:48 UTC 2025
+! Last modified: Wed Feb 26 00:01:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8449
+! Number of entries: 8451
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1714,6 +1714,7 @@
 ||cheqseep.online^
 ||cherax.menu^
 ||chesterron.com^
+||chic-time.fr^
 ||chiccraftz.com^
 ||chicfitx.com^
 ||chiefaiofficer.biz^
@@ -3959,6 +3960,7 @@
 ||indrokil.icu^
 ||infernoforge.store^
 ||infiniteinvestcompany.com^
+||infinity-hash.io^
 ||infinity.hash.io^
 ||infojre.com^
 ||informathote.com^
