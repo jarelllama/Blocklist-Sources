@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.153356.2025
+! Version: 02.26.160100.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 15:33:56 UTC 2025
+! Last modified: Wed Feb 26 16:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8515
+! Number of entries: 8518
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3030,6 +3030,7 @@
 ||favesedge.com^
 ||fazmex.com^
 ||fbkptumgxh.com^
+||fc-group-fr.com^
 ||fc244.com^
 ||fcaageafin.com^
 ||fcbarcelona.eu.shop^
@@ -5031,6 +5032,7 @@
 ||modefi4o.com^
 ||modeflair.com^
 ||modehouse.melbourne.com^
+||modelogisticsdelivery.com^
 ||modenest.com^
 ||modernsmarttech.com^
 ||modernwristwatches.shop^
@@ -7479,6 +7481,7 @@
 ||tracktooffrs.com^
 ||tractorreplacement.com^
 ||tracy925digital.pro^
+||trade-lion.io^
 ||trade-pool.com^
 ||trade.definity.co^
 ||trade.emeraltrade.com^
