@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.093245.2025
+! Version: 02.26.100115.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 09:32:45 UTC 2025
+! Last modified: Wed Feb 26 10:01:15 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8490
+! Number of entries: 8496
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2025,6 +2025,7 @@
 ||couturevista.com^
 ||cowboycheaper.com^
 ||cowboycoutureshop.com^
+||cowboyfashionstore.com^
 ||cowboysbusy.online^
 ||cozyarn.com^
 ||cozycoatl.shop^
@@ -2624,6 +2625,7 @@
 ||dskonline.bg^
 ||dsolod.com^
 ||dstockaffaires.com^
+||dt-machining.com^
 ||dtfvg.net^
 ||dtloo.com^
 ||dtradeempire.com^
@@ -2945,6 +2947,7 @@
 ||experttraderchanel.com^
 ||exploit.in^
 ||explore.share.work.com^
+||express-mr.com^
 ||expressdeh.cfd^
 ||expressionu.com^
 ||expresswallet.pro^
@@ -4429,6 +4432,7 @@
 ||learn.lab.online^
 ||learningresourcealliance.vip^
 ||learningresourcealliances.vip^
+||leathey.com^
 ||ledger.connect.app^
 ||ledgerlock.io^
 ||ledsmdlight.com^
@@ -6653,6 +6657,7 @@
 ||shopa66.com^
 ||shopavs.store^
 ||shopbiggestdeals.com^
+||shopbm11.cc^
 ||shopbopafiliate.org^
 ||shopclickfr.store^
 ||shope1.a1finder.com^
@@ -7365,6 +7370,7 @@
 ||tldindia.online^
 ||tlklwruwbjekpxu.online^
 ||tllenmarketing.online^
+||tmallme.com^
 ||tme.st^
 ||tmgmoo.com^
 ||tmtnft.com^
