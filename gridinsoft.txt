@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.160100.2025
+! Version: 02.26.163615.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 16:01:00 UTC 2025
+! Last modified: Wed Feb 26 16:36:15 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8518
+! Number of entries: 8526
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -67,9 +67,15 @@
 ||1strivaincoinc.online^
 ||1woqab.top^
 ||1worldtraining.com^
+||1woysj.com^
 ||1wpoun.top^
+||1wqnaz.com^
+||1wqnyq.com^
 ||1wqydy.top^
 ||1wxxlb.com^
+||1wyoxf.com^
+||1wzdwc.com^
+||1wzjvm.top^
 ||1xbet.ci^
 ||1xbet.com^
 ||1xbetindapp.com^
@@ -5468,6 +5474,7 @@
 ||ohoho.info^
 ||ohye.info^
 ||oilai.cc^
+||oistateline.top^
 ||oiufds.com^
 ||ojrq.net^
 ||ok666.live^
@@ -7785,6 +7792,7 @@
 ||usapassportonline.org^
 ||usarmunukr.online^
 ||usasuppli.store^
+||usbmedia.pl^
 ||usd98.com^
 ||usdbmwmsport.cc^
 ||usdd.club^
