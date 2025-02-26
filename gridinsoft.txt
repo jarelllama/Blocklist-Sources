@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.193049.2025
+! Version: 02.26.200103.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 19:30:49 UTC 2025
+! Last modified: Wed Feb 26 20:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8545
+! Number of entries: 8547
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6007,6 +6007,7 @@
 ||profitsusd.com^
 ||profittrade.live^
 ||profitwithwifi.com^
+||profixtrade.com^
 ||profumeriearoma.com^
 ||programafullpc.com^
 ||proivestgrp.com^
@@ -6065,6 +6066,7 @@
 ||psera.nimprove.top^
 ||psicologiaencasa.online^
 ||psilochocolatebars.com^
+||psona.io^
 ||pspllly.top^
 ||psschool.edu.bd^
 ||psurbill.com^
