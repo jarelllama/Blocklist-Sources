@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.073051.2025
+! Version: 02.26.080101.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 07:30:51 UTC 2025
+! Last modified: Wed Feb 26 08:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8477
+! Number of entries: 8483
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2416,6 +2416,7 @@
 ||descorative.com^
 ||descubretesoro.com^
 ||desicinemas.to^
+||desicribe.com^
 ||designaten.com^
 ||desipin.com^
 ||desirebells.com^
@@ -4254,6 +4255,8 @@
 ||kesan888.com^
 ||kesngg.com^
 ||kesngl.com^
+||ketaminek.com^
+||ketshop.us^
 ||key.wrld.com^
 ||kfcweb3.com^
 ||kg11india.online^
@@ -6724,6 +6727,7 @@
 ||skillcrafttech.com^
 ||skilllynxw.top^
 ||skillmosaic.org^
+||skinport.com.es^
 ||skinport.com.kz^
 ||skinrave.gg^
 ||skirtvibez.com^
@@ -6825,6 +6829,7 @@
 ||solpension.co^
 ||solpick.io^
 ||solrand.com^
+||solrip.io^
 ||somolarlp.com^
 ||songreviewere.com^
 ||songreviewerww.com^
@@ -6838,6 +6843,7 @@
 ||soportestreaming.online^
 ||sortheda.com^
 ||sos.bg.sof.1.exo.io^
+||sosmedecin.store^
 ||soufeel.es^
 ||soundcoreindiawebsite.com^
 ||sourceas.com^
