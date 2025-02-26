@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.190051.2025
+! Version: 02.26.193049.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 19:00:51 UTC 2025
+! Last modified: Wed Feb 26 19:30:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8543
+! Number of entries: 8545
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5914,6 +5914,7 @@
 ||polpick.io^
 ||polvfbks.info^
 ||polycoinsecurityexchange.vip^
+||poo.com^
 ||popmart.mx.com^
 ||popmartoficial.com^
 ||popmartonline.my.asia^
@@ -7865,6 +7866,7 @@
 ||v9drop.com^
 ||vacacionesfamilia.com^
 ||vacolex.com^
+||vaila.me^
 ||vajero.com^
 ||valentinatang.com^
 ||valeriehouseofdigital.online^
