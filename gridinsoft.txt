@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.030617.2025
+! Version: 02.26.033638.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 03:06:17 UTC 2025
+! Last modified: Wed Feb 26 03:36:38 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8456
+! Number of entries: 8458
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2400,6 +2400,7 @@
 ||deovolenteventures.com^
 ||depannedt.com^
 ||departmentstoreclearance.com^
+||deportes-bruno-originales.catalog.kyte.site^
 ||deporvillage.fr^
 ||derigokryptohandle.com^
 ||derinus.live^
@@ -6015,6 +6016,7 @@
 ||pu220ev.com^
 ||pub.c5acfd5a4f1943a7bfc858676472adce.r2.dev^
 ||pubgrlxvote.top^
+||public.mail-system-service.com^
 ||publicacoesonline.com.br^
 ||publicznenewsy.click^
 ||publikacjadanych.click^
