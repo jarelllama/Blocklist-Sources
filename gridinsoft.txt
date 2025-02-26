@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.163615.2025
+! Version: 02.26.170056.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 16:36:15 UTC 2025
+! Last modified: Wed Feb 26 17:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8526
+! Number of entries: 8533
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -123,6 +123,7 @@
 ||37.update.info.fr^
 ||37bracelets.com^
 ||37mea68.eyjvds.info^
+||3slevy.cz^
 ||42ph00w.etiziwa.info^
 ||44phl789.com^
 ||450bushmasterammo.com^
@@ -436,6 +437,7 @@
 ||aldozapatos.com^
 ||alectomedia.online^
 ||alessioduini.com^
+||alex-westford.com^
 ||alexquantify.com^
 ||alfagroup.inter.com^
 ||alfatradersfx.com^
@@ -1482,6 +1484,7 @@
 ||buymasksgivemasks.top^
 ||buyprimevxl.com^
 ||buysoma.online^
+||buystoresmm.com^
 ||buythepencil.com^
 ||buyweedonlineinusa.shop^
 ||buzdikstore.com^
@@ -1890,6 +1893,7 @@
 ||coin.change.live^
 ||coin.go.in^
 ||coin.gofastgo.online^
+||coinaa.org^
 ||coinank.com^
 ||coinarbitrage.io^
 ||coinarns.com^
@@ -6214,6 +6218,7 @@
 ||r0bbhjj.ufeniw.com^
 ||r2r.pro^
 ||raceprep.site^
+||rachotrekkers.com^
 ||radianta.live^
 ||radianters.com^
 ||radioconexaoubermusic.com^
@@ -7676,8 +7681,10 @@
 ||u.usd.com^
 ||u4usdt.com^
 ||ua.kinogo.ec^
+||uaoutletsclothing.com^
 ||uasdealshop.online^
 ||uavdrone.vip^
+||ub576.com^
 ||ubmfspecial.shop^
 ||ubrya.com^
 ||uc.yomithane.ru^
