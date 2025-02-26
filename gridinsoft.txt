@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.120103.2025
+! Version: 02.26.124223.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 12:01:03 UTC 2025
+! Last modified: Wed Feb 26 12:42:23 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8506
+! Number of entries: 8507
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4754,6 +4754,7 @@
 ||mallprix.com^
 ||malltrabaho.online^
 ||mamafi.cc^
+||mammut-uk.com^
 ||manadapp.lol^
 ||mantraprint.in^
 ||manualsdirectory.org^
