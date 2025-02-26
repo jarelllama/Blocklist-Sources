@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.050057.2025
+! Version: 02.26.053316.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 05:00:57 UTC 2025
+! Last modified: Wed Feb 26 05:33:16 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8460
+! Number of entries: 8464
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2069,6 +2069,7 @@
 ||cryptallstars.online^
 ||cryptcrestltd.com^
 ||cryptex.to^
+||cryptgo.org^
 ||crypthach.com^
 ||cryptixi.com^
 ||cryptn.org^
@@ -2083,6 +2084,7 @@
 ||crypto.hold.com^
 ||crypto.miner.co^
 ||crypto.motorsports.com^
+||crypto.onl^
 ||crypto360talks.com^
 ||crypto4u.news^
 ||crypto5.news^
@@ -2113,6 +2115,7 @@
 ||cryptominingworld.shop^
 ||cryptomission.io^
 ||cryptoneerpro.com^
+||cryptoo.online^
 ||cryptoonchai.com^
 ||cryptoplace.site^
 ||cryptoplanetsx.net^
@@ -3692,6 +3695,7 @@
 ||haulw.com^
 ||havenstiendas.com^
 ||hayeswheel.com^
+||hayw.store^
 ||hba.la^
 ||hc1976.com^
 ||hco.bank.top^
