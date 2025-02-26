@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.083512.2025
+! Version: 02.26.090105.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 08:35:12 UTC 2025
+! Last modified: Wed Feb 26 09:01:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8485
+! Number of entries: 8487
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3168,6 +3168,7 @@
 ||fmovies.co^
 ||fmovies1.pw^
 ||fmw-human.vip^
+||focusglow.store^
 ||focusmarkets.com^
 ||fogeque.shop^
 ||fokatcash.in^
@@ -7551,6 +7552,7 @@
 ||trons.love^
 ||tronvortex.com^
 ||trophycase.cc^
+||troqainter.info^
 ||troyers.info^
 ||trqw.store^
 ||trucksontopgames.click^
