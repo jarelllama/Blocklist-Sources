@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.223329.2025
+! Version: 02.26.230100.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 22:33:29 UTC 2025
+! Last modified: Wed Feb 26 23:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8560
+! Number of entries: 8562
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1914,6 +1914,7 @@
 ||coinblast.com^
 ||coincrapex.com^
 ||coindcx.online^
+||coindexe.fx-inc.us^
 ||coinebc.com^
 ||coinesbit.com^
 ||coinexpressinv.com^
@@ -5108,6 +5109,7 @@
 ||moopey.com^
 ||mooplidee5.store^
 ||mopspartneronline.com^
+||moreultimateprofit.com^
 ||morganenergyph.com^
 ||mormark.eu^
 ||morulex.com^
