@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.063633.2025
+! Version: 02.26.070102.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 06:36:33 UTC 2025
+! Last modified: Wed Feb 26 07:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8468
+! Number of entries: 8471
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -637,6 +637,7 @@
 ||appdynamicstech.com^
 ||appengroupltd.com^
 ||appic.events^
+||appie.site^
 ||appj.online^
 ||appkong.store^
 ||appleusa.tk^
@@ -4511,6 +4512,7 @@
 ||linnios.com^
 ||linxbucks.net^
 ||linxiangyun.com^
+||linyimma.com^
 ||lipozem.web.shop^
 ||lipozemus.com^
 ||lippizapatillaes.shop^
@@ -5187,6 +5189,7 @@
 ||navyunhanded.com^
 ||nbysrhcvxzg.shop^
 ||nc.ph.2974.zerads.com^
+||ncard50.com^
 ||ncbofficielfr.com^
 ||ncvv.pro^
 ||ndamazon.com^
