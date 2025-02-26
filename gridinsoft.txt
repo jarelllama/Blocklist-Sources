@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.103455.2025
+! Version: 02.26.110101.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 10:34:55 UTC 2025
+! Last modified: Wed Feb 26 11:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8499
+! Number of entries: 8502
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5142,6 +5142,7 @@
 ||myaccount.enigmasoftware.com^
 ||myalphanexus.com^
 ||myamericanprizes3.com^
+||myassignmenthelp.com^
 ||mybewin.com^
 ||mybrightframe.com^
 ||mybtclogin.com^
@@ -6479,6 +6480,7 @@
 ||saiiuall.com^
 ||sakwesrealtors.com^
 ||salavi88.com^
+||sale.neonsvb.com^
 ||sale.oggi.com^
 ||sale.sviphsh.cn^
 ||salebeddingus.com^
@@ -8306,6 +8308,7 @@
 ||xetraders.com^
 ||xewios.com^
 ||xexdex.com^
+||xfcfo.com^
 ||xfnity.id8743.info^
 ||xfnwnw.com^
 ||xgame.usdt.com^
