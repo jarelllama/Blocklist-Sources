@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.26.133437.2025
+! Version: 02.26.140052.2025
 ! Expires: 30 minutes
-! Last modified: Wed Feb 26 13:34:37 UTC 2025
+! Last modified: Wed Feb 26 14:00:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8509
+! Number of entries: 8512
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1691,6 +1691,7 @@
 ||championhygienesolutions.co.ke^
 ||changeip.net^
 ||changelon.com^
+||chansflavor.com^
 ||chaparriexpeditions.com^
 ||charlinerat.com^
 ||charmcot.com^
@@ -6162,6 +6163,7 @@
 ||qshinglez.lol^
 ||qtvvcshop.com^
 ||qtwaieraxglobo.com^
+||qua-x.net^
 ||quality.cures.com^
 ||qualityfakeid.com^
 ||qualitynoteschange.com^
@@ -6660,6 +6662,7 @@
 ||shittt.store^
 ||shokexycexng.shop^
 ||shootloverstore.com^
+||shop-novara.com^
 ||shop-saver-now.com^
 ||shop.gamma.vip^
 ||shop.ledger.com^
