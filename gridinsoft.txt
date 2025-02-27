@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.230056.2025
+! Version: 02.27.233051.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 23:00:56 UTC 2025
+! Last modified: Thu Feb 27 23:30:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8688
+! Number of entries: 8691
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5736,6 +5736,7 @@
 ||otcpets.com^
 ||otherstoriessale.shop^
 ||otlnance.com^
+||ottoeu.com^
 ||ourcoincash.xyz^
 ||ourruless.store^
 ||oursportday.com^
@@ -6009,6 +6010,7 @@
 ||policja.pl112.online^
 ||policyautosave.com^
 ||polocase.com^
+||polosurchemise.com^
 ||polpick.io^
 ||polvfbks.info^
 ||polycoinsecurityexchange.vip^
@@ -6061,6 +6063,7 @@
 ||presentpros.today^
 ||prestige-finance-gold.com^
 ||prestigeprint.uk^
+||prestonwealthadvocates.com^
 ||presttan.shop^
 ||pretiboiy.com^
 ||prettyright.com^
