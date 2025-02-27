@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.170059.2025
+! Version: 02.27.173300.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 17:00:59 UTC 2025
+! Last modified: Thu Feb 27 17:33:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8649
+! Number of entries: 8653
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -357,6 +357,7 @@
 ||agilaclub3.com^
 ||agilecoingain.com^
 ||agonas.techubz.com^
+||agoneeinnovation.com^
 ||agoradrugstore.org^
 ||agribicerhansolutionsltd.net^
 ||agrocryptorealty.com^
@@ -556,6 +557,7 @@
 ||amp.pemuda138.com^
 ||ampay.su^
 ||amrrvip.com^
+||amthreadcollections.com^
 ||amuropay.biz^
 ||amyslamps.com^
 ||amysquishy.com^
@@ -1880,6 +1882,7 @@
 ||cloudns.info^
 ||cloudsoft.ae^
 ||cloudstream.pro^
+||cloudstshop.com^
 ||cloudyfitbyasmitha.com^
 ||cloverassets.org^
 ||cloverstone.ek.com^
@@ -2726,6 +2729,7 @@
 ||easun.energy.com^
 ||easy.earn.org^
 ||easybtc.mining.com^
+||easycap.online^
 ||easycryptoblog.com^
 ||easygloballtd.com^
 ||easymintminer.com^
