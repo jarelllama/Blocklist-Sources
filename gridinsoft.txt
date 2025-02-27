@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.004524.2025
+! Version: 02.27.012805.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 00:45:24 UTC 2025
+! Last modified: Thu Feb 27 01:28:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8569
+! Number of entries: 8573
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2621,6 +2621,7 @@
 ||dpd777.cc^
 ||dpe.gov.bd^
 ||dqaojspovuavms.shop^
+||dr6.biz^
 ||dragonfly.shop.com^
 ||drakar.one^
 ||draliko.com^
@@ -5135,6 +5136,7 @@
 ||mr.verify.net^
 ||mrandmrsfastsale.com^
 ||mrefractiont.lol^
+||mrgascarts.com^
 ||mrgasdisposableshop.com^
 ||ms.nordictrack.cc^
 ||mscfxtrader.com^
@@ -6391,6 +6393,7 @@
 ||revicorck.com^
 ||reviewsrecipes.com^
 ||revisnest.com^
+||revivedfx.com^
 ||revnest.online^
 ||revnroar.square.site^
 ||revoget.com^
@@ -7235,6 +7238,7 @@
 ||teachmecompliance.com^
 ||teaforteheaven.shop^
 ||teaserfast.ru^
+||tech2sky.com^
 ||techbehemoths.cc^
 ||techberry.online.com^
 ||techcertlabs.org^
