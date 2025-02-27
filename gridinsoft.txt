@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.153318.2025
+! Version: 02.27.160056.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 15:33:18 UTC 2025
+! Last modified: Thu Feb 27 16:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8641
+! Number of entries: 8642
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6019,6 +6019,7 @@
 ||premiumbankleyfx.com^
 ||premiumjewelrycenter.com^
 ||premiumsportshop.com^
+||prenvox.com^
 ||prepxi.com^
 ||prescienceai.xyz^
 ||presentpros.today^
