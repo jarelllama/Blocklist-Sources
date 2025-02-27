@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.100107.2025
+! Version: 02.27.103501.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 10:01:07 UTC 2025
+! Last modified: Thu Feb 27 10:35:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8620
+! Number of entries: 8624
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2934,6 +2934,7 @@
 ||ethjpn.com^
 ||etoro66.vip^
 ||eu-sezane.com^
+||eu.payback.com^
 ||eu.tamaris.com^
 ||eu.venum.shop^
 ||eudocsexpress.com^
@@ -4703,6 +4704,7 @@
 ||ltcming.pw^
 ||ltcpay.net^
 ||ltcxminer.pro^
+||ltetradingacademy.com^
 ||luatypticures.co.in^
 ||lucckky.com^
 ||luckizac.top^
@@ -6663,6 +6665,7 @@
 ||secure.logalty.com^
 ||secure.weltrade.com^
 ||securecryptorecovery.com^
+||secured-tb.com^
 ||secured.futurehopelimited.com^
 ||secured.triumphfx.com^
 ||securedalliances.com^
@@ -7692,6 +7695,7 @@
 ||trustcryptoprofit.com^
 ||trusted.paysbtc.com^
 ||trustedcrypsigfex.com^
+||trustedunity-bk.online^
 ||trustedvincheck.com^
 ||trustgreenfirm.live^
 ||trustlywealthfx.com^
