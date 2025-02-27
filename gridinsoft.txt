@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.073052.2025
+! Version: 02.27.080108.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 07:30:52 UTC 2025
+! Last modified: Thu Feb 27 08:01:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8611
+! Number of entries: 8615
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -771,6 +771,7 @@
 ||astroearning.site^
 ||astropayminer.com^
 ||asusboard.cn^
+||asxhkxkbnvhapyvtuqr.shop^
 ||ataash.com^
 ||atamedya.shop^
 ||ataraxonline.net^
@@ -902,6 +903,7 @@
 ||baominpower.com^
 ||bapes.com.mx^
 ||bar47menu.online^
+||barbabos.ubuy.com^
 ||barbouresp.com^
 ||barcelonaoutlets.shop^
 ||bargain-s.shop^
@@ -987,6 +989,7 @@
 ||berichinnvest1.com^
 ||bernaid.shop^
 ||bernardex.com^
+||bertaus.com^
 ||bervospace.com^
 ||besafetoday.top^
 ||beseenmarketing.online^
@@ -2701,6 +2704,7 @@
 ||eaglecrestonline.com^
 ||eaglepointx.org^
 ||eagletrade.in^
+||earn-pepe.com^
 ||earn.pepe.com^
 ||earnbitmoon.club^
 ||earnblocks.com^
