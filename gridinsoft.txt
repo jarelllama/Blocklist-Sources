@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.043456.2025
+! Version: 02.27.050051.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 04:34:56 UTC 2025
+! Last modified: Thu Feb 27 05:00:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8589
+! Number of entries: 8592
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3711,6 +3711,7 @@
 ||h5.xtraexpro.com^
 ||h5ufqm0.anusur.com^
 ||h75d0.ditjrp.cc^
+||haaldeninsure.com^
 ||habmentsell.shop^
 ||hacerlouin.com^
 ||hackthissite.org^
@@ -6816,6 +6817,7 @@
 ||skinport.com.kz^
 ||skinrave.gg^
 ||skirtvibez.com^
+||skirvelous.com^
 ||skokka.com^
 ||skresporti.shop^
 ||skyby.aviation.school.com^
@@ -7585,6 +7587,7 @@
 ||traihomphuoctaitho.com^
 ||trainydatagt.com^
 ||tramitedigitalfdcr.online^
+||tranding-blo.com^
 ||trangotech.xyz^
 ||transappltd.com^
 ||transsabiodetoro-sl.com^
