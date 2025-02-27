@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.210050.2025
+! Version: 02.27.213106.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 21:00:50 UTC 2025
+! Last modified: Thu Feb 27 21:31:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8674
+! Number of entries: 8678
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1165,6 +1165,7 @@
 ||bitdolphx.com^
 ||bitdouble.net^
 ||bitexmusk.com^
+||bitfarms.in^
 ||bitflexva.com^
 ||bitfnx.com^
 ||bitfufu.com^
@@ -3636,6 +3637,7 @@
 ||gomining.com^
 ||gonow.dbdefi.com^
 ||goo.su^
+||good2025.vip^
 ||goodcasino.ph^
 ||goodonee.com^
 ||goodoutweighs.top^
@@ -4242,6 +4244,7 @@
 ||jnjus.cc^
 ||jnjus.net^
 ||jnjus.vip^
+||jo-annfinalsale.com^
 ||jo-annonlinesale-us.com^
 ||jo-annsaleus.com^
 ||joannla.com^
@@ -7916,6 +7919,7 @@
 ||urbanwuff.store^
 ||urefie.net^
 ||ureka88.com^
+||url07.top^
 ||urlsing.com^
 ||us-en-zenearra.com^
 ||us.alpinestars.com^
