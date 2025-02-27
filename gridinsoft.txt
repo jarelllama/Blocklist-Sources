@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.120102.2025
+! Version: 02.27.124228.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 12:01:02 UTC 2025
+! Last modified: Thu Feb 27 12:42:28 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8630
+! Number of entries: 8632
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5616,6 +5616,7 @@
 ||onlineelectronics.store^
 ||onlineforeignexchangeplatform.icu^
 ||onlinegalaxus.net^
+||onlinejustice.com^
 ||onlinematpilates.com^
 ||onlinemedsguru.com^
 ||onlinemoneyloans860973.icu^
@@ -6721,6 +6722,7 @@
 ||sexfullmovies.mobi^
 ||sextoysindubai.com^
 ||sexyforums.com^
+||sezekogluk.com^
 ||sfardlanka.com^
 ||sflix.to^
 ||sfptrust.com^
