@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.200102.2025
+! Version: 02.27.203250.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 20:01:02 UTC 2025
+! Last modified: Thu Feb 27 20:32:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8669
+! Number of entries: 8671
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3529,6 +3529,7 @@
 ||gibraltarfbn.com^
 ||giemol.com^
 ||giftbasketonlines.com^
+||giftcodes.wtf^
 ||giftshining.com^
 ||gifttowallet.com^
 ||giftvalidator.com^
@@ -5286,6 +5287,7 @@
 ||n.nexfinance.org^
 ||n.pkup.fr^
 ||na01.safelinks.protection.outlook.com^
+||na1.online^
 ||naaeeoy.com^
 ||nadexweboption.com^
 ||naldoricketts.com^
