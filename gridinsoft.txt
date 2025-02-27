@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.133425.2025
+! Version: 02.27.140054.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 13:34:25 UTC 2025
+! Last modified: Thu Feb 27 14:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8634
+! Number of entries: 8637
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6040,6 +6040,7 @@
 ||primeminingexchange.net^
 ||primemoverexpress.online^
 ||primeoptimizer.com^
+||primeoptions.io^
 ||primeotp.com^
 ||primeplatform.online^
 ||primespath.com^
@@ -6537,6 +6538,7 @@
 ||rpmvape.com^
 ||rpnodes.tech^
 ||rrbob.com^
+||rrdm.ro^
 ||rroyaltyj.monster^
 ||rturd.com^
 ||rufiji.capital^
@@ -6748,6 +6750,7 @@
 ||shibaarmy.world^
 ||shibadino.xyz^
 ||shibahash.com^
+||shimanospain.com^
 ||shinelyjews.shop^
 ||shinobi.stickers.com^
 ||shionac.com^
