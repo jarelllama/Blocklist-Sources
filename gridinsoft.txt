@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.163616.2025
+! Version: 02.27.170059.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 16:36:16 UTC 2025
+! Last modified: Thu Feb 27 17:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8647
+! Number of entries: 8649
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5667,6 +5667,7 @@
 ||openseabids.io^
 ||openseabtc.com^
 ||opetap.com^
+||oporebioneotte.co.in^
 ||opportunity.freedom.com^
 ||optimalcapitalco.com^
 ||optimaldatabases.com^
@@ -6216,6 +6217,7 @@
 ||pynek.com^
 ||pyroheaven.com^
 ||pytamyozdanie.click^
+||pythonvisualizer.com^
 ||pzlcbshop.com^
 ||q.2nvu3.com^
 ||q.orlen.org.pl^
