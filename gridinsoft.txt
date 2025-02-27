@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.143406.2025
+! Version: 02.27.150056.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 14:34:06 UTC 2025
+! Last modified: Thu Feb 27 15:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8638
+! Number of entries: 8639
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -7015,6 +7015,7 @@
 ||sportsalpin.com^
 ||sportsdailydeals.com^
 ||sportsdirectdailydeals.shop^
+||sportstylesnow.com^
 ||sportzone3.com^
 ||spotifyinfo.app^
 ||spotifymode.com^
