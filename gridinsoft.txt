@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.220055.2025
+! Version: 02.27.223402.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 22:00:55 UTC 2025
+! Last modified: Thu Feb 27 22:34:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8680
+! Number of entries: 8685
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3145,6 +3145,7 @@
 ||filemoon.sx^
 ||fileplanet.com^
 ||files.fm^
+||filesfly.cc^
 ||filespayouts.com^
 ||filmai.in^
 ||filmesonline.blog^
@@ -3222,6 +3223,7 @@
 ||flhtbill.com^
 ||flibex.com^
 ||flightpath.vip.com^
+||flightscanada.flycheapestonline.com^
 ||flirt4free.com^
 ||flirtingplaza.com^
 ||floattrust.com^
@@ -4890,6 +4892,7 @@
 ||massive.recruitment.online^
 ||masteredgetrust.com^
 ||masterfulart.homes^
+||mastertalents.online^
 ||math2.online^
 ||matias.me^
 ||matrixbit.net^
@@ -6562,6 +6565,7 @@
 ||rosamondpurcell.com^
 ||rosea.co.uk^
 ||rosemelaine.com^
+||rosemet.com^
 ||rosrtle.com^
 ||roteschemies.de^
 ||roundyearfun.org^
@@ -8037,6 +8041,7 @@
 ||venarose.online^
 ||vendorbroz.com^
 ||venetianlace.com^
+||venixon.com^
 ||venotem.com^
 ||venotux.com^
 ||ventalor.com^
