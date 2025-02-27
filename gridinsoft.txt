@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.213106.2025
+! Version: 02.27.220055.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 21:31:06 UTC 2025
+! Last modified: Thu Feb 27 22:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8678
+! Number of entries: 8680
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5713,6 +5713,7 @@
 ||oregon-state-veterans.com^
 ||org.pay.9t03.cfd^
 ||organicextractstore.com^
+||orgarcd.com^
 ||origencapitalltd.com^
 ||originalneotvpro.com^
 ||orionbitmarket.online^
@@ -6327,6 +6328,7 @@
 ||qxbroker.com^
 ||r0bbhjj.ufeniw.com^
 ||r2r.pro^
+||ra2web.com^
 ||raceprep.site^
 ||rachotrekkers.com^
 ||radianta.live^
