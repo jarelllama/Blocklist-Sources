@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.173300.2025
+! Version: 02.27.180057.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 17:33:00 UTC 2025
+! Last modified: Thu Feb 27 18:00:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8653
+! Number of entries: 8656
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2328,6 +2328,7 @@
 ||ddc4shop.com^
 ||ddgwy.com^
 ||ddsteel.online^
+||de-lumelia.com^
 ||deacetrader.com^
 ||dealsavernow.com^
 ||dealzforu.pro^
@@ -2791,6 +2792,7 @@
 ||elabd.online^
 ||eldercity.xyz^
 ||electric.bike.deal.online^
+||electricgolfcartsusa.com^
 ||electronics.brand.com^
 ||eleganthush.com^
 ||elevateminer.com^
@@ -3000,6 +3002,7 @@
 ||exorbit.online^
 ||exoticdisposablecarts.com^
 ||exoticparrotpetstore.com^
+||exotradepoint.com^
 ||exouous.com^
 ||expand.experts.com^
 ||expert.coinasset.com^
