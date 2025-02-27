@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.063632.2025
+! Version: 02.27.070052.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 06:36:32 UTC 2025
+! Last modified: Thu Feb 27 07:00:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8600
+! Number of entries: 8606
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -182,6 +182,7 @@
 ||7k.casino.16.online^
 ||7l77vn.site^
 ||7starbet.com^
+||7uudk.com^
 ||80-25-dss.vip^
 ||80.25.buu.com^
 ||80.25.pcs.com^
@@ -646,6 +647,7 @@
 ||app.sparmall.vip^
 ||appanalytics.online^
 ||apparelbeach.com^
+||apparelmix.shop^
 ||appcodedark.com^
 ||appcorelink.com^
 ||appdevelopmenthouse.com^
@@ -1547,6 +1549,7 @@
 ||canadaposts.cc^
 ||canadatusso.com^
 ||canadianwealthtrust.com^
+||cancentra.net^
 ||cancerdecodedseries.com^
 ||canconsulting.in^
 ||candleyield.com^
@@ -4034,6 +4037,7 @@
 ||informathote.com^
 ||informed.deliveryghfgh.top^
 ||informed.deliveryqbnsk.top^
+||infosession.online^
 ||infpastinto.sbs^
 ||inglesvip.top^
 ||ingprep.com^
@@ -4929,6 +4933,7 @@
 ||mesicas.com^
 ||messiah777.com^
 ||met123.top^
+||meta-pro.space^
 ||meta.cafe.net^
 ||meta.pro.space^
 ||metafight.airdrop.com^
@@ -6019,6 +6024,7 @@
 ||primeotp.com^
 ||primeplatform.online^
 ||primespath.com^
+||primestoneglobal.com^
 ||primetransactltd.com^
 ||primetslatrading.com^
 ||primewire.tf^
