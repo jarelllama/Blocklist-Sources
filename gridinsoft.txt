@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.150056.2025
+! Version: 02.27.153318.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 15:00:56 UTC 2025
+! Last modified: Thu Feb 27 15:33:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8639
+! Number of entries: 8641
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2325,6 +2325,7 @@
 ||ddgwy.com^
 ||ddsteel.online^
 ||deacetrader.com^
+||dealsavernow.com^
 ||dealzforu.pro^
 ||deans.shoprite.online^
 ||deathance.com^
@@ -4018,7 +4019,6 @@
 ||imagiashop.com^
 ||imbictoz.com^
 ||imeinow.net^
-||img.mstarchain.com^
 ||immediate.daypro.co^
 ||immediateexalgoai.com^
 ||immediatepump.com^
@@ -5179,6 +5179,7 @@
 ||mscommerce.net^
 ||msdrop.com.ua^
 ||msscrypto.com^
+||mstarchain.com^
 ||mszzj.com^
 ||mteen.net^
 ||mtg08v1zr.com^
@@ -6504,6 +6505,7 @@
 ||rofblox.com^
 ||rogofodeputeburomi.shop^
 ||rohanrawool.com^
+||roidteam.shop^
 ||rojadirectvonline.com^
 ||rokinat.co.in^
 ||rolexetf.site^
