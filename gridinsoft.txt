@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.110100.2025
+! Version: 02.27.113051.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 11:01:00 UTC 2025
+! Last modified: Thu Feb 27 11:30:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8626
+! Number of entries: 8628
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -389,6 +389,7 @@
 ||aiinvesttron.com^
 ||aimbotfortnite.org^
 ||aimhaven.com^
+||aiminers.pro^
 ||aimining.top^
 ||aimpuzzle.shop^
 ||aimrents.com^
@@ -1157,6 +1158,7 @@
 ||bitdolphx.com^
 ||bitdouble.net^
 ||bitexmusk.com^
+||bitflexva.com^
 ||bitfnx.com^
 ||bitfufu.com^
 ||bitgainershub.com^
@@ -1865,7 +1867,6 @@
 ||closingclients.io^
 ||clothfashionmalls.com^
 ||clothingcrazysale.com^
-||cloud.aiminers.pro^
 ||cloud.mail.ru^
 ||cloud.mining.cc^
 ||cloud.vogelrain.hopto.org^
@@ -2609,6 +2610,7 @@
 ||doiquant.com^
 ||dolophin.com^
 ||dom.zalivov.sbs^
+||domestic-supply.com^
 ||domesticraws.com^
 ||dominatei.shop^
 ||dominiserver.com^
@@ -4182,6 +4184,7 @@
 ||jaraza.shop^
 ||javpay.net^
 ||jaysranchhamden.online^
+||jazzoni.com^
 ||jb.store.jp.com^
 ||jbei99.vip^
 ||jbnil.top^
@@ -7909,7 +7912,6 @@
 ||usefultoolpart.com^
 ||useproakira.com^
 ||usepxl8r.com^
-||user.aiminers.pro^
 ||user.ecosbitcoinmining.com^
 ||user.ecosminer.io^
 ||usermanualsonline.com^
