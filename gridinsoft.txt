@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.060052.2025
+! Version: 02.27.063632.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 06:00:52 UTC 2025
+! Last modified: Thu Feb 27 06:36:32 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8596
+! Number of entries: 8600
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2517,6 +2517,7 @@
 ||digitallanguagevault.com^
 ||digitalolive.shop^
 ||digitalsmartone.online^
+||digitalsultimate.com^
 ||digitalterra.org^
 ||digitalwebchain.xyz^
 ||digiterminator.online^
@@ -4770,6 +4771,7 @@
 ||magatrustfunds.com^
 ||magformersfyk.shop^
 ||magic4you.nu^
+||magna-fx.com^
 ||mahadev.id.online^
 ||mahakumbhhelicopterservice.online^
 ||mail.eu.linkedover.com^
@@ -5319,6 +5321,7 @@
 ||newlearning.icu^
 ||newlrra.online^
 ||newperseverance.shop^
+||newrgyintlmeimex.com^
 ||newrocksouthafrica.com^
 ||news.bbavuri.info^
 ||news.bfowago.cc^
@@ -5539,6 +5542,7 @@
 ||olux.to^
 ||omahabestdeals.com^
 ||omashaur.com^
+||ome1.vip^
 ||ometvporn.com^
 ||omgminer.vip^
 ||omgprice10.cc^
