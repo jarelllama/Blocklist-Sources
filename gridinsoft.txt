@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.203250.2025
+! Version: 02.27.210050.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 20:32:50 UTC 2025
+! Last modified: Thu Feb 27 21:00:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8671
+! Number of entries: 8674
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5078,6 +5078,7 @@
 ||mirai123.online^
 ||miravia.es^
 ||mischievousflirt.com^
+||mispay.in^
 ||missav.cam^
 ||misterlamp.de^
 ||mistoleo.com^
@@ -6825,6 +6826,7 @@
 ||shopterralotus.com^
 ||shoptrend.cloud^
 ||shopwithpulse.store^
+||shorteners.net^
 ||shorter.gg^
 ||shorturl.at^
 ||shothues.com^
@@ -7009,6 +7011,7 @@
 ||sourl.cn^
 ||southafricalotto.co.za^
 ||sovereigngoldengate.com^
+||sowask.com^
 ||sp500.cc^
 ||spacecminec.com^
 ||spacecoinageminecryps.com^
