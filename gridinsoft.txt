@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.183636.2025
+! Version: 02.27.190050.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 18:36:36 UTC 2025
+! Last modified: Thu Feb 27 19:00:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8658
+! Number of entries: 8665
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -452,6 +452,7 @@
 ||algainhouse.com^
 ||algopro.us^
 ||alianzashop.com^
+||alibaba8.com^
 ||alidropnuig.com^
 ||aliex.proxy.robot.shop^
 ||aliquotes.online^
@@ -822,6 +823,7 @@
 ||autlook.org^
 ||autlook.pro^
 ||auto.downloads.com^
+||autocurrantsignal24.live^
 ||autodatainspection.com^
 ||autoequipmentus.com^
 ||autofaucet.dutchycorp.space^
@@ -931,6 +933,7 @@
 ||basicoavenue.top^
 ||basilux.co^
 ||basithjewellerspvtltd.com^
+||basketspark.com^
 ||bassonlineca.com^
 ||bassslots1bonanza.com^
 ||basswin.org.uk^
@@ -1744,6 +1747,7 @@
 ||chatgpt.1.xyz^
 ||chatgpt4devs.com^
 ||chatgpt4login.com^
+||chatgpt5.uno^
 ||chatlink.wchatlink.com^
 ||chatterediban.com^
 ||chawkyfrenn.com^
@@ -2086,6 +2090,7 @@
 ||cpasbien.zip^
 ||cps.cirroparcel.com^
 ||cqcb.com^
+||cqzgzetfzwvaeo.shop^
 ||cqzywhisper.shop^
 ||cr.brands.net^
 ||crackfaqs.com^
@@ -2171,6 +2176,7 @@
 ||cryptominingworld.shop^
 ||cryptomission.io^
 ||cryptoneerpro.com^
+||cryptoo.cc^
 ||cryptoo.online^
 ||cryptoof.com^
 ||cryptoonchai.com^
@@ -6189,6 +6195,7 @@
 ||puravive.net^
 ||purbat.com^
 ||pure.neuro.info^
+||purechemsworld.com^
 ||puregoodsfy.com^
 ||pureland.sbs^
 ||purestylesz.com^
