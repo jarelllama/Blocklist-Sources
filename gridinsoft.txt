@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.040104.2025
+! Version: 02.27.043456.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 04:01:04 UTC 2025
+! Last modified: Thu Feb 27 04:34:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8584
+! Number of entries: 8589
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4362,6 +4362,7 @@
 ||kloomba.com^
 ||klowin.com^
 ||klowroporh.com^
+||kmovies.top^
 ||kmspico.ltd^
 ||kndr.digital^
 ||knifebeststore.com^
@@ -4886,6 +4887,7 @@
 ||medistorehub.com^
 ||medixway.com^
 ||mednakit.com^
+||medzguru.store^
 ||meerai.io^
 ||mega.easy.prize.pro^
 ||megaflix.co^
@@ -5845,6 +5847,7 @@
 ||phillipa.online^
 ||phjlplus668.cc^
 ||phlruby.club^
+||phoenxs.com^
 ||phonetopups.com^
 ||photographingge.com^
 ||photoviewave.com^
@@ -6772,6 +6775,7 @@
 ||silegx.org^
 ||silentun.com^
 ||silverlinktechnologies.com^
+||silverlite-fundings.com^
 ||silverstone.ltd.com^
 ||silverstonebank.org^
 ||silviicia.com^
@@ -6997,6 +7001,7 @@
 ||sstee247.shop^
 ||st.george.spray.tans.square.site^
 ||stablest.shop^
+||staemcommumnittly.com^
 ||staemcommunnuty.com^
 ||staemcomnunnity.com^
 ||staemcomunitly.com^
