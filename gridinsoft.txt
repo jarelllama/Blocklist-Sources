@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.012805.2025
+! Version: 02.27.020333.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 01:28:05 UTC 2025
+! Last modified: Thu Feb 27 02:03:33 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8573
+! Number of entries: 8575
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -7910,6 +7910,7 @@
 ||vanmassstore.com^
 ||vantique.net^
 ||varidhirathore.github.io^
+||varnashop.com^
 ||vashiser.com^
 ||vasttrade.investments.org^
 ||vaultedvision.com^
@@ -8567,6 +8568,7 @@
 ||zoxtrade.com^
 ||zozo.worldsnow.com^
 ||zrtould.com^
+||zshopp.com^
 ||zthydedgeene.com^
 ||ztmining.com^
 ||ztudim.work.top^
