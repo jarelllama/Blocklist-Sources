@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.024537.2025
+! Version: 02.27.030711.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 02:45:37 UTC 2025
+! Last modified: Thu Feb 27 03:07:11 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8575
+! Number of entries: 8580
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2036,6 +2036,7 @@
 ||cosometaldetector.com^
 ||cosr.malssfw.org^
 ||costexcorporation.com^
+||costoconline.com^
 ||cosycustume.com^
 ||cotease.com^
 ||cotizadorsoat.segurosdelestado.com^
@@ -2485,6 +2486,7 @@
 ||dgenct.com^
 ||dghv.store^
 ||dhlmall.vip^
+||diajolys.com^
 ||diamantemcb.us^
 ||diamondjack.top^
 ||dianemartinez.shop^
@@ -3624,6 +3626,7 @@
 ||gpuking.org^
 ||grabpoints.com^
 ||graceiful.com^
+||gradepips.com^
 ||graftonoakwood.com^
 ||grandhealthonline.com^
 ||grandura.shop^
@@ -7878,6 +7881,7 @@
 ||ustemik.co.in^
 ||ustherealreal.com^
 ||ustoday24h.com^
+||ustreamiptv.com^
 ||utens360.com^
 ||utsny.com^
 ||utsoease.com^
@@ -8546,6 +8550,7 @@
 ||zielbioinc.com^
 ||zimasilkt.com^
 ||zimtrades.com^
+||zinacams.ru^
 ||zinoxt.net^
 ||ziprecruiter.com^
 ||zjj.jh.com^
