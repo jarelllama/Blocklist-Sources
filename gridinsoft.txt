@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.160056.2025
+! Version: 02.27.163616.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 16:00:56 UTC 2025
+! Last modified: Thu Feb 27 16:36:16 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8642
+! Number of entries: 8647
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1461,6 +1461,7 @@
 ||buchesdefrance.com^
 ||budcloud.de^
 ||buddyenid.com^
+||budgetaccountmanager.com^
 ||bueenotgay.duckdns.org^
 ||buenomarket.store^
 ||buff.163cd.com^
@@ -2963,6 +2964,7 @@
 ||event.spacex.net^
 ||event.thedefiant.io^
 ||eventscodm.com^
+||evergreen-botanicals.com^
 ||evericsedge.com^
 ||everlastingluck.co.uk^
 ||everyderma.com^
@@ -3004,6 +3006,7 @@
 ||explore.share.work.com^
 ||express-mr.com^
 ||expressdeh.cfd^
+||expresshighsdirect.com^
 ||expressionu.com^
 ||expresswallet.pro^
 ||extrapyro.com^
@@ -3971,6 +3974,7 @@
 ||hxnkqn.shop^
 ||hxsc.store^
 ||hxxokerase.fyi^
+||hypebox-brand.com^
 ||hyperbit.biz^
 ||hyperbot.fun^
 ||hyph666.win^
@@ -5873,6 +5877,7 @@
 ||pfxnft.com^
 ||pg77.game^
 ||pgfff8trk.com^
+||ph-samsung.online^
 ||phamcore.com^
 ||pharmabol.com^
 ||pharmacy1990.com^
