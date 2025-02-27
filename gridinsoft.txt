@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.030711.2025
+! Version: 02.27.033636.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 03:07:11 UTC 2025
+! Last modified: Thu Feb 27 03:36:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8580
+! Number of entries: 8581
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1833,6 +1833,7 @@
 ||clickmhtwages.buzz^
 ||clickmiqwages.buzz^
 ||clickppuwages.buzz^
+||clicksdealer.com^
 ||clickwages.buzz^
 ||clickwfzwages.buzz^
 ||clickyfwprize.buzz^
