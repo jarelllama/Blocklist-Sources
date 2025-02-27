@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.033636.2025
+! Version: 02.27.040104.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 03:36:36 UTC 2025
+! Last modified: Thu Feb 27 04:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8581
+! Number of entries: 8584
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -375,6 +375,7 @@
 ||ai5crypto.com^
 ||aibtcapp1.com^
 ||aicelebrity.live^
+||aicontracthub.com^
 ||aicryptofinancepro.com^
 ||aicryptotradings.com^
 ||aicryptozone.com^
@@ -4196,6 +4197,7 @@
 ||jnjus.net^
 ||jnjus.vip^
 ||jo-annonlinesale-us.com^
+||jo-annsaleus.com^
 ||joannla.com^
 ||joanonline.shop^
 ||jobeazi.com^
@@ -4396,6 +4398,7 @@
 ||kresbit.com^
 ||krestiveness.lol^
 ||krnl.in^
+||krofinanceltd.org^
 ||krossify.com^
 ||krpod.com^
 ||krylonor.com^
