@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.083528.2025
+! Version: 02.27.090102.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 08:35:28 UTC 2025
+! Last modified: Thu Feb 27 09:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8618
+! Number of entries: 8619
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -7841,6 +7841,7 @@
 ||unvaulted.coomer.party^
 ||unveriumenflue.com^
 ||unylavc.com^
+||uojclearance.shop^
 ||up999999.com^
 ||upayy.online^
 ||upb.edu.co^
