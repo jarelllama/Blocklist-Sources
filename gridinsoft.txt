@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.080108.2025
+! Version: 02.27.083528.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 08:01:08 UTC 2025
+! Last modified: Thu Feb 27 08:35:28 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8615
+! Number of entries: 8618
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -777,6 +777,8 @@
 ||ataraxonline.net^
 ||atb14.com^
 ||atb15.com^
+||atbottacademy.in^
+||ateliersmits.be^
 ||atheemart.top^
 ||athenafinanceltd.in^
 ||athna.su^
@@ -3062,6 +3064,7 @@
 ||fastlovestore.sbs^
 ||fastminingpro.com^
 ||fastnetworks.xyz^
+||fastrecoverysolution.net^
 ||fastshare.cloud^
 ||fastswap.one^
 ||fastukpharmacy.com^
