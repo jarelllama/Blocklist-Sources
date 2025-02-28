@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.190058.2025
+! Version: 02.28.193052.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 19:00:58 UTC 2025
+! Last modified: Fri Feb 28 19:30:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8828
+! Number of entries: 8832
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -506,6 +506,7 @@
 ||alphamarketoption.org^
 ||alpinefemme.com^
 ||alpinestars.vip.com^
+||alpinestone-wealth.com^
 ||alppouchh.com^
 ||altadefinizione01.lat^
 ||altadefinizione01.photo^
@@ -2451,6 +2452,7 @@
 ||deepseektrump.xyz^
 ||deepseekvschatgpt.xyz^
 ||deepspectre.com^
+||deepurse.org^
 ||deepweb.fixedmatches.com^
 ||defashionette.xyz^
 ||defense-keychain.com^
@@ -7298,6 +7300,7 @@
 ||stronsag.live^
 ||stroyblock.online^
 ||strugdex.fun^
+||strznow.com^
 ||stubitaly.com^
 ||stuncreditfb.com^
 ||stupidus.top^
@@ -8046,6 +8049,7 @@
 ||upshoparg.com^
 ||upstinatolos.com^
 ||upsurge-capital.org^
+||urbanlifestylestore.shop^
 ||urbantapes.com^
 ||urbanwuff.store^
 ||urefie.net^
