@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.024552.2025
+! Version: 02.28.030730.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 02:45:52 UTC 2025
+! Last modified: Fri Feb 28 03:07:30 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8706
+! Number of entries: 8711
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1008,6 +1008,7 @@
 ||best.outdoor.gear.com^
 ||best4youu.info^
 ||bestarezzo.shop^
+||bestb2kresearch.com^
 ||bestbhuy.com^
 ||bestbiccle.shop^
 ||bestboy.vip^
@@ -1514,6 +1515,7 @@
 ||buydecorhome.com^
 ||buygoods.com^
 ||buymasksgivemasks.top^
+||buymethcanberra.com^
 ||buyprimevxl.com^
 ||buysoma.online^
 ||buystoresmm.com^
@@ -3564,6 +3566,7 @@
 ||globalaro.digitaladvanced.com^
 ||globalbusinesspays.com^
 ||globalcapitalista.com^
+||globalcocainecanada.ca^
 ||globaldocs.online.com^
 ||globalfinaltd.com^
 ||globalflashco.com^
@@ -3714,6 +3717,7 @@
 ||grunsguru.com^
 ||grupohersa.org^
 ||gryphon.trx.com^
+||gryvonix.com^
 ||gs.zbzy.cc^
 ||gsdfre.live^
 ||gsoporific.monster^
@@ -7650,6 +7654,7 @@
 ||trade-lion.io^
 ||trade-pool.com^
 ||trade.definity.co^
+||trade.eightcap.com^
 ||trade.emeraltrade.com^
 ||trade2swap.com^
 ||tradecg.company.info^
