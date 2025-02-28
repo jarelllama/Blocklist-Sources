@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.012754.2025
+! Version: 02.28.020345.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 01:27:54 UTC 2025
+! Last modified: Fri Feb 28 02:03:45 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8703
+! Number of entries: 8704
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2675,6 +2675,7 @@
 ||drholding.ag.com^
 ||driftwrk.shop^
 ||dripcenters.com^
+||dripfeets.com^
 ||driveridentifier.com^
 ||driverless.pro^
 ||driverpack.io^
