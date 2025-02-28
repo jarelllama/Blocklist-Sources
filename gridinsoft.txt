@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.27.233051.2025
+! Version: 02.28.000148.2025
 ! Expires: 30 minutes
-! Last modified: Thu Feb 27 23:30:51 UTC 2025
+! Last modified: Fri Feb 28 00:01:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8691
+! Number of entries: 8695
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3619,6 +3619,7 @@
 ||golddex.web3.net^
 ||golden.lucky.com^
 ||goldenaxisllc.com^
+||goldenbridge-cruit.online^
 ||goldengooseselect.com^
 ||goldengoosetgreece.cc^
 ||goldenpremiumfx.online^
@@ -4349,6 +4350,7 @@
 ||kefu.swapbit.top^
 ||kelansu.com^
 ||ken.exmax.com^
+||kennp.com^
 ||kenton.vip^
 ||keralamudraloan.in^
 ||kerasmining.one^
@@ -5662,6 +5664,7 @@
 ||onlinepromotionsusa.com^
 ||onlineproptrading.com^
 ||onlinesafetybase.com^
+||onlinesecurebilling.com^
 ||onlinesevafine.com^
 ||onlineshopleader.com^
 ||onlinessyodobashis.cc^
@@ -8036,6 +8039,7 @@
 ||veezpass.com^
 ||vegobit.com^
 ||vehiclevinstickers.com^
+||velantra.store^
 ||velari.nl^
 ||veldainty.com^
 ||velivyne.com^
