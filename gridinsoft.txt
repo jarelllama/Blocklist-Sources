@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.200102.2025
+! Version: 02.28.203240.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 20:01:02 UTC 2025
+! Last modified: Fri Feb 28 20:32:40 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8834
+! Number of entries: 8840
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2371,6 +2371,7 @@
 ||dbmsurvey.com^
 ||dbscig.com^
 ||dcard50.ru^
+||dcaspot.com^
 ||dcodesnippet.com^
 ||dcqww.com^
 ||ddbminer.com^
@@ -2997,6 +2998,7 @@
 ||etdase.com^
 ||eterminal.net^
 ||eterni.click^
+||etherealx.cn^
 ||ethereum.defi.vip^
 ||ethereum.smart.com^
 ||ethjpn.com^
@@ -3642,6 +3644,7 @@
 ||glod.usdeth.top^
 ||glomaes.congo.com^
 ||glothkom.de^
+||glowingskinnow.com^
 ||glowpast.com^
 ||glowywill.com^
 ||glubit.shop^
@@ -4317,6 +4320,7 @@
 ||jo-annonlinesale-us.com^
 ||jo-annsaleus.com^
 ||joannla.com^
+||joannoverstock.com^
 ||joanonline.shop^
 ||jobeazi.com^
 ||jobetoys.com^
@@ -5697,6 +5701,7 @@
 ||omgminer.vip^
 ||omgprice10.cc^
 ||omnis.trade.com^
+||on-line-tk.top^
 ||on.mx.com^
 ||on.shoes.uae.com^
 ||onboots.com.co^
@@ -7505,6 +7510,7 @@
 ||teslaproinvestment.com^
 ||teslaspacexelon.com^
 ||tesolarhubs.buzz^
+||tessos.shop^
 ||test.aspwyvsj.com^
 ||testorush.eu^
 ||testtokenwins.vip^
