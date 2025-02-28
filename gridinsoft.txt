@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.124217.2025
+! Version: 02.28.130546.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 12:42:17 UTC 2025
+! Last modified: Fri Feb 28 13:05:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8780
+! Number of entries: 8783
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1719,6 +1719,7 @@
 ||celium.arbitrage.com^
 ||cencomall.org^
 ||cendyngroup.com^
+||cenorim.com^
 ||cenotor.com^
 ||cenovus.life^
 ||centercontact.top^
@@ -2849,6 +2850,7 @@
 ||elkkoreainsurance.com^
 ||elkriverwealth.com^
 ||ellamode.nl^
+||elle-melbourne.com^
 ||elleynur.com^
 ||elluminex.com^
 ||elmoerc.com^
@@ -5821,6 +5823,7 @@
 ||oxredo.com^
 ||oxylersess.co.in^
 ||oziotrader.com^
+||ozvapeshops.com^
 ||p000.ph^
 ||p2btradehubx.info^
 ||paatoais.com^
