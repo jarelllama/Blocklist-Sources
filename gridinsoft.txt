@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.000148.2025
+! Version: 02.28.004524.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 00:01:48 UTC 2025
+! Last modified: Fri Feb 28 00:45:24 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8695
+! Number of entries: 8698
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1332,6 +1332,7 @@
 ||bognerztte.shop^
 ||bogrit.com^
 ||bohemianplus.com^
+||bokepindoh.today^
 ||bolderloft.nl^
 ||bonanza.usdt.com^
 ||bondicurls.com^
@@ -6626,6 +6627,7 @@
 ||safehavenbancshares.online^
 ||safemedistore.com^
 ||safeunlocks.com^
+||safewealth-holdings.com^
 ||safewealth.holdings.com^
 ||sag.quantify.com^
 ||sagkjsd.com^
@@ -8644,6 +8646,7 @@
 ||zenoex.com^
 ||zentivawellness.com^
 ||zentrade.org^
+||zenxvape.com^
 ||zephyrcloset.com^
 ||zero-faucet.com^
 ||zero.faucet.com^
