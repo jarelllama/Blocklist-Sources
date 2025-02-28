@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.223328.2025
+! Version: 02.28.230050.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 22:33:28 UTC 2025
+! Last modified: Fri Feb 28 23:00:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8865
+! Number of entries: 8867
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2127,6 +2127,7 @@
 ||cowboycoutureshop.com^
 ||cowboyfashionstore.com^
 ||cowboysbusy.online^
+||cowcare.online^
 ||cozyarn.com^
 ||cozycoatl.shop^
 ||cozyfash.shop^
@@ -8422,6 +8423,7 @@
 ||web.cotiplus.top^
 ||web.debank.netlify.app^
 ||web.nnleas.top^
+||web.orionstars.org^
 ||web.rhino.org^
 ||web3.coinbasewallet.top^
 ||web3.gpt.blog^
