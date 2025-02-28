@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.073047.2025
+! Version: 02.28.080056.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 07:30:47 UTC 2025
+! Last modified: Fri Feb 28 08:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8745
+! Number of entries: 8748
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1239,6 +1239,7 @@
 ||bittrsecur.top^
 ||bitunix.com^
 ||bitusdt.biz^
+||bitvino.com^
 ||bitvipenuss.com^
 ||bitvq.com^
 ||bitwe.org^
@@ -4882,6 +4883,7 @@
 ||mamafi.cc^
 ||mammut-uk.com^
 ||manadapp.lol^
+||manchesterfinanceltd.com^
 ||mantraprint.in^
 ||manualsdirectory.org^
 ||manualslibrary.co^
@@ -7088,6 +7090,7 @@
 ||spectrotel.billcenter.net^
 ||spectrumsbaloans.com^
 ||speedii.shop^
+||speedyhealth.com^
 ||speedyracer.com^
 ||sphadsworld.com^
 ||spiegel.de^
