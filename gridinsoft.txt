@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.183621.2025
+! Version: 02.28.190058.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 18:36:21 UTC 2025
+! Last modified: Fri Feb 28 19:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8825
+! Number of entries: 8828
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4524,6 +4524,7 @@
 ||krylonor.com^
 ||kryptopia.org^
 ||kryptos.io^
+||kryptovaultassets.com^
 ||ksda.online.org^
 ||ksxsg.com^
 ||ktxt.net^
@@ -5111,6 +5112,7 @@
 ||miespe.espe.edu.ec^
 ||migflash.net^
 ||mightycleansolutions.com^
+||mightygodmining.com^
 ||mightypol.com^
 ||migraine.massage.service.988.online^
 ||migration.dioneprotocol.pages.dev^
@@ -8456,6 +8458,7 @@
 ||wholesalemall.ru^
 ||whoopyrewards.com^
 ||whop.com^
+||whouphesaussums.net^
 ||whubaesingotbrewer.com^
 ||whycrystall.com^
 ||wiaa.in^
