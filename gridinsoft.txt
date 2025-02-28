@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.213049.2025
+! Version: 02.28.220047.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 21:30:49 UTC 2025
+! Last modified: Fri Feb 28 22:00:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8852
+! Number of entries: 8861
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -60,6 +60,7 @@
 ||1800rxonline.com^
 ||190724.com^
 ||19www.vivetuaventurasinlimitespromo.com^
+||1betmax.com^
 ||1fuel.live^
 ||1jili.games^
 ||1movierulzhd.my^
@@ -111,6 +112,7 @@
 ||2mbet.link^
 ||2net.co.il^
 ||2nzy.com^
+||2paisa.co^
 ||2rcorretora.site^
 ||30883t.com^
 ||30883u.com^
@@ -2762,6 +2764,7 @@
 ||dutchstorebv.nl^
 ||dvancedco.biz^
 ||dvdsociety.shop^
+||dxcthey.com^
 ||dyetui.com^
 ||dysb.store^
 ||dystarwears.com^
@@ -2958,6 +2961,7 @@
 ||eplxt.com^
 ||epoiu.com^
 ||epulsive.com^
+||eqomplace.com^
 ||equallyto.com^
 ||equistak.com^
 ||equitradecf.com^
@@ -4542,6 +4546,7 @@
 ||kryptovaultassets.com^
 ||ksda.online.org^
 ||ksxsg.com^
+||ktwallet02.com^
 ||ktxt.net^
 ||kuailuon.com^
 ||kubabuy.com^
@@ -4550,6 +4555,7 @@
 ||kuiesd.com^
 ||kuiuonsale.com^
 ||kuka.ninja^
+||kukaj.in^
 ||kukrosti.com^
 ||kulken.com^
 ||kunbestsk.best^
@@ -6714,6 +6720,7 @@
 ||rumadining.com^
 ||rumaxtech.com^
 ||ruopors.co.in^
+||rurocworld.com^
 ||russesale.shop^
 ||rust.bet.com^
 ||rustsnest.com^
@@ -6901,6 +6908,7 @@
 ||sfardlanka.com^
 ||sflix.to^
 ||sfptrust.com^
+||sfsale.com^
 ||sftboww.com^
 ||sgtbill.com^
 ||sgtcv.com^
@@ -7808,6 +7816,7 @@
 ||tradingsoros.com^
 ||tradion.cyou^
 ||tradiso.com^
+||traditionalg.com^
 ||tradix.cc^
 ||trafficshield.xyz^
 ||traffictrack.online^
