@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.060056.2025
+! Version: 02.28.063624.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 06:00:56 UTC 2025
+! Last modified: Fri Feb 28 06:36:24 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8730
+! Number of entries: 8736
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1285,6 +1285,7 @@
 ||blockera.online^
 ||blockmetal.ltd^
 ||blockskipad.com^
+||blockstreamsmining.com^
 ||blockwillchain.online^
 ||blofinm.com^
 ||blofinm2.com^
@@ -4472,6 +4473,7 @@
 ||krossify.com^
 ||krpod.com^
 ||krylonor.com^
+||kryptopia.org^
 ||kryptos.io^
 ||ksda.online.org^
 ||ksxsg.com^
@@ -4957,6 +4959,7 @@
 ||medaratradingbv.com^
 ||media.io^
 ||mediamartk.xyz^
+||mediarecoverytech.live^
 ||medicorners.com^
 ||medipirol.com^
 ||medistorehub.com^
@@ -6718,6 +6721,7 @@
 ||sciaticnerve.treatment.16.online^
 ||sclongteng.com^
 ||scorpiotaurusleofire.top^
+||scouted-today.me^
 ||screy.pro^
 ||scubaprosale.us.shop^
 ||scuffersespanatienda.com^
@@ -8046,6 +8050,7 @@
 ||valeriehouseofdigital.online^
 ||validatemypimainnetwallet.online^
 ||valises.stopepa.org^
+||valofix.net^
 ||valtenz.top^
 ||valuefirm.us^
 ||valueinvestingcollective.com^
@@ -8122,6 +8127,7 @@
 ||vibarstore.com^
 ||vibegal.com^
 ||vibekickz.company.site^
+||vibenests.co^
 ||vibyage.com^
 ||viceoriassccet.com^
 ||vickyclaim.online^
