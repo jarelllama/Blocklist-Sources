@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.170101.2025
+! Version: 02.28.173233.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 17:01:01 UTC 2025
+! Last modified: Fri Feb 28 17:32:33 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8809
+! Number of entries: 8813
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -535,7 +535,10 @@
 ||amazingfindsonline.com^
 ||amazingsoulpeace.shop^
 ||amaznmarket.shop^
+||amazo.site^
 ||amazol.biz^
+||amazol.co^
+||amazom.fun^
 ||amazonsellersappeal.com^
 ||amazonstorepro.com^
 ||amazun.sbs^
@@ -1283,6 +1286,7 @@
 ||blaena.com^
 ||blast.tv.org^
 ||blazecasin.com^
+||blendthreads.shop^
 ||blimgit.shop^
 ||blingdresses.com^
 ||blinghair.com^
