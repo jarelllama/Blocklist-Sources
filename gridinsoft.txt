@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.043459.2025
+! Version: 02.28.050055.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 04:34:59 UTC 2025
+! Last modified: Fri Feb 28 05:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8721
+! Number of entries: 8726
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -584,6 +584,7 @@
 ||angelstyledamen.com^
 ||angiebreitschwerdt.shop^
 ||angiechew.online^
+||animalcourses.co.uk^
 ||animvip.com^
 ||ankr.top^
 ||annafieldshops.fr^
@@ -3647,6 +3648,7 @@
 ||golfevip.shop^
 ||golfwangdk.com^
 ||gomafrausa.com^
+||gomhero.com^
 ||gominer.net^
 ||gomining.com^
 ||gonow.dbdefi.com^
@@ -3820,6 +3822,7 @@
 ||healthessencial.com^
 ||healthproductspro.com^
 ||healthtimers.com^
+||healthwellbeingplace.online^
 ||healthwellonline.online^
 ||healthybodynow.net^
 ||heartlandstandardbk.com^
@@ -5256,6 +5259,7 @@
 ||musicgearexperts.com^
 ||musicinstrumentsupply.com^
 ||muskhere.org^
+||musknow.org^
 ||muskratmarinesstingeras.pro^
 ||mustangautopartsshop.com^
 ||muvtea.com^
@@ -5915,6 +5919,7 @@
 ||permblox.com^
 ||personalizedgiftsonlineboutique.click^
 ||personalloans30096.online^
+||pesa-app.co.ke^
 ||pesaksh.org^
 ||pesdnfeje.shop^
 ||pesktop.com^
