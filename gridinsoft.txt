@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.020345.2025
+! Version: 02.28.024552.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 02:03:45 UTC 2025
+! Last modified: Fri Feb 28 02:45:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8704
+! Number of entries: 8706
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4070,6 +4070,7 @@
 ||income.access.com^
 ||ind.888.site^
 ||indaywatch.store^
+||indelly.com^
 ||indianclub01.pro^
 ||indiapostkz.vip^
 ||individuak.com^
@@ -8638,6 +8639,7 @@
 ||zcsmw.com^
 ||zdigitalagencymt.cc^
 ||zdwlx.com^
+||zebg.top^
 ||zedger.net^
 ||zeharris.online^
 ||zelamex.com^
