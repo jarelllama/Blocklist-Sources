@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.193052.2025
+! Version: 02.28.200102.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 19:30:52 UTC 2025
+! Last modified: Fri Feb 28 20:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8832
+! Number of entries: 8834
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1261,6 +1261,7 @@
 ||bittrsecur.top^
 ||bitunix.com^
 ||bitusdt.biz^
+||bitvictz.com^
 ||bitvino.com^
 ||bitvipenuss.com^
 ||bitvq.com^
@@ -2147,6 +2148,7 @@
 ||creneau.mondial.relay.2025.com^
 ||creodeapps.com^
 ||creofing.com^
+||creselfundslimited.com^
 ||cresolix.com^
 ||crestfargo.com^
 ||crestprofits.com^
