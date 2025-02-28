@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.220047.2025
+! Version: 02.28.223328.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 22:00:47 UTC 2025
+! Last modified: Fri Feb 28 22:33:28 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8861
+! Number of entries: 8865
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -371,6 +371,7 @@
 ||agribicerhansolutionsltd.net^
 ||agrocryptorealty.com^
 ||agrozenith.org^
+||agttyup.com^
 ||agyabashipping.com^
 ||ahhaqq.com^
 ||ahkohnkczvfwtrdtd.shop^
@@ -3263,6 +3264,7 @@
 ||fissmarket.com^
 ||fitgirl.repacks.site^
 ||fitnestapparel.com^
+||fivaye.com^
 ||fivon.online^
 ||fixedmatch.website^
 ||fixotrade.com^
@@ -7157,6 +7159,7 @@
 ||sos.bg.sof.1.exo.io^
 ||sosmedecin.store^
 ||soufeel.es^
+||soulop.com^
 ||soundcoreindiawebsite.com^
 ||sourceas.com^
 ||sourl.cn^
@@ -7495,6 +7498,7 @@
 ||techzesh.com^
 ||tecnorn.online^
 ||tedexy.com^
+||tedlook.com^
 ||teedrowed.co.in^
 ||teeluxegifts.com^
 ||teflam.com^
