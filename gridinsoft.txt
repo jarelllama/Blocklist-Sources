@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.070107.2025
+! Version: 02.28.073047.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 07:01:07 UTC 2025
+! Last modified: Fri Feb 28 07:30:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8740
+! Number of entries: 8745
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1417,6 +1417,7 @@
 ||brightwayint.com^
 ||brilliantassetsltd.com^
 ||brilliantlyouth.store^
+||bringmoretrade.com^
 ||britebatshop.com^
 ||britishairwaysroyaldeliverycompany.com^
 ||britishfx-trade.info^
@@ -3038,6 +3039,7 @@
 ||expressionu.com^
 ||expresswallet.pro^
 ||extrapyro.com^
+||extreme-down.social^
 ||ez.trades.io^
 ||ezdrive.com^
 ||ezdrivema.cfd^
@@ -4811,6 +4813,7 @@
 ||m.dodorado.com^
 ||m.engievip.cc^
 ||m.fxpro-usd.vip^
+||m.mxline3.online^
 ||m.mxt-line-id.online^
 ||m.nggcritics.com^
 ||m.oxgatens.net^
@@ -7570,6 +7573,7 @@
 ||tioctrically.com^
 ||tionoc.net^
 ||tipobet6474.com^
+||tirexo.social^
 ||tistokmall.pro^
 ||tita.group.it.com^
 ||titan13.com^
@@ -8125,6 +8129,7 @@
 ||vflcsz.info^
 ||vflmo.online^
 ||vfogkw.subjectshow.shop^
+||vfr-invest.world^
 ||vfx-studio.com^
 ||vhufdiu.com^
 ||viagogo.com^
