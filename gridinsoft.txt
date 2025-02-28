@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.173233.2025
+! Version: 02.28.180103.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 17:32:33 UTC 2025
+! Last modified: Fri Feb 28 18:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8813
+! Number of entries: 8819
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -99,8 +99,12 @@
 ||24x7defi.com^
 ||25rbx.site^
 ||268chill.store^
+||271882.cc^
+||27288.co^
 ||278.hnyuanoo.top^
+||27968.cc^
 ||27design.online^
+||27eguyehgeuqwf.com^
 ||28c75.com^
 ||2dgameworld.com^
 ||2llcc.vip^
@@ -4555,6 +4559,7 @@
 ||laferreteriaweb.com^
 ||lagriffaoutlett.com^
 ||lahomy.co^
+||laidanyou.com^
 ||lamafilm.club^
 ||lamaisondumaillot.com^
 ||lamay.shop^
@@ -5418,6 +5423,7 @@
 ||nembutalgroup.com^
 ||nemovix.com^
 ||nenyoocheats.com^
+||neobit.pro^
 ||neobitix.com^
 ||neogorthopedicsupports.shop^
 ||neomaven.pro^
