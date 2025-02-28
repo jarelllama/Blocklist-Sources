@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.110102.2025
+! Version: 02.28.113050.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 11:01:02 UTC 2025
+! Last modified: Fri Feb 28 11:30:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8767
+! Number of entries: 8774
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -535,6 +535,7 @@
 ||amazol.biz^
 ||amazonsellersappeal.com^
 ||amazonstorepro.com^
+||amazun.sbs^
 ||ambawadiservice.com^
 ||amberpop.com^
 ||ambientefiscal.email^
@@ -1730,6 +1731,7 @@
 ||cert.fnmt.es^
 ||certocorretoradeseguros.site^
 ||cessitive.com^
+||cety.app^
 ||cfar.group^
 ||cfbit.org^
 ||cfd.interactiveproltd.com^
@@ -4123,6 +4125,7 @@
 ||inspectyourvin.com^
 ||inspirecollege.co.uk^
 ||inspirighty.com^
+||instagramhackonline.com^
 ||install.protected.net^
 ||instructime.com^
 ||intcyberlaw.com^
@@ -4339,6 +4342,7 @@
 ||jvault.xyz^
 ||jwpei.espana.es^
 ||jys55722.com^
+||jysk-discount.shop^
 ||jysk.online.com^
 ||jysk.sale.com^
 ||jyskfurniture.eu.com^
@@ -4449,6 +4453,7 @@
 ||kmovies.top^
 ||kmspico.ltd^
 ||kndr.digital^
+||kneystal.com^
 ||knifebeststore.com^
 ||knighted.shop^
 ||knitleaf.com^
@@ -8269,6 +8274,7 @@
 ||wallstreetpepe.com^
 ||walmartnok.com^
 ||wananle.com^
+||wanishauber.de^
 ||wardbet.com^
 ||wardlushy.com^
 ||warehousesstores.com^
@@ -8644,6 +8650,7 @@
 ||yobit.net^
 ||yocart.vip^
 ||yomovies1.skin^
+||yoo.deals^
 ||yoomiy.shop^
 ||yossho.com^
 ||youapp.ai^
