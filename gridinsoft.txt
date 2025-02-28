@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.210101.2025
+! Version: 02.28.213049.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 21:01:01 UTC 2025
+! Last modified: Fri Feb 28 21:30:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8845
+! Number of entries: 8852
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -686,6 +686,7 @@
 ||appleusa.tk^
 ||apply.myfunnelish.com^
 ||apps.onebeyond.com^
+||appvelocity1.click^
 ||appvr.org^
 ||aprendefullemprendedesdecasa.online^
 ||aprontify.de^
@@ -708,6 +709,7 @@
 ||aregalex.monster^
 ||aremining.app^
 ||aremining.org^
+||arenaoptionmining.com^
 ||arfwatches.com^
 ||argogints.com^
 ||argonixhacktech.com^
@@ -3085,6 +3087,7 @@
 ||ez.trades.io^
 ||ezdrive.com^
 ||ezdrivema.cfd^
+||ezdrivemax.com^
 ||ezdrivhkr.top^
 ||ezwkef.jxe8021.com^
 ||ezymny.com^
@@ -3444,6 +3447,7 @@
 ||fustorix.com^
 ||futrade.ltd^
 ||future-miners.com^
+||futurechainassetlimited.com^
 ||futurecryptominer.com^
 ||futurefmt.com^
 ||futurenft.net^
@@ -5345,6 +5349,7 @@
 ||mw02.ipshorty.online^
 ||mwmhelphub.com^
 ||mx.technolutions.net^
+||my-expert100.com^
 ||my.bebes.com^
 ||my.commbank.com.au^
 ||my.deco.shop.com^
@@ -5828,6 +5833,7 @@
 ||oriwhiz.com^
 ||orlawonders.com^
 ||orourkeapp.com^
+||orrperta.com^
 ||orthoture.com^
 ||orzenge.com^
 ||osextant.monster^
@@ -6729,6 +6735,7 @@
 ||sabready.com^
 ||sadalds.store^
 ||sadisflix.works^
+||saesrichx.com^
 ||safarywatches.com^
 ||safe-tradefinance.ltd^
 ||safeapk.net^
