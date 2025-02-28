@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.033556.2025
+! Version: 02.28.040103.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 03:35:56 UTC 2025
+! Last modified: Fri Feb 28 04:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8714
+! Number of entries: 8717
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -554,6 +554,7 @@
 ||amniktechnologies.com^
 ||amongusonline.io^
 ||amontreupfr.shop^
+||amorelleco.com^
 ||amouzo.com^
 ||amp.pemuda138.com^
 ||ampay.su^
@@ -2543,6 +2544,7 @@
 ||digital.alaka.co^
 ||digital.license.shop.com^
 ||digital.usdt.com^
+||digitaladsverse.com^
 ||digitalfinancemarketingpro.com^
 ||digitalfolio.online^
 ||digitalkeysoftware.com^
@@ -6057,6 +6059,7 @@
 ||pprrc.com^
 ||practicalss.com^
 ||practicemakesperfect.online^
+||praniy.com^
 ||prashukjain.site^
 ||prav.consult.biz^
 ||praytech.ma^
