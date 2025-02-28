@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.230050.2025
+! Version: 02.28.233054.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 23:00:50 UTC 2025
+! Last modified: Fri Feb 28 23:30:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8867
+! Number of entries: 8875
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -984,6 +984,7 @@
 ||bdxxa.com^
 ||bdyg.store^
 ||bearatten.com^
+||bearsbulls.net^
 ||beastter.com^
 ||beastvem.com^
 ||beat.sticker.online^
@@ -1051,6 +1052,7 @@
 ||bestmayoreo.com.mx^
 ||bestnationalcreditunion.com^
 ||bestoffersnew.xyz^
+||bestxsoftware.com^
 ||bestxsvilrsoftopia.com^
 ||bet.way.online^
 ||bet4.pe^
@@ -1088,6 +1090,7 @@
 ||bigboomax.com^
 ||bigexc.com^
 ||bigfat.chat^
+||bigfxinvest.io^
 ||biggetex.com^
 ||biglotsalling.com^
 ||biglotsclosures.com^
@@ -2785,6 +2788,7 @@
 ||earncrash.in^
 ||earnscashmb.buzz^
 ||earnsmuch.com^
+||earnsocial.shop^
 ||earnytbvideo.top^
 ||earringssale.com^
 ||easefuldreams.com^
@@ -3552,6 +3556,7 @@
 ||genesisminingbot.com^
 ||genesisminning.com^
 ||geninsur.com^
+||genixoptions.com^
 ||genraky.com^
 ||genwoleads.top^
 ||geographz.com^
@@ -7045,6 +7050,7 @@
 ||skokka.com^
 ||skresporti.shop^
 ||skyby.aviation.school.com^
+||skyeyelitigation.com^
 ||skymine.online^
 ||skyplusevtr.com^
 ||skyrech.com^
@@ -8389,6 +8395,7 @@
 ||wawacity.social^
 ||waxebet.com^
 ||waxx.network^
+||way1.top^
 ||wayestyle.store^
 ||wayfair.mall.cc^
 ||wayfairclearance.online^
@@ -8840,6 +8847,7 @@
 ||zinacams.ru^
 ||zinoxt.net^
 ||ziprecruiter.com^
+||ziraatbankasiservice.com^
 ||zjj.jh.com^
 ||zjulpujub.wlasnnz.cn^
 ||zkexchange.org^
