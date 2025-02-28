@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.063624.2025
+! Version: 02.28.070107.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 06:36:24 UTC 2025
+! Last modified: Fri Feb 28 07:01:07 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8736
+! Number of entries: 8740
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1306,6 +1306,7 @@
 ||blusar.com^
 ||blushx.co^
 ||blynex.net^
+||bmjmarineroute.com^
 ||bmo.verification.secure.com^
 ||bmw.moto.eu.shop^
 ||bmwstore.eu.com^
@@ -3110,6 +3111,8 @@
 ||faucetxminer.pro^
 ||favesedge.com^
 ||fazmex.com^
+||fballofficial.club^
+||fballofficial.com^
 ||fbkptumgxh.com^
 ||fc-group-fr.com^
 ||fc244.com^
@@ -6289,6 +6292,7 @@
 ||q4ddc0.webwave.dev^
 ||qa.ooooo.ink^
 ||qaleel.com^
+||qalkrecite.com^
 ||qalrlr.shop^
 ||qartba.com^
 ||qauory.info^
