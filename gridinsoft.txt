@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.083444.2025
+! Version: 02.28.090051.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 08:34:44 UTC 2025
+! Last modified: Fri Feb 28 09:00:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8753
+! Number of entries: 8757
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2878,6 +2878,7 @@
 ||emttrading.com^
 ||emuparadise.me^
 ||emuxev.com^
+||en.anchante-world.shop^
 ||en.glucocontrol.com^
 ||en.loader.to^
 ||enaviia.com^
@@ -5481,6 +5482,7 @@
 ||nikecolombiabogota.co^
 ||nikocanvas.com^
 ||nilsenconsulting.io^
+||nimblebets.com^
 ||nimo0.info^
 ||ninebux.com^
 ||ninjasapp.io^
@@ -6882,6 +6884,7 @@
 ||shoppingmall44.top^
 ||shoppuz.com^
 ||shopr.tv^
+||shoprazys.com^
 ||shopsaltana.com^
 ||shopsavvysimpsons.com^
 ||shoptastic.io^
@@ -8452,6 +8455,7 @@
 ||wldshop.online^
 ||wlods.com^
 ||wmartrewards.com^
+||wmf-vvip.shop^
 ||wmfol.top^
 ||wmomall.space^
 ||wndzs.com^
