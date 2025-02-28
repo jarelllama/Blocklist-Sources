@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.113050.2025
+! Version: 02.28.120118.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 11:30:50 UTC 2025
+! Last modified: Fri Feb 28 12:01:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8774
+! Number of entries: 8778
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -339,6 +339,7 @@
 ||aerodromefi.claims.app^
 ||aeroexperiaservice.com^
 ||aerosdromes.net^
+||aeuky.com^
 ||afbug.xyz^
 ||afcwjs.shop^
 ||aff.nikkymedia.com.ng^
@@ -537,7 +538,9 @@
 ||amazonstorepro.com^
 ||amazun.sbs^
 ||ambawadiservice.com^
+||amberoceanstore.com^
 ||amberpop.com^
+||ambersiggs.shop^
 ||ambientefiscal.email^
 ||ambiledhub.com^
 ||ambipurcar.com^
@@ -3728,6 +3731,7 @@
 ||griefquotes.xyz^
 ||grindsoft.com^
 ||grisportfrance.fr^
+||grixex.com^
 ||grmontrewatches.com^
 ||groepsverblijven.com^
 ||grokcoin.meme^
