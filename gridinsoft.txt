@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.203240.2025
+! Version: 02.28.210101.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 20:32:40 UTC 2025
+! Last modified: Fri Feb 28 21:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8840
+! Number of entries: 8845
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1698,6 +1698,7 @@
 ||catalytics.pro^
 ||catchvideo.net^
 ||catenarydojo.com^
+||catenize.com^
 ||caterpillarargentinaonline.com^
 ||catholicpsychconsult.com^
 ||catpid.com^
@@ -2295,6 +2296,7 @@
 ||cymatics.fm^
 ||cynthiarobotti.acemlnb.com^
 ||cyphermarket.ru^
+||cypressliquor.com^
 ||cztrskaw.xyz^
 ||czvinwqzs.zjxjmp.cn^
 ||d.binrefund.top^
@@ -4503,6 +4505,7 @@
 ||kokaindrogekaufen.com^
 ||koko101.com^
 ||kolem.shop^
+||kolumal.shop^
 ||kompaeth.com^
 ||komvideo.cc^
 ||kongva.com^
@@ -7451,6 +7454,7 @@
 ||taqwapublications.com^
 ||tarionus.shop^
 ||tartantoday.com^
+||taskadeai-data.top^
 ||taskadeai.data.top^
 ||taskwizy.top^
 ||taskzcove.com^
@@ -8266,6 +8270,7 @@
 ||viprh.com^
 ||vipsshops.com^
 ||viralityshop.online^
+||viralostore.com^
 ||vircloth.com^
 ||virtueprimetrade.live^
 ||vishopee.com^
