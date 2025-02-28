@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.004524.2025
+! Version: 02.28.012754.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 00:45:24 UTC 2025
+! Last modified: Fri Feb 28 01:27:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8698
+! Number of entries: 8703
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1063,6 +1063,7 @@
 ||bigexc.com^
 ||bigfat.chat^
 ||biggetex.com^
+||biglotsalling.com^
 ||biglotsclosures.com^
 ||biglotsoverstock.com^
 ||biglotsshoppingplaza.com^
@@ -2571,6 +2572,7 @@
 ||discountanabolics.com^
 ||discounthero.org^
 ||discountshypermarket.com^
+||discoverprimedefi.com^
 ||discoverthebest.co^
 ||discoverymart.net^
 ||discttime.shop^
@@ -4759,6 +4761,7 @@
 ||lumacex.com^
 ||lumeraco.com^
 ||luminassociate.com^
+||lunajerk.com^
 ||lunarbet.fun^
 ||lunarosario.com^
 ||lundnetcapital.com^
@@ -4949,6 +4952,7 @@
 ||medzguru.store^
 ||meerai.io^
 ||mega.easy.prize.pro^
+||megabybit.online^
 ||megaflix.co^
 ||megakino.co^
 ||megalotery.com^
@@ -6825,6 +6829,7 @@
 ||shopbm11.cc^
 ||shopbopafiliate.org^
 ||shopclickfr.store^
+||shopdirectparts.com^
 ||shope1.a1finder.com^
 ||shope4you.shop^
 ||shopea.store^
