@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.040103.2025
+! Version: 02.28.043459.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 04:01:03 UTC 2025
+! Last modified: Fri Feb 28 04:34:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8717
+! Number of entries: 8721
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5578,6 +5578,7 @@
 ||offersheres.net^
 ||offersjournal.com^
 ||officedesk.commercialdeals.online^
+||official-promo.net^
 ||official.promo.net^
 ||officialmaga.com^
 ||officialmagacoin.com^
@@ -5754,6 +5755,7 @@
 ||otherstoriessale.shop^
 ||otlnance.com^
 ||ottoeu.com^
+||ou-chhh.store^
 ||ourcoincash.xyz^
 ||ourruless.store^
 ||oursportday.com^
@@ -7158,6 +7160,7 @@
 ||steampowered.playtestapps.icu^
 ||steamworkshopdownloader.io^
 ||stechol.com^
+||steelcenters.com^
 ||steest.net^
 ||stellaclark.eu^
 ||stellanovelty.com^
@@ -8352,6 +8355,7 @@
 ||wholefilter.com^
 ||wholesale.leaks.co^
 ||wholesale21.com^
+||wholesalemall.ru^
 ||whoopyrewards.com^
 ||whop.com^
 ||whubaesingotbrewer.com^
