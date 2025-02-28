@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.163544.2025
+! Version: 02.28.170101.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 16:35:44 UTC 2025
+! Last modified: Fri Feb 28 17:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8804
+! Number of entries: 8809
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5108,6 +5108,7 @@
 ||miles.london.com^
 ||milisoil.com^
 ||millioner-kop.site^
+||milliontronmatrix.com^
 ||miltonlogistic.com^
 ||milwakhouse.com^
 ||milwakusharetexa.com^
@@ -5219,6 +5220,7 @@
 ||mondialrelay.transit.com^
 ||monespacedroits.com^
 ||monetoad.com^
+||money-ltd.com^
 ||moneyeasilyroq.top^
 ||moneyfarms.club^
 ||moneyseasilyaogt.buzz^
@@ -6193,6 +6195,7 @@
 ||profumeriearoma.com^
 ||programafullpc.com^
 ||proivestgrp.com^
+||projectask.info^
 ||projectplaygroundtech.com^
 ||projektmiesiaca.click^
 ||projetparis.fr^
@@ -8061,6 +8064,7 @@
 ||usdtbb.com^
 ||usdtboost.com^
 ||usdtcloudpro.com^
+||usdtcw.com^
 ||usdtflasher.org^
 ||usdtmall.co^
 ||usdtoken.online^
@@ -8597,6 +8601,7 @@
 ||xdopig.com^
 ||xdthgame.com^
 ||xegukiy.shop^
+||xenchain.io^
 ||xenstocktrade.com^
 ||xeodeals.shop^
 ||xerecoe.shop^
