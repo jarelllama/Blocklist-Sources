@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.080056.2025
+! Version: 02.28.083444.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 08:00:56 UTC 2025
+! Last modified: Fri Feb 28 08:34:44 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8748
+! Number of entries: 8753
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1170,6 +1170,8 @@
 ||bitdouble.net^
 ||bitexmusk.com^
 ||bitfarms.in^
+||bitflexbm.com^
+||bitflexsd.com^
 ||bitflexva.com^
 ||bitfnx.com^
 ||bitfufu.com^
@@ -3079,6 +3081,7 @@
 ||fanatics.com^
 ||fancyfont.online^
 ||fancymiami.com^
+||fansleak.com-getfree.pro^
 ||fanyil.com^
 ||faphouse.com^
 ||fapy.ai^
@@ -5330,6 +5333,7 @@
 ||na01.safelinks.protection.outlook.com^
 ||na1.online^
 ||naaeeoy.com^
+||nacionarmada.com^
 ||nadexweboption.com^
 ||naldoricketts.com^
 ||nannyirrationalacquainted.com^
@@ -6097,6 +6101,7 @@
 ||premiumsportshop.com^
 ||prenvox.com^
 ||prepxi.com^
+||presale.mot.army^
 ||prescienceai.xyz^
 ||presentpros.today^
 ||prestige-finance-gold.com^
