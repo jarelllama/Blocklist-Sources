@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.150058.2025
+! Version: 02.28.153323.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 15:00:58 UTC 2025
+! Last modified: Fri Feb 28 15:33:23 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8791
+! Number of entries: 8793
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1555,6 +1555,7 @@
 ||byhwhzwnqrnm.shop^
 ||byproaip.com^
 ||bytech.us.com^
+||byteepic.com^
 ||bytes.link.online^
 ||bytexcrypto.com^
 ||bzillion.club^
@@ -3374,6 +3375,7 @@
 ||freescanonline.com^
 ||freestar.buzz^
 ||freeth.in^
+||freetoolpro.com^
 ||freetron.in^
 ||freeusdtforever.com^
 ||freexstar.top^
