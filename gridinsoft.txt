@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.140107.2025
+! Version: 02.28.143347.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 14:01:07 UTC 2025
+! Last modified: Fri Feb 28 14:33:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8788
+! Number of entries: 8790
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2142,6 +2142,7 @@
 ||crm.ecmarkets.sc^
 ||crockful.com^
 ||crohasit.net^
+||crown99.win^
 ||crownpointfin.com^
 ||crsverify.online^
 ||crushon.ai^
@@ -7449,6 +7450,7 @@
 ||temxn.vip^
 ||tenadex.com^
 ||tenctify.com^
+||tendenciasmexicos.com^
 ||tendinvest.com^
 ||tenek.vip^
 ||teneo.pro^
