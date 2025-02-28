@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.153323.2025
+! Version: 02.28.160101.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 15:33:23 UTC 2025
+! Last modified: Fri Feb 28 16:01:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8793
+! Number of entries: 8797
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -563,6 +563,7 @@
 ||amp.pemuda138.com^
 ||ampay.su^
 ||amrrvip.com^
+||ams-solutions.com^
 ||amthreadcollections.com^
 ||amuropay.biz^
 ||amyslamps.com^
@@ -1173,6 +1174,7 @@
 ||bitconemine.com^
 ||bitdolphx.com^
 ||bitdouble.net^
+||bitesax.com^
 ||bitexmusk.com^
 ||bitfarms.in^
 ||bitflexbm.com^
@@ -2975,6 +2977,7 @@
 ||estrazint.com^
 ||esty.com^
 ||esysgb.com^
+||etalgolending.com^
 ||etdase.com^
 ||eterminal.net^
 ||eterni.click^
@@ -4114,6 +4117,7 @@
 ||indpeapract.cfd^
 ||indrokil.icu^
 ||infernoforge.store^
+||infinitegoodsemporium.shop^
 ||infiniteinvestcompany.com^
 ||infinity-hash.io^
 ||infinity.hash.io^
