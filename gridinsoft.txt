@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.100101.2025
+! Version: 02.28.103433.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 10:01:01 UTC 2025
+! Last modified: Fri Feb 28 10:34:33 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8762
+! Number of entries: 8765
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4232,6 +4232,7 @@
 ||jachworks.com^
 ||jadloresga.shop^
 ||jaguafrangosalimentosltda.com^
+||jaiberry.com^
 ||jainmandir.info^
 ||jalisco.qr.online^
 ||jamai.top^
@@ -7836,6 +7837,7 @@
 ||trxchains.com^
 ||trxchargepoint.net^
 ||trxgain.com^
+||trxkim.vip^
 ||trxminerboost.com^
 ||trxproxtrade.com^
 ||tryanua.co^
@@ -8422,6 +8424,7 @@
 ||windcapitalsinfo.us^
 ||windliy.com^
 ||windsorladies.com^
+||wineagle.store^
 ||winerfex.com^
 ||winfy.top^
 ||winhges.com^
