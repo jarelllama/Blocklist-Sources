@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.030730.2025
+! Version: 02.28.033556.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 03:07:30 UTC 2025
+! Last modified: Fri Feb 28 03:35:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8711
+! Number of entries: 8714
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1516,6 +1516,7 @@
 ||buygoods.com^
 ||buymasksgivemasks.top^
 ||buymethcanberra.com^
+||buypainkillermeds.com^
 ||buyprimevxl.com^
 ||buysoma.online^
 ||buystoresmm.com^
@@ -6986,6 +6987,7 @@
 ||sniperbuisnesscenter.com^
 ||snjalltaeki.store^
 ||snowdaycalculator.online^
+||snowwp.com^
 ||snusitout.com^
 ||snydersfurniture.com^
 ||soankelle.vip^
@@ -7450,6 +7452,7 @@
 ||thegenesismining.com^
 ||thegirlwithabluemind.com^
 ||theglowdrive.com^
+||thegoldentriangleice.com^
 ||thegoodguyssignup.com^
 ||theguisson.co.uk^
 ||thehairiva.com^
