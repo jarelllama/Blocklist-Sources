@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.160101.2025
+! Version: 02.28.163544.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 16:01:01 UTC 2025
+! Last modified: Fri Feb 28 16:35:44 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8797
+! Number of entries: 8804
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -241,6 +241,7 @@
 ||abra.pico.top^
 ||absoluteenergyfl.com^
 ||abtcoin.vip^
+||abundrihant.com^
 ||ac8.w1t4b8.com^
 ||acaddemia.com^
 ||acard50.ru^
@@ -346,6 +347,7 @@
 ||affiliatemarketlite.com^
 ||affirmgrowth.co^
 ||affjumbo.com^
+||afnextrustfirm.top^
 ||afrigoldmines.com^
 ||afriqjmarbitrage.us^
 ||afrxbujefqao.shop^
@@ -6697,6 +6699,7 @@
 ||safarywatches.com^
 ||safe-tradefinance.ltd^
 ||safeapk.net^
+||safefxinvestment.info^
 ||safehavenbancshares.online^
 ||safemedistore.com^
 ||safeunlocks.com^
@@ -7378,6 +7381,7 @@
 ||swingfxmarket.com^
 ||swipelake.shop^
 ||swiss.mo.inv.com^
+||swistcapital.live^
 ||switbittradepips.com^
 ||swminex.com^
 ||sworncheck.com^
@@ -7753,6 +7757,7 @@
 ||trading.elevation.net^
 ||tradingaccessfx.com^
 ||tradingcardsstoredeals.com^
+||tradingfxcapital.com^
 ||tradinghelden.com^
 ||tradingid.acemlnb.com^
 ||tradingpoint.cc^
@@ -7829,6 +7834,7 @@
 ||trons.love^
 ||tronvortex.com^
 ||trophycase.cc^
+||tropxlimited.live^
 ||troqainter.info^
 ||troyers.info^
 ||trqw.store^
@@ -8227,6 +8233,7 @@
 ||vipsshops.com^
 ||viralityshop.online^
 ||vircloth.com^
+||virtueprimetrade.live^
 ||vishopee.com^
 ||visionsco.online^
 ||visprintdesign.biz^
