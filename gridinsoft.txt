@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.090051.2025
+! Version: 02.28.093233.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 09:00:51 UTC 2025
+! Last modified: Fri Feb 28 09:32:33 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8757
+! Number of entries: 8760
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2608,6 +2608,7 @@
 ||dminer.website^
 ||dmjff.com^
 ||dmswebsolution.com^
+||dmtcanada.ca^
 ||dnb.znin82.com^
 ||dnsdefender.xyz^
 ||dnswatch.info^
@@ -4818,6 +4819,7 @@
 ||m.dodorado.com^
 ||m.engievip.cc^
 ||m.fxpro-usd.vip^
+||m.jucydate.com^
 ||m.mxline3.online^
 ||m.mxt-line-id.online^
 ||m.nggcritics.com^
@@ -6873,6 +6875,7 @@
 ||shope4you.shop^
 ||shopea.store^
 ||shopeevip.shop^
+||shoperasmerch.com^
 ||shophopesboutique.com.montgomerymiss.com^
 ||shopifyoutlets.com^
 ||shoplusty.com^
