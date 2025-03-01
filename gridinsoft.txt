@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.024845.2025
+! Version: 03.01.031039.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 02:48:45 UTC 2025
+! Last modified: Sat Mar  1 03:10:39 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8899
+! Number of entries: 8904
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -368,6 +368,7 @@
 ||agilecoingain.com^
 ||agonas.techubz.com^
 ||agoneeinnovation.com^
+||agonfier.com^
 ||agoradrugstore.org^
 ||agribicerhansolutionsltd.net^
 ||agrocryptorealty.com^
@@ -1331,6 +1332,7 @@
 ||blokchainsbit.com^
 ||blombard.com^
 ||bloom.as^
+||blossduck.com^
 ||bloxchest.com^
 ||bloxevent.org^
 ||bloxtools.ca^
@@ -1403,6 +1405,7 @@
 ||bossfusion.xyz^
 ||bostakingu.com^
 ||bot.merisprivate.net^
+||botati.top^
 ||botfypro.com^
 ||boundary.metal.com^
 ||bounty.dough.com^
@@ -4630,6 +4633,7 @@
 ||lavishsupply.net^
 ||law.blade.solutions.com^
 ||lawnagain.com^
+||layergrid.io^
 ||lazada.cakepansplus.com^
 ||lazada.cindylamont.com^
 ||lbank.com^
@@ -7461,6 +7465,7 @@
 ||swiss.mo.inv.com^
 ||swistcapital.live^
 ||switbittradepips.com^
+||switchroles.com^
 ||swminex.com^
 ||sworncheck.com^
 ||sxelin.com^
