@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.004541.2025
+! Version: 03.01.012817.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 00:45:41 UTC 2025
+! Last modified: Sat Mar  1 01:28:17 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8883
+! Number of entries: 8891
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -499,6 +499,7 @@
 ||alo.yogaoutlet.com^
 ||alo88.black^
 ||aloidvg.com^
+||aloyoga-shopping.shop^
 ||alpaboost.com^
 ||alpentherme.ch^
 ||alpenveststrategy.com^
@@ -662,6 +663,7 @@
 ||app.antiriciclaggio.mps.com^
 ||app.brainstorm.market^
 ||app.city2000.cc^
+||app.fbmallmixfast.com^
 ||app.landshare.website^
 ||app.lockswallet.net^
 ||app.markthal.vip^
@@ -1815,6 +1817,7 @@
 ||chemicaltiger.com^
 ||cheqseep.online^
 ||cherax.menu^
+||cherie-sheriff.com^
 ||chesterron.com^
 ||chic-time.fr^
 ||chiccraftz.com^
@@ -2313,6 +2316,7 @@
 ||d.binrefund.top^
 ||d.c3g.cn^
 ||d3bqx5dvn4460l.drnppqmp.cc^
+||d3gbed2ley04jq.cloudfront.net^
 ||d3pcx41g7mhiud.cloudfront.net^
 ||d4iqpj8tqft8l.cloudfront.net^
 ||d6vn.com^
@@ -4378,6 +4382,7 @@
 ||jsonvieweronline.io^
 ||jtddate.com^
 ||juicenewmedia.com^
+||juicesp.com^
 ||juinfd.com^
 ||juliusbaerusd.com^
 ||jump.panel.surprise.clever.top^
@@ -5187,6 +5192,7 @@
 ||mining.tether.com^
 ||mining189.com^
 ||miningcompany.ltd^
+||miningpool.tech^
 ||miningsc.vip^
 ||mininvstplatform.com^
 ||miniwashuk.com^
@@ -7505,6 +7511,7 @@
 ||techberry.online.com^
 ||techcertlabs.org^
 ||techdriveinc.online^
+||techemporium.com.co^
 ||technozone.com.au^
 ||techsecurebase.com^
 ||techybullion.com^
@@ -8436,6 +8443,7 @@
 ||weatherbeetaery.top^
 ||web.cotiplus.top^
 ||web.debank.netlify.app^
+||web.lotradecoin.net^
 ||web.nnleas.top^
 ||web.orionstars.org^
 ||web.rhino.org^
