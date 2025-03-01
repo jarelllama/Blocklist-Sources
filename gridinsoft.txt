@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.193048.2025
+! Version: 03.01.200047.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 19:30:48 UTC 2025
+! Last modified: Sat Mar  1 20:00:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9028
+! Number of entries: 9032
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -706,6 +706,7 @@
 ||appinnovatel.com^
 ||appj.online^
 ||appkong.store^
+||apple-grass.com^
 ||appleresd.com^
 ||applesecurityioscare.com^
 ||appleusa.tk^
@@ -5678,6 +5679,7 @@
 ||nkn.org^
 ||nkninkqq.com^
 ||nlcrents.com^
+||nlelektronica.com^
 ||nlleenbakker.com^
 ||nlvivobarefoot.com^
 ||nmnpfkwrtuyzh.shop^
@@ -6240,6 +6242,7 @@
 ||pokexperiment.com^
 ||pokezone.ca^
 ||pokharaapartment.com^
+||pol005.com^
 ||polarbg.com^
 ||polarto.com^
 ||policja.pl112.online^
@@ -8822,6 +8825,7 @@
 ||xeromex.com^
 ||xetraders.com^
 ||xewios.com^
+||xexblt.org^
 ||xexdex.com^
 ||xfcfo.com^
 ||xfnity.id8743.info^
