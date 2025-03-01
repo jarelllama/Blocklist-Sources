@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.000205.2025
+! Version: 03.01.004541.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 00:02:05 UTC 2025
+! Last modified: Sat Mar  1 00:45:41 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8879
+! Number of entries: 8883
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1704,6 +1704,7 @@
 ||castrovalvalimiteds.com^
 ||casvix.com^
 ||casvnm.com^
+||cat-eu.sa.com^
 ||catalytics.pro^
 ||catchvideo.net^
 ||catenarydojo.com^
@@ -6992,6 +6993,7 @@
 ||shorturl.at^
 ||shothues.com^
 ||shotzon.com^
+||shrewd-savings.com^
 ||shrt10.com^
 ||shwacbda.com^
 ||siabrocenipellets.com^
@@ -8278,6 +8280,7 @@
 ||villalemana.cl^
 ||vilmoria.com^
 ||vilotex.com^
+||vimbag.com^
 ||vincecomfort.com^
 ||vineyardsoutlet.com^
 ||vinkaoilgasconsultant.com^
@@ -8705,6 +8708,7 @@
 ||xrpofficial.reward.com^
 ||xsdvdeal.store^
 ||xshiba.app^
+||xtb-usdt.com^
 ||xtb.com^
 ||xtbinvesting.com^
 ||xtcalien.com^
