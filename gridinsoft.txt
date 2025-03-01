@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.012817.2025
+! Version: 03.01.020807.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 01:28:17 UTC 2025
+! Last modified: Sat Mar  1 02:08:07 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8891
+! Number of entries: 8897
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -211,6 +211,7 @@
 ||9148i.com^
 ||91863.vip^
 ||951345141ruby616asdcxvz.com^
+||96builds.com^
 ||988359.com^
 ||99phl789.com^
 ||99predict.com^
@@ -2032,6 +2033,7 @@
 ||colddms.com^
 ||colfayc.cc^
 ||colgatebnbai.com^
+||collectivef.com^
 ||colloimed.de^
 ||colmall.top^
 ||colorkid.net^
@@ -2826,6 +2828,7 @@
 ||eccoshoes.life^
 ||eclatlumiere.com^
 ||ecoalfspain.com^
+||ecobois-be.com^
 ||ecochiostore.com^
 ||ecofreshmarket.online^
 ||ecom.usdt.online^
@@ -2877,6 +2880,7 @@
 ||elitecapitalmarket.com^
 ||elitecapitalprofits.com^
 ||eliteclonecards.com^
+||elitecrown.world^
 ||elitecryptorecoveryexpert.com^
 ||eliteforgepro.online^
 ||eliteminerfx.com^
@@ -7126,6 +7130,7 @@
 ||snjalltaeki.store^
 ||snowdaycalculator.online^
 ||snowwp.com^
+||snrtrplant.com^
 ||snusitout.com^
 ||snydersfurniture.com^
 ||soankelle.vip^
@@ -8278,6 +8283,7 @@
 ||video4k.site^
 ||videoperkstream.com^
 ||videosfund.top^
+||videouniquebooster.com^
 ||viemia.com^
 ||viergo.com^
 ||vigkes.shop^
