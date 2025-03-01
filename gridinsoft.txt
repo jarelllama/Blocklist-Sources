@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.050059.2025
+! Version: 03.01.053233.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 05:00:59 UTC 2025
+! Last modified: Sat Mar  1 05:32:33 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8919
+! Number of entries: 8922
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1565,6 +1565,7 @@
 ||buybuywear.com^
 ||buyclonedcards.co.uk^
 ||buycocatea.com^
+||buycointraderabh.com^
 ||buydecorhome.com^
 ||buygoods.com^
 ||buymasksgivemasks.top^
@@ -2286,6 +2287,7 @@
 ||cuadraoficial.shop^
 ||cuan66.co^
 ||cuantrading.com^
+||cueroreal.com^
 ||cuesandcases.com^
 ||cuevana3.ch^
 ||cugveo.com^
@@ -2334,6 +2336,7 @@
 ||d4iqpj8tqft8l.cloudfront.net^
 ||d6vn.com^
 ||daarklabsuplementos.com^
+||daeuco.com^
 ||dagahna.fun^
 ||daily.deals.sale^
 ||daily2jili8.vip^
