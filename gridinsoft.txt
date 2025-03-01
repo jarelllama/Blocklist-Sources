@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.083404.2025
+! Version: 03.01.090050.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 08:34:04 UTC 2025
+! Last modified: Sat Mar  1 09:00:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8940
+! Number of entries: 8943
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2044,6 +2044,7 @@
 ||coinvale.io^
 ||coinvestoptions.com^
 ||coinwbga.com^
+||coinwbm.com^
 ||coinwck.com^
 ||coinwnto.com^
 ||coldbit.net^
@@ -4202,6 +4203,7 @@
 ||informed.deliveryqbnsk.top^
 ||infosession.online^
 ||infpastinto.sbs^
+||inginuity-time.com^
 ||inglesvip.top^
 ||ingprep.com^
 ||innovayours.store^
@@ -7286,6 +7288,7 @@
 ||sreamconmymnltty.com^
 ||srettle.com^
 ||srimuthappanholidayscoorg.com^
+||sriopart.com^
 ||sriwtte.com^
 ||sscnapoli.eu.shop^
 ||sse.s.com^
