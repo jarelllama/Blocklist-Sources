@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.213053.2025
+! Version: 03.01.220053.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 21:30:53 UTC 2025
+! Last modified: Sat Mar  1 22:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9041
+! Number of entries: 9045
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1807,6 +1807,7 @@
 ||cenotor.com^
 ||cenovus.life^
 ||centercontact.top^
+||centirides.com^
 ||central.bank.io^
 ||centralpointvi.live^
 ||centralworldmall.org^
@@ -3712,6 +3713,7 @@
 ||glenjoyce.com^
 ||gletber.com^
 ||glmrjwl.com^
+||global-tokenex.net^
 ||global.tinv.org^
 ||global.tokenex.net^
 ||globalaro.digitaladvanced.com^
@@ -5117,6 +5119,7 @@
 ||maxclick.xyz^
 ||maxfinishseveral.com^
 ||maxices.com^
+||maxiearnltd.com^
 ||maximinxassetltd.com^
 ||maximumpe.com^
 ||maxmara.sa.com^
@@ -7679,6 +7682,7 @@
 ||terestdeals.shop^
 ||terrafirmatrade.online^
 ||terrapulsedfg.site^
+||tescofglobal.online^
 ||tescoshangpinglobal.com^
 ||tescoshangplnglobal.com^
 ||tesla.investorscorp.pro^
