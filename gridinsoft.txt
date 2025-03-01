@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.153205.2025
+! Version: 03.01.160056.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 15:32:05 UTC 2025
+! Last modified: Sat Mar  1 16:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8989
+! Number of entries: 8993
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1861,6 +1861,7 @@
 ||choicehomewarranty.com^
 ||choxessaiglee.net^
 ||christianlouboutinmexicos.top^
+||christmas-discount.com^
 ||christmas.decors.com^
 ||christmashiba.xyz^
 ||christopherchaves.com^
@@ -4924,6 +4925,7 @@
 ||lunarbet.fun^
 ||lunarosario.com^
 ||lundnetcapital.com^
+||lunelior.io^
 ||lushyedge.com^
 ||lusive.xyz^
 ||luujin.info^
@@ -6691,6 +6693,7 @@
 ||revalationtradehubs.com^
 ||revanced.net^
 ||revealgenderonline.com^
+||revealphoneowner.com^
 ||reventa.co^
 ||revenuebot.io^
 ||revicorck.com^
@@ -7942,6 +7945,7 @@
 ||tranding-blo.com^
 ||trangotech.xyz^
 ||transappltd.com^
+||transcorpcapital.live^
 ||transsabiodetoro-sl.com^
 ||transscene.com^
 ||trantbitf.astpro.top^
