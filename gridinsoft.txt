@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.073049.2025
+! Version: 03.01.080056.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 07:30:49 UTC 2025
+! Last modified: Sat Mar  1 08:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8931
+! Number of entries: 8934
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4014,6 +4014,7 @@
 ||homebasetrading.com^
 ||homebymeagency.com^
 ||homecleaners.online^
+||homedress.myshoplaza.com^
 ||homegroth.com^
 ||homeika.com^
 ||homelava.com^
@@ -6356,6 +6357,7 @@
 ||pth668.com^
 ||ptrd.trdechat.top^
 ||pu220ev.com^
+||pub-12b034bec9894af69d01a0e35ad3cda6.r2.dev^
 ||pub.c5acfd5a4f1943a7bfc858676472adce.r2.dev^
 ||pubgrlxvote.top^
 ||public.mail-system-service.com^
@@ -8016,6 +8018,7 @@
 ||turbotrump.info^
 ||tusheedrosep.net^
 ||tuuoi.shop^
+||tuyoru.shop^
 ||tv-08.com^
 ||tv.08.com^
 ||tvlux.co^
