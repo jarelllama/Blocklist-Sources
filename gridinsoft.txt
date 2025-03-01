@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.124157.2025
+! Version: 03.01.130345.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 12:41:57 UTC 2025
+! Last modified: Sat Mar  1 13:03:45 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8973
+! Number of entries: 8976
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -769,6 +769,7 @@
 ||arttokenhub.com^
 ||arttoyfamilia.com^
 ||arturelights.com^
+||artuvate.co^
 ||artwareworld.com^
 ||arul.online^
 ||arzookanak.in^
@@ -5076,6 +5077,7 @@
 ||maxfinishseveral.com^
 ||maxices.com^
 ||maximinxassetltd.com^
+||maximumpe.com^
 ||maxmara.sa.com^
 ||maxmaraluxury.shop^
 ||maxtoolsstore.com^
@@ -8935,6 +8937,7 @@
 ||zfp.zfppool.com^
 ||zgiu.store^
 ||zgub.store^
+||zhaomo.xyz^
 ||zhgift.com^
 ||zhouyu8899.99.vip^
 ||zhuan2345.com^
