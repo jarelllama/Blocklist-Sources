@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.210053.2025
+! Version: 03.01.213053.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 21:00:53 UTC 2025
+! Last modified: Sat Mar  1 21:30:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9036
+! Number of entries: 9041
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1025,6 +1025,7 @@
 ||beat.sticker.online^
 ||beatmakerz.club^
 ||beaucham.com^
+||beausumm.com^
 ||beautyxfit.com^
 ||beazavnftojh.shop^
 ||bedonz.com^
@@ -1836,6 +1837,7 @@
 ||chainriseholdings.com^
 ||chalaorry.shop^
 ||championhygienesolutions.co.ke^
+||champtradefx.live^
 ||changeip.net^
 ||changelon.com^
 ||chansflavor.com^
@@ -2460,6 +2462,7 @@
 ||de-lumelia.com^
 ||deacetrader.com^
 ||dealsavernow.com^
+||dealupgo.com^
 ||dealzforu.pro^
 ||deans-shoprite.online^
 ||deans.shoprite.online^
@@ -4221,6 +4224,7 @@
 ||importantstuff.online^
 ||importsky.com^
 ||improvementy.com^
+||imtrk.go2cloud.org^
 ||imypass.com^
 ||in.tmwn.online^
 ||inamksa.icu^
@@ -7601,6 +7605,7 @@
 ||t.mediapros02.world^
 ||t.peer.com^
 ||t2.awagama2.org^
+||t3c.cool^
 ||tabsignaltrade.com^
 ||tabtouch.com.au^
 ||tackleft.com^
