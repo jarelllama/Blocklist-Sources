@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.150048.2025
+! Version: 03.01.153205.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 15:00:48 UTC 2025
+! Last modified: Sat Mar  1 15:32:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8987
+! Number of entries: 8989
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3102,6 +3102,7 @@
 ||evyplay.com^
 ||ewaqg.com^
 ||ewoika.com^
+||exchangemagix.com^
 ||exchangevista.com^
 ||exciting.meet.casual.com^
 ||exclusive.redeem.com^
@@ -7277,6 +7278,7 @@
 ||spec1trend8.shop^
 ||special.sale.sbs^
 ||specializedcorp.com^
+||specializk.com^
 ||specialoutlet.sbs^
 ||specialsurprises.online^
 ||specialtyvehiclesoftulsa.com^
