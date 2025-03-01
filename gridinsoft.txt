@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.180100.2025
+! Version: 03.01.183438.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 18:01:00 UTC 2025
+! Last modified: Sat Mar  1 18:34:38 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9005
+! Number of entries: 9013
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -639,9 +639,11 @@
 ||aouve.store^
 ||aovoise.com^
 ||apanharwatch.com^
+||apartmentinpoznan.pl^
 ||apegis.com^
 ||apex.foundation.online^
 ||apex.swift.com^
+||apexadally.com^
 ||apexcapital.wealth.com^
 ||apexcapitallimited.com^
 ||apexcapitalspro.com^
@@ -927,6 +929,7 @@
 ||backtoblu.online^
 ||baffinca.com^
 ||bagii.shop^
+||bagnieman.shop^
 ||bagsmalls.com^
 ||bagsupermarket.com^
 ||bahissiteleri.2025.us^
@@ -992,9 +995,12 @@
 ||bbdoapp.help^
 ||bbloverdolls.com^
 ||bbq.tech.com^
+||bbw-flashsale.com^
+||bbw-ssale.com^
 ||bbwerzhuq333.com^
 ||bbyklai.shop^
 ||bcapstaking.com^
+||bcarhub.com^
 ||bchminer.com^
 ||bcplgi.shop^
 ||bcvc.pro^
@@ -1390,6 +1396,7 @@
 ||boclothes.com^
 ||bodegaaureramx.shop^
 ||bodegaaurrera.mex.com^
+||bodegaaurreraoferta.com^
 ||bodegaaurreraoficial.com^
 ||bodegadigital.biz^
 ||bodegamexco.shop^
@@ -5526,6 +5533,7 @@
 ||ncvv.pro^
 ||ndamazon.com^
 ||ndclothing.toronto.com^
+||ndsoutlets.com^
 ||nearriot.com^
 ||nebluscommercial.com^
 ||nebumine.com^
