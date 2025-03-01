@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.090050.2025
+! Version: 03.01.093118.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 09:00:50 UTC 2025
+! Last modified: Sat Mar  1 09:31:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8943
+! Number of entries: 8949
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3697,6 +3697,7 @@
 ||glod.usdeth.top^
 ||glomaes.congo.com^
 ||glothkom.de^
+||glowaura.co^
 ||glowingskinnow.com^
 ||glowpast.com^
 ||glowywill.com^
@@ -4976,6 +4977,7 @@
 ||mainelobsterget.shop^
 ||mainelobstersstore.com^
 ||mainmarketshop.shop^
+||mainstreamfint.online^
 ||mainstreetmall.shop^
 ||maisaleet.best^
 ||maisondereve.online^
@@ -5390,6 +5392,7 @@
 ||multiverse.retifications.netlify.app^
 ||mumkt.com^
 ||mundojadake.com^
+||mundolivre.site^
 ||mundonovo.ms.gov.br^
 ||mundoonline.link^
 ||mundys.online^
@@ -6181,6 +6184,7 @@
 ||pokezone.ca^
 ||pokharaapartment.com^
 ||polarbg.com^
+||polarto.com^
 ||policja.pl112.online^
 ||policyautosave.com^
 ||polocase.com^
@@ -7231,6 +7235,7 @@
 ||sovereigngoldengate.com^
 ||sowask.com^
 ||sp500.cc^
+||spacebank.us^
 ||spacecminec.com^
 ||spacecoinageminecryps.com^
 ||spagamia.com^
@@ -7522,6 +7527,7 @@
 ||t.mediapros02.world^
 ||t.peer.com^
 ||t2.awagama2.org^
+||tabsignaltrade.com^
 ||tabtouch.com.au^
 ||tackleft.com^
 ||tads.baker.co.za^
