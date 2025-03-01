@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.120102.2025
+! Version: 03.01.124157.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 12:01:02 UTC 2025
+! Last modified: Sat Mar  1 12:41:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8970
+! Number of entries: 8973
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4639,6 +4639,7 @@
 ||lacostes.com.mx^
 ||lacymate.com^
 ||ladderux.org^
+||ladyboofashion.com^
 ||ladysstreet.com^
 ||laferreteriaweb.com^
 ||lagriffaoutlett.com^
@@ -8284,6 +8285,7 @@
 ||vc66.net^
 ||vcard50.ru^
 ||vclubcc.live^
+||vectorgenz.com^
 ||veepee.fr.shop^
 ||veezpass.com^
 ||vegobit.com^
@@ -8516,6 +8518,7 @@
 ||wearallora.store^
 ||wearbreeze.co^
 ||wearjade.store^
+||wearsilky.com^
 ||wearychallengeraise.com^
 ||weastto.com^
 ||weatherbeetaery.top^
