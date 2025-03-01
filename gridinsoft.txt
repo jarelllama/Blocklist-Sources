@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.020807.2025
+! Version: 03.01.024845.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 02:08:07 UTC 2025
+! Last modified: Sat Mar  1 02:48:45 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8897
+! Number of entries: 8899
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -484,6 +484,7 @@
 ||alliancegpc.com^
 ||allianceroyals.com^
 ||allicross.online^
+||alliedgoldinvestment.com^
 ||allinonemarket.online^
 ||alljerseys.io^
 ||allmestyle.com^
@@ -4878,6 +4879,7 @@
 ||lusive.xyz^
 ||luujin.info^
 ||luvastro.com^
+||luvonnetherlands.com^
 ||luvwehair.com^
 ||luxbedcom.store^
 ||luxebazaar.online^
