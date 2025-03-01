@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.203131.2025
+! Version: 03.01.210053.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 20:31:31 UTC 2025
+! Last modified: Sat Mar  1 21:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9034
+! Number of entries: 9036
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4561,6 +4561,7 @@
 ||kirillviktoriawedding.online^
 ||kirintpay.com^
 ||kishka.co^
+||kissanime.cfd^
 ||kissasiantv.cx^
 ||kisslove.com^
 ||kissminis.com^
@@ -6020,6 +6021,7 @@
 ||pairrelax.com^
 ||palavaproperties.in^
 ||paldo.site^
+||paleoette.com^
 ||palessaint.com^
 ||palettepro.homes^
 ||palladiumone.inc.com^
