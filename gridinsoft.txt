@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.170103.2025
+! Version: 03.01.173051.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 17:01:03 UTC 2025
+! Last modified: Sat Mar  1 17:30:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8999
+! Number of entries: 9003
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -832,6 +832,7 @@
 ||atlanticuni.com^
 ||atlasore.com^
 ||atlaspays.com^
+||atmastore.com^
 ||atomicwalletdapp.com^
 ||atomishine.com^
 ||atouchofgreenboutique.com^
@@ -1048,6 +1049,7 @@
 ||besafetoday.top^
 ||beseenmarketing.online^
 ||besstnews.info^
+||bessyoupin.com^
 ||best.audio.shop.com^
 ||best.expertonline.com^
 ||best.outdoor.gear.com^
@@ -2131,6 +2133,7 @@
 ||coolkicksmall.net^
 ||coolrom.com.au^
 ||coolwayschuhedeutschland.com^
+||coopandfeathers.com^
 ||cooperativte.com^
 ||cop.serversha.xyz^
 ||coperatefinance.com^
@@ -8814,6 +8817,7 @@
 ||xofyciy.shop^
 ||xordecisions.com^
 ||xorylia.com^
+||xperdiscount.com^
 ||xpertlex.online^
 ||xpfmall.biz^
 ||xposz.shop^
