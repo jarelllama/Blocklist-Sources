@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.173051.2025
+! Version: 03.01.180100.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 17:30:51 UTC 2025
+! Last modified: Sat Mar  1 18:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9003
+! Number of entries: 9005
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5209,6 +5209,7 @@
 ||micropic.com.br^
 ||microsoftmailgfcyggwfaomrdta.tiponside.com^
 ||microsoftuj.cz^
+||microstarr.com^
 ||microstrategy.xin^
 ||midgetsporn.com^
 ||midlandintercontinental.com^
@@ -8936,6 +8937,7 @@
 ||zdwlx.com^
 ||zebg.top^
 ||zedger.net^
+||zeecom.shop^
 ||zeharris.online^
 ||zelamex.com^
 ||zelonor.com^
