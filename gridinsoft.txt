@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.100057.2025
+! Version: 03.01.103320.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 10:00:57 UTC 2025
+! Last modified: Sat Mar  1 10:33:20 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8950
+! Number of entries: 8955
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -266,6 +266,7 @@
 ||accumarkets.live^
 ||accurecrypto.com^
 ||ace.capitals.com^
+||acemovez.com^
 ||acerintplc.online^
 ||aceroexpressgr.com^
 ||acesports.world^
@@ -1026,6 +1027,7 @@
 ||bellcasual.com^
 ||bellutia.com^
 ||belmondagency.com^
+||belonguss.com^
 ||beloryx.com^
 ||beltlox.top^
 ||beltotv.com^
@@ -1073,6 +1075,8 @@
 ||bet.way.online^
 ||bet4.pe^
 ||beta.cash.com^
+||betakuechenxgeisler.shop^
+||betapremieryarnscom.shop^
 ||betatrademarket.com^
 ||betatransfer.io^
 ||betcasn.com^
@@ -1404,6 +1408,7 @@
 ||booie.online^
 ||booking.com-31t.prop5253145.homes^
 ||bookmarkfc.info^
+||bookmyjet.co^
 ||booknflow.fr^
 ||boomerenginvestitionen.com^
 ||boomingbulladvisory.in^
