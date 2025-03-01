@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.043342.2025
+! Version: 03.01.050059.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 04:33:42 UTC 2025
+! Last modified: Sat Mar  1 05:00:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8913
+! Number of entries: 8919
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -565,6 +565,7 @@
 ||ambiledhub.com^
 ||ambipurcar.com^
 ||amdconsults.com^
+||ameliaboxoption.ltd^
 ||american.edu.co^
 ||americancaritascreditunion.com^
 ||americanfunds.com^
@@ -692,6 +693,8 @@
 ||appinnovatel.com^
 ||appj.online^
 ||appkong.store^
+||appleresd.com^
+||applesecurityioscare.com^
 ||appleusa.tk^
 ||apply.myfunnelish.com^
 ||apps.onebeyond.com^
@@ -712,6 +715,7 @@
 ||arbex.io^
 ||arbicryptos.com^
 ||arbitcap.com^
+||arbitrage-ai-app.com^
 ||arbitronix.io^
 ||arcmine.com^
 ||ardilu.com^
@@ -4663,6 +4667,7 @@
 ||leftisaldopt.shop^
 ||legacy.coin.com^
 ||legacyoptions.org^
+||legaltrademarkpros.com^
 ||legend88juara.online^
 ||legendplay.online.com^
 ||legendwox.online^
@@ -7673,6 +7678,7 @@
 ||thetradehub.net^
 ||thetruthinfo.club^
 ||thewealthwave.co^
+||thewebdesignerllc.com^
 ||thewisdombible.com^
 ||theworkstep.com^
 ||thexaut.network^
