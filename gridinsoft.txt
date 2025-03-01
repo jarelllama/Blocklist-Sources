@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.140055.2025
+! Version: 03.01.143239.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 14:00:55 UTC 2025
+! Last modified: Sat Mar  1 14:32:39 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8982
+! Number of entries: 8984
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1751,6 +1751,7 @@
 ||caveysrestaurant.com^
 ||caxamin.com^
 ||cbb2025.com.br^
+||cbd-chemicals.com^
 ||cbex.cx^
 ||cbex.vip^
 ||cbex18.com^
@@ -1843,6 +1844,7 @@
 ||cheerycouture.com^
 ||chemicaldepotllc.com^
 ||chemicaltiger.com^
+||chemistry-king.com^
 ||cheqseep.online^
 ||cherax.menu^
 ||cherie-sheriff.com^
