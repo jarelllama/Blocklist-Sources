@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.130345.2025
+! Version: 03.01.133201.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 13:03:45 UTC 2025
+! Last modified: Sat Mar  1 13:32:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8976
+! Number of entries: 8979
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4913,6 +4913,7 @@
 ||luluyogastore.com^
 ||lumacex.com^
 ||lumeraco.com^
+||lumilean.io^
 ||luminassociate.com^
 ||lunajerk.com^
 ||lunarbet.fun^
@@ -5749,6 +5750,7 @@
 ||officedesk.commercialdeals.online^
 ||official-promo.net^
 ||official.promo.net^
+||officialaura.shop^
 ||officialmaga.com^
 ||officialmagacoin.com^
 ||offresdespace24.com^
@@ -8444,6 +8446,7 @@
 ||vudu.top^
 ||vuksy.site^
 ||vvdes.store^
+||vvww--roblox.com^
 ||vx88.vx.com^
 ||vx8802.com^
 ||vx88t.com^
