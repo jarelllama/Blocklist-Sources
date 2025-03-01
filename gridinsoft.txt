@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.031039.2025
+! Version: 03.01.033807.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 03:10:39 UTC 2025
+! Last modified: Sat Mar  1 03:38:07 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8904
+! Number of entries: 8906
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3084,6 +3084,7 @@
 ||exnesstradexpert.com^
 ||exnori.com^
 ||exnova.digital^
+||exogator.com^
 ||exoky.com^
 ||exon.energy.com^
 ||exonvic.com^
@@ -6750,6 +6751,7 @@
 ||rumaxtech.com^
 ||ruopors.co.in^
 ||rurocworld.com^
+||rushtonstore.com^
 ||russesale.shop^
 ||rust.bet.com^
 ||rustsnest.com^
