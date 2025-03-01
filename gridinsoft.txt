@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.133201.2025
+! Version: 03.01.140055.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 13:32:01 UTC 2025
+! Last modified: Sat Mar  1 14:00:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8979
+! Number of entries: 8982
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3106,6 +3106,7 @@
 ||exclusivebooksale.com^
 ||exclusivetradeoption.live^
 ||excotrade.com^
+||exemplifyt.com^
 ||exiledexchange2.com^
 ||exness.com^
 ||exnesspro.cc^
@@ -3781,6 +3782,7 @@
 ||google809.com^
 ||goosecreekcandle.com^
 ||gored.site^
+||gorexy.com^
 ||gorouslook.com^
 ||gotkawa.co^
 ||gotoloapp.com^
@@ -6289,6 +6291,7 @@
 ||primetslatrading.com^
 ||primewire.tf^
 ||primitivesystem.online^
+||primuschemical.com^
 ||pristinedrivecarcare.com^
 ||privatebin.net^
 ||privatesportshop.fr^
