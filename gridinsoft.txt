@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.223245.2025
+! Version: 03.01.230054.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 22:32:45 UTC 2025
+! Last modified: Sat Mar  1 23:00:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9048
+! Number of entries: 9050
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5470,6 +5470,7 @@
 ||muvtea.com^
 ||mvknnd.online^
 ||mvm-bank.com^
+||mvrcommunity.com^
 ||mvrglobal.online^
 ||mw02.ipshorty.online^
 ||mwmhelphub.com^
@@ -9049,6 +9050,7 @@
 ||zucess.online.com^
 ||zuen.fund^
 ||zuhouee.com^
+||zulushopping.com^
 ||zutaonline.com^
 ||zx3.io^
 ||zxzclitin.shop^
