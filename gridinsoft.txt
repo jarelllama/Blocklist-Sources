@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.040104.2025
+! Version: 03.01.043342.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 04:01:04 UTC 2025
+! Last modified: Sat Mar  1 04:33:42 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8909
+! Number of entries: 8913
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1057,6 +1057,7 @@
 ||besthowtoguides.com^
 ||bestluxurysaller.com^
 ||bestmayoreo.com.mx^
+||bestmintartistry.com^
 ||bestnationalcreditunion.com^
 ||bestoffersnew.xyz^
 ||bestxsoftware.com^
@@ -1327,6 +1328,7 @@
 ||blockskipad.com^
 ||blockstreamsmining.com^
 ||blockwillchain.online^
+||bloegy.com^
 ||blofinm.com^
 ||blofinm2.com^
 ||bloginnet.in^
@@ -4145,6 +4147,7 @@
 ||ilikeauli.com^
 ||illuminati-newworldorder.com^
 ||illuminatitemplo.org^
+||ilsacrodeigioielli.com^
 ||imagiashop.com^
 ||imbictoz.com^
 ||imeinow.net^
@@ -6208,6 +6211,7 @@
 ||premiumbankleyfx.com^
 ||premiumjewelrycenter.com^
 ||premiumsportshop.com^
+||premiumtrack55.info^
 ||prenvox.com^
 ||prepxi.com^
 ||presale.mot.army^
