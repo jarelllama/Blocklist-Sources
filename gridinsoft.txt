@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.183438.2025
+! Version: 03.01.190058.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 18:34:38 UTC 2025
+! Last modified: Sat Mar  1 19:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9013
+! Number of entries: 9018
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -625,6 +625,7 @@
 ||antasportsjapan.com^
 ||antautosurf.com^
 ||anteap.com^
+||anthonybrodin.shop^
 ||anti.fraudcentre.com^
 ||antibot.v2.com^
 ||antigellingeriesale.com^
@@ -1005,6 +1006,8 @@
 ||bcplgi.shop^
 ||bcvc.pro^
 ||bdjf2ls.com^
+||bdmeumowcgf.shop^
+||bdrself.com^
 ||bdxxa.com^
 ||bdyg.store^
 ||bearatten.com^
@@ -1202,6 +1205,7 @@
 ||bitana.co^
 ||bitantea.cc^
 ||bitb.trading^
+||bitbenefit.org^
 ||bitblockasset.com^
 ||bitbuycoinex.com^
 ||bitcapital.online^
@@ -5669,6 +5673,7 @@
 ||nlleenbakker.com^
 ||nlvivobarefoot.com^
 ||nnenry.online^
+||nobitextrade.com^
 ||noblecalm.com^
 ||noblehackshield.com^
 ||nobrix.cfd^
