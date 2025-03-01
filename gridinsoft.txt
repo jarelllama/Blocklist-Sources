@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.103320.2025
+! Version: 03.01.110048.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 10:33:20 UTC 2025
+! Last modified: Sat Mar  1 11:00:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8955
+! Number of entries: 8958
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1079,6 +1079,7 @@
 ||betapremieryarnscom.shop^
 ||betatrademarket.com^
 ||betatransfer.io^
+||betbreeders.co.za^
 ||betcasn.com^
 ||betflix.network^
 ||bethblase.shop^
@@ -6357,6 +6358,7 @@
 ||przekazujemy.click^
 ||przewidywalnosc.click^
 ||psera.nimprove.top^
+||pshpuls.com^
 ||psicologiaencasa.online^
 ||psilochocolatebars.com^
 ||psona.io^
@@ -8590,6 +8592,7 @@
 ||wibikesstreet.com^
 ||wichhistor.co.uk^
 ||wideopentriggers.com^
+||wiehenstahl.co^
 ||wiflix-pro.site^
 ||wilbal.com^
 ||wilfredknight.com.au^
