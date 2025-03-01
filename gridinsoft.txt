@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.063558.2025
+! Version: 03.01.070102.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 06:35:58 UTC 2025
+! Last modified: Sat Mar  1 07:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8926
+! Number of entries: 8929
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -631,6 +631,7 @@
 ||anvdzor.com^
 ||anxietyaids.org^
 ||anyvoicelab.com^
+||aoinm.com^
 ||aorlbl.admirabledates.net^
 ||aouve.store^
 ||aovoise.com^
@@ -2632,6 +2633,7 @@
 ||digitsathi.co.in^
 ||dinegt.click^
 ||dinodex.net^
+||dinpe.com^
 ||diptyque.shop^
 ||diptysales.com^
 ||directamatch.com^
@@ -5138,6 +5140,7 @@
 ||metatrendsmarket.org^
 ||meteora.ag^
 ||metfareonline.com^
+||metfares.com^
 ||methhouse.store^
 ||methodeversohnungvonbeziehungen.online^
 ||metodo.sigma.online^
