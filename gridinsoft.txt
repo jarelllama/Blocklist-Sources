@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.113050.2025
+! Version: 03.01.120102.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 11:30:50 UTC 2025
+! Last modified: Sat Mar  1 12:01:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8961
+! Number of entries: 8970
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1768,6 +1768,7 @@
 ||cdonnsauw.top^
 ||ceaondlet.com^
 ||cegepsi.ca^
+||ceillz.com^
 ||ceipa.edu.co^
 ||celebprize.com^
 ||celeharm.com^
@@ -3474,6 +3475,7 @@
 ||fsmirror09.lol^
 ||fsmirror24.lol^
 ||ftx.global.site^
+||fuckinyourcity.com^
 ||fudianbank.win^
 ||fuexweb.com^
 ||fuga.studios.com^
@@ -4834,6 +4836,7 @@
 ||london.elegance.com^
 ||londongroupinvestments.com^
 ||longchampespana.cc^
+||lookitfit.com^
 ||lookmovie2.to^
 ||looksaleet.click^
 ||loomtrust.com^
@@ -4892,6 +4895,7 @@
 ||ltetradingacademy.com^
 ||luatypticures.co.in^
 ||lucckky.com^
+||lucindada.co.uk^
 ||luckizac.top^
 ||luckuystore.com^
 ||lucky.motorcycles.com^
@@ -6437,6 +6441,7 @@
 ||pwanew4.1.onmore.top^
 ||pwanew5.1.onmore.top^
 ||pwma-portal.com^
+||pws-nordic.online^
 ||pwyt.org^
 ||pxqboso.com^
 ||pyh.news.click^
@@ -6517,6 +6522,7 @@
 ||quickq.fit^
 ||quickqi.top^
 ||quillpunt.online^
+||quilted-shadowed-verbena.glitch.me^
 ||quiltsbedspreads.com^
 ||quintessential.quillaig.shop^
 ||qumqu.com^
@@ -6713,6 +6719,7 @@
 ||ringgitplus.com^
 ||riothye.com^
 ||riotxai.com^
+||riricell.com^
 ||risesparksolution.com^
 ||riskcomplianceportfolio134043.online^
 ||ritongt.com^
@@ -6746,6 +6753,7 @@
 ||rogofodeputeburomi.shop^
 ||rohanrawool.com^
 ||roidteam.shop^
+||roitronix.ltd^
 ||rojadirectvonline.com^
 ||rokinat.co.in^
 ||rolexetf.site^
@@ -8486,6 +8494,7 @@
 ||wb-digital.com^
 ||wbocash.online^
 ||wck37.top^
+||wcofun.net^
 ||wcostream.tv^
 ||wctclaim.netlify.app^
 ||wdass.com^
