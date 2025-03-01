@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.080056.2025
+! Version: 03.01.083404.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 08:00:56 UTC 2025
+! Last modified: Sat Mar  1 08:34:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8934
+! Number of entries: 8940
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1355,6 +1355,7 @@
 ||blumeheat.shop^
 ||blusar.com^
 ||blushx.co^
+||blwjbarc.com^
 ||blynex.net^
 ||bmjmarineroute.com^
 ||bmo.verification.secure.com^
@@ -2158,6 +2159,7 @@
 ||cozycoatl.shop^
 ||cozyfash.shop^
 ||cozyjkts.com^
+||cpagrip.com^
 ||cpalead.com^
 ||cpasbien.zip^
 ||cps.cirroparcel.com^
@@ -5104,6 +5106,7 @@
 ||megastoreworld.pro^
 ||megatrendsplaza.shop^
 ||megaup.net^
+||megifting.com^
 ||meindl.norge.com^
 ||meistrgold.com^
 ||meizhitoys.com^
@@ -5528,6 +5531,7 @@
 ||neversettleppc.com^
 ||new11thstreet.online^
 ||newalking.com^
+||newarrivalgee.com^
 ||newbalancelink.com^
 ||newdefineservice.online^
 ||newdynaxioncb.org^
@@ -7200,6 +7204,7 @@
 ||solpick.io^
 ||solrand.com^
 ||solrip.io^
+||solutionexperts.io^
 ||somolarlp.com^
 ||songreviewere.com^
 ||songreviewerww.com^
@@ -8334,6 +8339,7 @@
 ||vincecomfort.com^
 ||vineyardsoutlet.com^
 ||vinkaoilgasconsultant.com^
+||vintacrow.com^
 ||vintage.autosales.com^
 ||vintagehue.com^
 ||vintagewholesalesupplyltd.com^
