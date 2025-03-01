@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.110048.2025
+! Version: 03.01.113050.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 11:00:48 UTC 2025
+! Last modified: Sat Mar  1 11:30:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8958
+! Number of entries: 8961
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1081,6 +1081,7 @@
 ||betatransfer.io^
 ||betbreeders.co.za^
 ||betcasn.com^
+||betcoin.ink^
 ||betflix.network^
 ||bethblase.shop^
 ||betkitta.com^
@@ -7190,6 +7191,7 @@
 ||soccerlive.app^
 ||socialplug.io^
 ||sociedaduniversal.com^
+||socigames.com^
 ||socioplanet.com^
 ||sockshappystore.com^
 ||sodavac.com^
@@ -7283,6 +7285,7 @@
 ||sportsdailydeals.com^
 ||sportsdirectdailydeals.shop^
 ||sportstylesnow.com^
+||sportyarray.com^
 ||sportzone3.com^
 ||spotifyinfo.app^
 ||spotifymode.com^
