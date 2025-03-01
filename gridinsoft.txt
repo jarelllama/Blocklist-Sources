@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.053233.2025
+! Version: 03.01.060056.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 05:32:33 UTC 2025
+! Last modified: Sat Mar  1 06:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8922
+! Number of entries: 8924
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -698,6 +698,7 @@
 ||appleusa.tk^
 ||apply.myfunnelish.com^
 ||apps.onebeyond.com^
+||appsamurai1.com^
 ||appvelocity1.click^
 ||appvr.org^
 ||aprendefullemprendedesdecasa.online^
@@ -7078,6 +7079,7 @@
 ||skhealthline.com^
 ||skidipapap.online^
 ||skidrowcodex.net^
+||skill-path-way-de.works^
 ||skillcrafttech.com^
 ||skilllynxw.top^
 ||skillmosaic.org^
