@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.143239.2025
+! Version: 03.01.150048.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 14:32:39 UTC 2025
+! Last modified: Sat Mar  1 15:00:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8984
+! Number of entries: 8987
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5934,6 +5934,7 @@
 ||ottoeu.com^
 ||ou-chhh.store^
 ||ourcoincash.xyz^
+||ourjoiasaldo.shop^
 ||ourruless.store^
 ||oursportday.com^
 ||ourtime.com^
@@ -7488,6 +7489,7 @@
 ||supportbitget.com^
 ||supportsentparticle.com^
 ||suppsforlife.to^
+||supremehackers.net^
 ||suredafa.com^
 ||surfapple.com^
 ||surfing777.online^
@@ -8684,6 +8686,7 @@
 ||wolrdlibertyfinancial.com^
 ||wolverinegermany.com^
 ||womoke.com^
+||wooeyeshop.com^
 ||wooflix.tv^
 ||woonr.top^
 ||work-lifeimmigrationservices.com^
