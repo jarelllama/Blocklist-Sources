@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.190058.2025
+! Version: 03.01.193048.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 19:00:58 UTC 2025
+! Last modified: Sat Mar  1 19:30:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9018
+! Number of entries: 9028
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -584,7 +584,9 @@
 ||amontreupfr.shop^
 ||amorelleco.com^
 ||amouzo.com^
+||amozon.zone^
 ||amp.pemuda138.com^
+||ampalainfo.com^
 ||ampay.su^
 ||amrrvip.com^
 ||ams-solutions.com^
@@ -617,7 +619,11 @@
 ||animvip.com^
 ||ankr.top^
 ||annafieldshops.fr^
+||anneraskin.shop^
+||annettelomont.shop^
 ||annexdeliveryservice.com^
+||annexheightcapitals.com^
+||anniart.com^
 ||annuallye.com^
 ||anonhost.xyz^
 ||anonym.ninja^
@@ -832,6 +838,7 @@
 ||athenafinanceltd.in^
 ||athna.su^
 ||ativado.org^
+||atlantictrustfl.net^
 ||atlanticuni.com^
 ||atlasore.com^
 ||atlaspays.com^
@@ -4133,6 +4140,7 @@
 ||htonlinesale.com^
 ||htxsbot.com^
 ||huaweiinest.com^
+||hubtravels.co.uk^
 ||hubwf.app^
 ||hudsonclassic.com^
 ||hugeunforgettable.com^
@@ -5672,6 +5680,8 @@
 ||nlcrents.com^
 ||nlleenbakker.com^
 ||nlvivobarefoot.com^
+||nmnpfkwrtuyzh.shop^
+||nmrarg.shop^
 ||nnenry.online^
 ||nobitextrade.com^
 ||noblecalm.com^
