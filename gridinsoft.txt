@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.200047.2025
+! Version: 03.01.203131.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 20:00:47 UTC 2025
+! Last modified: Sat Mar  1 20:31:31 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9032
+! Number of entries: 9034
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5705,6 +5705,7 @@
 ||nordfinnance.com^
 ||nordic.finanx.com^
 ||nordicremolquesl.com^
+||nordtrank.com^
 ||nordyen.com^
 ||nordyen.de^
 ||nordyen.nl^
@@ -7936,6 +7937,7 @@
 ||trade.eightcap.com^
 ||trade.emeraltrade.com^
 ||trade2swap.com^
+||tradealgorithmltd.com^
 ||tradecg.company.info^
 ||tradeeuglobal.net^
 ||tradefinancebureau.com^
