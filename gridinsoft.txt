@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 02.28.233054.2025
+! Version: 03.01.000205.2025
 ! Expires: 30 minutes
-! Last modified: Fri Feb 28 23:30:54 UTC 2025
+! Last modified: Sat Mar  1 00:02:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8875
+! Number of entries: 8879
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -525,6 +525,7 @@
 ||altimotradingsltd.com^
 ||altmisnews.com^
 ||altomine.top^
+||altraprime-trade.org^
 ||altraprime.trade.org^
 ||alturametatrade.com^
 ||alugueldebrinquedos.online^
@@ -3182,6 +3183,7 @@
 ||febgtvh.com^
 ||febit.vip^
 ||fedilitylogistics.com^
+||feelbikestore.com^
 ||feeliey.com^
 ||feels.ct.ws^
 ||feenox.com^
@@ -4732,6 +4734,7 @@
 ||lipozemus.com^
 ||lippizapatillaes.shop^
 ||liquidationpalletshub.top^
+||liquidationstockeurope.com^
 ||lisandoo.com^
 ||listladder.com^
 ||litebix.com^
@@ -6459,6 +6462,7 @@
 ||qumqu.com^
 ||quvrmh.com^
 ||qvion8.com^
+||qvwcc.com^
 ||qwdsg.com^
 ||qwertyco.org^
 ||qwidex.com^
