@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.033807.2025
+! Version: 03.01.040104.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 03:38:07 UTC 2025
+! Last modified: Sat Mar  1 04:01:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8906
+! Number of entries: 8909
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1030,6 +1030,7 @@
 ||berichinnvest1.com^
 ||bernaid.shop^
 ||bernardex.com^
+||berosely.com^
 ||bertaus.com^
 ||bervospace.com^
 ||besafetoday.top^
@@ -2405,6 +2406,7 @@
 ||deacetrader.com^
 ||dealsavernow.com^
 ||dealzforu.pro^
+||deans-shoprite.online^
 ||deans.shoprite.online^
 ||deathance.com^
 ||debtfreehomez.com^
@@ -5546,6 +5548,7 @@
 ||newsletter.nailedit.club^
 ||newstargetingads.top^
 ||newsyoucanread24.com^
+||newton-management.one^
 ||newulife.com^
 ||newworldstrusts.com^
 ||newyorkshroomsonline.com^
