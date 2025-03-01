@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.220053.2025
+! Version: 03.01.223245.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 22:00:53 UTC 2025
+! Last modified: Sat Mar  1 22:32:45 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9045
+! Number of entries: 9048
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -909,6 +909,7 @@
 ||avirus.hu^
 ||avitechwin.co.in^
 ||avlissatdnagait.online^
+||avonbestvs.click^
 ||avrixdynamiservices.com^
 ||avyxo.com^
 ||awkngtv.org^
@@ -4870,6 +4871,7 @@
 ||login.microsoft.com^
 ||login.olx.bg^
 ||logindesjardinsinfo.com^
+||logisticsfreights.com^
 ||logomagik.online^
 ||logsandcardsshop.com^
 ||lolasee.com^
@@ -6085,6 +6087,7 @@
 ||paternboutique.shop^
 ||pathtruths.com^
 ||patioupre.com^
+||patrontradecapital.net^
 ||patsao.com^
 ||paulheilman.shop^
 ||pawns.app^
