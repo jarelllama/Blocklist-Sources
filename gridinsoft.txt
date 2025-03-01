@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.01.163409.2025
+! Version: 03.01.170103.2025
 ! Expires: 30 minutes
-! Last modified: Sat Mar  1 16:34:09 UTC 2025
+! Last modified: Sat Mar  1 17:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 8996
+! Number of entries: 8999
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -763,6 +763,7 @@
 ||artguru.ai^
 ||arthuspablo17sh.com^
 ||artisanalessentials.shop^
+||artistryxchange.com^
 ||artosnomics.com^
 ||artswardrobe.com^
 ||artsyfame.homes^
@@ -3409,6 +3410,7 @@
 ||forioxtrade.com^
 ||formoreup.xyz^
 ||forsage.io^
+||fortnitefun.com^
 ||fortradshow.com^
 ||fortressfinex.com^
 ||fortune.engine.com^
@@ -8896,6 +8898,7 @@
 ||ytmp3.ec^
 ||ytmp3.la^
 ||yts.skin^
+||yuavy.com^
 ||yumbrandsratings.com^
 ||yumbrandsreview.com^
 ||yumpulses.com^
