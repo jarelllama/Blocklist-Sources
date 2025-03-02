@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.030926.2025
+! Version: 03.02.033656.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 03:09:26 UTC 2025
+! Last modified: Sun Mar  2 03:36:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9061
+! Number of entries: 9062
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -8480,6 +8480,7 @@
 ||vitadex.org^
 ||vitalityblissmart.com^
 ||vitalpetlife.com^
+||vitalrootsus.com^
 ||vitosync.com^
 ||vitrofx.org^
 ||viviennewestwoodoutlets.com^
