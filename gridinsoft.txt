@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.150100.2025
+! Version: 03.02.153058.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 15:01:00 UTC 2025
+! Last modified: Sun Mar  2 15:30:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9130
+! Number of entries: 9133
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2495,6 +2495,7 @@
 ||decentralizedtek.pages.dev^
 ||decorhome.arg.store^
 ||decorstore.club^
+||deenari.ae^
 ||deenext.com^
 ||deepcoinf.com^
 ||deepnude.to^
@@ -2647,6 +2648,7 @@
 ||deutschland.online.store^
 ||dev.cccbb.xyz^
 ||devcrack.org^
+||devicebasket.site^
 ||devineprotocol.com^
 ||devzone2.online^
 ||dewbots.com^
@@ -6110,6 +6112,7 @@
 ||parapcc.com^
 ||pardentcapital.com^
 ||parecoin.com^
+||parfumdelux-outlet.site^
 ||paribet.in^
 ||paris.cc.global.prod.fastly.net^
 ||parisdocase.com^
