@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.173149.2025
+! Version: 03.02.180056.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 17:31:49 UTC 2025
+! Last modified: Sun Mar  2 18:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9136
+! Number of entries: 9140
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2408,6 +2408,7 @@
 ||d4iqpj8tqft8l.cloudfront.net^
 ||d6vn.com^
 ||daarklabsuplementos.com^
+||dadymall.com^
 ||daeuco.com^
 ||dagahna.fun^
 ||daily.deals.sale^
@@ -2455,6 +2456,7 @@
 ||data.driveninvesting.net^
 ||datadexterity.online^
 ||dataforgesphere.cyou^
+||dataiku.cfd^
 ||dataminr.ai.org^
 ||dataminr.ai.xyz^
 ||dataprocessinghere.online^
@@ -6665,6 +6667,7 @@
 ||radioconexaoubermusic.com^
 ||ragratech.fr^
 ||rahhel.com^
+||rain-routes.co.uk^
 ||raineyeshadowguilty.com^
 ||rainsweb.com^
 ||rajatsinghchauhan.com^
@@ -7524,6 +7527,7 @@
 ||stockstrategytrade.com^
 ||stoigr.org^
 ||stoktrade.invest.com^
+||stone-finance.online^
 ||stonxdex.com^
 ||stoptheemails.org^
 ||store.belgianshop.com^
