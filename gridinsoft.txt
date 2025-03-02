@@ -3,16 +3,12 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.210520.2025
+! Version: 03.02.210939.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  2 21:05:20 UTC 2025
+! Last modified: Sun Mar  2 21:09:39 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9178
+! Number of entries: 9185
 !
-||constitutionalalleviation.top^
-||tryfemina.com^
-||videoperkstream.com^
-||vopifg.com^
 ||000074.cc^
 ||0019.coinbase.com^
 ||003001.cc^
@@ -762,6 +758,7 @@
 ||arienspmpef.shop^
 ||arirak.online^
 ||aris.mall.com^
+||arix.exchange^
 ||arjantltd.com^
 ||ark888.vip^
 ||arkacoin.com^
@@ -2182,6 +2179,7 @@
 ||conservativista.com^
 ||consorciosrt.online^
 ||constipation.relieve.16.online^
+||constitutionalalleviation.top^
 ||construction.jobs.nz.online^
 ||consultarpedidosweb.online^
 ||contactandplay.com^
@@ -2309,6 +2307,7 @@
 ||crypto.course.club^
 ||crypto.culture.xyz^
 ||crypto.currency.group^
+||crypto.g2live006.top^
 ||crypto.hold.com^
 ||crypto.miner.co^
 ||crypto.motorsports.com^
@@ -4409,6 +4408,7 @@
 ||irembo.com^
 ||iris.tech.online^
 ||irisium.lat^
+||iron-oil.com^
 ||ironchainbank.io^
 ||ironfx.com^
 ||irwin.tools.com^
@@ -4988,6 +4988,7 @@
 ||louvalence.co^
 ||lovdomnotiallus.top^
 ||lovecoget.click^
+||lovefransk.click^
 ||lovejabsk.click^
 ||lovejili21.com^
 ||lovekrsk.click^
@@ -5102,6 +5103,7 @@
 ||madeinss.com^
 ||madmuscles.com^
 ||madvisa.com^
+||maegqf.com^
 ||maexj2trk.com^
 ||magamart.co^
 ||magatrustfunds.com^
@@ -5235,6 +5237,7 @@
 ||medicorners.com^
 ||medipirol.com^
 ||medistorehub.com^
+||mediumspots.com^
 ||medixway.com^
 ||mednakit.com^
 ||medzguru.store^
@@ -8139,6 +8142,7 @@
 ||trendmartus.com^
 ||trendnestw.com^
 ||trendyhubllc.shop^
+||trendytradefx.com^
 ||tresurenft.xyz^
 ||trezzor.io.start.it.webflow.io^
 ||trianz.life^
@@ -8212,6 +8216,7 @@
 ||trxproxtrade.com^
 ||tryanua.co^
 ||tryessnce.com^
+||tryfemina.com^
 ||trygamecrate.com^
 ||tryriva.com^
 ||ts761hgd.com^
@@ -8543,6 +8548,7 @@
 ||vidcloud1.com^
 ||video.earns.top^
 ||video4k.site^
+||videoperkstream.com^
 ||videosfund.top^
 ||videouniquebooster.com^
 ||viemia.com^
@@ -8617,6 +8623,7 @@
 ||volklsports.com^
 ||volmar.sinformations.cfd^
 ||volundvt.dk^
+||vopifg.com^
 ||vorgang.abschliessen.online^
 ||vorobit.com^
 ||vortica.net^
