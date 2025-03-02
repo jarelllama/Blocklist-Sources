@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.083314.2025
+! Version: 03.02.090052.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 08:33:14 UTC 2025
+! Last modified: Sun Mar  2 09:00:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9092
+! Number of entries: 9094
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1567,6 +1567,7 @@
 ||btxminer.com^
 ||bubblesbets.com^
 ||buble.com.cn^
+||bublesy.com^
 ||bubully.com^
 ||buchesdefrance.com^
 ||budcloud.de^
@@ -4191,6 +4192,7 @@
 ||hxnkqn.shop^
 ||hxsc.store^
 ||hxxokerase.fyi^
+||hyderabadnyte.com^
 ||hypebox-brand.com^
 ||hyperbit.biz^
 ||hyperbot.fun^
