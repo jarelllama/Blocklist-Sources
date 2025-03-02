@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.020724.2025
+! Version: 03.02.024743.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 02:07:24 UTC 2025
+! Last modified: Sun Mar  2 02:47:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9060
+! Number of entries: 9061
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -7770,6 +7770,7 @@
 ||theneuropulse.com^
 ||thenorthernlabs.com^
 ||thenorthernmarkets.com^
+||thenovabottle.com^
 ||theonlinejob.co.in^
 ||theoryar.com^
 ||thepalaceoftreasuresaustralia.com^
