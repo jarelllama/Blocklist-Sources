@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.215930.2025
+! Version: 03.02.221205.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  2 21:59:30 UTC 2025
+! Last modified: Sun Mar  2 22:12:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 97
+! Number of entries: 111
 !
 ||dropton.icu^
 ||ds-sandiego.com^
@@ -106,3 +106,17 @@
 ||getfreesolana.com^
 ||getgems.gifts^
 ||getgrass-eligiblity.vercel.app^
+||ghostdrive.vercel.app^
+||gicoin.trade^
+||gleam.blog^
+||glencore.network^
+||global-standardcapital.com^
+||globalstalk.com^
+||gmeonsol.site^
+||goats.cyou^
+||gogglz.io^
+||gogle-play.life^
+||goglzai.io^
+||golden-coin.co^
+||goldtechtrades.com^
+||gomble-gmm.xyz^

@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.215931.2025
+! Version: 03.02.221206.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  2 21:59:31 UTC 2025
+! Last modified: Sun Mar  2 22:12:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9197
+! Number of entries: 9202
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3034,6 +3034,7 @@
 ||elyaevents.com^
 ||elysiumvip.top^
 ||elysse.store^
+||em-sugardefender.com^
 ||email.mail.spinfinity.casino^
 ||embasic.pro^
 ||emboldnoblefx.com^
@@ -5341,6 +5342,7 @@
 ||miehou.com^
 ||miespe.espe.edu.ec^
 ||migflash.net^
+||mightyblockcapital.com^
 ||mightycleansolutions.com^
 ||mightygodmining.com^
 ||mightypol.com^
@@ -5430,6 +5432,7 @@
 ||mmrtb.com^
 ||mncr.club^
 ||mnkecom.com^
+||mo-abdul-hai.com^
 ||mobefind.ie.com^
 ||mobile.btcoinus.org^
 ||mobile.co.uk^
@@ -5613,6 +5616,7 @@
 ||n.ag.vip^
 ||n.nexfinance.org^
 ||n.pkup.fr^
+||n1panel.com^
 ||na01.safelinks.protection.outlook.com^
 ||na1.online^
 ||naaeeoy.com^
@@ -6225,6 +6229,7 @@
 ||pedrosantosblog.online^
 ||peekyn.us.com^
 ||pefctiordent.com^
+||peibuj.com^
 ||pelintrvne.com^
 ||pelis182.com^
 ||pelishaxpro.com^
