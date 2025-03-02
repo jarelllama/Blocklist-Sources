@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.183548.2025
+! Version: 03.02.190044.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 18:35:48 UTC 2025
+! Last modified: Sun Mar  2 19:00:44 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9150
+! Number of entries: 9158
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -635,6 +635,8 @@
 ||antasportsjapan.com^
 ||antautosurf.com^
 ||anteap.com^
+||antentative.com^
+||antetoputa.shop^
 ||anthonybrodin.shop^
 ||anti.fraudcentre.com^
 ||antibot.v2.com^
@@ -869,6 +871,7 @@
 ||auroaespana.online^
 ||auroracherie.com^
 ||ausdedaoubaandou.gdyxlxxh.com^
+||auseacc.monster^
 ||aussiehaven.shop^
 ||aussiepooch.top^
 ||austeretv.com^
@@ -944,6 +947,10 @@
 ||backcountrygunshop.com^
 ||backmarket.nl^
 ||backtoblu.online^
+||badmintonfieber.com^
+||badmintonmart.com.au^
+||badtrippaap.store^
+||baettop.store^
 ||baffinca.com^
 ||bagii.shop^
 ||bagnieman.shop^
@@ -5757,6 +5764,7 @@
 ||nmnpfkwrtuyzh.shop^
 ||nmrarg.shop^
 ||nnenry.online^
+||nobeldobermanpupsforsale.com^
 ||nobitextrade.com^
 ||noblecalm.com^
 ||noblehackshield.com^
