@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.100052.2025
+! Version: 03.02.103321.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 10:00:52 UTC 2025
+! Last modified: Sun Mar  2 10:33:21 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9100
+! Number of entries: 9103
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3425,6 +3425,7 @@
 ||flygame.in^
 ||fmaglobal.io^
 ||fmcg5.biz^
+||fmhy.net^
 ||fmovies.co^
 ||fmovies1.pw^
 ||fmw-human.vip^
@@ -4068,6 +4069,7 @@
 ||hklminingtech.com^
 ||hkuev.com^
 ||hlamw.top^
+||hlbion.com^
 ||hlgonaricks.com^
 ||hm.ru^
 ||hm.shop.to^
@@ -6986,6 +6988,7 @@
 ||save.learning.com^
 ||saveconsulting.si^
 ||saveweb2zip.com^
+||savingssource.in^
 ||savvyessence.com^
 ||savvysmartdeals.com^
 ||saylor.giftx2.com^
