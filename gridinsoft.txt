@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.093120.2025
+! Version: 03.02.100052.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 09:31:20 UTC 2025
+! Last modified: Sun Mar  2 10:00:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9097
+! Number of entries: 9100
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1209,6 +1209,7 @@
 ||birthjeans.icu^
 ||birtox.biz^
 ||bisalex.com^
+||bit-firm.com^
 ||bit.binary.org^
 ||bit.btc.com^
 ||bit.chain.trade^
@@ -5124,6 +5125,7 @@
 ||marvellousperfumes.com^
 ||marvelusdt.com^
 ||marvmys.com^
+||mascotaoutlet.com^
 ||mashreqstandardcapital.com^
 ||masquato.com^
 ||masscoin.us^
@@ -6951,6 +6953,7 @@
 ||salienter.com^
 ||sallynaz.com^
 ||salomonteam.com^
+||salud-directa.com^
 ||samaucy.com^
 ||samelen.com^
 ||samimpex.org^
