@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.113036.2025
+! Version: 03.02.120050.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 11:30:36 UTC 2025
+! Last modified: Sun Mar  2 12:00:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9106
+! Number of entries: 9109
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2634,6 +2634,7 @@
 ||destinypulseprize.com^
 ||destinyroad.online^
 ||desyarnic.com^
+||detectaffair.pro^
 ||determin.shop^
 ||detransp.digital^
 ||deuspower.to^
@@ -5892,6 +5893,7 @@
 ||oneck.vip^
 ||oneclick-pillsexpress24hr.com^
 ||oneclickmart.online^
+||oneclickvote.ct.ws^
 ||onefarm.pro^
 ||onefxgroup.com^
 ||onehappynere.com^
@@ -7965,6 +7967,7 @@
 ||toptradeai.com^
 ||topvibes.top^
 ||topx.one^
+||torrentdownloads.pro^
 ||torrentz9.org^
 ||torresip.com^
 ||torunex.com^
