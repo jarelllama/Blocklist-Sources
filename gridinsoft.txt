@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.103321.2025
+! Version: 03.02.110049.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 10:33:21 UTC 2025
+! Last modified: Sun Mar  2 11:00:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9103
+! Number of entries: 9104
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -8380,6 +8380,7 @@
 ||valeriehouseofdigital.online^
 ||validatemypimainnetwallet.online^
 ||valises.stopepa.org^
+||valocet.com^
 ||valofix.net^
 ||valtenz.top^
 ||valuefirm.us^
