@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.221206.2025
+! Version: 03.02.222550.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  2 22:12:06 UTC 2025
+! Last modified: Sun Mar  2 22:25:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9202
+! Number of entries: 9208
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -100,6 +100,7 @@
 ||24finance.pro^
 ||24proleverage.com^
 ||24x7defi.com^
+||24x7wpsupport.com^
 ||25rbx.site^
 ||268chill.store^
 ||271882.cc^
@@ -3517,6 +3518,7 @@
 ||foryouheart.com^
 ||fottewoicouce.7141.vercel.app^
 ||fotytv.com^
+||foueo.com^
 ||foundationrepair0407.online^
 ||foundationrepair3009.online^
 ||foundators.x.click^
@@ -3811,6 +3813,7 @@
 ||globalsmartrade.com^
 ||globalswift.access.com^
 ||globalultrafx.net^
+||globe-pay.online^
 ||globe.trade.ltd^
 ||globeathome.online^
 ||globeprimesignals.online^
@@ -4157,6 +4160,7 @@
 ||honey.bee.iptv.com^
 ||honeyskin.online^
 ||hongruialliance.com^
+||honorisland.com^
 ||hookah4dayli.online^
 ||hookupers.co^
 ||hopifex.com^
@@ -5939,6 +5943,7 @@
 ||oldschoolbux.com^
 ||olimpp.bet^
 ||olivia.paradox.ai^
+||ollies.top^
 ||oluciones.shop^
 ||oluwasegunakinyemi.com^
 ||olux.to^
@@ -7456,6 +7461,7 @@
 ||spctravelads.com^
 ||spec1trend8.shop^
 ||special.sale.sbs^
+||specialcourierdriving.com^
 ||specializedcorp.com^
 ||specializk.com^
 ||specialoutlet.sbs^

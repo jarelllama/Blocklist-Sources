@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.221205.2025
+! Version: 03.02.222549.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  2 22:12:05 UTC 2025
+! Last modified: Sun Mar  2 22:25:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 111
+! Number of entries: 125
 !
 ||dropton.icu^
 ||ds-sandiego.com^
@@ -120,3 +120,17 @@
 ||golden-coin.co^
 ||goldtechtrades.com^
 ||gomble-gmm.xyz^
+||holloworldai.com^
+||home-wallet.pages.dev^
+||hoodwins.pages.dev^
+||horizonblue.firstlight.am^
+||hotymotikos.com^
+||houkou.fanbox.cc^
+||houst-network.app-wallets.com^
+||http-swaplolcatclub.pages.dev^
+||huionedefi.net^
+||hypealiqaid.com^
+||hypednft-club.com^
+||hyper-li-quid.com^
+||hyperliquid.how^
+||hyperliquid.si^
