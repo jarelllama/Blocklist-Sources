@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.231919.2025
+! Version: 03.02.232918.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  2 23:19:19 UTC 2025
+! Last modified: Sun Mar  2 23:29:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9230
+! Number of entries: 9233
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -790,6 +790,7 @@
 ||arthuspablo17sh.com^
 ||artisanalessentials.shop^
 ||artistryxchange.com^
+||artlapsa.com^
 ||artosnomics.com^
 ||artswardrobe.com^
 ||artsyfame.homes^
@@ -7194,6 +7195,7 @@
 ||sexfullmovies.mobi^
 ||sextoysindubai.com^
 ||sexyforums.com^
+||sexyfy.store^
 ||sezekogluk.com^
 ||sfardlanka.com^
 ||sflix.to^
@@ -7564,6 +7566,7 @@
 ||startpayu.com^
 ||startperfectsolutions.com^
 ||startrader.com^
+||startupstrategy.cc^
 ||startwrit.com^
 ||statedebtreliefprogram.com^
 ||stateonlineauction.com^
