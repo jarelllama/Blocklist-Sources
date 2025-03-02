@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.230607.2025
+! Version: 03.02.231919.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  2 23:06:07 UTC 2025
+! Last modified: Sun Mar  2 23:19:19 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9224
+! Number of entries: 9230
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -582,6 +582,7 @@
 ||amerswguhocvgudgbfm.shop^
 ||amgesic.com^
 ||amihood.com^
+||aminafy.co^
 ||amirimexicos.com^
 ||amlbot.sbs^
 ||ammethy.com^
@@ -3059,6 +3060,7 @@
 ||empireminers.com^
 ||empiric.online^
 ||empleoo.net^
+||emporium.online^
 ||empoweredmanhealth.online^
 ||empowerforward.cy^
 ||empowerglobalreward.com^
@@ -4342,6 +4344,7 @@
 ||infiniteinvestcompany.com^
 ||infinity-hash.io^
 ||infinity.hash.io^
+||info-findr.net^
 ||infojre.com^
 ||informathote.com^
 ||informed.deliveryghfgh.top^
@@ -4911,6 +4914,7 @@
 ||linkdewacukong88.pro^
 ||linkfly.to^
 ||linkgurd.online^
+||linkjust.com^
 ||linkmcltogel3.org^
 ||linkperfeito.online^
 ||linkr.it^
@@ -6753,6 +6757,7 @@
 ||rapiddigitalrecovery.org^
 ||rapidnftswap.com^
 ||rapidtransitmodels.com^
+||rapidworkers.com^
 ||rareanimes.net^
 ||rarechemsonline.org^
 ||ravvisa.com^
@@ -9021,6 +9026,7 @@
 ||xgame.usdt.com^
 ||xhhmsc.shop^
 ||xilsen.com^
+||ximeka.com^
 ||ximqijiu.online^
 ||ximqiwu.online^
 ||xinetex.com^
