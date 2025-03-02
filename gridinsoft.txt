@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.190044.2025
+! Version: 03.02.193054.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 19:00:44 UTC 2025
+! Last modified: Sun Mar  2 19:30:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9158
+! Number of entries: 9162
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -849,6 +849,7 @@
 ||ativado.org^
 ||atlantictrustfl.net^
 ||atlanticuni.com^
+||atlasarchcaptl.com^
 ||atlasore.com^
 ||atlaspays.com^
 ||atmastore.com^
@@ -4719,6 +4720,7 @@
 ||kuiuonsale.com^
 ||kuka.ninja^
 ||kukaj.in^
+||kukirin-escooter.com^
 ||kukrosti.com^
 ||kulken.com^
 ||kunbestsk.best^
@@ -5763,6 +5765,8 @@
 ||nlvivobarefoot.com^
 ||nmnpfkwrtuyzh.shop^
 ||nmrarg.shop^
+||nmrejnhqcyukfg.shop^
+||nmrwegjycjyfvqtscxqy.shop^
 ||nnenry.online^
 ||nobeldobermanpupsforsale.com^
 ||nobitextrade.com^
