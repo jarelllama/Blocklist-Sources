@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.180056.2025
+! Version: 03.02.183548.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 18:00:56 UTC 2025
+! Last modified: Sun Mar  2 18:35:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9140
+! Number of entries: 9150
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -647,6 +647,7 @@
 ||anyvoicelab.com^
 ||aoinm.com^
 ||aorlbl.admirabledates.net^
+||aotuselectronics.com^
 ||aouve.store^
 ||aovoise.com^
 ||apanharwatch.com^
@@ -1009,6 +1010,10 @@
 ||bbajya.ahm6185.com^
 ||bbc.tv.org^
 ||bbdoapp.help^
+||bberetta.com^
+||bbfsxc.shop^
+||bbghez.link^
+||bbhappy.shop^
 ||bbloverdolls.com^
 ||bbq.tech.com^
 ||bbw-flashsale.com^
@@ -1025,6 +1030,8 @@
 ||bdrself.com^
 ||bdxxa.com^
 ||bdyg.store^
+||beaconpigexports.co.za^
+||beaconproperties-limited.com^
 ||beaming.sbs^
 ||bearatten.com^
 ||bearsbulls.net^
@@ -5609,6 +5616,8 @@
 ||ncvv.pro^
 ||ndamazon.com^
 ||ndclothing.toronto.com^
+||ndcvqmaqkejnxjcztbmu.shop^
+||ndejectedo.lol^
 ||ndsoutlets.com^
 ||nearriot.com^
 ||nebluscommercial.com^
@@ -5753,6 +5762,7 @@
 ||noblehackshield.com^
 ||nobrix.cfd^
 ||nobull.colombia.co^
+||nobullfactoryusa.com^
 ||nocegood.com^
 ||noctralabs.com^
 ||node29.datanodes.to^
