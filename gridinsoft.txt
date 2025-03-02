@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.143226.2025
+! Version: 03.02.150100.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 14:32:26 UTC 2025
+! Last modified: Sun Mar  2 15:01:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9125
+! Number of entries: 9130
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -265,6 +265,7 @@
 ||accounts.avanquest.com^
 ||accu.tech.pro^
 ||accumarkets.live^
+||accurec-vip.com^
 ||accurecrypto.com^
 ||ace.capitals.com^
 ||acemovez.com^
@@ -3326,6 +3327,7 @@
 ||filemoon.sx^
 ||fileplanet.com^
 ||files.fm^
+||files1.majorgeeks.com^
 ||filesfly.cc^
 ||filespayouts.com^
 ||filmai.in^
@@ -3968,6 +3970,7 @@
 ||halyvvis.com^
 ||hamivibe.com^
 ||hanatyury.online^
+||handelsfusion.com^
 ||handelswiss1.com^
 ||handfull.shop^
 ||handfulspeed.com^
@@ -6331,6 +6334,7 @@
 ||poseidoncoin.top^
 ||postmailer.pages.dev^
 ||postyourlife.com^
+||potatobooks.com^
 ||poudresdenarco.com^
 ||powerelixir.online^
 ||powerkit.fr^
@@ -7002,6 +7006,7 @@
 ||saveconsulting.si^
 ||saveweb2zip.com^
 ||savingssource.in^
+||savoringmn.com^
 ||savvyessence.com^
 ||savvysmartdeals.com^
 ||saylor.giftx2.com^
