@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.000155.2025
+! Version: 03.02.004529.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 00:01:55 UTC 2025
+! Last modified: Sun Mar  2 00:45:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9053
+! Number of entries: 9056
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -57,6 +57,7 @@
 ||16785a.top^
 ||17.magic88.cc^
 ||1753222.com^
+||17cam.xyz^
 ||17ebook.com^
 ||1800rxonline.com^
 ||190724.com^
@@ -2784,6 +2785,7 @@
 ||dowynert.com^
 ||dp.investrade.com^
 ||dpboss.services^
+||dpbossss.services^
 ||dpd777.cc^
 ||dpe.gov.bd^
 ||dqaojspovuavms.shop^
@@ -7577,6 +7579,7 @@
 ||sweepstonline.store^
 ||sweepzprizes.com^
 ||sweet.paradise.online^
+||sweetslolita.com^
 ||sweetydolls.com^
 ||swift.asset.com^
 ||swift.blink.com^
