@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.214124.2025
+! Version: 03.02.215023.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  2 21:41:24 UTC 2025
+! Last modified: Sun Mar  2 21:50:23 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 73
+! Number of entries: 86
 !
 ||dropton.icu^
 ||ds-sandiego.com^
@@ -82,3 +82,16 @@
 ||fourmeme.click^
 ||foxedfloat.com^
 ||fpi-tokens.club^
+||fpispinu.live^
+||fptwaze.com^
+||fragments.rent^
+||fraud.grekrefunds.info^
+||fredonsol.online^
+||friendtech.rewarddrop.xyz^
+||ftfgold.com^
+||ftm-so.com^
+||ftx-validate.sbs^
+||fuacet-monai.com^
+||fuellapp.xyz^
+||fundtesla.net^
+||fuxedfloat.com^
