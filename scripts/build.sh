@@ -51,14 +51,15 @@ source_malwareurl() {
 
 # Format the blocklist.
 build() {
-    sort -u "${source}.txt" -o "${source}.txt"
-
     # Compile list. See the list of transformations here:
     # https://github.com/AdguardTeam/HostlistCompiler
     # Note the hostlist compiler removes the previous comments and the Adblock
-    # Plus header, and does not sort.
+    # Plus header.
     printf "\n"
     hostlist-compiler -i "${source}.txt" -o compiled.tmp
+
+    # Sort as the hostlist compiler does not sort
+    sort -u "${source}.txt" -o "${source}.txt"
 
     # Remove comments
     sed -i '/!/d' compiled.tmp
