@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.215024.2025
+! Version: 03.02.215931.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  2 21:50:24 UTC 2025
+! Last modified: Sun Mar  2 21:59:31 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9194
+! Number of entries: 9197
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -754,6 +754,7 @@
 ||argonixhacktech.com^
 ||argosnop.com^
 ||arianthes.com^
+||ariasvogue.co^
 ||ariatcanada.com^
 ||arienspmpef.shop^
 ||arirak.online^
@@ -3444,6 +3445,7 @@
 ||flightscanada.flycheapestonline.com^
 ||flirt4free.com^
 ||flirtingplaza.com^
+||flixbaba.com^
 ||floattrust.com^
 ||flokisanta.christmas^
 ||flomac.shop^
@@ -6365,6 +6367,7 @@
 ||policja.pl112.online^
 ||policyautosave.com^
 ||polocase.com^
+||poloralphlauren-cl.com^
 ||polosurchemise.com^
 ||polpick.io^
 ||polvfbks.info^
