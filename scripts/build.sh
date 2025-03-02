@@ -59,7 +59,7 @@ build() {
     hostlist-compiler -i "${source}.txt" -o compiled.tmp
 
     # Sort as the hostlist compiler does not sort
-    sort -u "${source}.txt" -o "${source}.txt"
+    sort -u compiled.tmp -o compiled.tmp
 
     # Remove comments
     sed -i '/!/d' compiled.tmp
