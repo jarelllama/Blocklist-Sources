@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.133151.2025
+! Version: 03.02.140058.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 13:31:51 UTC 2025
+! Last modified: Sun Mar  2 14:00:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9118
+! Number of entries: 9120
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3444,6 +3444,7 @@
 ||foonlab.net^
 ||foot2run.com^
 ||footballdisease.com^
+||footballofficialtle.com^
 ||footboom1.com^
 ||footboxes.com^
 ||footjoyeu.shop^
@@ -8814,6 +8815,7 @@
 ||wooeyeshop.com^
 ||wooflix.tv^
 ||woonr.top^
+||word-2019.download-windows.org^
 ||work-lifeimmigrationservices.com^
 ||work44.com^
 ||worker.cash^
