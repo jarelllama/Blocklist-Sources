@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.225454.2025
+! Version: 03.02.230606.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  2 22:54:54 UTC 2025
+! Last modified: Sun Mar  2 23:06:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 152
+! Number of entries: 166
 !
 ||dropton.icu^
 ||ds-sandiego.com^
@@ -161,3 +161,17 @@
 ||kidsplatform8.net^
 ||kings-tradefx.com^
 ||kinsta.cloud^
+||kudaionbase.io^
+||kyberswap.site^
+||kykxw.com^
+||lafrontera-empact.updatehub.net^
+||lambo.beta.coinlist.yachts^
+||latexbit.com^
+||launchpadi.xyz^
+||launchpadxyz.trade^
+||ledger-support-live.pages.dev^
+||ledger22.com^
+||ledgerapplive.net^
+||ledgerlivesupport.help^
+||lendingtreeusa.com^
+||licensesign.com^

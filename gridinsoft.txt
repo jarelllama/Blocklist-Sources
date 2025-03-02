@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.225455.2025
+! Version: 03.02.230607.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  2 22:54:55 UTC 2025
+! Last modified: Sun Mar  2 23:06:07 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9220
+! Number of entries: 9224
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1409,6 +1409,7 @@
 ||blokchainsbit.com^
 ||blombard.com^
 ||bloom.as^
+||bloostroe.com^
 ||blossduck.com^
 ||bloxchest.com^
 ||bloxevent.org^
@@ -3575,6 +3576,7 @@
 ||freetron.in^
 ||freeusdtforever.com^
 ||freexstar.top^
+||freshdrive.cyou^
 ||freshglowz.com^
 ||frienditeglobal.online^
 ||friendlyrussianblue.com^
@@ -4303,6 +4305,7 @@
 ||ilikeauli.com^
 ||illuminati-newworldorder.com^
 ||illuminatitemplo.org^
+||illustrationauctioneer.top^
 ||ilsacrodeigioielli.com^
 ||imagiashop.com^
 ||imbictoz.com^
@@ -7734,6 +7737,7 @@
 ||swimcarnival.com^
 ||swingdeceive.com^
 ||swingfxmarket.com^
+||swingvortexpro.com^
 ||swipelake.shop^
 ||swiss.mo.inv.com^
 ||swistcapital.live^
