@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.224536.2025
+! Version: 03.02.225455.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  2 22:45:36 UTC 2025
+! Last modified: Sun Mar  2 22:54:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9215
+! Number of entries: 9220
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4920,6 +4920,7 @@
 ||linxbucks.net^
 ||linxiangyun.com^
 ||linyimma.com^
+||lionelo.shop^
 ||lipozem.web.shop^
 ||lipozemus.com^
 ||lippizapatillaes.shop^
@@ -7375,6 +7376,7 @@
 ||smex-ctp.trendmicro.com^
 ||smith.newyork.com^
 ||smmboost24.online^
+||smmcoder.com^
 ||smmflare.com^
 ||smmpanelus.com^
 ||smmtribe.com^
@@ -7385,6 +7387,7 @@
 ||smtpdeal.com^
 ||snackoftheworld.com^
 ||snapbuy.us^
+||snapcams.vc^
 ||snapsave.app^
 ||snatchstraps.com.au^
 ||sneakersfaclub.com^
@@ -7532,6 +7535,7 @@
 ||staemcomunitly.com^
 ||staemcomunnity.com^
 ||stake786.com^
+||stakefunds.org^
 ||stakeindexfx.com^
 ||stakeso.com^
 ||stakgpdgd.com^
@@ -7606,6 +7610,7 @@
 ||store.uni.app.com^
 ||storeclosingclearance.com^
 ||storemineci.com^
+||storesoleas.com^
 ||storeyork.com.mx^
 ||strapsui.com^
 ||strategy66.cc^
