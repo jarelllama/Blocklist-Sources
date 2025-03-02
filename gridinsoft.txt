@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.060053.2025
+! Version: 03.02.063537.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 06:00:53 UTC 2025
+! Last modified: Sun Mar  2 06:35:37 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9077
+! Number of entries: 9082
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5861,6 +5861,7 @@
 ||ometvporn.com^
 ||omgminer.vip^
 ||omgprice10.cc^
+||omirad.com^
 ||omnis.trade.com^
 ||on-line-tk.top^
 ||on.mx.com^
@@ -6336,6 +6337,7 @@
 ||presentpros.today^
 ||prestige-finance-gold.com^
 ||prestigeprint.uk^
+||prestmit.io^
 ||prestonwealthadvocates.com^
 ||presttan.shop^
 ||pretiboiy.com^
@@ -6840,6 +6842,7 @@
 ||roitronix.ltd^
 ||rojadirectvonline.com^
 ||rokinat.co.in^
+||rokusdt.com^
 ||rolexetf.site^
 ||rolexhorlogerie.com^
 ||roll2x.com^
@@ -7656,6 +7659,7 @@
 ||taskadeai.data.top^
 ||taskwizy.top^
 ||taskzcove.com^
+||tasmanin.com^
 ||taxaoar.online^
 ||taytaymerch.com^
 ||tbdcredits.com^
@@ -8674,6 +8678,7 @@
 ||wftqatar.com^
 ||wg1888.com^
 ||whalelogistic.com^
+||whalespower.com^
 ||whatisketamine.com^
 ||whatsapp.hustlerdiaries.com^
 ||wheelpg777.online^
