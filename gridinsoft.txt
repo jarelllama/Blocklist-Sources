@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.050053.2025
+! Version: 03.02.053321.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 05:00:53 UTC 2025
+! Last modified: Sun Mar  2 05:33:21 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9068
+! Number of entries: 9075
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -327,6 +327,7 @@
 ||ads2cash.co^
 ||adsarp.com^
 ||adsasss-store.com^
+||adsbyabhin.com^
 ||adsgoo.com^
 ||adsphericalsuits.com^
 ||adtgnt.com^
@@ -1560,6 +1561,7 @@
 ||btfxtraders.com^
 ||btgbtm.com^
 ||btradescenter.com^
+||btsecurity38.weebly.com^
 ||btseus.net^
 ||btxminer.com^
 ||bubblesbets.com^
@@ -1580,6 +1582,7 @@
 ||buiudr.com^
 ||bujortca.com^
 ||buki.shop.com^
+||bulan66.info^
 ||bulanjitu.org^
 ||buletboard.com^
 ||bulksendtokens.xyz^
@@ -2854,6 +2857,7 @@
 ||dvancedco.biz^
 ||dvdsociety.shop^
 ||dxcthey.com^
+||dxnmining.com^
 ||dyetui.com^
 ||dysb.store^
 ||dystarwears.com^
@@ -3080,6 +3084,7 @@
 ||eschallengersmode.com^
 ||escortbazar.in^
 ||escrowpi.com^
+||escrowtrade.site^
 ||eshophu.com^
 ||esmadrid.com^
 ||espoch.edu.ec^
@@ -8443,6 +8448,7 @@
 ||videouniquebooster.com^
 ||viemia.com^
 ||viergo.com^
+||viewtemu.site^
 ||vigkes.shop^
 ||viiejrws.com^
 ||vijaykumarvs.github.io^
@@ -8520,6 +8526,7 @@
 ||votelya.com^
 ||votingplatform.ct.ws^
 ||vovara.brisbane.com^
+||voxis.site^
 ||vpnclix.com^
 ||vseeboxtv.co^
 ||vseeboxtv.store^
