@@ -1,0 +1,24 @@
+[Adblock Plus]
+! Title: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist
+! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
+! Homepage: https://github.com/jarelllama/Blocklist-Sources
+! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
+! Version: 03.02.205854.2025
+! Expires: 10 minutes
+! Last modified: Sun Mar  2 20:58:54 UTC 2025
+! Syntax: Adblock Plus
+! Number of entries: 13
+!
+||dropton.icu^
+||ds-sandiego.com^
+||duckxymintyx.vip^
+||dxscreener.github.io^
+||dynamicpathtrading.com1.ws^
+||earn-kalto.com^
+||easynltro.store^
+||ecobrokercapital.com^
+||edgecomputing.network^
+||edgefi.network^
+||eggplantdong.fun^
+||eggsfi.finance^
+||egypt-teleperformance.com^

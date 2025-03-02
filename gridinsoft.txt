@@ -1,14 +1,17 @@
 [Adblock Plus]
 ! Title: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist
-! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
+! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.203123.2025
-! Expires: 30 minutes
-! Last modified: Sun Mar  2 20:31:23 UTC 2025
+! Version: 03.02.205855.2025
+! Expires: 10 minutes
+! Last modified: Sun Mar  2 20:58:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9173
+! Number of entries: 9176
 !
+||alpex-asset.live^
+||estausa.com^
+||velocityty.com^
 ||000074.cc^
 ||0019.coinbase.com^
 ||003001.cc^
