@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.130349.2025
+! Version: 03.02.133151.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 13:03:49 UTC 2025
+! Last modified: Sun Mar  2 13:31:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9112
+! Number of entries: 9118
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1406,6 +1406,7 @@
 ||bnbzest.com^
 ||bnex.cc^
 ||bnextrade.com^
+||bng-trading.com^
 ||bnhuf.com^
 ||bnjgj.com^
 ||bnkout.com^
@@ -1709,6 +1710,7 @@
 ||capitalxtrade.com^
 ||capitus.net^
 ||capminespace.com^
+||capstellar.com^
 ||captcha.club^
 ||captchaoutil.site^
 ||captcrest.com^
@@ -5100,6 +5102,7 @@
 ||mammut-uk.com^
 ||manadapp.lol^
 ||manchesterfinanceltd.com^
+||maniie.com^
 ||mantraprint.in^
 ||manualsdirectory.org^
 ||manualslibrary.co^
@@ -5737,6 +5740,7 @@
 ||noblehackshield.com^
 ||nobrix.cfd^
 ||nobull.colombia.co^
+||nocegood.com^
 ||noctralabs.com^
 ||node29.datanodes.to^
 ||nodego.ai^
@@ -7056,6 +7060,7 @@
 ||seecomoffer.com^
 ||seedsfty.com^
 ||seedswanted.online^
+||seekkey.store^
 ||seekthatonline.com^
 ||seephotograp.top^
 ||sefnac.com^
@@ -7506,6 +7511,7 @@
 ||stoigr.org^
 ||stoktrade.invest.com^
 ||stonxdex.com^
+||stoptheemails.org^
 ||store.belgianshop.com^
 ||store.creedhouse.online^
 ||store.insta360.com^
