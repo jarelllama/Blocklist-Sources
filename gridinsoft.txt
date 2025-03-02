@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.222550.2025
+! Version: 03.02.223645.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  2 22:25:50 UTC 2025
+! Last modified: Sun Mar  2 22:36:45 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9208
+! Number of entries: 9212
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2953,6 +2953,7 @@
 ||ecamai.com^
 ||ecaseinc.com^
 ||eccoshoes.life^
+||echorisegroup.com^
 ||eclatlumiere.com^
 ||ecoalfspain.com^
 ||ecobois-be.com^
@@ -3262,6 +3263,7 @@
 ||facebook.busines.tempisite.com^
 ||facebook.fr^
 ||facepunchdevcommunity.com^
+||facertvshell.cfd^
 ||facts.r.friends.com^
 ||fadedarkspotsfast.com^
 ||faithfultly.com^
@@ -5240,6 +5242,7 @@
 ||meantallie.com^
 ||meanwhiley.com^
 ||meb.budget.com^
+||mechano.ae^
 ||mechawats.shop^
 ||mecnex.com^
 ||med.care24.com^
@@ -9024,6 +9027,7 @@
 ||xposz.shop^
 ||xpresswealthbnk.com^
 ||xpronlineoffertstore.com^
+||xrpearner.us^
 ||xrpofficial.reward.com^
 ||xrpwheel.com^
 ||xsdvdeal.store^
