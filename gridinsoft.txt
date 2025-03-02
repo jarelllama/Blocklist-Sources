@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.090052.2025
+! Version: 03.02.093120.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 09:00:52 UTC 2025
+! Last modified: Sun Mar  2 09:31:20 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9094
+! Number of entries: 9097
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -772,6 +772,7 @@
 ||ars88safe.online^
 ||artabusiness.com^
 ||artchains.org^
+||arteviveearplugs.com^
 ||artguru.ai^
 ||arthuspablo17sh.com^
 ||artisanalessentials.shop^
@@ -1064,6 +1065,7 @@
 ||bergmannmodehaus.com^
 ||bergstrombees.store^
 ||berichinnvest1.com^
+||berlinmart.online^
 ||bernaid.shop^
 ||bernardex.com^
 ||berosely.com^
@@ -6043,6 +6045,7 @@
 ||pabyly.com^
 ||pacau.store^
 ||packetshare.io^
+||padasnap.com^
 ||padavip.com^
 ||padelofficiel.com^
 ||pagalopount.site^
