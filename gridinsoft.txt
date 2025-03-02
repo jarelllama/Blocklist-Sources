@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.232918.2025
+! Version: 03.02.233850.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  2 23:29:18 UTC 2025
+! Last modified: Sun Mar  2 23:38:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9233
+! Number of entries: 9239
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -864,6 +864,7 @@
 ||atlasore.com^
 ||atlaspays.com^
 ||atmastore.com^
+||atmsolcoin.com^
 ||atomicwalletdapp.com^
 ||atomishine.com^
 ||atouchofgreenboutique.com^
@@ -1396,6 +1397,7 @@
 ||blixordeal.com^
 ||blizzboygames.net^
 ||blochchile.shop^
+||block-stream.org^
 ||blockchainesc-ledger.com^
 ||blockchaintradee.com^
 ||blockdag.network^
@@ -4539,6 +4541,7 @@
 ||johncrestani.online.com^
 ||johnhearingaids.com^
 ||join.lavishivy.com^
+||joinfridayplans.com^
 ||joingy.online^
 ||joker999do.com^
 ||joliiy.com^
@@ -4722,6 +4725,7 @@
 ||kopenozempiconline.com^
 ||korucc.com^
 ||kotaiproject.com^
+||kotofanss.com^
 ||kpmy556.cc^
 ||kraken.chek.xyz^
 ||krakenatfxx.com^
@@ -8271,6 +8275,7 @@
 ||tsvertex.com^
 ||tsyndicate.com^
 ||tt.tiktokmarketplace.online^
+||ttaesthetic.com^
 ||ttescort.com^
 ||ttoeore.com^
 ||ttslot.com^
@@ -8519,6 +8524,7 @@
 ||vasttrade.investments.org^
 ||vaultedvision.com^
 ||vaultperth.com^
+||vazico.shop^
 ||vbdigitalcard.in^
 ||vc66.net^
 ||vcard50.ru^
