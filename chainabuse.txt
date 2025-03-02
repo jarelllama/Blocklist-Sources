@@ -3,12 +3,24 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.205854.2025
+! Version: 03.02.210519.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  2 20:58:54 UTC 2025
+! Last modified: Sun Mar  2 21:05:19 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 13
+! Number of entries: 23
 !
+||eggsfi.finance^
+||egypt-teleperformance.com^
+||eigen-eigenfoundatlon.pages.dev^
+||eigen-sushi.lat^
+||eigenlayer.in^
+||electriccapital.co^
+||elego.xyz^
+||elfcosmetics.co.kr^
+||elfcosmetics.com.ua^
+||eligibility-virtuals.xyz^
+||eligibilityaccess.com^
+||eligible.puffer-compensation.com^
 ||dropton.icu^
 ||ds-sandiego.com^
 ||duckxymintyx.vip^
@@ -20,5 +32,3 @@
 ||edgecomputing.network^
 ||edgefi.network^
 ||eggplantdong.fun^
-||eggsfi.finance^
-||egypt-teleperformance.com^

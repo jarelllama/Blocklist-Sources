@@ -3,15 +3,16 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.205855.2025
+! Version: 03.02.210520.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  2 20:58:55 UTC 2025
+! Last modified: Sun Mar  2 21:05:20 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9176
+! Number of entries: 9178
 !
-||alpex-asset.live^
-||estausa.com^
-||velocityty.com^
+||constitutionalalleviation.top^
+||tryfemina.com^
+||videoperkstream.com^
+||vopifg.com^
 ||000074.cc^
 ||0019.coinbase.com^
 ||003001.cc^
@@ -516,6 +517,7 @@
 ||alpaboost.com^
 ||alpentherme.ch^
 ||alpenveststrategy.com^
+||alpex-asset.live^
 ||alphaa-group.com^
 ||alphadeltaenterprisesvof.com^
 ||alphahashes.com^
@@ -3135,6 +3137,7 @@
 ||est.invest.pro^
 ||establishmentlottery.top^
 ||estarenergy.ltd^
+||estausa.com^
 ||estesmediaseo.com^
 ||estherwinter.eu^
 ||estiloargento.com.ar^
@@ -8481,6 +8484,7 @@
 ||veldainty.com^
 ||velivyne.com^
 ||vellour.store^
+||velocityty.com^
 ||velogisc.com^
 ||velourtoronto.com^
 ||velourwatches.store^
@@ -8539,7 +8543,6 @@
 ||vidcloud1.com^
 ||video.earns.top^
 ||video4k.site^
-||videoperkstream.com^
 ||videosfund.top^
 ||videouniquebooster.com^
 ||viemia.com^
@@ -8614,7 +8617,6 @@
 ||volklsports.com^
 ||volmar.sinformations.cfd^
 ||volundvt.dk^
-||vopifg.com^
 ||vorgang.abschliessen.online^
 ||vorobit.com^
 ||vortica.net^
