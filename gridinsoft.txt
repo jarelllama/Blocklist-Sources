@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.213220.2025
+! Version: 03.02.214125.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  2 21:32:20 UTC 2025
+! Last modified: Sun Mar  2 21:41:25 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9189
+! Number of entries: 9191
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3327,6 +3327,7 @@
 ||feeliey.com^
 ||feels.ct.ws^
 ||feenox.com^
+||feetfansfrench.com^
 ||felguss.com^
 ||fenben.pro^
 ||fenevieve.shop^
@@ -4706,6 +4707,7 @@
 ||kraken.chek.xyz^
 ||krakenatfxx.com^
 ||krakenomics.ca^
+||krakenu.com^
 ||kratosaddict.com^
 ||kreashops.com^
 ||krebson.ru^
