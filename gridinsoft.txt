@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.124133.2025
+! Version: 03.02.130349.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 12:41:33 UTC 2025
+! Last modified: Sun Mar  2 13:03:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9109
+! Number of entries: 9112
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4163,6 +4163,7 @@
 ||hozpetro.com^
 ||hplcstandards.com^
 ||hptts.tealagarm.com^
+||hraji.net^
 ||hrbtpl.com^
 ||href.li^
 ||hrtai.vip^
@@ -6849,6 +6850,7 @@
 ||robonhoodgroup.me^
 ||roboq.cc^
 ||robotbitco.in^
+||rocket.origindefi.io^
 ||rocketusdt.net^
 ||rockhillcapital.org^
 ||rockport.pt.com^
@@ -8885,6 +8887,7 @@
 ||xai79a.com^
 ||xanarx.live^
 ||xapool.com^
+||xbedeals.site^
 ||xcexextw.com^
 ||xchallengers.com^
 ||xcloudmining.com^
