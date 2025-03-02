@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.193054.2025
+! Version: 03.02.200103.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 19:30:54 UTC 2025
+! Last modified: Sun Mar  2 20:01:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9162
+! Number of entries: 9170
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -582,6 +582,7 @@
 ||amihood.com^
 ||amirimexicos.com^
 ||ammethy.com^
+||ammoandfirearms.shop^
 ||ammobigsale.shop^
 ||amniktechnologies.com^
 ||amongusonline.io^
@@ -714,6 +715,7 @@
 ||appj.online^
 ||appkong.store^
 ||apple-grass.com^
+||applel.wtf^
 ||appleresd.com^
 ||applesecurityioscare.com^
 ||appleusa.tk^
@@ -796,6 +798,7 @@
 ||ascensionio.online^
 ||ascot.pro^
 ||asdfger.com^
+||asetedge.com^
 ||asiacargo.online^
 ||asiame.com^
 ||asian-women.org^
@@ -3767,6 +3770,7 @@
 ||glecapitalsrl.online^
 ||glenjoyce.com^
 ||gletber.com^
+||glizm.com^
 ||glmrjwl.com^
 ||global-tokenex.net^
 ||global.tinv.org^
@@ -5763,6 +5767,7 @@
 ||nlelektronica.com^
 ||nlleenbakker.com^
 ||nlvivobarefoot.com^
+||nmbhae.fit^
 ||nmnpfkwrtuyzh.shop^
 ||nmrarg.shop^
 ||nmrejnhqcyukfg.shop^
@@ -6745,6 +6750,7 @@
 ||recruit.threadsstaffs.com^
 ||rect.reward.glacier.website^
 ||recuvahacksolution.pro^
+||recwallet.cc^
 ||redbeautylife.com^
 ||reddit.streams.online^
 ||redeemabi.netlify.app^
@@ -6807,6 +6813,7 @@
 ||repliquesuisse.co^
 ||reploysai.io^
 ||reportcryptoscam.forum.online^
+||republicanstrust.com^
 ||res.ldrescdn.com^
 ||research.web3caff.com^
 ||researchchemicalskopen.net^
@@ -8312,6 +8319,7 @@
 ||unitedparcelexpress.online^
 ||unitedstatepharmacy.com^
 ||unitycapitalfinance.org^
+||univers-pokemon.fr^
 ||univers.pokemon.fr^
 ||universalstudiosau.com^
 ||universalwealth.org^
