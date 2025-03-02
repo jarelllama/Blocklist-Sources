@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.163442.2025
+! Version: 03.02.170053.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 16:34:42 UTC 2025
+! Last modified: Sun Mar  2 17:00:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9133
+! Number of entries: 9135
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2556,6 +2556,7 @@
 ||deepseekr1.world^
 ||deepseekr1.xyz^
 ||deepseekr1ai.xyz^
+||deepseekr2.pro^
 ||deepseektrading.xyz^
 ||deepseektranslator.com^
 ||deepseektravelagent.com^
@@ -8951,6 +8952,7 @@
 ||xpresswealthbnk.com^
 ||xpronlineoffertstore.com^
 ||xrpofficial.reward.com^
+||xrpwheel.com^
 ||xsdvdeal.store^
 ||xshiba.app^
 ||xtb-usdt.com^
