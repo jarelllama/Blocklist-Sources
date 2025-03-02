@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.233849.2025
+! Version: 03.02.234801.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  2 23:38:49 UTC 2025
+! Last modified: Sun Mar  2 23:48:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 185
+! Number of entries: 192
 !
 ||dropton.icu^
 ||ds-sandiego.com^
@@ -194,3 +194,10 @@
 ||marinadefinancesolana.com^
 ||mbnutsstore.com^
 ||meek-sablesol.netlify.app^
+||metamask.io.merge.edesk.io^
+||metamask.io.merge.kejari-halut.go.id^
+||metamaskksuextension.webflow.io^
+||metamasktrader.com^
+||metamsklexchangee.webflow.io^
+||metasextension.webflow.io^
+||metaweb.cc^

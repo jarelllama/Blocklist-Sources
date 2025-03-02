@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.233850.2025
+! Version: 03.02.234802.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  2 23:38:50 UTC 2025
+! Last modified: Sun Mar  2 23:48:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9239
+! Number of entries: 9246
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -740,6 +740,7 @@
 ||ar68bc2h0d78l4saqd0.heldit.shop^
 ||arabwood.ir^
 ||arakaxabux.com^
+||arasorrion.com^
 ||arbex.io^
 ||arbicryptos.com^
 ||arbitcap.com^
@@ -788,6 +789,7 @@
 ||arteviveearplugs.com^
 ||artguru.ai^
 ||arthuspablo17sh.com^
+||artifinnovia.com^
 ||artisanalessentials.shop^
 ||artistryxchange.com^
 ||artlapsa.com^
@@ -2361,6 +2363,7 @@
 ||cryptorecovers.com^
 ||cryptorecoverysquad.com^
 ||cryptorestitutor.com^
+||cryptosbytes.top^
 ||cryptosgx.com^
 ||cryptoshieldx.com^
 ||cryptosolutionsltd.org^
@@ -5250,6 +5253,7 @@
 ||mbtauckland.com^
 ||mc0nsdtrk.com^
 ||mc787.com^
+||mcintiresolutionscareer.com^
 ||mckinseyinquest.com^
 ||mcmsale.top^
 ||md11.online^
@@ -5323,6 +5327,7 @@
 ||metatradingai.co^
 ||metatransaction.org^
 ||metatrendsmarket.org^
+||metaxchangepro.com^
 ||meteora.ag^
 ||metfareonline.com^
 ||metfares.com^
@@ -5857,6 +5862,7 @@
 ||nosso.online^
 ||nouert.com^
 ||novabitinvestmentcenter.com^
+||novachainlimited.com^
 ||novaprimeinvest.com^
 ||novaspire.live^
 ||novaxmetals.com^
@@ -9000,6 +9006,7 @@
 ||wwwcoa.top^
 ||wwwwscsb500comios2ser.wscbs.vip^
 ||wykkselling.online^
+||wyudas.com^
 ||wyy158.fun^
 ||x-tool.me^
 ||x.coin.app^
