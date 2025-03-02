@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.140058.2025
+! Version: 03.02.143226.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 14:00:58 UTC 2025
+! Last modified: Sun Mar  2 14:32:26 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9120
+! Number of entries: 9125
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -507,6 +507,7 @@
 ||alo.yogaoutlet.com^
 ||alo88.black^
 ||aloidvg.com^
+||alolani.com^
 ||aloyoga-shopping.shop^
 ||alpaboost.com^
 ||alpentherme.ch^
@@ -1188,6 +1189,7 @@
 ||bingo.ba^
 ||binjohn.com^
 ||binoglobe.com^
+||binomatix.com^
 ||binomo.com^
 ||binoproducts.com^
 ||binoption.net^
@@ -4594,6 +4596,7 @@
 ||kidschannel.online^
 ||kiece.com^
 ||kijl.online^
+||kijoe.com^
 ||kingpack7.quest^
 ||kinguin.net^
 ||kinkfits.com^
@@ -7976,6 +7979,7 @@
 ||toptradeai.com^
 ||topvibes.top^
 ||topx.one^
+||torlinks.io^
 ||torrentdownloads.pro^
 ||torrentz9.org^
 ||torresip.com^
@@ -8986,6 +8990,7 @@
 ||yinghe.app^
 ||yinxing.info^
 ||yishyhu.com^
+||ymcrypto.com^
 ||ynmufr.9l5lortoe.top^
 ||ynmufr.h2os7lzt7.top^
 ||yobit.net^
