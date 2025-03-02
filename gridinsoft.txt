@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.073052.2025
+! Version: 03.02.080051.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 07:30:52 UTC 2025
+! Last modified: Sun Mar  2 08:00:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9086
+! Number of entries: 9089
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3471,6 +3471,7 @@
 ||foundationrepair3009.online^
 ||foundators.x.click^
 ||foundryusa.com^
+||fournify-shop.netlify.app^
 ||fournisseur.io^
 ||foxcc.online^
 ||foxexpectplatform.pro^
@@ -3536,6 +3537,7 @@
 ||fuexweb.com^
 ||fuga.studios.com^
 ||fulenix.com^
+||fulnetwork.com^
 ||funbingo44.com^
 ||funcapsnl.com^
 ||fundedbullfx.com^
@@ -8390,6 +8392,7 @@
 ||veezpass.com^
 ||vegobit.com^
 ||vehiclevinstickers.com^
+||velanora.nl^
 ||velantra.store^
 ||velari.nl^
 ||veldainty.com^
