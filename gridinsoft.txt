@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.063537.2025
+! Version: 03.02.070049.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 06:35:37 UTC 2025
+! Last modified: Sun Mar  2 07:00:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9082
+! Number of entries: 9086
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2155,6 +2155,7 @@
 ||contenedor-balosan.es^
 ||contestcraze.today^
 ||continental.invest.ltd^
+||contiuoeny.com^
 ||contractnerds.com^
 ||controlnetworks.com.au^
 ||conveneprecedent.top^
@@ -3105,6 +3106,7 @@
 ||etdase.com^
 ||eterminal.net^
 ||eterni.click^
+||etfiweb3.com^
 ||etherealx.cn^
 ||ethereum.defi.vip^
 ||ethereum.smart.com^
@@ -4259,6 +4261,7 @@
 ||indelly.com^
 ||indianclub01.pro^
 ||indiapostkz.vip^
+||indingenharian.com^
 ||individuak.com^
 ||indojayapokeramp.xyz^
 ||indpeapract.cfd^
@@ -7112,6 +7115,7 @@
 ||shop-saver-now.com^
 ||shop.gamma.vip^
 ||shop.ledger.com^
+||shop.montece.com^
 ||shop.sale4.quest^
 ||shop.sale6.quest^
 ||shopa66.com^
