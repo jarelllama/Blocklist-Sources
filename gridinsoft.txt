@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.234802.2025
+! Version: 03.02.235701.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  2 23:48:02 UTC 2025
+! Last modified: Sun Mar  2 23:57:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9246
+! Number of entries: 9249
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2144,6 +2144,7 @@
 ||coinwbm.com^
 ||coinwck.com^
 ||coinwnto.com^
+||coinwyb.com^
 ||coldbit.net^
 ||colddms.com^
 ||colfayc.cc^
@@ -3283,6 +3284,7 @@
 ||fakemoneyvendor.com^
 ||falalamxn.vip^
 ||falconfxtrading.com^
+||family365xday.store^
 ||familychoicedrugstore.com^
 ||familymalls.com^
 ||famoustraders.co^
@@ -3550,6 +3552,7 @@
 ||fpsconstructivos.contenedores.com^
 ||fpswiss.com^
 ||fqafq.shop^
+||fr.ldplayer.net^
 ||fr.pokepetshop.com^
 ||fr.tradingview.com^
 ||fra.grandado.com^
