@@ -3,11 +3,11 @@
 ! Description: Domains scraped every thirty minutes to be used in https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.080051.2025
+! Version: 03.02.083314.2025
 ! Expires: 30 minutes
-! Last modified: Sun Mar  2 08:00:51 UTC 2025
+! Last modified: Sun Mar  2 08:33:14 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9089
+! Number of entries: 9092
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4211,6 +4211,7 @@
 ||ibmqgt.com^
 ||icapitalplus.com^
 ||iceberg.at^
+||iceekoo.com^
 ||iceriver.company^
 ||icocrypto.us^
 ||iconicinternational.online^
@@ -4789,6 +4790,7 @@
 ||lexclubwrld.site^
 ||lexidex.com^
 ||lexingtonhazelwoodstylist.com^
+||lexmt.com^
 ||lffpy10mnsnp.com^
 ||lfj.gg^
 ||lhndy.cn^
@@ -8135,6 +8137,7 @@
 ||tsauvip.ing^
 ||tshilaige.com^
 ||tslsjc.com^
+||tsvertex.com^
 ||tsyndicate.com^
 ||tt.tiktokmarketplace.online^
 ||ttescort.com^
