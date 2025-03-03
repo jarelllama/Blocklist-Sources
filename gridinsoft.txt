@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.165342.2025
+! Version: 03.03.170429.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 16:53:42 UTC 2025
+! Last modified: Mon Mar  3 17:04:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9535
+! Number of entries: 9538
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4860,6 +4860,7 @@
 ||kobominer.site^
 ||kofixgroup.com^
 ||koinfleet.com^
+||koiwhy.com^
 ||kokaindrogekaufen.com^
 ||koko101.com^
 ||kolem.shop^
@@ -5958,6 +5959,7 @@
 ||netflix.eltonymarketing.com^
 ||netfucks1.com^
 ||nethaless.com^
+||netherexpro.com^
 ||netreviewflix.com^
 ||netteknits.com^
 ||networkcycle.co.in^
@@ -9501,6 +9503,7 @@
 ||zhuan2345.com^
 ||ziatex.com^
 ||zielbioinc.com^
+||zillixx.com^
 ||zimasilkt.com^
 ||zimtrades.com^
 ||zinacams.ru^
