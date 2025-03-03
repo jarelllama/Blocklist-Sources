@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.215305.2025
+! Version: 03.03.220333.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 21:53:05 UTC 2025
+! Last modified: Mon Mar  3 22:03:33 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9651
+! Number of entries: 9653
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4844,6 +4844,7 @@
 ||ken.exmax.com^
 ||kennp.com^
 ||kenton.vip^
+||kenzotrade.com^
 ||keralamudraloan.in^
 ||kerasmining.me^
 ||kerasmining.one^
@@ -9575,6 +9576,7 @@
 ||zazroe.com^
 ||zbx.exchanges.com^
 ||zchuryakov.shop^
+||zco.com^
 ||zcode.system.online^
 ||zcsmw.com^
 ||zdigitalagencymt.cc^
