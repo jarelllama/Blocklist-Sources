@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.191217.2025
+! Version: 03.03.192303.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 19:12:17 UTC 2025
+! Last modified: Mon Mar  3 19:23:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9603
+! Number of entries: 9611
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3248,6 +3248,8 @@
 ||eugadneu.de^
 ||eulahy.com^
 ||eumarijuanashop.com^
+||eunseokkwon.shop^
+||eunstnjhfvf.shop^
 ||euopue.click^
 ||eur.pharmacy.com^
 ||eurocheapoonline.advanced.com^
@@ -3415,6 +3417,7 @@
 ||fazmex.com^
 ||fballofficial.club^
 ||fballofficial.com^
+||fbball.vip^
 ||fbkptumgxh.com^
 ||fc-group-fr.com^
 ||fc244.com^
@@ -3868,6 +3871,7 @@
 ||gettrampmeme.org^
 ||gettrampmemes.com^
 ||gettrumpairdrop.web.app^
+||getwatchmax.shop^
 ||getwhispeara.com^
 ||getxwin.com^
 ||gfgsdgkgk.com^
@@ -5410,6 +5414,7 @@
 ||marcomartinez.shop^
 ||marcotfx.com^
 ||margaretbennett.shop^
+||margaretnelson.shop^
 ||margin.coins.space^
 ||mariabafia.shop^
 ||mariaidonia.shop^
@@ -5884,6 +5889,8 @@
 ||muvtea.com^
 ||mvknnd.online^
 ||mvm-bank.com^
+||mvnyr.shop^
+||mvpykchypdqx.shop^
 ||mvrcommunity.com^
 ||mvrglobal.online^
 ||mw02.ipshorty.online^
@@ -7438,6 +7445,7 @@
 ||scanfakeid.com^
 ||scard50.ru^
 ||scarpa.eu.com^
+||sce-max.app^
 ||scholar.achiever.xyz^
 ||scholarz.org^
 ||sciatica.massage.16.online^
