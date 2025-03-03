@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.233329.2025
+! Version: 03.03.234246.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 23:33:29 UTC 2025
+! Last modified: Mon Mar  3 23:42:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9674
+! Number of entries: 9675
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2096,6 +2096,7 @@
 ||cloud.mail.ru^
 ||cloud.mining.cc^
 ||cloud.vogelrain.hopto.org^
+||cloudbof.com^
 ||cloudcomfortfood.online^
 ||cloudgateflowershop.com^
 ||cloudgeardesign.com^
