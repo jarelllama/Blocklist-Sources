@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.070240.2025
+! Version: 03.03.071545.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 07:02:40 UTC 2025
+! Last modified: Mon Mar  3 07:15:45 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 204
+! Number of entries: 205
 !
 ||app-coin.com^
 ||apps-trezor-bridge.gorgias.help^
@@ -212,4 +212,5 @@
 ||portal-trezo-docs.github.io^
 ||portal-trizor-cdn.github.io^
 ||public-trezorweb-cdn.gorgias.help^
+||vimsa.com.br^
 ||www.zorvexal.xyz^

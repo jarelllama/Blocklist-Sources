@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.070241.2025
+! Version: 03.03.071546.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 07:02:41 UTC 2025
+! Last modified: Mon Mar  3 07:15:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9348
+! Number of entries: 9353
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2222,6 +2222,7 @@
 ||contractnerds.com^
 ||controlnetworks.com.au^
 ||conveneprecedent.top^
+||converto.io^
 ||conveybitinvest.com^
 ||cookies.1.zuregg.space^
 ||coolbet.peru.online^
@@ -5255,10 +5256,13 @@
 ||malicecyberrecovery.com^
 ||mall.lovely.com^
 ||mallmyacy.com^
+||malloftoys.shop^
 ||mallprix.com^
 ||malltrabaho.online^
 ||mamafi.cc^
+||mammothivoryart.shop^
 ||mammut-uk.com^
+||mamshopping.shop^
 ||manadapp.lol^
 ||manchesterfinanceltd.com^
 ||maniie.com^
@@ -7087,6 +7091,7 @@
 ||roundyearfun.org^
 ||roveaskin.fr^
 ||rowthreads.com^
+||royal-swift.com^
 ||royal.marines.online^
 ||royalfieldfirearmsstore.com^
 ||royalmail.i78.xyz^
