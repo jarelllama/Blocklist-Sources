@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.082711.2025
+! Version: 03.03.083936.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 08:27:11 UTC 2025
+! Last modified: Mon Mar  3 08:39:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9387
+! Number of entries: 9395
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1998,6 +1998,7 @@
 ||cityaccesshouse.com^
 ||cityindexltd.com^
 ||civilwarcrisis.com^
+||cjkxnhabwzvqgtpjxg.shop^
 ||cjs.cdkeys.com^
 ||cksandy.com^
 ||cl.experts.biz^
@@ -3159,6 +3160,7 @@
 ||ericgarner.shop^
 ||erkulbicak.com^
 ||ermsty.com^
+||ervinmathieu.shop^
 ||erybdu.com^
 ||erzcibaldm.lol^
 ||es.bankinter.usuario.com^
@@ -4586,6 +4588,8 @@
 ||jetswiftcourier.com^
 ||jewelrygiftcenter.com^
 ||jewelrysgiftstore.com^
+||jgjmyqtmbofsmw.shop^
+||jgneqjwqdkq.shop^
 ||jgyfgroup.co^
 ||jhsmpkjaxyfknwem.shop^
 ||jhstkujyzwuntunxgmh.shop^
@@ -5241,6 +5245,7 @@
 ||magformersfyk.shop^
 ||magic4you.nu^
 ||magna-fx.com^
+||magodxasxyzag.shop^
 ||mahadev.id.online^
 ||mahakumbhhelicopterservice.online^
 ||mail.eu.linkedover.com^
@@ -5297,6 +5302,7 @@
 ||maracoins.com^
 ||marcomartinez.shop^
 ||marcotfx.com^
+||margaretbennett.shop^
 ||margin.coins.space^
 ||marimekko.eu.com^
 ||mariswiss.com^
@@ -5666,8 +5672,10 @@
 ||mrefractiont.lol^
 ||mrgascarts.com^
 ||mrgasdisposableshop.com^
+||mrzbxqjesnqatekh.shop^
 ||ms.nordictrack.cc^
 ||mscfxtrader.com^
+||mschxzrmcyzjmj.shop^
 ||mscommerce.net^
 ||msdrop.com.ua^
 ||msrpamnvpjtjkdwmdxfd.shop^
