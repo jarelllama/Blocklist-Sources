@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.190017.2025
+! Version: 03.03.191217.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 19:00:17 UTC 2025
+! Last modified: Mon Mar  3 19:12:17 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9595
+! Number of entries: 9603
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2116,6 +2116,8 @@
 ||cnkjhfyhposjmndh.378wugnima.shop^
 ||cnnhealth.online^
 ||cnsmokes.com^
+||cntstxhbgmzszpvpx.shop^
+||cnufdxswtdbqrpa.shop^
 ||co.financing.cc^
 ||coach.factoryoutletonline.com^
 ||coahinp.com^
@@ -3313,6 +3315,7 @@
 ||expertcryptopremium.com^
 ||expertmarkettrade.com^
 ||experttraderchanel.com^
+||experttrades.net^
 ||exploit.in^
 ||explore.share.work.com^
 ||express-mr.com^
@@ -3881,6 +3884,7 @@
 ||ghostcheats.com^
 ||ghsgdkag.com^
 ||ghsyps.ca^
+||ghvfyhbotehcxnxmh.shop^
 ||gibraltarfbn.com^
 ||giemol.com^
 ||gift-box-shop.com^
@@ -5408,6 +5412,7 @@
 ||margaretbennett.shop^
 ||margin.coins.space^
 ||mariabafia.shop^
+||mariaidonia.shop^
 ||marianaluna.shop^
 ||marianetardif.shop^
 ||mariannekristensen.shop^
@@ -5882,7 +5887,9 @@
 ||mvrcommunity.com^
 ||mvrglobal.online^
 ||mw02.ipshorty.online^
+||mwkvusfugeza.shop^
 ||mwmhelphub.com^
+||mwrprnozsugwrkzfevzy.shop^
 ||mx.technolutions.net^
 ||mxewzckqcdwfvwgjuva.shop^
 ||mxpndpdnpnfu.shop^
@@ -7044,6 +7051,7 @@
 ||quilted-shadowed-verbena.glitch.me^
 ||quiltsbedspreads.com^
 ||quintessential.quillaig.shop^
+||quintravance.com^
 ||qumqu.com^
 ||quvrmh.com^
 ||qvion8.com^
