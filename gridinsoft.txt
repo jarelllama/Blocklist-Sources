@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.144402.2025
+! Version: 03.03.145308.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 14:44:02 UTC 2025
+! Last modified: Mon Mar  3 14:53:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9512
+! Number of entries: 9514
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -687,6 +687,7 @@
 ||apkholes.com^
 ||apkhot.xyz^
 ||apkmill.xyz^
+||apkmody.io^
 ||apkrb.com^
 ||apkturbo.com^
 ||aplis.pv.com^
@@ -8790,6 +8791,7 @@
 ||vaultperth.com^
 ||vavogue.com^
 ||vazico.shop^
+||vazzimall.com^
 ||vbdigitalcard.in^
 ||vc66.net^
 ||vcard50.ru^
