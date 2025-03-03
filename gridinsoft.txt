@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.114903.2025
+! Version: 03.03.115809.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 11:49:03 UTC 2025
+! Last modified: Mon Mar  3 11:58:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9478
+! Number of entries: 9482
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4268,6 +4268,7 @@
 ||hookah4dayli.online^
 ||hookupers.co^
 ||hopifex.com^
+||hoppylu.com^
 ||hopsonflagship.com^
 ||horizonblockhash.com^
 ||horizoncapitals.org^
@@ -5393,6 +5394,8 @@
 ||markoutlet.shop^
 ||markservers.com^
 ||marktemusik.shop^
+||markushussey.shop^
+||markusmehta.shop^
 ||marlrus.com^
 ||maroyia.com^
 ||marqjoy.com^
@@ -7891,6 +7894,7 @@
 ||suivre.envoi.com^
 ||sukikawaii.com^
 ||sulop.online^
+||suministrosdetatuaje.com^
 ||summaryas.com^
 ||summeyco.online^
 ||summitcapital.ltd^
