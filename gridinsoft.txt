@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.141954.2025
+! Version: 03.03.143312.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 14:19:54 UTC 2025
+! Last modified: Mon Mar  3 14:33:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9507
+! Number of entries: 9510
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -942,6 +942,7 @@
 ||avatrade.fr^
 ||avcloth.com^
 ||avelinejewelry.com^
+||avenhour.com^
 ||aventra-melbourne.com^
 ||averagedadofficial.com^
 ||avianca.com^
@@ -2229,6 +2230,7 @@
 ||constipation.relieve.16.online^
 ||constitutionalalleviation.top^
 ||construction.jobs.nz.online^
+||consulta-gov.org^
 ||consultarpedidosweb.online^
 ||contactandplay.com^
 ||contactconsultingservices.com^
@@ -9123,6 +9125,7 @@
 ||wibikesstreet.com^
 ||wichhistor.co.uk^
 ||wideopentriggers.com^
+||widestep.com^
 ||wiehenstahl.co^
 ||wiflix-pro.site^
 ||wilbal.com^
