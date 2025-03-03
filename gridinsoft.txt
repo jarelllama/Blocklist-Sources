@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.052604.2025
+! Version: 03.03.053742.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 05:26:04 UTC 2025
+! Last modified: Mon Mar  3 05:37:42 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9299
+! Number of entries: 9307
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1956,6 +1956,7 @@
 ||chrossx.com^
 ||chuddahs.com^
 ||churrasconoap.com.br^
+||chwjd.shop^
 ||ciarfex.com^
 ||cicc.ink^
 ||ciecoenergy.ltd^
@@ -3141,6 +3142,7 @@
 ||erenova.in^
 ||ergotrainingproducts.com^
 ||erias.xyz^
+||ericgarner.shop^
 ||erkulbicak.com^
 ||ermsty.com^
 ||erybdu.com^
@@ -3673,6 +3675,8 @@
 ||fxtrinity.com^
 ||fxveco.live^
 ||fxvision.net^
+||fzpwjdnweakx.shop^
+||fzutjsgrwvpztrvph.shop^
 ||g-meh.com^
 ||g.meds.com^
 ||g.newpoint.com^
@@ -4529,7 +4533,10 @@
 ||jerryys.cc^
 ||jerseyeugee.com^
 ||jesellear.best^
+||jesseberger.shop^
+||jessecaroline.shop^
 ||jessemade.es^
+||jesseyera.shop^
 ||jetluck.com^
 ||jetmarssofertas.online^
 ||jetswiftcourier.com^
@@ -5975,6 +5982,7 @@
 ||oexbit.com^
 ||ofertabook.online^
 ||ofertadomostruario.com^
+||offercustom.com^
 ||offersheres.net^
 ||offersjournal.com^
 ||officedesk.commercialdeals.online^
