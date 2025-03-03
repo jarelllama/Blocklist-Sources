@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.074619.2025
+! Version: 03.03.075542.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 07:46:19 UTC 2025
+! Last modified: Mon Mar  3 07:55:42 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9372
+! Number of entries: 9379
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3196,6 +3196,7 @@
 ||ethereum.defi.vip^
 ||ethereum.smart.com^
 ||ethjpn.com^
+||etncaxycontqnuo.shop^
 ||etoro66.vip^
 ||eu-sezane.com^
 ||eu.payback.com^
@@ -3748,10 +3749,14 @@
 ||gdqvip.com^
 ||gearclix.com^
 ||gearsplay.com^
+||gearsustainablesuapply.shop^
 ||geassets.com^
 ||geasta.com^
+||gedmfcqptsjotwmx.shop^
 ||geebuuy.com^
+||geegcv.shop^
 ||geekscoin.com^
+||geigenbau-bartsch.shop^
 ||gel9.online^
 ||geldxup.com^
 ||gem.minelab.net^
@@ -5666,6 +5671,8 @@
 ||mtg08v1zr.com^
 ||mttathletics.com^
 ||mttsports.com^
+||mtvrazjhmxhmvhqvyfb.shop^
+||mtxkqbnoshjshxrc.shop^
 ||mtzbux.site^
 ||mujeresconbienestar.gob.mx.info^
 ||muke.ai^
