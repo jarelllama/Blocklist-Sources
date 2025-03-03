@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.192303.2025
+! Version: 03.03.193231.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 19:23:03 UTC 2025
+! Last modified: Mon Mar  3 19:32:31 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9611
+! Number of entries: 9614
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3038,6 +3038,7 @@
 ||ecos.am.live^
 ||ecos.am^
 ||ecovipshop.top^
+||ecowade.com^
 ||ecrater.com^
 ||ecstore2021.com^
 ||edate.com^
@@ -5413,6 +5414,7 @@
 ||maracoins.com^
 ||marcomartinez.shop^
 ||marcotfx.com^
+||marcusschipper.shop^
 ||margaretbennett.shop^
 ||margaretnelson.shop^
 ||margin.coins.space^
@@ -5887,6 +5889,7 @@
 ||muskratmarinesstingeras.pro^
 ||mustangautopartsshop.com^
 ||muvtea.com^
+||muxtfxagenuqfbzrotz.shop^
 ||mvknnd.online^
 ||mvm-bank.com^
 ||mvnyr.shop^
