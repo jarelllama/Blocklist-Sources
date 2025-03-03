@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.133514.2025
+! Version: 03.03.134510.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 13:35:14 UTC 2025
+! Last modified: Mon Mar  3 13:45:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9496
+! Number of entries: 9498
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -985,6 +985,7 @@
 ||baettop.store^
 ||baffinca.com^
 ||bagii.shop^
+||bagliy.com^
 ||bagnieman.shop^
 ||bagsmalls.com^
 ||bagsupermarket.com^
@@ -3768,6 +3769,7 @@
 ||garvize.shop^
 ||gaspol268.com^
 ||gaypornbuddy.com^
+||gbh202559.com^
 ||gcgold.club^
 ||gdcecusd.com^
 ||gdmining.site^
