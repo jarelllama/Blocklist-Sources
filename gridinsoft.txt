@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.123110.2025
+! Version: 03.03.125155.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 12:31:10 UTC 2025
+! Last modified: Mon Mar  3 12:51:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9487
+! Number of entries: 9491
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -29,6 +29,7 @@
 ||05012025.info^
 ||0800299002.com^
 ||080907.com^
+||084fe140-a73c-4011-9bae-9d37cc2092f3-00-2c1q1ix34vorm.spock.repl.co^
 ||0860d.com^
 ||1.tiktokimg.online^
 ||100aventuras.com.mx^
@@ -1556,6 +1557,7 @@
 ||brentonways.top^
 ||breville.online^
 ||breyfe.com^
+||breznikar.com^
 ||brfmhuvgexkunygy.shop^
 ||brgjyqpjmbcgvqh.shop^
 ||briansclub.cm.shop^
@@ -7089,6 +7091,7 @@
 ||reoe.shop^
 ||reortxxd.top^
 ||repaircontractors2us0507.online^
+||replaywot.fun^
 ||repliquesuisse.co^
 ||reploysai.io^
 ||reportcryptoscam.forum.online^
@@ -9228,6 +9231,7 @@
 ||wusveso.im^
 ||wusveso.vip^
 ||wuwatracker.com^
+||wv3r.cuevana8.com^
 ||ww7.lemoniada.online^
 ||wwcoin6.com^
 ||wwerular.shop^
