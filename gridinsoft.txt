@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.100833.2025
+! Version: 03.03.102327.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 10:08:33 UTC 2025
+! Last modified: Mon Mar  3 10:23:27 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9438
+! Number of entries: 9441
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4143,6 +4143,7 @@
 ||headlinehype.site^
 ||headstone.shop^
 ||healthcompounds.com^
+||healthdealer.shop^
 ||healthessencial.com^
 ||healthproductspro.com^
 ||healthtimers.com^
@@ -5345,6 +5346,8 @@
 ||marinealloy.shop^
 ||marinecoolers.shop^
 ||marineheattech.shop^
+||marineradarstore.shop^
+||marioden.shop^
 ||mariswiss.com^
 ||markencf.com^
 ||market4s.com^
