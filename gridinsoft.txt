@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.091116.2025
+! Version: 03.03.092642.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 09:11:16 UTC 2025
+! Last modified: Mon Mar  3 09:26:42 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9410
+! Number of entries: 9414
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5316,6 +5316,10 @@
 ||margin.coins.space^
 ||mariabafia.shop^
 ||marianaluna.shop^
+||mariaottone.shop^
+||mariapoole.shop^
+||mariasainthot.shop^
+||mariasuday.shop^
 ||marimekko.eu.com^
 ||mariswiss.com^
 ||markencf.com^
