@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.085851.2025
+! Version: 03.03.091116.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 08:58:51 UTC 2025
+! Last modified: Mon Mar  3 09:11:16 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9403
+! Number of entries: 9410
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -887,6 +887,8 @@
 ||atualcance.online^
 ||au24shop.com^
 ||aubuds.com^
+||audreygaltier.shop^
+||aueuzavgvogyxfejfywd.shop^
 ||augurcapitaltrade.com^
 ||aukit.co^
 ||aukweb3.com^
@@ -1038,6 +1040,7 @@
 ||bathroom.remodeling.88604.bond^
 ||bathroomremodelingus1207.online^
 ||bauer.parndorf.at^
+||bavgnwqwqcykynkguvtv.shop^
 ||baxtertradings.online^
 ||bazarswap.com^
 ||bbajya.ahm6185.com^
@@ -1103,6 +1106,7 @@
 ||bemine.club^
 ||benfu.biz^
 ||benjamindavispersonaltrainer.com^
+||bennetgrill.shop^
 ||bep20.biz^
 ||bergmannmodehaus.com^
 ||bergstrombees.store^
@@ -5311,6 +5315,7 @@
 ||margaretbennett.shop^
 ||margin.coins.space^
 ||mariabafia.shop^
+||marianaluna.shop^
 ||marimekko.eu.com^
 ||mariswiss.com^
 ||markencf.com^
@@ -5672,6 +5677,8 @@
 ||moxwin.top^
 ||mpc7.cc^
 ||mqueercr.monster^
+||mqwdabmqekhbmakewa.shop^
+||mqwxrmkctekey.shop^
 ||mqyn.odqmjbta.shop^
 ||mr.destock.com^
 ||mr.verify.net^
