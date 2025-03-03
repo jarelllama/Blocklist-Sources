@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.185106.2025
+! Version: 03.03.190017.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 18:51:06 UTC 2025
+! Last modified: Mon Mar  3 19:00:17 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9588
+! Number of entries: 9595
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3883,8 +3883,10 @@
 ||ghsyps.ca^
 ||gibraltarfbn.com^
 ||giemol.com^
+||gift-box-shop.com^
 ||giftbasketonlines.com^
 ||giftcodes.wtf^
+||giftsforfans.shop^
 ||giftshining.com^
 ||gifttowallet.com^
 ||giftvalidator.com^
@@ -4706,6 +4708,8 @@
 ||joannla.com^
 ||joannoverstock.com^
 ||joanonline.shop^
+||joaoqhwdhfhqz.shop^
+||joasghfmucwna.shop^
 ||jobeazi.com^
 ||jobetoys.com^
 ||jobforge.ca^
@@ -5405,6 +5409,8 @@
 ||margin.coins.space^
 ||mariabafia.shop^
 ||marianaluna.shop^
+||marianetardif.shop^
+||mariannekristensen.shop^
 ||mariaottone.shop^
 ||mariapoole.shop^
 ||mariasainthot.shop^
@@ -5878,6 +5884,7 @@
 ||mw02.ipshorty.online^
 ||mwmhelphub.com^
 ||mx.technolutions.net^
+||mxewzckqcdwfvwgjuva.shop^
 ||mxpndpdnpnfu.shop^
 ||mxypqmwuvjpo.shop^
 ||my-expert100.com^
