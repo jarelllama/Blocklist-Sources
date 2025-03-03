@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.061108.2025
+! Version: 03.03.062721.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 06:11:08 UTC 2025
+! Last modified: Mon Mar  3 06:27:21 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9330
+! Number of entries: 9339
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -458,6 +458,8 @@
 ||akusoli.com^
 ||al.rafidahcapital.com^
 ||al.sahabinvestment.com^
+||alaexpress.shop^
+||alainstebach.shop^
 ||albertcrypto.pro^
 ||alcazie.in^
 ||alcotthrgroup.online^
@@ -465,6 +467,9 @@
 ||alectomedia.online^
 ||alessioduini.com^
 ||alex-westford.com^
+||alexanderkampschulte.shop^
+||alexandreroyer.shop^
+||alexpatel.shop^
 ||alexquantify.com^
 ||alfagroup.inter.com^
 ||alfatradersfx.com^
@@ -475,6 +480,7 @@
 ||aliantcreditfinance.com^
 ||alianzashop.com^
 ||alibaba8.com^
+||alicefortin.shop^
 ||alidropnuig.com^
 ||aliex.proxy.robot.shop^
 ||aliquotes.online^
@@ -558,6 +564,7 @@
 ||amaozn.online^
 ||amaritgc.online^
 ||amazedgoods.com^
+||amazin.shop^
 ||amazingfindsonline.com^
 ||amazingsoulpeace.shop^
 ||amaznmarket.shop^
@@ -865,6 +872,7 @@
 ||atlantictrustfl.net^
 ||atlanticuni.com^
 ||atlasarchcaptl.com^
+||atlasminers.org^
 ||atlasore.com^
 ||atlaspays.com^
 ||atmastore.com^
@@ -8353,6 +8361,7 @@
 ||tryessnce.com^
 ||tryfemina.com^
 ||trygamecrate.com^
+||trynomend.com^
 ||tryriva.com^
 ||ts761hgd.com^
 ||tsauvip.ing^
