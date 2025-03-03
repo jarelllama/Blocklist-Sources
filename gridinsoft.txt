@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.055624.2025
+! Version: 03.03.061108.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 05:56:24 UTC 2025
+! Last modified: Mon Mar  3 06:11:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9322
+! Number of entries: 9330
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3656,6 +3656,7 @@
 ||futuresprous.com^
 ||futurewisehub.com^
 ||futurofinanzachile.com^
+||fuygojcuqwpcsngvaha.shop^
 ||fvmbij.mdgameb.top^
 ||fvyreu.com^
 ||fwideseek.top^
@@ -4535,6 +4536,11 @@
 ||jbnil.top^
 ||jdmax88.com^
 ||jeanne-pierre.com^
+||jeanstorseaz.shop^
+||jeatrice.shop^
+||jecnchcrleslamegarde.shop^
+||jedogwectmtohfoksqvw.shop^
+||jeeanx.shop^
 ||jenkin.shop^
 ||jennaripplinger.shop^
 ||jennarowe.shop^
@@ -5198,6 +5204,7 @@
 ||maddowk.com^
 ||madeinss.com^
 ||madmuscles.com^
+||madrid-fc.shop^
 ||madvisa.com^
 ||maegqf.com^
 ||maexj2trk.com^
@@ -5492,6 +5499,7 @@
 ||mischievousflirt.com^
 ||mispay.in^
 ||missav.cam^
+||mistanese.com^
 ||misterlamp.de^
 ||mistoleo.com^
 ||mitmine.com^
