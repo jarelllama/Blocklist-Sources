@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.053742.2025
+! Version: 03.03.054703.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 05:37:42 UTC 2025
+! Last modified: Mon Mar  3 05:47:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9307
+! Number of entries: 9314
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3675,6 +3675,8 @@
 ||fxtrinity.com^
 ||fxveco.live^
 ||fxvision.net^
+||fyswykszncmxebnbmga.shop^
+||fyxuvdbfdhtkqswox.shop^
 ||fzpwjdnweakx.shop^
 ||fzutjsgrwvpztrvph.shop^
 ||g-meh.com^
@@ -4065,6 +4067,7 @@
 ||happyvape.nl^
 ||happyvilleonline.com^
 ||hardblock.com.au^
+||harkila-supplier.shop^
 ||harkilaequipment.shop^
 ||harley.davidsonsalestore.shop^
 ||harpreetkaur.site^
@@ -4530,6 +4533,10 @@
 ||jdmax88.com^
 ||jeanne-pierre.com^
 ||jennyfloyd.shop^
+||jenslarsen.shop^
+||jeongmikim.shop^
+||jepqvdwfnqgf.shop^
+||jepuekghcqvzjykex.shop^
 ||jerryys.cc^
 ||jerseyeugee.com^
 ||jesellear.best^
