@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.130629.2025
+! Version: 03.03.132146.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 13:06:29 UTC 2025
+! Last modified: Mon Mar  3 13:21:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9492
+! Number of entries: 9493
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4385,6 +4385,7 @@
 ||iceekoo.com^
 ||iceriver.company^
 ||icocrypto.us^
+||icominer.com^
 ||iconicinternational.online^
 ||id184124.com^
 ||idatech.online^
