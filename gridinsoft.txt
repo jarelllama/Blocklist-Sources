@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.151725.2025
+! Version: 03.03.153013.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 15:17:25 UTC 2025
+! Last modified: Mon Mar  3 15:30:13 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9516
+! Number of entries: 9519
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6050,6 +6050,7 @@
 ||nlcrents.com^
 ||nlelektronica.com^
 ||nlleenbakker.com^
+||nlluluboom.com^
 ||nlvivobarefoot.com^
 ||nmbhae.fit^
 ||nmnpfkwrtuyzh.shop^
@@ -9343,6 +9344,7 @@
 ||xtrade.com^
 ||xtraexcharge.com^
 ||xtremediscount.net^
+||xtremehdiptv.org^
 ||xtremeiptv.online^
 ||xu5.cc^
 ||xufuji.xyz^
@@ -9393,6 +9395,7 @@
 ||youareanidiot.org^
 ||youmeya.online^
 ||youngglobalinvestmentsinc.com^
+||your-iptv.com^
 ||yourcreditshistory.com^
 ||yourdigitalshield.com^
 ||yourselfirst.com^
