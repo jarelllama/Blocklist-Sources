@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.112102.2025
+! Version: 03.03.113018.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 11:21:02 UTC 2025
+! Last modified: Mon Mar  3 11:30:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9472
+! Number of entries: 9477
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -496,6 +496,7 @@
 ||allemall.top^
 ||alleycatsol.xyz^
 ||allfamilyfinds.com^
+||allfic.com^
 ||allgoodkeys.com^
 ||alliancegpc.com^
 ||allianceroyals.com^
@@ -747,6 +748,7 @@
 ||aqintesy.org^
 ||aquienchile.com^
 ||ar68bc2h0d78l4saqd0.heldit.shop^
+||arabianpetrol.com^
 ||arabwood.ir^
 ||arakaxabux.com^
 ||arasorrion.com^
@@ -2491,6 +2493,7 @@
 ||dailyxjili16.com^
 ||dainese.sale.shop^
 ||daintyrarly.com^
+||daisda.com^
 ||dakademie.net^
 ||dalarex.com^
 ||dalladesh.com^
@@ -7989,6 +7992,7 @@
 ||symphonicmusicpromo.com^
 ||syncscriptsch.site^
 ||synthealth.com^
+||syrotoys.store^
 ||syuffxx.com^
 ||syuffxx.ee^
 ||syuffxx.vip^
@@ -8609,6 +8613,7 @@
 ||unitedparcelexpress.online^
 ||unitedstatepharmacy.com^
 ||unitycapitalfinance.org^
+||unitywealthminer.com^
 ||univers-pokemon.fr^
 ||univers.pokemon.fr^
 ||universalstudiosau.com^
