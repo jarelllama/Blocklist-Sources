@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.033834.2025
+! Version: 03.03.034949.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 03:38:34 UTC 2025
+! Last modified: Mon Mar  3 03:49:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9271
+! Number of entries: 9276
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2546,6 +2546,7 @@
 ||deepcoinf.com^
 ||deepnude.to^
 ||deepnudeai.online^
+||deepseek-xxx.com^
 ||deepseek.build^
 ||deepseek.buzz^
 ||deepseek.bz^
@@ -3292,6 +3293,7 @@
 ||fakemoneyvendor.com^
 ||falalamxn.vip^
 ||falconfxtrading.com^
+||famety.com^
 ||family365xday.store^
 ||familychoicedrugstore.com^
 ||familymalls.com^
@@ -3425,6 +3427,7 @@
 ||fintechmexicofestival.com^
 ||fintxpert.com^
 ||finzennews.com^
+||fiordintel.net^
 ||fireonfootball.com^
 ||firm43rades.com^
 ||firmco.mobility.com^
@@ -3720,6 +3723,7 @@
 ||gearsplay.com^
 ||geassets.com^
 ||geasta.com^
+||geebuuy.com^
 ||geekscoin.com^
 ||gel9.online^
 ||geldxup.com^
@@ -3942,6 +3946,7 @@
 ||grabpoints.com^
 ||graceiful.com^
 ||gradepips.com^
+||graece.shop^
 ||graftonoakwood.com^
 ||grandhealthonline.com^
 ||grandura.shop^
