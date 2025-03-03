@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.193231.2025
+! Version: 03.03.194144.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 19:32:31 UTC 2025
+! Last modified: Mon Mar  3 19:41:44 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9614
+! Number of entries: 9619
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3843,6 +3843,7 @@
 ||geographz.com^
 ||georgistoychev.shop^
 ||geoxsdiscountshop.com^
+||gequiltdesignsaqu.shop^
 ||germ4.com^
 ||get-derila.com^
 ||get.activated.win^
@@ -4283,6 +4284,7 @@
 ||hireuphelp.online^
 ||hiringlense.in^
 ||hitthewalls.top^
+||hk-jlx.com^
 ||hkapp.telegram.net^
 ||hkcryptoexchange.com^
 ||hkdatong.shop^
@@ -5412,6 +5414,7 @@
 ||maperformanecewsg.shop^
 ||maqiqsent.com^
 ||maracoins.com^
+||marcascomdesconto.shop^
 ||marcomartinez.shop^
 ||marcotfx.com^
 ||marcusschipper.shop^
@@ -5880,6 +5883,7 @@
 ||mungu.in^
 ||muobehwghdrtpkxy.shop^
 ||muopysbhgjtpgnm.shop^
+||muqkqvgmkyeg.shop^
 ||musevancouver.com^
 ||music8.online^
 ||musicgearexperts.com^
@@ -7065,6 +7069,7 @@
 ||qumqu.com^
 ||quvrmh.com^
 ||qvion8.com^
+||qviond.com^
 ||qvrmall.com^
 ||qvwcc.com^
 ||qw.lactalis-usd.cc^
