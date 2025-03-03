@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.072951.2025
+! Version: 03.03.073708.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 07:29:51 UTC 2025
+! Last modified: Mon Mar  3 07:37:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9360
+! Number of entries: 9364
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1164,6 +1164,7 @@
 ||betteranime.net^
 ||betterdiscountdeals.com^
 ||betterhealthshoping.com^
+||bettersso.net^
 ||betterzone19.info^
 ||betwave.vip^
 ||bewizi.com^
@@ -4105,6 +4106,7 @@
 ||hbqbqhtwvuqarew.shop^
 ||hbydhfsrksudgh.shop^
 ||hc1976.com^
+||hcbuhkgasduhc.shop^
 ||hco.bank.top^
 ||hd.redditf.xyz^
 ||hds-streaming.to^
@@ -5276,6 +5278,7 @@
 ||manualslibrary.co^
 ||manueladan.shop^
 ||manuelbettencourt.shop^
+||maperformanecewsg.shop^
 ||maqiqsent.com^
 ||maracoins.com^
 ||marcotfx.com^
@@ -6357,6 +6360,7 @@
 ||peakstonebull.com^
 ||pedidoatualizado.online^
 ||pedrosantosblog.online^
+||peekobooa.com^
 ||peekyn.us.com^
 ||pefctiordent.com^
 ||peibuj.com^
