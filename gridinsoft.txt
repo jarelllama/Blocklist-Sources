@@ -1,13 +1,13 @@
 [Adblock Plus]
 ! Title: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist
-! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
+! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.103713.2025
+! Version: 03.03.104712.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 10:37:13 UTC 2025
+! Last modified: Mon Mar  3 10:47:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9447
+! Number of entries: 9453
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4151,6 +4151,7 @@
 ||healthwellbeingplace.online^
 ||healthwellonline.online^
 ||healthybodynow.net^
+||healthytea-shop.com^
 ||heartlandstandardbk.com^
 ||heavensender.pro^
 ||hedahour.com^
@@ -5354,6 +5355,10 @@
 ||marionhellwig.shop^
 ||marionjuillet.shop^
 ||marioskaragiorgis.shop^
+||marisachaves.shop^
+||marisalinares.shop^
+||marissacote.shop^
+||marissagraham.shop^
 ||mariswiss.com^
 ||markencf.com^
 ||market4s.com^
@@ -9202,6 +9207,7 @@
 ||www.virtual.vip^
 ||www.y2mate.com^
 ||www1.thepiratebay3.to^
+||www2.citadores.com^
 ||www2.rarbggo.to^
 ||wwwcoa.top^
 ||wwwwscsb500comios2ser.wscbs.vip^
