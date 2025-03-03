@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.062721.2025
+! Version: 03.03.064220.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 06:27:21 UTC 2025
+! Last modified: Mon Mar  3 06:42:20 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9339
+! Number of entries: 9342
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6304,6 +6304,7 @@
 ||pascoprime.com^
 ||pasion.padel.com^
 ||passcoin.net^
+||passfab.jp^
 ||pastelunm.com^
 ||pataugasenligne.com^
 ||patek.ydx.com^
@@ -8342,6 +8343,7 @@
 ||trustedunity-bk.online^
 ||trustedvincheck.com^
 ||trustgreenfirm.live^
+||trustlsdblotter.com^
 ||trustlywealthfx.com^
 ||trustmarkettrading.com^
 ||trustphin.com^
@@ -8740,6 +8742,7 @@
 ||vircloth.com^
 ||virtueprimetrade.live^
 ||vishopee.com^
+||vision-capitalvip.com^
 ||visionsco.online^
 ||visprintdesign.biz^
 ||vistatrack.net^
