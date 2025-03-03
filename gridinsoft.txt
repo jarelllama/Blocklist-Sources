@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.003401.2025
+! Version: 03.03.010228.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 00:34:01 UTC 2025
+! Last modified: Mon Mar  3 01:02:28 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9254
+! Number of entries: 9258
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2670,6 +2670,7 @@
 ||deriveln.com^
 ||dermess.com^
 ||dermodemacher.de^
+||desalpes.world^
 ||descorative.com^
 ||descubretesoro.com^
 ||desicinemas.to^
@@ -4623,6 +4624,7 @@
 ||kaptohelp.top^
 ||karachaganakfield.kz^
 ||karavvan.com^
+||karawalby.com^
 ||kardsinc.info^
 ||karenmillenfrance.com^
 ||kariox.trade.net^
@@ -6689,6 +6691,7 @@
 ||qeso.spaactivs.top^
 ||qfsassets.backups.com^
 ||qfsbackupassets.ltd^
+||qfsdebtconsolidationreview.com^
 ||qfslite.sbs^
 ||qfsnesara.io^
 ||qfthome.com^
@@ -8545,6 +8548,7 @@
 ||vectorgenz.com^
 ||veepee.fr.shop^
 ||veezpass.com^
+||vegigro.com^
 ||vegobit.com^
 ||vehiclevinstickers.com^
 ||velanora.nl^
