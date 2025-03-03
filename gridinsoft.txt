@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.155039.2025
+! Version: 03.03.160002.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 15:50:39 UTC 2025
+! Last modified: Mon Mar  3 16:00:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9524
+! Number of entries: 9526
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4528,6 +4528,7 @@
 ||iprimetv.store^
 ||ipscene.com^
 ||ipshows4k.site^
+||iptv-enligne.fr^
 ||iptv4d.com^
 ||iptvexpert.pro^
 ||iptvgear.store^
@@ -4933,6 +4934,7 @@
 ||ladyboofashion.com^
 ||ladysstreet.com^
 ||laferreteriaweb.com^
+||lafranceiptv.fr^
 ||lagriffaoutlett.com^
 ||lahomy.co^
 ||laidanyou.com^
