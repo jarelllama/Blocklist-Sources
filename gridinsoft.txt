@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.042808.2025
+! Version: 03.03.044020.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 04:28:08 UTC 2025
+! Last modified: Mon Mar  3 04:40:20 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9282
+! Number of entries: 9287
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3396,7 +3396,9 @@
 ||filmesonline.blog^
 ||filmgratuit.stream^
 ||filmpalast.to^
+||filmy4wap.co.in^
 ||filmyfly.esq^
+||filmyfly.phd^
 ||filmyworkvip.com^
 ||finan.ssl.wemfbox.ch^
 ||finance.phantom.ca^
@@ -5124,6 +5126,8 @@
 ||lynnehaley.shop^
 ||lynnetteangel.shop^
 ||lynnglobal.shop^
+||lysanelavoie.shop^
+||lyubovvlasova.shop^
 ||lyvolix.com^
 ||lyycs.store^
 ||lzminer.com^
@@ -7997,6 +8001,7 @@
 ||thetruthinfo.club^
 ||thewealthwave.co^
 ||thewebdesignerllc.com^
+||thewebtics.com^
 ||thewisdombible.com^
 ||theworkstep.com^
 ||thexaut.network^
