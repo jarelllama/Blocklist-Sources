@@ -14,7 +14,9 @@ readonly -a SOURCES=(
 main() {
     local source source_url
     for source in "${SOURCES[@]}"; do
-        "source_${source}" >> "${source}.txt" || true
+        "source_${source}" || true
+        cat source_results.tmp >> "${source}.txt"
+        rm source_results.tmp
         build
     done
 }
@@ -24,14 +26,15 @@ source_chainabuse() {
 
     # Scraping separate pages does not work
     curl -sSL --retry 2 --retry-all-errors "$source_url" \
-        | grep -Po "domain\":\"https?://\K${DOMAIN_REGEX}"
+        | grep -Po "domain\":\"https?://\K${DOMAIN_REGEX}" > source_results.tmp
 }
 
 source_easydmarc() {
     source_url='https://easydmarc.com/tools/phishing-url'
 
     curl -sSL --retry 2 --retry-all-errors "$source_url" \
-        | grep -Po "https://\K${DOMAIN_REGEX}(?=(/[^/]+)*</a></td><td><span class=\"eas-tag eas-tag--standard eas-tag--red\">SUSPICIOUS)"
+        | grep -Po "https://\K${DOMAIN_REGEX}(?=(/[^/]+)*</a></td><td><span class=\"eas-tag eas-tag--standard eas-tag--red\">SUSPICIOUS)" \
+        > source_results.tmp
 }
 
 source_gridinsoft() {
@@ -39,14 +42,15 @@ source_gridinsoft() {
 
     curl -sSL --retry 2 --retry-all-errors "$source_url" \
         | mawk '/<span>Suspicious/ { for(i=0; i<7; i++) getline; print }' \
-        | grep -Po "$DOMAIN_REGEX"
+        | grep -Po "$DOMAIN_REGEX" > source_results.tmp
 }
 
 source_malwareurl() {
     source_url='https://www.malwareurl.com'
 
     curl -sSL --retry 2 --retry-all-errors "$source_url" \
-        | grep -Po "class=\"text-marked\">\K${DOMAIN_REGEX}(?=</span></li>)"
+        | grep -Po "class=\"text-marked\">\K${DOMAIN_REGEX}(?=</span></li>)" \
+        > source_results.tmp
 }
 
 # Format the blocklist.
