@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.181139.2025
+! Version: 03.03.182749.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 18:11:39 UTC 2025
+! Last modified: Mon Mar  3 18:27:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9567
+! Number of entries: 9574
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3901,6 +3901,7 @@
 ||glecapitalsrl.online^
 ||glenjoyce.com^
 ||gletber.com^
+||glintyr.shop^
 ||glitshine.com^
 ||glizm.com^
 ||gllpdh.club^
@@ -3909,6 +3910,7 @@
 ||global.tinv.org^
 ||global.tokenex.net^
 ||globalaro.digitaladvanced.com^
+||globalarticangel.shop^
 ||globalbusinesspays.com^
 ||globalcapitalista.com^
 ||globalcocainecanada.ca^
@@ -4705,8 +4707,11 @@
 ||johncrestani.online.com^
 ||johnhearingaids.com^
 ||join.lavishivy.com^
+||joinflexlaboutiqueaux2balais.shop^
 ||joinfridayplans.com^
 ||joingy.online^
+||joinlittlemduffet.shop^
+||joinpetitpsandaz.shop^
 ||joker999do.com^
 ||joliiy.com^
 ||jollypulse.co.in^
@@ -5672,6 +5677,7 @@
 ||mintooshop.com^
 ||mintplace.club^
 ||mipng.com^
+||mirabelless.com^
 ||miracleorganics.online^
 ||mirai123.online^
 ||miravia.es^
@@ -5892,6 +5898,7 @@
 ||mypetlist.in^
 ||myplatform.top^
 ||mypremiumkitchens.com^
+||myproteinvip.shop^
 ||myrbcdevice.secure.com^
 ||myreminimod.com^
 ||myrewardslocker.com^
