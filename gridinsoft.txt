@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.132146.2025
+! Version: 03.03.133514.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 13:21:46 UTC 2025
+! Last modified: Mon Mar  3 13:35:14 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9493
+! Number of entries: 9496
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1232,6 +1232,7 @@
 ||binancetradings.org^
 ||binarium.com^
 ||binariumy.com^
+||binaryaicrypto.com^
 ||binbulin.com^
 ||bincnce.com^
 ||bincoinlux.com^
@@ -1343,6 +1344,7 @@
 ||bitmain.com.vc^
 ||bitmain.com^
 ||bitmamining.com^
+||bitmartrade.com^
 ||bitmartvipp.com^
 ||bitmax.web.app^
 ||bitmc.space^
@@ -6961,6 +6963,7 @@
 ||quvrmh.com^
 ||qvion8.com^
 ||qvwcc.com^
+||qw.lactalis-usd.cc^
 ||qwdsg.com^
 ||qwertyco.org^
 ||qwidex.com^
