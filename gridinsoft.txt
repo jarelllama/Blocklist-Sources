@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.104712.2025
+! Version: 03.03.105614.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 10:47:12 UTC 2025
+! Last modified: Mon Mar  3 10:56:14 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9453
+! Number of entries: 9459
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4152,6 +4152,7 @@
 ||healthwellonline.online^
 ||healthybodynow.net^
 ||healthytea-shop.com^
+||hearitupj.shop^
 ||heartlandstandardbk.com^
 ||heavensender.pro^
 ||hedahour.com^
@@ -4445,6 +4446,7 @@
 ||innovayours.store^
 ||innove.confort.com^
 ||innserong.shop^
+||inr2usdt.com^
 ||insads.net^
 ||insadspro.com^
 ||insidetraderalerts.com^
@@ -5360,6 +5362,10 @@
 ||marissacote.shop^
 ||marissagraham.shop^
 ||mariswiss.com^
+||markavalonen.shop^
+||markchanceen.shop^
+||markcjnolae.shop^
+||markcultstatuds.shop^
 ||markencf.com^
 ||market4s.com^
 ||marketglobalweb.com^
