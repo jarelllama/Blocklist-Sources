@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.194144.2025
+! Version: 03.03.195106.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 19:41:44 UTC 2025
+! Last modified: Mon Mar  3 19:51:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9619
+! Number of entries: 9625
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2386,6 +2386,7 @@
 ||cryptoassetfortressltd.com^
 ||cryptobatex.com^
 ||cryptobitnance.net^
+||cryptobotic.io^
 ||cryptobox.digital^
 ||cryptobtc.pro^
 ||cryptobtcash.com^
@@ -4203,6 +4204,8 @@
 ||hc1976.com^
 ||hcbfwzpsnofh.shop^
 ||hcbuhkgasduhc.shop^
+||hcjdwednqcueym.shop^
+||hcjuzsmfad.shop^
 ||hco.bank.top^
 ||hd.redditf.xyz^
 ||hdpfjoazqvfny.shop^
@@ -4463,6 +4466,7 @@
 ||ig9612.top^
 ||igetintopc.com^
 ||igi.gem.org^
+||ignitevapechile.com^
 ||ii.beanoutlets.com^
 ||iiozb.shop^
 ||iitang.com^
@@ -6095,6 +6099,7 @@
 ||nextlevelpayments.online^
 ||nextshop.fun^
 ||nexusaaso5kxt75bigvtixw63dot3mnthl3pwqxg4d6tlj5yfqjuviid.online^
+||nexusbitapp.com^
 ||nexushireway.online^
 ||nexustvonline.com^
 ||nfbu.store^
@@ -6575,6 +6580,7 @@
 ||pcex.com^
 ||pchelpsoft.com^
 ||pco.land^
+||pdfeasy.net^
 ||pe.trabajosdiarios.com^
 ||peabodysvb.info^
 ||peacegals.com^
