@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.202711.2025
+! Version: 03.03.203901.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 20:27:11 UTC 2025
+! Last modified: Mon Mar  3 20:39:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9632
+! Number of entries: 9633
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -9311,6 +9311,7 @@
 ||wolverinegermany.com^
 ||womoke.com^
 ||wooeyeshop.com^
+||woof4ever.com^
 ||wooflix.tv^
 ||woonr.top^
 ||word-2019.download-windows.org^
