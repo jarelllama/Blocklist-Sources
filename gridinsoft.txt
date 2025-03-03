@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.154128.2025
+! Version: 03.03.155039.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 15:41:28 UTC 2025
+! Last modified: Mon Mar  3 15:50:39 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9521
+! Number of entries: 9524
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -562,6 +562,7 @@
 ||amalbio.shop^
 ||amaluckorder.cc^
 ||amalylegacy.com^
+||amanicz.com^
 ||amanwarehouse.com^
 ||amaon2.com^
 ||amaozn.online^
@@ -6971,6 +6972,7 @@
 ||query.redir.com^
 ||questingoasis.com^
 ||quickerapparently.com^
+||quicklyin.top^
 ||quickq.fit^
 ||quickqi.top^
 ||quillpunt.online^
@@ -9371,6 +9373,7 @@
 ||ybycmeds.com^
 ||ycrxys.com^
 ||ydior.shop^
+||ydray.com^
 ||yeahiptvi.com^
 ||yearpilrim.com^
 ||yeezys.com.mx^
