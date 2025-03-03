@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.030648.2025
+! Version: 03.03.032230.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 03:06:48 UTC 2025
+! Last modified: Mon Mar  3 03:22:30 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9267
+! Number of entries: 9268
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -897,6 +897,7 @@
 ||authenticbrandslimited.com^
 ||authenticounterfeithub.com^
 ||authenticreplicanotes.com^
+||authenticstreetwear.store^
 ||authtracking.com^
 ||authwalletsolutionetherdapp.app^
 ||autlook.org^
