@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.203901.2025
+! Version: 03.03.204820.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 20:39:01 UTC 2025
+! Last modified: Mon Mar  3 20:48:20 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9633
+! Number of entries: 9635
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4086,6 +4086,7 @@
 ||greenpeople.life^
 ||greenranddam.com^
 ||greenseedhub.com^
+||greentechpkg.com.vn^
 ||greevip.org^
 ||grelhasonline.mec.pt^
 ||greycredits.com^
@@ -6556,6 +6557,7 @@
 ||pasion.padel.com^
 ||passcoin.net^
 ||passfab.jp^
+||passwithtisc.weebly.com^
 ||pastelunm.com^
 ||pataugasenligne.com^
 ||patek.ydx.com^
