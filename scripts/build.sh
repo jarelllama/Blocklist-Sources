@@ -72,7 +72,7 @@ build() {
     cat << EOF > "${source}.txt"
 [Adblock Plus]
 ! Title: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist
-! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
+! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
 ! Version: $(date -u +"%m.%d.%H%M%S.%Y")
