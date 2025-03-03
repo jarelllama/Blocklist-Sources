@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.184028.2025
+! Version: 03.03.185106.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 18:40:28 UTC 2025
+! Last modified: Mon Mar  3 18:51:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9581
+! Number of entries: 9588
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3277,7 +3277,11 @@
 ||evornelle.click^
 ||evyplay.com^
 ||ewaqg.com^
+||ewjaxpfcdzqvatemj.shop^
+||ewjrampazpfpuymjobz.shop^
+||ewkxymtwvwnrxcyeq.shop^
 ||ewoika.com^
+||ewrxwbdrycgcsxpxrt.shop^
 ||exchangemagix.com^
 ||exchangevista.com^
 ||exciting.meet.casual.com^
@@ -3885,7 +3889,9 @@
 ||gifttowallet.com^
 ||giftvalidator.com^
 ||gihsfilm.weebly.com^
+||gillsagiv.shop^
 ||gimelove.com^
+||ginaatienza.shop^
 ||giovanco.com^
 ||girlfriendwisely.com^
 ||girosdalegria.online^
@@ -5872,6 +5878,7 @@
 ||mw02.ipshorty.online^
 ||mwmhelphub.com^
 ||mx.technolutions.net^
+||mxpndpdnpnfu.shop^
 ||mxypqmwuvjpo.shop^
 ||my-expert100.com^
 ||my.bebes.com^
