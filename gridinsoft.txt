@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.201245.2025
+! Version: 03.03.202711.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 20:12:45 UTC 2025
+! Last modified: Mon Mar  3 20:27:11 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9629
+! Number of entries: 9632
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6226,6 +6226,7 @@
 ||nvidiatoken.io^
 ||nxmodels.com^
 ||nxntfbe.idudex.com^
+||nybt.education^
 ||nyc3.digitaloceanspaces.com^
 ||nze0xw.mirreful.co.in^
 ||oabaubsutha.com^
@@ -8153,6 +8154,7 @@
 ||talentstreamnet.com^
 ||talklikesm.best^
 ||tamaaris.com^
+||tapbittrade.com^
 ||taqwapublications.com^
 ||tarionus.shop^
 ||tartantoday.com^
@@ -9490,6 +9492,7 @@
 ||yiminstyle.com^
 ||yinghe.app^
 ||yinxing.info^
+||yippypaws.com^
 ||yishyhu.com^
 ||ymcrypto.com^
 ||ynmufr.9l5lortoe.top^
