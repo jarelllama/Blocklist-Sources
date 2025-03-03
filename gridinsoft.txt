@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.224957.2025
+! Version: 03.03.225855.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 22:49:57 UTC 2025
+! Last modified: Mon Mar  3 22:58:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9667
+! Number of entries: 9669
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2076,6 +2076,7 @@
 ||clickwfzwages.buzz^
 ||clickyfwprize.buzz^
 ||clids.mastercasc.top^
+||client.capstoneltd.io^
 ||clientesparcel.dhl.es^
 ||climbcourse.cam^
 ||clime.mastercasc.top^
@@ -2144,6 +2145,7 @@
 ||coenbeerens.shop^
 ||coeursinconnus.com^
 ||cohenxy.com^
+||cohiba-a.com^
 ||coin-a.com^
 ||coin.a.com^
 ||coin.change.live^
