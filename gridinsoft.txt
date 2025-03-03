@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.164253.2025
+! Version: 03.03.165342.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 16:42:53 UTC 2025
+! Last modified: Mon Mar  3 16:53:42 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9531
+! Number of entries: 9535
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3103,6 +3103,7 @@
 ||elysse.store^
 ||em-sugardefender.com^
 ||email.mail.spinfinity.casino^
+||emara-academy.com^
 ||embasic.pro^
 ||emboldnoblefx.com^
 ||emcustomstudios.com^
@@ -6989,6 +6990,7 @@
 ||qumqu.com^
 ||quvrmh.com^
 ||qvion8.com^
+||qvrmall.com^
 ||qvwcc.com^
 ||qw.lactalis-usd.cc^
 ||qwdsg.com^
@@ -8341,6 +8343,7 @@
 ||topgreenview.com^
 ||topinfoarticlesforu.com^
 ||topmall.life^
+||topnotchforex.com^
 ||topoathletic-espana.com^
 ||topointradehub.co^
 ||toppills.com^
@@ -8582,6 +8585,7 @@
 ||twitclicks.com^
 ||twitter.video.download.xyz^
 ||twixly.store^
+||twosoulsmeet.net^
 ||twotrackproperties.com^
 ||twyae.org^
 ||txex.fun^
