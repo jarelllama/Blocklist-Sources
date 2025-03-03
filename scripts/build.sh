@@ -12,7 +12,7 @@ readonly -a SOURCES=(
 )
 
 main() {
-    local source
+    local source source_url
     for source in "${SOURCES[@]}"; do
         "source_${source}" >> "${source}.txt" || true
         build
