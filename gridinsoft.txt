@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.02.235701.2025
+! Version: 03.03.003401.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  2 23:57:01 UTC 2025
+! Last modified: Mon Mar  3 00:34:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9249
+! Number of entries: 9254
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1479,6 +1479,7 @@
 ||bonustrader.website^
 ||boodiecawquaw.top^
 ||booie.online^
+||booken.shop^
 ||booking.com-31t.prop5253145.homes^
 ||bookmarkfc.info^
 ||bookmyjet.co^
@@ -2057,6 +2058,7 @@
 ||cloudstream.pro^
 ||cloudstshop.com^
 ||cloudyfitbyasmitha.com^
+||cloufdy.com^
 ||cloverassets.org^
 ||cloverstone.ek.com^
 ||clqazxvc.com^
@@ -3987,6 +3989,7 @@
 ||guavarina.com.br^
 ||gudjersey.com^
 ||guejoin.com^
+||guessbulgaria.net^
 ||guessoutlet-greece.gr^
 ||guestreservations.com^
 ||gugd.store^
@@ -4370,6 +4373,7 @@
 ||insadspro.com^
 ||insidetraderalerts.com^
 ||insightdreams.online^
+||insightflowmedia.com^
 ||inspectvehicle.co.uk^
 ||inspectyourvin.com^
 ||inspirecollege.co.uk^
@@ -9062,6 +9066,7 @@
 ||xpertlex.online^
 ||xpfmall.biz^
 ||xposz.shop^
+||xppx.fun^
 ||xpresswealthbnk.com^
 ||xpronlineoffertstore.com^
 ||xrpearner.us^
