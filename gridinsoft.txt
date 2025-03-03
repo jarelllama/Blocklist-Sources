@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.032230.2025
+! Version: 03.03.033834.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 03:22:30 UTC 2025
+! Last modified: Mon Mar  3 03:38:34 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9268
+! Number of entries: 9271
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2281,6 +2281,7 @@
 ||crazyvidup.com^
 ||crcr388.com^
 ||creare.magazin.online.net^
+||creativepropel.com^
 ||credit-mutual.com^
 ||credit.cosmos.com^
 ||credorwatch.com^
@@ -4944,6 +4945,7 @@
 ||linkr.it^
 ||linkresmi.airbet88.online^
 ||linkslot2025.com^
+||linktube.com^
 ||linkvertise.com^
 ||linkzip.uk^
 ||linnaco.com^
@@ -8323,6 +8325,7 @@
 ||tv.08.com^
 ||tvlux.co^
 ||tvpanel.net^
+||tvpass.org^
 ||tvreviews.online^
 ||tw.iutkhi.shop^
 ||tweelessatic.co.in^
