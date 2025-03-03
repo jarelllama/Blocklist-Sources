@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.084955.2025
+! Version: 03.03.085851.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 08:49:55 UTC 2025
+! Last modified: Mon Mar  3 08:58:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9399
+! Number of entries: 9403
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3161,6 +3161,7 @@
 ||ericgarner.shop^
 ||erkulbicak.com^
 ||ermsty.com^
+||errellseasonaldiscounts.shop^
 ||ervinmathieu.shop^
 ||erybdu.com^
 ||erzcibaldm.lol^
@@ -3725,6 +3726,7 @@
 ||gamebounty.world^
 ||gamechallangermode.world^
 ||gamefabrique.com^
+||gamefastmixvaker.shop^
 ||gamefrog.vip^
 ||gamemarket.cyou^
 ||gamer.spot.com^
@@ -4112,6 +4114,7 @@
 ||hashmart.vip^
 ||hassampc.com^
 ||haulw.com^
+||havaianastore.shop^
 ||havenstiendas.com^
 ||hayeswheel.com^
 ||hayw.store^
@@ -5676,6 +5679,7 @@
 ||mrefractiont.lol^
 ||mrgascarts.com^
 ||mrgasdisposableshop.com^
+||mrmwtnmzujnv.shop^
 ||mrzbxqjesnqatekh.shop^
 ||ms.nordictrack.cc^
 ||mscfxtrader.com^
