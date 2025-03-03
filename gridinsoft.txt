@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.224040.2025
+! Version: 03.03.224957.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 22:40:40 UTC 2025
+! Last modified: Mon Mar  3 22:49:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9662
+! Number of entries: 9667
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1694,6 +1694,7 @@
 ||buydecorhome.com^
 ||buygoods.com^
 ||buyhealthylabco.com^
+||buyivermectinonline.net^
 ||buymasksgivemasks.top^
 ||buymethcanberra.com^
 ||buypainkillermeds.com^
@@ -1843,6 +1844,7 @@
 ||casioeesti.com^
 ||cassappcard.com^
 ||castarsdk.com^
+||castillotrade.net^
 ||castrovalvalimiteds.com^
 ||casvix.com^
 ||casvnm.com^
@@ -4542,6 +4544,7 @@
 ||insads.net^
 ||insadspro.com^
 ||insidetraderalerts.com^
+||insight-partner.net^
 ||insightdreams.online^
 ||insightflowmedia.com^
 ||inspectvehicle.co.uk^
@@ -6287,6 +6290,7 @@
 ||officialaura.shop^
 ||officialmaga.com^
 ||officialmagacoin.com^
+||officialmagacoin.io^
 ||offresdespace24.com^
 ||ofleak.netlify.app^
 ||ofrprizcoup.com^
@@ -7056,6 +7060,7 @@
 ||qlvzjmtg.inqku.cn^
 ||qmbit.org^
 ||qoeaz1.tiktokimg.online^
+||qokcc.com^
 ||qqawin.net^
 ||qqbit.net^
 ||qr1.be^
