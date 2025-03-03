@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.195106.2025
+! Version: 03.03.200005.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 19:51:06 UTC 2025
+! Last modified: Mon Mar  3 20:00:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9625
+! Number of entries: 9628
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2351,6 +2351,7 @@
 ||crockful.com^
 ||crohasit.net^
 ||crown99.win^
+||crownoptionpro.com^
 ||crownpointfin.com^
 ||crsverify.online^
 ||crushon.ai^
@@ -4708,6 +4709,7 @@
 ||jimi2mall.com^
 ||jiuyu.fit^
 ||jkienv.com^
+||jkodcjgmybdmsbupgv.shop^
 ||jljcw.net^
 ||jljl330.com^
 ||jlkwelding.online^
@@ -6090,6 +6092,7 @@
 ||newton-management.one^
 ||newulife.com^
 ||newworldstrusts.com^
+||newyorkob.com^
 ||newyorkshroomsonline.com^
 ||nexamazon.com^
 ||nexomining.com^
