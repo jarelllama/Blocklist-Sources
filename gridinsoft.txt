@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.205739.2025
+! Version: 03.03.210929.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 20:57:39 UTC 2025
+! Last modified: Mon Mar  3 21:09:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9640
+! Number of entries: 9644
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2194,6 +2194,7 @@
 ||coinwnto.com^
 ||coinwyb.com^
 ||coldbit.net^
+||coldcas.com^
 ||colddms.com^
 ||colfayc.cc^
 ||colgatebnbai.com^
@@ -6765,6 +6766,7 @@
 ||portaldedicasonline.com^
 ||porteparis.com^
 ||portfolioactivate.com^
+||portocl.com^
 ||portumltd.com^
 ||poseidoncoin.top^
 ||postmailer.pages.dev^
@@ -6855,6 +6857,7 @@
 ||profitly.network^
 ||profitsusd.com^
 ||profittrade.live^
+||profitwiseltd.org^
 ||profitwithwifi.com^
 ||profixtrade.com^
 ||profumeriearoma.com^
@@ -8730,6 +8733,7 @@
 ||uidsse.com^
 ||ukflirtzone.com^
 ||ukhomebase.com^
+||uksxmall.store^
 ||ulmire.com^
 ||ultimateexperttrade247.com^
 ||ultimatefinance.co.in^
