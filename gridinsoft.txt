@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.204820.2025
+! Version: 03.03.205739.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 20:48:20 UTC 2025
+! Last modified: Mon Mar  3 20:57:39 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9635
+! Number of entries: 9640
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1878,6 +1878,7 @@
 ||cdaipaid.com^
 ||cddlnc.net^
 ||cdn.a1.jumbomail.me^
+||cdn3.booksdl.lc^
 ||cdonnsauw.top^
 ||ceaondlet.com^
 ||cegepsi.ca^
@@ -1898,6 +1899,7 @@
 ||centralpointvi.live^
 ||centralworldmall.org^
 ||centralworldmall.vip^
+||centuryautotrade.org^
 ||centurycrypto.net^
 ||cenutix.com^
 ||cenvorx.com^
@@ -3823,6 +3825,7 @@
 ||geebuuy.com^
 ||geegcv.shop^
 ||geekscoin.com^
+||geektotalcare.com^
 ||geigenbau-bartsch.shop^
 ||gel9.online^
 ||geldxup.com^
@@ -5184,6 +5187,7 @@
 ||localsinglesnearmefree0.online^
 ||locations.online.us^
 ||lockheed3.com^
+||locomotivesale.com^
 ||lodbnve.com^
 ||logammulia.xyz^
 ||loganmay.com^
@@ -8894,6 +8898,7 @@
 ||vanadex.com^
 ||vanbet.top^
 ||vanmassstore.com^
+||vantage-mart.com^
 ||vantique.net^
 ||varidhirathore.github.io^
 ||varnashop.com^
