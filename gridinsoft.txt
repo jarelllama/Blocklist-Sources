@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.110749.2025
+! Version: 03.03.112102.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 11:07:49 UTC 2025
+! Last modified: Mon Mar  3 11:21:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9466
+! Number of entries: 9472
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2911,6 +2911,7 @@
 ||drmartensnews.com^
 ||drochill.com^
 ||drogen.kaufen.com^
+||drovasi.co^
 ||droveit.net^
 ||drug.city.com^
 ||drughub.vip^
@@ -4206,6 +4207,7 @@
 ||hingfck.com^
 ||hinverifier.com^
 ||hippo.mall.vip^
+||hipsterphotos.pro^
 ||hiptrain.digital^
 ||hireahackers.pro^
 ||hireuphelp.online^
@@ -5225,6 +5227,7 @@
 ||m.engievip.cc^
 ||m.fxpro-usd.vip^
 ||m.jucydate.com^
+||m.money-planet.top^
 ||m.mxline3.online^
 ||m.mxt-line-id.online^
 ||m.nggcritics.com^
@@ -5385,6 +5388,7 @@
 ||markmunck.shop^
 ||markoutlet.shop^
 ||markservers.com^
+||marktemusik.shop^
 ||marlrus.com^
 ||maroyia.com^
 ||marqjoy.com^
@@ -5665,6 +5669,7 @@
 ||modenest.com^
 ||modernsmarttech.com^
 ||modernwristwatches.shop^
+||modilimitado.com^
 ||modilimitado.io^
 ||modmountltd.com^
 ||modpenset.com^
@@ -8994,6 +8999,7 @@
 ||wearbreeze.co^
 ||wearjade.store^
 ||wearsilky.com^
+||wearsimpleshop.com^
 ||wearychallengeraise.com^
 ||weastto.com^
 ||weatherbeetaery.top^
