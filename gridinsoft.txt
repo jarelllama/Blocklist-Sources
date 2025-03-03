@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.051144.2025
+! Version: 03.03.052604.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 05:11:44 UTC 2025
+! Last modified: Mon Mar  3 05:26:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9296
+! Number of entries: 9299
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5173,6 +5173,7 @@
 ||macyyc.shop^
 ||madamfashion.shop^
 ||madcoin.vip^
+||maddiejack.shop^
 ||maddowk.com^
 ||madeinss.com^
 ||madmuscles.com^
@@ -5581,6 +5582,7 @@
 ||moviediskhd.cloud^
 ||movies4u.tc^
 ||moviesda.mobi^
+||moviesdrive.world^
 ||movil.ing.soporte.com^
 ||moxwin.top^
 ||mpc7.cc^
@@ -7494,6 +7496,7 @@
 ||solaudit.ai.com^
 ||solaxy.io^
 ||solelux.com.mx^
+||solidthin.com^
 ||solpension.co^
 ||solpick.io^
 ||solrand.com^
