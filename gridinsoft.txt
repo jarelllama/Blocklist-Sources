@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.045930.2025
+! Version: 03.03.051144.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 04:59:30 UTC 2025
+! Last modified: Mon Mar  3 05:11:44 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9290
+! Number of entries: 9296
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1923,6 +1923,7 @@
 ||cheapmaggiesstore.com^
 ||cheapproducts.online^
 ||cheapsleepingtablets.net^
+||cheapsmmhub.com^
 ||checkout.square.site^
 ||cheeptoys.com^
 ||cheerycouture.com^
@@ -3675,6 +3676,7 @@
 ||g-meh.com^
 ||g.meds.com^
 ||g.newpoint.com^
+||g5club.ru^
 ||g9ja.online^
 ||gadcet.london^
 ||gadgetech.in^
@@ -5163,10 +5165,13 @@
 ||macked.app^
 ||mackenziie.shop^
 ||macpac.ts.shop^
+||macpacvip.shop^
 ||macrosoft.store^
 ||mactrac.act.org^
 ||macyser.com^
 ||macystoreclothing.com^
+||macyyc.shop^
+||madamfashion.shop^
 ||madcoin.vip^
 ||maddowk.com^
 ||madeinss.com^
@@ -7438,6 +7443,7 @@
 ||smmcoder.com^
 ||smmflare.com^
 ||smmpanelus.com^
+||smmtopservice.com^
 ||smmtribe.com^
 ||smo.plus^
 ||smokelifeshop.com^
