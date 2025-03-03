@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.161300.2025
+! Version: 03.03.162921.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 16:13:00 UTC 2025
+! Last modified: Mon Mar  3 16:29:21 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9526
+! Number of entries: 9530
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1564,6 +1564,7 @@
 ||brenion.com^
 ||brentonways.top^
 ||breville.online^
+||brevly.store^
 ||breyfe.com^
 ||breznikar.com^
 ||brfmhuvgexkunygy.shop^
@@ -2268,6 +2269,7 @@
 ||coretraderexp.com^
 ||corigc.top^
 ||corporalgaming.com^
+||corra-capital.com^
 ||correosaaes.fit^
 ||corseplongeea.com^
 ||cosmayae.com^
@@ -2514,6 +2516,7 @@
 ||dalladesh.com^
 ||daltonitsolutions.com^
 ||damanavaitor.in^
+||dandruffs.top^
 ||danielgomez.shop^
 ||danielmadrid.shop^
 ||danielzdealz.com^
@@ -6954,6 +6957,7 @@
 ||qualityfakeid.com^
 ||qualitynoteschange.com^
 ||qualityresells.shop^
+||quantbot.ai^
 ||quantconnect.ai.com^
 ||quantum.capital.me^
 ||quantumaitradingwallet.com^
