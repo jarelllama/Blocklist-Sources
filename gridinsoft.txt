@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.200005.2025
+! Version: 03.03.201245.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 20:00:05 UTC 2025
+! Last modified: Mon Mar  3 20:12:45 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9628
+! Number of entries: 9629
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -8897,6 +8897,7 @@
 ||vasttrade.investments.org^
 ||vaultedvision.com^
 ||vaultperth.com^
+||vauphuwoaby.net^
 ||vavogue.com^
 ||vazico.shop^
 ||vazzimall.com^
