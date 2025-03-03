@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.041208.2025
+! Version: 03.03.042808.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 04:12:08 UTC 2025
+! Last modified: Mon Mar  3 04:28:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9277
+! Number of entries: 9282
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5120,6 +5120,10 @@
 ||lylama.com^
 ||lylussplus.com^
 ||lynholly.shop^
+||lynncoleman.shop^
+||lynnehaley.shop^
+||lynnetteangel.shop^
+||lynnglobal.shop^
 ||lyvolix.com^
 ||lyycs.store^
 ||lzminer.com^
@@ -6144,6 +6148,7 @@
 ||otlnance.com^
 ||ottoeu.com^
 ||ou-chhh.store^
+||ourbloombox.com^
 ||ourcoincash.xyz^
 ||ourjoiasaldo.shop^
 ||ourruless.store^
