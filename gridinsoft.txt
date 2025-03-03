@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.073708.2025
+! Version: 03.03.074619.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 07:37:08 UTC 2025
+! Last modified: Mon Mar  3 07:46:19 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9364
+! Number of entries: 9372
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2088,6 +2088,8 @@
 ||cmbet888.net^
 ||cme.invest.com^
 ||cmodams.shop^
+||cncast.shop^
+||cncnyr.shop^
 ||cnkjhfyhposjmndh.378wugnima.shop^
 ||cnnhealth.online^
 ||cnsmokes.com^
@@ -3769,6 +3771,7 @@
 ||genraky.com^
 ||genwoleads.top^
 ||geographz.com^
+||georgistoychev.shop^
 ||geoxsdiscountshop.com^
 ||germ4.com^
 ||get-derila.com^
@@ -4106,6 +4109,7 @@
 ||hbqbqhtwvuqarew.shop^
 ||hbydhfsrksudgh.shop^
 ||hc1976.com^
+||hcbfwzpsnofh.shop^
 ||hcbuhkgasduhc.shop^
 ||hco.bank.top^
 ||hd.redditf.xyz^
@@ -5674,6 +5678,7 @@
 ||multismart.solve.pages.dev^
 ||multisportstv.online^
 ||multiverse.retifications.netlify.app^
+||mumkitm.shop^
 ||mumkt.com^
 ||mundojadake.com^
 ||mundolivre.site^
@@ -5681,6 +5686,8 @@
 ||mundoonline.link^
 ||mundys.online^
 ||mungu.in^
+||muobehwghdrtpkxy.shop^
+||muopysbhgjtpgnm.shop^
 ||musevancouver.com^
 ||music8.online^
 ||musicgearexperts.com^
@@ -8444,6 +8451,7 @@
 ||ub576.com^
 ||ubmfspecial.shop^
 ||ubrya.com^
+||ubxai.vip^
 ||uc.yomithane.ru^
 ||ucapsidop.info^
 ||ucbibanking.io^
