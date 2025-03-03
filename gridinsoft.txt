@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.220333.2025
+! Version: 03.03.221618.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 22:03:33 UTC 2025
+! Last modified: Mon Mar  3 22:16:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9653
+! Number of entries: 9660
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1979,6 +1979,7 @@
 ||chocolitodoraemonhunt.com^
 ||choiceclothes.xyz^
 ||choicehomewarranty.com^
+||chopdawg1.top^
 ||choxessaiglee.net^
 ||christianlouboutinmexicos.top^
 ||christmas-discount.com^
@@ -3239,6 +3240,7 @@
 ||etalgolending.com^
 ||etdase.com^
 ||eterminal.net^
+||eternas099-coin.com^
 ||eterni.click^
 ||etfiweb3.com^
 ||etherealx.cn^
@@ -5476,6 +5478,7 @@
 ||marissacote.shop^
 ||marissagraham.shop^
 ||mariswiss.com^
+||markalain.shop^
 ||markavalonen.shop^
 ||markchanceen.shop^
 ||markcjnolae.shop^
@@ -5741,6 +5744,7 @@
 ||mitra-shipping.top^
 ||mitsoku.com^
 ||mittenes.shop^
+||miva.live^
 ||mivovaa.shop^
 ||mixerusdt.com^
 ||mixloco.com^
@@ -6029,6 +6033,7 @@
 ||nefera.online^
 ||nefmw.top^
 ||neiman.marcus.co^
+||nejuzeu.shop^
 ||nemalur.com^
 ||nembutalgroup.com^
 ||nemovix.com^
@@ -6870,6 +6875,7 @@
 ||programafullpc.com^
 ||proivestgrp.com^
 ||projectask.info^
+||projectine.com^
 ||projectplaygroundtech.com^
 ||projektmiesiaca.click^
 ||projetparis.fr^
@@ -8151,6 +8157,7 @@
 ||syuffxx.ee^
 ||syuffxx.vip^
 ||syxstar.com^
+||t-paxbank.com^
 ||t.mall.cc^
 ||t.mediapros02.world^
 ||t.peer.com^
