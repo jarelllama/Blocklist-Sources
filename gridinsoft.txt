@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.014359.2025
+! Version: 03.03.021846.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 01:43:59 UTC 2025
+! Last modified: Mon Mar  3 02:18:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9261
+! Number of entries: 9265
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3282,6 +3282,7 @@
 ||facertvshell.cfd^
 ||facts.r.friends.com^
 ||fadedarkspotsfast.com^
+||fairieswire.com^
 ||faithfultly.com^
 ||fakaira.space^
 ||fakebanknotelab.com^
@@ -3930,6 +3931,7 @@
 ||gpt.definity.app2.net^
 ||gpt2025.vip^
 ||gptaiminds.com^
+||gptbolt.me^
 ||gptdefinityai.app.com^
 ||gptexcelacademycl.com^
 ||gptgirlfriend.online^
@@ -4731,6 +4733,7 @@
 ||koko101.com^
 ||kolem.shop^
 ||kolumal.shop^
+||kometalab.com^
 ||kompaeth.com^
 ||komvideo.cc^
 ||kongva.com^
@@ -8543,6 +8546,7 @@
 ||vasttrade.investments.org^
 ||vaultedvision.com^
 ||vaultperth.com^
+||vavogue.com^
 ||vazico.shop^
 ||vbdigitalcard.in^
 ||vc66.net^
