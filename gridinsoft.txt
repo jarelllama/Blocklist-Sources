@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.175859.2025
+! Version: 03.03.181139.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 17:58:59 UTC 2025
+! Last modified: Mon Mar  3 18:11:39 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9560
+! Number of entries: 9567
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -411,6 +411,7 @@
 ||aiignedfoundation.genesis.com^
 ||aiinvesttron.com^
 ||aimbotfortnite.org^
+||aimfinity.io^
 ||aimhaven.com^
 ||aiminers.pro^
 ||aimining.top^
@@ -1484,6 +1485,7 @@
 ||boclothes.com^
 ||bodegaaureramx.shop^
 ||bodegaaurrera.mex.com^
+||bodegaaurreramex.com^
 ||bodegaaurreraoferta.com^
 ||bodegaaurreraoficial.com^
 ||bodegadigital.biz^
@@ -2130,6 +2132,7 @@
 ||code.getoffus.site^
 ||codflict.com^
 ||codprize.com^
+||coenbeerens.shop^
 ||coeursinconnus.com^
 ||cohenxy.com^
 ||coin-a.com^
@@ -3324,6 +3327,9 @@
 ||ezdrivema.cfd^
 ||ezdrivemax.com^
 ||ezdrivhkr.top^
+||eznhskmgkvqu.shop^
+||eznztrbjrn.shop^
+||eztdfesvqsewdfphksns.shop^
 ||ezwkef.jxe8021.com^
 ||ezymny.com^
 ||f.f7v.cn^
@@ -3934,6 +3940,7 @@
 ||glomaes.congo.com^
 ||glothkom.de^
 ||glowaura.co^
+||glowcoreprimichi.shop^
 ||glowimpalaviage.shop^
 ||glowingskinnow.com^
 ||glowjolyne.shop^
