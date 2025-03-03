@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.140604.2025
+! Version: 03.03.141954.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 14:06:04 UTC 2025
+! Last modified: Mon Mar  3 14:19:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9504
+! Number of entries: 9507
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5519,6 +5519,7 @@
 ||menvok.com^
 ||merca.work^
 ||mercado.shop.com^
+||meridian-lawyers.net^
 ||merjen.online^
 ||merrelldepot.com^
 ||meryin.com^
@@ -5866,6 +5867,7 @@
 ||mytradecoin.pro^
 ||mytraveldaddy.us^
 ||myvanomi.com^
+||mzuu.sa.com^
 ||n.ag.vip^
 ||n.nexfinance.org^
 ||n.pkup.fr^
@@ -6953,6 +6955,7 @@
 ||quantvine.net^
 ||quantvine.online^
 ||quantvinee.com^
+||quantvines.top^
 ||quantwise.ai^
 ||quantyx.io^
 ||quarkaitrade.com^
