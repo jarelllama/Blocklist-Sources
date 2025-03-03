@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.143312.2025
+! Version: 03.03.144402.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 14:33:12 UTC 2025
+! Last modified: Mon Mar  3 14:44:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9510
+! Number of entries: 9512
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2692,6 +2692,7 @@
 ||delta.exchange^
 ||deltadex.io^
 ||deltausdt.site^
+||deluxe-tulumba-c77932.netlify.app^
 ||deluxe.goods.uk^
 ||demo.cratictwil.ight.com^
 ||demogamingsalam123.online^
@@ -7904,6 +7905,7 @@
 ||stylesock.com^
 ||stylexlab.com^
 ||styline.shop^
+||stylishwearvip.com^
 ||styvor.com^
 ||subduedespana.com^
 ||subscribe.free.fr^
