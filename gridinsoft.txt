@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.134510.2025
+! Version: 03.03.135419.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 13:45:10 UTC 2025
+! Last modified: Mon Mar  3 13:54:19 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9498
+! Number of entries: 9502
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1990,6 +1990,7 @@
 ||cimarronclub.com^
 ||cineb.rs^
 ||cinema.fskit.com^
+||cinemitas.org^
 ||cineplexx.euro.com^
 ||cintuwron.shop^
 ||cipaclimited.com^
@@ -2435,6 +2436,7 @@
 ||cuantrading.com^
 ||cueroreal.com^
 ||cuesandcases.com^
+||cuevana2espanol.net^
 ||cuevana3.ch^
 ||cugveo.com^
 ||cuisinepro.shop^
@@ -4772,6 +4774,7 @@
 ||kesngg.com^
 ||kesngl.com^
 ||ketaminek.com^
+||kethslat.com^
 ||ketshop.us^
 ||key.wrld.com^
 ||kfcweb3.com^
@@ -7073,6 +7076,7 @@
 ||rei.com^
 ||reil.cam^
 ||relativelysuitable.com^
+||relayeur-mondialrelay.com^
 ||relayl.ink^
 ||relaymondial.net^
 ||reloadingdepotusa.com^
