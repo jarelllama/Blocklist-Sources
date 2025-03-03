@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.054703.2025
+! Version: 03.03.055624.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 05:47:03 UTC 2025
+! Last modified: Mon Mar  3 05:56:24 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9314
+! Number of entries: 9322
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1952,6 +1952,8 @@
 ||christmas.decors.com^
 ||christmashiba.xyz^
 ||christopherchaves.com^
+||christophervittal.shop^
+||christybutcher.shop^
 ||chromakopiatourmerch.com^
 ||chrossx.com^
 ||chuddahs.com^
@@ -3670,6 +3672,7 @@
 ||fxnexapipstream.com^
 ||fxpipstrading.com^
 ||fxprom.cc^
+||fxpzsbozkxw.shop^
 ||fxstocktradellc.com^
 ||fxtradeco.ltd^
 ||fxtrinity.com^
@@ -4532,6 +4535,10 @@
 ||jbnil.top^
 ||jdmax88.com^
 ||jeanne-pierre.com^
+||jenkin.shop^
+||jennaripplinger.shop^
+||jennarowe.shop^
+||jenniferavery.shop^
 ||jennyfloyd.shop^
 ||jenslarsen.shop^
 ||jeongmikim.shop^
@@ -5592,6 +5599,7 @@
 ||motorwolt.com^
 ||mountainsportus.com^
 ||movenzo.com^
+||movestephani.shop^
 ||movie123full.com^
 ||moviediskhd.cloud^
 ||movies4u.tc^
