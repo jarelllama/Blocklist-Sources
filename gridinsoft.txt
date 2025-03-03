@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.173005.2025
+! Version: 03.03.174024.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 17:30:05 UTC 2025
+! Last modified: Mon Mar  3 17:40:24 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9544
+! Number of entries: 9548
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2975,6 +2975,7 @@
 ||dysb.store^
 ||dystarwears.com^
 ||dzan23.cn^
+||e-flux.shop^
 ||e.bayaffiliate.life^
 ||e.bookforthought.com^
 ||e.wu.store.com^
@@ -3339,6 +3340,7 @@
 ||fabalchemy.shop^
 ||fabootd.com^
 ||fabriclinez.com^
+||fabrics-fabricsa.shop^
 ||facebook.busines.tempisite.com^
 ||facebook.fr^
 ||facepunchdevcommunity.com^
@@ -4696,6 +4698,7 @@
 ||jollypulse.co.in^
 ||jollyvillage.shop^
 ||joltleft.com^
+||jonathanfinke.shop^
 ||jonilankinen.shop^
 ||josephina.shop^
 ||josephscoleri.shop^
@@ -8361,6 +8364,7 @@
 ||topsmmshops.com^
 ||topthingsinlife.com^
 ||toptoolskits.com^
+||toptracepoint.com^
 ||toptradeai.com^
 ||topvibes.top^
 ||topx.one^
