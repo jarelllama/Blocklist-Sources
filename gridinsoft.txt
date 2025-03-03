@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.231057.2025
+! Version: 03.03.232353.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 23:10:57 UTC 2025
+! Last modified: Mon Mar  3 23:23:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9671
+! Number of entries: 9674
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -511,6 +511,7 @@
 ||allmestyle.com^
 ||allmy.cam^
 ||allora.toronto.com^
+||alloryx.com^
 ||allshowheremarket.com^
 ||allsmm.net^
 ||allstarhomeandgarden.za.com^
@@ -4829,6 +4830,7 @@
 ||kamagrafrance.com^
 ||kamagraonline.com^
 ||kamagraoriginal.to^
+||kanrtin.com^
 ||kapten178.com^
 ||kaptohelp.top^
 ||karachaganakfield.kz^
@@ -8693,6 +8695,7 @@
 ||turbo.snails.com^
 ||turbodrophub.com^
 ||turbogamesapk.com^
+||turbotrade.online^
 ||turbotrump.info^
 ||tusheedrosep.net^
 ||tuuoi.shop^
