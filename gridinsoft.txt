@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.174024.2025
+! Version: 03.03.174946.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 17:40:24 UTC 2025
+! Last modified: Mon Mar  3 17:49:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9548
+! Number of entries: 9553
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -455,6 +455,7 @@
 ||ak.litaudrootsa.net^
 ||akaregisteredtoypoodlepups.com^
 ||akilesh.hopto.org^
+||akj.com^
 ||akurat33.com^
 ||akusoli.com^
 ||al.rafidahcapital.com^
@@ -3934,7 +3935,9 @@
 ||glothkom.de^
 ||glowaura.co^
 ||glowingskinnow.com^
+||glownuphy.shop^
 ||glowpast.com^
+||glowpetitsechineuse.shop^
 ||glowywill.com^
 ||glubit.shop^
 ||gmb1l.online^
@@ -5900,7 +5903,9 @@
 ||naaeeoy.com^
 ||nacionarmada.com^
 ||nadexweboption.com^
+||najruedxwegrcsbcvc.shop^
 ||naldoricketts.com^
+||nancybatres.shop^
 ||nannyirrationalacquainted.com^
 ||naorisprotocol.web.app^
 ||napapijriapps.com^
