@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.075542.2025
+! Version: 03.03.081110.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 07:55:42 UTC 2025
+! Last modified: Mon Mar  3 08:11:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9379
+! Number of entries: 9380
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6265,6 +6265,7 @@
 ||p000.ph^
 ||p2btradehubx.info^
 ||paatoais.com^
+||pabaue.com^
 ||pabyly.com^
 ||pacau.store^
 ||packetshare.io^
