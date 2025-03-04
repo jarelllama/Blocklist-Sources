@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.145158.2025
+! Version: 03.04.150149.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 14:51:58 UTC 2025
+! Last modified: Tue Mar  4 15:01:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9901
+! Number of entries: 9902
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -484,6 +484,7 @@
 ||alfristonassetproperties.com^
 ||algainhouse.com^
 ||algopro.us^
+||algotoex.com^
 ||aliantcreditfinance.com^
 ||alianzashop.com^
 ||alibaba8.com^
