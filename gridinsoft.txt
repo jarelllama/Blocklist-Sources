@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.201249.2025
+! Version: 03.04.202706.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 20:12:49 UTC 2025
+! Last modified: Tue Mar  4 20:27:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9996
+! Number of entries: 10003
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3541,6 +3541,9 @@
 ||fezuvax.com^
 ||ffadpdyu.sbs^
 ||fget.career.com^
+||fgtcvrsdpjtjwsmpmqmd.shop^
+||fhedwzerjhkcoj.shop^
+||fhgfauqoemby.shop^
 ||fhusg.com^
 ||fiahub.com^
 ||fic.cc^
@@ -4967,10 +4970,14 @@
 ||k.waymall.shop^
 ||k03p.xyz^
 ||kadesignandbuild.co.uk^
+||kadietilles.shop^
 ||kadobarvapesstore.com^
 ||kaembal.com^
 ||kagevest.org^
 ||kaigong.shop^
+||kaitlynhickman.shop^
+||kajcrmkfhqhrqndoq.shop^
+||kaktazqavofbyogw.shop^
 ||kaliki.shop^
 ||kalpwd.vip^
 ||kamagrafrance.com^
