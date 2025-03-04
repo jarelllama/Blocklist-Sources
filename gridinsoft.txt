@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.104427.2025
+! Version: 03.04.105337.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 10:44:27 UTC 2025
+! Last modified: Tue Mar  4 10:53:37 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9867
+! Number of entries: 9875
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -492,6 +492,7 @@
 ||aliex.proxy.robot.shop^
 ||aliquotes.online^
 ||alitexwhole.com^
+||aljawharaenergy.com^
 ||alkhair-society.com^
 ||alko1mg.com^
 ||all.chems.com^
@@ -4518,6 +4519,7 @@
 ||hxsc.store^
 ||hxxokerase.fyi^
 ||hyderabadnyte.com^
+||hydrogry.com^
 ||hypebox-brand.com^
 ||hyperbit.biz^
 ||hyperbot.fun^
@@ -5719,13 +5721,19 @@
 ||mcxnyfrpsvrgkdo.shop^
 ||md11.online^
 ||mdebnywspxoetk.shop^
+||mdevpzcytawpdp.shop^
+||mdjkfqrxpkzcs.shop^
+||mdkbyajkonwoke.shop^
 ||mdl789.com^
+||mdokjhbdpwdk.shop^
+||mdqfrcumdjbgnzmhzvn.shop^
 ||meantallie.com^
 ||meanwhiley.com^
 ||meb.budget.com^
 ||mechano.ae^
 ||mechawats.shop^
 ||mecnex.com^
+||mecood.com^
 ||med.care24.com^
 ||med4go.com^
 ||medaratradingbv.com^
