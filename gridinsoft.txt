@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.214951.2025
+! Version: 03.04.215855.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 21:49:51 UTC 2025
+! Last modified: Tue Mar  4 21:58:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10049
+! Number of entries: 10052
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2342,6 +2342,7 @@
 ||corra-capital.com^
 ||correosaaes.fit^
 ||corseplongeea.com^
+||coscorner.com^
 ||cosmayae.com^
 ||cosmetone.cy^
 ||cosmicgroundingcode.com^
@@ -7581,6 +7582,7 @@
 ||resortburg.online^
 ||responses.help^
 ||restaurant.lepetitcochon.com^
+||restitution.info^
 ||retoswap.com^
 ||retroclubkit.co^
 ||retrofxmarkets.com^
@@ -9074,6 +9076,7 @@
 ||tzdxi.com^
 ||tzoneip.vip^
 ||u.usd.com^
+||u1.shortink.io^
 ||u4usdt.com^
 ||ua.kinogo.ec^
 ||uaoutletsclothing.com^
