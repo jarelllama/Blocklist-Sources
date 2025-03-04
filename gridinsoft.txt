@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.042656.2025
+! Version: 03.04.043918.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 04:26:56 UTC 2025
+! Last modified: Tue Mar  4 04:39:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9716
+! Number of entries: 9719
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3567,6 +3567,7 @@
 ||flaredrop.site^
 ||flarial.xyz^
 ||flarskitsv.fun^
+||flashbitmining.com^
 ||flashbtc.rf.gd^
 ||flashcoin.info^
 ||flashremitt.com^
@@ -4761,6 +4762,7 @@
 ||jo-annonlinesale-us.com^
 ||jo-annsaleus.com^
 ||joannla.com^
+||joannofficialsale.com^
 ||joannoverstock.com^
 ||joanonline.shop^
 ||joaoqhwdhfhqz.shop^
@@ -5311,6 +5313,7 @@
 ||luckypro.store^
 ||luckyvictoria.shop^
 ||luckywhalecasino.com^
+||lucyduff.shop^
 ||lugber.com^
 ||lulalola.com^
 ||luluisrael.co.il^
