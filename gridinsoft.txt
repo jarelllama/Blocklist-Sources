@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.014540.2025
+! Version: 03.04.021943.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 01:45:40 UTC 2025
+! Last modified: Tue Mar  4 02:19:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9688
+! Number of entries: 9692
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3168,6 +3168,7 @@
 ||enchantedcubes.com^
 ||enclarhealth.com^
 ||encomendas.importacao.online^
+||encryptiy.com^
 ||encuestapagada.es^
 ||endeavourmarketing.global.vip^
 ||endrifle.com^
@@ -7864,6 +7865,7 @@
 ||sopacktravel.com^
 ||sopenny.com^
 ||sophie.paris.com^
+||sophielynncarrabus.com^
 ||soportestreaming.online^
 ||soraai-install.com^
 ||sortheda.com^
@@ -8945,6 +8947,7 @@
 ||vantage-mart.com^
 ||vantique.net^
 ||varidhirathore.github.io^
+||varkany.store^
 ||varnashop.com^
 ||vashiser.com^
 ||vasttrade.investments.org^
@@ -8972,6 +8975,7 @@
 ||vellour.store^
 ||velocityty.com^
 ||velogisc.com^
+||velorahouse.com^
 ||velourtoronto.com^
 ||velourwatches.store^
 ||velvettrades.com^
