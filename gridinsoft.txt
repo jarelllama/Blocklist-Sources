@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.202706.2025
+! Version: 03.04.203737.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 20:27:06 UTC 2025
+! Last modified: Tue Mar  4 20:37:37 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10003
+! Number of entries: 10012
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3518,7 +3518,10 @@
 ||fdkwire.com^
 ||febgtvh.com^
 ||febit.vip^
+||federicablasini.shop^
+||federicaconti.shop^
 ||fedilitylogistics.com^
+||feedingtrough.shop^
 ||feelbikestore.com^
 ||feeliey.com^
 ||feels.ct.ws^
@@ -4530,6 +4533,8 @@
 ||hpbvjrcfpcbayp.shop^
 ||hpgyxnbsqrotmopjhc.shop^
 ||hplcstandards.com^
+||hpqpgonxhdhgzneqyau.shop^
+||hpstff.shop^
 ||hptts.tealagarm.com^
 ||hqkvrsoywozj.shop^
 ||hraji.net^
@@ -4958,6 +4963,7 @@
 ||justwatch.com^
 ||juuibv.com^
 ||jvault.xyz^
+||jvyzbxezypqncazcvf.shop^
 ||jwpei.espana.es^
 ||jys55722.com^
 ||jysk-discount.shop^
@@ -5698,8 +5704,10 @@
 ||marktemusik.shop^
 ||markushussey.shop^
 ||markusmehta.shop^
+||marlinfirearms-shop.com^
 ||marlrus.com^
 ||maroyia.com^
+||marperez.shop^
 ||marqjoy.com^
 ||marseilleoff.shop^
 ||marsincfog.com^
@@ -7922,6 +7930,7 @@
 ||shope1.a1finder.com^
 ||shope4you.shop^
 ||shopea.store^
+||shopeem.com^
 ||shopeevip.shop^
 ||shoperasmerch.com^
 ||shophopesboutique.com.montgomerymiss.com^
