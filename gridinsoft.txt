@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.035833.2025
+! Version: 03.04.041131.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 03:58:33 UTC 2025
+! Last modified: Tue Mar  4 04:11:31 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9703
+! Number of entries: 9710
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2143,6 +2143,7 @@
 ||coahinp.com^
 ||coastsale.shop^
 ||coasttshop.com^
+||coatide.com^
 ||cobaltsunsetberry.xyz^
 ||cobatis.sm.com^
 ||cobblehillinc.store^
@@ -2556,6 +2557,7 @@
 ||daniew.com^
 ||danwaygroup.com^
 ||danxdex.com^
+||daonkinue.info^
 ||dapdunetrading.com^
 ||dapp.ens.domains^
 ||dapp.radar.org^
@@ -4597,6 +4599,7 @@
 ||investmentbloom.com^
 ||investor.digiestate.online^
 ||invexfinance.com^
+||invhaven.com^
 ||invidiatrade.com^
 ||invistribe.com^
 ||invitrofertilizationtreatment001.online^
@@ -5873,6 +5876,7 @@
 ||mountainsportus.com^
 ||movenzo.com^
 ||movestephani.shop^
+||moveteove.shop^
 ||movie123full.com^
 ||moviediskhd.cloud^
 ||movies4u.tc^
@@ -6854,6 +6858,7 @@
 ||prettyright.com^
 ||pricepool88.com^
 ||primaxoptions.com^
+||prime-sports.in^
 ||prime.energie.france.com^
 ||primeart.org^
 ||primecloxminers.com^
@@ -8967,6 +8972,7 @@
 ||vazico.shop^
 ||vazzimall.com^
 ||vbdigitalcard.in^
+||vbnde.com^
 ||vc66.net^
 ||vcard50.ru^
 ||vclubcc.live^
@@ -9284,6 +9290,7 @@
 ||whatsapp.hustlerdiaries.com^
 ||wheelpg777.online^
 ||wheelresq.online^
+||wheelverifyhub.com^
 ||wheybit.com^
 ||whgsales.shop^
 ||whimsyfun.com^
