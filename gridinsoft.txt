@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.041131.2025
+! Version: 03.04.042656.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 04:11:31 UTC 2025
+! Last modified: Tue Mar  4 04:26:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9710
+! Number of entries: 9716
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1061,6 +1061,7 @@
 ||bbajya.ahm6185.com^
 ||bbc.tv.org^
 ||bbdoapp.help^
+||bbdoasia06.com^
 ||bberetta.com^
 ||bbfsxc.shop^
 ||bbghez.link^
@@ -1123,6 +1124,7 @@
 ||benjamindavispersonaltrainer.com^
 ||bennetgrill.shop^
 ||benzinestorageterminalbv.com^
+||beonbit.net^
 ||bep20.biz^
 ||bergmannmodehaus.com^
 ||bergstrombees.store^
@@ -4248,6 +4250,7 @@
 ||hdtoday.tv^
 ||hdtodaytv.pro^
 ||hdyepophgavmsd.shop^
+||headgea.shop^
 ||headlinehype.site^
 ||headstone.shop^
 ||healthcompounds.com^
@@ -5303,6 +5306,7 @@
 ||luckuystore.com^
 ||lucky.motorcycles.com^
 ||lucky888.top^
+||luckybrandsale.shop^
 ||luckydrawgalore.com^
 ||luckypro.store^
 ||luckyvictoria.shop^
@@ -5902,6 +5906,7 @@
 ||mschxzrmcyzjmj.shop^
 ||mscommerce.net^
 ||msdrop.com.ua^
+||msk183.com^
 ||msrpamnvpjtjkdwmdxfd.shop^
 ||msscrypto.com^
 ||mstarchain.com^
@@ -9691,6 +9696,7 @@
 ||zobtask.com^
 ||zolmen.com^
 ||zonedir.info^
+||zonex24.com^
 ||zoodel.online^
 ||zoosurvey.online^
 ||zoria.click^
