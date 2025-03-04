@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.000714.2025
+! Version: 03.04.003419.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 00:07:14 UTC 2025
+! Last modified: Tue Mar  4 00:34:19 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9678
+! Number of entries: 9681
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1122,6 +1122,7 @@
 ||benfu.biz^
 ||benjamindavispersonaltrainer.com^
 ||bennetgrill.shop^
+||benzinestorageterminalbv.com^
 ||bep20.biz^
 ||bergmannmodehaus.com^
 ||bergstrombees.store^
@@ -5387,6 +5388,7 @@
 ||magamart.co^
 ||magatrustfunds.com^
 ||magformersfyk.shop^
+||magic-lime.info^
 ||magic4you.nu^
 ||magicjili.tw^
 ||magna-fx.com^
@@ -5614,6 +5616,7 @@
 ||melbet.india.net^
 ||melunix.com^
 ||melutor.com^
+||melvinya.com^
 ||member-federation.com^
 ||meme.bot.trade^
 ||memetrump.org^
