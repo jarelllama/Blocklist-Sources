@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.172759.2025
+! Version: 03.04.173813.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 17:27:59 UTC 2025
+! Last modified: Tue Mar  4 17:38:13 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9929
+! Number of entries: 9931
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1234,6 +1234,7 @@
 ||bigwarp.io^
 ||bigyarddigital.com^
 ||bijouxdebella.com^
+||bikingbuy.com^
 ||bikinibossmiamieu.com^
 ||bikobabybus.com^
 ||bil2n.cfd^
@@ -1685,6 +1686,7 @@
 ||bulanjitu.org^
 ||buletboard.com^
 ||bulksendtokens.xyz^
+||bullassetreserve.org^
 ||bullcent.com^
 ||bullfx.io^
 ||bullrun.trades.com^
