@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.151448.2025
+! Version: 03.04.152847.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 15:14:48 UTC 2025
+! Last modified: Tue Mar  4 15:28:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9904
+! Number of entries: 9907
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -310,6 +310,7 @@
 ||adaptivesscheme.com^
 ||adatenight.com^
 ||adblocker.one^
+||adboosto.com^
 ||addisonuniversal.com^
 ||addressfinancial.com^
 ||aden.cool^
@@ -1985,6 +1986,7 @@
 ||checkout.square.site^
 ||cheeptoys.com^
 ||cheerycouture.com^
+||cheiltv.com^
 ||chemicaldepotllc.com^
 ||chemicaltiger.com^
 ||chemistry-king.com^
@@ -8326,6 +8328,7 @@
 ||swap.waves.com^
 ||swapcrypto.exchange^
 ||swapmonero.exchange^
+||swapn.co.uk^
 ||swappa.com^
 ||swapstak.com^
 ||swarmnode.ai^
