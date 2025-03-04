@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.062332.2025
+! Version: 03.04.063842.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 06:23:32 UTC 2025
+! Last modified: Tue Mar  4 06:38:42 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9761
+! Number of entries: 9766
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -369,6 +369,7 @@
 ||afrigoldmines.com^
 ||afriqjmarbitrage.us^
 ||afrxbujefqao.shop^
+||againstopsolveworkproblem.com^
 ||agarwoody.shop^
 ||ageeon.com^
 ||ageesmart.us^
@@ -2136,6 +2137,7 @@
 ||cmbet888.net^
 ||cme.invest.com^
 ||cmodams.shop^
+||cnblueshop.com^
 ||cncast.shop^
 ||cncnyr.shop^
 ||cnkjhfyhposjmndh.378wugnima.shop^
@@ -2846,6 +2848,7 @@
 ||dinpe.com^
 ||diptyque.shop^
 ||diptysales.com^
+||direct-emprunt.com^
 ||directamatch.com^
 ||directoryofus.online^
 ||directseville.shop^
@@ -3481,6 +3484,7 @@
 ||fenryon.com^
 ||fenutor.com^
 ||fermebuche.com^
+||ferminsanchezjuberias.shop^
 ||fernandezfarmacia.com^
 ||ferzip.com^
 ||festival88.online^
@@ -5575,6 +5579,7 @@
 ||marqjoy.com^
 ||marseilleoff.shop^
 ||marsincfog.com^
+||marthareisin.shop^
 ||martvalley.online^
 ||marvellousperfumes.com^
 ||marvelusdt.com^
