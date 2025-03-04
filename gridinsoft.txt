@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.203737.2025
+! Version: 03.04.204652.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 20:37:37 UTC 2025
+! Last modified: Tue Mar  4 20:46:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10012
+! Number of entries: 10016
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -302,6 +302,7 @@
 ||activamastiffhome.com^
 ||activations.ledger.com^
 ||activeprobeauty.com^
+||activetimeflows.com^
 ||activityuk.shop^
 ||actufinance.fr^
 ||acvslimgummies.us^
@@ -464,6 +465,7 @@
 ||akaregisteredtoypoodlepups.com^
 ||akilesh.hopto.org^
 ||akj.com^
+||akumabox.com^
 ||akurat33.com^
 ||akusoli.com^
 ||al.rafidahcapital.com^
@@ -4533,6 +4535,7 @@
 ||hpbvjrcfpcbayp.shop^
 ||hpgyxnbsqrotmopjhc.shop^
 ||hplcstandards.com^
+||hppfzf.shop^
 ||hpqpgonxhdhgzneqyau.shop^
 ||hpstff.shop^
 ||hptts.tealagarm.com^
@@ -5504,6 +5507,7 @@
 ||luxurywatches1.shop^
 ||luxurywatchus.com^
 ||luxxfur.com^
+||luyncty.shop^
 ||lvl.singapore.pte.site^
 ||lvlbit.com^
 ||lwbbc.com^
