@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.182556.2025
+! Version: 03.04.184049.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 18:25:56 UTC 2025
+! Last modified: Tue Mar  4 18:40:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9945
+! Number of entries: 9950
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2084,6 +2084,7 @@
 ||clarifai1.xyz^
 ||clarity-ventures.top^
 ||clarkeglobalinc.com^
+||clasert.com^
 ||classicteefox.com^
 ||classicused.cars.com^
 ||classinewshoes.com^
@@ -3670,6 +3671,7 @@
 ||fmovies.co^
 ||fmovies1.pw^
 ||fmw-human.vip^
+||fnc9.com^
 ||focusglow.store^
 ||focusmarkets.com^
 ||fogeque.shop^
@@ -4966,6 +4968,9 @@
 ||kefu.swapbit.top^
 ||kelansu.com^
 ||ken.exmax.com^
+||kendallpeter.shop^
+||kenishabryant.shop^
+||kenkillian.shop^
 ||kennp.com^
 ||kenton.vip^
 ||kenzotrade.com^
