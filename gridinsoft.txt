@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.003419.2025
+! Version: 03.04.010336.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 00:34:19 UTC 2025
+! Last modified: Tue Mar  4 01:03:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9681
+! Number of entries: 9685
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1157,6 +1157,7 @@
 ||bestgreensuperfood.com^
 ||besthealth24.online^
 ||besthowtoguides.com^
+||bestlivinghomestore.com^
 ||bestluxurysaller.com^
 ||bestmayoreo.com.mx^
 ||bestmintartistry.com^
@@ -7597,6 +7598,7 @@
 ||sextoysindubai.com^
 ||sexyforums.com^
 ||sexyfy.store^
+||sexytoyme.com^
 ||sezekogluk.com^
 ||sfardlanka.com^
 ||sflix.to^
@@ -8186,6 +8188,7 @@
 ||tabtouch.com.au^
 ||tackleft.com^
 ||tads.baker.co.za^
+||tahkmtokt.com^
 ||tailoredsucorp.com^
 ||taiwebs.com^
 ||takchu.com^
@@ -8985,6 +8988,7 @@
 ||vepnext.com^
 ||ver3052.com^
 ||veralea.com^
+||verifyebay.click^
 ||veroir.com^
 ||verol.shop^
 ||veroshell.com^
