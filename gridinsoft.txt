@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.204652.2025
+! Version: 03.04.205604.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 20:46:52 UTC 2025
+! Last modified: Tue Mar  4 20:56:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10016
+! Number of entries: 10025
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3517,6 +3517,8 @@
 ||fcbayern-eu.shop^
 ||fcbzj.com^
 ||fcliverpool2025.shop^
+||fczmdgjvdsr.shop^
+||fdddar.shop^
 ||fdkwire.com^
 ||febgtvh.com^
 ||febit.vip^
@@ -4964,8 +4966,13 @@
 ||justinbootsitalia.com^
 ||justinyourhead.online^
 ||justwatch.com^
+||justynarompca.shop^
+||juttakarbach.shop^
 ||juuibv.com^
 ||jvault.xyz^
+||jvfonpmvyxj.shop^
+||jvgpyxanjcpragqvekcg.shop^
+||jvjhzhwqya.shop^
 ||jvyzbxezypqncazcvf.shop^
 ||jwpei.espana.es^
 ||jys55722.com^
@@ -5504,6 +5511,7 @@
 ||luxriahu2.quest^
 ||luxshinyessentials.shop^
 ||luxurydo.ru^
+||luxurygosets.shop^
 ||luxurywatches1.shop^
 ||luxurywatchus.com^
 ||luxxfur.com^
@@ -6060,6 +6068,7 @@
 ||moda.milano.it^
 ||modacloaks.com^
 ||modapkokie.com^
+||modawrapz.com^
 ||moddys.watches.com^
 ||modefi4o.com^
 ||modeflair.com^
