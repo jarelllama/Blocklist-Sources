@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.010336.2025
+! Version: 03.04.014540.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 01:03:36 UTC 2025
+! Last modified: Tue Mar  4 01:45:40 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9685
+! Number of entries: 9688
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1436,6 +1436,7 @@
 ||blochchile.shop^
 ||block-stream.org^
 ||blockchainesc-ledger.com^
+||blockchaininfo.online^
 ||blockchaintradee.com^
 ||blockdag.network^
 ||blockera.online^
@@ -1556,6 +1557,7 @@
 ||brandedsstore.online^
 ||brandingacademy.online^
 ||brandmasterswholesale.com^
+||brandnitionssemrush.com^
 ||brandtrendp.com^
 ||brasatrade.com^
 ||brasilenviosbr.com^
@@ -4047,6 +4049,7 @@
 ||gomhero.com^
 ||gominer.net^
 ||gomining.com^
+||goneim.com^
 ||gonow.dbdefi.com^
 ||goo.su^
 ||good2025.vip^
