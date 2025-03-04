@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.080652.2025
+! Version: 03.04.082126.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 08:06:52 UTC 2025
+! Last modified: Tue Mar  4 08:21:26 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9792
+! Number of entries: 9796
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1775,6 +1775,7 @@
 ||canconsulting.in^
 ||candleyield.com^
 ||canewsisite.com^
+||cannabis420.fr^
 ||canvaschronicle.homes^
 ||canvasgenius.homes^
 ||capaciousdrewreligion.com^
@@ -4479,6 +4480,8 @@
 ||htonlinesale.com^
 ||htxsbot.com^
 ||huaweiinest.com^
+||huawel.shop^
+||hubhgywquxdszmoqzdax.shop^
 ||hubtravels.co.uk^
 ||hubwf.app^
 ||hudsonclassic.com^
@@ -5608,6 +5611,7 @@
 ||masalelo.shop^
 ||mascotaoutlet.com^
 ||mashreqstandardcapital.com^
+||masjrtuskvgfqhbjfq.shop^
 ||masquato.com^
 ||masscoin.us^
 ||massgrave.dev^
