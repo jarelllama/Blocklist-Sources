@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.184049.2025
+! Version: 03.04.185136.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 18:40:49 UTC 2025
+! Last modified: Tue Mar  4 18:51:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9950
+! Number of entries: 9956
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3741,6 +3741,9 @@
 ||fra.grandado.com^
 ||fraganciapura.store^
 ||fragrancesrealms.com^
+||francejones.shop^
+||francescamazzarella.shop^
+||francinebourque.shop^
 ||fraudplatforms.com^
 ||frdl.io^
 ||free-bonk.com^
@@ -4965,6 +4968,7 @@
 ||keenchile.net^
 ||keencn.com^
 ||keenfootwear.outlets.store^
+||keepsuperheroen.shop^
 ||kefu.swapbit.top^
 ||kelansu.com^
 ||ken.exmax.com^
@@ -5737,6 +5741,8 @@
 ||maynor.shop^
 ||mayoralonline.shop^
 ||mayoristaonlinestore.com^
+||maytcmzjpqgrasqcm.shop^
+||mayvbqtyhywe.shop^
 ||maywqgopfp.shop^
 ||mayzik.com^
 ||mazebyi.shop^
