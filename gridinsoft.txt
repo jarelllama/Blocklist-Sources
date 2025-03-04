@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.170215.2025
+! Version: 03.04.171445.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 17:02:15 UTC 2025
+! Last modified: Tue Mar  4 17:14:45 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9924
+! Number of entries: 9926
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3015,6 +3015,7 @@
 ||dshbitcomail.com^
 ||dskonline.bg^
 ||dsolod.com^
+||dsp-server.com^
 ||dstockaffaires.com^
 ||dt-machining.com^
 ||dtfvg.net^
@@ -9578,6 +9579,7 @@
 ||witimselsolar.com^
 ||wittweidende.store^
 ||wixboom.com^
+||wixcom.com^
 ||wixrol.com^
 ||wizonex.com^
 ||wj2ph11.com^
