@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.162712.2025
+! Version: 03.04.164129.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 16:27:12 UTC 2025
+! Last modified: Tue Mar  4 16:41:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9914
+! Number of entries: 9918
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4480,6 +4480,7 @@
 ||houze.ie.2025.shop^
 ||hoveraires.site^
 ||hoxbospmbkyrvqxwgqh.shop^
+||hoydeportes.online^
 ||hoylitecandle.store^
 ||hozfhqnpvwond.shop^
 ||hozpetro.com^
@@ -6308,6 +6309,7 @@
 ||newton-management.one^
 ||newulife.com^
 ||newworldstrusts.com^
+||newycomm.com^
 ||newyorkob.com^
 ||newyorkshroomsonline.com^
 ||nexamazon.com^
@@ -7340,6 +7342,7 @@
 ||ranoz.gg^
 ||ranthambhoresafaritour.in^
 ||rapelust.com^
+||rapid-logs.com^
 ||rapiddigitalrecovery.org^
 ||rapidnftswap.com^
 ||rapidtransitmodels.com^
@@ -8984,6 +8987,7 @@
 ||ukhomebase.com^
 ||uksxmall.store^
 ||ulmire.com^
+||ultarfilterindia.com^
 ||ultimateexperttrade247.com^
 ||ultimatefinance.co.in^
 ||ultiverseoption.com^
