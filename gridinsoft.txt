@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.060820.2025
+! Version: 03.04.062332.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 06:08:20 UTC 2025
+! Last modified: Tue Mar  4 06:23:32 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9754
+! Number of entries: 9761
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1091,6 +1091,7 @@
 ||beastvem.com^
 ||beat.sticker.online^
 ||beatmakerz.club^
+||beatpunch.fr^
 ||beaucham.com^
 ||beausumm.com^
 ||beautyxfit.com^
@@ -2378,6 +2379,7 @@
 ||crockful.com^
 ||crohasit.net^
 ||crown99.win^
+||crownbet.online^
 ||crownoptionpro.com^
 ||crownpointfin.com^
 ||crsverify.online^
@@ -4132,6 +4134,7 @@
 ||greenranddam.com^
 ||greenseedhub.com^
 ||greentechpkg.com.vn^
+||greetlight.com^
 ||greevip.org^
 ||grelhasonline.mec.pt^
 ||greycredits.com^
@@ -5200,6 +5203,7 @@
 ||linxiangyun.com^
 ||linyimma.com^
 ||lionelo.shop^
+||liotrade.com^
 ||lipozem.web.shop^
 ||lipozemus.com^
 ||lippizapatillaes.shop^
@@ -5370,6 +5374,8 @@
 ||lvl.singapore.pte.site^
 ||lvlbit.com^
 ||lwbbc.com^
+||lydiacohen.shop^
+||lydiephelippon.shop^
 ||lylama.com^
 ||lylussplus.com^
 ||lynholly.shop^
@@ -6837,6 +6843,7 @@
 ||popmartonline.my.asia^
 ||popwork.net^
 ||pordora.com^
+||porimaze.com^
 ||pornmixer.org^
 ||pornshort.com^
 ||pornxp.quest^
