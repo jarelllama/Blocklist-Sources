@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.190036.2025
+! Version: 03.04.191231.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 19:00:36 UTC 2025
+! Last modified: Tue Mar  4 19:12:31 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9962
+! Number of entries: 9967
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3672,9 +3672,13 @@
 ||flygame.in^
 ||fmaglobal.io^
 ||fmcg5.biz^
+||fmfvtjvxvcev.shop^
 ||fmhy.net^
+||fmjnupyzebfwtd.shop^
 ||fmovies.co^
 ||fmovies1.pw^
+||fmqadfzcvoefbodrpmu.shop^
+||fmtgzpwhwso.shop^
 ||fmw-human.vip^
 ||fnc9.com^
 ||focusglow.store^
@@ -5706,6 +5710,7 @@
 ||matteomarcelli.com^
 ||matthewbarry.shop^
 ||matthewkirkland.shop^
+||matthewkozubek.shop^
 ||matthiasmem.shop^
 ||mattjennings.shop^
 ||matuild.shop^
