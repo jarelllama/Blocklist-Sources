@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.065848.2025
+! Version: 03.04.071120.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 06:58:48 UTC 2025
+! Last modified: Tue Mar  4 07:11:20 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9774
+! Number of entries: 9779
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4457,7 +4457,9 @@
 ||hptts.tealagarm.com^
 ||hqkvrsoywozj.shop^
 ||hraji.net^
+||hrbfcjqtgcekyzoymvaf.shop^
 ||hrbtpl.com^
+||hrcmtujwnbtzarvqpe.shop^
 ||href.li^
 ||hrtai.vip^
 ||hrumer.ua^
@@ -5591,6 +5593,8 @@
 ||marvmys.com^
 ||maryannable.shop^
 ||marycupano.shop^
+||maryhenry.shop^
+||marylittle.shop^
 ||mascotaoutlet.com^
 ||mashreqstandardcapital.com^
 ||masquato.com^
@@ -7902,6 +7906,7 @@
 ||sofiahalbofanimeworld.blogspot.com^
 ||sofiahalbofanimeworld.blogspot.nl^
 ||sofiahalbofanimeworld.blogspot.ru^
+||sofiajulieta.com^
 ||softastrd.com^
 ||softgama.online^
 ||softontop.io^
