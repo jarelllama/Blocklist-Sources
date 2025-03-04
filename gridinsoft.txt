@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.03.235213.2025
+! Version: 03.04.000714.2025
 ! Expires: 10 minutes
-! Last modified: Mon Mar  3 23:52:13 UTC 2025
+! Last modified: Tue Mar  4 00:07:14 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9675
+! Number of entries: 9678
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -39,6 +39,7 @@
 ||10bestsweepstakes.com^
 ||111sss-mall.com^
 ||11ph9.com^
+||11teamsportseu.com^
 ||123-pour-toi.com^
 ||123684.com^
 ||123movie.press^
@@ -1973,6 +1974,7 @@
 ||cherax.menu^
 ||cherie-sheriff.com^
 ||chesterron.com^
+||chewsmart.co^
 ||chic-time.fr^
 ||chiccraftz.com^
 ||chicfitx.com^
@@ -7661,6 +7663,7 @@
 ||shoprazys.com^
 ||shopsaltana.com^
 ||shopsavvysimpsons.com^
+||shopskarllagerfelds.shop^
 ||shoptastic.io^
 ||shopterralotus.com^
 ||shoptrend.cloud^
