@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.161113.2025
+! Version: 03.04.162712.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 16:11:13 UTC 2025
+! Last modified: Tue Mar  4 16:27:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9912
+! Number of entries: 9914
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -224,6 +224,7 @@
 ||99phl789.com^
 ||99predict.com^
 ||99ups.icu^
+||9bux.xyz^
 ||9bxz.com^
 ||9eight5.co.nz^
 ||9jwjegw.mmdlkx.info^
@@ -3246,6 +3247,7 @@
 ||epixiptv.com^
 ||eplxt.com^
 ||epoiu.com^
+||epsale365.com^
 ||epulsive.com^
 ||eqomplace.com^
 ||equallyto.com^
