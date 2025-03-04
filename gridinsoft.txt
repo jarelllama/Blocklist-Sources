@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.072505.2025
+! Version: 03.04.073530.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 07:25:05 UTC 2025
+! Last modified: Tue Mar  4 07:35:30 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9783
+! Number of entries: 9789
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4466,6 +4466,9 @@
 ||hsck.cc^
 ||hsghkvmhkr.shop^
 ||hshynhomvm.shop^
+||hskmbyfxazo.shop^
+||hsqewrfubrj.shop^
+||hsrefjfeckxp.shop^
 ||hsubmiti.top^
 ||htadz.online^
 ||htask.vip^
@@ -5598,7 +5601,9 @@
 ||maryhenry.shop^
 ||marylittle.shop^
 ||marysefaurie.shop^
+||maryvidourek.shop^
 ||maryweston.shop^
+||masalelo.shop^
 ||mascotaoutlet.com^
 ||mashreqstandardcapital.com^
 ||masquato.com^
@@ -8280,6 +8285,7 @@
 ||takemyhairs.com^
 ||takemyhairs.top^
 ||takewins.com^
+||talentloompro-de.com^
 ||talentloompro.de.com^
 ||talentstreamnet.com^
 ||talklikesm.best^
