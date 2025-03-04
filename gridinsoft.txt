@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.210733.2025
+! Version: 03.04.212113.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 21:07:33 UTC 2025
+! Last modified: Tue Mar  4 21:21:13 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10030
+! Number of entries: 10036
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3489,10 +3489,12 @@
 ||fashionworldcc.shop^
 ||fashioze.com^
 ||fast.financial.com^
+||fastbnbtobacscxo.shop^
 ||fastbrush.online^
 ||fastconnectionflow.com^
 ||fastdeliverytrustpills.com^
 ||fastee.top^
+||fastgenerators.shop^
 ||fastlovestore.sbs^
 ||fastminingpro.com^
 ||fastnetworks.xyz^
@@ -4415,6 +4417,7 @@
 ||hidollshop.top^
 ||highgradeglobal.com^
 ||highhillfurniture.com^
+||highspot1.com^
 ||hijra7.online^
 ||hikarudistribution.com^
 ||hillbillyllc.com^
@@ -4950,6 +4953,9 @@
 ||juicenewmedia.com^
 ||juicesp.com^
 ||juinfd.com^
+||juliatangires.shop^
+||juliathomas.shop^
+||juliavogt.shop^
 ||juliusbaerusd.com^
 ||jump.panel.surprise.clever.top^
 ||jumper.lvlnk.com^
