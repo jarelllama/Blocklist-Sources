@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.021943.2025
+! Version: 03.04.024559.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 02:19:43 UTC 2025
+! Last modified: Tue Mar  4 02:45:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9692
+! Number of entries: 9697
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2000,6 +2000,7 @@
 ||christophervittal.shop^
 ||christybutcher.shop^
 ||chromakopiatourmerch.com^
+||chromeheartsring.com^
 ||chrossx.com^
 ||chuddahs.com^
 ||churrasconoap.com.br^
@@ -2078,6 +2079,7 @@
 ||clickiezwages.buzz^
 ||clickmhtwages.buzz^
 ||clickmiqwages.buzz^
+||clickmt04.cc^
 ||clickppuwages.buzz^
 ||clicksdealer.com^
 ||clickwages.buzz^
@@ -7279,6 +7281,7 @@
 ||retrofxmarkets.com^
 ||retromoods.com^
 ||retropixellc.com^
+||retrosowenian.shop^
 ||reupsupplies.com^
 ||reutermetriks.tech^
 ||revalationtradehubs.com^
@@ -7580,6 +7583,7 @@
 ||senso.cat^
 ||senteted.com^
 ||sentimentvalue.com^
+||seo-acadia.com^
 ||seokore.com^
 ||sepholormophi.com^
 ||serbet.top^
@@ -9133,6 +9137,7 @@
 ||vx88.vx.com^
 ||vx8802.com^
 ||vx88t.com^
+||vytsrd.com^
 ||w3.hexafiles.com^
 ||w3er.top^
 ||waa7.com^
