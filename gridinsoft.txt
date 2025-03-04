@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.130557.2025
+! Version: 03.04.132055.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 13:05:57 UTC 2025
+! Last modified: Tue Mar  4 13:20:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9892
+! Number of entries: 9894
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3608,6 +3608,7 @@
 ||fleecedgy.com^
 ||fleetscontainers.com^
 ||flexcapital.top^
+||flexitr.cc^
 ||flexjobhubs.com^
 ||flexswiftways.online^
 ||flhtbill.com^
@@ -8241,6 +8242,7 @@
 ||styline.shop^
 ||stylishwearvip.com^
 ||styvor.com^
+||sub.pretty-fly4.net^
 ||subduedespana.com^
 ||subscribe.free.fr^
 ||subscribelg.my^
