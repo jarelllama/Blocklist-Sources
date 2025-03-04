@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.055441.2025
+! Version: 03.04.060820.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 05:54:41 UTC 2025
+! Last modified: Tue Mar  4 06:08:20 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9751
+! Number of entries: 9754
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2474,6 +2474,7 @@
 ||ctt-correio-pt.com^
 ||ctvvpue071bc73b7gmug.protocolchainflow.com^
 ||ctwmcd.com^
+||cu-cfc.com^
 ||cu2fi6m071bc73d7rkeg.enhanceconnection.co.in^
 ||cu4hsde071bc73f38hm0.enhanceconnection.co.in^
 ||cu7rqq6071bc73a4orp0.protocolchainflow.com^
@@ -3467,6 +3468,7 @@
 ||feelbikestore.com^
 ||feeliey.com^
 ||feels.ct.ws^
+||feelthecitytours.com^
 ||feenox.com^
 ||feetfansfrench.com^
 ||felguss.com^
@@ -5363,6 +5365,7 @@
 ||luxriahu2.quest^
 ||luxshinyessentials.shop^
 ||luxurydo.ru^
+||luxurywatches1.shop^
 ||luxxfur.com^
 ||lvl.singapore.pte.site^
 ||lvlbit.com^
