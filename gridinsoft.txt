@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.045826.2025
+! Version: 03.04.051037.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 04:58:26 UTC 2025
+! Last modified: Tue Mar  4 05:10:37 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9727
+! Number of entries: 9733
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4156,6 +4156,7 @@
 ||guabsons.com^
 ||guaranteedbuyers247.com^
 ||guaranteeswift.com^
+||guardian-net.life^
 ||guardwallet.io^
 ||guathsmake.co.in^
 ||guavarina.com.br^
@@ -4429,6 +4430,7 @@
 ||housevaluetool.com^
 ||houze.ie.2025.shop^
 ||hoveraires.site^
+||hoxbospmbkyrvqxwgqh.shop^
 ||hoylitecandle.store^
 ||hozpetro.com^
 ||hplcstandards.com^
@@ -5336,12 +5338,14 @@
 ||lunelior.io^
 ||lushyedge.com^
 ||lusive.xyz^
+||luternuastore-online.shop^
 ||luujin.info^
 ||luvastro.com^
 ||luvonnetherlands.com^
 ||luvwehair.com^
 ||luxbedcom.store^
 ||luxebazaar.online^
+||luxeblingi.shop^
 ||luxeflairz.com^
 ||luxer.bet^
 ||luxewatchus.com^
@@ -9577,6 +9581,7 @@
 ||yearpilrim.com^
 ||yeezys.com.mx^
 ||yen.tky.com^
+||yendeo.com^
 ||yepbit4.com^
 ||yetupstairsaccount.com^
 ||ygexchange.com^
@@ -9642,6 +9647,7 @@
 ||zambezifive.com^
 ||zapaka.fr^
 ||zapatillasespanaoutlet.org^
+||zapatosgaborcomfort.com^
 ||zapsurveys.com^
 ||zaragiftmart.xyz^
 ||zarastoreonline.com^
