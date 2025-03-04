@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.112722.2025
+! Version: 03.04.113656.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 11:27:22 UTC 2025
+! Last modified: Tue Mar  4 11:36:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9879
+! Number of entries: 9881
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -7633,6 +7633,7 @@
 ||samsoniteclearance.shop^
 ||samsonitedeals.com^
 ||samsoniteoutlets.com^
+||san-stores.com^
 ||san.stores.com^
 ||sandiego.park.com^
 ||sangdot.online^
@@ -9455,6 +9456,7 @@
 ||wheelpg777.online^
 ||wheelresq.online^
 ||wheelverifyhub.com^
+||whevina.com^
 ||wheybit.com^
 ||whgsales.shop^
 ||whimsyfun.com^
