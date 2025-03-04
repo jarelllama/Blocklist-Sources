@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.180959.2025
+! Version: 03.04.182556.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 18:09:59 UTC 2025
+! Last modified: Tue Mar  4 18:25:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 9941
+! Number of entries: 9945
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2125,6 +2125,7 @@
 ||clksite.com^
 ||clladss.com^
 ||cloc.mastercasc.top^
+||cloneslab.store^
 ||closer.university.com^
 ||closingclients.io^
 ||clothfashionmalls.com^
@@ -2524,6 +2525,7 @@
 ||curatidle.com^
 ||cursomarderesina.online^
 ||cuslinyu.online^
+||custodiafin.com^
 ||customer-form.top^
 ||customscool.com^
 ||customspresent.com^
@@ -7388,6 +7390,7 @@
 ||realmadrid.eu.shop^
 ||realmoney.live^
 ||realstockinvestsltd.com^
+||realtrade4.com^
 ||realworldbroker.pro^
 ||reasonablu.com^
 ||rebaritisimo.com^
@@ -9279,6 +9282,7 @@
 ||vijaykumarvs.github.io^
 ||vikashtiwari97.github.io^
 ||villalemana.cl^
+||villb-pl.club^
 ||vilmoria.com^
 ||vilotex.com^
 ||vimbag.com^
