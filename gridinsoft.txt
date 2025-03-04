@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.221058.2025
+! Version: 03.04.222426.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 22:10:58 UTC 2025
+! Last modified: Tue Mar  4 22:24:26 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10056
+! Number of entries: 10060
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3799,6 +3799,7 @@
 ||freebnb.in^
 ||freebnbgo.com^
 ||freebnbgo.net^
+||freebonusapp.com^
 ||freecebstar.top^
 ||freedogecoinmining.com^
 ||freedomescapexcelerator.com^
@@ -6014,6 +6015,7 @@
 ||mine.bnb.com^
 ||minepulse.top^
 ||minequartz.com^
+||miner.com^
 ||minersmarketsplace.com^
 ||minervabot.net^
 ||minervahacks.tech^
@@ -6357,6 +6359,7 @@
 ||nemalur.com^
 ||nembutalgroup.com^
 ||nemovix.com^
+||nenitas.club^
 ||nenyoocheats.com^
 ||neobit.pro^
 ||neobitix.com^
@@ -7057,6 +7060,7 @@
 ||pljn.store^
 ||plmin.xyz^
 ||ploise.com^
+||pluginchad.com^
 ||plurao.com^
 ||plusdiscountedproperties.xyz^
 ||plushlaser.com^
