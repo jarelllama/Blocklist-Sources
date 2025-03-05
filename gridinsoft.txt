@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.101443.2025
+! Version: 03.05.102957.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 10:14:43 UTC 2025
+! Last modified: Wed Mar  5 10:29:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10214
+! Number of entries: 10219
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4861,6 +4861,8 @@
 ||irembo.com^
 ||iris.tech.online^
 ||irisium.lat^
+||irmahampton.shop^
+||irmastoner.shop^
 ||iron-oil.com^
 ||ironchainbank.io^
 ||ironfx.com^
@@ -5608,6 +5610,7 @@
 ||lushyedge.com^
 ||lusive.xyz^
 ||luternuastore-online.shop^
+||lutex-shares.org^
 ||luujin.info^
 ||luvastro.com^
 ||luvonnetherlands.com^
@@ -6622,6 +6625,7 @@
 ||noremally.com^
 ||norex.pro^
 ||norionbusiness.top^
+||norrona-vip.shop^
 ||norsewebdesign.co.uk^
 ||northmary.com^
 ||norwichguidon.org^
@@ -9700,6 +9704,7 @@
 ||wealthassetcapital.org^
 ||wealthassets.app^
 ||wealthbaseinvestment.com^
+||wealthhaven.live^
 ||wealthphantom.com^
 ||wealthrecoveryspecialist.com^
 ||wealthsphere.cc^
