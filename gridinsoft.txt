@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.045636.2025
+! Version: 03.05.050836.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 04:56:36 UTC 2025
+! Last modified: Wed Mar  5 05:08:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10127
+! Number of entries: 10132
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2428,6 +2428,7 @@
 ||crownbet.online^
 ||crownoptionpro.com^
 ||crownpointfin.com^
+||crownstoneassets.org^
 ||crsverify.online^
 ||crushon.ai^
 ||crydapp.ai^
@@ -4676,6 +4677,7 @@
 ||idjqwinla.net^
 ||idtumy.com^
 ||ifast2.com^
+||ifpkrp.shop^
 ||iframeforward.com^
 ||ig9612.top^
 ||igetintopc.com^
@@ -7938,6 +7940,7 @@
 ||self.love.shop.co.uk^
 ||sellingaccesorios.com^
 ||sellmmar.best^
+||sellnbetar.best^
 ||sellonamazontoday.com^
 ||selo.metodovl.site^
 ||selwix.net^
@@ -8284,6 +8287,7 @@
 ||spectrotel.billcenter.net^
 ||spectrumsbaloans.com^
 ||speedii.shop^
+||speedwheel-supplies.com^
 ||speedyhealth.com^
 ||speedyracer.com^
 ||sphadsworld.com^
@@ -9346,6 +9350,7 @@
 ||valueversion.com^
 ||valutrades.io^
 ||valxcane.lol^
+||vamonosapparels.com^
 ||vanadex.com^
 ||vanbet.top^
 ||vanmassstore.com^
