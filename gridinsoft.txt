@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.152236.2025
+! Version: 03.05.153357.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 15:22:36 UTC 2025
+! Last modified: Wed Mar  5 15:33:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10264
+! Number of entries: 10265
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6451,6 +6451,7 @@
 ||nationdistributor.com^
 ||natpet.com^
 ||naturaenutra.online^
+||nature-et-beaute.net^
 ||natureflux.shop^
 ||natwolf.online^
 ||naukbjo.com^
