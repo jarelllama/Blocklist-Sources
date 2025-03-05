@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.044708.2025
+! Version: 03.05.045636.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 04:47:08 UTC 2025
+! Last modified: Wed Mar  5 04:56:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10120
+! Number of entries: 10127
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1568,6 +1568,7 @@
 ||bowtiehouse.us^
 ||box.polkitu.com^
 ||box24casino.com^
+||boyan-luxury.store^
 ||bpee.top^
 ||bphash.top^
 ||bpplc1.com^
@@ -1579,6 +1580,7 @@
 ||brandingacademy.online^
 ||brandmasterswholesale.com^
 ||brandnitionssemrush.com^
+||brandoff.store^
 ||brandtrendp.com^
 ||brasatrade.com^
 ||brasilenviosbr.com^
@@ -1618,6 +1620,7 @@
 ||britebatshop.com^
 ||britishairwaysroyaldeliverycompany.com^
 ||britishfx-trade.info^
+||brokenplanethoodie.store^
 ||broker.zaffex.com^
 ||brookssoft.com^
 ||browser.app.com^
@@ -1731,10 +1734,12 @@
 ||buymethcanberra.com^
 ||buypainkillermeds.com^
 ||buyprimevxl.com^
+||buyseven.store^
 ||buysoma.online^
 ||buystoresmm.com^
 ||buythepencil.com^
 ||buyweedonlineinusa.shop^
+||buywhite.store^
 ||buzdikstore.com^
 ||buzh3n1n4.online^
 ||buzzsum0.site^
@@ -3909,6 +3914,7 @@
 ||fxtrinity.com^
 ||fxveco.live^
 ||fxvision.net^
+||fyssea.com^
 ||fyswykszncmxebnbmga.shop^
 ||fyxuvdbfdhtkqswox.shop^
 ||fzpwjdnweakx.shop^
@@ -9158,6 +9164,7 @@
 ||uewlihasq.com^
 ||ufcufiufh.info^
 ||ufdwk.ltd^
+||uflix.cc^
 ||ufyx22ah.top^
 ||uggonline.com.au^
 ||ugksq.merganser.cn^
