@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.174726.2025
+! Version: 03.05.175631.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 17:47:26 UTC 2025
+! Last modified: Wed Mar  5 17:56:31 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10300
+! Number of entries: 10306
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3045,6 +3045,7 @@
 ||doublayx.com^
 ||doubledeckertourbus.com^
 ||doublemintvip.org^
+||douhmkpujyueydykmk.shop^
 ||dowjones.vip.com^
 ||download.totaladblock.com^
 ||download.wondershare.net^
@@ -4409,6 +4410,7 @@
 ||happyporns.com^
 ||happyvape.nl^
 ||happyvilleonline.com^
+||harborash.store^
 ||hardblock.com.au^
 ||harkila-supplier.shop^
 ||harkilaequipment.shop^
@@ -4466,6 +4468,10 @@
 ||hearitupj.shop^
 ||heartlandstandardbk.com^
 ||heatgobonneideaz.shop^
+||heatnearmemercyshopify.shop^
+||heatpendientera.shop^
+||heatpittsboropettsupply.shop^
+||heatuniversalmusiconline.shop^
 ||heavensender.pro^
 ||hedahour.com^
 ||hedgeincrease.com^
