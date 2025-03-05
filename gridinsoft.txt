@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.221522.2025
+! Version: 03.05.222914.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 22:15:22 UTC 2025
+! Last modified: Wed Mar  5 22:29:14 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10446
+! Number of entries: 10449
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2439,6 +2439,7 @@
 ||cqzywhisper.shop^
 ||cr.brands.net^
 ||crackfaqs.com^
+||cracksurl.com^
 ||crackworldgames.weebly.com^
 ||crawnyratty.com^
 ||crazediscount.com^
@@ -3535,6 +3536,7 @@
 ||expresswallet.pro^
 ||extrapyro.com^
 ||extreme-down.social^
+||extremecm.online^
 ||exzhpwxcbjcz.shop^
 ||exzurfwcmuyhmn.shop^
 ||eybmtftmoyzv.shop^
@@ -9996,6 +9998,7 @@
 ||werendex.com^
 ||weshopforme.com^
 ||westernaitrade.com^
+||westernfinancialbank.com^
 ||westtic.com^
 ||wetoxy.com^
 ||wfage.cc^
