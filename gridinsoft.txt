@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.195242.2025
+! Version: 03.05.200254.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 19:52:42 UTC 2025
+! Last modified: Wed Mar  5 20:02:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10384
+! Number of entries: 10387
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -117,6 +117,7 @@
 ||27eguyehgeuqwf.com^
 ||28c75.com^
 ||2dgameworld.com^
+||2faceonline.net^
 ||2h.ae^
 ||2llcc.vip^
 ||2mbet.link^
@@ -1337,6 +1338,7 @@
 ||bitcapital.online^
 ||bitcexpro.vip^
 ||bitcine.app^
+||bitcoin-betrug.at^
 ||bitcoin.700eprex.com^
 ||bitcoin.laundry2.net^
 ||bitcoin.pays.com^
@@ -7539,6 +7541,7 @@
 ||pu220ev.com^
 ||pub-12b034bec9894af69d01a0e35ad3cda6.r2.dev^
 ||pub.c5acfd5a4f1943a7bfc858676472adce.r2.dev^
+||pubgcleagues.com^
 ||pubgrlxvote.top^
 ||public.mail-system-service.com^
 ||publicacoesonline.com.br^
