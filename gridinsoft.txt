@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.093232.2025
+! Version: 03.05.094242.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 09:32:32 UTC 2025
+! Last modified: Wed Mar  5 09:42:42 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10204
+! Number of entries: 10206
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5626,6 +5626,7 @@
 ||lvl.singapore.pte.site^
 ||lvlbit.com^
 ||lwbbc.com^
+||lyceebalzac.com^
 ||lydiacohen.shop^
 ||lydiephelippon.shop^
 ||lylama.com^
@@ -7503,6 +7504,7 @@
 ||qtwaieraxglobo.com^
 ||qua-x.net^
 ||quaax.me^
+||quality-living.co.uk^
 ||quality.cures.com^
 ||qualityfakeid.com^
 ||qualitynoteschange.com^
