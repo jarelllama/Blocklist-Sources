@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.054408.2025
+! Version: 03.05.055317.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 05:44:08 UTC 2025
+! Last modified: Wed Mar  5 05:53:17 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10145
+! Number of entries: 10148
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1532,6 +1532,7 @@
 ||bonanza.usdt.com^
 ||bondicurls.com^
 ||bonejump.com^
+||bonesyosep.net^
 ||bongodigitalbd.com^
 ||bonta.store^
 ||bonusewin.com^
@@ -4692,6 +4693,7 @@
 ||iitang.com^
 ||ijex.com^
 ||ijex.pro^
+||ikkmba.shop^
 ||iklktec.com^
 ||ilclawgroup.com^
 ||ilikeauli.com^
@@ -9505,6 +9507,7 @@
 ||viralityshop.online^
 ||viralostore.com^
 ||vircloth.com^
+||virtualgraceland.com^
 ||virtueprimetrade.live^
 ||vishopee.com^
 ||vision-capitalvip.com^
