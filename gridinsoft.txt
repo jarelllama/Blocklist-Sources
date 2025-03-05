@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.225829.2025
+! Version: 03.05.231041.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 22:58:29 UTC 2025
+! Last modified: Wed Mar  5 23:10:41 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10457
+! Number of entries: 10461
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -635,6 +635,7 @@
 ||amongusonline.io^
 ||amontreupfr.shop^
 ||amorelleco.com^
+||amotopart.com^
 ||amouzo.com^
 ||amozon.zone^
 ||amp.pemuda138.com^
@@ -4564,6 +4565,7 @@
 ||hellyhansen.outlet.es^
 ||helpdesk.tech.com^
 ||helps.sbs^
+||hemveaoshop.shop^
 ||henglai.online^
 ||henomi.shop^
 ||hepetex.com^
@@ -6384,6 +6386,7 @@
 ||mondialrelay-jour.com^
 ||mondialrelay.transit.com^
 ||monespacedroits.com^
+||monetizeyourlifetoday.com^
 ||monetoad.com^
 ||money-ltd.com^
 ||moneyeasilyroq.top^
@@ -7751,6 +7754,7 @@
 ||qubetics.com^
 ||query.redir.com^
 ||questingoasis.com^
+||quick-refunds.com^
 ||quickerapparently.com^
 ||quicklyin.top^
 ||quickq.fit^
