@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.134930.2025
+! Version: 03.05.135829.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 13:49:30 UTC 2025
+! Last modified: Wed Mar  5 13:58:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 244
+! Number of entries: 245
 !
 ||app-coin.com^
 ||apps-trezor-bridge.gorgias.help^
@@ -226,6 +226,7 @@
 ||metaweb.cc^
 ||metaweb.ink^
 ||methamaskloginiu.webflow.io^
+||pagoant.com^
 ||pancakesvap.finance-v-wallet-connect.com^
 ||pb611810.wixsite.com^
 ||phantom.com^
