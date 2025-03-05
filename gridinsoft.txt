@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.102957.2025
+! Version: 03.05.104137.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 10:29:57 UTC 2025
+! Last modified: Wed Mar  5 10:41:37 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10219
+! Number of entries: 10223
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -411,6 +411,7 @@
 ||ai5crypto.com^
 ||aibtcapp1.com^
 ||aicelebrity.live^
+||aicloudminers.com^
 ||aicontracthub.com^
 ||aicryptofinancepro.com^
 ||aicryptotradings.com^
@@ -933,6 +934,7 @@
 ||aussiehaven.shop^
 ||aussiepooch.top^
 ||austeretv.com^
+||austingambles.org^
 ||australiansafesttradingbot.online^
 ||auterijewellersltd.com^
 ||auth.mashash.co^
@@ -2395,6 +2397,7 @@
 ||cowboyfashionstore.com^
 ||cowboysbusy.online^
 ||cowcare.online^
+||coynza.com^
 ||cozyarn.com^
 ||cozycoatl.shop^
 ||cozyfash.shop^
@@ -4866,6 +4869,7 @@
 ||iron-oil.com^
 ||ironchainbank.io^
 ||ironfx.com^
+||irvingtina.shop^
 ||irwin.tools.com^
 ||ishomedepot.com^
 ||islanddluxe.top^
