@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.095204.2025
+! Version: 03.05.100151.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 09:52:04 UTC 2025
+! Last modified: Wed Mar  5 10:01:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10209
+! Number of entries: 10211
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -549,6 +549,7 @@
 ||alphahashes.com^
 ||alphaindustriesspain.com^
 ||alphamarketoption.org^
+||alphascrypto.net^
 ||alphasolution.io^
 ||alpinefemme.com^
 ||alpinestars.vip.com^
@@ -3437,6 +3438,7 @@
 ||exogator.com^
 ||exoky.com^
 ||exon.energy.com^
+||exonsgrp.com^
 ||exonvic.com^
 ||exopplant.shop^
 ||exorbit.online^
