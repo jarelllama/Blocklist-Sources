@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.063624.2025
+! Version: 03.05.064810.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 06:36:24 UTC 2025
+! Last modified: Wed Mar  5 06:48:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10161
+! Number of entries: 10163
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4258,6 +4258,7 @@
 ||grawglow.com^
 ||graxikha.com^
 ||grayclothing.co.uk^
+||grayhack.tech^
 ||great.citycb.com^
 ||greatnewoffr.org^
 ||greatsealbadge.com^
@@ -9610,6 +9611,7 @@
 ||warsawsneakers.pl^
 ||warttopsiya.click^
 ||warunggolkuat.online^
+||wascheparfume.de^
 ||washerdryer.my^
 ||watch.us.live^
 ||watch24hubs.store^
