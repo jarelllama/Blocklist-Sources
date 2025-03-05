@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.042438.2025
+! Version: 03.05.043729.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 04:24:38 UTC 2025
+! Last modified: Wed Mar  5 04:37:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10102
+! Number of entries: 10111
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2668,8 +2668,13 @@
 ||de-lumelia.com^
 ||deacetrader.com^
 ||dealsavernow.com^
+||dealsexpress.shop^
+||dealtrack832.shop^
 ||dealupgo.com^
 ||dealzforu.pro^
+||deanbirtel.shop^
+||deandela.shop^
+||deannadewolf.shop^
 ||deans-shoprite.online^
 ||deans.shoprite.online^
 ||deathance.com^
@@ -5136,7 +5141,10 @@
 ||kiwiown.co.nz^
 ||kixaikisuccessful.net^
 ||kjkjg.top^
+||kjrjzqjbjgvsnoefew.shop^
 ||kjsdh.com^
+||kjypwzfomxkjpbevyz.shop^
+||kjzhgajejfyfbwkztzhq.shop^
 ||kkczocen.shop^
 ||kkminer.top^
 ||kks.encrypted.com^
@@ -7689,6 +7697,7 @@
 ||robinhoodgroupltd.com^
 ||roblox.com.py^
 ||roblox.et^
+||robloxceremony.com^
 ||robloxcheatz.com^
 ||robloxnewsnetwork.com^
 ||robochain.pro^
