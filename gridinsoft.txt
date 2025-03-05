@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.061953.2025
+! Version: 03.05.063624.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 06:19:53 UTC 2025
+! Last modified: Wed Mar  5 06:36:24 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10157
+! Number of entries: 10161
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4893,6 +4893,7 @@
 ||jar.ru.com^
 ||jaraza.shop^
 ||javpay.net^
+||jaygoodsov.click^
 ||jaysranchhamden.online^
 ||jazzoni.com^
 ||jb.store.jp.com^
@@ -6193,6 +6194,7 @@
 ||monipoints.com^
 ||monlyx.com^
 ||monnromall.com^
+||mono-munchen.com^
 ||monofilsawali.top^
 ||monostarscope.com^
 ||monsteratalent.com^
@@ -6678,6 +6680,7 @@
 ||officialmaga.com^
 ||officialmagacoin.com^
 ||officialmagacoin.io^
+||officialspiderus.com^
 ||offresdespace24.com^
 ||ofklefkian.com^
 ||ofleak.netlify.app^
@@ -10034,6 +10037,7 @@
 ||yourselfirst.com^
 ||yourwebarmorsolutions.com^
 ||youtub.v23.buzz^
+||youtube-save.com^
 ||youtube85.com^
 ||youtubetomp3convert.com^
 ||youtubnow.co^
