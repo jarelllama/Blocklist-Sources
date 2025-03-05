@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.161945.2025
+! Version: 03.05.163800.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 16:19:45 UTC 2025
+! Last modified: Wed Mar  5 16:38:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10275
+! Number of entries: 10277
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -475,6 +475,7 @@
 ||akaregisteredtoypoodlepups.com^
 ||akilesh.hopto.org^
 ||akj.com^
+||akq92p.site^
 ||akumabox.com^
 ||akurat33.com^
 ||akusoli.com^
@@ -10130,6 +10131,7 @@
 ||yinghe.app^
 ||yinxing.info^
 ||yippypaws.com^
+||yiqwniz.com^
 ||yishyhu.com^
 ||ymcrypto.com^
 ||ynmufr.9l5lortoe.top^
