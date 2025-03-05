@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.144630.2025
+! Version: 03.05.145546.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 14:46:30 UTC 2025
+! Last modified: Wed Mar  5 14:55:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10258
+! Number of entries: 10262
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -981,6 +981,7 @@
 ||averagedadofficial.com^
 ||avianca.com^
 ||aviation.ancienne.forumactif.com^
+||avibust.com^
 ||avillioncapital.org^
 ||avirus.hu^
 ||avitechwin.co.in^
@@ -5448,6 +5449,7 @@
 ||likebargainsothers.world^
 ||lillaloom.com^
 ||lillianad.com^
+||lilyandlaurent-montreal.com^
 ||lilylove.com^
 ||lilyshop2020.com^
 ||limdex.capital.com^
@@ -5853,6 +5855,7 @@
 ||markhorcycles.com^
 ||markmaltman.shop^
 ||markminer.net^
+||markminer.top^
 ||markmorril.shop^
 ||markmunck.shop^
 ||markoutlet.shop^
@@ -6747,6 +6750,7 @@
 ||officialmagacoin.com^
 ||officialmagacoin.io^
 ||officialspiderus.com^
+||officialsvtshop.com^
 ||offresdespace24.com^
 ||ofklefkian.com^
 ||ofleak.netlify.app^
