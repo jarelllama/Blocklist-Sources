@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.234418.2025
+! Version: 03.05.235329.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 23:44:18 UTC 2025
+! Last modified: Wed Mar  5 23:53:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10464
+! Number of entries: 10468
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3441,6 +3441,7 @@
 ||eternas099-coin.com^
 ||eterni.click^
 ||etfiweb3.com^
+||ethaner.shop^
 ||etherealx.cn^
 ||ethereum-earning.com^
 ||ethereum.defi.vip^
@@ -6038,6 +6039,7 @@
 ||massimousdutti.shop^
 ||massive.recruitment.online^
 ||masteredgetrust.com^
+||masterfootballstore.org^
 ||masterfulart.homes^
 ||mastertalents.online^
 ||math2.online^
@@ -6517,6 +6519,7 @@
 ||mxpndpdnpnfu.shop^
 ||mxypqmwuvjpo.shop^
 ||my-expert100.com^
+||my-relais.com^
 ||my.bebes.com^
 ||my.commbank.com.au^
 ||my.deco.shop.com^
@@ -8216,6 +8219,7 @@
 ||securedspot.vip^
 ||securepayments.us^
 ||securitybulb360.co^
+||securityeducation.info^
 ||securolink.com^
 ||sedonainvestments.co.uk^
 ||seecomoffer.com^
