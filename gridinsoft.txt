@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.211036.2025
+! Version: 03.05.212405.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 21:10:36 UTC 2025
+! Last modified: Wed Mar  5 21:24:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10413
+! Number of entries: 10416
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1175,6 +1175,7 @@
 ||bervospace.com^
 ||besafetoday.top^
 ||beseenmarketing.online^
+||besellics.com^
 ||besstnews.info^
 ||bessyoupin.com^
 ||best-iptvreseller.com^
@@ -2828,6 +2829,7 @@
 ||defiexplained.net^
 ||defikv.com^
 ||defineyeri.net^
+||definico.org^
 ||defionline.pro^
 ||defiproducts.vip^
 ||defisaver.foundation.com^
@@ -8705,6 +8707,7 @@
 ||styvor.com^
 ||sub.pretty-fly4.net^
 ||subduedespana.com^
+||sublimemaison.com^
 ||subscribe.free.fr^
 ||subscribelg.my^
 ||suckbetg.online^
