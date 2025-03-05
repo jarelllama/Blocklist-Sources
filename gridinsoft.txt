@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.094242.2025
+! Version: 03.05.095204.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 09:42:42 UTC 2025
+! Last modified: Wed Mar  5 09:52:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10206
+! Number of entries: 10209
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4822,6 +4822,7 @@
 ||ioicity.mall.top^
 ||iomoio.com^
 ||ionmining.com^
+||ionshoj.shop^
 ||iopoq.click^
 ||iotexai.com^
 ||ip.hz.com^
@@ -7541,6 +7542,7 @@
 ||quintravance.com^
 ||qumqu.com^
 ||quvrmh.com^
+||qvc-earn.com^
 ||qvcfactory.com^
 ||qvion8.com^
 ||qviond.com^
@@ -8468,6 +8470,7 @@
 ||stocklogs.info^
 ||stockout.gr^
 ||stockresoluteprofx.com^
+||stocksfxtoptios.com^
 ||stockstrategytrade.com^
 ||stoigr.org^
 ||stoktrade.invest.com^
