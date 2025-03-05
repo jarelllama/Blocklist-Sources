@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.192415.2025
+! Version: 03.05.193413.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 19:24:15 UTC 2025
+! Last modified: Wed Mar  5 19:34:13 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10362
+! Number of entries: 10370
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2914,11 +2914,18 @@
 ||diajolys.com^
 ||diamantemcb.us^
 ||diamondjack.top^
+||dianemanderson.shop^
 ||dianemartinez.shop^
+||dianesturek.shop^
+||diannebrill.shop^
+||diannekapteijns.shop^
+||dianpuduoduo.shop^
 ||diaonm.com^
 ||dibitcoin.com^
 ||dickies.com.es^
+||dickiess.shop^
 ||dicksportingwholesale.com^
+||dicksportswholesale.shop^
 ||dickssportinggoodsholiday.com^
 ||dickssportinggoodsoutlets.shop^
 ||dickssportinggoodssoutlet.com^
@@ -5362,6 +5369,7 @@
 ||kryptovaultassets.com^
 ||ksda.online.org^
 ||ksxsg.com^
+||ktgsvqhdwsphb.shop^
 ||ktwallet02.com^
 ||ktxt.net^
 ||kuailuon.com^
