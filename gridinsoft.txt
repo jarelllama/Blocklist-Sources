@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.04.235626.2025
+! Version: 03.05.003208.2025
 ! Expires: 10 minutes
-! Last modified: Tue Mar  4 23:56:26 UTC 2025
+! Last modified: Wed Mar  5 00:32:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10078
+! Number of entries: 10081
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3804,6 +3804,7 @@
 ||freebnbgo.net^
 ||freebonusapp.com^
 ||freecebstar.top^
+||freedices.com^
 ||freedogecoinmining.com^
 ||freedomescapexcelerator.com^
 ||freefli.com^
@@ -3984,6 +3985,7 @@
 ||genwoleads.top^
 ||geographz.com^
 ||georgistoychev.shop^
+||geouscoura.com^
 ||geoxsdiscountshop.com^
 ||gequiltdesignsaqu.shop^
 ||germ4.com^
@@ -9794,6 +9796,7 @@
 ||wstatb.com^
 ||wsucm.store^
 ||wtcentral.com^
+||wtecno.com^
 ||wtemerityv.monster^
 ||wtgu.store^
 ||wuiasb.com^
