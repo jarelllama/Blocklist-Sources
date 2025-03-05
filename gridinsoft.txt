@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.043729.2025
+! Version: 03.05.044708.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 04:37:29 UTC 2025
+! Last modified: Wed Mar  5 04:47:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10111
+! Number of entries: 10120
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2585,6 +2585,8 @@
 ||d4iqpj8tqft8l.cloudfront.net^
 ||d6vn.com^
 ||daarklabsuplementos.com^
+||dabzl-store.com^
+||dachshunddelights.store^
 ||dadymall.com^
 ||daeuco.com^
 ||dagahna.fun^
@@ -2597,6 +2599,7 @@
 ||dailygivebacks.com^
 ||dailyjili10.club^
 ||dailyjili41.com^
+||dailypawparadise.store^
 ||dailytehillim.online^
 ||dailyuploads.net^
 ||dailyxjili16.com^
@@ -2653,7 +2656,9 @@
 ||daxtok.com^
 ||daydison.shop^
 ||daywint.com^
+||dbaxnkrecxzwdahr.shop^
 ||dbbjrhhn.guru^
+||dbcjcgmafecwcmhozmo.shop^
 ||dbespot.com^
 ||dbmsurvey.com^
 ||dbscig.com^
@@ -5131,11 +5136,13 @@
 ||kisuort.shop^
 ||kitcarik.com^
 ||kitchen.products.online^
+||kitchenkaperstop.shop^
 ||kitcollection.fun^
 ||kitcollection.monster^
 ||kitculture.store^
 ||kiterexchangez.click^
 ||kittycomfortstore.com^
+||kittypaws.shop^
 ||kittysonic.com^
 ||kivaai.com^
 ||kiwiown.co.nz^
@@ -5365,6 +5372,7 @@
 ||likebargainsothers.world^
 ||lillaloom.com^
 ||lillianad.com^
+||lilylove.com^
 ||lilyshop2020.com^
 ||limdex.capital.com^
 ||lime.elysia.47.tiiny.site^
@@ -8911,6 +8919,7 @@
 ||track.ptctt.com^
 ||track718.com^
 ||track718.us^
+||trackey.store^
 ||trackqsu.top^
 ||tracktooffrs.com^
 ||tractorreplacement.com^
