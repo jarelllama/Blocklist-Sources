@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.050836.2025
+! Version: 03.05.052233.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 05:08:36 UTC 2025
+! Last modified: Wed Mar  5 05:22:33 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10132
+! Number of entries: 10137
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -101,6 +101,7 @@
 ||247cryptotrade.net^
 ||24autopartsmaster.com^
 ||24finance.pro^
+||24globalsolution.com^
 ||24proleverage.com^
 ||24x7defi.com^
 ||24x7wpsupport.com^
@@ -1210,6 +1211,7 @@
 ||bexola.com^
 ||beyondprostate.com^
 ||beyondstandard.org^
+||bff123.vip^
 ||bgcdsd.shop^
 ||bgczz.com^
 ||bggbet.com^
@@ -2435,6 +2437,7 @@
 ||crynet2.top^
 ||cryochain.io^
 ||cryp22earn.com^
+||crypt0g.com^
 ||cryptallstars.online^
 ||cryptcrestltd.com^
 ||cryptex.to^
@@ -6520,6 +6523,7 @@
 ||ninjasapp.io^
 ||ninzamistry.com^
 ||niolic.com^
+||niopets.com^
 ||nira.id^
 ||nitrobet.club^
 ||nitronsignalmarket.com^
@@ -8441,6 +8445,7 @@
 ||stroyblock.online^
 ||strugdex.fun^
 ||strznow.com^
+||stt799.com^
 ||stubitaly.com^
 ||stuncreditfb.com^
 ||stupidus.top^
