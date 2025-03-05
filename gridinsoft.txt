@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.100151.2025
+! Version: 03.05.101443.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 10:01:51 UTC 2025
+! Last modified: Wed Mar  5 10:14:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10211
+! Number of entries: 10214
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2217,6 +2217,7 @@
 ||cohenxy.com^
 ||cohiba-a.com^
 ||coin-a.com^
+||coin-m.com^
 ||coin.a.com^
 ||coin.change.live^
 ||coin.go.in^
@@ -2873,6 +2874,7 @@
 ||dewsenergyconstruction.com^
 ||dex.trade.global^
 ||dexboss.io^
+||dexiainvestment.com^
 ||dexmask.pro^
 ||dexonar.com^
 ||dexzet.com^
@@ -4524,6 +4526,7 @@
 ||home.sunminingvip.com^
 ||home.wealthengine.link^
 ||homebaseinuk.com^
+||homebasestyles.com^
 ||homebasetrading.com^
 ||homebymeagency.com^
 ||homecleaners.online^
