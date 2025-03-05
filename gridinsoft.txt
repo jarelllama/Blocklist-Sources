@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.204930.2025
+! Version: 03.05.205838.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 20:49:30 UTC 2025
+! Last modified: Wed Mar  5 20:58:38 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10408
+! Number of entries: 10411
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5418,6 +5418,7 @@
 ||kwnoxmwkcxswxbz.shop^
 ||kxhs16.vip^
 ||kxw69.com^
+||kyananyc.com^
 ||kyleyperfetto.shop^
 ||kyniper.com^
 ||kyorescart.shop^
@@ -6916,6 +6917,7 @@
 ||omahabestdeals.com^
 ||omano-shopping.com^
 ||omashaur.com^
+||omdtion.com^
 ||ome1.vip^
 ||ometvporn.com^
 ||omgminer.vip^
@@ -9761,6 +9763,7 @@
 ||viralostore.com^
 ||vircloth.com^
 ||virtualgraceland.com^
+||virtualjoystick.net^
 ||virtueprimetrade.live^
 ||vishopee.com^
 ||vision-capitalvip.com^
