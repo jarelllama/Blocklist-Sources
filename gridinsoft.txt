@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.165148.2025
+! Version: 03.05.170123.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 16:51:48 UTC 2025
+! Last modified: Wed Mar  5 17:01:23 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10279
+! Number of entries: 10282
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3075,6 +3075,7 @@
 ||driftwrk.shop^
 ||dripcenters.com^
 ||dripfeets.com^
+||dripvaultz.com^
 ||driveridentifier.com^
 ||driverless.pro^
 ||driverpack.io^
@@ -3415,6 +3416,7 @@
 ||eurolife.info^
 ||europamundo.ink.com^
 ||european.sickfind.shop^
+||europebetting724.com^
 ||europharmacy.net^
 ||eurovs.com^
 ||euroyalexpress.com^
@@ -6982,6 +6984,7 @@
 ||p2btradehubx.info^
 ||paatoais.com^
 ||pabaue.com^
+||pablovevs.click^
 ||pabyly.com^
 ||pacau.store^
 ||packetshare.io^
