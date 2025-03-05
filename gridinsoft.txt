@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.055317.2025
+! Version: 03.05.060519.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 05:53:17 UTC 2025
+! Last modified: Wed Mar  5 06:05:19 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10148
+! Number of entries: 10154
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -373,6 +373,7 @@
 ||affirmgrowth.co^
 ||affjumbo.com^
 ||afnextrustfirm.top^
+||africa.csc-tw.one^
 ||afrigoldmines.com^
 ||afriqjmarbitrage.us^
 ||afrxbujefqao.shop^
@@ -3186,6 +3187,7 @@
 ||einhell.eusite.com^
 ||eirio.vip^
 ||ekbrick.com^
+||ekgco.store^
 ||elabd.online^
 ||eldercity.xyz^
 ||electric.bike.deal.online^
@@ -4645,6 +4647,7 @@
 ||hxsc.store^
 ||hxxokerase.fyi^
 ||hyderabadnyte.com^
+||hydralinks.cloud^
 ||hydrogry.com^
 ||hypebox-brand.com^
 ||hyperbit.biz^
@@ -4696,6 +4699,7 @@
 ||ikkmba.shop^
 ||iklktec.com^
 ||ilclawgroup.com^
+||ildikohutchinson.shop^
 ||ilikeauli.com^
 ||illuminati-newworldorder.com^
 ||illuminatitemplo.org^
@@ -5253,6 +5257,7 @@
 ||kxw69.com^
 ||kyniper.com^
 ||kyorescart.shop^
+||kyotino.com^
 ||l.qorder.com^
 ||l2-register.xyz^
 ||l3fnstrk.com^
@@ -6390,6 +6395,7 @@
 ||nc.ph.2974.zerads.com^
 ||ncard50.com^
 ||ncbofficielfr.com^
+||nch.club^
 ||ncvv.pro^
 ||ndamazon.com^
 ||ndclothing.toronto.com^
