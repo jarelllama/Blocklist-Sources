@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.175631.2025
+! Version: 03.05.181015.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 17:56:31 UTC 2025
+! Last modified: Wed Mar  5 18:10:15 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10306
+! Number of entries: 10315
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3045,6 +3045,7 @@
 ||doublayx.com^
 ||doubledeckertourbus.com^
 ||doublemintvip.org^
+||doughpresspro.shop^
 ||douhmkpujyueydykmk.shop^
 ||dowjones.vip.com^
 ||download.totaladblock.com^
@@ -4370,8 +4371,15 @@
 ||gwendolyngantt.com^
 ||gwrldtpnws3.xyz^
 ||gx.cuevana3.vip^
+||gyapqpohbhcohfjgtgft.shop^
 ||gymshark.outlet.shop^
+||gynshoe.shop^
+||gypcorufjxgvfgfjvyp.shop^
+||gyqknxdbvtuga.shop^
+||gyqnbcbekpkxz.shop^
 ||gzjmelectronic.com^
+||gzmjfahxtqwnytzmcaj.shop^
+||gzpjrsbnxprbjrydqe.shop^
 ||h01k.xyz^
 ||h5.aifeex.com^
 ||h5.amazonpd.club^
@@ -6694,6 +6702,7 @@
 ||norwichguidon.org^
 ||nosainteriors.com^
 ||nosso.online^
+||noteshopcoukjw.shop^
 ||nouert.com^
 ||nouvacrest.com^
 ||novabitinvestmentcenter.com^
