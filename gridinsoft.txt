@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.190138.2025
+! Version: 03.05.191349.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 19:01:38 UTC 2025
+! Last modified: Wed Mar  5 19:13:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10347
+! Number of entries: 10355
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4886,8 +4886,10 @@
 ||interflowlogistic.com^
 ||interiorautoacc.com^
 ||interlogistics.com.vn^
+||intermilzzt.shop^
 ||internhouse.online^
 ||interodigitalwork25.com^
+||interstore-eu.shop^
 ||intimocontenitivo.com^
 ||introtocrypto.xyz^
 ||invest.cryptonetworkspace.com^
@@ -5370,8 +5372,12 @@
 ||kunbestsk.best^
 ||kupid.ai^
 ||kurtastudio.com^
+||kw-fr.shop^
+||kwbgkwcneuax.shop^
+||kwhntd.shop^
 ||kwikpay.net^
 ||kwikpolz.site^
+||kwnoxmwkcxswxbz.shop^
 ||kxhs16.vip^
 ||kxw69.com^
 ||kyleyperfetto.shop^
@@ -5796,6 +5802,7 @@
 ||magic-lime.info^
 ||magic4you.nu^
 ||magicjili.tw^
+||magistella.co^
 ||magna-fx.com^
 ||magodxasxyzag.shop^
 ||mahadev.id.online^
@@ -6668,6 +6675,7 @@
 ||nimblebets.com^
 ||nimo0.info^
 ||ninabillingsley.shop^
+||ninacampagna.shop^
 ||ninascott.shop^
 ||ninebux.com^
 ||ninjasapp.io^
