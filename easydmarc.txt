@@ -594,7 +594,6 @@
 ||relianceretail.com^
 ||renewu.top^
 ||resellervoucher.com^
-||restorecord.com^
 ||reurl.cc^
 ||revo-document-support.involve.me^
 ||reward.ff.garena.com^
