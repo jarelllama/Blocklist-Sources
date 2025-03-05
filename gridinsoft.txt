@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.163800.2025
+! Version: 03.05.165148.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 16:38:00 UTC 2025
+! Last modified: Wed Mar  5 16:51:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10277
+! Number of entries: 10279
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2301,6 +2301,7 @@
 ||colorkid.net^
 ||colosseumdiroma.tickets.com^
 ||columbiapicturesaquaverse.com^
+||com-dir.info^
 ||com.513i.cfd^
 ||com.businesstrackyrbd.top^
 ||com.businesstrackyrbf.top^
@@ -4414,6 +4415,7 @@
 ||harvestcommunityunion.com^
 ||harvestmaxmachinery.com^
 ||harveylux.com^
+||hasgoodtools.com^
 ||hash.blue^
 ||hash.shiny.com^
 ||hashfactor.net^
