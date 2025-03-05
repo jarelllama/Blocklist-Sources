@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.053441.2025
+! Version: 03.05.054408.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 05:34:41 UTC 2025
+! Last modified: Wed Mar  5 05:44:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10141
+! Number of entries: 10145
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5527,6 +5527,7 @@
 ||lsmtoken.com^
 ||lssc.ltd^
 ||lswuuedxz.makeup^
+||ltc-exploit.com^
 ||ltc.mine.com^
 ||ltcautomining.com^
 ||ltcfree.cloud^
@@ -6382,6 +6383,7 @@
 ||navorem.com^
 ||navorex.com^
 ||navyunhanded.com^
+||nbgwo.com^
 ||nbysrhcvxzg.shop^
 ||nc.ph.2974.zerads.com^
 ||ncard50.com^
@@ -7188,6 +7190,7 @@
 ||prboost.io^
 ||precedings.shop^
 ||precisionbevel.com^
+||precisionbulletshop.com^
 ||prefabricated.homes.95590.bond^
 ||preferablyagicent.online.com^
 ||preferee.pharmacie.fr^
@@ -8804,6 +8807,7 @@
 ||tiendaslululemonmexico.com.mx^
 ||tiendassalomoncolombia.com.co^
 ||tiendawebonline.es^
+||tiffanies.fr^
 ||tiffanymart.online^
 ||tiffanymart.site^
 ||tigerbiokerc.com^
