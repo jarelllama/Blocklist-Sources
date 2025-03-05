@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.184134.2025
+! Version: 03.05.185159.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 18:41:34 UTC 2025
+! Last modified: Wed Mar  5 18:51:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10331
+! Number of entries: 10340
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2956,17 +2956,24 @@
 ||directoryofus.online^
 ||directseville.shop^
 ||direktori.online^
+||dirkcrans.shop^
+||dirkfricke.shop^
 ||dirol.netrol.com^
 ||dirpy.com^
+||dirtdevilhomecleaners.shop^
 ||dirtysexywives.com^
 ||dis.solitmc.com^
 ||disciplinen.com^
+||disciplineq.shop^
 ||discoplo.com^
 ||discount.area.com^
 ||discountamzn.com^
 ||discountanabolics.com^
 ||discounthero.org^
+||discountmart1993.shop^
+||discountshop-usa.shop^
 ||discountshypermarket.com^
+||discountsnorthface.shop^
 ||discoverprimedefi.com^
 ||discoverthebest.co^
 ||discoverymart.net^
@@ -5361,9 +5368,11 @@
 ||kwikpolz.site^
 ||kxhs16.vip^
 ||kxw69.com^
+||kyleyperfetto.shop^
 ||kyniper.com^
 ||kyorescart.shop^
 ||kyotino.com^
+||kypabumwcxjen.shop^
 ||l.qorder.com^
 ||l2-register.xyz^
 ||l3fnstrk.com^
