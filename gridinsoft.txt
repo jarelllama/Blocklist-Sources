@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.073336.2025
+! Version: 03.05.074309.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 07:33:36 UTC 2025
+! Last modified: Wed Mar  5 07:43:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10175
+! Number of entries: 10177
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -7519,6 +7519,7 @@
 ||quintravance.com^
 ||qumqu.com^
 ||quvrmh.com^
+||qvcfactory.com^
 ||qvion8.com^
 ||qviond.com^
 ||qvrmall.com^
@@ -8236,6 +8237,7 @@
 ||snrtrplant.com^
 ||snusitout.com^
 ||snydersfurniture.com^
+||so-moco.com^
 ||soankelle.vip^
 ||soc.proof.su^
 ||soccerballofficial.com^
