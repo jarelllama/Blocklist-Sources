@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.080250.2025
+! Version: 03.05.081639.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 08:02:50 UTC 2025
+! Last modified: Wed Mar  5 08:16:39 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10180
+! Number of entries: 10185
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -578,6 +578,7 @@
 ||alza.hu^
 ||am.usdenelx.com^
 ||amadershare.com^
+||amadoitsolutions.com^
 ||amalbio.shop^
 ||amaluckorder.cc^
 ||amalylegacy.com^
@@ -3089,6 +3090,7 @@
 ||duod03.com^
 ||duplicatem.com^
 ||dutchstorebv.nl^
+||duty-freeotopeni.net^
 ||dvancedco.biz^
 ||dvdsociety.shop^
 ||dwc-auth.dubaiairports.ae^
@@ -4778,6 +4780,7 @@
 ||inspirighty.com^
 ||instagramhackonline.com^
 ||install.protected.net^
+||instasave.xyz^
 ||instructime.com^
 ||intcyberlaw.com^
 ||intdomoinpartner.online^
@@ -9142,6 +9145,7 @@
 ||tt.tiktokmarketplace.online^
 ||ttaesthetic.com^
 ||ttescort.com^
+||ttfunkos.top^
 ||ttoeore.com^
 ||ttslot.com^
 ||ttslot01.com^
@@ -9518,6 +9522,7 @@
 ||vintagewholesalesupplyltd.com^
 ||vintory.ca^
 ||vinyljournals.com^
+||vinylsales.shop^
 ||violate.igrq.online^
 ||violetwindy.com^
 ||vioratricot.com^
