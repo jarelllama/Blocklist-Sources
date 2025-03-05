@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.215223.2025
+! Version: 03.05.220235.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 21:52:23 UTC 2025
+! Last modified: Wed Mar  5 22:02:35 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10436
+! Number of entries: 10445
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3952,6 +3952,7 @@
 ||ftx.global.site^
 ||fuckinyourcity.com^
 ||fudianbank.win^
+||fuelwineswholesalesf.shop^
 ||fuexweb.com^
 ||fuga.studios.com^
 ||fulenix.com^
@@ -3968,6 +3969,8 @@
 ||fundsretrievalpanel.com^
 ||fundxrecover.com^
 ||fungretail.shop^
+||funking.shop^
+||funkria.shop^
 ||funnel.peonlyshop.com^
 ||funninexchange.com^
 ||funtoball.com^
@@ -5353,6 +5356,8 @@
 ||knifebeststore.com^
 ||knighted.shop^
 ||knitleaf.com^
+||knitwearcentral.shop^
+||knmdzdvzkxngdgakyoh.shop^
 ||knoblatter.com^
 ||kobaltoutletstore.com^
 ||kobominer.site^
@@ -6699,6 +6704,7 @@
 ||nextglobalfxtrade.online^
 ||nextlevelpayments.online^
 ||nextmintlissz.shop^
+||nextpart.ai^
 ||nextshop.fun^
 ||nextultimatelo.shop^
 ||nextzoods.shop^
@@ -6720,6 +6726,8 @@
 ||nftfarm.online^
 ||nfwakawai.cz^
 ||ngn.goldvip68.com^
+||ngovkqpbegwynhtgys.shop^
+||ngryoebctypbhdh.shop^
 ||ngwprpfmsfobzwhv.shop^
 ||ngwytefnebsftsrk.shop^
 ||ngwzntmrycsptuher.shop^
@@ -7821,6 +7829,7 @@
 ||rebaritisimo.com^
 ||rebasedex.cloud^
 ||rebelsatoshi.com^
+||reboltstore.com^
 ||recaptcha.verify.9n.pages.dev^
 ||recaptchav2.com^
 ||recetasexpres.com^
