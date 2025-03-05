@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.214339.2025
+! Version: 03.05.215223.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 21:43:39 UTC 2025
+! Last modified: Wed Mar  5 21:52:23 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10430
+! Number of entries: 10436
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5373,6 +5373,8 @@
 ||korucc.com^
 ||kotaiproject.com^
 ||kotofanss.com^
+||koule.shop^
+||koushikshaw.shop^
 ||kpm.edu.my^
 ||kpmy556.cc^
 ||kqsbjroqfh.shop^
@@ -6718,6 +6720,9 @@
 ||nftfarm.online^
 ||nfwakawai.cz^
 ||ngn.goldvip68.com^
+||ngwprpfmsfobzwhv.shop^
+||ngwytefnebsftsrk.shop^
+||ngwzntmrycsptuher.shop^
 ||ngxuykauknbnzueqw.shop^
 ||nhbfqdvdwrbayopv.shop^
 ||nhcznjbdzu.shop^
@@ -6742,6 +6747,7 @@
 ||nimo0.info^
 ||ninabillingsley.shop^
 ||ninacampagna.shop^
+||ninadeniche.com^
 ||ninascott.shop^
 ||ninebux.com^
 ||ninjasapp.io^
