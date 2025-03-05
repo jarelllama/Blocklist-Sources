@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.170123.2025
+! Version: 03.05.171338.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 17:01:23 UTC 2025
+! Last modified: Wed Mar  5 17:13:38 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10282
+! Number of entries: 10287
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4726,6 +4726,7 @@
 ||iceriver.company^
 ||icocrypto.us^
 ||icominer.com^
+||iconamsterdam.com^
 ||iconicinternational.online^
 ||id184124.com^
 ||idatech.online^
@@ -8395,6 +8396,7 @@
 ||spacechems.com^
 ||spacecminec.com^
 ||spacecoinageminecryps.com^
+||spadelack.com^
 ||spagamia.com^
 ||spaindvs.com^
 ||spark.growth.online^
@@ -9010,6 +9012,7 @@
 ||top.plans.fr^
 ||top.sportinggoods.shop^
 ||top1social.com^
+||topagencyseo.com^
 ||topartmarket.pro^
 ||topbestrunner.shop^
 ||topdailyfanaticspips.com^
@@ -9254,6 +9257,7 @@
 ||turbogamesapk.com^
 ||turbotrade.online^
 ||turbotrump.info^
+||turrow-surveys.co.uk^
 ||tusheedrosep.net^
 ||tuuoi.shop^
 ||tuyoru.shop^
@@ -9632,6 +9636,7 @@
 ||viphookups.online^
 ||viprh.com^
 ||vipsshops.com^
+||vipsunglassesindia.com^
 ||viralityshop.online^
 ||viralostore.com^
 ||vircloth.com^
