@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.204009.2025
+! Version: 03.05.204930.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 20:40:09 UTC 2025
+! Last modified: Wed Mar  5 20:49:30 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10401
+! Number of entries: 10408
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -669,6 +669,7 @@
 ||angiechew.online^
 ||animalcourses.co.uk^
 ||animvip.com^
+||aniqsgym.com^
 ||ankr.top^
 ||annafieldshops.fr^
 ||anneraskin.shop^
@@ -3888,6 +3889,7 @@
 ||fpsconstructivos.contenedores.com^
 ||fpswiss.com^
 ||fqafq.shop^
+||fqdoqcdcnavjgnwrfvy.shop^
 ||fr.ldplayer.net^
 ||fr.pokepetshop.com^
 ||fr.tradingview.com^
@@ -3897,6 +3899,7 @@
 ||francejones.shop^
 ||francescamazzarella.shop^
 ||francinebourque.shop^
+||frankmancino.shop^
 ||fraudplatforms.com^
 ||frdl.io^
 ||free-bonk.com^
@@ -6678,11 +6681,15 @@
 ||nextcrypto.top^
 ||nextglobalfxtrade.online^
 ||nextlevelpayments.online^
+||nextmintlissz.shop^
 ||nextshop.fun^
+||nextultimatelo.shop^
+||nextzoods.shop^
 ||nexusaaso5kxt75bigvtixw63dot3mnthl3pwqxg4d6tlj5yfqjuviid.online^
 ||nexusbitapp.com^
 ||nexushireway.online^
 ||nexustvonline.com^
+||neyfmartinez.shop^
 ||nfbu.store^
 ||nflix.workoffice.com^
 ||nfs.eletronica.dezembro.com^
