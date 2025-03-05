@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.212405.2025
+! Version: 03.05.213357.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 21:24:05 UTC 2025
+! Last modified: Wed Mar  5 21:33:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10416
+! Number of entries: 10423
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4244,6 +4244,9 @@
 ||glownuphy.shop^
 ||glowpast.com^
 ||glowpetitsechineuse.shop^
+||glowupt.shop^
+||glowvoguex.shop^
+||glowwestcocasly.shop^
 ||glowywill.com^
 ||glubit.shop^
 ||gmb1l.online^
@@ -5385,6 +5388,10 @@
 ||kremas.shop^
 ||kresbit.com^
 ||krestiveness.lol^
+||kristanconnolly.shop^
+||kristavendetti.shop^
+||kristenkohlmeyer.shop^
+||kristiechacon.shop^
 ||kristyjackson.shop^
 ||krnl.in^
 ||krofinanceltd.org^
