@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.202924.2025
+! Version: 03.05.204009.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 20:29:24 UTC 2025
+! Last modified: Wed Mar  5 20:40:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10397
+! Number of entries: 10401
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4164,6 +4164,7 @@
 ||giftshining.com^
 ||gifttowallet.com^
 ||giftvalidator.com^
+||giftyourmelody.com^
 ||gihsfilm.weebly.com^
 ||gillsagiv.shop^
 ||gimelove.com^
@@ -4252,6 +4253,7 @@
 ||goal11.love^
 ||goaplay.com^
 ||goapoachowoovol.net^
+||gobfxgnhrakpzqftnkpa.shop^
 ||goblinx.org^
 ||goboltllc.com^
 ||goddyusmall.com^
@@ -7365,6 +7367,7 @@
 ||popwork.net^
 ||pordora.com^
 ||porimaze.com^
+||porlaearning.com^
 ||pornmixer.org^
 ||pornshort.com^
 ||pornxp.quest^
@@ -9404,6 +9407,7 @@
 ||ub576.com^
 ||ubmfspecial.shop^
 ||ubrya.com^
+||ubsportal.com^
 ||ubxai.vip^
 ||uc.yomithane.ru^
 ||ucapsidop.info^
