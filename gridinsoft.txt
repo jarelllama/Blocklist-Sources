@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.081639.2025
+! Version: 03.05.083249.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 08:16:39 UTC 2025
+! Last modified: Wed Mar  5 08:32:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10185
+! Number of entries: 10187
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -982,6 +982,7 @@
 ||avrixdynamiservices.com^
 ||avyxo.com^
 ||awkngtv.org^
+||axi.com^
 ||axiora.xyz^
 ||axonfundstrade.com^
 ||axustroncapital.com^
@@ -2647,7 +2648,6 @@
 ||darkpick.com^
 ||darmavenue.com^
 ||darvtgwnfcb.shop^
-||dash.optimus.vip^
 ||dash.probits.cc^
 ||dash2trade.com^
 ||dashnex.plexusmarket.fund^
@@ -6843,6 +6843,7 @@
 ||optimumhackersrecovery.com^
 ||optimumoptiontrade.live^
 ||optimumsmax.com^
+||optimus.vip^
 ||optionstradeshub.com^
 ||optisynctrading.com^
 ||optnutritips.com^
@@ -9592,6 +9593,7 @@
 ||vovara.brisbane.com^
 ||voxis.site^
 ||vpnclix.com^
+||vrdworld.link^
 ||vseeboxtv.co^
 ||vseeboxtv.store^
 ||vtmarkets.net^
