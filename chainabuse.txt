@@ -3,9 +3,9 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.003207.2025
+! Version: 03.05.010016.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 00:32:07 UTC 2025
+! Last modified: Wed Mar  5 01:00:16 UTC 2025
 ! Syntax: Adblock Plus
 ! Number of entries: 232
 !

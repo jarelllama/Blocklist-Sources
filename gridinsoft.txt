@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.003208.2025
+! Version: 03.05.010017.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 00:32:08 UTC 2025
+! Last modified: Wed Mar  5 01:00:17 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10081
+! Number of entries: 10083
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6708,6 +6708,7 @@
 ||online.kukenas.top^
 ||online.marketing.degree.901935125.zone^
 ||online.qr.generator.com^
+||online.qyok.shop^
 ||online.retrievars.click^
 ||onlineapotheek24.nl^
 ||onlinebettingidprovider.co.in^
@@ -9333,6 +9334,7 @@
 ||vehiclevinstickers.com^
 ||velanora.nl^
 ||velantra.store^
+||velaraa.com^
 ||velari.nl^
 ||veldainty.com^
 ||velivyne.com^
