@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.191349.2025
+! Version: 03.05.192415.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 19:13:49 UTC 2025
+! Last modified: Wed Mar  5 19:24:15 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10355
+! Number of entries: 10362
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4313,6 +4313,12 @@
 ||gptexcelacademycl.com^
 ||gptgirlfriend.online^
 ||gpuking.org^
+||gpzwzgksyg.shop^
+||gqcdpnrzvev.shop^
+||gqjtevftqaqncpvzhqcw.shop^
+||gqumsotjzsdjrk.shop^
+||gqvybrndrpcuoab.shop^
+||grabio.store^
 ||grabpoints.com^
 ||graceiful.com^
 ||gradepips.com^
@@ -8950,6 +8956,7 @@
 ||thepiratebay3.org^
 ||thepreorderhub.com^
 ||theprimecapital.com^
+||theramed.store^
 ||therealworldjoin.co^
 ||theredlioncasino.com^
 ||therivieraofluck.site^
