@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.222914.2025
+! Version: 03.05.223957.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 22:29:14 UTC 2025
+! Last modified: Wed Mar  5 22:39:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10449
+! Number of entries: 10450
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1850,6 +1850,7 @@
 ||capitalix.com^
 ||capitalmanager.net^
 ||capitalmastery.org^
+||capitalprofithub.org^
 ||capitalquesttrades.com^
 ||capitalsprings.info^
 ||capitaltradestartlimited.com^
