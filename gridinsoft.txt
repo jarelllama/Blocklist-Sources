@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.232450.2025
+! Version: 03.05.233457.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 23:24:50 UTC 2025
+! Last modified: Wed Mar  5 23:34:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10462
+! Number of entries: 10464
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1923,6 +1923,7 @@
 ||castarsdk.com^
 ||castillotrade.net^
 ||castrovalvalimiteds.com^
+||casualoutdoors.httli.com^
 ||casvix.com^
 ||casvnm.com^
 ||cat-eu.sa.com^
@@ -7335,6 +7336,7 @@
 ||pinnacle.equitygroup.com^
 ||pinup.oyc.top^
 ||pionex.com^
+||piousress.com^
 ||pip4gains.com^
 ||pipbreakmarket.com^
 ||pippopet.store^
