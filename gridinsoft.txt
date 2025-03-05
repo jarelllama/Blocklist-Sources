@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.182617.2025
+! Version: 03.05.184134.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 18:26:17 UTC 2025
+! Last modified: Wed Mar  5 18:41:34 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10321
+! Number of entries: 10331
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2993,7 +2993,15 @@
 ||dmswebsolution.com^
 ||dmtcanada.ca^
 ||dmvideo.download^
+||dmwzxnuxvetxfsexhyoy.shop^
+||dmykrnaocd.shop^
+||dmzovqcnjd.shop^
 ||dnb.znin82.com^
+||dnbuxkrwfnvymf.shop^
+||dndemygqzvrymyhbhbfr.shop^
+||dnfkwc.shop^
+||dnfybuqgzvofhdav.shop^
+||dnjycf.shop^
 ||dnsdefender.xyz^
 ||dnswatch.info^
 ||doam.co.in^
@@ -6655,6 +6663,7 @@
 ||nitrobet.club^
 ||nitronsignalmarket.com^
 ||nixtrading.space^
+||njtepujarwdtd.shop^
 ||nkn.org^
 ||nknczkghugnwc.shop^
 ||nkninkqq.com^
@@ -9248,6 +9257,7 @@
 ||trustphin.com^
 ||trustpoin.pro^
 ||trustwallet.support.info^
+||truthfinder.com^
 ||truthsnow.shop^
 ||trx.cosanai.cc^
 ||trx.earning.pro^
