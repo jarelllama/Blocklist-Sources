@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.185159.2025
+! Version: 03.05.190138.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 18:51:59 UTC 2025
+! Last modified: Wed Mar  5 19:01:38 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10340
+! Number of entries: 10347
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -712,6 +712,7 @@
 ||apexcapltd.com^
 ||apexcoins.org^
 ||apexfep.com^
+||api.wavebrowser.co^
 ||apicddn.com^
 ||apkft.xyz^
 ||apkgod.net^
@@ -2396,6 +2397,7 @@
 ||costoconline.com^
 ||cosycustume.com^
 ||cotease.com^
+||cotemarche-store.com^
 ||cotizadorsoat.segurosdelestado.com^
 ||counterfeitcompany.com^
 ||coupangsell.com^
@@ -2935,9 +2937,12 @@
 ||digitalatif.com^
 ||digitalfinancemarketingpro.com^
 ||digitalfolio.online^
+||digitalgaugesandmeters.shop^
 ||digitalkeysoftware.com^
 ||digitallanguagevault.com^
 ||digitalolive.shop^
+||digitalrockport.shop^
+||digitalshopjustcozy.shop^
 ||digitalsmartone.online^
 ||digitalsultimate.com^
 ||digitalterra.org^
@@ -4117,6 +4122,7 @@
 ||gfgsdgkgk.com^
 ||gforeshoes.com^
 ||gfslsecurities.cc^
+||gftcoupdeal.com^
 ||ggaunile.vip^
 ||ggff.net^
 ||gggwg.online^
@@ -8106,6 +8112,7 @@
 ||securolink.com^
 ||sedonainvestments.co.uk^
 ||seecomoffer.com^
+||seed.wavebrowser.co^
 ||seedsfty.com^
 ||seedswanted.online^
 ||seekkey.store^
