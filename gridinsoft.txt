@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.194334.2025
+! Version: 03.05.195242.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 19:43:34 UTC 2025
+! Last modified: Wed Mar  5 19:52:42 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10378
+! Number of entries: 10384
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1010,6 +1010,7 @@
 ||aztekprimexchange.com^
 ||azurichbengalcats.com^
 ||azwvzoseutocvrw.shop^
+||azzlee.com^
 ||b2secops.co.uk^
 ||babyclothstore.xyz^
 ||babygoodsnest.store^
@@ -4280,9 +4281,13 @@
 ||goldstrategyvip.com^
 ||goldtrx.xyz^
 ||golfevip.shop^
+||golfsupershop.shop^
+||golfswinglab.store^
 ||golfwangdk.com^
 ||gomafrausa.com^
+||gomallz.shop^
 ||gomhero.com^
+||gominddrjudymorgan.shop^
 ||gominer.net^
 ||gomining.com^
 ||goneim.com^
@@ -5038,6 +5043,7 @@
 ||jeanne-pierre.com^
 ||jeanstorseaz.shop^
 ||jeatrice.shop^
+||jebsstrade.pro^
 ||jecnchcrleslamegarde.shop^
 ||jedogwectmtohfoksqvw.shop^
 ||jeeanx.shop^
