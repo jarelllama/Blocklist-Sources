@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.090642.2025
+! Version: 03.05.092049.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 09:06:42 UTC 2025
+! Last modified: Wed Mar  5 09:20:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10193
+! Number of entries: 10197
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4605,12 +4605,14 @@
 ||hptts.tealagarm.com^
 ||hqkvrsoywozj.shop^
 ||hraji.net^
+||hrarupdvkray.shop^
 ||hrbfcjqtgcekyzoymvaf.shop^
 ||hrbtpl.com^
 ||hrcmtujwnbtzarvqpe.shop^
 ||href.li^
 ||hrtai.vip^
 ||hrumer.ua^
+||hrxcpgtvgrcjoc.shop^
 ||hsaydnkspzwxmsvnof.shop^
 ||hsck.cc^
 ||hsghkvmhkr.shop^
@@ -6554,6 +6556,7 @@
 ||nilsenconsulting.io^
 ||nimblebets.com^
 ||nimo0.info^
+||ninabillingsley.shop^
 ||ninebux.com^
 ||ninjasapp.io^
 ||ninzamistry.com^
@@ -8922,6 +8925,7 @@
 ||toolspik.com^
 ||toolstationsale.com^
 ||toolstationuk.shop^
+||top-business-deals.com^
 ||top.plans.fr^
 ||top.sportinggoods.shop^
 ||top1social.com^

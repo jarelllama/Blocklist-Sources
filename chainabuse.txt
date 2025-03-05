@@ -3,17 +3,18 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.090641.2025
+! Version: 03.05.092048.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 09:06:41 UTC 2025
+! Last modified: Wed Mar  5 09:20:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 233
+! Number of entries: 238
 !
 ||app-coin.com^
 ||apps-trezor-bridge.gorgias.help^
 ||arablconrect.com^
 ||auth-public-trzor-cdn.gorgias.help^
 ||bahringar.cyou^
+||blockzeit.com^
 ||bnakarab.wixsite.com^
 ||brickelltrade-investment.com^
 ||cdn-trezo.github.io^
@@ -209,8 +210,11 @@
 ||mannta.xyz^
 ||mantlenetwork.co^
 ||marinadefinancesolana.com^
+||markbtc.com^
+||markminer.top^
 ||mbnutsstore.com^
 ||meek-sablesol.netlify.app^
+||menafn.com^
 ||metamask.io.merge.edesk.io^
 ||metamask.io.merge.kejari-halut.go.id^
 ||metamaskksuextension.webflow.io^
@@ -239,6 +243,7 @@
 ||trutle.club^
 ||vimsa.com.br^
 ||www.insyvp.top^
+||www.markminer.net^
 ||www.reddit.com^
 ||www.youtube.com^
 ||www.zorvexal.xyz^
