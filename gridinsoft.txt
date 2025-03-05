@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.123621.2025
+! Version: 03.05.125528.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 12:36:21 UTC 2025
+! Last modified: Wed Mar  5 12:55:28 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10242
+! Number of entries: 10244
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6651,6 +6651,7 @@
 ||nosainteriors.com^
 ||nosso.online^
 ||nouert.com^
+||nouvacrest.com^
 ||novabitinvestmentcenter.com^
 ||novachainlimited.com^
 ||novaprimeinvest.com^
@@ -7525,6 +7526,7 @@
 ||qokcc.com^
 ||qqawin.net^
 ||qqbit.net^
+||qqlsf.la-kopi.com^
 ||qr1.be^
 ||qrefuishz.monster^
 ||qruirseven.com^
