@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.052233.2025
+! Version: 03.05.053441.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 05:22:33 UTC 2025
+! Last modified: Wed Mar  5 05:34:41 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10137
+! Number of entries: 10141
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2188,6 +2188,7 @@
 ||co.financing.cc^
 ||coach.factoryoutletonline.com^
 ||coahinp.com^
+||coasthotelspromo.com^
 ||coastsale.shop^
 ||coasttshop.com^
 ||coatide.com^
@@ -5547,6 +5548,7 @@
 ||luckydrawgalore.com^
 ||luckypro.store^
 ||luckyvictoria.shop^
+||luckyvybz.top^
 ||luckywhalecasino.com^
 ||lucreziachierchia.shop^
 ||lucyduff.shop^
@@ -7147,6 +7149,7 @@
 ||polvfbks.info^
 ||polycoinsecurityexchange.vip^
 ||poo.com^
+||poolwebpool.shop^
 ||popmart.mx.com^
 ||popmartoficial.com^
 ||popmartonline.my.asia^
@@ -7438,6 +7441,7 @@
 ||qi38sksl.com^
 ||qifava.com^
 ||qigongexercise.com^
+||qimopu.com^
 ||qixub.stmaryjoseph.com^
 ||qlmavip.top^
 ||qlvzjmtg.inqku.cn^
