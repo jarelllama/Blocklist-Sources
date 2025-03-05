@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.155319.2025
+! Version: 03.05.160446.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 15:53:19 UTC 2025
+! Last modified: Wed Mar  5 16:04:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10269
+! Number of entries: 10274
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1406,6 +1406,7 @@
 ||bitperxio.com^
 ||bitprimepro.com^
 ||bitprogain.com^
+||bitpulsefx.net^
 ||bitquappst789.com^
 ||bitreclaim.com^
 ||bitrivescribe.com^
@@ -3020,6 +3021,7 @@
 ||doiquant.com^
 ||dolophin.com^
 ||dom.zalivov.sbs^
+||dombear.club^
 ||domestic-supply.com^
 ||domesticraws.com^
 ||dominatei.shop^
@@ -5152,6 +5154,7 @@
 ||kcex.com^
 ||kcexai.com^
 ||kdawe.com^
+||kebedo.com^
 ||kedaivgg.online^
 ||keenchile.net^
 ||keencn.com^
@@ -6519,6 +6522,7 @@
 ||neuratech.global^
 ||neuromatics.com^
 ||neversettleppc.com^
+||nevex.app^
 ||new11thstreet.online^
 ||newalking.com^
 ||newarrivalgee.com^
@@ -8842,6 +8846,7 @@
 ||thegoldentriangleice.com^
 ||thegoodguyssignup.com^
 ||theguisson.co.uk^
+||thegutdrops.com^
 ||thehairiva.com^
 ||thehalwayscrest.com^
 ||thehealthyfriday.com^
