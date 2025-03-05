@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.141041.2025
+! Version: 03.05.142457.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 14:10:41 UTC 2025
+! Last modified: Wed Mar  5 14:24:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10252
+! Number of entries: 10255
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2281,6 +2281,7 @@
 ||coinwbm.com^
 ||coinwck.com^
 ||coinwnto.com^
+||coinwookus.com^
 ||coinwyb.com^
 ||coldbit.net^
 ||coldcas.com^
@@ -3548,6 +3549,7 @@
 ||fashionsfriday.com^
 ||fashionworldcc.shop^
 ||fashioze.com^
+||fashlofty.com^
 ||fast.financial.com^
 ||fastbnbtobacscxo.shop^
 ||fastbrush.online^
@@ -7454,6 +7456,7 @@
 ||puregoodsfy.com^
 ||pureland.sbs^
 ||purestylesz.com^
+||purgerecoil.club^
 ||purovskynpz.com^
 ||purpects.com^
 ||purplepeony.sbs^
