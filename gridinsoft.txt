@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.131217.2025
+! Version: 03.05.132840.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 13:12:17 UTC 2025
+! Last modified: Wed Mar  5 13:28:40 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10246
+! Number of entries: 10247
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -7314,6 +7314,7 @@
 ||primewire.tf^
 ||primitivesystem.online^
 ||primuschemical.com^
+||prismecho.com^
 ||pristinedrivecarcare.com^
 ||privatebin.net^
 ||privatesportshop.fr^
