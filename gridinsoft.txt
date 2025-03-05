@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.092049.2025
+! Version: 03.05.093232.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 09:20:49 UTC 2025
+! Last modified: Wed Mar  5 09:32:32 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10197
+! Number of entries: 10204
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1576,6 +1576,7 @@
 ||bowtiehouse.us^
 ||box.polkitu.com^
 ||box24casino.com^
+||boxb6.shop^
 ||boyan-luxury.store^
 ||bpee.top^
 ||bphash.top^
@@ -4025,6 +4026,7 @@
 ||geoxsdiscountshop.com^
 ||gequiltdesignsaqu.shop^
 ||germ4.com^
+||get-bt.com^
 ||get-derila.com^
 ||get-trump.cc^
 ||get.activated.win^
@@ -6369,6 +6371,7 @@
 ||mysleepexperience.com^
 ||mysteryfooty.com^
 ||mysticstonesgallery.com^
+||mysupplements.store^
 ||mysurveycenters.com^
 ||myswiftlocation.com^
 ||mytradecoin.pro^
@@ -6557,6 +6560,7 @@
 ||nimblebets.com^
 ||nimo0.info^
 ||ninabillingsley.shop^
+||ninascott.shop^
 ||ninebux.com^
 ||ninjasapp.io^
 ||ninzamistry.com^
@@ -7347,6 +7351,7 @@
 ||protocolsafe.co.in^
 ||protoolbox.life^
 ||protork.info^
+||protradealliance.com^
 ||protradesafeapp.info^
 ||proupwholesale.com^
 ||proveedor.io^
@@ -7515,6 +7520,7 @@
 ||quantvine.net^
 ||quantvine.online^
 ||quantvinee.com^
+||quantvinees.vip^
 ||quantvines.top^
 ||quantwise.ai^
 ||quantyx.io^
@@ -8310,6 +8316,7 @@
 ||soulop.com^
 ||soundcoreindiawebsite.com^
 ||sourceas.com^
+||sourcedefense.com^
 ||sourl.cn^
 ||southafricalotto.co.za^
 ||sovereigngoldengate.com^
