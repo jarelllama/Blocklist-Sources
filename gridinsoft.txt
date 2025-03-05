@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.010017.2025
+! Version: 03.05.014056.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 01:00:17 UTC 2025
+! Last modified: Wed Mar  5 01:40:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10083
+! Number of entries: 10086
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2310,6 +2310,7 @@
 ||contactconsultingservices.com^
 ||contemplatingthedivine.com^
 ||contenedor-balosan.es^
+||contenedoreseuromai-sl.es^
 ||contestcraze.today^
 ||continental.invest.ltd^
 ||continueda.shop^
@@ -4727,6 +4728,7 @@
 ||insightdreams.online^
 ||insightflowmedia.com^
 ||inspectvehicle.co.uk^
+||inspectvin.com^
 ||inspectyourvin.com^
 ||inspirecollege.co.uk^
 ||inspirighty.com^
@@ -8112,6 +8114,7 @@
 ||slotsaces.net^
 ||slotstat.net^
 ||slott31.com^
+||slvane.com^
 ||smahealthbenefits.com^
 ||smaltun.com^
 ||smart.finances.org^
