@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.024434.2025
+! Version: 03.05.030453.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 02:44:34 UTC 2025
+! Last modified: Wed Mar  5 03:04:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10092
+! Number of entries: 10094
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6603,6 +6603,7 @@
 ||ocean.fx.investment.ltd^
 ||oceandri.com^
 ||oceangatemarket.com^
+||oceanos-meta.com^
 ||oceanprotocol2.life^
 ||oceanprotocol2.xyz^
 ||oceant.vip^
@@ -7979,6 +7980,7 @@
 ||shittt.store^
 ||shokexycexng.shop^
 ||shootloverstore.com^
+||shop-ify.top^
 ||shop-novara.com^
 ||shop-saver-now.com^
 ||shop.gamma.vip^
