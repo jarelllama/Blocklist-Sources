@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.142457.2025
+! Version: 03.05.143709.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 14:24:57 UTC 2025
+! Last modified: Wed Mar  5 14:37:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10255
+! Number of entries: 10258
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1580,6 +1580,7 @@
 ||boutique.amy.com^
 ||boutique.dispatche.com^
 ||bovada.lv^
+||bovlarit.com^
 ||bowscalessales.com^
 ||bowtiehouse.us^
 ||box.polkitu.com^
@@ -1646,6 +1647,7 @@
 ||brushbeacon.homes^
 ||brutescaler.com^
 ||brutus.xyz^
+||bruxera-fr.com^
 ||bruxera.es^
 ||brvipl.top^
 ||brvipl.xyz^
@@ -8581,6 +8583,7 @@
 ||sunbit.ren^
 ||sundararajanneurohospital.com^
 ||sundaura.us^
+||sunday-shop.online^
 ||sundial-funds.com^
 ||sunehladeal.com^
 ||sunnygo.co.uk^
