@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.145546.2025
+! Version: 03.05.150804.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 14:55:46 UTC 2025
+! Last modified: Wed Mar  5 15:08:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10262
+! Number of entries: 10264
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -712,6 +712,7 @@
 ||apexfep.com^
 ||apicddn.com^
 ||apkft.xyz^
+||apkgod.net^
 ||apkhihe.org^
 ||apkholes.com^
 ||apkhot.xyz^
@@ -6014,6 +6015,7 @@
 ||mednakit.com^
 ||medzguru.store^
 ||meerai.io^
+||mega-easy-prize.pro^
 ||mega.easy.prize.pro^
 ||megabybit.online^
 ||megaflix.co^
