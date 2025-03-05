@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.021440.2025
+! Version: 03.05.024434.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 02:14:40 UTC 2025
+! Last modified: Wed Mar  5 02:44:34 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10088
+! Number of entries: 10092
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -236,6 +236,7 @@
 ||a1b2c4.shop^
 ||a1mazon.com^
 ||a1wizardhackes.com^
+||a5markets.com^
 ||aalten.pics^
 ||aariatees.net^
 ||aattechnologies.net^
@@ -5215,6 +5216,7 @@
 ||kwikpolz.site^
 ||kxhs16.vip^
 ||kxw69.com^
+||kyniper.com^
 ||kyorescart.shop^
 ||l.qorder.com^
 ||l2-register.xyz^
@@ -7316,6 +7318,7 @@
 ||pulsesd.com^
 ||pumacolombia.net^
 ||pumacolombiaoutlet.com.co^
+||pumaenmexicomx.com^
 ||pummadiscounnt.com^
 ||punkoutfit.com^
 ||puntodeencuentroarte.com^
@@ -9141,6 +9144,7 @@
 ||ukflirtzone.com^
 ||ukhomebase.com^
 ||uksxmall.store^
+||ulikebike.com^
 ||ulmire.com^
 ||ultarfilterindia.com^
 ||ultimateexperttrade247.com^
