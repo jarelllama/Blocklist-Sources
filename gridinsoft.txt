@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.105058.2025
+! Version: 03.05.110020.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 10:50:58 UTC 2025
+! Last modified: Wed Mar  5 11:00:20 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10226
+! Number of entries: 10233
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -467,6 +467,7 @@
 ||aiyun689kuaile789aizai798.com^
 ||ajmirmart.com^
 ||ak.litaudrootsa.net^
+||ak.peelupsu.com^
 ||akaregisteredtoypoodlepups.com^
 ||akilesh.hopto.org^
 ||akj.com^
@@ -1679,6 +1680,7 @@
 ||btcpump.me^
 ||btctransferwallet.com^
 ||btcut.io^
+||btcvipotc.co^
 ||btcvipotc.com^
 ||btfxtraders.com^
 ||btgbtm.com^
@@ -3727,6 +3729,7 @@
 ||floattrust.com^
 ||flokisanta.christmas^
 ||flomac.shop^
+||floraboostde.com^
 ||florabswkrhaa.shop^
 ||floraltide.com^
 ||florenceclaussmann.shop^
@@ -4865,7 +4868,9 @@
 ||iris.tech.online^
 ||irisium.lat^
 ||irmahampton.shop^
+||irmalemartin.shop^
 ||irmastoner.shop^
+||irobot-eu.shop^
 ||iron-oil.com^
 ||ironchainbank.io^
 ||ironfx.com^
@@ -5200,6 +5205,7 @@
 ||kittypaws.shop^
 ||kittysonic.com^
 ||kivaai.com^
+||kivanet.com^
 ||kiwiown.co.nz^
 ||kixaikisuccessful.net^
 ||kjkjg.top^
@@ -8509,6 +8515,7 @@
 ||streakbullexperts.com^
 ||streakspin.com^
 ||streamworld.co^
+||streetdrape.com^
 ||streetfair.xyz^
 ||strengtheng.fr^
 ||streyker.shop^
