@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.125528.2025
+! Version: 03.05.131217.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 12:55:28 UTC 2025
+! Last modified: Wed Mar  5 13:12:17 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10244
+! Number of entries: 10246
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4111,6 +4111,7 @@
 ||girosdalegria.online^
 ||giuliadevos.shop^
 ||giulialisi.shop^
+||givalli-lifestyle.com^
 ||givemeanswers.net^
 ||givespacex.io^
 ||gizbocasino.com^
@@ -6773,6 +6774,7 @@
 ||olux.to^
 ||olx-ofertashoje.kesug.com^
 ||omahabestdeals.com^
+||omano-shopping.com^
 ||omashaur.com^
 ||ome1.vip^
 ||ometvporn.com^
