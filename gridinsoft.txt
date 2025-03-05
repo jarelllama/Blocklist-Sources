@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.224920.2025
+! Version: 03.05.225829.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 22:49:20 UTC 2025
+! Last modified: Wed Mar  5 22:58:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10453
+! Number of entries: 10457
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4865,6 +4865,7 @@
 ||immediatepump.com^
 ||immobiliere.royal.invest.com^
 ||imonthestereo.com^
+||importadosargentina.shop^
 ||importantstuff.online^
 ||importsky.com^
 ||improvementy.com^
@@ -5007,6 +5008,7 @@
 ||isabellebinagot.shop^
 ||ishomedepot.com^
 ||islanddluxe.top^
+||ismokvape.com^
 ||isozpn.com^
 ||isphcoin.com^
 ||ispoeti.com^
@@ -7447,6 +7449,7 @@
 ||precisionbevel.com^
 ||precisionbulletshop.com^
 ||prefabricated.homes.95590.bond^
+||prefchose.com^
 ||preferablyagicent.online.com^
 ||preferee.pharmacie.fr^
 ||premier.td.net^
@@ -8216,6 +8219,7 @@
 ||seekthatonline.com^
 ||seephotograp.top^
 ||sefnac.com^
+||sehub.top^
 ||seletar.mall.vip^
 ||self.love.shop.co.uk^
 ||sellingaccesorios.com^
