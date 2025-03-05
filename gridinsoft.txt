@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.181015.2025
+! Version: 03.05.182617.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 18:10:15 UTC 2025
+! Last modified: Wed Mar  5 18:26:17 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10315
+! Number of entries: 10321
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -895,6 +895,7 @@
 ||astroearning.com^
 ||astroearning.site^
 ||astropayminer.com^
+||astroswap.cc^
 ||asusboard.cn^
 ||asxhkxkbnvhapyvtuqr.shop^
 ||ataash.com^
@@ -4889,6 +4890,7 @@
 ||ip.hz.com^
 ||ipctd.online^
 ||ipfs.io^
+||ipivez.shop^
 ||iprimetv.store^
 ||ipscene.com^
 ||ipshows4k.site^
@@ -4915,7 +4917,9 @@
 ||iranfinance.info^
 ||ird.govt.nz^
 ||irembo.com^
+||irinancubreac.shop^
 ||iris.tech.online^
+||iriscruz.shop^
 ||irisium.lat^
 ||irmahampton.shop^
 ||irmalemartin.shop^
@@ -6652,7 +6656,9 @@
 ||nitronsignalmarket.com^
 ||nixtrading.space^
 ||nkn.org^
+||nknczkghugnwc.shop^
 ||nkninkqq.com^
+||nkogpkapwf.shop^
 ||nlcrents.com^
 ||nlelektronica.com^
 ||nlleenbakker.com^
