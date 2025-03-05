@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.223957.2025
+! Version: 03.05.224920.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 22:39:57 UTC 2025
+! Last modified: Wed Mar  5 22:49:20 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10450
+! Number of entries: 10453
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3442,6 +3442,7 @@
 ||ethereum-earning.com^
 ||ethereum.defi.vip^
 ||ethereum.smart.com^
+||ethervaultfusion.com^
 ||ethjpn.com^
 ||etncaxycontqnuo.shop^
 ||etoro66.vip^
@@ -8499,6 +8500,7 @@
 ||sofiahalbofanimeworld.blogspot.nl^
 ||sofiahalbofanimeworld.blogspot.ru^
 ||sofiajulieta.com^
+||sofold.store^
 ||softastrd.com^
 ||softgama.online^
 ||softontop.io^
@@ -9166,6 +9168,7 @@
 ||toolstationsale.com^
 ||toolstationuk.shop^
 ||top-business-deals.com^
+||top-mottic.com^
 ||top.plans.fr^
 ||top.sportinggoods.shop^
 ||top1social.com^
