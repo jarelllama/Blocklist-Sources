@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.173804.2025
+! Version: 03.05.174726.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 17:38:04 UTC 2025
+! Last modified: Wed Mar  5 17:47:26 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10291
+! Number of entries: 10300
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4500,13 +4500,21 @@
 ||heyderbid.com^
 ||heyfuckme.com^
 ||hftcd.top^
+||hgje.store^
+||hgtdfxjnbctekfwqcm.shop^
 ||hgtn.fun^
+||hgwadhqzotqfmrk.shop^
 ||hh.click.com^
+||hhentai.shop^
+||hhfdw.shop^
 ||hianime.nz^
 ||hianime.to^
 ||hiarian.com^
 ||hiddnarchive.com^
 ||hidollshop.top^
+||hifomn.shop^
+||high-endluxurybags.shop^
+||highastmpost.shop^
 ||highgradeglobal.com^
 ||highhillfurniture.com^
 ||highspot1.com^
@@ -6688,6 +6696,7 @@
 ||novaspire.live^
 ||novaxmetals.com^
 ||novazone53.top^
+||noveltystyle.store^
 ||noveraxcapital.com^
 ||now23support.com^
 ||nowbeautyclub.com^
