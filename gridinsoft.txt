@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.201610.2025
+! Version: 03.05.202924.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 20:16:10 UTC 2025
+! Last modified: Wed Mar  5 20:29:24 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10390
+! Number of entries: 10397
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3920,6 +3920,7 @@
 ||freelancerpayout.com^
 ||freelibrary.ru^
 ||freemovies.net^
+||freepureespritpadelshop.shop^
 ||freerangesupplements.com^
 ||freesamplesprousa.com^
 ||freescanonline.com^
@@ -5376,6 +5377,7 @@
 ||kremas.shop^
 ||kresbit.com^
 ||krestiveness.lol^
+||kristyjackson.shop^
 ||krnl.in^
 ||krofinanceltd.org^
 ||krossify.com^
@@ -6267,6 +6269,7 @@
 ||minskwealthgroup.com^
 ||mintooshop.com^
 ||mintplace.club^
+||mintplazza.net^
 ||mipng.com^
 ||mirabelless.com^
 ||miracleorganics.online^
@@ -6694,8 +6697,12 @@
 ||nicebai.com^
 ||nicedelicate.com^
 ||nicevps.net^
+||nickibradley.shop^
 ||nickspizzasubs.com^
+||nicktol.shop^
+||niclaperuzza.shop^
 ||nicliquid.com^
+||nicohernandez.shop^
 ||nicolcssubreville.shop^
 ||nicolemary.shop^
 ||niduf.com^
