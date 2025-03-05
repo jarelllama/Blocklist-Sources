@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.193413.2025
+! Version: 03.05.194334.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 19:34:13 UTC 2025
+! Last modified: Wed Mar  5 19:43:34 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10370
+! Number of entries: 10378
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2906,8 +2906,14 @@
 ||dezynservices.com^
 ||dfi00dcub57gcevs69yg.com^
 ||dfiplus.com^
+||dfpfth.shop^
+||dfpjyqkzvngtepn.shop^
 ||dfr.corp.com^
 ||dfrtgb.net^
+||dfsrkdzqkdehxvdrvmk.shop^
+||dfugxdqumpmkdxybaurn.shop^
+||dgadhsauhwtaw.shop^
+||dgbgr.shop^
 ||dgenct.com^
 ||dghv.store^
 ||dhlmall.vip^
@@ -4284,6 +4290,7 @@
 ||goo.su^
 ||good2025.vip^
 ||goodcasino.ph^
+||goodguitarbrothersz.shop^
 ||goodonee.com^
 ||goodoutweighs.top^
 ||goodserchez.com^
@@ -6680,6 +6687,7 @@
 ||nickspizzasubs.com^
 ||nicliquid.com^
 ||nicolcssubreville.shop^
+||nicolemary.shop^
 ||niduf.com^
 ||niffyhub.com^
 ||nightbux.com^
