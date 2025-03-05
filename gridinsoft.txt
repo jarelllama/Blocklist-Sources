@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.153357.2025
+! Version: 03.05.154402.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 15:33:57 UTC 2025
+! Last modified: Wed Mar  5 15:44:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10265
+! Number of entries: 10267
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3039,6 +3039,7 @@
 ||doubledeckertourbus.com^
 ||doublemintvip.org^
 ||dowjones.vip.com^
+||download.totaladblock.com^
 ||download.wondershare.net^
 ||download2.douploads.com^
 ||downloadfiles.link^
@@ -9357,6 +9358,7 @@
 ||unltee.com^
 ||unnatijobs.com^
 ||unnatitoys.com^
+||unoredit.com^
 ||unsold2024.com^
 ||unusualaccountrestricted72.github.io^
 ||unvaulted.coomer.party^
