@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.200254.2025
+! Version: 03.05.201610.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 20:02:54 UTC 2025
+! Last modified: Wed Mar  5 20:16:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10387
+! Number of entries: 10390
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1767,6 +1767,7 @@
 ||buyseven.store^
 ||buysoma.online^
 ||buystoresmm.com^
+||buythefollows.com^
 ||buythepencil.com^
 ||buyweedonlineinusa.shop^
 ||buywhite.store^
@@ -4014,6 +4015,7 @@
 ||gadcet.london^
 ||gadgetech.in^
 ||gaga.pe^
+||gailgpt.com^
 ||gainrbx.com^
 ||galabix.com^
 ||galacvy.com^
@@ -9854,6 +9856,7 @@
 ||wayfair.mall.cc^
 ||wayfairclearance.online^
 ||wayfairv.shop^
+||wayofwade.nz^
 ||wb-digital.com^
 ||wbocash.online^
 ||wck37.top^
