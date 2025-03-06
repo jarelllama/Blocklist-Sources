@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.111108.2025
+! Version: 03.06.112250.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 11:11:08 UTC 2025
+! Last modified: Thu Mar  6 11:22:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10641
+! Number of entries: 10644
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -7445,6 +7445,7 @@
 ||petermillarsale.shop^
 ||petiteridiony.com^
 ||petorugs.com^
+||petroleumuniverse.com^
 ||petroluxxterminal.com^
 ||petronordstorage.nl^
 ||petusmart.shop^
@@ -7577,6 +7578,7 @@
 ||pornshort.com^
 ||pornxp.quest^
 ||portal.hitechgloballtd.online^
+||portal.ovb.es^
 ||portal.worldbusinesspay.com^
 ||portaldedicasonline.com^
 ||porteparis.com^
@@ -8406,6 +8408,7 @@
 ||seo-acadia.com^
 ||seokore.com^
 ||sepholormophi.com^
+||sepuhtoto.info^
 ||seraflair.com^
 ||serbet.top^
 ||serenbrisk.com^
