@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.090517.2025
+! Version: 03.06.091906.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 09:05:17 UTC 2025
+! Last modified: Thu Mar  6 09:19:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10581
+! Number of entries: 10587
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6412,15 +6412,20 @@
 ||mitra-shipping.top^
 ||mitsoku.com^
 ||mittenes.shop^
+||miumbrightonbeautysfupply.shop^
 ||miva.live^
 ||mivovaa.shop^
+||mixabaid.shop^
 ||mixerusdt.com^
 ||mixloco.com^
 ||mixtsp.com^
+||miyafreeman.shop^
 ||mizaway.com^
 ||mizunomexicooutlet.com.mx^
 ||mizunomx.com.mx^
 ||mizunos.com.mx^
+||mjaokfomutdotbr.shop^
+||mjckphkghyfoyqm.shop^
 ||mjir.shop^
 ||mjkkj8trk.com^
 ||mk-careers.com^
@@ -6900,6 +6905,7 @@
 ||nodepay.ai^
 ||nodess.pages.dev^
 ||noirvere.com^
+||nole-cosmetics.nl^
 ||nolitex.com^
 ||noluva.co^
 ||nomadedigital.me^
