@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.123313.2025
+! Version: 03.06.125320.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 12:33:13 UTC 2025
+! Last modified: Thu Mar  6 12:53:20 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10658
+! Number of entries: 10659
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -8341,6 +8341,7 @@
 ||sce-max.app^
 ||scholar.achiever.xyz^
 ||scholarz.org^
+||sciabrappa.pro^
 ||sciatica.massage.16.online^
 ||sciaticnerve.treatment.16.online^
 ||sclongteng.com^
