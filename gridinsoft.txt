@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.195958.2025
+! Version: 03.06.201250.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 19:59:58 UTC 2025
+! Last modified: Thu Mar  6 20:12:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10786
+! Number of entries: 10790
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1910,6 +1910,7 @@
 ||carharttssvip.shop^
 ||carharttworkwear-sale.shop^
 ||caringalwayssupp.com^
+||carlightbulb.com^
 ||carlinkitmall.com^
 ||carloscornejoart.com^
 ||carlylepledge.com^
@@ -6759,6 +6760,7 @@
 ||my.deco.shop.com^
 ||my.fxmt.tech^
 ||myaccount.enigmasoftware.com^
+||myaccount.infinox.com^
 ||myalphanexus.com^
 ||myamericanprizes3.com^
 ||myassignmenthelp.com^
@@ -7068,6 +7070,7 @@
 ||nolitex.com^
 ||noluva.co^
 ||nomadedigital.me^
+||nomadhire.net^
 ||nomisite8.online^
 ||noosaboutique.com^
 ||noovelo.com^
@@ -9100,6 +9103,7 @@
 ||suppsforlife.to^
 ||supremehackers.net^
 ||suredafa.com^
+||surf-chat.org^
 ||surfapple.com^
 ||surfing777.online^
 ||surfingsunday.shop^
