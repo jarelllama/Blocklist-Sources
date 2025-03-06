@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.070736.2025
+! Version: 03.06.072141.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 07:07:36 UTC 2025
+! Last modified: Thu Mar  6 07:21:41 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10552
+! Number of entries: 10557
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4493,6 +4493,7 @@
 ||gzmjfahxtqwnytzmcaj.shop^
 ||gzpjrsbnxprbjrydqe.shop^
 ||h01k.xyz^
+||h4ck3rsunite.com^
 ||h5.aifeex.com^
 ||h5.amazonpd.club^
 ||h5.amengine.top^
@@ -4619,6 +4620,7 @@
 ||herotoyshop.com^
 ||herpesyls.click^
 ||hesamkianikhah.com^
+||hesenergy.ltd^
 ||hesgenetics.eu^
 ||heusom.com^
 ||heviluxy.store^
@@ -5726,6 +5728,7 @@
 ||logisticsfreights.com^
 ||logomagik.online^
 ||logsandcardsshop.com^
+||loibus.cc^
 ||lolasee.com^
 ||lolex.net^
 ||lomi.flow.com^
@@ -6331,9 +6334,11 @@
 ||miltonlogistic.com^
 ||milwakhouse.com^
 ||milwakusharetexa.com^
+||mimicstudio.store^
 ||mimosabarkhaven.com^
 ||minavip.top^
 ||minbtc.com^
+||mindbulletdesaignse.shop^
 ||mindgo.vip^
 ||mindhorizons.online^
 ||mindmetric.ai^
