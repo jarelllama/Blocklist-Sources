@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.084401.2025
+! Version: 03.06.085405.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 08:44:01 UTC 2025
+! Last modified: Thu Mar  6 08:54:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10568
+! Number of entries: 10574
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6366,7 +6366,9 @@
 ||minibitcoin.xyz^
 ||minibuzzy.online^
 ||minicowsranch.com^
+||minidachshundhappiness.shop^
 ||minigadget.in^
+||minikitchens.store^
 ||mining.online^
 ||mining.tether.com^
 ||mining189.com^
@@ -6374,7 +6376,9 @@
 ||miningpool.tech^
 ||miningsc.vip^
 ||mininvstplatform.com^
+||minisdreamerszp.shop^
 ||miniwashuk.com^
+||minixor.shop^
 ||minnetonkafrance.com^
 ||minoptraso.top^
 ||minotrasovestra.com^
@@ -6384,6 +6388,7 @@
 ||mintplace.club^
 ||mintplazza.net^
 ||mipng.com^
+||miraato.shop^
 ||mirabelless.com^
 ||miracleorganics.online^
 ||mirai123.online^
@@ -7312,6 +7317,7 @@
 ||pawsitivetraining.online^
 ||pay.hotmart.com^
 ||pay.risepay.com.br^
+||pay.yuki94533.win^
 ||paybaz.com^
 ||paybito.com^
 ||paybitopro.com^
