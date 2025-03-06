@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.203736.2025
+! Version: 03.06.204702.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 20:37:36 UTC 2025
+! Last modified: Thu Mar  6 20:47:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10793
+! Number of entries: 10796
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2620,6 +2620,7 @@
 ||cuadraoficial.shop^
 ||cuan66.co^
 ||cuantrading.com^
+||cuentafx.com^
 ||cueroreal.com^
 ||cuesandcases.com^
 ||cuevana2espanol.net^
@@ -3868,6 +3869,7 @@
 ||flibex.com^
 ||flightpath.vip.com^
 ||flightscanada.flycheapestonline.com^
+||flippyprice.com^
 ||flirt4free.com^
 ||flirtingplaza.com^
 ||flixbaba.com^
@@ -4500,6 +4502,7 @@
 ||gsoporific.monster^
 ||gtc.lol^
 ||gten956.vip^
+||gtkeys.com^
 ||gtkjean.com^
 ||gtmal.com^
 ||gtrewe.co.in^
