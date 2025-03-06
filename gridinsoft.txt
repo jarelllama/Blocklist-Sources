@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.053201.2025
+! Version: 03.06.054245.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 05:32:01 UTC 2025
+! Last modified: Thu Mar  6 05:42:45 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10516
+! Number of entries: 10521
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1705,6 +1705,7 @@
 ||btcut.io^
 ||btcvipotc.co^
 ||btcvipotc.com^
+||btex.shop^
 ||btfxtraders.com^
 ||btgbtm.com^
 ||btradescenter.com^
@@ -2969,6 +2970,7 @@
 ||digital.license.shop.com^
 ||digital.usdt.com^
 ||digitaladsverse.com^
+||digitalassetinvestmentltd.com^
 ||digitalatif.com^
 ||digitalfinancemarketingpro.com^
 ||digitalfolio.online^
@@ -5512,6 +5514,7 @@
 ||laoghen.com^
 ||lap136.78e2.xyz^
 ||laredt01.com^
+||larisamarina.shop^
 ||larkinashlandstylist.com^
 ||laronnistore.com^
 ||laroque.mode.com^
@@ -7271,6 +7274,7 @@
 ||pay.hotmart.com^
 ||pay.risepay.com.br^
 ||paybaz.com^
+||paybito.com^
 ||paybitopro.com^
 ||paygateway.lol^
 ||paymentprocessingzg.top^
@@ -9884,6 +9888,7 @@
 ||vivivs.com^
 ||viwew.click^
 ||vizivu.one^
+||vlivey.com^
 ||vnkmall.online^
 ||vntgvogue.com^
 ||vnzvietnam08.online^
