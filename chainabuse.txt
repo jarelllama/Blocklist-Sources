@@ -3,13 +3,15 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.063331.2025
+! Version: 03.06.063459.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 06:33:31 UTC 2025
+! Last modified: Thu Mar  6 06:34:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 268
+! Number of entries: 274
 !
 ||app-coin.com^
+||app-ibplaccess.com^
+||app.1incln-v2.app^
 ||apps-trezor-bridge.gorgias.help^
 ||arablconrect.com^
 ||auth-public-trzor-cdn.gorgias.help^
@@ -23,6 +25,7 @@
 ||cgypp.eu^
 ||chargebackiinternational.com^
 ||coinbasebackup-protect-upgrade.codeanyapp.com^
+||covpang.shop^
 ||cyrptowire.com^
 ||dappsresolverserver.pro^
 ||dexdeal.com^
@@ -252,6 +255,7 @@
 ||qtitzon.cfd^
 ||qzptor.collior.cfd^
 ||readyplayai.com^
+||refund.fo.loanexpress24.com^
 ||remixer-ethereums.org^
 ||rmmrealtoken-io.pages.dev^
 ||secore-trzorio-cdn.github.io^
@@ -262,11 +266,13 @@
 ||trezor-io-secure.gorgias.help^
 ||trustearnltd.com^
 ||trutle.club^
+||trzwrerz-start242.netlify.app^
 ||up.downser.cyou^
 ||uqnrbe.prdberg.cfd^
 ||usdcearn.site^
 ||vega.diecrich.cfd^
 ||vimsa.com.br^
+||www.coupangcenter.com^
 ||www.hbarfeast.com^
 ||www.hederarewards.app^
 ||www.insyvp.top^

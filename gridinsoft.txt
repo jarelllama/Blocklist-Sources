@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.063331.2025
+! Version: 03.06.063459.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 06:33:31 UTC 2025
+! Last modified: Thu Mar  6 06:34:59 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10538
+! Number of entries: 10540
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1805,6 +1805,7 @@
 ||byteepic.com^
 ||bytes.link.online^
 ||bytexcrypto.com^
+||bytropay.com^
 ||bzillion.club^
 ||bzmra.com^
 ||c-charge.io^
@@ -7958,6 +7959,7 @@
 ||remittix.io^
 ||remix.web3console.com^
 ||remixidi.com^
+||remotecybarrecovery.com^
 ||remoteworkerinternal.co^
 ||renatoribeirobmf.com.br^
 ||renmsuq.shop^
