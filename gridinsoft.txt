@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.172947.2025
+! Version: 03.06.174002.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 17:29:47 UTC 2025
+! Last modified: Thu Mar  6 17:40:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10699
+! Number of entries: 10706
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5841,7 +5841,11 @@
 ||ltcxminer.pro^
 ||ltetradingacademy.com^
 ||luatypticures.co.in^
+||luccheseboots.shop^
 ||lucckky.com^
+||luciamariggio.shop^
+||luciapalomba.shop^
+||lucidacepi.shop^
 ||lucindada.co.uk^
 ||luckizac.top^
 ||luckplasmaen.shop^
@@ -6433,6 +6437,8 @@
 ||miracleorganics.online^
 ||mirai123.online^
 ||miravia.es^
+||mirelbalteanu.shop^
+||mirellarebmartin.shop^
 ||miriamlomax.shop^
 ||mirthccasabcnne.shop^
 ||mischievousflirt.com^
@@ -7042,6 +7048,7 @@
 ||nswgame.com^
 ||nt.h5.com^
 ||nterd.xyz^
+||ntkjdk.shop^
 ||nubex.net^
 ||nubil.nl^
 ||nudecandyy.com^
