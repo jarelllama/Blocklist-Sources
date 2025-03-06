@@ -26,7 +26,7 @@ source_chainabuse() {
 
     # Scraping separate pages does not work
     curl -sSL --retry 2 --retry-all-errors "$source_url" \
-        | grep -Po "domain\":\"https?://\K${DOMAIN_REGEX}" > source_results.tmp
+        | grep -Po "domain\":\"(https?://)?\K${DOMAIN_REGEX}" > source_results.tmp
 }
 
 source_easydmarc() {
