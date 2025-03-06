@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.214941.2025
+! Version: 03.06.215843.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 21:49:41 UTC 2025
+! Last modified: Thu Mar  6 21:58:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10814
+! Number of entries: 10818
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3372,6 +3372,7 @@
 ||elluminex.com^
 ||elmoerc.com^
 ||elmordjene.fr^
+||elmordjene.shop^
 ||elonactivemarket.com^
 ||elonbet.com^
 ||elonearn.pro^
@@ -6102,6 +6103,7 @@
 ||marcusschipper.shop^
 ||margaretbennett.shop^
 ||margaretnelson.shop^
+||margarett.co.uk^
 ||margin.coins.space^
 ||mariabafia.shop^
 ||mariaidonia.shop^
@@ -7725,6 +7727,7 @@
 ||postmailer.pages.dev^
 ||postyourlife.com^
 ||potatobooks.com^
+||potholepete.com^
 ||potterybarnus.com^
 ||poudresdenarco.com^
 ||powerelixir.online^
@@ -10259,6 +10262,7 @@
 ||wavetune.shop^
 ||wavytalkza.store^
 ||wawacity.social^
+||wawnet.com^
 ||waxebet.com^
 ||waxx.network^
 ||way1.top^
