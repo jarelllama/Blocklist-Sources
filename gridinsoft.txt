@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.225512.2025
+! Version: 03.06.230717.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 22:55:12 UTC 2025
+! Last modified: Thu Mar  6 23:07:17 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10830
+! Number of entries: 10834
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2041,6 +2041,7 @@
 ||chainfun.click^
 ||chainmine.cloud^
 ||chainriseholdings.com^
+||chainworky.top^
 ||chalaorry.shop^
 ||championhygienesolutions.co.ke^
 ||champtradefx.live^
@@ -5247,6 +5248,7 @@
 ||jo-annfinalsale.com^
 ||jo-annonlinesale-us.com^
 ||jo-annsaleus.com^
+||joannfabricandcraftsale.com^
 ||joannla.com^
 ||joannofficialsale.com^
 ||joannoverstock.com^
@@ -5806,6 +5808,7 @@
 ||lixtrade.com^
 ||lizada-fashion.com^
 ||lizardlabshop.com^
+||ljekarna-osijek.com^
 ||ljmining.com^
 ||llbeanfactoryoutlets.shop^
 ||llbeanoutletsales.shop^
@@ -8333,6 +8336,7 @@
 ||roitronix.ltd^
 ||rojadirectatv.tv^
 ||rojadirectvonline.com^
+||roketstar.com^
 ||rokinat.co.in^
 ||rokusdt.com^
 ||rolexetf.site^
