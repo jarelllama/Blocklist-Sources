@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.120032.2025
+! Version: 03.06.121434.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 12:00:32 UTC 2025
+! Last modified: Thu Mar  6 12:14:34 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10653
+! Number of entries: 10656
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3239,6 +3239,7 @@
 ||easun.energy.com^
 ||easy.earn.org^
 ||easybtc.mining.com^
+||easybux.net^
 ||easycap.online^
 ||easycryptoblog.com^
 ||easygloballtd.com^
@@ -3385,6 +3386,7 @@
 ||enchantedcubes.com^
 ||enclarhealth.com^
 ||encomendas.importacao.online^
+||encounte.com^
 ||encryptiy.com^
 ||encuestapagada.es^
 ||endeavourmarketing.global.vip^
@@ -4739,6 +4741,7 @@
 ||host.hotel.com^
 ||hostackhomefurnishings.shop^
 ||hostoreonline.com^
+||hotalas.cc^
 ||hotbcaguba.cc^
 ||hotbcopupu.cc^
 ||hotbdorogo.cc^
