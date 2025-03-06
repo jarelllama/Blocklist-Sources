@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.040419.2025
+! Version: 03.06.041804.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 04:04:19 UTC 2025
+! Last modified: Thu Mar  6 04:18:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10491
+! Number of entries: 10496
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1399,6 +1399,7 @@
 ||bithub.bot^
 ||biticrypto.com^
 ||bitindicieskryptotrade.com^
+||bitkeepx.com^
 ||bitlabs.pro^
 ||bitlancecapitals.com^
 ||bitly.net^
@@ -4943,6 +4944,7 @@
 ||intcyberlaw.com^
 ||intdomoinpartner.online^
 ||integratedapps.tech^
+||intellectia.ai^
 ||intelligiencehub.com^
 ||intellignity.com^
 ||inter.entregas.online^
@@ -6247,6 +6249,7 @@
 ||mgdsbbd.com^
 ||mgiga2.com^
 ||miairobot.com^
+||michaeldunne.shop^
 ||michaelkorseu.shop^
 ||mickeliuiu.shop^
 ||micro.coin.ltd^
@@ -9169,6 +9172,7 @@
 ||tlpnb.com^
 ||tmallme.com^
 ||tme.st^
+||tmgmllc.cc^
 ||tmgmoo.com^
 ||tmtnft.com^
 ||tmtnft.xyz^
@@ -10264,6 +10268,7 @@
 ||xfcfo.com^
 ||xfnity.id8743.info^
 ||xfnwnw.com^
+||xfungoods.com^
 ||xgame.usdt.com^
 ||xhhmsc.shop^
 ||xilsen.com^
