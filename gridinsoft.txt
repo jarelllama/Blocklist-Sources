@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.232059.2025
+! Version: 03.06.233052.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 23:20:59 UTC 2025
+! Last modified: Thu Mar  6 23:30:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10836
+! Number of entries: 10841
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1152,6 +1152,7 @@
 ||beautyxfit.com^
 ||beazavnftojh.shop^
 ||bedonz.com^
+||bedspre.com^
 ||bedtige.top^
 ||bedtodream.com^
 ||beedermaus.com^
@@ -3002,6 +3003,7 @@
 ||differentgeneration.online^
 ||digestionscience.com^
 ||digibytecode.com^
+||digiffic-work.com^
 ||digifficproseo.cc^
 ||digigrownow.com^
 ||digihash.io^
@@ -8250,6 +8252,7 @@
 ||retropixellc.com^
 ||retrosowenian.shop^
 ||reupsupplies.com^
+||reus-research.com^
 ||reutermetriks.tech^
 ||revalationtradehubs.com^
 ||revanced.net^
@@ -8894,6 +8897,7 @@
 ||spaindvs.com^
 ||spark.growth.online^
 ||sparkflr.info^
+||sparksoon.com^
 ||spartanbusinesssystems.com^
 ||spatiumoutdoor.com^
 ||spctravelads.com^
@@ -10233,6 +10237,7 @@
 ||vx88.vx.com^
 ||vx8802.com^
 ||vx88t.com^
+||vygfragrances.com^
 ||vytsrd.com^
 ||w3.hexafiles.com^
 ||w3er.top^
