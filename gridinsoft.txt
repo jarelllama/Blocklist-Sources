@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.150508.2025
+! Version: 03.06.151840.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 15:05:08 UTC 2025
+! Last modified: Thu Mar  6 15:18:40 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10667
+! Number of entries: 10670
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3392,6 +3392,7 @@
 ||encomendas.importacao.online^
 ||encounte.com^
 ||encryptiy.com^
+||encuentroideal.es^
 ||encuestapagada.es^
 ||endeavourmarketing.global.vip^
 ||endrifle.com^
@@ -5039,6 +5040,7 @@
 ||ipshows4k.site^
 ||iptv-enligne.fr^
 ||iptv4d.com^
+||iptv4life.com^
 ||iptvexpert.pro^
 ||iptvgear.store^
 ||iptvharmony.net^
@@ -9627,6 +9629,7 @@
 ||tv-08.com^
 ||tv.08.com^
 ||tvlux.co^
+||tvmagnum.com^
 ||tvpanel.net^
 ||tvpass.org^
 ||tvreviews.online^
