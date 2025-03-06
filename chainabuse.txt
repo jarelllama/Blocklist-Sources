@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.060206.2025
+! Version: 03.06.061551.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 06:02:06 UTC 2025
+! Last modified: Thu Mar  6 06:15:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 263
+! Number of entries: 267
 !
 ||app-coin.com^
 ||apps-trezor-bridge.gorgias.help^
@@ -20,8 +20,10 @@
 ||bnakarab.wixsite.com^
 ||brickelltrade-investment.com^
 ||cdn-trezo.github.io^
+||cgypp.eu^
 ||chargebackiinternational.com^
 ||coinbasebackup-protect-upgrade.codeanyapp.com^
+||cyrptowire.com^
 ||dappsresolverserver.pro^
 ||dexdeal.com^
 ||docs.cdp.coinbase.com^
@@ -151,6 +153,7 @@
 ||houst-network.app-wallets.com^
 ||http-swaplolcatclub.pages.dev^
 ||huionedefi.net^
+||huluupay.com^
 ||hypealiqaid.com^
 ||hypednft-club.com^
 ||hyper-li-quid.com^
@@ -235,6 +238,7 @@
 ||metaweb.ink^
 ||methamaskloginiu.webflow.io^
 ||mint.chronforge.gg^
+||muzopayment.com^
 ||pagoant.com^
 ||pancakesvap.finance-v-wallet-connect.com^
 ||paxful.caampay.com^

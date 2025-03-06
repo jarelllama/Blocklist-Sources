@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.060207.2025
+! Version: 03.06.061551.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 06:02:07 UTC 2025
+! Last modified: Thu Mar  6 06:15:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10528
+! Number of entries: 10534
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1415,6 +1415,7 @@
 ||bitnest.me^
 ||bitnetx.cloud^
 ||bitomq.com^
+||bitpay.com^
 ||bitpaymentstore.com^
 ||bitpays.fun^
 ||bitperxio.com^
@@ -2254,6 +2255,7 @@
 ||cohiba-a.com^
 ||coin-a.com^
 ||coin-m.com^
+||coin-markets.com^
 ||coin-rely.com^
 ||coin.a.com^
 ||coin.change.live^
@@ -2289,6 +2291,7 @@
 ||coinomi.com^
 ||coinpace.io^
 ||coins.free.com^
+||coins.ph^
 ||coins.ro.com^
 ||coins.shade.com^
 ||coinsair.com^
@@ -3682,6 +3685,7 @@
 ||feenox.com^
 ||feetfansfrench.com^
 ||felguss.com^
+||felinefashionclothing.com^
 ||fenben.pro^
 ||fenevieve.shop^
 ||fennafashion.de^
@@ -3925,6 +3929,7 @@
 ||fra.grandado.com^
 ||fraganciapura.store^
 ||fragrancesrealms.com^
+||fragrancex.com^
 ||francejones.shop^
 ||francescamazzarella.shop^
 ||francinebourque.shop^
@@ -5528,6 +5533,7 @@
 ||lataminversion.com^
 ||latamnacionalestravel.com^
 ||latelyous.com^
+||latifasamouh.shop^
 ||latoken.com^
 ||lavinettecaplimited.com^
 ||lavishluck.net^
