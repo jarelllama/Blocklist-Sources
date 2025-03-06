@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.213101.2025
+! Version: 03.06.214018.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 21:31:01 UTC 2025
+! Last modified: Thu Mar  6 21:40:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10808
+! Number of entries: 10810
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1618,6 +1618,7 @@
 ||box.polkitu.com^
 ||box24casino.com^
 ||boxb6.shop^
+||boxitcontainers.com.au^
 ||boyan-luxury.store^
 ||bpee.top^
 ||bphash.top^
@@ -9442,6 +9443,7 @@
 ||tioctrically.com^
 ||tionoc.net^
 ||tipobet6474.com^
+||tirchat.com^
 ||tirexo.social^
 ||tistokmall.pro^
 ||tita.group.it.com^
