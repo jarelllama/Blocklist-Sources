@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.151840.2025
+! Version: 03.06.153105.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 15:18:40 UTC 2025
+! Last modified: Thu Mar  6 15:31:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10670
+! Number of entries: 10672
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5391,6 +5391,7 @@
 ||kinosotik.com^
 ||kiplar.net^
 ||kiproind.com^
+||kirakuco.com^
 ||kirillviktoriawedding.online^
 ||kirintpay.com^
 ||kishka.co^
@@ -10515,6 +10516,7 @@
 ||yepbit4.com^
 ||yetupstairsaccount.com^
 ||ygexchange.com^
+||yh-toronto.com^
 ||yieldboostinvests.com^
 ||yiffany.com^
 ||yilettt.shop^

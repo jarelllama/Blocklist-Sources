@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.151840.2025
+! Version: 03.06.153104.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 15:18:40 UTC 2025
+! Last modified: Thu Mar  6 15:31:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 304
+! Number of entries: 309
 !
 ||amlscore.app^
 ||app-coin.com^
@@ -209,6 +209,7 @@
 ||latexbit.com^
 ||launchpadi.xyz^
 ||launchpadxyz.trade^
+||learn-desktoptrezorsuite.webflow.io^
 ||ledger-support-live.pages.dev^
 ||ledger22.com^
 ||ledgerapplive.net^
@@ -284,11 +285,15 @@
 ||tokenlon.im^
 ||topexpay.com^
 ||trader.go-mt5trade.com^
+||treezerwaiilituss.webflow.io^
 ||trezor-io-secure.gorgias.help^
 ||trezor-io-start.webflow.io^
 ||trezor.vip^
+||trezoristrrt.webflow.io^
 ||trezorr-hrdwr-wllt.webflow.io^
+||trezswiasllt.webflow.io^
 ||trezzorewalletgrt.webflow.io^
+||trrejarrwallet.webflow.io^
 ||trustearnltd.com^
 ||trutle.club^
 ||trzwrerz-start242.netlify.app^
