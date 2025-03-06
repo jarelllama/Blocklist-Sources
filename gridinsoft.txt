@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.212224.2025
+! Version: 03.06.213101.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 21:22:24 UTC 2025
+! Last modified: Thu Mar  6 21:31:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10805
+! Number of entries: 10808
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3596,6 +3596,7 @@
 ||exotradepoint.com^
 ||exouous.com^
 ||expand.experts.com^
+||expert-max.live^
 ||expert.coinasset.com^
 ||expert.tech.org^
 ||expertcryptopremium.com^
@@ -4556,6 +4557,7 @@
 ||h5.hkfgcrypto.com^
 ||h5.koinexbit.com^
 ||h5.ownone.org^
+||h5.shakepay-pro.com^
 ||h5.visionaryaicinema.vip^
 ||h5.wltfund.com^
 ||h5.xtraexpro.com^
@@ -8789,6 +8791,7 @@
 ||snapcams.vc^
 ||snapsave.app^
 ||snatchstraps.com.au^
+||sneakersdistrict.co^
 ||sneakersfaclub.com^
 ||sniperbuisnesscenter.com^
 ||snjalltaeki.store^
