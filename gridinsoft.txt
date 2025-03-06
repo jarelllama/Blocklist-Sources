@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.055159.2025
+! Version: 03.06.060207.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 05:51:59 UTC 2025
+! Last modified: Thu Mar  6 06:02:07 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10524
+! Number of entries: 10528
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1695,6 +1695,7 @@
 ||btcminebot.com^
 ||btcminer.tech^
 ||btcminer.uk^
+||btcminerfarm.com^
 ||btcmir.com^
 ||btcocc.com^
 ||btcotcvip.net^
@@ -4298,6 +4299,7 @@
 ||goboltllc.com^
 ||goddyusmall.com^
 ||godisgreatshop.com^
+||gofeelamazing.com^
 ||goff-key.lol^
 ||gog.games.to^
 ||gogc.ge^
@@ -8896,6 +8898,7 @@
 ||swiftdebtassist.com^
 ||swiftfinverge.com^
 ||swiftpaytb.net^
+||swiftpromining.net^
 ||swiftradinginvestpro.com^
 ||swiftreturnexchange.com^
 ||swimcarnival.com^
@@ -8970,6 +8973,7 @@
 ||teachmecompliance.com^
 ||teaforteheaven.shop^
 ||teamindiatrust.info^
+||teamvalidus.com^
 ||teaserfast.ru^
 ||tech2sky.com^
 ||techbehemoths.cc^
