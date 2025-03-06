@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.195049.2025
+! Version: 03.06.195958.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 19:50:49 UTC 2025
+! Last modified: Thu Mar  6 19:59:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10781
+! Number of entries: 10786
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4006,6 +4006,7 @@
 ||freegamerob.xyz^
 ||freelancerpayout.com^
 ||freelibrary.ru^
+||freelyfemk.click^
 ||freemovies.net^
 ||freepureespritpadelshop.shop^
 ||freerangesupplements.com^
@@ -6828,8 +6829,11 @@
 ||natadler.com^
 ||natayark.us.kg^
 ||natchristiana.top^
+||nathankroll.shop^
 ||national.scam.helpline.org.uk^
 ||nationalcasinolp.com^
+||nationalpowwow.shop^
+||nationaltrees.shop^
 ||nationdistributor.com^
 ||natpet.com^
 ||naturaenutra.online^
@@ -9446,6 +9450,7 @@
 ||tngizt.energy.com^
 ||to.lk^
 ||tobysph.shop^
+||tochkex.com^
 ||tockexa.shop^
 ||toclearance.com^
 ||todays.superr.storre.shop^
