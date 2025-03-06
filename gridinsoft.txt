@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.164317.2025
+! Version: 03.06.165329.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 16:43:17 UTC 2025
+! Last modified: Thu Mar  6 16:53:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10682
+! Number of entries: 10685
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5212,6 +5212,7 @@
 ||jobetoys.com^
 ||jobforge.ca^
 ||jobmarketwatch.com^
+||jobsmood.xyz^
 ||jobwizp.top^
 ||joeyritchie.shop^
 ||jogostorrent.online^
@@ -5286,6 +5287,7 @@
 ||justinyourhead.online^
 ||justwatch.com^
 ||justynarompca.shop^
+||jutlite.shop^
 ||juttakarbach.shop^
 ||juuibv.com^
 ||jvault.xyz^
@@ -7613,6 +7615,7 @@
 ||postmailer.pages.dev^
 ||postyourlife.com^
 ||potatobooks.com^
+||potterybarnus.com^
 ||poudresdenarco.com^
 ||powerelixir.online^
 ||powerkit.fr^
