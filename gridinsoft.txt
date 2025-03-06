@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.095129.2025
+! Version: 03.06.100034.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 09:51:29 UTC 2025
+! Last modified: Thu Mar  6 10:00:34 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10608
+! Number of entries: 10612
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6454,12 +6454,15 @@
 ||mkzqxmkrkodvzhnx.shop^
 ||mlcniematare.shop^
 ||mlmarmy.net^
+||mlord.shop^
+||mlpijnenburg.shop^
 ||mlstrafnews.com^
 ||mltradepro.com^
 ||mm3digital.com^
 ||mmdbill.com^
 ||mmllarchitects.com^
 ||mmrtb.com^
+||mnaarden.shop^
 ||mncr.club^
 ||mnkecom.com^
 ||mo-abdul-hai.com^
@@ -8822,6 +8825,7 @@
 ||stenocarpustheft.shop^
 ||steparian.com^
 ||stepcurs.com^
+||stepmey.com^
 ||steredapharmacy.com^
 ||stermcommunity.com^
 ||steroidskaufen.com^
