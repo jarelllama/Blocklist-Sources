@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.174002.2025
+! Version: 03.06.174919.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 17:40:02 UTC 2025
+! Last modified: Thu Mar  6 17:49:19 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10706
+! Number of entries: 10712
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2993,6 +2993,7 @@
 ||digigrownow.com^
 ||digihash.io^
 ||digiqhub.com^
+||digirulers.com^
 ||digital-tool.online^
 ||digital.alaka.co^
 ||digital.license.shop.com^
@@ -6461,6 +6462,7 @@
 ||miva.live^
 ||mivovaa.shop^
 ||mixabaid.shop^
+||mixerlucrative.top^
 ||mixerusdt.com^
 ||mixloco.com^
 ||mixtsp.com^
@@ -7045,8 +7047,12 @@
 ||nrilimited.com^
 ||nrsa.in^
 ||nsbbi.com^
+||nsqfvkguyg.shop^
+||nsrxosdmwzcqvq.shop^
+||nsuopbtfwo.shop^
 ||nswgame.com^
 ||nt.h5.com^
+||ntcmo.store^
 ||nterd.xyz^
 ||ntkjdk.shop^
 ||nubex.net^
