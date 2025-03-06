@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.061551.2025
+! Version: 03.06.063331.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 06:15:51 UTC 2025
+! Last modified: Thu Mar  6 06:33:31 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10534
+! Number of entries: 10538
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -799,6 +799,7 @@
 ||arbitrage-ai-app.com^
 ||arbitronix.io^
 ||arbvault.com^
+||archerassetmanagement.org^
 ||arcmine.com^
 ||ardilu.com^
 ||aregalex.monster^
@@ -2310,6 +2311,7 @@
 ||coinwbga.com^
 ||coinwbm.com^
 ||coinwck.com^
+||coinwetalk.com^
 ||coinwnto.com^
 ||coinwookus.com^
 ||coinwyb.com^
@@ -2565,6 +2567,7 @@
 ||cryptosolutionsltd.org^
 ||cryptospin.vip^
 ||cryptotabfarm.com^
+||cryptotrustglobal.com^
 ||cryptouniverse.io^
 ||cryptowallet.cloud^
 ||cryptowin360.com^
@@ -4698,6 +4701,7 @@
 ||hometrendsdesign.top^
 ||hondapartshouse.com^
 ||honey.bee.iptv.com^
+||honeybalm.fr^
 ||honeyskin.online^
 ||hongruialliance.com^
 ||honorisland.com^
