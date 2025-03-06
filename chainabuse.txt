@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.223621.2025
+! Version: 03.06.224546.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 22:36:21 UTC 2025
+! Last modified: Thu Mar  6 22:45:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 322
+! Number of entries: 324
 !
 ||Get-shell.xyz^
 ||amlscore.app^
@@ -29,6 +29,7 @@
 ||cgypp.eu^
 ||chargebackiinternational.com^
 ||client.paxfultrading.com^
+||code-compiler.info^
 ||coinbasebackup-protect-upgrade.codeanyapp.com^
 ||covpang.shop^
 ||cyrptowire.com^
@@ -260,6 +261,7 @@
 ||muzopayment.com^
 ||pagoant.com^
 ||pancakesvap.finance-v-wallet-connect.com^
+||paste-code.info^
 ||paxful.caampay.com^
 ||paxfulpay.net^
 ||paxxdeals.netlify.app^
