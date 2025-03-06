@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.170418.2025
+! Version: 03.06.171723.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 17:04:18 UTC 2025
+! Last modified: Thu Mar  6 17:17:23 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10689
+! Number of entries: 10692
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -630,6 +630,7 @@
 ||amerswguhocvgudgbfm.shop^
 ||amgesic.com^
 ||amihood.com^
+||amilainnovations.com^
 ||aminafy.co^
 ||amirimexicos.com^
 ||amlbot.sbs^
@@ -2921,6 +2922,7 @@
 ||descubretesoro.com^
 ||desicinemas.to^
 ||desicribe.com^
+||desidealz.store^
 ||designaten.com^
 ||desipin.com^
 ||desirebells.com^
@@ -9781,6 +9783,7 @@
 ||uploadhaven.com^
 ||uploadmall.com^
 ||uponide.top^
+||upscaleminers.org^
 ||upshoparg.com^
 ||upstinatolos.com^
 ||upsurge-capital.org^
