@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.083219.2025
+! Version: 03.06.084401.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 08:32:19 UTC 2025
+! Last modified: Thu Mar  6 08:44:01 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10566
+! Number of entries: 10568
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6347,6 +6347,7 @@
 ||mindbulletdesaignse.shop^
 ||mindgo.vip^
 ||mindhorizons.online^
+||mindjugueterdiapoldyes.shop^
 ||mindmetric.ai^
 ||mindofpepe.com^
 ||mindreset.site^
@@ -6354,6 +6355,7 @@
 ||minepulse.top^
 ||minequartz.com^
 ||miner.com^
+||mineralop.shop^
 ||minersmarketsplace.com^
 ||minervabot.net^
 ||minervahacks.tech^
