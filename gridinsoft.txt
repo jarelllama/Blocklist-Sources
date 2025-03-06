@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.105016.2025
+! Version: 03.06.105915.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 10:50:16 UTC 2025
+! Last modified: Thu Mar  6 10:59:15 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10634
+! Number of entries: 10638
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3830,6 +3830,7 @@
 ||flexitr.cc^
 ||flexjobhubs.com^
 ||flexswiftways.online^
+||flexvibezx.com^
 ||flhtbill.com^
 ||flibex.com^
 ||flightpath.vip.com^
@@ -6504,8 +6505,11 @@
 ||modenest.com^
 ||modeoutm.shop^
 ||modernkitchenfaucets.shop^
+||modernrugsasnddecor.shop^
 ||modernsmarttech.com^
 ||modernwristwatches.shop^
+||modetrovay.shop^
+||modeuuxk.shop^
 ||modilimitado.com^
 ||modilimitado.io^
 ||modmountltd.com^
