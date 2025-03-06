@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.102837.2025
+! Version: 03.06.104056.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 10:28:37 UTC 2025
+! Last modified: Thu Mar  6 10:40:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10621
+! Number of entries: 10628
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6479,17 +6479,23 @@
 ||mobilecasino88.com^
 ||mobilephotokiosk.app^
 ||mobiles.co.uk^
+||mobilidumaiston.shop^
 ||mobiteamapp.com^
+||mobkxpxgzfrxjv.shop^
 ||mobofox.site^
+||mobpzmaxaugsnpchf.shop^
 ||moclicks.com^
 ||moda.milano.it^
 ||modacloaks.com^
+||modaful.shop^
 ||modapkokie.com^
+||modapuny.shop^
 ||modawrapz.com^
 ||moddys.watches.com^
 ||modefi4o.com^
 ||modeflair.com^
 ||modehouse.melbourne.com^
+||modelcarstore.shop^
 ||modelogisticsdelivery.com^
 ||modenest.com^
 ||modernsmarttech.com^
@@ -9071,6 +9077,7 @@
 ||techcertlabs.org^
 ||techdriveinc.online^
 ||techemporium.com.co^
+||techfarm.kesug.com^
 ||technozone.com.au^
 ||techsecurebase.com^
 ||techybullion.com^
