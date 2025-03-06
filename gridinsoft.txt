@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.003830.2025
+! Version: 03.06.010931.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 00:38:30 UTC 2025
+! Last modified: Thu Mar  6 01:09:31 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10476
+! Number of entries: 10478
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -439,6 +439,7 @@
 ||aimxecoin.com^
 ||aineel.com^
 ||ainewslive.online^
+||ainft.online^
 ||ainhoaredinsola.shop^
 ||ainiyiwann.com^
 ||ainology.com^
@@ -3277,6 +3278,7 @@
 ||eldercity.xyz^
 ||electric.bike.deal.online^
 ||electricgolfcartsusa.com^
+||electrogoclub.com^
 ||electronics.brand.com^
 ||eleganthush.com^
 ||elevatedstocktrade.com^
