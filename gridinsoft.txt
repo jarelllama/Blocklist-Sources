@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.193319.2025
+! Version: 03.06.194148.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 19:33:19 UTC 2025
+! Last modified: Thu Mar  6 19:41:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10766
+! Number of entries: 10774
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5732,6 +5732,7 @@
 ||linkr.it^
 ||linkresmi.airbet88.online^
 ||linkslot2025.com^
+||linksusanszhaew.shop^
 ||linktube.com^
 ||linkvertise.com^
 ||linkzip.uk^
@@ -5740,6 +5741,7 @@
 ||linxbucks.net^
 ||linxiangyun.com^
 ||linyimma.com^
+||lionelcabaud.shop^
 ||lionelo.shop^
 ||liotrade.com^
 ||lipozem.web.shop^
@@ -6154,6 +6156,7 @@
 ||maroyia.com^
 ||marperez.shop^
 ||marqjoy.com^
+||marriotedge.com^
 ||marseilleoff.shop^
 ||marsincfog.com^
 ||marthareisin.shop^
@@ -6837,7 +6840,9 @@
 ||navorem.com^
 ||navorex.com^
 ||navyunhanded.com^
+||nbfnuzbgto.shop^
 ||nbgwo.com^
+||nbmjkavkgh.shop^
 ||nbysrhcvxzg.shop^
 ||nc.ph.2974.zerads.com^
 ||ncard50.com^
@@ -7666,6 +7671,7 @@
 ||polpick.io^
 ||polvfbks.info^
 ||polycoinsecurityexchange.vip^
+||polysharpinvestmentslimited.com^
 ||poo.com^
 ||poolwebpool.shop^
 ||popmart.mx.com^
@@ -7735,6 +7741,7 @@
 ||pretiboiy.com^
 ||prettyright.com^
 ||pricepool88.com^
+||primacryptos.com^
 ||primaxoptions.com^
 ||prime-sports.in^
 ||prime.energie.france.com^
@@ -8299,6 +8306,7 @@
 ||romance.jakartainn.shop^
 ||rominance.com^
 ||romsfun.com^
+||romsfun.me^
 ||ronbo.buzz^
 ||rongshop.com^
 ||roofing.masters.bg.online^
