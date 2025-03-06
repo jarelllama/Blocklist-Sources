@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.184116.2025
+! Version: 03.06.185127.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 18:41:16 UTC 2025
+! Last modified: Thu Mar  6 18:51:27 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10729
+! Number of entries: 10732
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3872,6 +3872,7 @@
 ||flowermountainstore.shop^
 ||flowers4dallas.com^
 ||flowfaucet.online^
+||flowkiokoczz.shop^
 ||flowzapakda.top^
 ||flrdroplines.com^
 ||fluctz.xyz^
@@ -4989,6 +4990,7 @@
 ||innove.confort.com^
 ||innserong.shop^
 ||inr2usdt.com^
+||inrexzone.com^
 ||insads.net^
 ||insadspro.com^
 ||insidetraderalerts.com^
@@ -5219,6 +5221,7 @@
 ||jobetoys.com^
 ||jobforge.ca^
 ||jobmarketwatch.com^
+||jobpulse.eu^
 ||jobsmood.xyz^
 ||jobwizp.top^
 ||joeyritchie.shop^
