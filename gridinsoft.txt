@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.204702.2025
+! Version: 03.06.205614.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 20:47:02 UTC 2025
+! Last modified: Thu Mar  6 20:56:14 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10796
+! Number of entries: 10799
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2632,6 +2632,7 @@
 ||cupomdepix.online^
 ||cupvxu.com^
 ||curatidle.com^
+||curqual.com^
 ||cursomarderesina.online^
 ||cuslinyu.online^
 ||custinox.com^
@@ -4677,6 +4678,7 @@
 ||hevistoundocumental.com^
 ||hexa.watch^
 ||hexafiber.com^
+||hexavenue.com^
 ||hexminer.com^
 ||heyderbid.com^
 ||heyfuckme.com^
@@ -9312,6 +9314,7 @@
 ||thecobblerscraft.com^
 ||thecoinerylimited.com^
 ||thecryptobullrun.life^
+||thedenticore.com^
 ||thedollar.online^
 ||thedopestshopusa.com^
 ||theereadingclub.com^
