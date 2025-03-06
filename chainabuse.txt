@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.064557.2025
+! Version: 03.06.065525.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 06:45:57 UTC 2025
+! Last modified: Thu Mar  6 06:55:25 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 278
+! Number of entries: 284
 !
 ||app-coin.com^
 ||app-ibplaccess.com^
@@ -24,6 +24,7 @@
 ||cdn-trezo.github.io^
 ||cgypp.eu^
 ||chargebackiinternational.com^
+||client.paxfultrading.com^
 ||coinbasebackup-protect-upgrade.codeanyapp.com^
 ||covpang.shop^
 ||cyrptowire.com^
@@ -79,6 +80,7 @@
 ||ethmendam.com^
 ||eunitedcryptofx.com^
 ||ev-io.now.sh^
+||expressqpay.online^
 ||extrafireal.pages.dev^
 ||familybakery.xyz^
 ||fanefk.top^
@@ -164,6 +166,7 @@
 ||hyperliquid.how^
 ||hyperliquid.si^
 ||in.hillitecapital.com^
+||instanrad.com^
 ||io-trezor-us.gorgias.help^
 ||iserve.ae^
 ||jalen-presale.com^
@@ -249,6 +252,7 @@
 ||paxfulpay.net^
 ||paxxdeals.netlify.app^
 ||pb611810.wixsite.com^
+||pesspoint.com^
 ||phantom.com^
 ||portal-en-bridge.github.io^
 ||portal-trezo-docs.github.io^
@@ -274,6 +278,7 @@
 ||usdcearn.site^
 ||vega.diecrich.cfd^
 ||vimsa.com.br^
+||worldinstapay.online^
 ||www.coupangcenter.com^
 ||www.hbarfeast.com^
 ||www.hederarewards.app^
@@ -285,5 +290,6 @@
 ||www.reddit.com^
 ||www.topagencyppc.com^
 ||www.youtube.com^
+||www.zinowire.com^
 ||www.zorvexal.xyz^
 ||zcotak.prdberg.cfd^

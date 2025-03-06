@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.064558.2025
+! Version: 03.06.065526.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 06:45:58 UTC 2025
+! Last modified: Thu Mar  6 06:55:26 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10544
+! Number of entries: 10548
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2304,6 +2304,7 @@
 ||coinsprox.com^
 ||coinstacksinvests.com^
 ||coinswift.exchange^
+||cointiger.com^
 ||cointir.cc^
 ||cointmin.cc^
 ||cointradeexchange.asia^
@@ -2409,6 +2410,7 @@
 ||coretraderexp.com^
 ||corigc.top^
 ||corporalgaming.com^
+||corporate-mine.com^
 ||corra-capital.com^
 ||correosaaes.fit^
 ||corseplongeea.com^
@@ -3396,6 +3398,7 @@
 ||entiq.co^
 ||entreur.com^
 ||entrustify.co.in^
+||enufxf.com^
 ||enviosrastreios.online^
 ||enzabit.com^
 ||eobot.net^
@@ -3884,6 +3887,7 @@
 ||footjoysale.shop^
 ||forbiddenpant.com^
 ||fordeeal.shop^
+||forex-autotrades.com^
 ||forex.autotrades.com^
 ||forex.traders.cc^
 ||forexcrackedvip.com^
