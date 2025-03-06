@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.190042.2025
+! Version: 03.06.191239.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 19:00:42 UTC 2025
+! Last modified: Thu Mar  6 19:12:39 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10738
+! Number of entries: 10744
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3317,6 +3317,7 @@
 ||eirio.vip^
 ||ekbrick.com^
 ||ekgco.store^
+||ekokhabsronxo.shop^
 ||elabd.online^
 ||eldercity.xyz^
 ||electric.bike.deal.online^
@@ -5127,6 +5128,7 @@
 ||ivendart.com^
 ||ivermectin4all.com^
 ||ivordui.com^
+||iwepzf.shop^
 ||iyftv.org^
 ||iyilikler.online^
 ||j110s.xyz^
@@ -5763,6 +5765,8 @@
 ||lizardlabshop.com^
 ||ljmining.com^
 ||llbeanfactoryoutlets.shop^
+||llbeanoutletsales.shop^
+||llbenonlinesale.shop^
 ||lmhous.net^
 ||lmxx002.aspwyvsj.com^
 ||lmy.de^
@@ -6864,8 +6868,10 @@
 ||netfucks1.com^
 ||nethaless.com^
 ||netherexpro.com^
+||netlokomofrecund.shop^
 ||netreviewflix.com^
 ||netteknits.com^
+||nettkaufen.store^
 ||networkcycle.co.in^
 ||networkpartialchain.co.in^
 ||neuratech.global^
