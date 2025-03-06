@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.044454.2025
+! Version: 03.06.045358.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 04:44:54 UTC 2025
+! Last modified: Thu Mar  6 04:53:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10502
+! Number of entries: 10505
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4925,6 +4925,7 @@
 ||inginuity-time.com^
 ||inglesvip.top^
 ||ingprep.com^
+||innovativekitchens.shop^
 ||innovayours.store^
 ||innove.confort.com^
 ||innserong.shop^
@@ -5362,6 +5363,7 @@
 ||kivanet.com^
 ||kiwiown.co.nz^
 ||kixaikisuccessful.net^
+||kixify.com^
 ||kjkjg.top^
 ||kjrjzqjbjgvsnoefew.shop^
 ||kjsdh.com^
@@ -6586,6 +6588,7 @@
 ||mysupplements.store^
 ||mysurveycenters.com^
 ||myswiftlocation.com^
+||mysyntheticsfunds.com^
 ||mytradecoin.pro^
 ||mytraveldaddy.us^
 ||myvanomi.com^
