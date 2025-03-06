@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.105915.2025
+! Version: 03.06.111108.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 10:59:15 UTC 2025
+! Last modified: Thu Mar  6 11:11:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10638
+! Number of entries: 10641
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6510,10 +6510,13 @@
 ||modernwristwatches.shop^
 ||modetrovay.shop^
 ||modeuuxk.shop^
+||modgvhonsfkepwxph.shop^
 ||modilimitado.com^
 ||modilimitado.io^
+||modiloq.shop^
 ||modmountltd.com^
 ||modpenset.com^
+||modtixpillows.shop^
 ||modunls.shop^
 ||moefr3trk.com^
 ||mokshatravels.online^
