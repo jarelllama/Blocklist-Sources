@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.194148.2025
+! Version: 03.06.195049.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 19:41:48 UTC 2025
+! Last modified: Thu Mar  6 19:50:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10774
+! Number of entries: 10781
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2000,6 +2000,7 @@
 ||centercontact.top^
 ||centirides.com^
 ||central.bank.io^
+||centralplusfinance.com^
 ||centralpointvi.live^
 ||centralworldmall.org^
 ||centralworldmall.vip^
@@ -3455,6 +3456,7 @@
 ||equitradecf.com^
 ||equitradeciv.com^
 ||equitradezone.com^
+||equitynestpro.com^
 ||equitytrustbn.com^
 ||equitytrusttrading.com^
 ||eraw.top^
@@ -5728,6 +5730,7 @@
 ||linkgurd.online^
 ||linkjust.com^
 ||linkmcltogel3.org^
+||linknct.shop^
 ||linkperfeito.online^
 ||linkr.it^
 ||linkresmi.airbet88.online^
@@ -6837,9 +6840,12 @@
 ||nav43.global.com^
 ||naventtuss.com^
 ||naveskin.store^
+||navmdawvfsznvjbvuv.shop^
 ||navorem.com^
 ||navorex.com^
 ||navyunhanded.com^
+||nawympufrozr.shop^
+||nbdqumxhow.shop^
 ||nbfnuzbgto.shop^
 ||nbgwo.com^
 ||nbmjkavkgh.shop^
@@ -9799,6 +9805,7 @@
 ||ultimatefinance.co.in^
 ||ultiverseoption.com^
 ||ultracapitals.org^
+||ultrafroquix.store^
 ||ultraoption.online^
 ||ultrastockmarket.com^
 ||umamiicrate.store^
