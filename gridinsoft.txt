@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.015347.2025
+! Version: 03.06.022927.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 01:53:47 UTC 2025
+! Last modified: Thu Mar  6 02:29:27 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10479
+! Number of entries: 10484
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1771,6 +1771,7 @@
 ||buyseven.store^
 ||buysoma.online^
 ||buystoresmm.com^
+||buystudentbooks.com^
 ||buythefollows.com^
 ||buythepencil.com^
 ||buyweedonlineinusa.shop^
@@ -1870,6 +1871,7 @@
 ||carawex.com^
 ||carbage.online^
 ||carbondefi.cc^
+||cardhaven.fr^
 ||cardingcashout.com^
 ||cardiobalancedeutschland.com^
 ||cardmasparamiempresa.wuaze.com^
@@ -4580,6 +4582,7 @@
 ||her.wellness.online^
 ||herbelladay.com^
 ||hereford123.cc^
+||herehotpussies.com^
 ||heriqo.info^
 ||hermez4dx500.com^
 ||herolomyotoseum.co.in^
@@ -5295,6 +5298,7 @@
 ||kerasmining.me^
 ||kerasmining.one^
 ||keren138.vip.online^
+||kerenmutagimil.com^
 ||keruico.com^
 ||keruitegs.com^
 ||kesan888.com^
@@ -10307,6 +10311,7 @@
 ||xyzverse.io^
 ||y42coaxh.shop^
 ||yamitools.com^
+||yang-kang.myshoplaza.com^
 ||yangcong.info^
 ||yankeewarehouse.co^
 ||yanwosu.com^
