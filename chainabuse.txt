@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.063459.2025
+! Version: 03.06.064557.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 06:34:59 UTC 2025
+! Last modified: Thu Mar  6 06:45:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 274
+! Number of entries: 278
 !
 ||app-coin.com^
 ||app-ibplaccess.com^
@@ -246,6 +246,8 @@
 ||pagoant.com^
 ||pancakesvap.finance-v-wallet-connect.com^
 ||paxful.caampay.com^
+||paxfulpay.net^
+||paxxdeals.netlify.app^
 ||pb611810.wixsite.com^
 ||phantom.com^
 ||portal-en-bridge.github.io^
@@ -278,6 +280,8 @@
 ||www.insyvp.top^
 ||www.lynx-trading.org^
 ||www.markminer.net^
+||www.paraimpu.com^
+||www.plenerowe.com^
 ||www.reddit.com^
 ||www.topagencyppc.com^
 ||www.youtube.com^
