@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.065525.2025
+! Version: 03.06.070736.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 06:55:25 UTC 2025
+! Last modified: Thu Mar  6 07:07:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 284
+! Number of entries: 287
 !
 ||app-coin.com^
 ||app-ibplaccess.com^
@@ -85,6 +85,7 @@
 ||familybakery.xyz^
 ||fanefk.top^
 ||faq-treezor-cdn.github.io^
+||fastpayline.com^
 ||faucet.beracore-chain.com^
 ||fercadeappsrevs.lol^
 ||ff-exchange.at^
@@ -221,6 +222,7 @@
 ||locuscoin.com^
 ||luksosupport.sbs^
 ||luvasti.com^
+||m-logun-sso---ttrzor.webflow.io^
 ||m-pepeunchained.pages.dev^
 ||m.starxmarkets.cc^
 ||maetamaskloing.webflow.io^
@@ -269,6 +271,7 @@
 ||starship8.net^
 ||tinyurl.com^
 ||tokenlon.im^
+||topexpay.com^
 ||trezor-io-secure.gorgias.help^
 ||trustearnltd.com^
 ||trutle.club^

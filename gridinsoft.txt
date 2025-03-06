@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.065526.2025
+! Version: 03.06.070736.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 06:55:26 UTC 2025
+! Last modified: Thu Mar  6 07:07:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10548
+! Number of entries: 10552
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -379,6 +379,7 @@
 ||affiliatemarketlite.com^
 ||affirmgrowth.co^
 ||affjumbo.com^
+||afisha-gallery.com^
 ||afnextrustfirm.top^
 ||africa.csc-tw.one^
 ||afrigoldmines.com^
@@ -2617,6 +2618,7 @@
 ||curatidle.com^
 ||cursomarderesina.online^
 ||cuslinyu.online^
+||custinox.com^
 ||custodiafin.com^
 ||customer-form.top^
 ||customscool.com^
@@ -6319,6 +6321,7 @@
 ||mikage.online^
 ||mikeciavarra.shop^
 ||mikewatch6.com^
+||mikmi.shop^
 ||milana.mx^
 ||milenapowell.com^
 ||miles.london.com^
@@ -6600,6 +6603,7 @@
 ||myitems-handling.com^
 ||mykingdom.co^
 ||myloopfmine.com^
+||mymaia.ai^
 ||mymap.quest^
 ||mymentertainment.online^
 ||mymindwellness.co.uk^
