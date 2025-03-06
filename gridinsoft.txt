@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.215843.2025
+! Version: 03.06.221046.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 21:58:43 UTC 2025
+! Last modified: Thu Mar  6 22:10:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10818
+! Number of entries: 10821
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -815,6 +815,7 @@
 ||aremining.app^
 ||aremining.org^
 ||arenaoptionmining.com^
+||ares.tools^
 ||arfwatches.com^
 ||argogints.com^
 ||argonixhacktech.com^
@@ -6806,6 +6807,7 @@
 ||myplatform.top^
 ||mypremiumkitchens.com^
 ||myproteinvip.shop^
+||myqrcode.mobi^
 ||myrbcdevice.secure.com^
 ||myreminimod.com^
 ||myrewardslocker.com^
@@ -9683,6 +9685,7 @@
 ||trons.love^
 ||tronvortex.com^
 ||trophycase.cc^
+||trophyfxtrading.com^
 ||tropxlimited.live^
 ||troqainter.info^
 ||troyers.info^
