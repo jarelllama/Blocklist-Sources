@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.182714.2025
+! Version: 03.06.184116.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 18:27:14 UTC 2025
+! Last modified: Thu Mar  6 18:41:16 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10721
+! Number of entries: 10729
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3327,6 +3327,7 @@
 ||elevatedstocktrade.com^
 ||elevateminer.com^
 ||elineverhoye.shop^
+||elisabetnilsson.shop^
 ||elishine.us^
 ||elite-miners.net^
 ||elitecapitalgain.org^
@@ -3343,6 +3344,7 @@
 ||elitezone.online^
 ||elixotrade.com^
 ||elixrium.online^
+||elizcvetcvclrscn.shop^
 ||eljobhuntde.com^
 ||elkkoreainsurance.com^
 ||elkriverwealth.com^
@@ -5802,6 +5804,7 @@
 ||lorenamargaleff.com^
 ||lorunix.com^
 ||loryvel.com^
+||loslymall.shop^
 ||losthorizonoutdoorgear.shop^
 ||lotesycasaspro.online^
 ||lotrekdigitalmarketing.com^
@@ -5809,8 +5812,13 @@
 ||lottobet.online^
 ||lottochampweb.com^
 ||lotusgames777.online^
+||loucanavarri.shop^
 ||loueshop.com^
+||louisamach.shop^
+||louisao.shop^
 ||louislemonnier.com^
+||louisluxury2.shop^
+||louisthebaud.shop^
 ||lourdeswestleyhawk.org^
 ||louvalence.co^
 ||lovdomnotiallus.top^
