@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.160042.2025
+! Version: 03.06.161346.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 16:00:42 UTC 2025
+! Last modified: Thu Mar  6 16:13:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10676
+! Number of entries: 10679
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3447,6 +3447,7 @@
 ||ergotrainingproducts.com^
 ||erias.xyz^
 ||ericgarner.shop^
+||erich.ltd^
 ||erkulbicak.com^
 ||ermsty.com^
 ||errellseasonaldiscounts.shop^
@@ -9399,6 +9400,7 @@
 ||topointradehub.co^
 ||toppills.com^
 ||toppipoptions.online^
+||topplfire.com^
 ||topresultsquickly.com^
 ||topresultssearch.com^
 ||topsmanings.top^
@@ -10471,6 +10473,7 @@
 ||xpresswealthbnk.com^
 ||xpronlineoffertstore.com^
 ||xrpearner.us^
+||xrpearners.top^
 ||xrpofficial.reward.com^
 ||xrpwheel.com^
 ||xsdvdeal.store^
