@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.192309.2025
+! Version: 03.06.193234.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 19:23:09 UTC 2025
+! Last modified: Thu Mar  6 19:32:34 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10754
+! Number of entries: 10762
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4516,6 +4516,8 @@
 ||gukur.sbs^
 ||gulfofmexico.com^
 ||gunluksevilenkampanyalarsizlerle.online^
+||gupmepywkfdy.shop^
+||guqphnsphbgbq.shop^
 ||gurogroup.co^
 ||gusalio.com^
 ||gustmining.pro^
@@ -5745,6 +5747,11 @@
 ||lippizapatillaes.shop^
 ||liquidationpalletshub.top^
 ||liquidationstockeurope.com^
+||lisabarnard.shop^
+||lisachetrit.shop^
+||lisacline.shop^
+||lisaflohr.shop^
+||lisamagness.shop^
 ||lisandoo.com^
 ||listladder.com^
 ||litebix.com^
@@ -6844,6 +6851,7 @@
 ||nearriot.com^
 ||nebluscommercial.com^
 ||nebumine.com^
+||neckartr.shop^
 ||neckcaredevices.com^
 ||nectarskinus.com^
 ||nedvltd.com^
