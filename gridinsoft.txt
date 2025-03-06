@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.05.235329.2025
+! Version: 03.06.001648.2025
 ! Expires: 10 minutes
-! Last modified: Wed Mar  5 23:53:29 UTC 2025
+! Last modified: Thu Mar  6 00:16:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10468
+! Number of entries: 10473
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6177,6 +6177,7 @@
 ||meizhitoys.com^
 ||melaspin.com^
 ||melbet.india.net^
+||melhear.com^
 ||melunix.com^
 ||melutor.com^
 ||melvinya.com^
@@ -6969,6 +6970,7 @@
 ||omgminer.vip^
 ||omgprice10.cc^
 ||omirad.com^
+||omnis.online^
 ||omnis.trade.com^
 ||on-line-tk.top^
 ||on.mx.com^
@@ -7911,6 +7913,7 @@
 ||renrys.com^
 ||rensntbn.online^
 ||rentabay.shop^
+||renter.digital^
 ||rentvista.net^
 ||renuleads.com^
 ||renvara.com^
@@ -9057,6 +9060,7 @@
 ||thepreorderhub.com^
 ||theprimecapital.com^
 ||theramed.store^
+||therapyexpertrecovery.com^
 ||therealworldjoin.co^
 ||theredlioncasino.com^
 ||therivieraofluck.site^
@@ -9109,6 +9113,7 @@
 ||tiffanymart.online^
 ||tiffanymart.site^
 ||tigerbiokerc.com^
+||tikkafirearmsusa.com^
 ||tikmining.com^
 ||tiktok178.com^
 ||tiktokonline.cyou^
