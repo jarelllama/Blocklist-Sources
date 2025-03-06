@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.050540.2025
+! Version: 03.06.051903.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 05:05:40 UTC 2025
+! Last modified: Thu Mar  6 05:19:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10507
+! Number of entries: 10513
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1297,6 +1297,7 @@
 ||bincnce.com^
 ||bincoinlux.com^
 ||bine.mails.top^
+||binesth.com^
 ||binfince.com^
 ||bingo.ba^
 ||binjohn.com^
@@ -4080,6 +4081,7 @@
 ||gametop.bet^
 ||gametrekstoligcndo.shop^
 ||gamevolcfom.shop^
+||gamingaddictsclaims.com^
 ||gamingbeasts.com^
 ||ganamos.lat^
 ||ganando.imperios.com^
@@ -6261,6 +6263,8 @@
 ||michaelluch.shop^
 ||michaelmall.shop^
 ||michaelzoritch.shop^
+||michelenealen.shop^
+||micheljaquinod.shop^
 ||mickeliuiu.shop^
 ||micro.coin.ltd^
 ||micro.coin.org^
@@ -7834,6 +7838,7 @@
 ||ralphlaurencs.online^
 ||randura.com^
 ||ranforditsolutions.com^
+||rankingcoach1.click^
 ||ranoz.gg^
 ||ranthambhoresafaritour.in^
 ||rapelust.com^
@@ -9506,6 +9511,7 @@
 ||uasdealshop.online^
 ||uavdrone.vip^
 ||ub576.com^
+||ubitex.com^
 ||ubmfspecial.shop^
 ||ubrya.com^
 ||ubsportal.com^
