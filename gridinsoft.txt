@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.114153.2025
+! Version: 03.06.115109.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 11:41:53 UTC 2025
+! Last modified: Thu Mar  6 11:51:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10646
+! Number of entries: 10650
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1012,6 +1012,7 @@
 ||axustroncapital.com^
 ||aylingallery.shop^
 ||aynigroupsecurity.com^
+||ayondo.com^
 ||ayridchandler.shop^
 ||ayurlife.online^
 ||azdhcqsjnqvfsxgbvrvn.shop^
@@ -2715,6 +2716,7 @@
 ||darkpick.com^
 ||darmavenue.com^
 ||darvtgwnfcb.shop^
+||darwinex.com^
 ||dash.probits.cc^
 ||dash2trade.com^
 ||dashnex.plexusmarket.fund^
@@ -4048,6 +4050,7 @@
 ||fxcrypto.elites.com^
 ||fxcrypto.live^
 ||fxddarab.online^
+||fxflat.com^
 ||fxlvls.com^
 ||fxmedallion.com^
 ||fxminedeotra.com^
@@ -6722,6 +6725,7 @@
 ||naaeeoy.com^
 ||nacionarmada.com^
 ||nadexweboption.com^
+||naga.com^
 ||najruedxwegrcsbcvc.shop^
 ||naldoricketts.com^
 ||nancybatres.shop^
