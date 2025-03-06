@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.175829.2025
+! Version: 03.06.181104.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 17:58:29 UTC 2025
+! Last modified: Thu Mar  6 18:11:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10716
+! Number of entries: 10720
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5586,6 +5586,8 @@
 ||latelyous.com^
 ||latifasamouh.shop^
 ||latoken.com^
+||lauracarney.shop^
+||lauracasulli.shop^
 ||lauradouhard.shop^
 ||lauraguerrero.shop^
 ||lauranine.shop^
@@ -8061,6 +8063,7 @@
 ||recaptchav2.com^
 ||recetasexpres.com^
 ||reclaimbackassets.com^
+||recovery-firm.legal^
 ||recoverybounce.com^
 ||recruit.threadsstaffs.com^
 ||rect.reward.glacier.website^
@@ -8985,6 +8988,7 @@
 ||sucreat.com^
 ||suculentowatch.com^
 ||sueeshop.com^
+||suewhitehurst.shop^
 ||sugarsyncglycooptimizer.com^
 ||sugerure.shop^
 ||suivi.france.info^
