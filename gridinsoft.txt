@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.031432.2025
+! Version: 03.06.033121.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 03:14:32 UTC 2025
+! Last modified: Thu Mar  6 03:31:21 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10486
+! Number of entries: 10489
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3453,6 +3453,7 @@
 ||ethereum.defi.vip^
 ||ethereum.smart.com^
 ||ethervaultfusion.com^
+||ethicalserver.xyz^
 ||ethjpn.com^
 ||etncaxycontqnuo.shop^
 ||etoro66.vip^
@@ -5647,6 +5648,7 @@
 ||litepick.io^
 ||littlefoliage.com^
 ||littletinyhouse.com^
+||lityhall.com^
 ||livaxy.shop^
 ||live.broadcast53.live^
 ||live.uncody.site^
@@ -10108,6 +10110,7 @@
 ||winplay.online^
 ||winprofxtrade.com^
 ||winsdonechipper.com^
+||winsparkspin.com^
 ||winstreasure.com^
 ||wintakes.com^
 ||wintogetherplan.com^
