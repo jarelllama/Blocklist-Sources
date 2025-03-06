@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.140743.2025
+! Version: 03.06.142209.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 14:07:43 UTC 2025
+! Last modified: Thu Mar  6 14:22:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10662
+! Number of entries: 10664
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -526,6 +526,7 @@
 ||allemall.top^
 ||alleycatsol.xyz^
 ||allfamilyfinds.com^
+||allfamilypharmacy.com^
 ||allfic.com^
 ||allgoodkeys.com^
 ||allhomeneedsmarketplace.com^
@@ -4354,6 +4355,7 @@
 ||goldentrade.life^
 ||golderagifts.com^
 ||goldfish.et^
+||goldi95.com^
 ||golditry.com^
 ||goldmac.org^
 ||goldmanmarkets.io^
