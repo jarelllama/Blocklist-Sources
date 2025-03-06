@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.214018.2025
+! Version: 03.06.214941.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 21:40:18 UTC 2025
+! Last modified: Thu Mar  6 21:49:41 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10810
+! Number of entries: 10814
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1904,6 +1904,7 @@
 ||careeredge.online^
 ||careers.natively.com^
 ||carethy.at^
+||cargohub-au.com^
 ||cargoloop.shop^
 ||cargorefine.com^
 ||cargsquarelog.com^
@@ -3523,6 +3524,7 @@
 ||etoro66.vip^
 ||eu-dcshoes.shop^
 ||eu-sezane.com^
+||eu-venumstore.com^
 ||eu.payback.com^
 ||eu.tamaris.com^
 ||eu.venum.shop^
@@ -5161,6 +5163,7 @@
 ||ja.cat^
 ||jachworks.com^
 ||jackdiscount.shop^
+||jackrussellpinnacle.com^
 ||jadloresga.shop^
 ||jaguafrangosalimentosltda.com^
 ||jaiberry.com^
@@ -10202,6 +10205,7 @@
 ||vseeboxtv.co^
 ||vseeboxtv.store^
 ||vtmarkets.net^
+||vtsfund.net^
 ||vtwinschool.com^
 ||vudu.top^
 ||vuksy.site^
