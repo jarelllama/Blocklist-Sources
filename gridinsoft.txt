@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.085405.2025
+! Version: 03.06.090517.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 08:54:05 UTC 2025
+! Last modified: Thu Mar  6 09:05:17 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10574
+! Number of entries: 10581
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1109,6 +1109,7 @@
 ||bbghez.link^
 ||bbhappy.shop^
 ||bbloverdolls.com^
+||bboram.com^
 ||bbq.tech.com^
 ||bbw-flashsale.com^
 ||bbw-ssale.com^
@@ -6393,12 +6394,18 @@
 ||miracleorganics.online^
 ||mirai123.online^
 ||miravia.es^
+||miriamlomax.shop^
+||mirthccasabcnne.shop^
 ||mischievousflirt.com^
+||misookfashion.shop^
 ||mispay.in^
 ||missav.cam^
+||missyhauser.shop^
+||mistaker.shop^
 ||mistanese.com^
 ||misterlamp.de^
 ||mistoleo.com^
+||mitchuk.shop^
 ||mitmine.com^
 ||mitoleyn.com^
 ||mitolynmarket.com^
