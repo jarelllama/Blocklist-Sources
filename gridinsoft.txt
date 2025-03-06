@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.191239.2025
+! Version: 03.06.192309.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 19:12:39 UTC 2025
+! Last modified: Thu Mar  6 19:23:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10744
+! Number of entries: 10754
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3324,7 +3324,13 @@
 ||electricgolfcartsusa.com^
 ||electrogoclub.com^
 ||electronics.brand.com^
+||elegantees-us.shop^
 ||eleganthush.com^
+||elegantvintageshop.shop^
+||elenafernander.shop^
+||elenagilabert.shop^
+||elenagoldbach.shop^
+||elenalombardo.shop^
 ||elevatedstocktrade.com^
 ||elevateminer.com^
 ||elineverhoye.shop^
@@ -5758,6 +5764,7 @@
 ||livextop.com^
 ||liveyourwetdream.com^
 ||livingtradecapital.com^
+||livingwellfairhp.shop^
 ||livraison.interrompu.com^
 ||lixqwok.com^
 ||lixtrade.com^
@@ -6202,6 +6209,7 @@
 ||maxcapitaltrust.online^
 ||maxcgi.com^
 ||maxclick.xyz^
+||maxcubecontainers.com^
 ||maxfinishseveral.com^
 ||maxi-wealth.net^
 ||maxices.com^
@@ -6367,6 +6375,7 @@
 ||michaelluch.shop^
 ||michaelmall.shop^
 ||michaelzoritch.shop^
+||michelemossay.shop^
 ||michelenealen.shop^
 ||micheljaquinod.shop^
 ||mickeliuiu.shop^
@@ -6855,6 +6864,7 @@
 ||neomaven.pro^
 ||neonban.com^
 ||neonfortune.top^
+||neonilavanessa.shop^
 ||neopaypoint.org^
 ||nerofax.com^
 ||nervedefend.company.site^
