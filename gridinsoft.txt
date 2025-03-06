@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.165329.2025
+! Version: 03.06.170418.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 16:53:29 UTC 2025
+! Last modified: Thu Mar  6 17:04:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10685
+! Number of entries: 10689
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -621,6 +621,7 @@
 ||ambiledhub.com^
 ||ambipurcar.com^
 ||amdconsults.com^
+||ameapower.vip^
 ||ameliaboxoption.ltd^
 ||american.edu.co^
 ||americancaritascreditunion.com^
@@ -4168,6 +4169,7 @@
 ||genesisminning.com^
 ||geninsur.com^
 ||genixoptions.com^
+||genkiminer.pro^
 ||genraky.com^
 ||genwoleads.top^
 ||geographz.com^
@@ -7462,6 +7464,7 @@
 ||perfectideas.store^
 ||perfumesarabes.net^
 ||permblox.com^
+||personality.co^
 ||personalizedgiftsonlineboutique.click^
 ||personalloans30096.online^
 ||pesa-app.co.ke^
@@ -8645,6 +8648,7 @@
 ||smaltun.com^
 ||smart.finances.org^
 ||smartbux.net^
+||smartcapitaltrade.com^
 ||smartearningpool.online^
 ||smartfares.com^
 ||smartgyro.es^
