@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.205613.2025
+! Version: 03.06.210735.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 20:56:13 UTC 2025
+! Last modified: Thu Mar  6 21:07:35 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 320
+! Number of entries: 322
 !
 ||Get-shell.xyz^
 ||amlscore.app^
@@ -237,6 +237,7 @@
 ||maetamaskloing.webflow.io^
 ||mail.solanary.com^
 ||mainetdex.com^
+||manage.applovinvip.com^
 ||mannta.xyz^
 ||mantlenetwork.co^
 ||marinadefinancesolana.com^
@@ -311,6 +312,7 @@
 ||virginmoneyliveteam.web.app^
 ||webyit.com^
 ||worldinstapay.online^
+||www.JEL.com^
 ||www.amz-robot.com^
 ||www.coupangcenter.com^
 ||www.hbarfeast.com^

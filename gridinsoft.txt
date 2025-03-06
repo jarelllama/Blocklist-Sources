@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.06.205614.2025
+! Version: 03.06.210736.2025
 ! Expires: 10 minutes
-! Last modified: Thu Mar  6 20:56:14 UTC 2025
+! Last modified: Thu Mar  6 21:07:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10799
+! Number of entries: 10802
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -9510,6 +9510,7 @@
 ||topgreenview.com^
 ||topinfoarticlesforu.com^
 ||topmall.life^
+||topmediafirestorm.com^
 ||topnotchforex.com^
 ||topoathletic-espana.com^
 ||topointradehub.co^
@@ -9711,6 +9712,7 @@
 ||trxkim.vip^
 ||trxminerboost.com^
 ||trxproxtrade.com^
+||try-lunara.com^
 ||tryanua.co^
 ||tryessnce.com^
 ||tryfemina.com^
@@ -10378,6 +10380,7 @@
 ||wiaa.in^
 ||wibikesstreet.com^
 ||wichhistor.co.uk^
+||widenetcomp.com^
 ||wideopentriggers.com^
 ||widestep.com^
 ||wiehenstahl.co^
