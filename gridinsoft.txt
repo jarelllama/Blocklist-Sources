@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.033837.2025
+! Version: 03.07.034937.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 03:38:37 UTC 2025
+! Last modified: Fri Mar  7 03:49:37 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10861
+! Number of entries: 10865
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -614,10 +614,13 @@
 ||amazol.co^
 ||amazom.fun^
 ||amazon.selfsecurely.com^
+||amazon.store.linkpc.net^
 ||amazonanalytics.us^
 ||amazonau-nz.top^
+||amazone-prime.com^
 ||amazonerc.co^
 ||amazonhiring.org^
+||amazoni.info^
 ||amazononline.pk^
 ||amazonprimeonlineselfreviseservices.com^
 ||amazonsellersappeal.com^
@@ -1089,6 +1092,7 @@
 ||barcelonaoutlets.shop^
 ||bargain-s.shop^
 ||bargainro.com^
+||bargainsbundles.com^
 ||bargainxpressz.bet^
 ||barrelwhis.com^
 ||barsurice.com^
