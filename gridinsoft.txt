@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.103847.2025
+! Version: 03.07.104805.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 10:38:47 UTC 2025
+! Last modified: Fri Mar  7 10:48:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10974
+! Number of entries: 10975
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5387,6 +5387,7 @@
 ||justanothercarpenter.online^
 ||justfluck.com^
 ||justgetgifts.com^
+||justgrabthis.com^
 ||justhoston.com^
 ||justiceface.com^
 ||justinbootsitalia.com^
