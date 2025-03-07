@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.155457.2025
+! Version: 03.07.160725.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 15:54:57 UTC 2025
+! Last modified: Fri Mar  7 16:07:25 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 360
+! Number of entries: 362
 !
 ||Basescan.com^
 ||Cineplexl.com^
@@ -17,7 +17,9 @@
 ||app-coin.com^
 ||app-ibplaccess.com^
 ||app.1incln-v2.app^
+||app.airtm-2.it.com^
 ||app.miraklglobalinc.com^
+||app.thewonderfulbox.buzz^
 ||apps-io-treezor-io-x---cdn.webflow.io^
 ||apps-trezor-bridge.gorgias.help^
 ||arablconrect.com^
