@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.081518.2025
+! Version: 03.07.083123.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 08:15:18 UTC 2025
+! Last modified: Fri Mar  7 08:31:23 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10944
+! Number of entries: 10947
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2954,6 +2954,7 @@
 ||desalpes.world^
 ||descorative.com^
 ||descubretesoro.com^
+||desibundle.com^
 ||desicinemas.to^
 ||desicribe.com^
 ||desidealz.store^
@@ -5340,6 +5341,7 @@
 ||judypeter.shop^
 ||judywells.shop^
 ||juehaicihang01.shop^
+||juianug.com^
 ||juicenewmedia.com^
 ||juicesp.com^
 ||juinfd.com^
@@ -7208,6 +7210,7 @@
 ||norionbusiness.top^
 ||norrona-vip.shop^
 ||norsewebdesign.co.uk^
+||northern-best-bangle.glitch.me^
 ||northmary.com^
 ||norwichguidon.org^
 ||nosainteriors.com^
