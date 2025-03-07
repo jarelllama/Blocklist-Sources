@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.130528.2025
+! Version: 03.07.132019.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 13:05:28 UTC 2025
+! Last modified: Fri Mar  7 13:20:19 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11003
+! Number of entries: 11006
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -863,6 +863,7 @@
 ||aroseisrose.com^
 ||arounqxfbmek.shop^
 ||arowinvest.pro^
+||arroch.bzh^
 ||arrowsale.com^
 ||ars88safe.online^
 ||artabusiness.com^
@@ -9128,6 +9129,7 @@
 ||stakgpdgd.com^
 ||stampsforever.co^
 ||stampstorenew.com^
+||stampvip.com^
 ||star-clicks.com^
 ||starbucksvip.org^
 ||starcici.com^
@@ -10816,6 +10818,7 @@
 ||xvkdfashion.shop^
 ||xworld.gg^
 ||xx7722.net^
+||xxflirting.com^
 ||xxx.fingerapp.xyz^
 ||xxxdan.com^
 ||xxxee3.com^
