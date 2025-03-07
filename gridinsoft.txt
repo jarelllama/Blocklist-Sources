@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.175048.2025
+! Version: 03.07.175948.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 17:50:48 UTC 2025
+! Last modified: Fri Mar  7 17:59:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11027
+! Number of entries: 11030
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2962,6 +2962,7 @@
 ||dent.code.com^
 ||dentalclinicgreaternoida.com^
 ||dentrodel.com^
+||denvergameday.com^
 ||deovolenteventures.com^
 ||depannedt.com^
 ||departmentstoreclearance.com^
@@ -4466,6 +4467,7 @@
 ||goldstrategyvip.com^
 ||goldtrx.xyz^
 ||golfevip.shop^
+||golfhouses.shop^
 ||golfsupershop.shop^
 ||golfswinglab.store^
 ||golfwangdk.com^
@@ -7447,6 +7449,7 @@
 ||onfrental.com^
 ||ongalo.shop^
 ||onimatch.com^
+||onitsuka-tigermx.com^
 ||online-earn.top^
 ||online-file-converter.com^
 ||online.abrechnung.info^
