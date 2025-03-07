@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.105721.2025
+! Version: 03.07.110923.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 10:57:21 UTC 2025
+! Last modified: Fri Mar  7 11:09:23 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10978
+! Number of entries: 10981
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2175,6 +2175,7 @@
 ||citxion.top^
 ||cityaccesshouse.com^
 ||cityindexltd.com^
+||civilizedclothingbrand.com^
 ||civilwarcrisis.com^
 ||cjkxnhabwzvqgtpjxg.shop^
 ||cjs.cdkeys.com^
@@ -5398,7 +5399,9 @@
 ||jutlite.shop^
 ||juttakarbach.shop^
 ||juuibv.com^
+||juynex.com^
 ||jvault.xyz^
+||jventurey.monster^
 ||jvfonpmvyxj.shop^
 ||jvgpyxanjcpragqvekcg.shop^
 ||jvjhzhwqya.shop^
