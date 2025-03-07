@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.223025.2025
+! Version: 03.07.223937.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 22:30:25 UTC 2025
+! Last modified: Fri Mar  7 22:39:37 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11150
+! Number of entries: 11158
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3273,13 +3273,17 @@
 ||duelbits.com^
 ||duexpro.co.uk^
 ||dukastradefx.com^
+||dukbekxjxjfobxanhovw.shop^
+||dulcequeijo.shop^
 ||duluthtradingusasale.com^
 ||dummud.com^
 ||dumpshouse.com^
 ||dunamiscybersolution.com^
 ||dundundumpling.online^
 ||dunekhing.com^
+||dunelondon.shop^
 ||dunenectarwebexpert.com^
+||dunicalsibai.shop^
 ||duod03.com^
 ||duplicatem.com^
 ||duplitrade.com^
@@ -6586,6 +6590,8 @@
 ||metatradingai.co^
 ||metatransaction.org^
 ||metatrendsmarket.org^
+||metavivanasturals.shop^
+||metawatchgcdso.shop^
 ||metaxchangepro.com^
 ||meteora.ag^
 ||metfareonline.com^
@@ -6598,6 +6604,7 @@
 ||metropolidata.com^
 ||metrotradeltd.com^
 ||metroxenterprise.com^
+||mettehammer.shop^
 ||mevbridge.com^
 ||mexcgpt.com^
 ||mexcter.cc^
@@ -7467,6 +7474,7 @@
 ||odex.top^
 ||odkhomeshop.shop^
 ||oduwow.com^
+||oejcqcbpuovbvxrmyb.shop^
 ||oemete.com^
 ||oexbit.com^
 ||oezwqjtwogoxru.shop^
