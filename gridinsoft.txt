@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.213821.2025
+! Version: 03.07.214745.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 21:38:21 UTC 2025
+! Last modified: Fri Mar  7 21:47:45 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11110
+! Number of entries: 11116
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3245,6 +3245,7 @@
 ||drmartensnews.com^
 ||drochill.com^
 ||drogen.kaufen.com^
+||dropvapejcuicea.shop^
 ||drovasi.co^
 ||droveit.net^
 ||drug.city.com^
@@ -4014,6 +4015,7 @@
 ||fonsatrade.com^
 ||foonlab.net^
 ||foot2run.com^
+||football-jersey-shop.com^
 ||footballdisease.com^
 ||footballfine.com^
 ||footballofficialtle.com^
@@ -4595,6 +4597,7 @@
 ||growlxx.com^
 ||growthcapinc.com^
 ||growthsedges.online^
+||grpschmqctcrynza.shop^
 ||grunsguru.com^
 ||grupohersa.org^
 ||grxdmnhdtrxd.shop^
@@ -5292,6 +5295,8 @@
 ||jb.store.jp.com^
 ||jbei99.vip^
 ||jbnil.top^
+||jcrsksyaoaswkue.shop^
+||jcvierdelcssantcs.shop^
 ||jdmax88.com^
 ||jeanlat.shop^
 ||jeanmclernon.shop^
@@ -5882,6 +5887,7 @@
 ||lightinthebox.com^
 ||lightsha.com^
 ||lihi.cc^
+||liinamarikm.shop^
 ||likebargainsothers.world^
 ||lillaloom.com^
 ||lillianad.com^
