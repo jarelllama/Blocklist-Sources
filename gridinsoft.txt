@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.214745.2025
+! Version: 03.07.215700.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 21:47:45 UTC 2025
+! Last modified: Fri Mar  7 21:57:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11116
+! Number of entries: 11125
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3525,6 +3525,7 @@
 ||eplxt.com^
 ||epoiu.com^
 ||epsale365.com^
+||eptpuwvmbrn.shop^
 ||epulsive.com^
 ||eqomplace.com^
 ||eqskxctykhmfuf.shop^
@@ -5294,7 +5295,12 @@
 ||jazzoni.com^
 ||jb.store.jp.com^
 ||jbei99.vip^
+||jbmfxdxyesykgybx.shop^
+||jbmkohmzxmz.shop^
+||jbnakyfschcace.shop^
 ||jbnil.top^
+||jbpcntuwokdfasos.shop^
+||jbqabsgxsyjntmsqhnjf.shop^
 ||jcrsksyaoaswkue.shop^
 ||jcvierdelcssantcs.shop^
 ||jdmax88.com^
@@ -5871,6 +5877,7 @@
 ||lidfitnessgymeu.com^
 ||lidifitnessam.eu.shop^
 ||lidlstor.shop^
+||lifeenspirafr.shop^
 ||lifeneed.online^
 ||lifeproofsales.com^
 ||lifesgoood.space^
@@ -6898,6 +6905,7 @@
 ||motoyep.shop^
 ||mountainbabygpy.shop^
 ||mountainsportus.com^
+||movebswbeauxtyca.shop^
 ||movenzo.com^
 ||movestephani.shop^
 ||moveteove.shop^
@@ -7456,6 +7464,7 @@
 ||ofklefkian.com^
 ||ofleak.netlify.app^
 ||ofrprizcoup.com^
+||ofwtbocdqgvtsvbn.shop^
 ||ogeneralindia.com^
 ||oguiadossonhos15anos.online^
 ||ogxrh.com^
