@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.185133.2025
+! Version: 03.07.190056.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 18:51:33 UTC 2025
+! Last modified: Fri Mar  7 19:00:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11040
+! Number of entries: 11042
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -463,6 +463,7 @@
 ||airobotplatform888.com^
 ||airobotsmart.net^
 ||airocargo.com^
+||airtel.co.zm^
 ||airtraveler.club^
 ||aisfcth.ink^
 ||aishabrown.shop^
@@ -7776,6 +7777,7 @@
 ||pfxnft.com^
 ||pg77.game^
 ||pgfff8trk.com^
+||pgm-uz.online^
 ||pgp.seanstaffiery.com^
 ||ph-samsung.online^
 ||phamcore.com^
