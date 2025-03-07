@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.193303.2025
+! Version: 03.07.194208.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 19:33:03 UTC 2025
+! Last modified: Fri Mar  7 19:42:08 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11046
+! Number of entries: 11048
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3485,6 +3485,7 @@
 ||engineeriinglife.com^
 ||english2days.com^
 ||englishcoachnicole.com^
+||engwe-bikes.de^
 ||enhanceprotocol.co.in^
 ||eniqai.com^
 ||enjify.com^
@@ -9751,6 +9752,7 @@
 ||topvibes.top^
 ||topx.one^
 ||torlinks.io^
+||torosignal.com^
 ||torrentdownloads.pro^
 ||torrentz9.org^
 ||torresip.com^
