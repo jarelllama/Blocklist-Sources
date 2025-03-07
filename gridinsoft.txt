@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.194208.2025
+! Version: 03.07.195111.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 19:42:08 UTC 2025
+! Last modified: Fri Mar  7 19:51:11 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11048
+! Number of entries: 11056
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3198,6 +3198,7 @@
 ||doublemintvip.org^
 ||doughpresspro.shop^
 ||douhmkpujyueydykmk.shop^
+||douvty.com^
 ||dowjones.vip.com^
 ||download.totaladblock.com^
 ||download.wondershare.net^
@@ -3253,6 +3254,7 @@
 ||dsolod.com^
 ||dsp-server.com^
 ||dstockaffaires.com^
+||dsuspensel.lol^
 ||dt-machining.com^
 ||dtfvg.net^
 ||dtloo.com^
@@ -3535,6 +3537,7 @@
 ||erich.ltd^
 ||erkulbicak.com^
 ||ermsty.com^
+||erralo.com^
 ||errellseasonaldiscounts.shop^
 ||ervinmathieu.shop^
 ||erybdu.com^
@@ -5190,6 +5193,7 @@
 ||irinancubreac.shop^
 ||iris.tech.online^
 ||iriscruz.shop^
+||iriscula.com^
 ||irisium.lat^
 ||irmahampton.shop^
 ||irmalemartin.shop^
@@ -5255,6 +5259,7 @@
 ||jamai.top^
 ||jamesandemily-vancouver.com^
 ||jamesisti.site^
+||janaashatnnidhi.in^
 ||janrvnuagnt.co^
 ||jar.ru.com^
 ||jaraza.shop^
@@ -6934,6 +6939,7 @@
 ||my.fxmt.tech^
 ||myaccount.enigmasoftware.com^
 ||myaccount.infinox.com^
+||myalgo.life^
 ||myalphanexus.com^
 ||myamericanprizes3.com^
 ||myassignmenthelp.com^
@@ -6945,6 +6951,7 @@
 ||mydesi2.net^
 ||myetherwzallet.com^
 ||myfarm.base.com^
+||myforex.life^
 ||myfundmax.com^
 ||myg01d.com^
 ||mygardenhelper.online^
@@ -9574,6 +9581,7 @@
 ||thenorthernmarkets.com^
 ||thenovabottle.com^
 ||theonlinejob.co.in^
+||theopticalstore.co.uk^
 ||theoryar.com^
 ||thepalaceoftreasuresaustralia.com^
 ||thepatriotpicks.store^
