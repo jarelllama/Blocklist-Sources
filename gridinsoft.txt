@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.112102.2025
+! Version: 03.07.113021.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 11:21:02 UTC 2025
+! Last modified: Fri Mar  7 11:30:21 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10984
+! Number of entries: 10986
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5412,11 +5412,13 @@
 ||jynzous.com^
 ||jys55722.com^
 ||jysk-discount.shop^
+||jysk-sale.com^
 ||jysk.online.com^
 ||jysk.sale.com^
 ||jyskfurniture.eu.com^
 ||jyskhome.eu.com^
 ||jyskus.com^
+||jz9989.com^
 ||jztjgy.com^
 ||k.waymall.shop^
 ||k03p.xyz^
