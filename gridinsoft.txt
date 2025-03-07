@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.210728.2025
+! Version: 03.07.212010.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 21:07:28 UTC 2025
+! Last modified: Fri Mar  7 21:20:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11084
+! Number of entries: 11091
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3360,6 +3360,7 @@
 ||edekn.com^
 ||edenhoj.com^
 ||edenmdplus.com^
+||edgemuttsandcoz.shop^
 ||edificiocomercial.com.br^
 ||edikted.com^
 ||ediwfashion.shop^
@@ -4602,6 +4603,7 @@
 ||gtmal.com^
 ||gtrewe.co.in^
 ||guabsons.com^
+||guafhgsehetsmx.shop^
 ||guaranteedbuyers247.com^
 ||guaranteeswift.com^
 ||guardian-net.life^
@@ -5188,6 +5190,7 @@
 ||iptvnw.us^
 ||iptvpremier.fr^
 ||iptvproducts.com^
+||iptvproplayer.live^
 ||iptvsreseller.com^
 ||iptvtvsmarters.com^
 ||iptvworldconnect.com^
@@ -5376,6 +5379,10 @@
 ||jonilankinen.shop^
 ||josephina.shop^
 ||josephscoleri.shop^
+||josiahhamilton.shop^
+||josienkroes.shop^
+||jotdhftkazr.shop^
+||joughdempsey.shop^
 ||joyabuy.com^
 ||joycreative.com^
 ||joycv.com^
