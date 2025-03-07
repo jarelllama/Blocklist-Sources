@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.113021.2025
+! Version: 03.07.114009.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 11:30:21 UTC 2025
+! Last modified: Fri Mar  7 11:40:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10986
+! Number of entries: 10992
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1200,6 +1200,7 @@
 ||benzinestorageterminalbv.com^
 ||beonbit.net^
 ||bep20.biz^
+||beretta-store.shop^
 ||bergmannmodehaus.com^
 ||bergstrombees.store^
 ||berichinnvest1.com^
@@ -5419,6 +5420,10 @@
 ||jyskhome.eu.com^
 ||jyskus.com^
 ||jz9989.com^
+||jzdhui.com^
+||jzorecilncnjbgr.work^
+||jzqntokvhr.wiki^
+||jzsjlj.fit^
 ||jztjgy.com^
 ||k.waymall.shop^
 ||k03p.xyz^
@@ -9060,6 +9065,7 @@
 ||spinslot88won.online^
 ||spiritcasino-de.com^
 ||sponta.io^
+||spookchat.com^
 ||spoorme.com^
 ||sport.prints.online^
 ||sportarenastores.shop^
