@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.041111.2025
+! Version: 03.07.042647.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 04:11:11 UTC 2025
+! Last modified: Fri Mar  7 04:26:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 327
+! Number of entries: 328
 !
 ||Basescan.com^
 ||Get-shell.xyz^
@@ -316,6 +316,7 @@
 ||virginmoneyliveteam.web.app^
 ||webyit.com^
 ||worldinstapay.online^
+||www.95bnb-gold.com^
 ||www.JEL.com^
 ||www.amz-robot.com^
 ||www.bitcoinonlineworld.com^
