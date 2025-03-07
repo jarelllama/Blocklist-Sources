@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.182918.2025
+! Version: 03.07.184226.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 18:29:18 UTC 2025
+! Last modified: Fri Mar  7 18:42:26 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 369
+! Number of entries: 375
 !
 ||Basescan.com^
 ||Cineplexl.com^
@@ -16,6 +16,7 @@
 ||amlscore.app^
 ||app-coin.com^
 ||app-ibplaccess.com^
+||app-trezzer--desk.webflow.io^
 ||app.1incln-v2.app^
 ||app.airtm-2.it.com^
 ||app.miraklglobalinc.com^
@@ -29,6 +30,7 @@
 ||bahringar.cyou^
 ||berlinmouldwork.com^
 ||betoox.cc^
+||binedres.com^
 ||bitbr.com.br^
 ||bitgrail.org^
 ||blockzeit.com^
@@ -47,6 +49,7 @@
 ||destra-network.fi^
 ||dexdeal.com^
 ||discbrakeaustralia.net.au^
+||docs-treezor-learn.webflow.io^
 ||docs-trezoor-suite.webflow.io^
 ||docs.cdp.coinbase.com^
 ||douglad.cyou^
@@ -322,6 +325,7 @@
 ||start-en-trozor.github.io^
 ||start-trizzor.webflow.io^
 ||stonexmargin.com^
+||suite-trazzrs-app.webflow.io^
 ||summit25.us^
 ||sut-en-trzr.github.io^
 ||thebayaffiliate.cc^
@@ -335,10 +339,12 @@
 ||trezoiwaleztt.webflow.io^
 ||trezor-io-secure.gorgias.help^
 ||trezor-io-start.webflow.io^
+||trezor-r-hardware-r---wallet.webflow.io^
 ||trezor.vip^
 ||trezoristrrt.webflow.io^
 ||trezorr-hrdwr-wllt.webflow.io^
 ||trezswiasllt.webflow.io^
+||trezur-suiett--content.webflow.io^
 ||trezzorewalletgrt.webflow.io^
 ||trrejarrwallet.webflow.io^
 ||trrzr-suite.github.io^

@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.182921.2025
+! Version: 03.07.184226.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 18:29:21 UTC 2025
+! Last modified: Fri Mar  7 18:42:26 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11033
+! Number of entries: 11038
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2820,6 +2820,7 @@
 ||deacetrader.com^
 ||dealsavernow.com^
 ||dealsexpress.shop^
+||dealshubtoday.com^
 ||dealtrack832.shop^
 ||dealupgo.com^
 ||dealzforu.pro^
@@ -3569,6 +3570,7 @@
 ||eterni.click^
 ||etfiweb3.com^
 ||ethaner.shop^
+||ethercompounder.com^
 ||etherealcircleshop.com^
 ||etherealx.cn^
 ||ethereum-earning.com^
@@ -4704,6 +4706,7 @@
 ||headgea.shop^
 ||headlinehype.site^
 ||headstone.shop^
+||healbreezy.com^
 ||healthcompounds.com^
 ||healthdealer.shop^
 ||healthessencial.com^
@@ -5354,6 +5357,7 @@
 ||josephina.shop^
 ||josephscoleri.shop^
 ||joyabuy.com^
+||joycreative.com^
 ||joycv.com^
 ||joyeuxliens.com^
 ||joyfball.com^
@@ -7855,6 +7859,7 @@
 ||plusdiscountedproperties.xyz^
 ||plushlaser.com^
 ||plusindig.info^
+||plusiptv.fr^
 ||plustraderspro.net^
 ||plvacvae.vip^
 ||pmcdiecast.com^
