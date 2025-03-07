@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.212010.2025
+! Version: 03.07.212905.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 21:20:10 UTC 2025
+! Last modified: Fri Mar  7 21:29:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11091
+! Number of entries: 11100
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3534,6 +3534,7 @@
 ||equitytrusttrading.com^
 ||eraw.top^
 ||ercdlp.com^
+||erdicaris.shop^
 ||erenova.in^
 ||ergotrainingproducts.com^
 ||erias.xyz^
@@ -4591,6 +4592,7 @@
 ||growthsedges.online^
 ||grunsguru.com^
 ||grupohersa.org^
+||grxdmnhdtrxd.shop^
 ||gryphon.trx.com^
 ||gryvonix.com^
 ||gs.zbzy.cc^
@@ -5286,7 +5288,11 @@
 ||jbei99.vip^
 ||jbnil.top^
 ||jdmax88.com^
+||jeanlat.shop^
+||jeanmclernon.shop^
 ||jeanne-pierre.com^
+||jeanneshamburg.shop^
+||jeannevallez.shop^
 ||jeanstorseaz.shop^
 ||jeatrice.shop^
 ||jebsstrade.pro^
@@ -5884,6 +5890,9 @@
 ||limxbet.com^
 ||linconomyinvest.com^
 ||linderan.com^
+||lindsayheaphy.shop^
+||lindsaymarian.shop^
+||lindsaynewman.shop^
 ||linfordoffice.com^
 ||lingawa.com^
 ||link.center.net^
