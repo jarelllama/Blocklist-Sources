@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.104805.2025
+! Version: 03.07.105721.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 10:48:05 UTC 2025
+! Last modified: Fri Mar  7 10:57:21 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10975
+! Number of entries: 10978
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -516,6 +516,7 @@
 ||alicefortin.shop^
 ||alidropnuig.com^
 ||aliex.proxy.robot.shop^
+||aliexpresswholece.com^
 ||alignerr.com^
 ||aliquotes.online^
 ||alitexwhole.com^
@@ -7543,6 +7544,7 @@
 ||outfitexpress.online^
 ||outfitloft.com^
 ||outfittersmountainhardwear.com^
+||outletlx.com^
 ||outlook.8i7.net^
 ||outlook.gamial.com^
 ||outputts.shop^
@@ -8781,6 +8783,7 @@
 ||shoplusty.com^
 ||shoponlinesale.shop^
 ||shopotopeni.net^
+||shopping-offers-today.all42.shop^
 ||shopping2025.ru^
 ||shoppingmall11.top^
 ||shoppingmall22.top^
