@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.163626.2025
+! Version: 03.07.164747.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 16:36:26 UTC 2025
+! Last modified: Fri Mar  7 16:47:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11016
+! Number of entries: 11019
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1783,6 +1783,7 @@
 ||bulan66.info^
 ||bulanjitu.org^
 ||buletboard.com^
+||bulkammousa.com^
 ||bulksendtokens.xyz^
 ||bullassetreserve.org^
 ||bullcent.com^
@@ -4836,6 +4837,7 @@
 ||honeyskin.online^
 ||hongruialliance.com^
 ||honorisland.com^
+||hoodartwear.com^
 ||hookah4dayli.online^
 ||hookupers.co^
 ||hopifex.com^
@@ -6108,6 +6110,7 @@
 ||m3toysoo.shop^
 ||m3uiptv.nl^
 ||m66iu.xyz^
+||ma-mmea.com^
 ||maasgain.com^
 ||maasvlakteoilterminal.com^
 ||mabar88go.online^
