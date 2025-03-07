@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.204631.2025
+! Version: 03.07.205555.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 20:46:31 UTC 2025
+! Last modified: Fri Mar  7 20:55:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11071
+! Number of entries: 11076
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -171,6 +171,7 @@
 ||5982z.com^
 ||5movierulz.gay^
 ||5movierulz.rip^
+||5percentpass.com^
 ||5z.pm^
 ||5z.wf^
 ||6123328.coinbase.com^
@@ -3809,6 +3810,7 @@
 ||feelthecitytours.com^
 ||feenox.com^
 ||feetfansfrench.com^
+||felgeopl.shop^
 ||felguss.com^
 ||felinefashionclothing.com^
 ||fenben.pro^
@@ -4498,6 +4500,7 @@
 ||good2025.vip^
 ||goodcasino.ph^
 ||goodguitarbrothersz.shop^
+||goodinrosyzs.shop^
 ||goodonee.com^
 ||goodoutweighs.top^
 ||goodserchez.com^
@@ -8256,6 +8259,7 @@
 ||quantumledgerlab.com^
 ||quantums.financialsystem.com^
 ||quantumxexn.org^
+||quantumxpass.com^
 ||quantvine.com^
 ||quantvine.net^
 ||quantvine.online^
@@ -8763,6 +8767,7 @@
 ||sellingaccesorios.com^
 ||sellmmar.best^
 ||sellnbetar.best^
+||sellogiamk.click^
 ||sellonamazontoday.com^
 ||selo.metodovl.site^
 ||selwix.net^
