@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.181243.2025
+! Version: 03.07.182918.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 18:12:43 UTC 2025
+! Last modified: Fri Mar  7 18:29:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 365
+! Number of entries: 369
 !
 ||Basescan.com^
 ||Cineplexl.com^
@@ -44,6 +44,7 @@
 ||covpang.shop^
 ||cyrptowire.com^
 ||dappsresolverserver.pro^
+||destra-network.fi^
 ||dexdeal.com^
 ||discbrakeaustralia.net.au^
 ||docs-trezoor-suite.webflow.io^
@@ -304,6 +305,7 @@
 ||qubetics.tech^
 ||qubetlcs.fun^
 ||qzptor.collior.cfd^
+||rayray-bloggs.com^
 ||readyplayai.com^
 ||redirlictorts.xyz^
 ||refund.fo.loanexpress24.com^
@@ -351,6 +353,7 @@
 ||vega.diecrich.cfd^
 ||vimsa.com.br^
 ||virginmoneyliveteam.web.app^
+||web.stormvaults.com^
 ||webyit.com^
 ||worldinstapay.online^
 ||www.95bnb-gold.com^
@@ -361,6 +364,7 @@
 ||www.hbarfeast.com^
 ||www.hederarewards.app^
 ||www.insyvp.top^
+||www.jefferisex.vip^
 ||www.lynx-trading.org^
 ||www.markminer.net^
 ||www.oklink.com^
