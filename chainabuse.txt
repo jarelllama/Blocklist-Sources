@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.064919.2025
+! Version: 03.07.065818.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 06:49:19 UTC 2025
+! Last modified: Fri Mar  7 06:58:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 346
+! Number of entries: 350
 !
 ||Basescan.com^
 ||Get-shell.xyz^
@@ -42,6 +42,7 @@
 ||dappsresolverserver.pro^
 ||dexdeal.com^
 ||discbrakeaustralia.net.au^
+||docs-trezoor-suite.webflow.io^
 ||docs.cdp.coinbase.com^
 ||douglad.cyou^
 ||dropton.icu^
@@ -268,6 +269,7 @@
 ||methamaskloginiu.webflow.io^
 ||mint.chronforge.gg^
 ||muzopayment.com^
+||net-suite-trezor-org.webflow.io^
 ||offical-trizor-zero.github.io^
 ||pagoant.com^
 ||pancakesvap.finance-v-wallet-connect.com^
@@ -291,6 +293,7 @@
 ||qubetlcs.fun^
 ||qzptor.collior.cfd^
 ||readyplayai.com^
+||redirlictorts.xyz^
 ||refund.fo.loanexpress24.com^
 ||remixer-ethereums.org^
 ||rmmrealtoken-io.pages.dev^
@@ -310,6 +313,7 @@
 ||topexpay.com^
 ||trader.go-mt5trade.com^
 ||treezerwaiilituss.webflow.io^
+||trezoio-websuit.webflow.io^
 ||trezoiwalett-learnc.webflow.io^
 ||trezoiwaleztt.webflow.io^
 ||trezor-io-secure.gorgias.help^
