@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.192332.2025
+! Version: 03.07.193303.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 19:23:32 UTC 2025
+! Last modified: Fri Mar  7 19:33:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11043
+! Number of entries: 11046
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6061,6 +6061,7 @@
 ||lunarosario.com^
 ||lundnetcapital.com^
 ||lunelior.io^
+||lush-melbourne.com^
 ||lushyedge.com^
 ||lusive.xyz^
 ||luternuastore-online.shop^
@@ -6068,6 +6069,7 @@
 ||lutonhealth.store^
 ||luujin.info^
 ||luvastro.com^
+||luvef.com^
 ||luvonnetherlands.com^
 ||luvwehair.com^
 ||luxbedcom.store^
@@ -10190,6 +10192,7 @@
 ||ustoday24h.com^
 ||ustreamiptv.com^
 ||utens360.com^
+||utip.org^
 ||utsny.com^
 ||utsoease.com^
 ||uttpforum.st^
