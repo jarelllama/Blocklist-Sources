@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.162207.2025
+! Version: 03.07.163626.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 16:22:07 UTC 2025
+! Last modified: Fri Mar  7 16:36:26 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11012
+! Number of entries: 11016
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1035,6 +1035,7 @@
 ||axiora.xyz^
 ||axonfundstrade.com^
 ||axustroncapital.com^
+||ayakyoi.com^
 ||aylingallery.shop^
 ||aynigroupsecurity.com^
 ||ayondo.com^
@@ -3365,6 +3366,7 @@
 ||ehoaq.com^
 ||ehoplay.com^
 ||ei.svn.online.online^
+||eightcle.com^
 ||eileenfisher.us.com^
 ||einhell.eusite.com^
 ||eirio.vip^
@@ -8079,6 +8081,7 @@
 ||pullocabless.co.in^
 ||pulpysearch.com^
 ||pulsed.fr^
+||pulseglobal.site^
 ||pulsegra.com^
 ||pulsenotifynow.top^
 ||pulsepicks.pro^
@@ -9767,6 +9770,7 @@
 ||tradematecommunity.pro^
 ||tradematix.info^
 ||tradenextmarkets.com^
+||traderepublicpro.com^
 ||traderqx.com^
 ||traderszenith.com^
 ||tradestationcryptofx.com^
