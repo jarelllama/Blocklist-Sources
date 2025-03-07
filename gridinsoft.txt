@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.220850.2025
+! Version: 03.07.222107.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 22:08:50 UTC 2025
+! Last modified: Fri Mar  7 22:21:07 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11131
+! Number of entries: 11140
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3984,6 +3984,8 @@
 ||flowers4dallas.com^
 ||flowfaucet.online^
 ||flowkiokoczz.shop^
+||flowornerlaxvie.shop^
+||flowsustaignablesuapply.shop^
 ||flowzapakda.top^
 ||flrdroplines.com^
 ||fluctz.xyz^
@@ -5869,6 +5871,9 @@
 ||lffpy10mnsnp.com^
 ||lfj.gg^
 ||lhndy.cn^
+||liannadagesyan.shop^
+||liannekirkland.shop^
+||liannemccririck.shop^
 ||liberatucuerporenuevatuenergia.com^
 ||liberty.volt.com^
 ||libertyenginesale.com^
@@ -6597,6 +6602,8 @@
 ||mexxfrance.com^
 ||mgdsbbd.com^
 ||mgiga2.com^
+||mgpqukraxjoxp.shop^
+||mguedhujvwknte.shop^
 ||miairobot.com^
 ||michaelabromme.shop^
 ||michaelberean.shop^
@@ -7452,6 +7459,8 @@
 ||oduwow.com^
 ||oemete.com^
 ||oexbit.com^
+||oezwqjtwogoxru.shop^
+||ofbstzotgzy.shop^
 ||ofertabook.online^
 ||ofertadomostruario.com^
 ||offercustom.com^
