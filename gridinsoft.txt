@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.175948.2025
+! Version: 03.07.181243.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 17:59:48 UTC 2025
+! Last modified: Fri Mar  7 18:12:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11030
+! Number of entries: 11033
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5621,6 +5621,7 @@
 ||kotofanss.com^
 ||koule.shop^
 ||koushikshaw.shop^
+||kowriri.site^
 ||kpm.edu.my^
 ||kpmy556.cc^
 ||kqsbjroqfh.shop^
@@ -6481,6 +6482,7 @@
 ||merjen.online^
 ||merrelldepot.com^
 ||meryin.com^
+||meshkifashion.com^
 ||mesicas.com^
 ||messiah777.com^
 ||met123.top^
@@ -8399,6 +8401,7 @@
 ||reoe.shop^
 ||reortxxd.top^
 ||repaircontractors2us0507.online^
+||replacementbadges.com^
 ||replaywot.fun^
 ||repliquesuisse.co^
 ||reploysai.io^
