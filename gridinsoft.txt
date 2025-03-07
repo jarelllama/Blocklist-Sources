@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.202745.2025
+! Version: 03.07.203731.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 20:27:45 UTC 2025
+! Last modified: Fri Mar  7 20:37:31 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11062
+! Number of entries: 11067
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4284,6 +4284,7 @@
 ||georgistoychev.shop^
 ||geouscoura.com^
 ||geoxsdiscountshop.com^
+||geplica-watch.com^
 ||gequiltdesignsaqu.shop^
 ||germ4.com^
 ||get-bt.com^
@@ -6306,8 +6307,11 @@
 ||markoutlet.shop^
 ||markservers.com^
 ||marktemusik.shop^
+||marktprotrd.com^
+||markunkobo.com^
 ||markushussey.shop^
 ||markusmehta.shop^
+||markwellpinballs.com^
 ||marlinfirearms-shop.com^
 ||marlinfirearms-store.com^
 ||marlrus.com^
@@ -9203,6 +9207,7 @@
 ||static.olymptrade.com^
 ||statspoot.com^
 ||stavelux.net^
+||stealth-market.com^
 ||stealthmist.com^
 ||steam.communitychartsdev.com^
 ||steam.usercommunityart.com^
