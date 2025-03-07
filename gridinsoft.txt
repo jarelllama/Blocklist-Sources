@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.212905.2025
+! Version: 03.07.213821.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 21:29:05 UTC 2025
+! Last modified: Fri Mar  7 21:38:21 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11100
+! Number of entries: 11110
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1578,6 +1578,7 @@
 ||bnbclaim.cc^
 ||bnbpick.io^
 ||bnbto.com^
+||bnbverify.cc^
 ||bnbzest.com^
 ||bnex.cc^
 ||bnextrade.com^
@@ -3316,6 +3317,7 @@
 ||eastshares.com^
 ||easun.energy.com^
 ||easy.earn.org^
+||easybeyondstccudios.shop^
 ||easybtc.mining.com^
 ||easybux.net^
 ||easycap.online^
@@ -3524,6 +3526,8 @@
 ||epsale365.com^
 ||epulsive.com^
 ||eqomplace.com^
+||eqskxctykhmfuf.shop^
+||eqtdtsvdjzyudvr.shop^
 ||equallyto.com^
 ||equistak.com^
 ||equitradecf.com^
@@ -3532,6 +3536,7 @@
 ||equitynestpro.com^
 ||equitytrustbn.com^
 ||equitytrusttrading.com^
+||eqwdywsefj.shop^
 ||eraw.top^
 ||ercdlp.com^
 ||erdicaris.shop^
@@ -5881,6 +5886,7 @@
 ||lillaloom.com^
 ||lillianad.com^
 ||lilyandlaurent-montreal.com^
+||lilyhoskins.shop^
 ||lilylove.com^
 ||lilyshop2020.com^
 ||limdex.capital.com^
@@ -5889,6 +5895,8 @@
 ||limited-offer.pro^
 ||limxbet.com^
 ||linconomyinvest.com^
+||lindabarnes.shop^
+||lindabeitz.shop^
 ||linderan.com^
 ||lindsayheaphy.shop^
 ||lindsaymarian.shop^
@@ -8057,6 +8065,7 @@
 ||proearnerstrade.com^
 ||proegro.shop^
 ||proexcels.com^
+||proficientstrades.com^
 ||profit.centr24.ru^
 ||profitly.network^
 ||profitsusd.com^
@@ -8074,6 +8083,7 @@
 ||projetparis.fr^
 ||prolaunchtrade.com^
 ||prole.aposiiz.com^
+||prolearnpoint.com^
 ||prolinguistreport.org^
 ||prologisticsolution.com^
 ||prom.baltyk24.eu5.net^
