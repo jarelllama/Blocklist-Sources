@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.102541.2025
+! Version: 03.07.103847.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 10:25:41 UTC 2025
+! Last modified: Fri Mar  7 10:38:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10970
+! Number of entries: 10974
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3870,6 +3870,7 @@
 ||firmco.mobility.com^
 ||firmdrexworld.com^
 ||firmtechrecovery.net^
+||firstappdelivery.online^
 ||firstcomfortsgroup.com^
 ||firststrategy.net^
 ||firstwin.click^
@@ -5379,9 +5380,12 @@
 ||junufd.com^
 ||jupiterbpo.com^
 ||jupitertrades.org^
+||jupopwu.com^
+||jurassicway.com^
 ||just.mining.co^
 ||justanorganizedhome.online^
 ||justanothercarpenter.online^
+||justfluck.com^
 ||justgetgifts.com^
 ||justhoston.com^
 ||justiceface.com^
