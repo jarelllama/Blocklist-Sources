@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.134451.2025
+! Version: 03.07.135317.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 13:44:51 UTC 2025
+! Last modified: Fri Mar  7 13:53:17 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11010
+! Number of entries: 11012
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4872,6 +4872,7 @@
 ||hotbzozuda.cc^
 ||hotcheyshop.shop^
 ||hotdigst.com^
+||hotedecor.com^
 ||hotel.great.value9531.online^
 ||hotels21.com^
 ||hotelvalues.com^
@@ -9842,6 +9843,7 @@
 ||tritonforex.innovationmarket.live^
 ||triviascope.com^
 ||trmanifesto.com^
+||trodics.online^
 ||troeteltuin.com^
 ||trolleytimes.online^
 ||tromevixion.live^
