@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.114907.2025
+! Version: 03.07.115819.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 11:49:07 UTC 2025
+! Last modified: Fri Mar  7 11:58:19 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10992
+! Number of entries: 10994
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3032,6 +3032,7 @@
 ||dickssportinggoodssoutlet.com^
 ||dickssportingofficial.com^
 ||differentgeneration.online^
+||differenttumble.top^
 ||digestionscience.com^
 ||digibytecode.com^
 ||digiffic-work.com^
@@ -3878,6 +3879,7 @@
 ||firststrategy.net^
 ||firstwin.click^
 ||firstwinbet.online^
+||fischietto.com^
 ||fiseign.com^
 ||fishbatppc.com^
 ||fishmeet.shop^
