@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.074244.2025
+! Version: 03.07.075158.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 07:42:44 UTC 2025
+! Last modified: Fri Mar  7 07:51:58 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10942
+! Number of entries: 10944
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3963,6 +3963,7 @@
 ||foonlab.net^
 ||foot2run.com^
 ||footballdisease.com^
+||footballfine.com^
 ||footballofficialtle.com^
 ||footboom1.com^
 ||footboxes.com^
@@ -8248,6 +8249,7 @@
 ||rebasedex.cloud^
 ||rebelsatoshi.com^
 ||reboltstore.com^
+||recambiosrapidos.com^
 ||recaptcha.verify.9n.pages.dev^
 ||recaptchav2.com^
 ||recetasexpres.com^
