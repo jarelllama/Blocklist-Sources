@@ -3,7 +3,7 @@
 # Retrieves domains from the various sources and builds the respective
 # blocklist.
 
-readonly DOMAIN_REGEX='(?:([\p{L}\p{N}][\p{L}\p{N}-]*[\p{L}\p{N}]|[\p{L}\p{N}])\.)+[\p{L}\p{N}][\p{L}\p{N}-]*[\p{L}\p{N}]'
+readonly DOMAIN_REGEX='(?:([\p{L}\p{N}][\p{L}\p{N}-]*[\p{L}\p{N}]|[\p{L}\p{N}])\.)+[\p{L}}][\p{L}\p{N}-]*[\p{L}\p{N}]'
 
 readonly -a SOURCES=(
     chainabuse
