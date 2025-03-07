@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.083123.2025
+! Version: 03.07.084328.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 08:31:23 UTC 2025
+! Last modified: Fri Mar  7 08:43:28 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10947
+! Number of entries: 10950
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5344,7 +5344,9 @@
 ||juianug.com^
 ||juicenewmedia.com^
 ||juicesp.com^
+||juicp.store^
 ||juinfd.com^
+||julia-mode.com^
 ||juliatangires.shop^
 ||juliathomas.shop^
 ||juliavogt.shop^
@@ -7479,6 +7481,7 @@
 ||orbitray.cc^
 ||orcaslicer.co^
 ||orcesrio.com^
+||order-topay.com^
 ||order.pharma.com^
 ||oregon-state-veterans.com^
 ||org.pay.9t03.cfd^
