@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.225801.2025
+! Version: 03.07.231000.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 22:58:01 UTC 2025
+! Last modified: Fri Mar  7 23:10:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11170
+! Number of entries: 11175
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3497,6 +3497,7 @@
 ||en.loader.to^
 ||enaviia.com^
 ||enchantedcubes.com^
+||enciclopediaiberoamericana.com^
 ||enclarhealth.com^
 ||encomendas.importacao.online^
 ||encounte.com^
@@ -7456,6 +7457,8 @@
 ||oandapaxbp.vip^
 ||oasiscorporations.com^
 ||oasishatt.com^
+||oatoydeyesck.shop^
+||oaypyptjqodqnc.shop^
 ||obagee.com^
 ||obalaso.online^
 ||obathp.com^
@@ -10235,6 +10238,7 @@
 ||upb.edu.co^
 ||update.online.cc^
 ||updatestar.com^
+||updown.fun^
 ||upgoods.shop^
 ||uphoriapro.ng^
 ||upiptv.de^
@@ -10248,6 +10252,7 @@
 ||upstinatolos.com^
 ||upsurge-capital.org^
 ||urban-trend.hu^
+||urbandripv.com^
 ||urbanlifestylestore.shop^
 ||urbantapes.com^
 ||urbanwuff.store^
