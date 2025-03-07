@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.215700.2025
+! Version: 03.07.220850.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 21:57:00 UTC 2025
+! Last modified: Fri Mar  7 22:08:50 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11125
+! Number of entries: 11131
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3243,6 +3243,7 @@
 ||driversforhp.com^
 ||drivesafeinspects.com^
 ||drmartensnews.com^
+||drnorthpark.shop^
 ||drochill.com^
 ||drogen.kaufen.com^
 ||dropvapejcuicea.shop^
@@ -3517,6 +3518,7 @@
 ||eonsalestore.com^
 ||eoptiautostrust.com^
 ||eosbit.com^
+||eouxvxbfbjcgdqtmkmdv.shop^
 ||epeweko.info^
 ||epicchest.net^
 ||epicdigitalflow.com^
@@ -6596,6 +6598,10 @@
 ||mgdsbbd.com^
 ||mgiga2.com^
 ||miairobot.com^
+||michaelabromme.shop^
+||michaelberean.shop^
+||michaelberg.shop^
+||michaelcollins.shop^
 ||michaeldunne.shop^
 ||michaelkorseu.shop^
 ||michaelluch.shop^
