@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.062326.2025
+! Version: 03.07.063824.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 06:23:26 UTC 2025
+! Last modified: Fri Mar  7 06:38:24 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10927
+! Number of entries: 10933
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3724,6 +3724,7 @@
 ||fast.financial.com^
 ||fastbnbtobacscxo.shop^
 ||fastbrush.online^
+||fastcashsurvey.com^
 ||fastconnectionflow.com^
 ||fastdeliverytrustpills.com^
 ||fastee.top^
@@ -6934,6 +6935,11 @@
 ||nassinimary.shop^
 ||natadler.com^
 ||nataleficicchia.shop^
+||nataliebenson.shop^
+||natalieeatedali.shop^
+||natalievellos.shop^
+||natashahito.shop^
+||natashajacob.shop^
 ||natayark.us.kg^
 ||natchristiana.top^
 ||nathankroll.shop^

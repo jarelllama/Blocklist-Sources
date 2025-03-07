@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.062325.2025
+! Version: 03.07.063823.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 06:23:25 UTC 2025
+! Last modified: Fri Mar  7 06:38:23 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 339
+! Number of entries: 342
 !
 ||Basescan.com^
 ||Get-shell.xyz^
@@ -266,6 +266,7 @@
 ||methamaskloginiu.webflow.io^
 ||mint.chronforge.gg^
 ||muzopayment.com^
+||offical-trizor-zero.github.io^
 ||pagoant.com^
 ||pancakesvap.finance-v-wallet-connect.com^
 ||paste-code.info^
@@ -275,6 +276,7 @@
 ||pb611810.wixsite.com^
 ||pesspoint.com^
 ||phantom.com^
+||port-trezor-sucure-hub.webflow.io^
 ||portal-en-bridge.github.io^
 ||portal-trezo-docs.github.io^
 ||portal-trizor-cdn.github.io^
@@ -297,6 +299,7 @@
 ||starship8.live^
 ||starship8.net^
 ||start-trizzor.webflow.io^
+||sut-en-trzr.github.io^
 ||thebayaffiliate.cc^
 ||tinyurl.com^
 ||tokenlon.im^
