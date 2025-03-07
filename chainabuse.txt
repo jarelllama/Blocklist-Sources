@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.063823.2025
+! Version: 03.07.064919.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 06:38:23 UTC 2025
+! Last modified: Fri Mar  7 06:49:19 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 342
+! Number of entries: 346
 !
 ||Basescan.com^
 ||Get-shell.xyz^
@@ -30,6 +30,7 @@
 ||blockzeit.com^
 ||bnakarab.wixsite.com^
 ||brickelltrade-investment.com^
+||bridgtrzr-dcs.github.io^
 ||cdn-trezo.github.io^
 ||cgypp.eu^
 ||chargebackiinternational.com^
@@ -219,6 +220,7 @@
 ||launchpadi.xyz^
 ||launchpadxyz.trade^
 ||lazada.czruifa.com^
+||learn--starttrezor.webflow.io^
 ||learn-desktoptrezorsuite.webflow.io^
 ||learn-en--trezr-io--cdn.webflow.io^
 ||ledger-support-live.pages.dev^
@@ -278,6 +280,7 @@
 ||phantom.com^
 ||port-trezor-sucure-hub.webflow.io^
 ||portal-en-bridge.github.io^
+||portal-terzo-cdn.github.io^
 ||portal-trezo-docs.github.io^
 ||portal-trizor-cdn.github.io^
 ||project-database.com^
@@ -298,6 +301,7 @@
 ||srstopgunviptravel.com^
 ||starship8.live^
 ||starship8.net^
+||start-en-trozor.github.io^
 ||start-trizzor.webflow.io^
 ||sut-en-trzr.github.io^
 ||thebayaffiliate.cc^
