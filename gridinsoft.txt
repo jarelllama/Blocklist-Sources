@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.092915.2025
+! Version: 03.07.093948.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 09:29:15 UTC 2025
+! Last modified: Fri Mar  7 09:39:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10961
+! Number of entries: 10965
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1401,6 +1401,7 @@
 ||bitdouble.net^
 ||bitesax.com^
 ||bitexmusk.com^
+||bitfarex.com^
 ||bitfarms.in^
 ||bitflexbm.com^
 ||bitflexpvs.com^
@@ -2387,6 +2388,7 @@
 ||com.tracking.vvxv.cc^
 ||com.trackvddfg.cfd^
 ||comfortpatv.com^
+||comfreypatches.com^
 ||comfy.vibes.fr^
 ||comfyonline.app^
 ||comic.hupshop.com^
@@ -3478,6 +3480,7 @@
 ||enviosrastreios.online^
 ||enzabit.com^
 ||eobot.net^
+||eoiofd.com^
 ||eonsalestore.com^
 ||eoptiautostrust.com^
 ||eosbit.com^
@@ -5370,6 +5373,7 @@
 ||junmpay.com^
 ||juno-download-space.com^
 ||juno.download.promo.com^
+||junufd.com^
 ||jupitertrades.org^
 ||just.mining.co^
 ||justanorganizedhome.online^
