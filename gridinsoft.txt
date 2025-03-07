@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.223937.2025
+! Version: 03.07.224853.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 22:39:37 UTC 2025
+! Last modified: Fri Mar  7 22:48:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11158
+! Number of entries: 11166
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3246,11 +3246,18 @@
 ||drnorthpark.shop^
 ||drochill.com^
 ||drogen.kaufen.com^
+||droploveisloveq.shop^
+||droppinkbozutique.shop^
+||dropportovintageparcts.shop^
+||dropsjrkpkrornugm.shop^
+||dropsoomfoods.shop^
+||dropthecuisdinet.shop^
 ||dropvapejcuicea.shop^
 ||drovasi.co^
 ||droveit.net^
 ||drug.city.com^
 ||drughub.vip^
+||drumshoponline.shop^
 ||drupacolony.tech^
 ||drw.vip.cc^
 ||ds2play.com^
@@ -7471,6 +7478,7 @@
 ||octonair.com^
 ||odaeroticbeauty.netlify.app^
 ||odessacalvertphotographer.com^
+||odettecoscia.shop^
 ||odex.top^
 ||odkhomeshop.shop^
 ||oduwow.com^
