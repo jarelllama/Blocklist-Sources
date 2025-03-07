@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.123055.2025
+! Version: 03.07.125111.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 12:30:55 UTC 2025
+! Last modified: Fri Mar  7 12:51:11 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10997
+! Number of entries: 11001
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1159,6 +1159,7 @@
 ||beaming.sbs^
 ||bearatten.com^
 ||bearsbulls.net^
+||bearsexchange.com^
 ||beastter.com^
 ||beastvem.com^
 ||beat.sticker.online^
@@ -1795,6 +1796,7 @@
 ||burtoneu.shop^
 ||business2.community^
 ||businessloanscenter.online^
+||bustup-fr.com^
 ||butlerkj.com^
 ||buttergrem.com^
 ||buxclaims.neocities.org^
@@ -4158,6 +4160,7 @@
 ||fxtrinity.com^
 ||fxveco.live^
 ||fxvision.net^
+||fyralux.com^
 ||fyssea.com^
 ||fyswykszncmxebnbmga.shop^
 ||fyxuvdbfdhtkqswox.shop^
@@ -10915,6 +10918,7 @@
 ||zarastoreonline.com^
 ||zayqi.fun^
 ||zazroe.com^
+||zbshareware.com^
 ||zbx.exchanges.com^
 ||zchuryakov.shop^
 ||zco.com^
