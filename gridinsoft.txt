@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.055427.2025
+! Version: 03.07.060803.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 05:54:27 UTC 2025
+! Last modified: Fri Mar  7 06:08:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10916
+! Number of entries: 10925
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1285,6 +1285,7 @@
 ||bigfat.chat^
 ||bigfxinvest.io^
 ||biggetex.com^
+||biglotmauus.com^
 ||biglotsalling.com^
 ||biglotsclosures.com^
 ||biglotsoverstock.com^
@@ -4673,6 +4674,7 @@
 ||healthwellonline.online^
 ||healthybodynow.net^
 ||healthytea-shop.com^
+||healy.shop^
 ||hearitupj.shop^
 ||heartlandstandardbk.com^
 ||heatgobonneideaz.shop^
@@ -6919,11 +6921,17 @@
 ||napkforpc.com^
 ||napsterz.shop^
 ||napsway.shop^
+||napwear.shop^
+||naqneseaxavufuhgcem.shop^
 ||narcopowders.com^
 ||narvafinance.com^
+||nasafashiongalaxy51.shop^
 ||naseebetiris.naseebet77.com^
+||nasenfqgcj.shop^
 ||naseox.org^
+||nassinimary.shop^
 ||natadler.com^
+||nataleficicchia.shop^
 ||natayark.us.kg^
 ||natchristiana.top^
 ||nathankroll.shop^
@@ -10707,6 +10715,7 @@
 ||xpresswealthbnk.com^
 ||xpronlineoffertstore.com^
 ||xrpearner.us^
+||xrpearners.homes^
 ||xrpearners.top^
 ||xrpofficial.reward.com^
 ||xrpwheel.com^
