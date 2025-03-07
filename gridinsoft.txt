@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.232050.2025
+! Version: 03.07.232949.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 23:20:50 UTC 2025
+! Last modified: Fri Mar  7 23:29:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11177
+! Number of entries: 11180
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4182,6 +4182,7 @@
 ||furensocks.shop^
 ||furnittrendonline.com^
 ||furniturej.shop^
+||furzyriverless.com^
 ||fusin.club^
 ||fusion.gain.cfd^
 ||fustorix.com^
@@ -5960,6 +5961,7 @@
 ||linkzip.uk^
 ||linnaco.com^
 ||linnios.com^
+||lintagain.com^
 ||linxbucks.net^
 ||linxiangyun.com^
 ||linyimma.com^
@@ -10948,6 +10950,7 @@
 ||xingchen78.com^
 ||xiomak.com^
 ||xiongteamfx.com^
+||xizei.shop^
 ||xjsv.store^
 ||xmbroker.click^
 ||xmcopytrade.com^
