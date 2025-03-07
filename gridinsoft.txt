@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.174120.2025
+! Version: 03.07.175048.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 17:41:20 UTC 2025
+! Last modified: Fri Mar  7 17:50:48 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11026
+! Number of entries: 11027
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3905,6 +3905,7 @@
 ||fivaye.com^
 ||fivon.online^
 ||fixedmatch.website^
+||fixmonthly.xyz^
 ||fixotrade.com^
 ||fixweb3connect.pages.dev^
 ||fiyboy.com^
