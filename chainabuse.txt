@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.045806.2025
+! Version: 03.07.051011.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 04:58:06 UTC 2025
+! Last modified: Fri Mar  7 05:10:11 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 329
+! Number of entries: 330
 !
 ||Basescan.com^
 ||Get-shell.xyz^
@@ -292,6 +292,7 @@
 ||srstopgunviptravel.com^
 ||starship8.live^
 ||starship8.net^
+||thebayaffiliate.cc^
 ||tinyurl.com^
 ||tokenlon.im^
 ||topexpay.com^

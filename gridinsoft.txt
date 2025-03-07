@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.045807.2025
+! Version: 03.07.051012.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 04:58:07 UTC 2025
+! Last modified: Fri Mar  7 05:10:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10894
+! Number of entries: 10898
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6731,8 +6731,12 @@
 ||moreultimateprofit.com^
 ||morganenergyph.com^
 ||mormark.eu^
+||morphobuller.shop^
 ||morulex.com^
+||mosersale.shop^
+||mossbrosofficial.shop^
 ||mostirex.com^
+||motivioff.shop^
 ||motoboss.shop^
 ||motoclever.com^
 ||motorwolt.com^
