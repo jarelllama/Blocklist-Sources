@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.091632.2025
+! Version: 03.07.092915.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 09:16:32 UTC 2025
+! Last modified: Fri Mar  7 09:29:15 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 10957
+! Number of entries: 10961
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -238,6 +238,7 @@
 ||9newsaitrading.info^
 ||9xmoviies.xyz^
 ||a-longg-login.com^
+||a.exdynsrv.com^
 ||a1-wealthmakers.com^
 ||a1b2c4.shop^
 ||a1mazon.com^
@@ -3544,6 +3545,7 @@
 ||eterni.click^
 ||etfiweb3.com^
 ||ethaner.shop^
+||etherealcircleshop.com^
 ||etherealx.cn^
 ||ethereum-earning.com^
 ||ethereum.defi.vip^
@@ -5365,6 +5367,7 @@
 ||junemite.com^
 ||junge-dailyshop.com^
 ||juniperhayesweddingdesign.com^
+||junmpay.com^
 ||juno-download-space.com^
 ||juno.download.promo.com^
 ||jupitertrades.org^
@@ -10692,6 +10695,7 @@
 ||x.coin.app^
 ||x.tokens.live^
 ||x.ua.com^
+||x12.simontokx.online^
 ||x2dice.top^
 ||xai.wallet.com^
 ||xai79a.com^
