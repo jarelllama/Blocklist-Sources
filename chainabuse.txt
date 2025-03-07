@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.052424.2025
+! Version: 03.07.054518.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 05:24:24 UTC 2025
+! Last modified: Fri Mar  7 05:45:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 330
+! Number of entries: 339
 !
 ||Basescan.com^
 ||Get-shell.xyz^
@@ -16,9 +16,12 @@
 ||app-ibplaccess.com^
 ||app.1incln-v2.app^
 ||app.miraklglobalinc.com^
+||apps-io-treezor-io-x---cdn.webflow.io^
 ||apps-trezor-bridge.gorgias.help^
 ||arablconrect.com^
 ||auth-public-trzor-cdn.gorgias.help^
+||auth-trreezor-io-cdn.webflow.io^
+||auth-trrezor-io-cdn.webflow.io^
 ||bahringar.cyou^
 ||berlinmouldwork.com^
 ||betoox.cc^
@@ -217,6 +220,7 @@
 ||launchpadxyz.trade^
 ||lazada.czruifa.com^
 ||learn-desktoptrezorsuite.webflow.io^
+||learn-en--trezr-io--cdn.webflow.io^
 ||ledger-support-live.pages.dev^
 ||ledger22.com^
 ||ledgerapplive.net^
@@ -292,12 +296,15 @@
 ||srstopgunviptravel.com^
 ||starship8.live^
 ||starship8.net^
+||start-trizzor.webflow.io^
 ||thebayaffiliate.cc^
 ||tinyurl.com^
 ||tokenlon.im^
 ||topexpay.com^
 ||trader.go-mt5trade.com^
 ||treezerwaiilituss.webflow.io^
+||trezoiwalett-learnc.webflow.io^
+||trezoiwaleztt.webflow.io^
 ||trezor-io-secure.gorgias.help^
 ||trezor-io-start.webflow.io^
 ||trezor.vip^
@@ -306,8 +313,10 @@
 ||trezswiasllt.webflow.io^
 ||trezzorewalletgrt.webflow.io^
 ||trrejarrwallet.webflow.io^
+||trrzr-suite.github.io^
 ||trustearnltd.com^
 ||trutle.club^
+||tryzorwellat.webflow.io^
 ||trzwrerz-start242.netlify.app^
 ||un-fi.net^
 ||up.downser.cyou^
