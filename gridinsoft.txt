@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.170810.2025
+! Version: 03.07.172129.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 17:08:10 UTC 2025
+! Last modified: Fri Mar  7 17:21:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11020
+! Number of entries: 11022
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1049,6 +1049,7 @@
 ||azwvzoseutocvrw.shop^
 ||azzlee.com^
 ||b2secops.co.uk^
+||babillonia.com^
 ||babyclothstore.xyz^
 ||babygoodsnest.store^
 ||babyhav.shop^
@@ -2601,6 +2602,7 @@
 ||cryptocurrency.events.com^
 ||cryptocurrency.recovery.com^
 ||cryptodig.ci^
+||cryptoes4u.com^
 ||cryptoids.info^
 ||cryptoindex.com^
 ||cryptojayatech.cloud^
