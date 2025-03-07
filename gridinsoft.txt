@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.07.132019.2025
+! Version: 03.07.133314.2025
 ! Expires: 10 minutes
-! Last modified: Fri Mar  7 13:20:19 UTC 2025
+! Last modified: Fri Mar  7 13:33:14 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11006
+! Number of entries: 11010
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4893,6 +4893,7 @@
 ||hoydeportes.online^
 ||hoylitecandle.store^
 ||hozfhqnpvwond.shop^
+||hozo.es^
 ||hozpetro.com^
 ||hpbspikwyxs.shop^
 ||hpbvjrcfpcbayp.shop^
@@ -6031,6 +6032,7 @@
 ||lumilean.io^
 ||luminarymeadow.com^
 ||luminassociate.com^
+||lunafex.com^
 ||lunajerk.com^
 ||lunarbet.fun^
 ||lunarosario.com^
@@ -8263,6 +8265,7 @@
 ||ranthambhoresafaritour.in^
 ||rapelust.com^
 ||rapid-logs.com^
+||rapidapexltd.com^
 ||rapiddigitalrecovery.org^
 ||rapidnftswap.com^
 ||rapidtransitmodels.com^
@@ -9293,6 +9296,7 @@
 ||supportsentparticle.com^
 ||suppsforlife.to^
 ||supremehackers.net^
+||sure-earners.com^
 ||suredafa.com^
 ||surf-chat.org^
 ||surfapple.com^
