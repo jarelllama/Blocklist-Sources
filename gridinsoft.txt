@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.073738.2025
+! Version: 03.08.074642.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 07:37:38 UTC 2025
+! Last modified: Sat Mar  8 07:46:42 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11290
+! Number of entries: 11295
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2789,6 +2789,7 @@
 ||dappschainapp.com^
 ||darancy.com^
 ||darayibuy.shop^
+||dargonenergyin.com^
 ||dark.link.sbs^
 ||darklabsusplesmentos.com^
 ||darklog.mp^
@@ -3741,6 +3742,7 @@
 ||expresshighsdirect.com^
 ||expressionu.com^
 ||expresswallet.pro^
+||expro-hubs.com^
 ||exquisitesusa.com^
 ||exquisitmobel.com^
 ||exquisitpflanze.com^
@@ -5453,6 +5455,7 @@
 ||jo-annfinalsale.com^
 ||jo-annonlinesale-us.com^
 ||jo-annsaleus.com^
+||joannfabric-us.com^
 ||joannfabricandcraftsale.com^
 ||joannla.com^
 ||joannofficialsale.com^
@@ -8702,6 +8705,7 @@
 ||ringgitplus.com^
 ||riotget.com^
 ||riothye.com^
+||riotplatforms-engage.com^
 ||riotxai.com^
 ||riricell.com^
 ||risesparksolution.com^
@@ -10040,6 +10044,7 @@
 ||tradeusdt.live^
 ||tradewaves.org^
 ||tradewiseexchange.net^
+||tradewithkoushik.com^
 ||tradextron.top^
 ||trading.com^
 ||trading.elevation.net^
