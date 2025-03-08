@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.122810.2025
+! Version: 03.08.124343.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 12:28:10 UTC 2025
+! Last modified: Sat Mar  8 12:43:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11384
+! Number of entries: 11385
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -9016,6 +9016,7 @@
 ||seatsnet.com^
 ||seawin.top^
 ||sec.loanbusiness.com^
+||secanov.com^
 ||secbitfxtrade.com^
 ||secretous.com^
 ||secure.ccleaner.com^
