@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.154650.2025
+! Version: 03.08.155600.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 15:46:50 UTC 2025
+! Last modified: Sat Mar  8 15:56:00 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11411
+! Number of entries: 11414
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6346,6 +6346,7 @@
 ||m.bxamax.com^
 ||m.dodorado.com^
 ||m.engievip.cc^
+||m.finalfrontier.vip^
 ||m.fxpro-usd.vip^
 ||m.jucydate.com^
 ||m.money-planet.top^
@@ -7487,6 +7488,7 @@
 ||nhcznjbdzu.shop^
 ||nicebai.com^
 ||nicedelicate.com^
+||nicekore.com^
 ||nicevps.net^
 ||nickibradley.shop^
 ||nickspizzasubs.com^
@@ -8700,6 +8702,7 @@
 ||rei.com^
 ||reil.cam^
 ||relativelysuitable.com^
+||relativeresult.com^
 ||relayeur-mondialrelay.com^
 ||relayl.ink^
 ||relaymondial.net^
