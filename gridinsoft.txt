@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.121134.2025
+! Version: 03.08.122810.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 12:11:34 UTC 2025
+! Last modified: Sat Mar  8 12:28:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11380
+! Number of entries: 11384
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1225,6 +1225,7 @@
 ||bertaus.com^
 ||bervospace.com^
 ||besafetoday.top^
+||besanprof.weebly.com^
 ||beseenmarketing.online^
 ||besellics.com^
 ||besstnews.info^
@@ -1256,6 +1257,7 @@
 ||bestmusicequipment.com^
 ||bestnationalcreditunion.com^
 ||bestoffersnew.xyz^
+||bestsportsball.com^
 ||bestxsoftware.com^
 ||bestxsvilrsoftopia.com^
 ||bet.way.online^
@@ -5809,6 +5811,7 @@
 ||kowriri.site^
 ||kpm.edu.my^
 ||kpmy556.cc^
+||kpng.org^
 ||kqsbjroqfh.shop^
 ||kquhwzrjphodm.shop^
 ||kqwntmfnzk.shop^
@@ -9102,6 +9105,7 @@
 ||shedrickcdigital.pro^
 ||sheingivesback.com^
 ||shelee.vip^
+||shelfofsophia.com^
 ||shenghengtrading.com^
 ||shesherose.net^
 ||shesking.com^
