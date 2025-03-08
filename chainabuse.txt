@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.042925.2025
+! Version: 03.08.043913.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 04:29:25 UTC 2025
+! Last modified: Sat Mar  8 04:39:13 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 391
+! Number of entries: 395
 !
 ||Basescan.com^
 ||Cineplexl.com^
@@ -184,6 +184,7 @@
 ||heliumfirmware.onrender.com^
 ||hermeneutically.cfd^
 ||holloworldai.com^
+||home-trioxr-sut.gitbook.io^
 ||home-wallet.pages.dev^
 ||hoodwins.pages.dev^
 ||horizonblue.firstlight.am^
@@ -200,6 +201,7 @@
 ||hyperliquid.how^
 ||hyperliquid.si^
 ||in.hillitecapital.com^
+||ingresar-davivienda.myportfolio.com^
 ||instanrad.com^
 ||io-trezor-us.gorgias.help^
 ||iserve.ae^
@@ -311,6 +313,7 @@
 ||portal-trizor-cdn.github.io^
 ||project-database.com^
 ||proximus00.mystrikingly.com^
+||pub-cdn-trezsuit.gitbook.io^
 ||public-trezorweb-cdn.gorgias.help^
 ||qtitzon.cfd^
 ||quanmai12.github.io^
@@ -371,6 +374,7 @@
 ||up.downser.cyou^
 ||uqnrbe.prdberg.cfd^
 ||usdcearn.site^
+||validaciondavi.webcindario.com^
 ||vega.diecrich.cfd^
 ||vimsa.com.br^
 ||virginmoneyliveteam.web.app^
