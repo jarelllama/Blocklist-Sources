@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.213321.2025
+! Version: 03.08.214234.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 21:33:21 UTC 2025
+! Last modified: Sat Mar  8 21:42:34 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11496
+! Number of entries: 11506
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1256,6 +1256,7 @@
 ||bestdogcare.one^
 ||besteboni.online^
 ||bestgreensuperfood.com^
+||bestgrowrader.com^
 ||besthealth24.online^
 ||besthowtoguides.com^
 ||bestlivinghomestore.com^
@@ -3845,6 +3846,9 @@
 ||faefvqdadrjyc.shop^
 ||faenestm.shop^
 ||faforlife.com^
+||fahrradbestshopde.com^
+||fahrradex.com^
+||fahrradfreunde.com^
 ||fairieswire.com^
 ||faithfultly.com^
 ||fakaira.space^
@@ -4560,7 +4564,10 @@
 ||globalsfundrecovery.com^
 ||globalsisalltd.com^
 ||globalsmartrade.com^
+||globalstationmarketltd.com^
+||globalstreamtrade.com^
 ||globalswift.access.com^
+||globalthaigolden.com^
 ||globaltradingsltd.com^
 ||globalultrafx.net^
 ||globalwatchshoppingmall.com^
@@ -5207,6 +5214,8 @@
 ||iceekoo.com^
 ||icepeakeu.shop^
 ||iceriver.company^
+||icetog.shop^
+||iceupx.shop^
 ||icocrypto.us^
 ||icominer.com^
 ||iconamsterdam.com^
@@ -7630,6 +7639,7 @@
 ||norwichguidon.org^
 ||nosainteriors.com^
 ||nosso.online^
+||nostosgoods.com^
 ||noteshopcoukjw.shop^
 ||nouert.com^
 ||nouvacrest.com^
