@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.164019.2025
+! Version: 03.08.164923.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 16:40:19 UTC 2025
+! Last modified: Sat Mar  8 16:49:23 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11421
+! Number of entries: 11423
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2162,6 +2162,7 @@
 ||chicedgez.com^
 ||chicfitx.com^
 ||chicroute.com^
+||chicteebase.com^
 ||chiefaiofficer.biz^
 ||childrenshealthintl.org^
 ||chillargentina.com^
@@ -9824,6 +9825,7 @@
 ||telsox.com^
 ||telunor.com^
 ||teluvor.com^
+||temptationfinder.com^
 ||temxn.vip^
 ||tenadex.com^
 ||tenctify.com^
