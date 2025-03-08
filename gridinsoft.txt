@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.211330.2025
+! Version: 03.08.212328.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 21:13:30 UTC 2025
+! Last modified: Sat Mar  8 21:23:28 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11486
+! Number of entries: 11491
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1471,6 +1471,7 @@
 ||bitkeepx.com^
 ||bitlabs.pro^
 ||bitlancecapitals.com^
+||bitlet.net^
 ||bitly.net^
 ||bitmain.com.vc^
 ||bitmain.com^
@@ -2619,6 +2620,7 @@
 ||cryptallstars.online^
 ||cryptcrestltd.com^
 ||cryptex.to^
+||cryptexarbitrage.pro^
 ||cryptgo.org^
 ||crypthach.com^
 ||cryptixi.com^
@@ -2975,6 +2977,7 @@
 ||defashionette.xyz^
 ||defence247gr.com^
 ||defenderautopartsandsupply.com^
+||defendersmercantile.com^
 ||defense-keychain.com^
 ||defi-usdt.cc^
 ||defi.drop.xyz^
@@ -3846,6 +3849,7 @@
 ||fakebanknotelab.com^
 ||fakedocspro.com^
 ||fakemoneyvendor.com^
+||fakeoakleyssunglasses.org^
 ||fakeusdtsoftware.com^
 ||falalamxn.vip^
 ||falcogift.com^
@@ -4555,6 +4559,7 @@
 ||globalsisalltd.com^
 ||globalsmartrade.com^
 ||globalswift.access.com^
+||globaltradingsltd.com^
 ||globalultrafx.net^
 ||globalwatchshoppingmall.com^
 ||globatrademarket.com^
