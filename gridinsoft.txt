@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.071924.2025
+! Version: 03.08.072831.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 07:19:24 UTC 2025
+! Last modified: Sat Mar  8 07:28:31 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11282
+! Number of entries: 11288
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2964,6 +2964,7 @@
 ||dehla.shop^
 ||dekarbericht.com^
 ||dekarcheck.com^
+||delcreditunion.com^
 ||delicatede.com^
 ||delicemaison.com^
 ||delics.se^
@@ -4889,6 +4890,7 @@
 ||himalayaoutlet.me^
 ||hinataso.com^
 ||hindappstore.com^
+||hindilinks4u.today^
 ||hingfck.com^
 ||hinverifier.com^
 ||hippfy.com^
@@ -6668,6 +6670,7 @@
 ||meta.cafe.net^
 ||meta.pro.space^
 ||metafight.airdrop.com^
+||metalcrushingchemicalsltd.com^
 ||metamaticoin.org^
 ||metamaxim.site^
 ||metamaxrw.site^
@@ -8424,6 +8427,7 @@
 ||qr1.be^
 ||qrefuishz.monster^
 ||qruirseven.com^
+||qrybutgroup.co^
 ||qshinglez.lol^
 ||qtvlivehq.com^
 ||qtvvcshop.com^
@@ -8854,6 +8858,7 @@
 ||samsoniteoutlets.com^
 ||san-stores.com^
 ||san.stores.com^
+||sanantonioonlineshop.com^
 ||sandiego.park.com^
 ||sangdot.online^
 ||saninternet.com^
@@ -10294,6 +10299,7 @@
 ||undressbaby.com^
 ||uniassetsglobal.com^
 ||uniceshop.online^
+||unified-asset.com^
 ||unifiedasset.live^
 ||unifiedtradeoption.pro^
 ||unik.co.id^
