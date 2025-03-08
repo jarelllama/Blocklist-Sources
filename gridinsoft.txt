@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.163129.2025
+! Version: 03.08.164019.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 16:31:29 UTC 2025
+! Last modified: Sat Mar  8 16:40:19 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11419
+! Number of entries: 11421
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -7899,6 +7899,7 @@
 ||out.parks.es.com^
 ||outdoorphoto.co.za^
 ||outdoorshoping.com^
+||outfany.com^
 ||outfitexpress.online^
 ||outfitloft.com^
 ||outfittersmountainhardwear.com^
@@ -10351,6 +10352,7 @@
 ||twotrackproperties.com^
 ||twyae.org^
 ||txex.fun^
+||txex3.com^
 ||tymcra.com^
 ||typoair.com^
 ||tywurystore.buzz^
