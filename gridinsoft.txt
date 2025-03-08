@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.140646.2025
+! Version: 03.08.141821.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 14:06:46 UTC 2025
+! Last modified: Sat Mar  8 14:18:21 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11402
+! Number of entries: 11403
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -10176,6 +10176,7 @@
 ||transscene.com^
 ||trantbitf.astpro.top^
 ||trantnguyentech.store^
+||travelaix.online^
 ||travelarimft.shop^
 ||traxhash.com^
 ||traydai.com^
