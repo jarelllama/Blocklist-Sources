@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.164923.2025
+! Version: 03.08.165843.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 16:49:23 UTC 2025
+! Last modified: Sat Mar  8 16:58:43 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11423
+! Number of entries: 11425
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2815,6 +2815,7 @@
 ||darmavenue.com^
 ||darvtgwnfcb.shop^
 ||darwinex.com^
+||dash.buzzy7.com^
 ||dash.probits.cc^
 ||dash2trade.com^
 ||dashnex.plexusmarket.fund^
@@ -6582,6 +6583,7 @@
 ||masterfootballstore.org^
 ||masterfulart.homes^
 ||mastertalents.online^
+||matchpros-path.online^
 ||math2.online^
 ||mathieugioux.shop^
 ||mathieumand.shop^
