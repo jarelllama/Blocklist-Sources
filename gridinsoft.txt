@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.101039.2025
+! Version: 03.08.102326.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 10:10:39 UTC 2025
+! Last modified: Sat Mar  8 10:23:26 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11352
+! Number of entries: 11355
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2944,6 +2944,7 @@
 ||deepurse.org^
 ||deepweb.fixedmatches.com^
 ||defashionette.xyz^
+||defenderautopartsandsupply.com^
 ||defense-keychain.com^
 ||defi-usdt.cc^
 ||defi.drop.xyz^
@@ -3807,6 +3808,7 @@
 ||faithfultly.com^
 ||fakaira.space^
 ||fakebanknotelab.com^
+||fakedocspro.com^
 ||fakemoneyvendor.com^
 ||fakeusdtsoftware.com^
 ||falalamxn.vip^
@@ -5878,6 +5880,7 @@
 ||kxw69.com^
 ||kxxio.com^
 ||ky1896.cc^
+||ky2957.com^
 ||kyananyc.com^
 ||kyleyperfetto.shop^
 ||kyniper.com^
