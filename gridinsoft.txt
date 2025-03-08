@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.063718.2025
+! Version: 03.08.064629.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 06:37:18 UTC 2025
+! Last modified: Sat Mar  8 06:46:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11258
+! Number of entries: 11263
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1994,6 +1994,7 @@
 ||casinofree2.online^
 ||casinopurple.com^
 ||casioeesti.com^
+||casitadeirene.com^
 ||cassappcard.com^
 ||castarsdk.com^
 ||castillotrade.net^
@@ -4438,9 +4439,12 @@
 ||glasslockmart.shop^
 ||glbgpt.com^
 ||glbtrend.com^
+||gleamhues.com^
 ||gleamoptiontrade.com^
+||gleamward.com^
 ||glecapitalsrl.online^
 ||glenjoyce.com^
+||glestars.com^
 ||gletber.com^
 ||glidershavenexotic.com^
 ||glintyr.shop^
@@ -6651,6 +6655,7 @@
 ||metamaticoin.org^
 ||metamaxim.site^
 ||metamaxrw.site^
+||metamsk-xwallt.godaddysites.com^
 ||metascorex.com^
 ||metatrader5.com^
 ||metatradingai.co^
