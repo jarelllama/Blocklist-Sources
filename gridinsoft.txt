@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.135545.2025
+! Version: 03.08.140646.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 13:55:45 UTC 2025
+! Last modified: Sat Mar  8 14:06:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11400
+! Number of entries: 11402
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4968,6 +4968,7 @@
 ||hok55.com^
 ||hoka-colombia.com.co^
 ||hoka.com.es^
+||hokauss.com^
 ||hokinaga88.com^
 ||hollden.shop^
 ||hollistercolombia.com.co^
@@ -7928,6 +7929,7 @@
 ||pagewings.com^
 ||pagmseguro.online^
 ||pagprotegido.online^
+||paidpex.com^
 ||paikoasa.tv^
 ||painreliefpharmaceuticals.com^
 ||painterlyco.homes^
