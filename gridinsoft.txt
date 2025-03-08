@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.160740.2025
+! Version: 03.08.162128.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 16:07:40 UTC 2025
+! Last modified: Sat Mar  8 16:21:28 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11414
+! Number of entries: 11417
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -200,6 +200,7 @@
 ||7gamevip.vip^
 ||7k.casino.16.online^
 ||7l77vn.site^
+||7launcher.com^
 ||7starbet.com^
 ||7uudk.com^
 ||80-25-dss.vip^
@@ -6023,6 +6024,7 @@
 ||lesparentszens.acemlnb.com^
 ||lespetales.com.au^
 ||lestonbit.com^
+||lesyia.com^
 ||letsgotothemoon.travel.com^
 ||letsoc.com^
 ||leupold.us.shop^
@@ -9554,6 +9556,7 @@
 ||stermcommunity.com^
 ||steroidskaufen.com^
 ||stetsonoutletsales.shop^
+||stgenergy.com^
 ||stggege.org^
 ||sthbill.com^
 ||stieamccommnunlty.com^
