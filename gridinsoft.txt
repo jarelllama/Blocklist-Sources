@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.215154.2025
+! Version: 03.08.220136.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 21:51:54 UTC 2025
+! Last modified: Sat Mar  8 22:01:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11512
+! Number of entries: 11519
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2057,7 +2057,9 @@
 ||cbverify.top^
 ||ccard50.ru^
 ||cccam-premium.pro^
+||ccrypto.online^
 ||ccsnkrs.store^
+||ccsssurvivalusa.com^
 ||ccuqjc.top^
 ||cdaipaid.com^
 ||cddlnc.net^
@@ -3842,10 +3844,13 @@
 ||facepunchdevcommunity.com^
 ||facertvshell.cfd^
 ||factoh.com^
+||factorystorehk.com^
 ||facts.r.friends.com^
+||fadbag.com^
 ||fadedarkspotsfast.com^
 ||faefvqdadrjyc.shop^
 ||faenestm.shop^
+||faeozmi.com^
 ||faforlife.com^
 ||fahrradbestshopde.com^
 ||fahrradex.com^
@@ -5215,6 +5220,8 @@
 ||ibmgtsvip.com^
 ||ibmqgt.com^
 ||icapitalplus.com^
+||icaregadget.store^
+||icasctosreynw.shop^
 ||iceberg.at^
 ||icedragon.club^
 ||iceekoo.com^
