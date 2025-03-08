@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.012602.2025
+! Version: 03.08.015132.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 01:26:02 UTC 2025
+! Last modified: Sat Mar  8 01:51:32 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11190
+! Number of entries: 11193
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2300,6 +2300,7 @@
 ||cncnyr.shop^
 ||cnkjhfyhposjmndh.378wugnima.shop^
 ||cnnhealth.online^
+||cno.jerkmate.net^
 ||cnsmokes.com^
 ||cntstxhbgmzszpvpx.shop^
 ||cnufdxswtdbqrpa.shop^
@@ -4298,6 +4299,7 @@
 ||gedmfcqptsjotwmx.shop^
 ||geebuuy.com^
 ||geegcv.shop^
+||geekmagazin.store^
 ||geekscoin.com^
 ||geektotalcare.com^
 ||geigenbau-bartsch.shop^
@@ -10947,6 +10949,7 @@
 ||xexblt.org^
 ||xexdex.com^
 ||xfcfo.com^
+||xfinanceglobal.trade^
 ||xfnity.id8743.info^
 ||xfnwnw.com^
 ||xfungoods.com^
