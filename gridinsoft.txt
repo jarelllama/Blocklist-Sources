@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.191507.2025
+! Version: 03.08.192406.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 19:15:07 UTC 2025
+! Last modified: Sat Mar  8 19:24:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11446
+! Number of entries: 11448
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -8961,6 +8961,7 @@
 ||saiiuall.com^
 ||sakwesrealtors.com^
 ||salavi88.com^
+||sale-discount.online^
 ||sale.neonsvb.com^
 ||sale.oggi.com^
 ||sale.sviphsh.cn^
@@ -10825,6 +10826,7 @@
 ||w3er.top^
 ||waa7.com^
 ||waas.network^
+||wafronline.com^
 ||wafssstore.shop^
 ||wagerinox.com^
 ||wagexera.com^
