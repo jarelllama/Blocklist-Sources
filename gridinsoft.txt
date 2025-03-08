@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.205157.2025
+! Version: 03.08.210125.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 20:51:57 UTC 2025
+! Last modified: Sat Mar  8 21:01:25 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11476
+! Number of entries: 11482
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2070,9 +2070,12 @@
 ||ceillz.com^
 ||ceipa.edu.co^
 ||celebprize.com^
+||celebsinformation.com^
 ||celeharm.com^
+||celestialcharmshop.com^
 ||celestica.website^
 ||celium.arbitrage.com^
+||cellularwholesalecalifornia.com^
 ||cencomall.org^
 ||cendyngroup.com^
 ||cenorim.com^
@@ -2969,6 +2972,7 @@
 ||deepurse.org^
 ||deepweb.fixedmatches.com^
 ||defashionette.xyz^
+||defence247gr.com^
 ||defenderautopartsandsupply.com^
 ||defense-keychain.com^
 ||defi-usdt.cc^
@@ -9056,6 +9060,7 @@
 ||screy.pro^
 ||scubaprosale.us.shop^
 ||scuffersespanatienda.com^
+||scules.com^
 ||scyrox.com^
 ||sdbullioncoin.com^
 ||sdcts.com^
@@ -9971,6 +9976,7 @@
 ||theoryar.com^
 ||thepalaceoftreasuresaustralia.com^
 ||thepatriotpicks.store^
+||thepharaohssecret.us^
 ||thepillowsintovogue.com^
 ||thepiratebay.mobi^
 ||thepiratebay0.org^
