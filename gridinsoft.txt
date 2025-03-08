@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.224318.2025
+! Version: 03.08.225218.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 22:43:18 UTC 2025
+! Last modified: Sat Mar  8 22:52:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11541
+! Number of entries: 11551
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2054,7 +2054,9 @@
 ||cbex18.com^
 ||cbex3.com^
 ||cbex9.com^
+||cbltrustfinbank.info^
 ||cbmarketradar.com^
+||cbt-market.com^
 ||cbtfturbo99.com^
 ||cbverify.top^
 ||ccard50.ru^
@@ -2881,9 +2883,12 @@
 ||dcodesnippet.com^
 ||dcqww.com^
 ||dcsolutionchemicals.co.za^
+||dd23weq-mall.com^
 ||ddbminer.com^
 ||ddc4shop.com^
+||ddcdshop.live^
 ||ddgwy.com^
+||ddi.im^
 ||ddiscord.ru^
 ||ddsteel.online^
 ||de-lumelia.com^
@@ -3427,6 +3432,7 @@
 ||easygloballtd.com^
 ||easymintminer.com^
 ||easypaycenteronline.com^
+||easypicks101.info^
 ||easyrcashdae.buzz^
 ||easyshort.fun^
 ||eazyaccessoutsourcing.online^
@@ -3819,6 +3825,8 @@
 ||exzhpwxcbjcz.shop^
 ||exzurfwcmuyhmn.shop^
 ||eybmtftmoyzv.shop^
+||eyuef.com^
+||eywnqe.fit^
 ||ez.trades.io^
 ||ezdrive.com^
 ||ezdrivema.cfd^
@@ -5961,6 +5969,7 @@
 ||kukrosti.com^
 ||kulken.com^
 ||kunbestsk.best^
+||kunstcreativiteit.com^
 ||kuoses.com^
 ||kup.amol.cz^
 ||kupid.ai^
@@ -6840,6 +6849,7 @@
 ||metamaxim.site^
 ||metamaxrw.site^
 ||metamsk-xwallt.godaddysites.com^
+||metanopoly.world^
 ||metascorex.com^
 ||metatrade.run^
 ||metatrader5.com^
