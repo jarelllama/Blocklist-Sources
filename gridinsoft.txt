@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.192406.2025
+! Version: 03.08.193349.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 19:24:06 UTC 2025
+! Last modified: Sat Mar  8 19:33:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11448
+! Number of entries: 11451
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -651,6 +651,7 @@
 ||amdconsults.com^
 ||ameapower.vip^
 ||ameliaboxoption.ltd^
+||amelie-montreal.com^
 ||american.edu.co^
 ||americancaritascreditunion.com^
 ||americanfunds.com^
@@ -1081,6 +1082,7 @@
 ||bagii.shop^
 ||bagliy.com^
 ||bagnieman.shop^
+||bagsgorgeous.com^
 ||bagsmalls.com^
 ||bagsupermarket.com^
 ||bahissiteleri.2025.us^
@@ -5433,6 +5435,7 @@
 ||jamesisti.site^
 ||janaashatnnidhi.in^
 ||janrvnuagnt.co^
+||japan-tiger.com^
 ||jar.ru.com^
 ||jaraza.shop^
 ||jatocom.com^
