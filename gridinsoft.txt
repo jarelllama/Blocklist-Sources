@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.074642.2025
+! Version: 03.08.075541.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 07:46:42 UTC 2025
+! Last modified: Sat Mar  8 07:55:41 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11295
+! Number of entries: 11299
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1302,6 +1302,7 @@
 ||biggetex.com^
 ||biglotmauus.com^
 ||biglotsalling.com^
+||biglotscloseout.com^
 ||biglotsclosures.com^
 ||biglotsoverstock.com^
 ||biglotsshoppingplaza.com^
@@ -4481,6 +4482,7 @@
 ||globalfoxtrade.com^
 ||globalfutureltd.com^
 ||globalheritageltd.org^
+||globalhextrade.com^
 ||globallogisticsco.com^
 ||globalnexusoptimum.com^
 ||globalnotelab.com^
@@ -4964,6 +4966,7 @@
 ||hopsonflagship.com^
 ||horizonblockhash.com^
 ||horizoncapitals.org^
+||horizonsoftstore.com^
 ||horyx.shop^
 ||horze.it.top^
 ||hospitaltests.com^
@@ -8016,6 +8019,7 @@
 ||physichope.com^
 ||pi2usd.com^
 ||piako.finance.com^
+||picbag.shop^
 ||pickupskinserumproductinstantly.com^
 ||pickyspun.com^
 ||pietrodiuccio.com^
