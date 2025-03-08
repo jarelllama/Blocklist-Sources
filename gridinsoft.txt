@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.064629.2025
+! Version: 03.08.065525.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 06:46:29 UTC 2025
+! Last modified: Sat Mar  8 06:55:25 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11263
+! Number of entries: 11271
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2820,6 +2820,7 @@
 ||daxpulse.com^
 ||daxtok.com^
 ||daydison.shop^
+||dayshop-ph.com^
 ||daywint.com^
 ||dbaxnkrecxzwdahr.shop^
 ||dbbculvkyr.pink^
@@ -4434,6 +4435,7 @@
 ||gizmode.shop^
 ||glamoreal.com^
 ||glamourpeptides.com^
+||glamwardro.com^
 ||glamwhat.com^
 ||glanzberg.mode.de^
 ||glasslockmart.shop^
@@ -5076,6 +5078,9 @@
 ||hyderabadnyte.com^
 ||hydralinks.cloud^
 ||hydrogry.com^
+||hygsdkbhjoy.shop^
+||hyhqhuvzvzydmoh.shop^
+||hyhwkwbdhf.shop^
 ||hypahood.com^
 ||hypebox-brand.com^
 ||hypecreativesuntribewellness.com^
@@ -5808,6 +5813,8 @@
 ||kukrosti.com^
 ||kulken.com^
 ||kunbestsk.best^
+||kuoses.com^
+||kup.amol.cz^
 ||kupid.ai^
 ||kurtastudio.com^
 ||kw-fr.shop^
@@ -7409,6 +7416,7 @@
 ||nira.id^
 ||nitrobet.club^
 ||nitronsignalmarket.com^
+||nitroxproonline.com^
 ||nixtrading.space^
 ||njtepujarwdtd.shop^
 ||nkn.org^
