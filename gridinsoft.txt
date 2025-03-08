@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.022842.2025
+! Version: 03.08.024215.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 02:28:42 UTC 2025
+! Last modified: Sat Mar  8 02:42:15 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11196
+! Number of entries: 11199
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2583,6 +2583,7 @@
 ||crypthach.com^
 ||cryptixi.com^
 ||cryptn.org^
+||crypto-atp.net^
 ||crypto-post.com^
 ||crypto-savingexpert.com^
 ||crypto.chinese.com^
@@ -3328,6 +3329,7 @@
 ||earnsocial.shop^
 ||earnytbvideo.top^
 ||earringssale.com^
+||easeeasecurtains.com^
 ||easefuldreams.com^
 ||easelayer.co^
 ||eastcoastscreening.com^
@@ -7640,6 +7642,7 @@
 ||onlinesevafine.com^
 ||onlineshopleader.com^
 ||onlinessyodobashis.cc^
+||onlinesteroidsuk.co^
 ||onlinestoretechshop.com^
 ||onlineveda.shop^
 ||onlinewealthmantra.com^
