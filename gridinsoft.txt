@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.225218.2025
+! Version: 03.08.230212.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 22:52:18 UTC 2025
+! Last modified: Sat Mar  8 23:02:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11551
+! Number of entries: 11557
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2267,6 +2267,7 @@
 ||classicteefox.com^
 ||classicused.cars.com^
 ||classinewshoes.com^
+||claytonsonlinestore.store^
 ||clcriptomonedas006.com^
 ||clcriptomonedas007.com^
 ||cldepot.com^
@@ -4557,7 +4558,10 @@
 ||glidershavenexotic.com^
 ||glintyr.shop^
 ||glistensport.com^
+||glitmarch.com^
+||glitrend.com^
 ||glitshine.com^
+||glitteras.com^
 ||glizm.com^
 ||gllpdh.club^
 ||glmrjwl.com^
@@ -5967,6 +5971,7 @@
 ||kukaj.in^
 ||kukirin-escooter.com^
 ||kukrosti.com^
+||kulinmou.com^
 ||kulken.com^
 ||kunbestsk.best^
 ||kunstcreativiteit.com^
@@ -6848,6 +6853,7 @@
 ||metamaticoin.org^
 ||metamaxim.site^
 ||metamaxrw.site^
+||metamesk.online^
 ||metamsk-xwallt.godaddysites.com^
 ||metanopoly.world^
 ||metascorex.com^
