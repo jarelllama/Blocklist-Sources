@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.212328.2025
+! Version: 03.08.213321.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 21:23:28 UTC 2025
+! Last modified: Sat Mar  8 21:33:21 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11491
+! Number of entries: 11496
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2904,6 +2904,7 @@
 ||deenext.com^
 ||deepcoinf.com^
 ||deepllysmart.com^
+||deepmindinvestments.com^
 ||deepnude.to^
 ||deepnudeai.online^
 ||deeppu.xyz^
@@ -2974,6 +2975,7 @@
 ||deepspectre.com^
 ||deepurse.org^
 ||deepweb.fixedmatches.com^
+||defactoboutique.com^
 ||defashionette.xyz^
 ||defence247gr.com^
 ||defenderautopartsandsupply.com^
@@ -5208,6 +5210,7 @@
 ||icocrypto.us^
 ||icominer.com^
 ||iconamsterdam.com^
+||iconcss.com^
 ||iconicinternational.online^
 ||id184124.com^
 ||idatech.online^
@@ -7734,6 +7737,7 @@
 ||officialmaga.com^
 ||officialmagacoin.com^
 ||officialmagacoin.io^
+||officialolive.com^
 ||officialspiderus.com^
 ||officialsvtshop.com^
 ||offresdespace24.com^
@@ -11192,6 +11196,7 @@
 ||ww7.lemoniada.online^
 ||wwcoin6.com^
 ||wwerular.shop^
+||wwfbelt.com^
 ||wwtchain.top^
 ||wwvv.blablastream.com^
 ||www.6546.com^
