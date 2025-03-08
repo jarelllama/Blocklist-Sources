@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.075541.2025
+! Version: 03.08.080731.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 07:55:41 UTC 2025
+! Last modified: Sat Mar  8 08:07:31 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11299
+! Number of entries: 11302
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6339,6 +6339,7 @@
 ||mail.eu.linkedover.com^
 ||maildley.com^
 ||mailecopeland.shop^
+||maillotdefou.com^
 ||mailsprint.shop^
 ||mainecoonkittenhomes.com^
 ||mainelobsterget.shop^
@@ -8250,6 +8251,7 @@
 ||prologisticsolution.com^
 ||prom.baltyk24.eu5.net^
 ||promask.pro^
+||promo-best.com^
 ||promo.offer.com^
 ||promo122.com^
 ||promotion-a.shop^
@@ -10655,6 +10657,7 @@
 ||voliainvest.ag.com^
 ||volklsports.com^
 ||volmar.sinformations.cfd^
+||volsproshop.com^
 ||volundvt.dk^
 ||vonixspacemine.com^
 ||vopifg.com^
