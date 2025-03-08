@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.233529.2025
+! Version: 03.08.234430.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 23:35:29 UTC 2025
+! Last modified: Sat Mar  8 23:44:30 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11566
+! Number of entries: 11568
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6315,6 +6315,7 @@
 ||lotrekdigitalmarketing.com^
 ||lotto.bw.de^
 ||lottobet.online^
+||lottochamp24.com^
 ||lottochampweb.com^
 ||lotusgames777.online^
 ||loucanavarri.shop^
@@ -7250,6 +7251,7 @@
 ||mrprice.online^
 ||mrzbxqjesnqatekh.shop^
 ||ms.nordictrack.cc^
+||msafely.com^
 ||mscfxtrader.com^
 ||mschxzrmcyzjmj.shop^
 ||mscommerce.net^
