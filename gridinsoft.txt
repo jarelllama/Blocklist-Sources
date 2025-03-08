@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.132815.2025
+! Version: 03.08.133736.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 13:28:15 UTC 2025
+! Last modified: Sat Mar  8 13:37:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11393
+! Number of entries: 11398
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -406,6 +406,7 @@
 ||agribicerhansolutionsltd.net^
 ||agrisystemes.com^
 ||agrocryptorealty.com^
+||agrot.com.ng^
 ||agrozenith.org^
 ||agttyup.com^
 ||agyabashipping.com^
@@ -5943,6 +5944,7 @@
 ||laronnistore.com^
 ||laroque.mode.com^
 ||lasanteetlesplantes.com^
+||lasercutdesigns.shop^
 ||lasopaclan897.weebly.com^
 ||lasso.guru^
 ||lastbit.in^
@@ -6714,6 +6716,7 @@
 ||melvinya.com^
 ||member-federation.com^
 ||meme.bot.trade^
+||memefast.fun^
 ||memetrump.org^
 ||memoforce.net^
 ||memubit.com^
@@ -9602,6 +9605,7 @@
 ||suckbetg.online^
 ||sucreat.com^
 ||suculentowatch.com^
+||sudzucker.top^
 ||sueeshop.com^
 ||suewhitehurst.shop^
 ||sugarsyncglycooptimizer.com^
@@ -11368,6 +11372,7 @@
 ||zkfair.io^
 ||zks7.com^
 ||zlibrary.to^
+||zmexaie.com^
 ||zobtask.com^
 ||zola-london.com^
 ||zolmen.com^
