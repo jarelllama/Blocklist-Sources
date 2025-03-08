@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.091028.2025
+! Version: 03.08.092240.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 09:10:28 UTC 2025
+! Last modified: Sat Mar  8 09:22:40 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11327
+! Number of entries: 11332
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3789,10 +3789,12 @@
 ||fabriclinez.com^
 ||fabrics-fabricsa.shop^
 ||fabriziobosio.it^
+||face-your-dreams.com^
 ||facebook.busines.tempisite.com^
 ||facebook.fr^
 ||facepunchdevcommunity.com^
 ||facertvshell.cfd^
+||factoh.com^
 ||facts.r.friends.com^
 ||fadedarkspotsfast.com^
 ||faefvqdadrjyc.shop^
@@ -4492,6 +4494,7 @@
 ||globalgoodsmart.myshoplaza.com^
 ||globalheritageltd.org^
 ||globalhextrade.com^
+||globaljetcargos.com^
 ||globallogisticcouriers.com^
 ||globallogisticsco.com^
 ||globalmerchb.com^
@@ -5850,6 +5853,7 @@
 ||kusapuppies.co.za^
 ||kuschelpet.com^
 ||kuulsvtres.com^
+||kuy4d.org^
 ||kv-korrektur.com^
 ||kvfde.com^
 ||kvill.tech^
@@ -6716,6 +6720,7 @@
 ||metfares.com^
 ||metflix.org^
 ||metflix.site^
+||metflix.top^
 ||methhouse.store^
 ||methodeversohnungvonbeziehungen.online^
 ||metodo.sigma.online^
