@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.144613.2025
+! Version: 03.08.145533.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 14:46:13 UTC 2025
+! Last modified: Sat Mar  8 14:55:33 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11404
+! Number of entries: 11405
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3843,6 +3843,7 @@
 ||faredglorias.com^
 ||farmaciafrancesa.com^
 ||farmaciasenovillasancho.com^
+||farmaesonline.com^
 ||farmapram.com^
 ||farmasi.es^
 ||farmed.es^
