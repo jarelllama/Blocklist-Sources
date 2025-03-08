@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.220136.2025
+! Version: 03.08.221332.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 22:01:36 UTC 2025
+! Last modified: Sat Mar  8 22:13:32 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11519
+! Number of entries: 11525
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2039,6 +2039,7 @@
 ||catslaptoken.com^
 ||cattaild.com^
 ||catteau.lagarec.fr^
+||catterysiameselife.com^
 ||catx.bar^
 ||catzilla.meme^
 ||causehoodies.com^
@@ -2669,6 +2670,7 @@
 ||cryptolesolution.org^
 ||cryptolexs.com^
 ||cryptolios.net^
+||cryptomining.mobi^
 ||cryptominingfx.com^
 ||cryptomininggenius.online^
 ||cryptominingpoolfxs.com^
@@ -2876,9 +2878,11 @@
 ||dcaspot.com^
 ||dcodesnippet.com^
 ||dcqww.com^
+||dcsolutionchemicals.co.za^
 ||ddbminer.com^
 ||ddc4shop.com^
 ||ddgwy.com^
+||ddiscord.ru^
 ||ddsteel.online^
 ||de-lumelia.com^
 ||de.bellabarnett.com^
@@ -3841,6 +3845,7 @@
 ||face-your-dreams.com^
 ||facebook.busines.tempisite.com^
 ||facebook.fr^
+||facegook.ru^
 ||facepunchdevcommunity.com^
 ||facertvshell.cfd^
 ||factoh.com^
@@ -5216,6 +5221,7 @@
 ||ib.mondfx.com^
 ||ibisnashikhotel.online^
 ||ibksport.eu^
+||ibkuf.com^
 ||ibluestore.com^
 ||ibmgtsvip.com^
 ||ibmqgt.com^
