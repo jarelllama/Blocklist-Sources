@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.145533.2025
+! Version: 03.08.150629.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 14:55:33 UTC 2025
+! Last modified: Sat Mar  8 15:06:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11405
+! Number of entries: 11407
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3157,6 +3157,7 @@
 ||discoverprimedefi.com^
 ||discoverthebest.co^
 ||discoverymart.net^
+||discreetphasesolution.net^
 ||discttime.shop^
 ||distabiler.co.in^
 ||disticountampalace.shop^
@@ -8178,6 +8179,7 @@
 ||pocketoption.bwgcompany.com^
 ||pocketoption.com^
 ||pockettrader.org^
+||poffoundation.online^
 ||pointway.io^
 ||pokebooster.fr^
 ||pokecristo.com^
