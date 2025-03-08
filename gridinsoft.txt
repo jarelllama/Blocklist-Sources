@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.054946.2025
+! Version: 03.08.055854.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 05:49:46 UTC 2025
+! Last modified: Sat Mar  8 05:58:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11238
+! Number of entries: 11242
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4561,6 +4561,7 @@
 ||goodcasino.ph^
 ||goodguitarbrothersz.shop^
 ||goodinrosyzs.shop^
+||goodmilitarysupply.com^
 ||goodonee.com^
 ||goodoutweighs.top^
 ||goodserchez.com^
@@ -5774,6 +5775,9 @@
 ||kucoin-login.org^
 ||kucoin321.vip^
 ||kucoinc.com^
+||kuechenprofitech.com^
+||kuechenraumde.com^
+||kuechenweltde.com^
 ||kuefer.nl^
 ||kuiesd.com^
 ||kuishang.top^
