@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.210125.2025
+! Version: 03.08.211330.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 21:01:25 UTC 2025
+! Last modified: Sat Mar  8 21:13:30 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11482
+! Number of entries: 11486
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2901,6 +2901,7 @@
 ||deenari.ae^
 ||deenext.com^
 ||deepcoinf.com^
+||deepllysmart.com^
 ||deepnude.to^
 ||deepnudeai.online^
 ||deeppu.xyz^
@@ -3847,6 +3848,7 @@
 ||fakemoneyvendor.com^
 ||fakeusdtsoftware.com^
 ||falalamxn.vip^
+||falcogift.com^
 ||falconfxtrading.com^
 ||famety.com^
 ||family365xday.store^
@@ -4554,6 +4556,8 @@
 ||globalsmartrade.com^
 ||globalswift.access.com^
 ||globalultrafx.net^
+||globalwatchshoppingmall.com^
+||globatrademarket.com^
 ||globe-pay.online^
 ||globe.trade.ltd^
 ||globeathome.online^
