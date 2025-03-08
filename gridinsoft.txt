@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.092240.2025
+! Version: 03.08.093141.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 09:22:40 UTC 2025
+! Last modified: Sat Mar  8 09:31:41 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11332
+! Number of entries: 11335
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2046,6 +2046,7 @@
 ||cdaipaid.com^
 ||cddlnc.net^
 ||cdn.a1.jumbomail.me^
+||cdn.tanganetwork.com^
 ||cdn3.booksdl.lc^
 ||cdonnsauw.top^
 ||ceaondlet.com^
@@ -5857,6 +5858,7 @@
 ||kv-korrektur.com^
 ||kvfde.com^
 ||kvill.tech^
+||kvlangest.com^
 ||kw-fr.shop^
 ||kwbgkwcneuax.shop^
 ||kwhntd.shop^
@@ -6723,6 +6725,7 @@
 ||metflix.top^
 ||methhouse.store^
 ||methodeversohnungvonbeziehungen.online^
+||metlapa.com^
 ||metodo.sigma.online^
 ||metodolog.online^
 ||metroparcl.online^
