@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.044838.2025
+! Version: 03.08.045744.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 04:48:38 UTC 2025
+! Last modified: Sat Mar  8 04:57:44 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11222
+! Number of entries: 11224
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3708,6 +3708,7 @@
 ||exorbit.online^
 ||exoticdisposablecarts.com^
 ||exoticparrotpetstore.com^
+||exoticwhiskeyshop.com^
 ||exotradepoint.com^
 ||exouous.com^
 ||expand.experts.com^
@@ -5763,6 +5764,7 @@
 ||ktxt.net^
 ||kuailuon.com^
 ||kubabuy.com^
+||kucoin-login.org^
 ||kucoin321.vip^
 ||kucoinc.com^
 ||kuiesd.com^
