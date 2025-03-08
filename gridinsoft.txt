@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.105151.2025
+! Version: 03.08.110135.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 10:51:51 UTC 2025
+! Last modified: Sat Mar  8 11:01:35 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11367
+! Number of entries: 11371
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2051,6 +2051,7 @@
 ||cdn3.booksdl.lc^
 ||cdonnsauw.top^
 ||cdrremodeling.com^
+||ce8863.com^
 ||ceaondlet.com^
 ||cegepsi.ca^
 ||ceillz.com^
@@ -3505,6 +3506,7 @@
 ||elysiumvip.top^
 ||elysse.store^
 ||em-sugardefender.com^
+||em.drberg.eu^
 ||email.mail.spinfinity.casino^
 ||emara-academy.com^
 ||embasic.pro^
@@ -5886,6 +5888,7 @@
 ||ky2957.com^
 ||ky3623.cc^
 ||kyananyc.com^
+||kybershop.com^
 ||kyleyperfetto.shop^
 ||kyniper.com^
 ||kyorescart.shop^
@@ -8637,6 +8640,7 @@
 ||recwallet.cc^
 ||redbeautylife.com^
 ||reddit.streams.online^
+||redecanais.africa^
 ||redeemabi.netlify.app^
 ||redeemai.site^
 ||redgol.cl^
