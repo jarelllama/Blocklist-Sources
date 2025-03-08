@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.182515.2025
+! Version: 03.08.183457.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 18:25:15 UTC 2025
+! Last modified: Sat Mar  8 18:34:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11434
+! Number of entries: 11436
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5701,6 +5701,7 @@
 ||keepsuperheroen.shop^
 ||kefu.swapbit.top^
 ||kelansu.com^
+||kemavi.com^
 ||kempia.com^
 ||ken.exmax.com^
 ||kendallpeter.shop^
@@ -5931,6 +5932,7 @@
 ||laceandlush.com^
 ||lacebread.com^
 ||lacefaves.com^
+||lacemagc.com^
 ||lachilirouge.com^
 ||lacoste-eu.com^
 ||lacostes.com.mx^
