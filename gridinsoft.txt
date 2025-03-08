@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.150629.2025
+! Version: 03.08.151857.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 15:06:29 UTC 2025
+! Last modified: Sat Mar  8 15:18:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11407
+! Number of entries: 11409
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -7638,6 +7638,7 @@
 ||obalaso.online^
 ||obathp.com^
 ||obct.everyjobforme.com^
+||obella-london.co.uk^
 ||obraspublicaschaco2024.online^
 ||obsessedarchery.com^
 ||obtuyme.com^
@@ -10930,6 +10931,7 @@
 ||westernfinancialbank.com^
 ||westtic.com^
 ||wetoxy.com^
+||wexapee.shop^
 ||wfage.cc^
 ||wfbs.store^
 ||wfoqfashion.shop^
