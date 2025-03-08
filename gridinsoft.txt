@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.094950.2025
+! Version: 03.08.095855.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 09:49:50 UTC 2025
+! Last modified: Sat Mar  8 09:58:55 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11343
+! Number of entries: 11347
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3308,6 +3308,7 @@
 ||du.fastopay.my.uae.com^
 ||dualmine.com^
 ||dualtricks.in^
+||dubai-trading.org^
 ||dubaifinancial.org^
 ||duelbits.com^
 ||duexpro.co.uk^
@@ -4508,6 +4509,7 @@
 ||globalrainingcoin.com^
 ||globalresearchchemicals.com^
 ||globalsfundrecovery.com^
+||globalsisalltd.com^
 ||globalsmartrade.com^
 ||globalswift.access.com^
 ||globalultrafx.net^
@@ -5870,6 +5872,7 @@
 ||kwikpolz.site^
 ||kwjblp.top^
 ||kwnoxmwkcxswxbz.shop^
+||kx5639.com^
 ||kxhs16.vip^
 ||kxw69.com^
 ||kyananyc.com^
@@ -6735,6 +6738,7 @@
 ||metodolog.online^
 ||metrobridgecapital.com^
 ||metrocallproinvesent.top^
+||metrolinanephrology.com^
 ||metroparcl.online^
 ||metropolidata.com^
 ||metrotradeltd.com^
