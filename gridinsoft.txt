@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.222442.2025
+! Version: 03.08.223403.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 22:24:42 UTC 2025
+! Last modified: Sat Mar  8 22:34:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11532
+! Number of entries: 11540
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1575,6 +1575,7 @@
 ||blokchainsbit.com^
 ||blombard.com^
 ||bloom.as^
+||bloopveer6.store^
 ||bloostroe.com^
 ||blossduck.com^
 ||bloxchest.com^
@@ -2369,6 +2370,7 @@
 ||cohenxy.com^
 ||cohiba-a.com^
 ||coin-a.com^
+||coin-bt.com^
 ||coin-m.com^
 ||coin-markets.com^
 ||coin-rely.com^
@@ -4561,10 +4563,15 @@
 ||globaldocs.online.com^
 ||globalfinaltd.com^
 ||globalfingroup.com^
+||globalfireworks.eu^
 ||globalflashco.com^
 ||globalfoxtrade.com^
 ||globalfutureltd.com^
+||globalfxledger.co^
 ||globalgoodsmart.myshoplaza.com^
+||globalgoodsshopping.com^
+||globalhardwaretoolstore.com^
+||globalhaulaging.com^
 ||globalheritageltd.org^
 ||globalhextrade.com^
 ||globaljetcargos.com^
@@ -8667,6 +8674,7 @@
 ||quvrmh.com^
 ||qvc-earn.com^
 ||qvcfactory.com^
+||qvchsr.com^
 ||qvion8.com^
 ||qviond.com^
 ||qvrmall.com^
