@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.054019.2025
+! Version: 03.08.054946.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 05:40:19 UTC 2025
+! Last modified: Sat Mar  8 05:49:46 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11234
+! Number of entries: 11238
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3730,6 +3730,7 @@
 ||expresshighsdirect.com^
 ||expressionu.com^
 ||expresswallet.pro^
+||exquisitpflanze.com^
 ||extrapyro.com^
 ||extreme-down.social^
 ||extremecm.online^
@@ -5773,7 +5774,9 @@
 ||kucoin-login.org^
 ||kucoin321.vip^
 ||kucoinc.com^
+||kuefer.nl^
 ||kuiesd.com^
+||kuishang.top^
 ||kuishei.top^
 ||kuishupai.top^
 ||kuiuonsale.com^
@@ -7745,6 +7748,7 @@
 ||ou-chhh.store^
 ||ourbloombox.com^
 ||ourcoincash.xyz^
+||ourhomeflow.com^
 ||ourjoiasaldo.shop^
 ||ourruless.store^
 ||oursportday.com^
