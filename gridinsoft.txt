@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.230212.2025
+! Version: 03.08.231506.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 23:02:12 UTC 2025
+! Last modified: Sat Mar  8 23:15:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11557
+! Number of entries: 11564
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -308,6 +308,7 @@
 ||acpincusdt.com^
 ||acquasculpt.com^
 ||acquistadocumenti.com^
+||acrobatbuy.shop^
 ||acropolisnow.top^
 ||acrossfold.com^
 ||acrylicinvestment.com^
@@ -2883,6 +2884,7 @@
 ||dcaspot.com^
 ||dcodesnippet.com^
 ||dcqww.com^
+||dcscrd.top^
 ||dcsolutionchemicals.co.za^
 ||dd23weq-mall.com^
 ||ddbminer.com^
@@ -7556,6 +7558,7 @@
 ||newulife.com^
 ||newworldstrusts.com^
 ||newycomm.com^
+||newyo.top^
 ||newyorkob.com^
 ||newyorkshroomsonline.com^
 ||nexamazon.com^
@@ -9936,6 +9939,7 @@
 ||tedlook.com^
 ||teedrowed.co.in^
 ||teeluxegifts.com^
+||teenleaks23.com^
 ||teflam.com^
 ||teiagrma.pub^
 ||tekelife.cc^
@@ -10396,6 +10400,7 @@
 ||trustbklmt.com^
 ||trustcoin.vip^
 ||trustcryptoprofit.com^
+||trusted-specials.org^
 ||trusted.paysbtc.com^
 ||trustedcrypsigfex.com^
 ||trustedunity-bk.online^
@@ -10526,6 +10531,7 @@
 ||uhray.clubstrack.shop^
 ||uhzsw.com^
 ||uidsse.com^
+||ujjwaldatasolutions.com^
 ||ukflirtzone.com^
 ||ukhomebase.com^
 ||uksxmall.store^
@@ -10911,6 +10917,7 @@
 ||votingplatform.ct.ws^
 ||vovara.brisbane.com^
 ||voxis.site^
+||voxminingpool.us^
 ||vpnclix.com^
 ||vrdworld.link^
 ||vseeboxtv.co^
