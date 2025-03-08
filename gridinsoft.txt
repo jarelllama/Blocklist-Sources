@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.174909.2025
+! Version: 03.08.175825.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 17:49:09 UTC 2025
+! Last modified: Sat Mar  8 17:58:25 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11428
+! Number of entries: 11431
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2190,6 +2190,7 @@
 ||churrasconoap.com.br^
 ||chwjd.shop^
 ||ciarfex.com^
+||cibago.com^
 ||cicc.ink^
 ||ciecoenergy.ltd^
 ||ciekawoscobywateli.click^
@@ -5419,6 +5420,7 @@
 ||jackrussellpinnacle.com^
 ||jadloresga.shop^
 ||jaguafrangosalimentosltda.com^
+||jaguarfreecoins.com^
 ||jaiberry.com^
 ||jainmandir.info^
 ||jalisco.qr.online^
@@ -10194,6 +10196,7 @@
 ||trangotech.xyz^
 ||transappltd.com^
 ||transcorpcapital.live^
+||transfersswift.com^
 ||transsabiodetoro-sl.com^
 ||transscene.com^
 ||trantbitf.astpro.top^
