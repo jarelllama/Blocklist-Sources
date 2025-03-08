@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.130541.2025
+! Version: 03.08.131905.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 13:05:41 UTC 2025
+! Last modified: Sat Mar  8 13:19:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11387
+! Number of entries: 11393
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3644,6 +3644,7 @@
 ||estesmediaseo.com^
 ||estherwinter.eu^
 ||estiloargento.com.ar^
+||estilosdemuebles.com^
 ||estrazint.com^
 ||esty.com^
 ||esysgb.com^
@@ -4220,6 +4221,7 @@
 ||fsmirror09.lol^
 ||fsmirror24.lol^
 ||ftx.global.site^
+||fuckfinder.com^
 ||fuckinyourcity.com^
 ||fudianbank.win^
 ||fuelwineswholesalesf.shop^
@@ -5928,6 +5930,7 @@
 ||lamafilm.club^
 ||lamaisondumaillot.com^
 ||lamay.shop^
+||lamode-quebec.com^
 ||lamyaboutiques.com^
 ||landmark.online.workers.dev^
 ||landscape.goalked.cfd^
@@ -7488,6 +7491,7 @@
 ||niduf.com^
 ||niffyhub.com^
 ||nightbux.com^
+||nike-m.cc^
 ||nikecolombiabogota.co^
 ||nikocanvas.com^
 ||nilsenconsulting.io^
@@ -10670,6 +10674,7 @@
 ||vilotex.com^
 ||vimbag.com^
 ||vincecomfort.com^
+||vinedir.com^
 ||vineyardsoutlet.com^
 ||vinkaoilgasconsultant.com^
 ||vintacrow.com^
@@ -11364,6 +11369,7 @@
 ||zks7.com^
 ||zlibrary.to^
 ||zobtask.com^
+||zola-london.com^
 ||zolmen.com^
 ||zonedir.info^
 ||zonex24.com^
