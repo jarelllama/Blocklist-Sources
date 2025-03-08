@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.070632.2025
+! Version: 03.08.071924.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 07:06:32 UTC 2025
+! Last modified: Sat Mar  8 07:19:24 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11275
+! Number of entries: 11282
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1990,6 +1990,7 @@
 ||cashphoneoriginal.com^
 ||cashtube.co^
 ||cashtube.io^
+||casibom-vip-giris.com^
 ||casinoblue.world^
 ||casinofree2.online^
 ||casinopurple.com^
@@ -2812,6 +2813,7 @@
 ||datmyx.online^
 ||dauntlessgpautobot.pro^
 ||daveamor.us^
+||daviddswanson.com^
 ||daviliem.shop^
 ||davschoolellenabad.com^
 ||davyholdenhistory.com^
@@ -3324,6 +3326,7 @@
 ||dystarwears.com^
 ||dzan23.cn^
 ||e-flux.shop^
+||e-vibrations.vip^
 ||e.bayaffiliate.life^
 ||e.bookforthought.com^
 ||e.wu.store.com^
@@ -4437,6 +4440,8 @@
 ||glamfetch.com^
 ||glamoreal.com^
 ||glamourpeptides.com^
+||glamqual.com^
+||glamreplicas.com^
 ||glamwardro.com^
 ||glamwhat.com^
 ||glanzberg.mode.de^
@@ -5820,6 +5825,7 @@
 ||kup.amol.cz^
 ||kupid.ai^
 ||kurtastudio.com^
+||kusapuppies.co.za^
 ||kw-fr.shop^
 ||kwbgkwcneuax.shop^
 ||kwhntd.shop^
@@ -10897,6 +10903,7 @@
 ||wiseskins.com^
 ||witimselsolar.com^
 ||wittweidende.store^
+||witv.store^
 ||wixboom.com^
 ||wixcom.com^
 ||wixrol.com^
