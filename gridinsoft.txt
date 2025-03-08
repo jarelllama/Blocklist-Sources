@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.080731.2025
+! Version: 03.08.082115.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 08:07:31 UTC 2025
+! Last modified: Sat Mar  8 08:21:15 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11302
+! Number of entries: 11305
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2450,6 +2450,7 @@
 ||consensuts.com^
 ||conservativista.com^
 ||consorciosrt.online^
+||consorsglobal.com^
 ||constipation.relieve.16.online^
 ||constitutionalalleviation.top^
 ||construction.jobs.nz.online^
@@ -4481,6 +4482,7 @@
 ||globalflashco.com^
 ||globalfoxtrade.com^
 ||globalfutureltd.com^
+||globalgoodsmart.myshoplaza.com^
 ||globalheritageltd.org^
 ||globalhextrade.com^
 ||globallogisticsco.com^
@@ -8249,6 +8251,7 @@
 ||prolearnpoint.com^
 ||prolinguistreport.org^
 ||prologisticsolution.com^
+||prologistrust.com^
 ||prom.baltyk24.eu5.net^
 ||promask.pro^
 ||promo-best.com^
