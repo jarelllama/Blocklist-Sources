@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.083953.2025
+! Version: 03.08.084921.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 08:39:53 UTC 2025
+! Last modified: Sat Mar  8 08:49:21 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11313
+! Number of entries: 11318
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1098,6 +1098,7 @@
 ||bankofamerica.club^
 ||bankwiz.net^
 ||bankxpay.com^
+||bannersy.com^
 ||bantuswahilitours.com^
 ||baominpower.com^
 ||bapes.com.mx^
@@ -2859,6 +2860,7 @@
 ||deathance.com^
 ||debtfreehomez.com^
 ||debtfreesupport.com^
+||decaturmining.com^
 ||decentralizedtek.pages.dev^
 ||decorhome.arg.store^
 ||decorstore.club^
@@ -5842,6 +5844,7 @@
 ||kupid.ai^
 ||kurtastudio.com^
 ||kusapuppies.co.za^
+||kuschelpet.com^
 ||kuulsvtres.com^
 ||kw-fr.shop^
 ||kwbgkwcneuax.shop^
@@ -9549,6 +9552,7 @@
 ||sunday-shop.online^
 ||sundial-funds.com^
 ||sunehladeal.com^
+||sunglassfor.com^
 ||sunnygo.co.uk^
 ||sunriseshop.in^
 ||sunsetln.com^
@@ -11280,6 +11284,7 @@
 ||zimtrades.com^
 ||zinacams.ru^
 ||zinoxt.net^
+||zippgames.com^
 ||ziprecruiter.com^
 ||ziraatbankasiservice.com^
 ||zjj.jh.com^
