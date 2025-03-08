@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.032523.2025
+! Version: 03.08.033602.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 03:25:23 UTC 2025
+! Last modified: Sat Mar  8 03:36:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11205
+! Number of entries: 11209
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3193,6 +3193,7 @@
 ||donarex.com^
 ||donsagace.net^
 ||doobysnails.com^
+||doores.live^
 ||dopehungary.hu.com^
 ||dopesneakers.shop^
 ||doraln.com^
@@ -6983,6 +6984,7 @@
 ||mrgascarts.com^
 ||mrgasdisposableshop.com^
 ||mrmwtnmzujnv.shop^
+||mrprice.online^
 ||mrzbxqjesnqatekh.shop^
 ||ms.nordictrack.cc^
 ||mscfxtrader.com^
@@ -8268,6 +8270,7 @@
 ||puredapk.com^
 ||puregoodsfy.com^
 ||pureland.sbs^
+||purengreen.top^
 ||purestylesz.com^
 ||purgerecoil.club^
 ||purovskynpz.com^
@@ -9159,6 +9162,7 @@
 ||soc.proof.su^
 ||soccerballofficial.com^
 ||soccerlive.app^
+||socialgains.site^
 ||socialplug.io^
 ||sociedaduniversal.com^
 ||socigames.com^
