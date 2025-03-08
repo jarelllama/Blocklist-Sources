@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.184416.2025
+! Version: 03.08.185315.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 18:44:16 UTC 2025
+! Last modified: Sat Mar  8 18:53:15 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11440
+! Number of entries: 11444
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -9187,6 +9187,7 @@
 ||shoperasmerch.com^
 ||shophopesboutique.com.montgomerymiss.com^
 ||shophoriia.com^
+||shopify-mg.com^
 ||shopifyoutlets.com^
 ||shoplusty.com^
 ||shoponlinesale.shop^
@@ -9382,6 +9383,7 @@
 ||softastrd.com^
 ||softgama.online^
 ||softontop.io^
+||softserve-vip.click^
 ||softserve.vip.click^
 ||softserve.vip.com^
 ||softwarekeep.com^
@@ -10959,6 +10961,7 @@
 ||weshopforme.com^
 ||westernaitrade.com^
 ||westernfinancialbank.com^
+||westernshootersupplies.com^
 ||westtic.com^
 ||wetoxy.com^
 ||wexapee.shop^
@@ -11041,6 +11044,7 @@
 ||wintogetherplan.com^
 ||wintronrtx.com^
 ||wintrustequities.net^
+||wintulle.com^
 ||winuno55.com^
 ||winuseful.com^
 ||winviag.com^
