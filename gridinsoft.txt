@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.065525.2025
+! Version: 03.08.070632.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 06:55:25 UTC 2025
+! Last modified: Sat Mar  8 07:06:32 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11271
+! Number of entries: 11275
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3703,6 +3703,7 @@
 ||exnesstradecenter.com^
 ||exnesstradexpert.com^
 ||exnori.com^
+||exnory.com^
 ||exnova.digital^
 ||exogator.com^
 ||exoky.com^
@@ -4433,6 +4434,7 @@
 ||givespacex.io^
 ||gizbocasino.com^
 ||gizmode.shop^
+||glamfetch.com^
 ||glamoreal.com^
 ||glamourpeptides.com^
 ||glamwardro.com^
@@ -5077,6 +5079,7 @@
 ||hxxokerase.fyi^
 ||hyderabadnyte.com^
 ||hydralinks.cloud^
+||hydraulik-choszczno.pl^
 ||hydrogry.com^
 ||hygsdkbhjoy.shop^
 ||hyhqhuvzvzydmoh.shop^
@@ -10979,6 +10982,7 @@
 ||wwcoin6.com^
 ||wwerular.shop^
 ||wwtchain.top^
+||wwvv.blablastream.com^
 ||www.6546.com^
 ||www.apeswap.org^
 ||www.bidencash.com^
