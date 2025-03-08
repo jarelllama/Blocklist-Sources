@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.165843.2025
+! Version: 03.08.171020.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 16:58:43 UTC 2025
+! Last modified: Sat Mar  8 17:10:20 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11425
+! Number of entries: 11426
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3257,6 +3257,7 @@
 ||download2.douploads.com^
 ||downloadfiles.link^
 ||downloadfree4.com^
+||downloadly.ir^
 ||dowynert.com^
 ||dp.investrade.com^
 ||dpboss.services^
