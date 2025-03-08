@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.095855.2025
+! Version: 03.08.101039.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 09:58:55 UTC 2025
+! Last modified: Sat Mar  8 10:10:39 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11347
+! Number of entries: 11352
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2869,6 +2869,7 @@
 ||decentralizedtek.pages.dev^
 ||decorhome.arg.store^
 ||decorstore.club^
+||dedolej.cz^
 ||deenari.ae^
 ||deenext.com^
 ||deepcoinf.com^
@@ -5875,6 +5876,8 @@
 ||kx5639.com^
 ||kxhs16.vip^
 ||kxw69.com^
+||kxxio.com^
+||ky1896.cc^
 ||kyananyc.com^
 ||kyleyperfetto.shop^
 ||kyniper.com^
@@ -6208,6 +6211,7 @@
 ||lowhofour.life^
 ||loyaltyiqtrk.com^
 ||loyaltyscan.de^
+||lp-commercial.co^
 ||lpr.articlefindpro.com^
 ||lrefraine.lol^
 ||lrepacks.net^
@@ -10722,6 +10726,7 @@
 ||vudu.top^
 ||vuksy.site^
 ||vvdes.store^
+||vvhatsapp.icu^
 ||vvw.french-stream.bio^
 ||vvww--roblox.com^
 ||vx88.vx.com^
