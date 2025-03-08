@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.142743.2025
+! Version: 03.08.143710.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 14:27:43 UTC 2025
+! Last modified: Sat Mar  8 14:37:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11403
+! Number of entries: 11404
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -10063,6 +10063,7 @@
 ||topelitewealth.com^
 ||toperomantic.com^
 ||topfansway.com^
+||topfilmbt.com^
 ||topflex.web.com^
 ||topflixtv.online^
 ||topgreenview.com^
