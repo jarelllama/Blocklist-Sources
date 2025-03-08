@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.183457.2025
+! Version: 03.08.184416.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 18:34:57 UTC 2025
+! Last modified: Sat Mar  8 18:44:16 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11436
+! Number of entries: 11440
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1088,6 +1088,7 @@
 ||bakersaesthetichomedecor.com^
 ||baksmany.com^
 ||balaclavawindbreaker.com^
+||balakiss.com^
 ||balloon.com.co^
 ||balloon.com.es^
 ||baloongame777.online^
@@ -2792,6 +2793,7 @@
 ||daisda.com^
 ||dakademie.net^
 ||dalarex.com^
+||dalixphn.shop^
 ||dalladesh.com^
 ||daltonitsolutions.com^
 ||damanavaitor.in^
@@ -6739,6 +6741,7 @@
 ||memefast.fun^
 ||memetrump.org^
 ||memoforce.net^
+||memoryfullpower.online^
 ||memubit.com^
 ||menorul.com^
 ||menrmbxdxextzwsom.shop^
@@ -7243,6 +7246,7 @@
 ||myfundmax.com^
 ||myg01d.com^
 ||mygardenhelper.online^
+||mygpt.my^
 ||myhoneyandpine.com^
 ||myitems-handling.com^
 ||mykingdom.co^
