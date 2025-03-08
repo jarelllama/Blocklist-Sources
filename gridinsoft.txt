@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.232500.2025
+! Version: 03.08.233529.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 23:25:00 UTC 2025
+! Last modified: Sat Mar  8 23:35:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11564
+! Number of entries: 11566
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -7652,6 +7652,7 @@
 ||nnenry.online^
 ||nobeldobermanpupsforsale.com^
 ||nobitextrade.com^
+||nobium.cc^
 ||noblecalm.com^
 ||noblehackshield.com^
 ||nobrix.cfd^
@@ -8915,6 +8916,7 @@
 ||richbash.com^
 ||richjl08.cc^
 ||richmins.com^
+||rickysbooster.com^
 ||ridswear.com^
 ||rifleson.cc^
 ||rightgist.com^
