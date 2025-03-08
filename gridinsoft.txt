@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.062603.2025
+! Version: 03.08.063718.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 06:26:03 UTC 2025
+! Last modified: Sat Mar  8 06:37:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11252
+! Number of entries: 11258
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2810,6 +2810,7 @@
 ||datingcougar.org^
 ||datmyx.online^
 ||dauntlessgpautobot.pro^
+||daveamor.us^
 ||daviliem.shop^
 ||davschoolellenabad.com^
 ||davyholdenhistory.com^
@@ -4443,6 +4444,7 @@
 ||gletber.com^
 ||glidershavenexotic.com^
 ||glintyr.shop^
+||glistensport.com^
 ||glitshine.com^
 ||glizm.com^
 ||gllpdh.club^
@@ -5070,7 +5072,10 @@
 ||hyderabadnyte.com^
 ||hydralinks.cloud^
 ||hydrogry.com^
+||hypahood.com^
 ||hypebox-brand.com^
+||hypecreativesuntribewellness.com^
+||hypeease.com^
 ||hyperbit.biz^
 ||hyperbot.fun^
 ||hyph666.win^
@@ -7050,6 +7055,7 @@
 ||multismart.solve.pages.dev^
 ||multisportstv.online^
 ||multiverse.retifications.netlify.app^
+||mumbainyte.com^
 ||mumkitm.shop^
 ||mumkt.com^
 ||mundojadake.com^
