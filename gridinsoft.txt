@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.202404.2025
+! Version: 03.08.203336.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 20:24:04 UTC 2025
+! Last modified: Sat Mar  8 20:33:36 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11463
+! Number of entries: 11468
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -184,6 +184,7 @@
 ||65mf.com^
 ||66312.cc^
 ||66463qq.com^
+||66b.info^
 ||66wineshop.com^
 ||6707888.com^
 ||67phspin.vip^
@@ -7142,6 +7143,7 @@
 ||movenzo.com^
 ||movestephani.shop^
 ||moveteove.shop^
+||movevest.com^
 ||movie123full.com^
 ||moviediskhd.cloud^
 ||movies4u.tc^
@@ -10376,6 +10378,7 @@
 ||tvpanel.net^
 ||tvpass.org^
 ||tvreviews.online^
+||tvsmarters.uk^
 ||tw.iutkhi.shop^
 ||tweelessatic.co.in^
 ||twentyonevc.com^
@@ -10596,6 +10599,7 @@
 ||uwelix.com^
 ||uwoaptee.com^
 ||uwtandarts.online^
+||uxblzj.sbs^
 ||uxoifashion.shop^
 ||uyde.store^
 ||uyqsfashion.shop^
@@ -10685,6 +10689,7 @@
 ||versandverfolgungde.com^
 ||verskyultimate.top^
 ||vertexpublishinghouse.online^
+||vertexx-income.net^
 ||vertexxchange.com^
 ||verticalvinvehicle.com^
 ||verunax.com^
