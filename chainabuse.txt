@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.061119.2025
+! Version: 03.08.062602.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 06:11:19 UTC 2025
+! Last modified: Sat Mar  8 06:26:02 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 401
+! Number of entries: 416
 !
 ||Basescan.com^
 ||Cineplexl.com^
@@ -39,6 +39,7 @@
 ||bnakarab.wixsite.com^
 ||brickelltrade-investment.com^
 ||bridge-cdn-trzrr.gitbook.io^
+||bridge-orgtrnzc.gitbook.io^
 ||bridgtrzr-dcs.github.io^
 ||cdn-trezo.github.io^
 ||cgypp.eu^
@@ -52,6 +53,7 @@
 ||crypto-summit.org^
 ||cyrptowire.com^
 ||dappsresolverserver.pro^
+||desktop-trezo-suite-page.github.io^
 ||destra-network.fi^
 ||dexdeal.com^
 ||discbrakeaustralia.net.au^
@@ -93,6 +95,7 @@
 ||emma.kendal^
 ||emprestimoconsulta.online^
 ||empyra.org^
+||en--suite--cdn.webflow.io^
 ||en-exodus.com^
 ||en-us-trezo.github.io^
 ||enjoymint.xyz^
@@ -349,27 +352,38 @@
 ||summit25.us^
 ||sut-en-trzr.github.io^
 ||t.me^
+||teretzrwalets.webflow.io^
 ||thebayaffiliate.cc^
 ||tinyurl.com^
 ||tokenlon.im^
 ||topexpay.com^
 ||trader.go-mt5trade.com^
 ||treezerwaiilituss.webflow.io^
+||treizordwallet.webflow.io^
+||trexurherdwrwllt.webflow.io^
+||trezarwollets.webflow.io^
+||trezerowaiollituss.webflow.io^
 ||trezoio-websuit.webflow.io^
 ||trezoiwalett-learnc.webflow.io^
 ||trezoiwaleztt.webflow.io^
 ||trezor-io-secure.gorgias.help^
 ||trezor-io-start.webflow.io^
+||trezor-io-waloet.webflow.io^
 ||trezor-online.com^
 ||trezor-r-hardware-r---wallet.webflow.io^
 ||trezor.vip^
 ||trezoractivation.com^
+||trezorewallart.webflow.io^
+||trezorio-walleo.webflow.io^
 ||trezoristrrt.webflow.io^
 ||trezorr-hrdwr-wllt.webflow.io^
+||trezourewallite.webflow.io^
+||trezriowallto.webflow.io^
 ||trezswiasllt.webflow.io^
 ||trezur-suiett--content.webflow.io^
 ||trezzorewalletgrt.webflow.io^
 ||triptease.top^
+||trrazorwallete.webflow.io^
 ||trrejarrwallet.webflow.io^
 ||trrzr-suite.github.io^
 ||trustearnltd.com^
@@ -384,6 +398,7 @@
 ||vega.diecrich.cfd^
 ||vimsa.com.br^
 ||virginmoneyliveteam.web.app^
+||web-trzrsuiteh.gitbook.io^
 ||web.stormvaults.com^
 ||webyit.com^
 ||worldinstapay.online^

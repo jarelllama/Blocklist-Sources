@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.061120.2025
+! Version: 03.08.062603.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 06:11:20 UTC 2025
+! Last modified: Sat Mar  8 06:26:03 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11244
+! Number of entries: 11252
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2820,6 +2820,7 @@
 ||daydison.shop^
 ||daywint.com^
 ||dbaxnkrecxzwdahr.shop^
+||dbbculvkyr.pink^
 ||dbbjrhhn.guru^
 ||dbcjcgmafecwcmhozmo.shop^
 ||dbespot.com^
@@ -3731,6 +3732,8 @@
 ||expresshighsdirect.com^
 ||expressionu.com^
 ||expresswallet.pro^
+||exquisitesusa.com^
+||exquisitmobel.com^
 ||exquisitpflanze.com^
 ||extrabily.us^
 ||extrapyro.com^
@@ -5072,6 +5075,10 @@
 ||hyperbot.fun^
 ||hyph666.win^
 ||hyteg.lansemeiyunbunchuanxishi.top^
+||hywtchptwzpyrxcvz.shop^
+||hzeimwerken.com^
+||hzgovcuhgxywucjcqyt.shop^
+||hzgstntfvbqhdzn.shop^
 ||hzqwzg.com^
 ||i-station.com.au^
 ||i.apple.com.tr^
@@ -6382,6 +6389,7 @@
 ||marimekkofifivip.shop^
 ||marinazone.shop^
 ||marinealloy.shop^
+||marineboatking.com^
 ||marinecoolers.shop^
 ||marineheattech.shop^
 ||marineradarstore.shop^
