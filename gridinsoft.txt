@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.055854.2025
+! Version: 03.08.061120.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 05:58:54 UTC 2025
+! Last modified: Sat Mar  8 06:11:20 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11242
+! Number of entries: 11244
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2009,6 +2009,7 @@
 ||catenarydojo.com^
 ||catenize.com^
 ||caterpillarargentinaonline.com^
+||catfootwearhungary.com^
 ||catherine-ellington.com^
 ||catholicpsychconsult.com^
 ||catpid.com^
@@ -3731,6 +3732,7 @@
 ||expressionu.com^
 ||expresswallet.pro^
 ||exquisitpflanze.com^
+||extrabily.us^
 ||extrapyro.com^
 ||extreme-down.social^
 ||extremecm.online^
