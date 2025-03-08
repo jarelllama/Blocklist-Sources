@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.193349.2025
+! Version: 03.08.194251.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 19:33:49 UTC 2025
+! Last modified: Sat Mar  8 19:42:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11451
+! Number of entries: 11454
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -959,6 +959,7 @@
 ||atlantictrustfl.net^
 ||atlanticuni.com^
 ||atlasarchcaptl.com^
+||atlasforge.net^
 ||atlasminers.org^
 ||atlasore.com^
 ||atlaspays.com^
@@ -2121,6 +2122,7 @@
 ||changeip.net^
 ||changelon.com^
 ||chansflavor.com^
+||chaorenbuy.com^
 ||chaparriexpeditions.com^
 ||charlinerat.com^
 ||charmcot.com^
@@ -8928,6 +8930,7 @@
 ||russesale.shop^
 ||rust.bet.com^
 ||rustsnest.com^
+||ruthsey.com^
 ||rutor8.com^
 ||rv-equipment.com^
 ||rvresell.be^
