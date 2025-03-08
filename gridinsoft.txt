@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.103318.2025
+! Version: 03.08.104251.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 10:33:18 UTC 2025
+! Last modified: Sat Mar  8 10:42:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11356
+! Number of entries: 11361
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5882,6 +5882,7 @@
 ||kxxio.com^
 ||ky1896.cc^
 ||ky2957.com^
+||ky3623.cc^
 ||kyananyc.com^
 ||kyleyperfetto.shop^
 ||kyniper.com^
@@ -6752,6 +6753,9 @@
 ||metrotradeltd.com^
 ||metroxenterprise.com^
 ||mettehammer.shop^
+||meubelcamp.com^
+||meubledecofr.com^
+||meublereduc.com^
 ||mevbridge.com^
 ||mexcgpt.com^
 ||mexcter.cc^
@@ -8835,6 +8839,7 @@
 ||rowthreads.com^
 ||royal-swift.com^
 ||royal.marines.online^
+||royaladdiction.store^
 ||royalfieldfirearmsstore.com^
 ||royalmail.i78.xyz^
 ||royalmaillogistics.com^
