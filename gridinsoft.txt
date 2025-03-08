@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.200115.2025
+! Version: 03.08.201312.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 20:01:15 UTC 2025
+! Last modified: Sat Mar  8 20:13:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11455
+! Number of entries: 11458
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -8713,6 +8713,7 @@
 ||ref2tron.top^
 ||refefshopin.top^
 ||reffbyte.com^
+||refliexion.com^
 ||refundcashback.org^
 ||reg.yourgamebuilder.com^
 ||regalosorpresivo.com^
@@ -8737,6 +8738,7 @@
 ||relutar.com^
 ||remaindert.com^
 ||remairm.com^
+||remingtongunstoreusa.com^
 ||remittix.io^
 ||remix.web3console.com^
 ||remixidi.com^
@@ -11346,6 +11348,7 @@
 ||yumpulses.com^
 ||yunpso.com^
 ||yupoo.vip^
+||yurdumhome.com^
 ||yusey.website^
 ||yyyu.0001.vip^
 ||yzonaautomotive.shop^
