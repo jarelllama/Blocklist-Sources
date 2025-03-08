@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.133736.2025
+! Version: 03.08.134642.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 13:37:36 UTC 2025
+! Last modified: Sat Mar  8 13:46:42 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11398
+! Number of entries: 11400
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -9619,6 +9619,7 @@
 ||summeyco.online^
 ||summitcapital.ltd^
 ||summitsage.org^
+||sunafrica.top^
 ||sunbit.cc^
 ||sunbit.ren^
 ||sundararajanneurohospital.com^
@@ -9714,6 +9715,7 @@
 ||swistcapital.live^
 ||switbittradepips.com^
 ||switchroles.com^
+||switchrom.net^
 ||swminex.com^
 ||sworncheck.com^
 ||sxelin.com^
