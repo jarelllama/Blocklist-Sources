@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.201312.2025
+! Version: 03.08.202404.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 20:13:12 UTC 2025
+! Last modified: Sat Mar  8 20:24:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11458
+! Number of entries: 11463
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -7428,6 +7428,7 @@
 ||new11thstreet.online^
 ||newalking.com^
 ||newarrivalgee.com^
+||newaytrading.in^
 ||newbalancelink.com^
 ||newdefineservice.online^
 ||newdynaxioncb.org^
@@ -7583,6 +7584,7 @@
 ||nomadedigital.me^
 ||nomadhire.net^
 ||nomisite8.online^
+||noodlesandcompany.store^
 ||noosaboutique.com^
 ||noovelo.com^
 ||nordfinnance.com^
@@ -8765,6 +8767,7 @@
 ||repliquesuisse.co^
 ||reploysai.io^
 ||reportcryptoscam.forum.online^
+||reproachme.com^
 ||republicanstrust.com^
 ||requirementk.com^
 ||res.ldrescdn.com^
@@ -8886,6 +8889,7 @@
 ||rolsxcas.com^
 ||rolunex.com^
 ||romance.jakartainn.shop^
+||romancte.com^
 ||rominance.com^
 ||romsfun.com^
 ||romsfun.me^
@@ -9895,6 +9899,7 @@
 ||tfyrj.info^
 ||tgbtest.com^
 ||thatmall.vip^
+||the-cryptocode.com^
 ||the.earth.li^
 ||the.prize.stash.com^
 ||the.tradynator.org^
