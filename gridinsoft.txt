@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.204237.2025
+! Version: 03.08.205157.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 20:42:37 UTC 2025
+! Last modified: Sat Mar  8 20:51:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11471
+! Number of entries: 11476
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2976,6 +2976,7 @@
 ||defi.official.com^
 ||defi.pad.com^
 ||defi.v1.com^
+||defi111.ca^
 ||defi999.vip^
 ||defiatxkm.com^
 ||defibit.pro^
@@ -5198,7 +5199,11 @@
 ||id184124.com^
 ||idatech.online^
 ||ideabuttonsbebes.shop^
+||ideacambodia.org^
+||ideadrain.com^
 ||ideafasteponahorsefeed.shop^
+||ideaforgeus.com^
+||idealdeliveryagency.com^
 ||idealpiptrade.com^
 ||idealprotein.com^
 ||ideeth.co^
