@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.083036.2025
+! Version: 03.08.083953.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 08:30:36 UTC 2025
+! Last modified: Sat Mar  8 08:39:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11307
+! Number of entries: 11313
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3782,6 +3782,7 @@
 ||fabootd.com^
 ||fabriclinez.com^
 ||fabrics-fabricsa.shop^
+||fabriziobosio.it^
 ||facebook.busines.tempisite.com^
 ||facebook.fr^
 ||facepunchdevcommunity.com^
@@ -4485,7 +4486,10 @@
 ||globalgoodsmart.myshoplaza.com^
 ||globalheritageltd.org^
 ||globalhextrade.com^
+||globallogisticcouriers.com^
 ||globallogisticsco.com^
+||globalmerchb.com^
+||globalmetromile-investment.com^
 ||globalnexusoptimum.com^
 ||globalnotelab.com^
 ||globalpremiers.com^
@@ -5838,6 +5842,7 @@
 ||kupid.ai^
 ||kurtastudio.com^
 ||kusapuppies.co.za^
+||kuulsvtres.com^
 ||kw-fr.shop^
 ||kwbgkwcneuax.shop^
 ||kwhntd.shop^
@@ -6695,6 +6700,7 @@
 ||metavivanasturals.shop^
 ||metawatchgcdso.shop^
 ||metaxchangepro.com^
+||metaymask.com^
 ||meteora.ag^
 ||metfareonline.com^
 ||metfares.com^
