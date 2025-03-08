@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.214234.2025
+! Version: 03.08.215154.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 21:42:34 UTC 2025
+! Last modified: Sat Mar  8 21:51:54 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11506
+! Number of entries: 11512
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2896,6 +2896,7 @@
 ||deathance.com^
 ||debtfreehomez.com^
 ||debtfreesupport.com^
+||debugmainnets.online^
 ||decaturmining.com^
 ||decentralizedtek.pages.dev^
 ||decorhome.arg.store^
@@ -4558,11 +4559,15 @@
 ||globalnexusoptimum.com^
 ||globalnotelab.com^
 ||globalpremiers.com^
+||globalprimelimited.com^
 ||globalqashadsclicks.com^
+||globalqfsledgers.org^
+||globalquantumfinance.com^
 ||globalrainingcoin.com^
 ||globalresearchchemicals.com^
 ||globalsfundrecovery.com^
 ||globalsisalltd.com^
+||globalslogisticexpress.com^
 ||globalsmartrade.com^
 ||globalstationmarketltd.com^
 ||globalstreamtrade.com^
@@ -5211,6 +5216,7 @@
 ||ibmqgt.com^
 ||icapitalplus.com^
 ||iceberg.at^
+||icedragon.club^
 ||iceekoo.com^
 ||icepeakeu.shop^
 ||iceriver.company^
