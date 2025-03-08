@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.104251.2025
+! Version: 03.08.105151.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 10:42:51 UTC 2025
+! Last modified: Sat Mar  8 10:51:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11361
+! Number of entries: 11367
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -699,6 +699,7 @@
 ||angelstyledamen.com^
 ||angiebreitschwerdt.shop^
 ||angiechew.online^
+||angopa.com^
 ||animalcourses.co.uk^
 ||animeswordshop.com^
 ||animvip.com^
@@ -3016,6 +3017,7 @@
 ||desalpes.world^
 ||descorative.com^
 ||descubretesoro.com^
+||desertstarfin.com^
 ||desibundle.com^
 ||desicinemas.to^
 ||desicribe.com^
@@ -6757,6 +6759,9 @@
 ||meubledecofr.com^
 ||meublereduc.com^
 ||mevbridge.com^
+||mewattack.com^
+||mexc.digital^
+||mexcbyt.com^
 ||mexcgpt.com^
 ||mexcter.cc^
 ||mexfgr.com^
@@ -7843,6 +7848,7 @@
 ||ortovox-vip.shop^
 ||orzenge.com^
 ||osextant.monster^
+||osirisesp.com^
 ||osirisshoesfactory.com^
 ||ostehard.com^
 ||osurx.com^
