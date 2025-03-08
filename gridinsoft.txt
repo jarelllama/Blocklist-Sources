@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.221332.2025
+! Version: 03.08.222442.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 22:13:32 UTC 2025
+! Last modified: Sat Mar  8 22:24:42 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11525
+! Number of entries: 11532
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2903,8 +2903,11 @@
 ||debtfreehomez.com^
 ||debtfreesupport.com^
 ||debugmainnets.online^
+||debuybit.com^
 ||decaturmining.com^
 ||decentralizedtek.pages.dev^
+||decomaisonsoldes.com^
+||decorate-cheaps.com^
 ||decorhome.arg.store^
 ||decorstore.club^
 ||dedolej.cz^
@@ -3843,8 +3846,11 @@
 ||fabrics-fabricsa.shop^
 ||fabriziobosio.it^
 ||face-your-dreams.com^
+||facebok.id^
+||facebooc.jp^
 ||facebook.busines.tempisite.com^
 ||facebook.fr^
+||facebooks.pro^
 ||facegook.ru^
 ||facepunchdevcommunity.com^
 ||facertvshell.cfd^
@@ -4569,6 +4575,7 @@
 ||globalnexusoptimum.com^
 ||globalnotelab.com^
 ||globalpremiers.com^
+||globalpremuimenvoy.com^
 ||globalprimelimited.com^
 ||globalqashadsclicks.com^
 ||globalqfsledgers.org^
