@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.093141.2025
+! Version: 03.08.094047.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 09:31:41 UTC 2025
+! Last modified: Sat Mar  8 09:40:47 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11335
+! Number of entries: 11338
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3800,6 +3800,7 @@
 ||fadedarkspotsfast.com^
 ||faefvqdadrjyc.shop^
 ||faenestm.shop^
+||faforlife.com^
 ||fairieswire.com^
 ||faithfultly.com^
 ||fakaira.space^
@@ -5859,7 +5860,9 @@
 ||kvfde.com^
 ||kvill.tech^
 ||kvlangest.com^
+||kvlunisexsalon.com^
 ||kw-fr.shop^
+||kwantum-nl.com^
 ||kwbgkwcneuax.shop^
 ||kwhntd.shop^
 ||kwikpay.net^
