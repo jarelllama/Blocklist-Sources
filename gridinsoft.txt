@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.053225.2025
+! Version: 03.09.054125.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 05:32:25 UTC 2025
+! Last modified: Sun Mar  9 05:41:25 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11633
+! Number of entries: 11635
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4600,6 +4600,7 @@
 ||globalcapitalista.com^
 ||globalcocainecanada.ca^
 ||globaldocs.online.com^
+||globalequity.org^
 ||globalfinaltd.com^
 ||globalfingroup.com^
 ||globalfireworks.eu^
@@ -9266,6 +9267,7 @@
 ||serenbrisk.com^
 ||serenifty.com^
 ||sereno.madrid.com^
+||serotoninmarketing.cc^
 ||server.dgm0.com^
 ||servicepull.com^
 ||serviteccr.com^
