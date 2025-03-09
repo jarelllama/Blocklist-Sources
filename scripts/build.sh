@@ -60,25 +60,16 @@ source_malwareurl() {
 }
 
 source_tranco() {
-    local source_url_1='https://tranco-list.eu/top-1m.csv.zip'
-    local source_url_2='https://tranco-list.eu/top-1m-incl-subdomains.csv.zip'
+    local source_url='https://tranco-list.eu/top-1m-incl-subdomains.csv.zip'
     local max_attempts=3  # Retries twice
     local attempt=1
 
     while (( attempt <= max_attempts )); do
-        # Download the toplists in parallel
-        curl -sSL "$source_url_1" -o toplist1.zip &
-        curl -sSL "$source_url_2" -o toplist2.zip
+        curl -sSL "$source_url" -o temp
+        unzip -p temp | mawk -F ',' '{ print $2 }' > source_results.tmp
 
-        {
-            unzip -p toplist1.zip
-            unzip -p toplist2.zip
-        } | mawk -F ',' '{ print $2 }' > source_results.tmp
-
-        rm toplist*.zip
-
-        # Break out of loop if the toplists downloaded successffully.
-        (( $(wc -l < source_results.tmp) == 2000000 )) && break
+        # Break out of loop if download was successfully
+        (( $(wc -l < source_results.tmp) == 1000000 )) && break
 
         (( attempt++ ))
     done
