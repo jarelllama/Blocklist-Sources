@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.001704.2025
+! Version: 03.09.003827.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 00:17:04 UTC 2025
+! Last modified: Sun Mar  9 00:38:27 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11571
+! Number of entries: 11575
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2133,6 +2133,7 @@
 ||chalaorry.shop^
 ||championhygienesolutions.co.ke^
 ||champtradefx.live^
+||chamussy-melbourne.com^
 ||changeip.net^
 ||changelon.com^
 ||chansflavor.com^
@@ -3904,6 +3905,7 @@
 ||fancymiami.com^
 ||fansleak.com-getfree.pro^
 ||fanyil.com^
+||fapello.su^
 ||faphouse.com^
 ||fapy.ai^
 ||faraira.fun^
@@ -4870,6 +4872,7 @@
 ||h5.ownone.org^
 ||h5.shakepay-pro.com^
 ||h5.visionaryaicinema.vip^
+||h5.wealthengine.me^
 ||h5.wltfund.com^
 ||h5.xtraexpro.com^
 ||h5ufqm0.anusur.com^
@@ -8025,6 +8028,7 @@
 ||outlook.8i7.net^
 ||outlook.gamial.com^
 ||outputts.shop^
+||outsideover.com^
 ||overcrowdsillyturret.com^
 ||overep.com^
 ||ovfdasx.com^
