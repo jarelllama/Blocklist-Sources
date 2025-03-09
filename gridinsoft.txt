@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.093208.2025
+! Version: 03.09.094116.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 09:32:08 UTC 2025
+! Last modified: Sun Mar  9 09:41:16 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11710
+! Number of entries: 11715
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2458,6 +2458,7 @@
 ||coinwnto.com^
 ||coinwookus.com^
 ||coinwyb.com^
+||colareps.com^
 ||coldbit.net^
 ||coldcas.com^
 ||colddms.com^
@@ -3353,6 +3354,7 @@
 ||dressedgez.com^
 ||dresseswow.com^
 ||dressglowz.com^
+||dressupx.com^
 ||drholding.ag.com^
 ||driftwrk.shop^
 ||dripcenters.com^
@@ -7847,6 +7849,7 @@
 ||obct.everyjobforme.com^
 ||obella-london.co.uk^
 ||obraspublicaschaco2024.online^
+||obrobkacieplna.com^
 ||obsessedarchery.com^
 ||obtuyme.com^
 ||obuchenie.taro.online^
@@ -10229,6 +10232,7 @@
 ||tienda-aurora-espana.shop^
 ||tienda-montillo.com^
 ||tiendaarg-encontre.com^
+||tiendaonlinebkdshops.store^
 ||tiendaplethora.online^
 ||tiendaslululemonmexico.com.mx^
 ||tiendassalomoncolombia.com.co^
@@ -10408,6 +10412,7 @@
 ||traderepublicpro.com^
 ||traderqx.com^
 ||traderszenith.com^
+||tradesixpro.com^
 ||tradestationcryptofx.com^
 ||tradetip.analysis.live^
 ||tradeusdt.live^
