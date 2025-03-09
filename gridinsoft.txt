@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.083141.2025
+! Version: 03.09.084040.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 08:31:41 UTC 2025
+! Last modified: Sun Mar  9 08:40:40 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11689
+! Number of entries: 11691
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -9949,6 +9949,7 @@
 ||swingdeceive.com^
 ||swingfxmarket.com^
 ||swingvortexpro.com^
+||swipeflirting.com^
 ||swipelake.shop^
 ||swiss.mo.inv.com^
 ||swisswealth-pro.com^
@@ -11119,6 +11120,7 @@
 ||wcostream.tv^
 ||wctclaim.netlify.app^
 ||wdass.com^
+||wdhdeals.store^
 ||wdisales.store^
 ||wdnhspecial.shop^
 ||wds.weqs.ink^
