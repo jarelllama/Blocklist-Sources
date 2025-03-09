@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.082223.2025
+! Version: 03.09.083141.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 08:22:23 UTC 2025
+! Last modified: Sun Mar  9 08:31:41 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11686
+! Number of entries: 11689
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6294,6 +6294,7 @@
 ||litebix.com^
 ||litecobv.nl^
 ||litepick.io^
+||littlebeangifts.com^
 ||littlefoliage.com^
 ||littletinyhouse.com^
 ||lityhall.com^
@@ -9176,6 +9177,7 @@
 ||samsoniteclearance.shop^
 ||samsonitedeals.com^
 ||samsoniteoutlets.com^
+||samwe.cc^
 ||san-stores.com^
 ||san.stores.com^
 ||sanantonioonlineshop.com^
@@ -9713,6 +9715,7 @@
 ||staemcomnunnity.com^
 ||staemcomunitly.com^
 ||staemcomunnity.com^
+||staffvending.com^
 ||stagestair.com^
 ||stake786.com^
 ||stakefunds.org^
