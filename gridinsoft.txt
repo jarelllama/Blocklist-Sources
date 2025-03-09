@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.095007.2025
+! Version: 03.09.095910.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 09:50:07 UTC 2025
+! Last modified: Sun Mar  9 09:59:10 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11718
+! Number of entries: 11721
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -319,6 +319,7 @@
 ||actionfraud-refund.org^
 ||activamastiffhome.com^
 ||activations.ledger.com^
+||active-miner.com^
 ||activeprobeauty.com^
 ||activetimeflows.com^
 ||activityuk.shop^
@@ -10953,6 +10954,7 @@
 ||vibyage.com^
 ||viceoriassccet.com^
 ||vicinityk.com^
+||vickfinance.com^
 ||vickyclaim.online^
 ||victordle.net^
 ||victoriousact.com^
@@ -11629,6 +11631,7 @@
 ||zaragiftmart.xyz^
 ||zarastoreonline.com^
 ||zayqi.fun^
+||zazelzze.com^
 ||zazroe.com^
 ||zbshareware.com^
 ||zbx.exchanges.com^
