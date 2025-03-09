@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.031653.2025
+! Version: 03.09.032840.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 03:16:53 UTC 2025
+! Last modified: Sun Mar  9 03:28:40 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11591
+! Number of entries: 11596
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -7917,6 +7917,7 @@
 ||online.retrievars.click^
 ||onlineapotheek24.nl^
 ||onlinebettingidprovider.co.in^
+||onlinecl.com^
 ||onlineclasssolution.com^
 ||onlinecoachingacademy.net^
 ||onlineelectronics.store^
@@ -9243,6 +9244,7 @@
 ||servmedia.online^
 ||setes.live^
 ||seton.pw^
+||setting-mastery.com^
 ||setyobim.online^
 ||seuguiadefinitivo.com^
 ||severalmarks.com^
@@ -9779,6 +9781,7 @@
 ||sulop.online^
 ||suministrosdetatuaje.com^
 ||summaryas.com^
+||summaryt.com^
 ||summeyco.online^
 ||summitcapital.ltd^
 ||summitsage.org^
@@ -10129,6 +10132,7 @@
 ||tidshipsas.com^
 ||tienda-aurora-espana.shop^
 ||tienda-montillo.com^
+||tiendaarg-encontre.com^
 ||tiendaplethora.online^
 ||tiendaslululemonmexico.com.mx^
 ||tiendassalomoncolombia.com.co^
@@ -10472,6 +10476,7 @@
 ||ttslot.com^
 ||ttslot01.com^
 ||ttslot05.com^
+||ttxinnovation.com^
 ||tuconexioneducativa.org^
 ||tudinerito.com^
 ||tuffnells.xyz^
