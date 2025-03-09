@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.054125.2025
+! Version: 03.09.055034.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 05:41:25 UTC 2025
+! Last modified: Sun Mar  9 05:50:34 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11635
+! Number of entries: 11641
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4394,6 +4394,7 @@
 ||gaga.pe^
 ||gailgpt.com^
 ||gainrbx.com^
+||gainstead.co^
 ||galabix.com^
 ||galacvy.com^
 ||galaxiumtoken.com^
@@ -4617,8 +4618,10 @@
 ||globaljetcargos.com^
 ||globallogisticcouriers.com^
 ||globallogisticsco.com^
+||globalmachine.link^
 ||globalmerchb.com^
 ||globalmetromile-investment.com^
+||globalmortgage-limited.com^
 ||globalnexusoptimum.com^
 ||globalnotelab.com^
 ||globalpremiers.com^
@@ -6040,6 +6043,7 @@
 ||kybershop.com^
 ||kyleyperfetto.shop^
 ||kyniper.com^
+||kynwex.com^
 ||kyorescart.shop^
 ||kyotino.com^
 ||kypabumwcxjen.shop^
@@ -6110,6 +6114,7 @@
 ||law.blade.solutions.com^
 ||lawnagain.com^
 ||layergrid.io^
+||laz8899.it.com^
 ||lazada.cakepansplus.com^
 ||lazada.cindylamont.com^
 ||lbank.com^
@@ -11046,6 +11051,7 @@
 ||watchivo.shop^
 ||watchlore.shop^
 ||watchseries.bar^
+||watchtreasureisland.com^
 ||wattprosaver.com^
 ||wave.trader.com^
 ||wavetune.shop^
