@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.003827.2025
+! Version: 03.09.010852.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 00:38:27 UTC 2025
+! Last modified: Sun Mar  9 01:08:52 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11575
+! Number of entries: 11579
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -335,6 +335,7 @@
 ||adexprogain.com^
 ||adftips.com^
 ||adgkj.com^
+||adhdmedicines.org^
 ||adidas.rest^
 ||adifootballshop.com^
 ||adilayroofing.com^
@@ -1651,6 +1652,7 @@
 ||bookmarkfc.info^
 ||bookmyjet.co^
 ||booknflow.fr^
+||books.ms^
 ||boomerenginvestitionen.com^
 ||boomingbulladvisory.in^
 ||boonweb.systems^
@@ -4231,6 +4233,7 @@
 ||fpminer.com^
 ||fpsconstructivos.contenedores.com^
 ||fpswiss.com^
+||fpwatches.com^
 ||fqafq.shop^
 ||fqdoqcdcnavjgnwrfvy.shop^
 ||fr.ldplayer.net^
@@ -10822,6 +10825,7 @@
 ||vibenests.co^
 ||vibyage.com^
 ||viceoriassccet.com^
+||vicinityk.com^
 ||vickyclaim.online^
 ||victordle.net^
 ||victoriousact.com^
