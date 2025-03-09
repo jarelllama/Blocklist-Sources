@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.040749.2025
+! Version: 03.09.042126.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 04:07:49 UTC 2025
+! Last modified: Sun Mar  9 04:21:26 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11604
+! Number of entries: 11609
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1179,6 +1179,7 @@
 ||bdyg.store^
 ||beaconpigexports.co.za^
 ||beaconproperties-limited.com^
+||beaconusdt.info^
 ||beaming.sbs^
 ||bearatten.com^
 ||bearsbulls.net^
@@ -1857,6 +1858,7 @@
 ||buygoods.com^
 ||buyhealthylabco.com^
 ||buyivermectinonline.net^
+||buyketaminecanada.ca^
 ||buymasksgivemasks.top^
 ||buymethcanberra.com^
 ||buypainkillermeds.com^
@@ -1906,6 +1908,7 @@
 ||cadabrystore.com^
 ||caddygo.io^
 ||cadogoa.shop^
+||caducci.com^
 ||caedetic.com^
 ||cafeciro.in^
 ||cagovip.com^
@@ -3830,6 +3833,7 @@
 ||exquisitesusa.com^
 ||exquisitmobel.com^
 ||exquisitpflanze.com^
+||extraaboom.com^
 ||extrabily.us^
 ||extrapyro.com^
 ||extreme-down.social^
@@ -6160,6 +6164,7 @@
 ||liannekirkland.shop^
 ||liannemccririck.shop^
 ||liberatucuerporenuevatuenergia.com^
+||libertex.com^
 ||liberty.volt.com^
 ||libertyenginesale.com^
 ||libra10supermart.com^
