@@ -9,7 +9,6 @@ readonly -a SOURCES=(
     chainabuse
     gridinsoft
     malwareurl
-    nrd
     tranco
 )
 
@@ -96,10 +95,5 @@ source_tranco() {
 set -e
 
 trap 'rm ./*.tmp temp 2> /dev/null || true' EXIT
-
-# Install AdGuard's Hostlist Compiler
-if ! command -v hostlist-compiler &> /dev/null; then
-    npm install -g @adguard/hostlist-compiler > /dev/null
-fi
 
 main
