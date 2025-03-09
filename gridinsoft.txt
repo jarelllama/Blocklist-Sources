@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.084940.2025
+! Version: 03.09.085842.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 08:49:40 UTC 2025
+! Last modified: Sun Mar  9 08:58:42 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11696
+! Number of entries: 11699
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1712,6 +1712,7 @@
 ||bravelittlehotdog.com^
 ||braw4.net^
 ||brda.io^
+||breachforums.st^
 ||bread.usd.shop^
 ||breakmine.online^
 ||breathbit.org^
@@ -2337,6 +2338,7 @@
 ||cloudgeardesign.com^
 ||cloudimpactx.com^
 ||cloudlessdatapowerful.com^
+||cloudminecrypto.com^
 ||cloudns.eu^
 ||cloudns.info^
 ||cloudsoft.ae^
@@ -8910,6 +8912,7 @@
 ||register.soniclabs.com^
 ||rei.com^
 ||reil.cam^
+||rejhg.ltd^
 ||relativelysuitable.com^
 ||relativeresult.com^
 ||relayeur-mondialrelay.com^
