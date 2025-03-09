@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.032840.2025
+! Version: 03.09.033751.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 03:28:40 UTC 2025
+! Last modified: Sun Mar  9 03:37:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11596
+! Number of entries: 11599
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5385,6 +5385,7 @@
 ||install.protected.net^
 ||instasave.xyz^
 ||instructime.com^
+||insvideos.com^
 ||intcyberlaw.com^
 ||intdomoinpartner.online^
 ||integratedapps.tech^
@@ -10713,6 +10714,7 @@
 ||ustoday24h.com^
 ||ustreamiptv.com^
 ||utens360.com^
+||utilitycarts.ltd^
 ||utip.org^
 ||utsny.com^
 ||utsoease.com^
@@ -11227,6 +11229,7 @@
 ||wndzs.com^
 ||wohnung.vogelrain.hopto.org^
 ||woifu.com^
+||wokick.com^
 ||wolrdlibertyfinancial.com^
 ||wolverinegermany.com^
 ||womoke.com^
