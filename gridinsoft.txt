@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.085842.2025
+! Version: 03.09.091041.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 08:58:42 UTC 2025
+! Last modified: Sun Mar  9 09:10:41 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11699
+! Number of entries: 11704
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1902,6 +1902,7 @@
 ||bytropay.com^
 ||bzillion.club^
 ||bzmra.com^
+||bzpr.xyz^
 ||c-charge.io^
 ||c.c3g.cn^
 ||c1029.dmpdmp.com^
@@ -2936,6 +2937,7 @@
 ||debuybit.com^
 ||decaturmining.com^
 ||decentralizedtek.pages.dev^
+||deckmaster.store^
 ||decomaisonsoldes.com^
 ||decorate-cheaps.com^
 ||decorhome.arg.store^
@@ -7029,6 +7031,7 @@
 ||mikeciavarra.shop^
 ||mikewatch6.com^
 ||mikmi.shop^
+||mikolens.com^
 ||milana.mx^
 ||milenapowell.com^
 ||miles.london.com^
@@ -9486,6 +9489,7 @@
 ||skresporti.shop^
 ||skvelos.com^
 ||skyby.aviation.school.com^
+||skyeglobalxpress.com^
 ||skyeyelitigation.com^
 ||skymine.online^
 ||skyplusevtr.com^
@@ -9701,6 +9705,7 @@
 ||springfieldarmoryarms.com^
 ||springpromotors.com^
 ||sprunkiphase.online^
+||spurd.throntek.shop^
 ||srchfst.com^
 ||sreamconmymnltty.com^
 ||srettle.com^
