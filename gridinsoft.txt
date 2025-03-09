@@ -783,6 +783,7 @@ app.brainstorm.market
 app.city2000.cc
 app.earnpark.com
 app.fbmallmixfast.com
+app.genesis-cloudmining.com
 app.landshare.website
 app.lockswallet.net
 app.markthal.vip
@@ -2036,6 +2037,7 @@ casesblend.com
 casetesy.com
 cash.tube.online
 cashcow.wang
+cashfac.co
 cashphoneoriginal.com
 cashtube.co
 cashtube.io
@@ -4759,6 +4761,7 @@ gog.games.to
 gogc.ge
 gogoflix.space
 goinvest.credit.com
+gokye.com
 golat.online
 gold-minor.top
 goldackerstrading.com
@@ -7137,6 +7140,7 @@ minequartz.com
 miner.com
 mineralop.shop
 minersmarketsplace.com
+minerusdt.io
 minervabot.net
 minervahacks.tech
 minesactivate.com
@@ -7204,6 +7208,7 @@ mixerusdt.com
 mixloco.com
 mixtsp.com
 miyafreeman.shop
+miyfashion.com
 mizaway.com
 mizunomexicooutlet.com.mx
 mizunomx.com.mx
