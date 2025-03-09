@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.062641.2025
+! Version: 03.09.063656.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 06:26:41 UTC 2025
+! Last modified: Sun Mar  9 06:36:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11649
+! Number of entries: 11655
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2808,6 +2808,7 @@
 ||daarklabsuplementos.com^
 ||dabzl-store.com^
 ||dachshunddelights.store^
+||dadataspace.com^
 ||dadymall.com^
 ||daeuco.com^
 ||dagahna.fun^
@@ -5536,6 +5537,7 @@
 ||iwepzf.shop^
 ||iyftv.org^
 ||iyilikler.online^
+||izzicoin.com^
 ||j110s.xyz^
 ||j110y.xyz^
 ||j2j1a9eb.forms.app^
@@ -6013,6 +6015,7 @@
 ||kukrosti.com^
 ||kulinmou.com^
 ||kulken.com^
+||kunaglobalex.com^
 ||kunbestsk.best^
 ||kunstcreativiteit.com^
 ||kuoses.com^
@@ -8327,6 +8330,7 @@
 ||play.cantikpggames.com^
 ||play.qqvip303.online^
 ||play.regal.fr.online^
+||play2riches.com^
 ||play4win.click^
 ||playdax.top^
 ||playfly.us.com^
@@ -10825,6 +10829,7 @@
 ||vegigro.com^
 ||vegobit.com^
 ||vehiclevinstickers.com^
+||veja-stores.at^
 ||velanora.nl^
 ||velantra.store^
 ||velaraa.com^
@@ -11298,6 +11303,7 @@
 ||world.dailyincome.com^
 ||world.delivery.service.com^
 ||worldfamoushotboys.net^
+||worldflight-viator.com^
 ||worldinvestorssrl.net^
 ||worldlibertyfinancial.com^
 ||worldmovesolutions.com^
