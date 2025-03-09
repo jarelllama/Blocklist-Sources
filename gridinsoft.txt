@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.055034.2025
+! Version: 03.09.055930.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 05:50:34 UTC 2025
+! Last modified: Sun Mar  9 05:59:30 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11641
+! Number of entries: 11643
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5363,6 +5363,7 @@
 ||indelly.com^
 ||indianclub01.pro^
 ||indiapostkz.vip^
+||indigostudio.dev^
 ||indingenharian.com^
 ||indio-clothing.com^
 ||individuak.com^
@@ -8345,6 +8346,7 @@
 ||plustraderspro.net^
 ||plvacvae.vip^
 ||pmcdiecast.com^
+||pmdsut.com^
 ||pnees.com^
 ||pneumatick.com^
 ||pnusaa.com^
