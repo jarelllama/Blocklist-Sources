@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.091041.2025
+! Version: 03.09.092257.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 09:10:41 UTC 2025
+! Last modified: Sun Mar  9 09:22:57 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11704
+! Number of entries: 11709
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2865,6 +2865,8 @@
 ||darvtgwnfcb.shop^
 ||darwinex.com^
 ||dash.buzzy7.com^
+||dash.cegbanking.org^
+||dash.couragepaybank.com^
 ||dash.probits.cc^
 ||dash2trade.com^
 ||dashnex.plexusmarket.fund^
@@ -3477,6 +3479,7 @@
 ||ecamai.com^
 ||ecaseinc.com^
 ||eccoshoes.life^
+||echelonsecureholdings.com^
 ||echorisegroup.com^
 ||eclatlumiere.com^
 ||ecoalfspain.com^
@@ -5451,6 +5454,7 @@
 ||interstore-eu.shop^
 ||intimocontenitivo.com^
 ||introtocrypto.xyz^
+||invest-malin.com^
 ||invest.cryptonetworkspace.com^
 ||invest2wealth.com^
 ||investairobot.com^
@@ -9101,6 +9105,7 @@
 ||royal.marines.online^
 ||royaladdiction.store^
 ||royalfieldfirearmsstore.com^
+||royalfinancial.vip^
 ||royalgalapagosexpeditions.com^
 ||royalmail.i78.xyz^
 ||royalmaillogistics.com^
