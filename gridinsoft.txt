@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.035608.2025
+! Version: 03.09.040749.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 03:56:08 UTC 2025
+! Last modified: Sun Mar  9 04:07:49 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11600
+! Number of entries: 11604
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1247,6 +1247,7 @@
 ||best4youu.info^
 ||bestarezzo.shop^
 ||bestb2kresearch.com^
+||bestbalancelife.com^
 ||bestbhuy.com^
 ||bestbiccle.shop^
 ||bestboy.vip^
@@ -1484,6 +1485,7 @@
 ||bitmax.web.app^
 ||bitmc.space^
 ||bitmertex.com^
+||bitmineforex.com^
 ||bitnest.me^
 ||bitnetx.cloud^
 ||bitomq.com^
@@ -4165,6 +4167,7 @@
 ||fmjnupyzebfwtd.shop^
 ||fmovies.co^
 ||fmovies1.pw^
+||fmovies24.watch^
 ||fmqadfzcvoefbodrpmu.shop^
 ||fmtgzpwhwso.shop^
 ||fmw-human.vip^
@@ -10160,6 +10163,7 @@
 ||tinfoil.io^
 ||tiny.one^
 ||tinybyte.minipc.com^
+||tinypawsteacuppuppies.com^
 ||tinytomytec.com^
 ||tioctrically.com^
 ||tionoc.net^
