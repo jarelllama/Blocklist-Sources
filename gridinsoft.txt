@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.051105.2025
+! Version: 03.09.052318.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 05:11:05 UTC 2025
+! Last modified: Sun Mar  9 05:23:18 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11625
+! Number of entries: 11628
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1234,6 +1234,7 @@
 ||bernaid.shop^
 ||bernardex.com^
 ||berosely.com^
+||berskonline.shop^
 ||bertaus.com^
 ||bervospace.com^
 ||besafetoday.top^
@@ -6195,6 +6196,7 @@
 ||light.trading.maximarkets.mobi^
 ||lightchain.ai^
 ||lightenous.com^
+||lightingscooter.com^
 ||lightinthebox.com^
 ||lightsha.com^
 ||lihi.cc^
@@ -6592,6 +6594,7 @@
 ||maperformanecewsg.shop^
 ||maqiqsent.com^
 ||maracoins.com^
+||marathon-miners.com^
 ||marcascomdesconto.shop^
 ||marcomartinez.shop^
 ||marcotfx.com^
