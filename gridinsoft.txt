@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.010852.2025
+! Version: 03.09.014333.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 01:08:52 UTC 2025
+! Last modified: Sun Mar  9 01:43:33 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11579
+! Number of entries: 11582
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6335,6 +6335,7 @@
 ||louisthebaud.shop^
 ||lourdeswestleyhawk.org^
 ||louvalence.co^
+||louware.com^
 ||lovdomnotiallus.top^
 ||lovecoget.click^
 ||lovefransk.click^
@@ -10398,6 +10399,7 @@
 ||troqainter.info^
 ||troyers.info^
 ||trqw.store^
+||tru-5plus.com^
 ||trucksontopgames.click^
 ||tructi.com^
 ||truecareliving.online^
@@ -11294,6 +11296,7 @@
 ||www2.citadores.com^
 ||www2.rarbggo.to^
 ||wwwcoa.top^
+||wwww-rcblox.com^
 ||wwwwscsb500comios2ser.wscbs.vip^
 ||wykkselling.online^
 ||wyudas.com^
