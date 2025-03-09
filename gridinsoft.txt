@@ -8247,6 +8247,7 @@ paulheilman.shop
 pawns.app
 pawsitivetraining.online
 pay.hotmart.com
+pay.processamento-entrega.online
 pay.risepay.com.br
 pay.yuki94533.win
 paybaz.com
@@ -10282,6 +10283,7 @@ timegetgo.com
 timestaking.me
 timestrendd.com
 timexespana.com.es
+tindedly.com
 tinfoil.io
 tiny.one
 tinybyte.minipc.com
