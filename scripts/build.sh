@@ -9,6 +9,7 @@ readonly -a SOURCES=(
     chainabuse
     gridinsoft
     malwareurl
+    nrd
     tranco
 )
 
@@ -61,8 +62,14 @@ source_malwareurl() {
 }
 
 source_nrd() {
-    #TODO
-    :
+    local source_url_1='https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day/domains-only/nrd-30day_part1.txt'
+    local source_url_2='https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day/domains-only/nrd-30day_part2.txt'
+    local source_url_3='https://raw.githubusercontent.com/SystemJargon/filters/refs/heads/main/nrds-30days.txt'
+    local source_url_4='https://feeds.opensquat.com/domain-names-month.txt'
+
+    # Download the feeds in parallel
+    curl -sSLZH 'User-Agent: openSquat-2.1.0' "$source_url_1" "$source_url_2" "$source_url_3" "$source_url_4" \
+        | grep -P "^${DOMAIN_REGEX}$" > source_results.tmp
 }
 
 source_tranco() {
