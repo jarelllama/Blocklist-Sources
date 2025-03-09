@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.071756.2025
+! Version: 03.09.072729.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 07:17:56 UTC 2025
+! Last modified: Sun Mar  9 07:27:29 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11663
+! Number of entries: 11668
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -960,6 +960,7 @@
 ||athenafinanceltd.in^
 ||athna.su^
 ||ativado.org^
+||atlanticfin-inc.com^
 ||atlantictrustfl.net^
 ||atlanticuni.com^
 ||atlasarchcaptl.com^
@@ -7822,6 +7823,7 @@
 ||obsessedarchery.com^
 ||obtuyme.com^
 ||obuchenie.taro.online^
+||occasionalous.com^
 ||occreply.com^
 ||ocean.contenedores.com^
 ||ocean.fx.investment.ltd^
@@ -10362,6 +10364,7 @@
 ||tradeforger.online^
 ||tradehivehub.com^
 ||tradelinelite.com^
+||trademarkscounseling.com^
 ||tradematecommunity.pro^
 ||tradematix.info^
 ||tradenextmarkets.com^
@@ -10608,6 +10611,7 @@
 ||ufcufiufh.info^
 ||ufdwk.ltd^
 ||uflix.cc^
+||ufxndeal.shop^
 ||ufyx22ah.top^
 ||uggonline.com.au^
 ||ugksq.merganser.cn^
@@ -11595,6 +11599,7 @@
 ||zenithbridgeholdings.com^
 ||zenithdigital.xyz^
 ||zenjett.com^
+||zenla.de^
 ||zenlifehealth.com^
 ||zenodex.net^
 ||zenoex.com^
