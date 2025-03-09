@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.111638.2025
+! Version: 03.09.112551.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 11:16:38 UTC 2025
+! Last modified: Sun Mar  9 11:25:51 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11733
+! Number of entries: 11736
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -5909,6 +5909,7 @@
 ||kielysam.shop^
 ||kijl.online^
 ||kijoe.com^
+||killweve.com^
 ||kindlestack.com^
 ||kingpack7.quest^
 ||kinguin.net^
@@ -7113,6 +7114,7 @@
 ||mirabelless.com^
 ||miracleorganics.online^
 ||mirai123.online^
+||mirakilo.com^
 ||miravia.es^
 ||mirelbalteanu.shop^
 ||mirellarebmartin.shop^
@@ -8136,6 +8138,7 @@
 ||owerexs.com^
 ||owfori.net^
 ||ownersmellsupporthappy.my^
+||owoseed.com^
 ||ox.fun^
 ||oxblockmines.com^
 ||oxbtc.com^
