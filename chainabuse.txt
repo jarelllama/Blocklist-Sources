@@ -1,7 +1,3 @@
-Basescan.com
-Cineplexl.com
-Get-shell.xyz
-Microsoft.com
 amlscore.app
 app-coin.com
 app-ibplaccess.com
@@ -18,6 +14,7 @@ auth-public-trzor-cdn.gorgias.help
 auth-trreezor-io-cdn.webflow.io
 auth-trrezor-io-cdn.webflow.io
 bahringar.cyou
+basescan.com
 berlinmouldwork.com
 bessexp.com
 betoox.cc
@@ -35,6 +32,7 @@ bridgtrzr-dcs.github.io
 cdn-trezo.github.io
 cgypp.eu
 chargebackiinternational.com
+cineplexl.com
 client.paxfultrading.com
 code-compiler.info
 coinbasebackup-protect-upgrade.codeanyapp.com
@@ -155,6 +153,7 @@ gateiokmk.com
 gc-passport-faucet.vercel.app
 genesis-hyperliquid.net
 get-grassinvitations.vercel.app
+get-shell.xyz
 get-trumpmeme.pages.dev
 get.bera-chain.in
 get.deep-seek.fi
@@ -291,6 +290,7 @@ metasextension.webflow.io
 metaweb.cc
 metaweb.ink
 methamaskloginiu.webflow.io
+microsoft.com
 mint.chronforge.gg
 moneroexplorer.org
 move-mentnetsworkls.lol
@@ -407,7 +407,6 @@ webyit.com
 worldinstapay.online
 www.1lnchceth.icu
 www.95bnb-gold.com
-www.JEL.com
 www.amz-robot.com
 www.betanet.somnia.network
 www.bitcoinonlineworld.com
@@ -416,6 +415,7 @@ www.hbarfeast.com
 www.hederarewards.app
 www.insyvp.top
 www.jefferisex.vip
+www.jel.com
 www.lynx-trading.org
 www.markminer.net
 www.mintchain.io
