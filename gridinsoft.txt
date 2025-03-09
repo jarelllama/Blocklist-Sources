@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.075510.2025
+! Version: 03.09.080805.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 07:55:10 UTC 2025
+! Last modified: Sun Mar  9 08:08:05 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11679
+! Number of entries: 11684
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -3799,6 +3799,7 @@
 ||exclusivebooksale.com^
 ||exclusivetradeoption.live^
 ||excotrade.com^
+||exellentrade.com^
 ||exemplifyt.com^
 ||exiledexchange2.com^
 ||exness.com^
@@ -5715,6 +5716,7 @@
 ||jtwuwmyrpmxjgevy.shop^
 ||juanbernal.shop^
 ||juanbosch.shop^
+||jubaxion.com^
 ||judylink.shop^
 ||judypeter.shop^
 ||judywells.shop^
@@ -6123,6 +6125,7 @@
 ||lauriemountjoy.shop^
 ||lauriemoyer.shop^
 ||laurinettles.shop^
+||laveliya.com^
 ||lavinettecaplimited.com^
 ||lavishluck.net^
 ||lavishsupply.net^
@@ -6501,6 +6504,7 @@
 ||lyycs.store^
 ||lzminer.com^
 ||m-bnb.com^
+||m.bitpointpro.com^
 ||m.bitunixex.com^
 ||m.bxamax.com^
 ||m.dodorado.com^
@@ -10044,6 +10048,7 @@
 ||temxn.vip^
 ||tenadex.com^
 ||tenctify.com^
+||tendancemontreal.com^
 ||tendenciasmexicos.com^
 ||tendinvest.com^
 ||tenek.vip^
