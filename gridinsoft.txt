@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.063656.2025
+! Version: 03.09.064556.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 06:36:56 UTC 2025
+! Last modified: Sun Mar  9 06:45:56 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11655
+! Number of entries: 11658
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6666,6 +6666,7 @@
 ||markcjnolae.shop^
 ||markcultstatuds.shop^
 ||markencf.com^
+||markeple.cc^
 ||market4s.com^
 ||marketglobalweb.com^
 ||marketing4solutionsblog.online^
@@ -7872,6 +7873,7 @@
 ||ohoho.info^
 ||ohye.info^
 ||oilai.cc^
+||oilblock.live^
 ||oistateline.top^
 ||oiufds.com^
 ||ojrq.net^
@@ -10136,6 +10138,7 @@
 ||thepiratebay3.org^
 ||thepreorderhub.com^
 ||theprimecapital.com^
+||theprizeflow.com^
 ||theramed.store^
 ||therapyexpertrecovery.com^
 ||therealworldjoin.co^
