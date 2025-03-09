@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.084040.2025
+! Version: 03.09.084940.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 08:40:40 UTC 2025
+! Last modified: Sun Mar  9 08:49:40 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11691
+! Number of entries: 11696
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -241,6 +241,7 @@
 ||9jwjegw.mmdlkx.info^
 ||9k9m.com^
 ||9newsaitrading.info^
+||9xflix.gift^
 ||9xmoviies.xyz^
 ||a-longg-login.com^
 ||a.exdynsrv.com^
@@ -4602,12 +4603,14 @@
 ||glizm.com^
 ||gllpdh.club^
 ||glmrjwl.com^
+||global-exclusive.org^
 ||global-tokenex.net^
 ||global.tinv.org^
 ||global.tokenex.net^
 ||globalaro.digitaladvanced.com^
 ||globalarticangel.shop^
 ||globalbusinesspays.com^
+||globalbxapp.com^
 ||globalcapitalista.com^
 ||globalcocainecanada.ca^
 ||globaldocs.online.com^
@@ -4920,6 +4923,7 @@
 ||hafcas.com^
 ||haglofss.com^
 ||haidth.com^
+||hairzyadore.com^
 ||hakim.media^
 ||haleith.com^
 ||halyvvis.com^
@@ -11475,6 +11479,7 @@
 ||xrpearners.homes^
 ||xrpearners.top^
 ||xrpofficial.reward.com^
+||xrptrading.net^
 ||xrpwheel.com^
 ||xsdvdeal.store^
 ||xshiba.app^
