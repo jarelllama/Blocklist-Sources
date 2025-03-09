@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.103615.2025
+! Version: 03.09.104512.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 10:36:15 UTC 2025
+! Last modified: Sun Mar  9 10:45:12 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11727
+! Number of entries: 11728
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -4236,6 +4236,7 @@
 ||forge.university.com^
 ||forge.wallet.com^
 ||forioxtrade.com^
+||forlovever.com^
 ||formoreup.xyz^
 ||forsage.io^
 ||fortivesttrade.org^
