@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.101127.2025
+! Version: 03.09.102542.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 10:11:27 UTC 2025
+! Last modified: Sun Mar  9 10:25:42 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11722
+! Number of entries: 11726
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2800,6 +2800,7 @@
 ||cycleexplorshop.com^
 ||cyloat.com^
 ||cymatics.fm^
+||cynfreeet.best^
 ||cynthiarobotti.acemlnb.com^
 ||cynxumsxwstmxyo.shop^
 ||cyphermarket.ru^
@@ -4921,6 +4922,7 @@
 ||h5.ownone.org^
 ||h5.quartzpavilion.com^
 ||h5.shakepay-pro.com^
+||h5.upbitbtc.com^
 ||h5.visionaryaicinema.vip^
 ||h5.wealthengine.me^
 ||h5.wltfund.com^
@@ -5959,6 +5961,7 @@
 ||kneystal.com^
 ||knifebeststore.com^
 ||knighted.shop^
+||knita.top^
 ||knitleaf.com^
 ||knitwearcentral.shop^
 ||knmdzdvzkxngdgakyoh.shop^
@@ -11554,6 +11557,7 @@
 ||yeezys.com.mx^
 ||yen.tky.com^
 ||yendeo.com^
+||yenturestandard.com^
 ||yepbit4.com^
 ||yetupstairsaccount.com^
 ||ygexchange.com^
