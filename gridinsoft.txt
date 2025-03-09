@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.045010.2025
+! Version: 03.09.045909.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 04:50:10 UTC 2025
+! Last modified: Sun Mar  9 04:59:09 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11619
+! Number of entries: 11624
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -6504,6 +6504,7 @@
 ||mabar88go.online^
 ||mabhaykamath.online^
 ||mablehelp.online^
+||machineyell.com^
 ||macked.app^
 ||mackenziie.shop^
 ||macpac.ts.shop^
@@ -6792,6 +6793,7 @@
 ||mchrakcjosreysmdoec.shop^
 ||mcintiresolutionscareer.com^
 ||mckinseyinquest.com^
+||mcmin.netlify.app^
 ||mcmsale.top^
 ||mcmtkebnrwhqkusghkqs.shop^
 ||mcrgcretmaseyk.shop^
@@ -9354,6 +9356,7 @@
 ||shoptastic.io^
 ||shopterralotus.com^
 ||shoptrend.cloud^
+||shopwithme.biz^
 ||shopwithpulse.store^
 ||shorteners.net^
 ||shorter.gg^
@@ -10003,6 +10006,7 @@
 ||tendinvest.com^
 ||tenek.vip^
 ||teneo.pro^
+||tentessoldes.com^
 ||tentroearnings.com^
 ||tentron-mining.com^
 ||tentron.mining.net^
@@ -10011,6 +10015,7 @@
 ||terestdeals.shop^
 ||terrafirmatrade.online^
 ||terrapulsedfg.site^
+||terryventashop.com^
 ||tescofglobal.online^
 ||tescoshangpinglobal.com^
 ||tescoshangplnglobal.com^
