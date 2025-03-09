@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.064556.2025
+! Version: 03.09.065515.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 06:45:56 UTC 2025
+! Last modified: Sun Mar  9 06:55:15 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11658
+! Number of entries: 11662
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1958,6 +1958,7 @@
 ||capitalsprings.info^
 ||capitaltradestartlimited.com^
 ||capitalvisionaryfx.com^
+||capitalwealthbuild.com^
 ||capitalxtrade.com^
 ||capitus.net^
 ||capmaxm.shop^
@@ -4646,6 +4647,7 @@
 ||globaltradingsltd.com^
 ||globalultrafx.net^
 ||globalwatchshoppingmall.com^
+||globalwealthint.com^
 ||globatrademarket.com^
 ||globe-pay.online^
 ||globe.trade.ltd^
@@ -6765,6 +6767,7 @@
 ||mavroegbhnkcuh.shop^
 ||mavumo.nl^
 ||mavxyfdfwbpsro.shop^
+||maxalimited.co.uk^
 ||maxcapitaltrust.online^
 ||maxcgi.com^
 ||maxclick.xyz^
@@ -10962,6 +10965,7 @@
 ||visionuibn.online^
 ||visprintdesign.biz^
 ||vistatrack.net^
+||visualtrade.org^
 ||vitadex.org^
 ||vitalityblissmart.com^
 ||vitalpetlife.com^
