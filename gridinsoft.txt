@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.08.235344.2025
+! Version: 03.09.001704.2025
 ! Expires: 10 minutes
-! Last modified: Sat Mar  8 23:53:44 UTC 2025
+! Last modified: Sun Mar  9 00:17:04 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11569
+! Number of entries: 11571
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -1733,6 +1733,7 @@
 ||britebatshop.com^
 ||britishairwaysroyaldeliverycompany.com^
 ||britishfx-trade.info^
+||brixtonnco.com^
 ||brokenplanethoodie.store^
 ||broker.zaffex.com^
 ||brookssoft.com^
@@ -8081,6 +8082,7 @@
 ||pandora.ai.io^
 ||pandoraiptv.net^
 ||panicocapentryfirewood.co.uk^
+||panierfr.com^
 ||panshibi.com^
 ||panth.cmg.com^
 ||pantssclothes.com^
