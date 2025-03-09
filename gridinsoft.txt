@@ -3,11 +3,11 @@
 ! Description: Blocklist to be used as a source for https://github.com/jarelllama/Scam-Blocklist. Not to be used by itself.
 ! Homepage: https://github.com/jarelllama/Blocklist-Sources
 ! License: https://github.com/jarelllama/Blocklist-Sources/blob/main/LICENSE
-! Version: 03.09.042126.2025
+! Version: 03.09.043139.2025
 ! Expires: 10 minutes
-! Last modified: Sun Mar  9 04:21:26 UTC 2025
+! Last modified: Sun Mar  9 04:31:39 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 11609
+! Number of entries: 11614
 !
 ||000074.cc^
 ||0019.coinbase.com^
@@ -2541,6 +2541,7 @@
 ||coreepo.icu^
 ||corescientific.refine.com^
 ||coresignals.click^
+||coretoshi.com^
 ||coretraderexp.com^
 ||corigc.top^
 ||corporalgaming.com^
@@ -3231,6 +3232,7 @@
 ||divingcentercadaques.com^
 ||diwataplay.bet^
 ||djidroner.com^
+||djpt.cc^
 ||dl-protect.link^
 ||dl.surfright.nl^
 ||dlivvplive.com^
@@ -5101,6 +5103,7 @@
 ||hondapartshouse.com^
 ||honey.bee.iptv.com^
 ||honeybalm.fr^
+||honeynoir.store^
 ||honeyskin.online^
 ||hongruialliance.com^
 ||honorisland.com^
@@ -7151,6 +7154,7 @@
 ||modeoutm.shop^
 ||modernkitchenfaucets.shop^
 ||modernrugsasnddecor.shop^
+||modernshophaven.shop^
 ||modernsmarttech.com^
 ||modernwristwatches.shop^
 ||modetrovay.shop^
@@ -9034,6 +9038,7 @@
 ||royal.marines.online^
 ||royaladdiction.store^
 ||royalfieldfirearmsstore.com^
+||royalgalapagosexpeditions.com^
 ||royalmail.i78.xyz^
 ||royalmaillogistics.com^
 ||royalpinkcreations.com^
