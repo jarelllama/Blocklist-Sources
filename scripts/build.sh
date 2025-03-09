@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# Retrieves domains from the various sources and builds the respective
-# blocklist.
+# Retrieve domains from the various sources.
 
 readonly DOMAIN_REGEX='(?:([\p{L}\p{N}][\p{L}\p{N}-]*[\p{L}\p{N}]|[\p{L}\p{N}])\.)+[\p{L}}][\p{L}\p{N}-]*[\p{L}\p{N}]'
 
