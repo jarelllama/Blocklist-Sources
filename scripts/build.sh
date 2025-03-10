@@ -69,7 +69,7 @@ source_tranco() {
         unzip -p temp | mawk -F ',' '{ print $2 }' > source_results.tmp
 
         # Break out of loop if download was successfully
-        (( $(wc -l < source_results.tmp) == 1000000 )) && break
+        (( $(wc -l < source_results.tmp) >= 1000000 )) && break
 
         (( attempt++ ))
     done
