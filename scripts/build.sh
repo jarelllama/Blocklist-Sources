@@ -6,6 +6,7 @@ readonly DOMAIN_REGEX='(?:([\p{L}\p{N}][\p{L}\p{N}-]*[\p{L}\p{N}]|[\p{L}\p{N}])\
 
 readonly -a SOURCES=(
     chainabuse
+    franceverif
     gridinsoft
     malwareurl
     tranco
@@ -28,7 +29,16 @@ source_chainabuse() {
 
     # Scraping separate pages does not work
     curl -sSL --retry 2 --retry-all-errors "$source_url" \
-        | grep -Po "domain\":\"(https?://)?\K${DOMAIN_REGEX}" >> "${source}.txt"
+        | grep -Po "domain\":\"(https?://)?\K${DOMAIN_REGEX}" \
+        >> "${source}.txt"
+}
+
+source_franceverif() {
+    source_url='https://franceverif.fr/fr/verifier-site-web'
+
+    curl -sSL --retry 2 --retry-all-errors "$source_url" |
+        grep -Po '(?<=dangerous).*?(?=recently)' | grep -Po "$DOMAIN_REGEX" \
+        >> "${source}.txt"
 }
 
 source_gridinsoft() {
