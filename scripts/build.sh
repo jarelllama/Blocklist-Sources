@@ -81,7 +81,7 @@ source_tranco() {
     local attempt=1
 
     while (( attempt <= max_attempts )); do
-        curl -sSL "$source_url" -o temp
+        curl -sSL --retry 2 --retry-all-errors "$source_url" -o temp
         unzip -p temp | mawk -F ',' '{ print $2 }' > "${source}.txt"
 
         # Break out of loop if download was successfully
