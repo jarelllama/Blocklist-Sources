@@ -346,6 +346,7 @@ pub-cdn-trezsuit.gitbook.io
 public-trezorweb-cdn.gorgias.help
 qtitzon.cfd
 quanmai12.github.io
+qubetic-claim.online
 qubetics-chains.web.app
 qubetics-presale.github.io
 qubetics-sales.pages.dev
