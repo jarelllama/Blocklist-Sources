@@ -344,6 +344,8 @@ public-trezorweb-cdn.gorgias.help
 qtitzon.cfd
 quanmai12.github.io
 qubetics-chains.web.app
+qubetics-presale.github.io
+qubetics-sales.pages.dev
 qubetics.tech
 qubetlcs.fun
 qzptor.collior.cfd
@@ -461,6 +463,7 @@ virginmoneyliveteam.web.app
 web-brdg-trzr-app.gitbook.io
 web-bridge-trzrr.gorgias.help
 web-bridgetrexer.gorgias.help
+web-qubetics.github.io
 web-trezrio.gorgias.help
 web-trio-io.gorgias.help
 web-trzrsuiteh.gitbook.io
