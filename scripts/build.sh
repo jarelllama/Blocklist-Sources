@@ -9,6 +9,7 @@ readonly -a SOURCES=(
     franceverif
     gridinsoft
     malwareurl
+    scamscavenger
     tranco
 )
 
@@ -54,6 +55,23 @@ source_malwareurl() {
 
     curl -sSL --retry 2 --retry-all-errors "$source_url" \
         | grep -Po "class=\"text-marked\">\K${DOMAIN_REGEX}(?=</span></li>)" \
+        >> "${source}.txt"
+}
+
+source_scamscavenger() {
+    source_url='https://scamscavenger.tech/projectstatistics'
+
+    # Retry 5 times as the site often has trouble loading
+    curl -sSL --retry 5 --retry-all-errors "$source_url" | mawk '
+        /Today scam/ {
+            block = 1;
+            next
+        }
+        /Number added by days/ {
+            block = 0
+        }
+        block
+        ' | grep -Po "<h4 class=\"trial-rating\">\K${DOMAIN_REGEX}" \
         >> "${source}.txt"
 }
 
