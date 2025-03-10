@@ -13,6 +13,7 @@ apps-io-treezor-io-x---cdn.webflow.io
 apps-trezor-bridge.gorgias.help
 apygate.io
 arablconrect.com
+atiknsreelis.com
 auth-io--treezor-com-x-cdn-eng.webflow.io
 auth-m---stert-treezor.webflow.io
 auth-public-trzor-cdn.gorgias.help
