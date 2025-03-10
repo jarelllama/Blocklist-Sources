@@ -27,6 +27,7 @@ betoox.cc
 binedres.com
 bitbr.com.br
 bitgrail.org
+bitkube.pro
 blackmewaoc.com
 blobtheblubcoin.com
 blockzeit.com
@@ -311,6 +312,7 @@ metasextension.webflow.io
 metaweb.cc
 metaweb.ink
 methamaskloginiu.webflow.io
+metroagmall.top
 microsoft.com
 mint.chronforge.gg
 modotea.life
