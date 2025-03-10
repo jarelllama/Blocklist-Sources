@@ -127,6 +127,8 @@ fiboex.com
 ficedfloat.com
 finance.dlnbridge.us
 firmware-llive.com
+firstnorthernholding.com
+firstnorthernholdings.com
 fix.synchronize-protocol.pages.dev
 fixedfkoat.com
 fixeloat.com
@@ -368,6 +370,7 @@ seafohalrsmejeo.com
 secore-trzorio-cdn.github.io
 secure-io--treezor-com-x-cdn-eng.webflow.io
 secure-trezor-web-us.webflow.io
+sendgrid.net
 service-trexersut.gorgias.help
 service-truirsut.gitbook.io
 site--briidge-trzrr.gorgias.help
