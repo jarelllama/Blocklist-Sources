@@ -241,6 +241,7 @@ iserve.ae
 itrazerhardwarrwallet.webflow.io
 jalen-presale.com
 jcsui.com
+jgs-insurance-nj.pages.dev
 jjkkkkk.pages.dev
 johnbarrybaker.com
 johnlucas.top
@@ -338,6 +339,7 @@ metasextension.webflow.io
 metaweb.cc
 metaweb.ink
 methamaskloginiu.webflow.io
+metroagmall.com
 metroagmall.top
 microsoft.com
 mint.chronforge.gg
