@@ -4,6 +4,7 @@ club-hourly.cfd
 etheer.top
 inzogain.top
 master-ai.sbs
+powerbot.sbs
 rollercoin.top
 super-oil.sbs
 vip-energy.cfd
