@@ -5,6 +5,7 @@ etheer.top
 inzogain.top
 master-ai.sbs
 powerbot.sbs
+redfin.top
 rollercoin.top
 super-oil.sbs
 vip-energy.cfd
