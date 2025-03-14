@@ -5901,6 +5901,7 @@ gnulahd.nu
 gnulahd.org
 gnus.ai
 go.alphalamenace.com
+go.certisend.com
 go.e1ulife.com
 goaheadus.com
 goal.md
