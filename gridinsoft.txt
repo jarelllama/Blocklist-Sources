@@ -1889,6 +1889,7 @@ bmw.moto.eu.shop
 bmwstore.eu.com
 bnb118.com
 bnbclaim.cc
+bnbmining.cc
 bnbpick.io
 bnbto.com
 bnbverify.cc
@@ -4160,6 +4161,7 @@ docs.google.com
 docs.linqai.com
 docs.shibariumtech.com
 doctorformen.space
+documentationfr.com
 documentsprovider.com
 dodgesrtpartsdepot.com
 dodi.repacks.site
