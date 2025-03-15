@@ -14,6 +14,7 @@ readonly -a SOURCES=(
 
 main() {
     local source source_url
+
     for source in "${SOURCES[@]}"; do
         "source_${source}" || true
 
@@ -75,7 +76,7 @@ source_scamscavenger() {
 }
 
 source_tranco() {
-    local source_url='https://tranco-list.eu/top-1m-incl-subdomains.csv.zip'
+    source_url='https://tranco-list.eu/top-1m-incl-subdomains.csv.zip'
     local max_attempts=3  # Retries twice
     local attempt=1
 
