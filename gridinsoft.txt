@@ -1731,6 +1731,7 @@ bisalex.com
 bisitop.com
 bit-firm.com
 bit-warden.com
+bit-xtra.co
 bit.binary.org
 bit.btc.com
 bit.chain.trade
@@ -1878,6 +1879,7 @@ bitvq.com
 bitwe.org
 bitwin.exchange
 bitxglobal.exchange
+bitxipe.com
 bitxplorers.org
 bitzealy.com
 bitzena.com
@@ -3545,6 +3547,8 @@ cryptorecovers.com
 cryptorecoverysquad.com
 cryptorestitutor.com
 cryptos.com
+cryptos.gay
+cryptos.hair
 cryptosbytes.top
 cryptoscampolice.com
 cryptosgx.com
