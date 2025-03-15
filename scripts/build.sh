@@ -6,7 +6,6 @@ readonly DOMAIN_REGEX='(?:([\p{L}\p{N}][\p{L}\p{N}-]*[\p{L}\p{N}]|[\p{L}\p{N}])\
 
 readonly -a SOURCES=(
     chainabuse
-    franceverif
     gridinsoft
     malwareurl
     scamscavenger
