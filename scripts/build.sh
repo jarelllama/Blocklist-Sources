@@ -61,8 +61,7 @@ source_malwareurl() {
 source_scamscavenger() {
     source_url='https://scamscavenger.tech/projectstatistics'
 
-    # Retry 5 times as the site often has trouble loading
-    curl -sSL --retry 5 --retry-all-errors "$source_url" | mawk '
+    curl -sSL --retry 2 --retry-all-errors "$source_url" | mawk '
         /Today scam/ {
             block = 1;
             next
