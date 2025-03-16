@@ -16,6 +16,8 @@ main() {
     local source source_url
 
     for source in "${SOURCES[@]}"; do
+        source_url=''
+
         "source_${source}" || true
 
         # Remove carriage return characters, convert to lowercase, sort, and
