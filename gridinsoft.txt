@@ -12274,6 +12274,7 @@ shopwithpulse.store
 shorten.ee
 shorteners.net
 shorter.gg
+shorter.me
 shorturl.at
 shothues.com
 shotzon.com
