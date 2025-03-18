@@ -6976,6 +6976,7 @@ h5.bfa-markets.com
 h5.byewex.com
 h5.bytesi.vip
 h5.doieu.com
+h5.fincax.com
 h5.finpacts.com
 h5.hkfgcrypto.com
 h5.koinexbit.com
@@ -12051,6 +12052,7 @@ royalosa.com
 royalpinkcreations.com
 royalqfinance.com
 royalreels7.com
+roycoin.info
 rozomii.info
 rpmvape.com
 rpnodes.tech
