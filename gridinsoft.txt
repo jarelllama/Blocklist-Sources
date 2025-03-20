@@ -4257,6 +4257,7 @@ decoravenue.shop
 decoremporium.shop
 decorhome.arg.store
 decorstore.club
+decuva.com
 dedfunplastic.shop
 dedolej.cz
 deenari.ae
@@ -6485,6 +6486,7 @@ game.zone.pro
 gamebazaar.store
 gamebounty.world
 gamechallangermode.world
+gamedayfrance.com
 gamedayzon.com
 gamefabrique.com
 gamefastmixvaker.shop
@@ -15060,6 +15062,7 @@ whiteminer.com
 whiteweby.com
 whittakerassistance.com
 whmcmanus.shop
+whmcsnulled.net
 whole.goldcustom.shop
 wholefilter.com
 wholesale-leaks.co
