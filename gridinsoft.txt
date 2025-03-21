@@ -1016,6 +1016,7 @@ apexcoins.org
 apexfep.com
 apexglobalwealth.com
 aphroditesoysters.shop
+api.getsolara.gg
 api.wavebrowser.co
 apicddn.com
 apkasolution.com
