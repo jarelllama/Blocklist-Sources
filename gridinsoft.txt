@@ -15316,6 +15316,7 @@ web3.metamask.com.de
 web3.okxusdt.net
 web3.olmaxsc.com
 web3.skdalo.xyz
+web3aitrades.com
 web3app.org
 web3bay.io
 web3cry.cc
