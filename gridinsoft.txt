@@ -6055,6 +6055,7 @@ fastgenerators.shop
 fastlinkdipandcourier.com
 fastlovestore.sbs
 fastminingpro.com
+fastminingpro.net
 fastnetworks.xyz
 fastpluginfoxz.shop
 fastpostdelivery.com
@@ -10311,6 +10312,7 @@ minepulse.top
 minequartz.com
 miner.com
 mineralop.shop
+minergpt.pro
 minersmarketsplace.com
 minerusdt.io
 minervabot.net
