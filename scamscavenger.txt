@@ -1,5 +1,6 @@
 777finance.cfd
 777gold.sbs
+amexprofit.sbs
 bearhour.sbs
 bitsuper.top
 botvantage.ai
@@ -13,6 +14,7 @@ kitsu.buzz
 master-ai.sbs
 metal-robot.cfd
 multyinv.com
+novex-invest.store
 powerbot.sbs
 redfin.top
 rollercoin.top
