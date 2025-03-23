@@ -14027,6 +14027,7 @@ store.creedhouse.online
 store.insta360.com
 store.payproglobal.com
 store.uni.app.com
+store.usautolift.com
 storeclosingclearance.com
 storemineci.com
 storesoleas.com
@@ -14468,6 +14469,7 @@ theflashlightshop.com
 theflixertv.to
 thefurniturestudio.store
 thegenesismining.com
+thegeniuswave.wisdombrain.store
 thegiftsjoy.com
 thegirlwithabluemind.com
 theglowdrive.com
