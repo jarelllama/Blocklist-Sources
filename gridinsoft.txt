@@ -4810,6 +4810,7 @@ dex.trade.global
 dexboss.io
 dexfitb.net
 dexiainvestment.com
+dexiex.com
 dexivorn.top
 dexmask.pro
 dexonar.com
