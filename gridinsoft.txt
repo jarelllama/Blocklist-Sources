@@ -3709,6 +3709,7 @@ coinarbitrage.io
 coinarns.com
 coinbase.mywallet.com
 coinbase.staking.com
+coinbasee.ru
 coinbasesupport.blog
 coinbaux.com
 coinblast.com
@@ -14120,6 +14121,7 @@ speedyhealth.com
 speedypolicies.com
 speedyracer.com
 sphadsworld.com
+spicetoken.live
 spicytemptations.com
 spiegel.de
 spin777.cool
