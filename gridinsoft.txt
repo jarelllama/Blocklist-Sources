@@ -13746,6 +13746,7 @@ shop.montece.com
 shop.sale4.quest
 shop.sale6.quest
 shopa66.com
+shopandcart.store
 shopavs.store
 shopbcbg.com
 shopbiggestdeals.com
