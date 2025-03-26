@@ -2,6 +2,7 @@
 777finance.cfd
 777gold.sbs
 amexprofit.sbs
+axiosmining.store
 bearhour.sbs
 bitsuper.top
 botvantage.ai
