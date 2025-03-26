@@ -10107,6 +10107,7 @@ luyncty.shop
 lvl.singapore.pte.site
 lvlbit.com
 lwbbc.com
+lwex.com
 lyceebalzac.com
 lydiacohen.shop
 lydiephelippon.shop
@@ -12502,6 +12503,7 @@ pipsmartacademy.com
 pipstocksexchange.com
 pirlotvhd.lol
 pirlotvhd.org
+piswap.io
 pitchbookpro.top
 piteos.com
 pitonex.com
@@ -15306,6 +15308,7 @@ trade.coinstreamex.com
 trade.definity.co
 trade.eightcap.com
 trade.emeraltrade.com
+trade.plf-tchb.io
 trade2swap.com
 tradealgorithmltd.com
 tradecg.company.info
