@@ -5922,6 +5922,7 @@ erzcibaldm.lol
 es.bankinter.usuario.com
 es.ccm.net
 es.expressunlocks.com
+es.fridayparts.com
 es.savefrom.net
 es.taiwebs.com
 esabym.shop
@@ -7644,6 +7645,7 @@ gralhook.com
 granaventaos.vip
 grandhealthonline.com
 grandura.shop
+grantassetfundbots.com
 graphixplanet.com
 grappees.com
 grasoase.com
