@@ -3,6 +3,7 @@
 777gold.sbs
 amexprofit.sbs
 axiosmining.store
+basio.app
 bearhour.sbs
 bitsuper.top
 botvantage.ai
