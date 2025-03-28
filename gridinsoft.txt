@@ -562,6 +562,7 @@ ai.pool.trading
 ai.trades.co
 ai5crypto.com
 ai6662.com
+aiam-rt.com
 aibeartytrend.shop
 aibtcapp.com
 aibtcapp1.com
