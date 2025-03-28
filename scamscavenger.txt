@@ -1,6 +1,7 @@
 555oil.sbs
 777finance.cfd
 777gold.sbs
+777invest.sbs
 amexprofit.sbs
 axiosmining.store
 basio.app
