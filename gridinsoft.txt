@@ -7437,6 +7437,7 @@ get.matsato.com
 get.ozzihome.com
 get2move.club
 getawaynz.com
+getboomba.com
 getbuxeasy.com
 getcommunitytrumpmemes.com
 getcryptodrop.com
@@ -13118,6 +13119,7 @@ poffoundation.online
 pointway.io
 pokebooster.fr
 pokecristo.com
+pokedia.fr
 pokepackbrostcg.com
 pokexperiment.com
 pokezone.ca
