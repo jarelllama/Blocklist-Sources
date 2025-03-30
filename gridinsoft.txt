@@ -1143,6 +1143,7 @@ app.fundingpips.com
 app.genesis-cloudmining.com
 app.getgrass.io
 app.getlee.co
+app.gomining.com
 app.hyperliquid.xyz
 app.landshare.website
 app.lockswallet.net
@@ -7571,6 +7572,7 @@ glitrend.com
 glitshine.com
 glitteras.com
 glizm.com
+glizmos.net
 gllpdh.club
 glmrjwl.com
 global-exclusive.org
@@ -14789,6 +14791,7 @@ sofiahalbofanimeworld.blogspot.com
 sofiahalbofanimeworld.blogspot.com.co
 sofiahalbofanimeworld.blogspot.com.eg
 sofiahalbofanimeworld.blogspot.fi
+sofiahalbofanimeworld.blogspot.gr
 sofiahalbofanimeworld.blogspot.my
 sofiahalbofanimeworld.blogspot.nl
 sofiahalbofanimeworld.blogspot.ru
