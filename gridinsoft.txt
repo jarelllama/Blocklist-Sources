@@ -1150,6 +1150,7 @@ app.antiriciclaggio.mps.com
 app.brainstorm.market
 app.bunkerwallet.io
 app.city2000.cc
+app.dao1.ai
 app.earnpark.com
 app.fbmallmixfast.com
 app.fundingpips.com
@@ -4392,6 +4393,7 @@ cryptocurrency.events.com
 cryptocurrency.recovery.com
 cryptodig.ci
 cryptoes4u.com
+cryptoheistx.com
 cryptoids.info
 cryptoindex.com
 cryptojayatech.cloud
@@ -12156,6 +12158,7 @@ newalking.com
 newarrivalgee.com
 newaytrading.in
 newbalancelink.com
+newbitcoingenerators.com
 newcityfinance.online
 newcps.gtuiguang.com
 newdayconfirmation.com
