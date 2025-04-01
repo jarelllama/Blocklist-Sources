@@ -4031,6 +4031,7 @@ coinomi.com
 coinpace.io
 coinrex-investments.com
 coins.free.com
+coins.game
 coins.ph
 coins.ro.com
 coins.shade.com
@@ -5444,6 +5445,7 @@ doge-farm.biz
 doge-giga.com
 dogebank.pro
 dogebank.space
+dogeboost.pro
 dogecoin.usdt.vip
 dogee.vip
 dogefree.in
