@@ -8248,6 +8248,7 @@ h5.hkfgcrypto.com
 h5.koinexbit.com
 h5.oke-vip.com
 h5.ownone.org
+h5.qamcoin.com
 h5.quartzpavilion.com
 h5.quartzpavillion.com
 h5.shakepay-pro.com
@@ -11384,6 +11385,7 @@ micro100.life
 microbt.life
 microdr.ones.com.ng
 microindicaoesauto.com
+microlent.com
 micropic.com.br
 microsoftmailgfcyggwfaomrdta.tiponside.com
 microsoftuj.cz
@@ -17155,6 +17157,7 @@ violetwindy.com
 vioratricot.com
 vip-aifactor.com
 vip-tradin.com
+vip-xaut.me
 vip.aishop24.com
 vip.amazon182.com
 vip.iptv.live
@@ -17366,6 +17369,7 @@ way1.top
 waya.travel
 wayestyle.store
 wayfair.mall.cc
+wayfairbargains.com
 wayfairclearance.online
 wayfairshop6.shop
 wayfairv.shop
