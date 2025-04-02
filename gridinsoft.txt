@@ -8371,6 +8371,7 @@ h5.quartzpavilion.com
 h5.quartzpavillion.com
 h5.shakepay-pro.com
 h5.tidorx.net
+h5.topshop29.shop
 h5.upbitbtc.com
 h5.visionaryaicinema.vip
 h5.wealthengine.me
@@ -14818,6 +14819,7 @@ secure.ccleaner.com
 secure.cryptex.to
 secure.getquietlab.com
 secure.logalty.com
+secure.plansympa.com
 secure.weltrade.com
 securecryptorecovery.com
 secured-tb.com
