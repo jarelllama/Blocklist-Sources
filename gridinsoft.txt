@@ -6939,6 +6939,7 @@ fic.cc
 fidel-equity.cc
 fidelixdigitals.de
 fidellefinance.com
+fides-options.com
 fidu.center
 fieldefficient.shop
 fieldloom.com
@@ -8110,6 +8111,7 @@ gold-minor.top
 gold-rush.lat
 gold6900.io
 goldackerstrading.com
+goldbarstaffing.com
 goldcapitals.org
 goldcartusa.com
 goldcash7.com
@@ -11793,6 +11795,7 @@ minimobileatm.com
 mining.online
 mining.tether.com
 mining189.com
+miningbep20.com
 miningcompany.ltd
 miningpool.my.id
 miningpool.tech
@@ -16791,6 +16794,7 @@ traderqx.com
 traderszenith.com
 tradesixpro.com
 tradesmartfxlive.com
+tradesmartsignals.com
 tradestationcryptofx.com
 tradeswiss.click
 tradethrive.live
