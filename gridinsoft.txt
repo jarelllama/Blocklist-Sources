@@ -3535,6 +3535,7 @@ chainbank.network
 chainfun.click
 chainmine.cloud
 chainriseholdings.com
+chaintrustive.tech
 chainwave.net
 chainworky.top
 chalaorry.shop
@@ -7324,6 +7325,7 @@ foxypanel.com
 fozan.online
 fozzak.com
 fpbitcoin.com
+fpeng.xyz
 fpibank.com
 fpmartkets.com
 fpminer.com
