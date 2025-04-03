@@ -16701,6 +16701,7 @@ trade.coinstreamex.com
 trade.definity.co
 trade.eightcap.com
 trade.emeraltrade.com
+trade.myna.fund
 trade.plf-tchb.io
 trade2swap.com
 tradealgorithmltd.com
@@ -18395,6 +18396,7 @@ xval.skin
 xvkdfashion.shop
 xworld.gg
 xx7722.net
+xxbrits.us
 xxflirting.com
 xxleaked.com
 xxx.fingerapp.xyz
