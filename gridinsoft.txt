@@ -1195,6 +1195,7 @@ app.gomining.com
 app.hyperliquid.xyz
 app.landshare.website
 app.ledgerlock.io
+app.lockcoin.net
 app.lockswallet.net
 app.markthal.vip
 app.mediaplayhihi.com
