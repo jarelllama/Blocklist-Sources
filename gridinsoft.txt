@@ -2599,6 +2599,7 @@ bnbmining.co
 bnbpick.io
 bnbto.com
 bnbverify.cc
+bnbx.live
 bnbzest.com
 bnex.cc
 bnextrade.com
@@ -12645,6 +12646,7 @@ newjellycats.online
 newlana.com
 newlearning.icu
 newlifebot26.com
+newlineshipment.com
 newlrra.online
 newored.com
 newperseverance.shop
