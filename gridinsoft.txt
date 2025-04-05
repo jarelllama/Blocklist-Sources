@@ -4615,6 +4615,7 @@ cryptoo.cc
 cryptoo.online
 cryptoof.com
 cryptoonchai.com
+cryptopersecond.com
 cryptoplace.site
 cryptoplanetsx.net
 cryptopump.me
@@ -8361,6 +8362,7 @@ gptdefinityai.app.com
 gptexcelacademycl.com
 gptgirlfriend.online
 gpthub.gg
+gpu-miner.site
 gpu-tools.com
 gpuking.org
 gpustar.com
@@ -13060,6 +13062,7 @@ nwealth.app
 nwk4ls.com
 nxmodels.com
 nxntfbe.idudex.com
+nxtgn.ml
 nybt.education
 nyc3.digitaloceanspaces.com
 nynn.co
