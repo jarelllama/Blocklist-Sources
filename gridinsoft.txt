@@ -5311,6 +5311,7 @@ dex.trade.global
 dexboss.io
 dexchurko.com
 dexfitb.net
+dexgir.com
 dexiainvestment.com
 dexiex.com
 dexivorn.top
