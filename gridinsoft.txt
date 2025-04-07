@@ -4014,6 +4014,7 @@ cloud.aiminers.pro
 cloud.mail.ru
 cloud.mining.cc
 cloud.vogelrain.hopto.org
+cloud.xara.com
 cloudbof.com
 cloudboost.club
 cloudc.com.hk
