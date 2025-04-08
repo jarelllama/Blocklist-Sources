@@ -3371,6 +3371,7 @@ carboom.store
 carcaremaster.shop
 carcoveronline.shop
 cardhaven.fr
+carding-genie.cm
 cardingcashout.com
 cardiobalancedeutschland.com
 cardmarket.store
@@ -11576,6 +11577,7 @@ magic4you.nu
 magicjili.tw
 magicscreen.io
 magistella.co
+magistiq.com
 magna-fx.com
 magnetclub.in
 magodxasxyzag.shop
