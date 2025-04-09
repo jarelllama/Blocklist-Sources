@@ -11541,6 +11541,7 @@ m.mxt-line-id.online
 m.nggcritics.com
 m.opxm.com
 m.oxgatens.net
+m.p.finance
 m.parrotes.com
 m.payasset.com
 m.peprobots.com
@@ -19643,6 +19644,7 @@ zennbot.com
 zenodex.net
 zenoex.com
 zenostorm.com
+zenotech.site
 zenowavers.com
 zenoxpro.com
 zentivawellness.com
