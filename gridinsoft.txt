@@ -1228,6 +1228,7 @@ app.antiriciclaggio.mps.com
 app.brainstorm.market
 app.bunkerwallet.io
 app.city2000.cc
+app.coinfazi.com
 app.dao1.ai
 app.earnpark.com
 app.fbmallmixfast.com
@@ -12060,6 +12061,7 @@ mega-system.site
 mega.easy.prize.pro
 megabybit.online
 megacix.com
+megafantasyhub.com
 megaflix.co
 megakino.co
 megalotery.com
@@ -13092,6 +13094,7 @@ netfucks1.com
 nethaless.com
 netherex-pro.com
 netherexpro.com
+netixbit-fx.com
 netlokomofrecund.shop
 netreviewflix.com
 netteknits.com
