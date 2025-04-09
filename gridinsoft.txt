@@ -8422,6 +8422,7 @@ gnus.ai
 go.alphalamenace.com
 go.certisend.com
 go.e1ulife.com
+go.webuildix.com
 go2ganja.com
 go365plus.com
 go4garden.com
@@ -12896,6 +12897,7 @@ myprotein-vip.shop
 myproteinvip.shop
 mypsswrd.com
 myqrcode.mobi
+myrahdy.shop
 myrbcdevice.secure.com
 myrboi.com
 myrelay-track-fr.info
