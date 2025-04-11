@@ -1256,6 +1256,7 @@ app.lockcoin.net
 app.lockswallet.net
 app.markthal.vip
 app.mediaplayhihi.com
+app.mitrade.com
 app.olet8.com
 app.primeopinion.com
 app.privatecoin.net
@@ -2219,6 +2220,7 @@ bhmining.cloud
 bhmining.org
 bhpecological.com
 bi539wg.brgsdr.info
+biafreeov.best
 bialettibest.shop
 bianexchange.ltd
 bic.a.com
@@ -4683,6 +4685,7 @@ croocsdiscount.com
 crossbow-eu.shop
 crovyieshop.com
 crowd1.website
+crowdbit-academy.com
 crown99.win
 crownadvisorgroup.com
 crownbet.online
@@ -7630,6 +7633,7 @@ fnasly.net
 fnc9.com
 fnget.com
 fnlvwy.com
+focoor.com
 focusedfinds.com
 focusglow.store
 focusmarkets.com
