@@ -4268,6 +4268,7 @@ coin-a.com
 coin-bt.com
 coin-m.com
 coin-markets.com
+coin-pays.com
 coin-pluseglobal.org
 coin-rely.com
 coin-rule.com
@@ -18796,6 +18797,7 @@ velourtoronto.com
 velourwatches.store
 velozaeyewear.com
 velthentic.com
+velvetsupport.com
 velvettrades.com
 velzara-melbourne.com
 venarose.online
