@@ -1256,6 +1256,7 @@ app.city2000.cc
 app.coinfazi.com
 app.dao1.ai
 app.earnpark.com
+app.evnova.ai
 app.fbmallmixfast.com
 app.fundingpips.com
 app.genesis-cloudmining.com
@@ -5226,6 +5227,7 @@ daydream.my
 dayrivasdo.shop
 dayshop-ph.com
 daywint.com
+dazetales.com
 dazifytrix.com
 dazyumall.com
 dazzlex.store
@@ -17659,6 +17661,7 @@ terryventashop.com
 tescofglobal.online
 tescoshangpinglobal.com
 tescoshangplnglobal.com
+tescospecials.com
 tesla.investorscorp.pro
 teslamarketinvestment.com
 teslaproinvestment.com
