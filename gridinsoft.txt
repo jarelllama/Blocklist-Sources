@@ -6918,6 +6918,7 @@ eryoccas.shop
 erzcibaldm.lol
 es.bankinter.usuario.com
 es.ccm.net
+es.cdkdeals.com
 es.expressunlocks.com
 es.fridayparts.com
 es.savefrom.net
@@ -20499,6 +20500,7 @@ yomioutlet.com
 yomovies1.skin
 yonvisa.com
 yoo.deals
+yoolif.com
 yoomiy.shop
 yorkiepuppy4homes.com
 yorkmiller.com
