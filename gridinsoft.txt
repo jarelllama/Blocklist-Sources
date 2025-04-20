@@ -1351,6 +1351,7 @@ app.solaspy.io
 app.spaios.com
 app.sparmall.vip
 app.ultraarb.uk
+app.uni2matrix.com
 app.vault69.club
 app.webstar-network.com
 app.wisdomise.com
@@ -5015,6 +5016,7 @@ cryeprecision-online.shop
 cryhash.com
 crynet2.top
 cryochain.io
+cryoflow.store
 cryp22earn.com
 cryp2faucet.net
 crypearn247.online
