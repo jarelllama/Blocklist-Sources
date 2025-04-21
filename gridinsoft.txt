@@ -1358,6 +1358,7 @@ app.privatecoin.net
 app.qlogos.io
 app.quantvine.top
 app.remittix.io
+app.renaderfx.com
 app.sanagl.cc
 app.smartunioncredit.com
 app.solaspy.io
@@ -13144,6 +13145,7 @@ medzpalace.com
 meerai.io
 meetingage.top
 mega-easy-prize.pro
+mega-offer.info
 mega-system.site
 mega.easy.prize.pro
 megabybit.online
