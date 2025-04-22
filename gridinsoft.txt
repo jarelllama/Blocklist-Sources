@@ -1336,6 +1336,7 @@ app-ios-apk.weebly.com
 app.acuityscheduling.com
 app.adiadicc.com
 app.aiminers.vip
+app.algosone.ai
 app.antiriciclaggio.mps.com
 app.brainstorm.market
 app.bunkerwallet.io
@@ -18453,6 +18454,7 @@ stop-paperasse.com
 stopfungus.co
 stoptheemails.org
 storage.ml-cachehost.net
+storch-apotheke.com
 store-united.com
 store.belgianshop.com
 store.creedhouse.online
