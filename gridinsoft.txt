@@ -21312,6 +21312,7 @@ web.orbitexport.net
 web.orionstars.org
 web.rectmart.shop
 web.rhino.org
+web.scaleai.app
 web3-gpt.lat
 web3-gpt.store
 web3-gpt.vip
