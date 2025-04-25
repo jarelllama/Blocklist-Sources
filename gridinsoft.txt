@@ -1374,6 +1374,7 @@ app.evnova.ai
 app.fbmallmixfast.com
 app.fundingpips.com
 app.genesis-cloudmining.com
+app.genesis-cloudmining.vip
 app.getgrass.io
 app.getlee.co
 app.gomining.com
@@ -11630,6 +11631,7 @@ kalpwd.vip
 kalrolinc.net
 kamagrafrance.com
 kamagraonline.com
+kamagraonlineuk.com
 kamagraoriginal.to
 kamerburo.info
 kanbytrade.com
@@ -21227,6 +21229,7 @@ vnzvietnam10.online
 vocabularye.com
 vocationay.com
 vocewuu.info
+vod-iptv.com
 vodafone-life.it
 voginova.com
 vogolux.com
@@ -21785,6 +21788,7 @@ wonderfix.me
 wonderslook.com
 wonerone.shop
 wonerque.com
+woniuo.com
 woodstonecapital.net
 wooeyeshop.com
 woof4ever.com
