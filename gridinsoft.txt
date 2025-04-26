@@ -4131,6 +4131,7 @@ cfd.spectre-group-limited.com
 cfd.tradingrepublicaltd.com
 cfdchic.com
 cfdqqx.com
+cfmine.com
 cfr.network
 cfs.trades.com
 cfsgroup.website
@@ -13922,6 +13923,7 @@ mining.tether.com
 mining189.com
 miningbep20.com
 miningbnb.com
+miningcf.co
 miningcompany.ltd
 miningpool.my.id
 miningpool.tech
