@@ -2377,6 +2377,7 @@ bet.way.online
 bet2x.com
 bet4.pe
 beta.cash.com
+beta.zundaxtrade.com
 betadux.org
 betafpvskqu.shop
 betakuechenxgeisler.shop
@@ -3368,6 +3369,7 @@ btcion332.com
 btcmall.club
 btcminebot.com
 btcminer.asia
+btcminer.space
 btcminer.tech
 btcminer.uk
 btcminerfarm.com
