@@ -9396,6 +9396,7 @@ global-mission-shop.cc
 global-solicitors.com
 global-swift.com
 global-tokenex.net
+global-vacasaadvanced.com
 global-wealth-capital.online
 global.bdswiss.com
 global.swissmarkets.com
@@ -11275,6 +11276,7 @@ iptvsmartersprofficiel.fr
 iptvsreseller.com
 iptvtrends.net
 iptvtvsmarters.com
+iptvue.com
 iptvworldconnect.com
 ipx.market
 iq-dragon.com
@@ -16029,6 +16031,7 @@ papdex.com
 paperexpresso.com
 paperpadpen.com
 paperstraight.com
+papzap.in
 paradech.com
 paradisedesignsco.com
 paraear.co.uk
