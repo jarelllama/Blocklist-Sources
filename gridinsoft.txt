@@ -2614,6 +2614,7 @@ binance.web3.com.cn
 binance.web3.com.ru
 binanceannouncement.com
 binancedefi.io
+binancelab.org
 binancemarginbitfury.com
 binancepro.vip
 binancetradings.org
@@ -18930,6 +18931,7 @@ smmadspro.com
 smmbase.org
 smmboost24.online
 smmcoder.com
+smmdip.com
 smmflare.com
 smmpanelus.com
 smmstores.in
