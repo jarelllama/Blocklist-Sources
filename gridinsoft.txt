@@ -22358,6 +22358,7 @@ web.cotiplus.top
 web.debank.netlify.app
 web.lotradecoin.net
 web.nnleas.top
+web.novacryptpro.com
 web.orbitexport.net
 web.orionstars.org
 web.rectmart.shop
