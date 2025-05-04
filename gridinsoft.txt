@@ -9486,6 +9486,7 @@ genesis.mining.com
 genesisminingbot.com
 genesisminings.co.uk
 genesisminning.com
+genexa.net
 geninsur.com
 genius-shopping.com
 geniusara.com
@@ -12083,6 +12084,7 @@ joycreative.com
 joycv.com
 joyeuxliens.com
 joyfball.com
+joyfball.info
 joyforgals.com
 joylandgo.com
 joymade.co
@@ -22693,6 +22695,7 @@ wawnet.com
 waxebet.com
 waxx.network
 way03.top
+way05.top
 way1.top
 way10.top
 waya.travel
