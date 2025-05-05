@@ -9372,6 +9372,7 @@ game.zone.pro
 gamebazaar.store
 gamebounty.world
 gamechallangermode.world
+gamecrazeshop.com
 gamedayfrance.com
 gamedayzon.com
 gamefabrique.com
