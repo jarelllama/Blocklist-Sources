@@ -1581,6 +1581,7 @@ arbicryptoss.com
 arbiquant-app.com
 arbiquant.com
 arbitcap.com
+arbitract.com
 arbitrage-ai-app.com
 arbitronix.io
 arbvault.com
@@ -17891,6 +17892,7 @@ qfinanceledger.com
 qfs-ledgerasset.org
 qfs-securefirm.com
 qfs-swift.org
+qfs-trustdefi.net
 qfsassets.backups.com
 qfsbackupassets.ltd
 qfsdebtconsolidationreview.com
