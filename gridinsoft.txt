@@ -6240,6 +6240,7 @@ decoremporium.shop
 decorhome-arg.store
 decorhome.arg.store
 decorstore.club
+decotalkcontactpapershop.shop
 decuva.com
 dedfunplastic.shop
 deditwidmil.com
