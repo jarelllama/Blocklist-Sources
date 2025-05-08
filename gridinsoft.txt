@@ -5067,6 +5067,7 @@ coin-benefitglobal.com
 coin-bt.com
 coin-m.com
 coin-markets.com
+coin-multi.com
 coin-pays.com
 coin-pluseglobal.org
 coin-rely.com
@@ -11067,6 +11068,7 @@ hiitoken.com
 hiivepartners.com
 hijra7.online
 hikarudistribution.com
+hikebalance.com
 hikecare.co.uk
 hillbillyllc.com
 hillexchange.com
