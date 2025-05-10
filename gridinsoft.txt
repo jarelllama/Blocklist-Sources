@@ -751,6 +751,7 @@ ai-generation2.bond
 ai-gruppe.com
 ai-miner.website
 ai-nigarity.com
+ai-strategy.online
 ai.bitgrid.cloud
 ai.btrading.club
 ai.deepseek.org
@@ -1541,6 +1542,7 @@ appcorelink.com
 appdevelopmenthouse.com
 appdynamicstech.com
 appengroupltd.com
+appeonvault.com
 appetitep.com
 appic.events
 appie.best
@@ -17990,6 +17992,7 @@ promo.offer.com
 promo122.com
 promocialz.com
 promotion-a.shop
+promotion-brandit.click
 promovelomagasin.com
 promptfunds.org
 prompts.top
