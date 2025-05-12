@@ -8540,6 +8540,7 @@ f1store.formula1.eu.com
 f1store.top
 f1store1.formula1.eu.com
 f1store2.formula1.com
+f2.freemp3cloud.com
 f2hash.com
 f2pool.com
 f3abb0cc802f3d7b95fc8762b94bdcb13bf394c40c357301c4aa1d67a256fb.on-fleek.app
@@ -12095,6 +12096,7 @@ insvyl.top
 inszwy.top
 intcyberlaw.com
 intdomoinpartner.online
+intectte.com
 integratedapps.tech
 inteigrity.com
 intellectia.ai
