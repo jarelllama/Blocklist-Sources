@@ -5188,6 +5188,7 @@ coin-pays.com
 coin-pluseglobal.org
 coin-rely.com
 coin-rule.com
+coin-xrx.com
 coin.a.com
 coin.change.live
 coin.de-cryptowave.com
@@ -18009,6 +18010,7 @@ portal.hitechgloballtd.online
 portal.loginarea.live
 portal.oneecosystem.eu
 portal.ovb.es
+portal.tagmarkets.com
 portal.worldbusinesspay.com
 portaldedicasonline.com
 portalmec.digital
