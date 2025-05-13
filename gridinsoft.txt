@@ -17488,6 +17488,7 @@ palmesale.shop
 palmetostetoasermorys.shop
 palmettoclearance.shop
 palmettoclearancesale.store
+palmettodiscountshop.store
 palmettonewsale.store
 palmettosstatearmorryx.store
 palmettostatearmor-us.shop
@@ -20776,6 +20777,7 @@ sphehotelads.com
 spicek2forsale.com
 spicetoken.live
 spicytemptations.com
+spiderstudio.co
 spiegel.de
 spin777.cool
 spin777t.com
