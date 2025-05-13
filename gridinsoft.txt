@@ -4544,6 +4544,7 @@ cfd.capitals-gain.com
 cfd.interactiveproltd.com
 cfd.network-capital-partners.com
 cfd.spectre-group-limited.com
+cfd.traderepublicatrading.com
 cfd.tradingrepublicaltd.com
 cfdchic.com
 cfdqqx.com
@@ -17393,6 +17394,7 @@ pack4holiday.com
 packetshare.io
 packrafttrip.com
 packseek.com
+packwoodsofficial.co.uk
 padasnap.com
 padavip.com
 padelofficiel.com
