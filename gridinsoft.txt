@@ -2831,6 +2831,7 @@ binance.web3.com.cn
 binance.web3.com.ru
 binanceannouncement.com
 binancedefi.io
+binanceinvestvip.com
 binancelab.org
 binancemarginbitfury.com
 binancepro.vip
@@ -25074,6 +25075,7 @@ yzonaautomotive.shop
 z.lib.io
 z.zenshop.com
 z2u.com
+za.gl
 zacatecasgourmet.online
 zadig.et.voltaire.eu.com
 zadigvoltairevip.com
