@@ -1561,6 +1561,7 @@ app.lockcoin.net
 app.lockswallet.net
 app.markthal.vip
 app.mediaplayhihi.com
+app.meshchain.ai
 app.mitrade.com
 app.mobee.io
 app.olet8.com
@@ -8518,6 +8519,7 @@ excelsiacommercialbank.com
 excelsteelni.shop
 exceptionaloutdoorliving.shop
 exch.cx
+exchangehd5455aori4qvrwhyno4ul7xrz4foy6qwga3olnbclp5f4qd.torify.net
 exchangemagix.com
 exchangevista.com
 excitedsky.com
@@ -20725,6 +20727,7 @@ smo.plus
 smobbytoys.top
 smoi.shop
 smokekind.com
+smokelesspowder.ca
 smokelifeshop.com
 smokerland.net
 smoner.com
