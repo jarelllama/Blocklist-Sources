@@ -63,6 +63,7 @@ kit.capital
 kitsu.buzz
 lexx.one
 luciusbot.com
+mapehour.cfd
 master-ai.sbs
 mauna.fund
 megahourly.cfd
