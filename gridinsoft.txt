@@ -6292,6 +6292,7 @@ dapp.radar.org
 dappercadaever.shop
 dapprestore.site
 dappschainapp.com
+dappsprotocolservices.help
 dapsa.io
 daqoenergy.org
 darahim.co
@@ -6642,6 +6643,7 @@ defiesta.io
 defiexplained.net
 defikv.com
 defimining.net
+defind.cc
 defineglasses.com
 defineyeri.net
 definico.org
@@ -23647,6 +23649,7 @@ uyqsfashion.shop
 uysqto.store
 v2.youconvert.net
 v2links.com
+v4-soniclabs.com
 v4.pastepc.net
 v5pxfqo7w061124zh.cfd
 v6.voiranime.com
