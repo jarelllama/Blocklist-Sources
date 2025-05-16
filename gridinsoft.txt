@@ -11137,6 +11137,7 @@ guessoutletes.shop
 guest.link
 guestcam.com
 guestreservations.com
+guestspy.com
 gugd.store
 guide.sante.space
 guidingcross.com
@@ -14329,6 +14330,7 @@ looneydodo.com
 loopaybank.com
 loopsshop.online
 lootbar.gg
+lootgain.com
 lootnload.com
 lopa.store
 lopurez.com
