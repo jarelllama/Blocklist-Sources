@@ -4639,6 +4639,7 @@ cfr.network
 cfs.trades.com
 cfsgroup.website
 cfxdictionary.com
+cganet.com
 chabagsnew.com
 chachapays.online
 chadery.com
@@ -20770,6 +20771,7 @@ slenaapparel.com
 slerf.tools
 slexiodr.cc
 slexionz.cc
+sliderow.com
 slimfierce.site
 slimfling.com
 slimmybus.com
