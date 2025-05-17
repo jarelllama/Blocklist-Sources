@@ -2965,6 +2965,7 @@ bit.stocks.com
 bit.usdt.com
 bit.venus.com
 bit2mepro.com
+bit2stash.com
 bitacum.app
 bitana.co
 bitantea.cc
@@ -18786,6 +18787,7 @@ promo-2025.store
 promo-backpack.com
 promo-best.com
 promo-offer.link
+promo-toryburch.store
 promo.libertex.org
 promo.offer.com
 promo122.com
@@ -23825,6 +23827,7 @@ usliquorshops.com
 usliveiptv.com
 usmenswear.com
 usminiin.store
+usmint.shop
 usp773.com
 uspassportandvisa.org
 uspharmacy247.com
