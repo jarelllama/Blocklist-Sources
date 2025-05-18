@@ -6442,6 +6442,7 @@ dash2trade.com
 dashboard.defimining.net
 dashboard.myarbit.com
 dashboard.plutustradebase.com
+dashboard.solixdepin.net
 dashboard.teneo.pro
 dashboard.vpsmining.com
 dashboard.vpsmining.net
@@ -19885,6 +19886,7 @@ richoffreselling.shop
 richtoolbox.com
 rickysbooster.com
 ricoromero.com
+rideinsights.com
 ridel-ones.top
 ridercharon.com
 riderichshop.com
