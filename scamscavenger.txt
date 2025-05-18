@@ -93,6 +93,7 @@ redfin.top
 rollercoin.top
 roxpaid.cfd
 selwix.com
+selwix.net
 skydom.store
 storagetemasek.io
 sumpaid.cfd
