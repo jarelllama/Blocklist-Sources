@@ -6414,6 +6414,7 @@ dashboard.defimining.net
 dashboard.myarbit.com
 dashboard.plutustradebase.com
 dashboard.teneo.pro
+dashboard.vpsmining.com
 dashboard.vpsmining.net
 dashenshowcase.shop
 dashfreights.com
