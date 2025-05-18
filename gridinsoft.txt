@@ -4332,6 +4332,7 @@ carboom.store
 carbures.store
 carcaremaster.shop
 carcoveronline.shop
+carder.market
 cardhaven.fr
 carding-genie.cm
 cardingcashout.com
@@ -9542,6 +9543,7 @@ flyeagleexpress.com
 flygame.in
 flyingeagle.ir
 flyingeagleol.com
+flykend.shop
 flypmmx.vip
 flysmus.com
 flytechdrone.com
