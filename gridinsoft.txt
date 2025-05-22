@@ -1600,10 +1600,12 @@ app.bunkerwallet.io
 app.city2000.cc
 app.codesaleservice.com
 app.coinfazi.com
+app.cryplex.ai
 app.dao1.ai
 app.earnpark.com
 app.evnova.ai
 app.fbmallmixfast.com
+app.flow3.tech
 app.fundingpips.com
 app.genesis-cloudmining.com
 app.genesis-cloudmining.vip
