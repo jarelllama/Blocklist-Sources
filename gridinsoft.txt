@@ -6562,9 +6562,11 @@ dash.hunnyrich.com
 dash.probits.cc
 dash2trade.com
 dashboard.defimining.net
+dashboard.monadscore.xyz
 dashboard.myarbit.com
 dashboard.plutustradebase.com
 dashboard.solixdepin.net
+dashboard.synthelix.io
 dashboard.teneo.pro
 dashboard.vpsmining.com
 dashboard.vpsmining.net
@@ -16401,6 +16403,7 @@ mon.expedition.com
 monaco-outlet.store
 monacogents.com
 monaconoir.com
+monadscore.xyz
 monagp.com
 monasteriodelamor.com
 moncolis.gls-france.com
