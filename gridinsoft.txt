@@ -1608,6 +1608,7 @@ app.genesis-cloudmining.com
 app.genesis-cloudmining.vip
 app.getgrass.io
 app.getlee.co
+app.getmozo.com
 app.gmprpte.com
 app.gomining.com
 app.hyperliquid.xyz
