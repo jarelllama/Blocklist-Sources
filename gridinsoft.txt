@@ -1602,6 +1602,7 @@ app.antiriciclaggio.mps.com
 app.bitpricing.com
 app.brainstorm.market
 app.bunkerwallet.io
+app.caxaunion.com
 app.city2000.cc
 app.codesaleservice.com
 app.coinfazi.com
