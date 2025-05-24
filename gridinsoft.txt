@@ -18749,6 +18749,7 @@ pay.hotmart.com
 pay.kiwify.com
 pay.processamento-entrega.online
 pay.risepay.com.br
+pay.tienda-starmini.online
 pay.yuki94533.win
 payallyourbills.com
 paybaz.com
