@@ -5204,6 +5204,7 @@ claim.foundmoneyguide.com
 claim.hyperliquiditychain.com
 claim.seraphia.xyz
 claim.trumpmemes.xyz
+claimback.io
 claimgrass.netlify.app
 claiming.movementlabs.com
 claimings.floki.com
@@ -11832,6 +11833,7 @@ hansjorgcharityinitiative.com
 happy-lifestyle.co.uk
 happyekinds.com
 happyfamilystore.win
+happyfootballclub.org
 happyfresh.no
 happyhazestore.com
 happykittenest.com
@@ -24069,6 +24071,7 @@ tradion.net
 tradiso.com
 traditionalg.com
 tradix.cc
+tradvio.com
 traevola.com
 trafficshield.xyz
 traffictrack.online
