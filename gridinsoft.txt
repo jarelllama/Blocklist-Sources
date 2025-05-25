@@ -10945,6 +10945,7 @@ global-mission-shop.cc
 global-solicitors.com
 global-swift.com
 global-tokenex.net
+global-transfers.site
 global-vacasaadvanced.com
 global-wealth-capital.online
 global.bdswiss.com
