@@ -18695,6 +18695,7 @@ palmettoclearance.shop
 palmettoclearancesale.store
 palmettodiscountshop.store
 palmettonewsale.store
+palmettosales.store
 palmettosstatearmorryx.store
 palmettostatearmor-us.shop
 palmettostatearmorxy.online
