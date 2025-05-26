@@ -4901,6 +4901,7 @@ cfs.trades.com
 cfsgroup.website
 cfxdictionary.com
 cganet.com
+cgilive.com
 cgpfinance.top
 chabagsnew.com
 chachapays.online
@@ -6227,6 +6228,7 @@ cryptifii.com
 cryptiumvest.com
 cryptixi.com
 cryptmain.com
+cryptmarketcompany.com
 cryptmetric.net
 cryptn.org
 cryptnice.com
@@ -19238,6 +19240,7 @@ pippopet.store
 pipsmartacademy.com
 pipspherenetwork.com
 pipstocksexchange.com
+pipwaves.com
 pirateking.online
 pirlotvhd.lol
 pirlotvhd.org
@@ -26438,6 +26441,7 @@ worksfrl.com
 workshop.forex.com
 workshopmanuals.es
 workspaces.bsnconnect.com
+worktkphp.com
 workwearonlineshop.co.uk
 workwheelsoutlet.com
 workwizm.top
