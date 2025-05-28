@@ -1657,6 +1657,7 @@ app.coinfazi.com
 app.cryplex.ai
 app.dao1.ai
 app.earnpark.com
+app.ebaytay.cyou
 app.evnova.ai
 app.fbmallmixfast.com
 app.flow3.tech
@@ -26271,6 +26272,7 @@ web.orionstars.org
 web.rectmart.shop
 web.rhino.org
 web.scaleai.app
+web.teiegrnmae.top
 web3-gpt.lat
 web3-gpt.store
 web3-gpt.vip
