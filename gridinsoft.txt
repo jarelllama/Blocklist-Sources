@@ -4942,6 +4942,7 @@ cfs.trades.com
 cfsgroup.website
 cfxdictionary.com
 cganet.com
+cgatgpt.com
 cgilive.com
 cgpfinance.top
 chabagsnew.com
@@ -22110,6 +22111,7 @@ skillcrafttech.com
 skilllynxw.top
 skillmatch-pro.com
 skillmosaic.org
+skin-valorant.com
 skinadder100.online
 skincolor.net
 skinport.com.es
