@@ -4479,6 +4479,7 @@ camcampsecurity.shop
 camdoria.shop
 camearareadycosmetics.shop
 camelmining.com
+camelot.exchange
 cameraday.store
 camerllia.com
 camhub.world
@@ -10600,6 +10601,7 @@ funkomall.com
 funkria.shop
 funnel.peonlyshop.com
 funninexchange.com
+funsoyfar.com
 funtoball.com
 funyball.com
 furdreams.com
