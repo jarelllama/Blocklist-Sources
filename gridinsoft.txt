@@ -3284,6 +3284,7 @@ bitcoinx.app.com
 bitcoinxact.com
 bitconemine.cc
 bitconemine.com
+bitcordverdis.com
 bitcore360.com
 bitcpro.site
 bitdefender-download.com
@@ -28031,6 +28032,7 @@ zshopp.com
 zstllink.com
 zthydedgeene.com
 ztmining.com
+ztrade.biz
 ztudim.work.top
 ztujo.com
 ztxzhb.shop
