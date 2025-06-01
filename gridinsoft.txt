@@ -9240,6 +9240,7 @@ eu-onlineclearance.shop
 eu-pharmacy-online.com
 eu-sezane.com
 eu-sezaneshop.com
+eu-sl.com
 eu-venumstore.com
 eu-weed4all.com
 eu-zvstore.com
@@ -11173,6 +11174,7 @@ gesthetic.com
 get-akusoli.com
 get-alpha.ai
 get-bt.com
+get-coin.online
 get-derila.com
 get-it-today.online
 get-rc.to
@@ -19715,6 +19717,7 @@ peackfaucet.fun
 peaka.top
 peakaspz.com
 peakawrap.com
+peaknavilo.com
 peakoptionsignals.online
 peakstonebull.com
 peakydigitalto.com
