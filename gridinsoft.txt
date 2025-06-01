@@ -15693,6 +15693,7 @@ ltc-exploit.com
 ltc-mine.com
 ltc.mine.com
 ltcautomining.com
+ltccastle.online
 ltcfree.cloud
 ltcminer.com
 ltcming.pw
