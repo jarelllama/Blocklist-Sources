@@ -1765,6 +1765,7 @@ app.dao1.ai
 app.dataannotation.tech
 app.earnpark.com
 app.ebaytay.cyou
+app.eigenzlayer.xyz
 app.evnova.ai
 app.fbmallmixfast.com
 app.flow3.tech
@@ -8771,6 +8772,7 @@ ei.svn.online.online
 eibachkoo.shop
 eicgo.com
 eiffelshoppingclub.com
+eigenzlayer.xyz
 eight25-media.net
 eightcle.com
 eigshowxxvl.shop
