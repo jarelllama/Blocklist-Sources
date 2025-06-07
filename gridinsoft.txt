@@ -1786,6 +1786,7 @@ app.bitpricing.com
 app.brainstorm.market
 app.bunkerwallet.io
 app.caxaunion.com
+app.cipherfx.co
 app.city2000.cc
 app.codesaleservice.com
 app.coinfazi.com
@@ -2188,6 +2189,7 @@ assuredincs.com
 assuredpills.com
 ast2025.shop
 astariaboutique.com
+astera-shop.com
 asterandrubssy.shop
 astercryptominers.com
 asterfxsignals.com
