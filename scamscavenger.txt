@@ -101,6 +101,7 @@ nexterafi.org
 norfab.org
 novex-invest.store
 paxhour.cfd
+pay-clock.cfd
 polarenergy.ltd
 powerbot.sbs
 pprs.cc
