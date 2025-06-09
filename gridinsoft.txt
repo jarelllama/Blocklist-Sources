@@ -7495,6 +7495,7 @@ decorhome-arg.store
 decorhome.arg.store
 decorstore.club
 decotalkcontactpapershop.shop
+decotik.de
 decuva.com
 decxsreener.com
 dedfunplastic.shop
@@ -24248,6 +24249,7 @@ spadelack.com
 spagamia.com
 spaindvs.com
 spakaspipstrade.online
+sparcogovn.club
 sparify.com
 spark.growth.online
 sparkchain.ai
