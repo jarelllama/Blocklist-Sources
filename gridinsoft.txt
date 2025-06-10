@@ -4867,6 +4867,7 @@ capital.recovery.click
 capital.shares.com
 capital500.co
 capitalassetbanking.com
+capitalassetglobe.org
 capitalbean.com
 capitalcoin.world
 capitalcrests.pro
@@ -5883,6 +5884,7 @@ clothingsaleu.com
 clothnestz.com
 clothoff.net
 clothpuna.shop
+cloud-com.us
 cloud.aiminers.pro
 cloud.bhmining.org
 cloud.mail.ru
