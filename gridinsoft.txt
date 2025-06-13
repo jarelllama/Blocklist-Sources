@@ -22162,6 +22162,7 @@ qfs-wallet.com
 qfsassets.backups.com
 qfsbackupassets.ltd
 qfsbackupvault.com
+qfscoin.com
 qfsdebtconsolidationreview.com
 qfsledgers.co
 qfsledgers.net
@@ -28406,6 +28407,7 @@ vlvsocial.com
 vmi2492020.contaboserver.net
 vmnr.xyz
 vnature.pro
+vnbtc.com
 vncb.xyz
 vnkmall.online
 vnnbexs.com
