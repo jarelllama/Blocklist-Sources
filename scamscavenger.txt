@@ -116,6 +116,7 @@ redfin.top
 rollercoin.top
 roxpaid.cfd
 rw-ai.com
+samex-clock.cfd
 selwix.com
 selwix.net
 skydom.store
