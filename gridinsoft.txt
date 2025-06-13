@@ -1880,6 +1880,7 @@ app.solaspy.io
 app.spaceaius.com
 app.spaios.com
 app.sparmall.vip
+app.swiftdexprimer.com
 app.ultraarb.uk
 app.uni2matrix.com
 app.vault69.club
@@ -13447,6 +13448,7 @@ hianime.to
 hianime.tv
 hiarian.com
 hiatt-consulting.com
+hibachi8.net
 hiboost.com
 hicaly.com
 hiddnarchive.com
