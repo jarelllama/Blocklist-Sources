@@ -1839,6 +1839,7 @@ app.bunkerwallet.io
 app.caxaunion.com
 app.cipherfx.co
 app.city2000.cc
+app.climaxsignals.com
 app.codesaleservice.com
 app.coinfazi.com
 app.cryplex.ai
