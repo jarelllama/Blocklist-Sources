@@ -5927,6 +5927,7 @@ clickmiqwages.buzz
 clickmt01.cc
 clickmt04.cc
 clickndownload.cfd
+clickndownload.click
 clickppuwages.buzz
 clicksdealer.com
 clickspaid.com
