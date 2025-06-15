@@ -6961,6 +6961,7 @@ cryptobrowser.site
 cryptobtc.pro
 cryptobtcash.com
 cryptobullmining.com
+cryptobullmoon.com
 cryptocamp.in
 cryptocoin123.com
 cryptocollect.in
@@ -11922,6 +11923,7 @@ geninsur.com
 genius-shopping.com
 geniusara.com
 genixoptions.com
+genkiminer.com
 genkiminer.pro
 gennpay.online
 geno.link
