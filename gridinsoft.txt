@@ -5051,6 +5051,7 @@ carbures.store
 carcaremaster.shop
 carcoveronline.shop
 carder.market
+cardgage.com
 cardhaven.fr
 carding-genie.cm
 cardingcashout.com
