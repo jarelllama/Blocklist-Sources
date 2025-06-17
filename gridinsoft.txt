@@ -5621,6 +5621,7 @@ chempainkiller.com
 chemproequip.com
 chems.ca
 chemseu.com
+chemspowder.com
 chemworldstore.net
 chende.shop
 chengultra.shop
@@ -17289,6 +17290,7 @@ m-faucet.com
 m-nionew.com
 m.5boundless.com
 m.axilcoin.com
+m.bcbit-ai.com
 m.beauteprivee.fr
 m.bit2menk.com
 m.bitpointpro.com
