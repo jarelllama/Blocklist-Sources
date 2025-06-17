@@ -5789,6 +5789,7 @@ cint.prvcshld.online
 cintuwron.shop
 cioatin.shop
 cioffifun.com
+ciongun.com
 cipaclimited.com
 cipgka.info
 cipherblade.com
@@ -20195,6 +20196,7 @@ oceanictradingoptions.com
 oceanos-meta.com
 oceanprotocol2.life
 oceanprotocol2.xyz
+oceansharebank.com
 oceant.vip
 oceantrekship.com
 oceaods.com
@@ -24170,6 +24172,7 @@ shaotrade.io
 shapeitstore.com
 shappyprice.com
 sharchim.com
+share.1edu.xyz
 sharecoininvestment.org
 shareitly.com
 shares-holdingltd.com
