@@ -1862,6 +1862,7 @@ app.city2000.cc
 app.climaxsignals.com
 app.codesaleservice.com
 app.coinfazi.com
+app.conectacrypto.com
 app.cryplex.ai
 app.dao1.ai
 app.dataannotation.tech
@@ -9326,6 +9327,7 @@ elevenforest.com
 elidard.com
 elifera.com
 elifleet.com
+eligibleslips.com
 elimando.com
 elineverhoye.shop
 eliptv.com
