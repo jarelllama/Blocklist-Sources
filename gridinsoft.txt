@@ -1873,6 +1873,7 @@ app.aiminers.vip
 app.algosone.ai
 app.alibabamixrapid.com
 app.antiriciclaggio.mps.com
+app.astratt.top
 app.bitpricing.com
 app.brainstorm.market
 app.bunkerwallet.io
