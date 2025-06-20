@@ -161,6 +161,7 @@
 20game7.com
 212runningclub.kesug.com
 21coweb.pyth-usshr.top
+22.sampleshunterusa.com
 22ejkf.org
 2360tv.com
 244buildschile.com
@@ -8509,6 +8510,7 @@ dkt-v.com
 dl-protect.link
 dl.downloadly.ir
 dl.enigmasoftware.com
+dl.malwarewatch.org
 dl.seyarabata.com
 dl.surfright.nl
 dl.thespotifypremiumapk.com
