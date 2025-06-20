@@ -5682,6 +5682,7 @@ chemproequip.com
 chems.ca
 chemseu.com
 chemspowder.com
+chemsresearch.com
 chemworldstore.net
 chende.shop
 chengultra.shop
@@ -19788,6 +19789,7 @@ neos-airdrop.com
 neovaulttapp.com
 neozek.com
 neqego.com
+neragez.com
 nerdsshop.us
 nerocas.com
 nerofax.com
