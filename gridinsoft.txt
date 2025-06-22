@@ -1889,6 +1889,7 @@ app.algosone.ai
 app.alibabamixrapid.com
 app.antiriciclaggio.mps.com
 app.astratt.top
+app.astratt.xyz
 app.bitpricing.com
 app.brainstorm.market
 app.bunkerwallet.io
@@ -21463,6 +21464,7 @@ paperstraight.com
 papzap.in
 para911drops.com
 paraboot.za.com
+parabootstore.com
 parabootusa.com
 paradech.com
 paradisedesignsco.com
