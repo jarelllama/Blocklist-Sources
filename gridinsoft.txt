@@ -3681,6 +3681,7 @@ bitcoinsi.com
 bitcointerox.com
 bitcoinup.com
 bitcoinwell.com
+bitcoinx-app.com
 bitcoinx.app.com
 bitcoinxact.com
 bitconemine.cc
@@ -25858,6 +25859,7 @@ spzv.net
 sqr400swift.com
 srchfst.com
 sreamconmymnltty.com
+srecharge.in
 srecovpnlb.com
 sreic.vip
 sreif.com
