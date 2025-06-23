@@ -8700,6 +8700,7 @@ dogeboost.pro
 dogecoin.usdt.vip
 dogee.vip
 dogefaucet.com
+dogefaucetpay.io
 dogefree.in
 dogeking.io
 dogelend.store
@@ -21649,6 +21650,7 @@ passivefxanalysis.com
 passivewealth.vip
 passwithtisc.weebly.com
 pastapath.store
+pastedownload.com
 pastefy.app
 pastelunm.com
 pastor.com
