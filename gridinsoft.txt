@@ -23655,6 +23655,7 @@ register-portal.pages.dev
 register.aitprotocoldefi.network
 register.bckrcoin.com
 register.defi.app
+register.markettrade.live
 register.marvelbliss.com
 register.soniclabs.com
 register.sunminingvip.com
