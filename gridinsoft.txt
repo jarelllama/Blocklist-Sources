@@ -5609,6 +5609,7 @@ cfd.capitalgroupspain.com
 cfd.capitals-gain.com
 cfd.interactiveproltd.com
 cfd.network-capital-partners.com
+cfd.pro-interactiveltd.com
 cfd.spectre-group-limited.com
 cfd.traderepublicatrading.com
 cfd.tradingrepublicaltd.com
