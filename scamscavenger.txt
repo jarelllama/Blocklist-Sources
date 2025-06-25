@@ -102,6 +102,7 @@ memix.biz
 metafury.world
 metal-robot.cfd
 miquela.net
+motex-gain.cfd
 multyinv.com
 nemo-pay.online
 neuratech.global
