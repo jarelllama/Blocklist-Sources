@@ -4962,6 +4962,7 @@ bybit.nidx.com
 bybitcapitals.com
 bybithodings.com
 bybiusdt.com
+bybnusdt.com
 bycarver.com
 bycebimestore.buzz
 bycicle.net
