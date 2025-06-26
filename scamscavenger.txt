@@ -30,6 +30,7 @@ basio.app
 bearhour.sbs
 beonbit.com
 big-clock.online
+bitcapitalmine.com
 bitcarwash.net
 bitminingequityltd.com
 bitmote.top
