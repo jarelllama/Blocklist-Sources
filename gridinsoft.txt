@@ -1988,6 +1988,7 @@ app.spaios.com
 app.sparmall.vip
 app.swiftdexprimer.com
 app.tarracos.com
+app.tb-ecosystem.com
 app.ultraarb.uk
 app.uni2matrix.com
 app.vault69.club
