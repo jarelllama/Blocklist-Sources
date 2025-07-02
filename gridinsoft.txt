@@ -10509,6 +10509,7 @@ eu-zvstore.com
 eu.barynes.click
 eu.bateric.click
 eu.bulbaz.click
+eu.crealityfalcon.com
 eu.dirtyhotclub.com
 eu.dopesnower.com
 eu.ezinvest.com
@@ -15464,6 +15465,7 @@ install-browser.ru
 install.protected.net
 installgames.eu
 installtoclick.online
+instantdigi.com
 instantebookhub.com
 instantfunding.online
 instantfxtrading.com
