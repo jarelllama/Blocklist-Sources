@@ -1964,6 +1964,7 @@ app.aiminers.vip
 app.algosone.ai
 app.alibabamixrapid.com
 app.antiriciclaggio.mps.com
+app.assetbarnn.com
 app.astratt.top
 app.astratt.xyz
 app.bitpricing.com
