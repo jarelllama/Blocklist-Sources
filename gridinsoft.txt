@@ -30190,6 +30190,7 @@ user.ecosmining.fun
 user.eterminal.net
 user.frax-trade.net
 user.minergpt.pro
+user.portal-zone.com
 user.private-account.pro
 userightclick.app
 usermanualsonline.com
