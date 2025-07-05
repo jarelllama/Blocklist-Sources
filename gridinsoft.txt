@@ -2005,6 +2005,7 @@ app.gmprpte.com
 app.gomining.com
 app.hyperliquid.xyz
 app.landshare.website
+app.lava.top
 app.ledgerlock.io
 app.lockcoin.net
 app.lockswallet.net
@@ -14567,6 +14568,7 @@ highticketventures.com
 hightvproduct.com
 highvlex.cc
 higojerseys.com
+hiheapk.com
 hiilarry.com
 hiitoken.com
 hiivepartners.com
@@ -32496,6 +32498,7 @@ yostar.top
 youapp.ai
 youareanidiot.com
 youareanidiot.org
+youbeli.com
 youmeya.online
 youngflirts.com
 youngglobalinvestmentsinc.com
