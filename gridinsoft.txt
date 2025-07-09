@@ -2065,6 +2065,7 @@ app.spaceaius.com
 app.spaios.com
 app.sparmall.vip
 app.swiftdexprimer.com
+app.syncconnects.com
 app.tarracos.com
 app.tb-ecosystem.com
 app.ultraarb.uk
@@ -14464,6 +14465,7 @@ harrythehippo.io
 harshalpawar.in
 harta8899ofc.makeup
 harvest.growth.org
+harvestbtc.net
 harvestcommunityunion.com
 harvestmaxmachinery.com
 harveylux.com
