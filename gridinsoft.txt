@@ -8807,6 +8807,7 @@ dex.trade.global
 dexawallet.com
 dexboss.io
 dexchurko.com
+dexcsreener.com
 dexfitb.net
 dexgir.com
 dexiainvestment.com
