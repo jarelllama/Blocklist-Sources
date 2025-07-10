@@ -2062,6 +2062,7 @@ app.lava.top
 app.ledgerlock.io
 app.lockcoin.net
 app.lockswallet.net
+app.lucidfluencerai.com
 app.markthal.vip
 app.mediaplayhihi.com
 app.meshchain.ai
@@ -23904,6 +23905,7 @@ polandvivobarefoot.com
 polapine.sellpass.io
 polaramarket.com
 polarbg.com
+polarbtc.com
 polarco.co
 polaris-io.com
 polarto.com
