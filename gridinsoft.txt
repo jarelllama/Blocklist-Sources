@@ -1517,6 +1517,7 @@ altano.store
 altatec.store
 altcoinexx.com
 altcopytrade.com
+altcrypt.cc
 altdexs.com
 altegristrader.com
 altergon-earners.org
@@ -2045,6 +2046,7 @@ app.antiriciclaggio.mps.com
 app.assetbarnn.com
 app.astratt.top
 app.astratt.xyz
+app.bitinvs.com
 app.bitpricing.com
 app.brainstorm.market
 app.bunkerwallet.io
@@ -14561,6 +14563,7 @@ h5.quartzpavilion.com
 h5.quartzpavillion.com
 h5.sh0psee.com
 h5.shakepay-pro.com
+h5.starseabit.com
 h5.storeprettyshop.com
 h5.stormvaults.com
 h5.tidorx.net
@@ -26565,6 +26568,7 @@ scard50.ru
 scarlet-clicks.xyz
 scarpa.eu.com
 scbfile.com
+scdfxtrade.com
 sce-max.app
 sceentor.fr
 scentamaze.com
@@ -33331,6 +33335,7 @@ wwwcoa.top
 wwww-rcblox.com
 wwww.puma-co.com.co
 wwwwscsb500comios2ser.wscbs.vip
+wwwz.elsegr.com
 wwx.8250302.com
 wxgsales.site
 wy-outletsale.com
