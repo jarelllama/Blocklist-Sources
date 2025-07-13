@@ -2080,6 +2080,7 @@ app.coinfazi.com
 app.conectacrypto.com
 app.cryplex.ai
 app.dao1.ai
+app.dash2trade.com
 app.dataannotation.tech
 app.earnpark.com
 app.ebaytay.cyou
@@ -26630,6 +26631,7 @@ saledelivery.zone
 salediscountstamps.com
 salee4sotre5.space
 salefuet.best
+saleinstyle.com
 salejerseygee.com
 salemagazineonline.com
 saleperfectlinen.com
