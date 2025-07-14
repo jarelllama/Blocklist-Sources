@@ -17024,6 +17024,7 @@ jo-annclosingonsale.shop
 jo-annfinalsale.com
 jo-annonlinesale-us.com
 jo-annsaleus.com
+joann-close.com
 joann-closing.com
 joann-onlinesale.com
 joannfabric-us.com
