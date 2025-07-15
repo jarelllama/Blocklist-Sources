@@ -133,6 +133,7 @@ primestake.pro
 profit-birds.info
 punkmonkey-usd.site
 pure3.cloud
+quaxel.org
 quebb.org
 rand-2ai.top
 redfin.top
