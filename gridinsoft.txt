@@ -11188,6 +11188,7 @@ eu.dopesnower.com
 eu.ezinvest.com
 eu.hdridestore.com
 eu.iqoption.com
+eu.jellycat.com
 eu.mammotion.com
 eu.payback.com
 eu.tamaris.com
@@ -14416,6 +14417,7 @@ goups.pro
 gourmetuus.shop
 gouv-amende.info
 gouv.amende-pay.org
+gouys.shop
 gov-iwr.cc
 gov-zww.cc
 govern1.com
@@ -28813,6 +28815,7 @@ stampsforever.co
 stampslargebox.com
 stampsonlinestore.com
 stampstorenew.com
+stampstores.com
 stamptop.com
 stampvip.com
 stanbicassets.web.app
