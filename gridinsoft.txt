@@ -4614,6 +4614,7 @@ bnkout.com
 bnmarrs.icu
 bnoptionstrade.net
 bnpopenmerchant.com
+bnreadforless.com
 bntrading.pro
 bnxbncp.com
 boacreditunion.com
@@ -32175,6 +32176,7 @@ us-en-prozenith.com
 us-en-zenearra.com
 us-eng-en-audifort.com
 us-eng-nervala.com
+us-fairtex.com
 us-gibson.com
 us-glycosync.com
 us-hepatoburn.us
