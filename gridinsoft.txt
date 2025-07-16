@@ -2167,6 +2167,7 @@ app.swiftdexprimer.com
 app.syncconnects.com
 app.tarracos.com
 app.tb-ecosystem.com
+app.terminalwallet.net
 app.ultraarb.uk
 app.uni2matrix.com
 app.vault69.club
@@ -23744,6 +23745,7 @@ outlet-mizun.shop
 outlet-neo.com
 outlet-privee.com
 outlet-santiago.shop
+outlet-sparcoofficial.com
 outlet-store.online
 outlet-vivastyle.store
 outletlx.com
@@ -27545,6 +27547,7 @@ server.verificationdms.cfd
 servi-porno.sbs
 service-suivis.info
 serviceauthfoap.com
+serviceclientdepoint.com
 servicepull.com
 servicewrap.pro
 serviciosinformaticos.com.co
