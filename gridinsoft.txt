@@ -13418,6 +13418,7 @@ gameshost.app
 gameslux.store
 gamesnippets.site
 gamest1.net
+gamestop-off.shop
 gamestop-sale.shop
 gamestorrent.app
 gamestorrents.app
@@ -14690,6 +14691,7 @@ greenseedhub.com
 greentechpkg.com.vn
 greenthumbgear.com
 greenvideo.cc
+greenwaycapitals.com
 greenwealthpro.com
 greenweeddelivery.com
 greenwellsnational.com
