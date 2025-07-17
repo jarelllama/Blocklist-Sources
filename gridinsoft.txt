@@ -2180,6 +2180,7 @@ app.tb-ecosystem.com
 app.terminalwallet.net
 app.ultraarb.uk
 app.uni2matrix.com
+app.upifex.org
 app.vault69.club
 app.webstar-network.com
 app.wisdomise.com
@@ -21346,6 +21347,7 @@ monadscore.xyz
 monagp.com
 monarch-wear.com
 monasteriodelamor.com
+monbricostore.com
 moncain.com
 moncolis.gls-france.com
 moncompte.permisdeconduire.gouv.fr
