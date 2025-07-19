@@ -28222,6 +28222,7 @@ shop.montece.com
 shop.sale4.quest
 shop.sale6.quest
 shop.todayprize.top
+shop.ukksjdfu.top
 shop24care.com
 shopa66.com
 shopagvsstore.shop
@@ -33083,6 +33084,7 @@ vedaeyer.com
 veedeoo.com
 veembesloomstore.com
 veenora.com
+veepedeals.online
 veepee-fr.shop
 veepee-liquidation.online
 veepee.fr.shop
