@@ -2212,6 +2212,7 @@ app.syncconnects.com
 app.tarracos.com
 app.tb-ecosystem.com
 app.terminalwallet.net
+app.tronassets.com
 app.ultraarb.uk
 app.uni2matrix.com
 app.upifex.org
@@ -19054,6 +19055,7 @@ lidlclearance.com
 lidlmmarketsalefr.vip
 lidlorg.com
 lidlstor.shop
+lidlukapp.vip
 lidlv.com
 lido-web3.net
 lido.onl
@@ -30421,6 +30423,7 @@ te.currency.xshares.site
 tea68.com
 teachersgram.com
 teachmecompliance.com
+teacupchihuahuapups.com
 teaforteheaven.shop
 tealikesvs.click
 tealiumarketing.digital
