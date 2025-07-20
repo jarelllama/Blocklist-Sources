@@ -2188,6 +2188,7 @@ app.hyperliquid.xyz
 app.landshare.website
 app.lava.top
 app.ledgerlock.io
+app.liveyema.com
 app.lockcoin.net
 app.lockswallet.net
 app.lucidfluencerai.com
@@ -35792,6 +35793,7 @@ zomdex.top
 zomier.com
 zomonua.shop
 zomox.net
+zondacrypto.com
 zone-telechargement-albums.com
 zone-telechargement.bike
 zone-telechargement.digital
