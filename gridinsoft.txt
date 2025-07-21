@@ -2182,6 +2182,7 @@ app.eigenzlayer.xyz
 app.essencemarkets.net
 app.evnova.ai
 app.fbmallblendrush.com
+app.fbmalllinkquick.com
 app.fbmallmixfast.com
 app.flow3.tech
 app.fundingpips.com
@@ -31282,6 +31283,7 @@ thetuilepage.com
 theunitedcredits.com
 theupright.net
 theupright.store
+theusds.com
 theusvibe.com
 thevaultics.com
 thevenomscents.com
