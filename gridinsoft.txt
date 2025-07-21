@@ -33185,6 +33185,7 @@ user.ecosmining.fun
 user.eterminal.net
 user.fhofinan.com
 user.frax-trade.net
+user.menara-capital.net
 user.minergpt.pro
 user.portal-zone.com
 user.private-account.pro
@@ -34428,6 +34429,7 @@ wealthbaseinvestment.com
 wealthbloominvest.com
 wealthbreedtrades.com
 wealthbridgegroups.com
+wealthbulltrade.com
 wealthcraftraders.com
 wealthfutureminers.com
 wealthgreenfirm.live
