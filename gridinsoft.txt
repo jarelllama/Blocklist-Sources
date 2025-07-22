@@ -2172,6 +2172,7 @@ app.aiminers.vip
 app.algosone.ai
 app.alibabamixrapid.com
 app.antiriciclaggio.mps.com
+app.any.run
 app.assetbarnn.com
 app.astratt.top
 app.astratt.xyz
@@ -28571,6 +28572,7 @@ shelfofsophia.com
 shelikemart.com
 shellify.net
 shellshockers.cc
+shen.oztan.top
 shenghengtrading.com
 shenjian001.top
 sherali.pw
