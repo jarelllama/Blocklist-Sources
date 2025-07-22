@@ -8180,6 +8180,7 @@ cryptoheistx.com
 cryptohunterbot.com
 cryptoids.info
 cryptoindex.com
+cryptoinside.vip
 cryptointrust.com
 cryptoinvestigators.com
 cryptoize.net
@@ -11665,6 +11666,7 @@ evli.fr
 evltchs.me
 evlwzl.com
 evm.cosmos-ams.com
+evmpoll.co
 evmpoll.io
 evmprime.com
 evnova.ai
