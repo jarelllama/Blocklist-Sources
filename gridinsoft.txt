@@ -12285,6 +12285,7 @@ fatihaelkasri.company.site
 fatimadasilva.shop
 fauce7money.com
 faucetbitcoin.org
+faucetbtc2603.faucetfly.com
 faucetcash.xyz
 faucetcashier.com
 faucetcrypto.net
@@ -33355,6 +33356,7 @@ user.abmining.net
 user.abmining.pro
 user.aiminers.pro
 user.aremining.app
+user.aremining.net
 user.bhmining.cloud
 user.bhmining.org
 user.bigminings.org
