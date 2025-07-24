@@ -2753,6 +2753,7 @@ athleticparadise.shop
 athleticsavesale.shop
 athleticsgearusa.com
 athna.su
+athomeclose.com
 athomeclosing.com
 atiao.org
 atinvesting212.co
@@ -9495,6 +9496,7 @@ dex-trades.live
 dex.trade.global
 dexawallet.com
 dexboss.io
+dexbot.dev
 dexchurko.com
 dexcsreener.com
 dexfitb.net
