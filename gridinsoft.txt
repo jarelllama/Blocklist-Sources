@@ -5074,6 +5074,7 @@ brandoff.store
 brandsightprivacy.com
 brandstich.com
 brandtrendp.com
+branvoir.com
 brasatrade.com
 brascomluan.org
 brasilenviosbr.com
@@ -25882,6 +25883,7 @@ portal.ovb.es
 portal.tagmarkets.com
 portal.worldbusinesspay.com
 portaldedicasonline.com
+portalgnoticias.online
 portalmec.digital
 portalregistros.com
 portchecktool.com
