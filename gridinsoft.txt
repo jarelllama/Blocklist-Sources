@@ -2275,6 +2275,7 @@ app.solaspy.io
 app.spaceaius.com
 app.spaios.com
 app.sparmall.vip
+app.speakglobal.io
 app.swiftdexprimer.com
 app.syncconnects.com
 app.tarracos.com
@@ -11694,6 +11695,7 @@ eth-55.vip
 eth-central.com
 eth-ethereumplus.com
 eth886.com
+ethada.top
 ethands.com
 ethaner.shop
 ethanrain.top
@@ -36055,6 +36057,7 @@ wyf-outletsale.com
 wyfairbestseller.com
 wyhtwy.cn
 wykkselling.online
+wylde.market
 wynetechnologies.com
 wynkmusic.online
 wyntech.online
