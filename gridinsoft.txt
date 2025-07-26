@@ -2287,6 +2287,7 @@ app.tarracos.com
 app.tb-ecosystem.com
 app.terminalwallet.net
 app.tronassets.com
+app.tuc.global
 app.ultraarb.uk
 app.uni2matrix.com
 app.upifex.org
@@ -26908,6 +26909,7 @@ purisaki.com
 puritynz.com
 purku.top
 purlovefurniture.shop
+puroletor.com-simgud.vip
 purollator.etcisa.vip
 purovskynpz.com
 purpects.com
