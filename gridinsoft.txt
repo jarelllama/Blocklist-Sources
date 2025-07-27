@@ -7509,6 +7509,7 @@ coin-rule.com
 coin-trone.com
 coin-whale.org
 coin-xrx.com
+coin-zoomex.com
 coin.a.com
 coin.change.live
 coin.de-cryptowave.com
@@ -12509,6 +12510,7 @@ farwithdistant.com
 fas.wyb.ac.lk
 fasdja.com
 faselhds.care
+faselhds.xyz
 fashaida.cn
 fashdes.co
 fashion-baby.info
