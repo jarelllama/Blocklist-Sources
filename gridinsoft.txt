@@ -11031,6 +11031,7 @@ ecos.am
 ecos.am.live
 ecoshadehub.sbs
 ecoshares-limited.com
+ecosminers.net
 ecosmining.fun
 ecosoulecofriendly.shop
 ecospherestar.com
@@ -34777,6 +34778,7 @@ uysqto.store
 uzonilvt.net
 uzxdfa.monster
 v-rago.com
+v2-ultraiso.com
 v2.youconvert.net
 v22.amazonbba.com
 v2links.com
