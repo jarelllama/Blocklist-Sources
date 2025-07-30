@@ -5093,6 +5093,7 @@ bookcrafters.com
 bookdropp.com
 booken.shop
 bookinalex.com
+booking.avianca.com
 booking.com-31t.prop5253145.homes
 booking.confirmation-id1271.com
 booking.confirmation-id1678.com
@@ -7294,6 +7295,7 @@ client.capitaliko.com
 client.capstoneltd.io
 client.futurawmltd.com
 client.iqmining.com
+client.longsharks.capital
 clientcare.co
 clientehostix.net
 clientesparcel.dhl.es
