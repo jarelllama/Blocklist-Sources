@@ -20203,6 +20203,7 @@ lidl-de.app
 lidl-fr.shop
 lidl-pt.com
 lidlclearance.com
+lidleu.com
 lidlmmarketsalefr.vip
 lidlorg.com
 lidlsalesun.com
@@ -28413,6 +28414,7 @@ renodigitalgaq.cc
 renodigitalwrx.cc
 renolink.store
 renonur.com
+renova-fashion.com
 renovar-perfile-pe.com
 renovix.online
 renrys.com
