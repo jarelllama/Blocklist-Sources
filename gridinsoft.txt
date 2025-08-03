@@ -2345,6 +2345,7 @@ app.gwalletnodes.com
 app.hitdgb1x6q.top
 app.hkanzongmeimiao.top
 app.hyperliquid.xyz
+app.icb.network
 app.landshare.website
 app.lava.top
 app.ledgerlock.io
@@ -3361,6 +3362,7 @@ balafare.com
 balakiss.com
 balalady.com
 balama.vip
+balanbay.com
 balance-daily.com
 balancer-fi.shop
 balancetanude.fr
