@@ -12254,6 +12254,7 @@ eu-barroutlet.shop
 eu-dcshoes.shop
 eu-onlineclearance.shop
 eu-pharmacy-online.com
+eu-reptielenwinkel.com
 eu-sezane.com
 eu-sezaneshop.com
 eu-sl.com
@@ -24613,6 +24614,7 @@ nicebai.com
 nicecycle.com
 nicedelicate.com
 niceindustrialstore.com
+nicekishop.com
 nicekore.com
 nicekune.com
 niceloveship.com
