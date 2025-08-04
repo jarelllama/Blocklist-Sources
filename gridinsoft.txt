@@ -10499,6 +10499,8 @@ docker.1ms.run
 doclothes.com
 docmartens-france.fr
 docochic.com
+docs-maker.com
+docs-makers.com
 docs.connect.wallet.teachable.com
 docs.google.com
 docs.linqai.com
@@ -19899,6 +19901,7 @@ krakenfiles.com
 krakenomics.ca
 krakenu.com
 kratosaddict.com
+krazycool.com
 kreain.com
 kreashops.com
 kreativbutik.com
