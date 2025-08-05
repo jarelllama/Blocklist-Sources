@@ -6888,6 +6888,7 @@ cfar.group
 cfbit.org
 cfd.capitalgroupspain.com
 cfd.capitals-gain.com
+cfd.crystalfinanceslimited.com
 cfd.interactiveproltd.com
 cfd.network-capital-partners.com
 cfd.pro-interactiveltd.com
@@ -31922,6 +31923,7 @@ specsilo.com
 specswear.store
 spectacularing.com
 spectereth.com
+spectertrades.com
 spectrona.top
 spectrotel.billcenter.net
 spectrumdigitalhub.com
