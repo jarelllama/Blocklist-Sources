@@ -7607,6 +7607,7 @@ clothpuna.shop
 cloud-com.us
 cloud-eth.cc
 cloud.aiminers.pro
+cloud.aremining.app
 cloud.bhmining.org
 cloud.mail.ru
 cloud.mining.cc
@@ -30264,6 +30265,7 @@ sbaorg.com
 sbd-exporters.com
 sbhjt.shop
 sbied.com
+sbimax.info
 sbk.trx1.com
 sblt.net
 sbnreou.com
@@ -35942,6 +35944,7 @@ user.aremining.net
 user.aremining.org
 user.bhmining.cloud
 user.bhmining.org
+user.bigminings.com
 user.bigminings.org
 user.bisys.net
 user.ecosbitcoinmining.com
@@ -38250,6 +38253,7 @@ xbedeals.site
 xbinance.io
 xbitus.com
 xblock.com
+xblqugex.cc
 xblup.com
 xbnb.app
 xbnb.io
