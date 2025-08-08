@@ -14565,6 +14565,7 @@ freshselectionmall.shop
 freshselectionpoint.shop
 freshselectionzone.shop
 freshtapepath.com
+freshturban.shop
 freyaamart.com
 frgaravani.com
 frh.cvg.utn.edu.ar
@@ -20353,6 +20354,7 @@ kryptonix.site
 kryptono.exchange
 kryptopia.org
 kryptos.io
+kryptoscouts.com
 kryptospace.web.app
 kryptotradesfx.net
 kryptovaultassets.com
@@ -32347,6 +32349,7 @@ spectrumsbaloans.com
 speedamazed.com
 speedbraves.com
 speedfitnes.com
+speedhotsale.com
 speedii.shop
 speedos.fr
 speedos.it
