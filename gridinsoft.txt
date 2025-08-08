@@ -2308,6 +2308,7 @@ api-chat.live
 api-stocktrade.info
 api.606pub.com
 api.bettysweeps.com
+api.box
 api.getsolara.gg
 api.paygate.to
 api.wavebrowser.co
@@ -14721,6 +14722,7 @@ fundertrade.com
 fundgatellc.com
 funding-hop.com
 funding-terminal.com
+funding.eudfglobal.eu
 fundivision.com.au
 fundloader.com
 fundmask.top
@@ -21985,6 +21987,7 @@ luxurywatchsupplier.com
 luxurywatchus.com
 luxurywinclub.com
 luxus-gewebe.com
+luxus-paris.com
 luxwerkzeug.com
 luxxfur.com
 luxyecs.com
