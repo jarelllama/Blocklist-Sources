@@ -21146,6 +21146,7 @@ lidl-de.app
 lidl-fr.shop
 lidl-pt.com
 lidlclearance.com
+lidleh.com
 lidleu.com
 lidlmmarketsalefr.vip
 lidlorg.com
