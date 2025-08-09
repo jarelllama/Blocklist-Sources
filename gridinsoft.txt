@@ -2384,6 +2384,7 @@ app.cipherfx.co
 app.city2000.cc
 app.climaxsignals.com
 app.cloudminecrypto.com
+app.cloudtrks.com
 app.codesaleservice.com
 app.coinfazi.com
 app.conectacrypto.com
@@ -10800,6 +10801,7 @@ doge-blockchain.xyz
 doge-farm.biz
 doge-giga.com
 doge-win.com
+dogeabs.xyz
 dogeaptos.xyz
 dogebank.pro
 dogebank.space
@@ -37901,6 +37903,7 @@ waterblitz.com
 wateresty.com
 waterlift.eco
 watermastershop.com
+watermelon.today
 waternos.com
 wateronlineproducts.com
 watershedmelted.site
@@ -37943,6 +37946,7 @@ way1.top
 way10.top
 waya.travel
 wayestyle.store
+wayfactoryoutlets.store
 wayfair-usa.cc
 wayfair.mall.cc
 wayfairbargains.com
