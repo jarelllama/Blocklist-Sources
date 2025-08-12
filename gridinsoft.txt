@@ -2336,6 +2336,7 @@ api.getsolara.gg
 api.paygate.to
 api.wavebrowser.co
 apicddn.com
+apk7up.com
 apkasolution.com
 apkatax.in
 apkft.xyz
@@ -22271,6 +22272,7 @@ luternuastore-online.shop
 lutex-shares.org
 lutonhealth.store
 luujin.info
+luuyzuj.shop
 luvance.online
 luvaraco.store
 luvastro.com
@@ -23713,6 +23715,7 @@ microsoftuj.cz
 microstarr.com
 microstrategy.xin
 microsystemeg.com
+microtask.in
 microvip88.pro
 microworkers.com
 midasn.com
@@ -27434,6 +27437,7 @@ paris.cc.global.prod.fastly.net
 parischarme.store
 pariscoin.vip
 parisdocase.com
+parislively.com
 paritexultra.com
 parkapumacsdd.com
 parkdealer.com
