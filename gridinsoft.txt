@@ -12325,6 +12325,7 @@ en-us-prostafense.us
 en-us-us-primera.com
 en-usleep.com
 en.anchante-world.shop
+en.aptoide.com
 en.emlwandweni.org
 en.fukula.org
 en.glucocontrol.com
@@ -31550,6 +31551,7 @@ secure.plansympa.com
 secure.qartel.co
 secure.weltrade.com
 secure.yandfin.com
+securebrownstoneresearch.com
 securecheat.xyz
 securecryptorecovery.com
 secured-tb.com
