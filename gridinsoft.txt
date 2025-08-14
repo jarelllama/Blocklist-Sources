@@ -2412,6 +2412,7 @@ app.bitinvs.com
 app.bitpricing.com
 app.brainstorm.market
 app.bunkerwallet.io
+app.byteblockchain.org
 app.caxaunion.com
 app.cipherfx.co
 app.city2000.cc
