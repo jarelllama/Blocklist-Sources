@@ -10251,6 +10251,7 @@ deficonnects.dev
 defid.top
 defidappchainly.com
 defidappsrestore.web.app
+defideskhub.com
 defie.v2.com
 defiep.top
 defiesta.io
