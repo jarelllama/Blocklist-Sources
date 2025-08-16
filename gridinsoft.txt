@@ -28624,6 +28624,7 @@ platform.modmountltd.com
 platform.plf-tchp.io
 platform.pltf-tchg.io
 platform.smartstp.com
+platform.xtbplus.com
 platform8414.com
 platformbill.com
 platforms.app
@@ -38793,6 +38794,7 @@ volsproshop.com
 voltagemining.com
 voltan-outlet.com
 voltix.ai
+voltizifxt.com
 voltronyx.com
 voltsglobalimited.net
 volttrades.com
