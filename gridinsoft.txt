@@ -1050,6 +1050,7 @@ aerodromefi.claims.app
 aerodromeflnanse.org
 aeroexperiaservice.com
 aerosdromes.net
+aerotv.fr
 aerovitagp.com
 aertg.xyz
 aeruna-melbourne.com
@@ -38547,6 +38548,7 @@ verazia.store
 verbicarioalvim.site
 verbraucherschutz.de
 verbraucherwelt.net
+verdantfinance.com
 verdemower.store
 verdew.com
 verdictserver.com
