@@ -2488,6 +2488,7 @@ app.dash2trade.com
 app.dataannotation.tech
 app.earnpark.com
 app.ebaytay.cyou
+app.efectywallet.com
 app.eigenzlayer.xyz
 app.essencemarkets.net
 app.evnova.ai
