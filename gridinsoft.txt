@@ -8536,6 +8536,7 @@ coinmetro.online
 coinmetroltd.com
 coinminars-pro.com
 coinminingcentraltd.com
+coinminingfxpayintl.com
 coinmix.cash
 coinmq.com
 coinmqf.com
@@ -10247,6 +10248,7 @@ ddbminer.com
 ddc4shop.com
 ddcdshop.live
 ddcvendors.com
+ddd.com
 ddec1-0-en-ctp.trendmicro.com
 ddgwy.com
 ddi.im
