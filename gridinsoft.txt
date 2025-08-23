@@ -27260,6 +27260,8 @@ nostaly.shop
 nostosgoods.com
 notablean.com
 notablevape.com
+notcoindrops.xyz
+notcoinglveaway.xyz
 notcopystore.com
 note-swap.com
 noteboomedelsmederij.nl
@@ -28849,6 +28851,7 @@ paris-allure.com
 paris.cc.global.prod.fastly.net
 parischarme.store
 pariscoin.vip
+pariscoin.xyz
 parisdocase.com
 parislively.com
 paritexultra.com
@@ -29108,6 +29111,7 @@ pegasusswap.com
 pehervi.com
 pehigh.shop
 peibuj.com
+peipei-coin.xyz
 peiund.com
 pekashow.net
 pelavor.shop
