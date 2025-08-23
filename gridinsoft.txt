@@ -3623,6 +3623,7 @@ backfilter.shop
 backmarket.nl
 backpack-promo.com
 backpack-quiz.com
+backpack-quize.com
 backtoblu.online
 backyardguardian.com
 backyardsun.com
@@ -27334,6 +27335,7 @@ nouvar.com
 nouvvo.fr
 nova-montreal.com
 nova-warszawa.com
+novaai.expert
 novabitinvestmentcenter.com
 novachainlimited.com
 novacheck.ca
