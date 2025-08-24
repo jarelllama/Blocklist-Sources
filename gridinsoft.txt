@@ -30128,6 +30128,7 @@ portal.hitechgloballtd.online
 portal.loginarea.live
 portal.oneecosystem.eu
 portal.ovb.es
+portal.polygon.technology
 portal.tagmarkets.com
 portal.worldbusinesspay.com
 portaldedicasonline.com
