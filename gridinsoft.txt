@@ -3637,6 +3637,7 @@ babygoodsnest.store
 babygrow.shop
 babyhav.shop
 babylon3.vip
+babypepecoin.xyz
 babyshopstoress.com
 babytodmarket.com
 babytoll.shop
@@ -24484,6 +24485,8 @@ mawlwineit.com
 max-alpha.org
 max-charge.co
 max-earn.com
+max-miner.online
+max-miner.tech
 max-potentials.ltd
 maxaduswallet.com
 maxalimited.co.uk
@@ -37557,6 +37560,7 @@ tonic-naganotonic.com
 tonicgrreens.com
 tonix.live
 tonjardinpropre.org
+tonminer.io
 tonminer24.space
 tonpick.game
 tonshaker.com
