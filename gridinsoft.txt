@@ -2522,6 +2522,7 @@ app.any.run
 app.assetbarnn.com
 app.astratt.top
 app.astratt.xyz
+app.bank-bit.com
 app.bitinvs.com
 app.bitpricing.com
 app.brainstorm.market
@@ -19858,6 +19859,7 @@ indunetworking.com
 indus-tp.com
 industrialmachholdings.com
 industriebauladen.com
+industrybuying.com
 inefex.com
 inefex.pro
 ineminer.com
@@ -24153,6 +24155,7 @@ mamtech-ae.com
 manadapp.lol
 management.com
 managemoney101.com
+manahegazeda.org
 manarapro.online
 manarc.co.uk
 manchesterfinanceltd.com
@@ -28171,6 +28174,7 @@ omocat-shops.shop
 omoneyandfarto.com
 omoroivcza.shop
 omrontechils.com
+omvix.store
 on-cloud.ca
 on-cloudus.com
 on-eu.co
