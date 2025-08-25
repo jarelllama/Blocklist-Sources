@@ -2408,6 +2408,7 @@ apartmentinpoznan.pl
 apeaceofmind.pro
 apegis.com
 apelgel.uy
+apellodiscord.com
 apellosgrouptv.com
 apespeednft.com
 apex-foundation.online
@@ -41100,10 +41101,12 @@ web3.metamask.com.de
 web3.okxusdt.net
 web3.olmaxsc.com
 web3.skdalo.xyz
+web30jupiter.net
 web3aitrades.com
 web3app.org
 web3backupvault.com
 web3bay.io
+web3chainnetworks.com
 web3coinrule.com
 web3cry.cc
 web3duck.com
@@ -41122,8 +41125,10 @@ web3infinity.io
 web3interactive.io
 web3km.online
 web3land.net
+web3nest.org
 web3o-eth.vip
 web3pay.biz
+web3securewallet.com
 web3securityvault.com
 web3selfcustody.com
 web3vault.com
