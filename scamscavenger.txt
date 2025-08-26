@@ -34,6 +34,7 @@ basio.app
 bearhour.sbs
 bebsatrade.com
 beonbit.com
+bestbit.pro
 big-clock.online
 bitcapitalmine.com
 bitcarwash.net
@@ -60,6 +61,7 @@ comexbit.com
 comexpay.sbs
 cortextradz.com
 covahourly.cfd
+crypto-infinity.ltd
 cryptoguns.pro
 cryptolios.net
 cryptorocket.ltd
