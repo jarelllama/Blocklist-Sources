@@ -7423,6 +7423,7 @@ celcservice.shop
 celeb-connect.online
 celebcoa.com
 celebprize.com
+celebritybooked.vip
 celebsinformation.com
 celeharm.com
 celemla.com
@@ -19687,6 +19688,7 @@ icon-amsterdam.com
 icon.us
 iconamsterdam.com
 iconcss.com
+iconforex.uk
 iconicinternational.online
 iconicoargentina.com
 iconictrade-limited.com
