@@ -1279,6 +1279,7 @@ ai.deepseek.pro
 ai.dgpt.club.com
 ai.fund.top
 ai.kraken2025.com
+ai.opensto.com
 ai.pool.trading
 ai.trades.co
 ai1115.com
@@ -17255,6 +17256,7 @@ glowwestcocasly.shop
 glowyfave.com
 glowywill.com
 gloxycapital.com
+glpformula.com
 glpjourney.co.uk
 glspostservice.com
 glubit.shop
