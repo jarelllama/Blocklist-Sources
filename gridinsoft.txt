@@ -10177,6 +10177,7 @@ dailyopp.pro
 dailyosale.shop
 dailypawparadise.store
 dailyshopinc.xyz
+dailystats.in
 dailytehillim.online
 dailytradesltd.com
 dailyuploads.net
