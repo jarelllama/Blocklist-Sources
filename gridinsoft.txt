@@ -27313,6 +27313,7 @@ nexa-global.net
 nexabnk.com
 nexaglobalwallet.com
 nexalia-ai.net
+nexalia-aiapp.com
 nexalina.com
 nexamazon.com
 nexapax.com
@@ -36054,6 +36055,7 @@ sub2unlock.in
 subarise.com
 subduedespana.com
 sublimemaison.com
+submarinen.com
 submodei.com
 subnautica2-access.com
 suboxonestore.com
