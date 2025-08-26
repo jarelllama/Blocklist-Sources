@@ -7008,6 +7008,7 @@ carboom.store
 carbures.store
 carcaremaster.shop
 carcoveronline.shop
+cardemblems.com
 carder.market
 cardgage.com
 cardhaven.fr
@@ -35080,6 +35081,7 @@ solclixinnovation.online
 soldebivouac.com
 solderalchemy.com
 soldescomposants.com
+soldessacsfemme.com
 solea-melbourne.com
 soleartz.com
 soleil-exchange.com
