@@ -41601,6 +41601,7 @@ web.debank.netlify.app
 web.genevetrd.online
 web.globaltradestationltd.com
 web.hawkishgroupre.com
+web.lexorfinance.io
 web.lotradecoin.net
 web.nnleas.top
 web.novacryptpro.com
