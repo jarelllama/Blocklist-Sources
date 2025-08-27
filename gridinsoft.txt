@@ -40585,6 +40585,7 @@ vertexpublishinghouse.online
 vertexsector.com
 vertexstandardequity.com
 vertextserver.com
+vertextserverbot.com
 vertexvaluecapital.com
 vertexx-income.net
 vertexxchange.com
