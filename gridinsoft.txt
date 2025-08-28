@@ -797,6 +797,7 @@ account.branchsfx.com
 account.cardplus.cc
 account.kickscrew.com
 account.nordicalliancebank.net
+account.wealthnora.com
 accountdeduction.com
 accountretrieva.com
 accounts.apple.ejhdk.xyz
