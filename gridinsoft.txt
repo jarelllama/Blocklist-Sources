@@ -5194,6 +5194,7 @@ bitnest.ac
 bitnest.finance
 bitnest.io
 bitnest.me
+bitnest.so
 bitnesttrades.com
 bitnetx.cloud
 bitnexusfx.com
@@ -27836,6 +27837,7 @@ nicekishop.com
 nicekore.com
 nicekune.com
 niceloveship.com
+niceoffer.info
 niceomenvs.click
 niceonee.com
 niceprint.store
@@ -40214,6 +40216,7 @@ us3-trust.com
 us4k.store
 us5.my
 usa-benchmade.com
+usa-hepato-burn.com
 usa-musiciansfriend.com
 usa-prozenith.com
 usa-qe.xyz
@@ -40602,6 +40605,7 @@ vantegewest.org
 vantex.finance
 vantique.net
 vanwatchmods.com
+vanzomedia.com
 vapecartonline.com
 vapepenb2b.com
 vapepentech.com
