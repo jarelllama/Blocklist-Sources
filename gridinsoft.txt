@@ -2598,6 +2598,7 @@ app.city2000.cc
 app.climaxsignals.com
 app.cloudminecrypto.com
 app.cloudtrks.com
+app.clubmining.io
 app.codesaleservice.com
 app.coinfazi.com
 app.conectacrypto.com
