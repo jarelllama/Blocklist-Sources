@@ -8391,6 +8391,7 @@ client.capstoneltd.io
 client.futurawmltd.com
 client.iqmining.com
 client.longsharks.capital
+client.tradegaia.com
 clientcare.co
 clientehostix.net
 clientesparcel.dhl.es
@@ -16862,6 +16863,7 @@ geoproyectosmexico.com
 george.com
 georgiaoilandgas.ge
 georgistoychev.shop
+geosite-de.com
 geosite.mobi
 geouscoura.com
 geoxsdiscountshop.com
@@ -21040,6 +21042,7 @@ jadedlondons.com
 jadeitelaboratory.com
 jadeluxury.shop
 jadeplushies.com
+jadhar.com
 jadloresga.shop
 jaguafrangosalimentosltda.com
 jaguarfreecoins.com
@@ -37312,6 +37315,7 @@ tamptek.com
 tamsupersm.click
 tandemamltd.com
 tangren1.sbs
+tanioble.com
 tankx.live
 tankyaura.com
 tankyglam.com
