@@ -8556,6 +8556,7 @@ clothpuna.shop
 clothsecret.com
 cloud-com.us
 cloud-eth.cc
+cloud-mines.org
 cloud.aiminers.pro
 cloud.aremining.app
 cloud.bhmining.org
@@ -28163,6 +28164,7 @@ nicekishop.com
 nicekore.com
 nicekune.com
 niceloveship.com
+nicemzshop.store
 niceoffer.info
 niceomenvs.click
 niceonee.com
