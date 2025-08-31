@@ -2689,6 +2689,7 @@ app.tb-ecosystem.com
 app.terminalwallet.net
 app.tronassets.com
 app.tuc.global
+app.tvplayers.net
 app.ultraarb.uk
 app.uni2matrix.com
 app.upifex.org
@@ -28791,6 +28792,7 @@ oceaods.com
 ocearise.digital
 oceb.bizvalley.shop
 ocedi.org
+ocevajewelry.com
 ochouogi.com
 ocianasset.com
 ocljobenrichment.com
@@ -39792,6 +39794,7 @@ trxboost.pro
 trxchains.com
 trxchargepoint.net
 trxgain.com
+trxho.com
 trxkim.vip
 trxmax.live
 trxminerboost.com
