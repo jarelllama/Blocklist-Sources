@@ -5704,6 +5704,7 @@ bnbmining.cc
 bnbmining.co
 bnbpick.io
 bnbspace.site
+bnbtiger.top
 bnbto.com
 bnbup.com
 bnbverify.cc
@@ -42272,6 +42273,7 @@ watchbroom.site
 watchclne.com
 watchclubshop.com
 watchcod-ol.shop
+watchcodltaly.shop
 watchde.to
 watchefinder.com
 watchescollector.shop
