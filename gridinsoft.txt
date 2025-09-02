@@ -2061,6 +2061,7 @@ amazon.pre-sales.shop
 amazon.selfsecurely.com
 amazon.store.linkpc.net
 amazon183.com
+amazon185.com
 amazon186.com
 amazonaimall.com
 amazonanalytics.us
@@ -3343,6 +3344,7 @@ atlastrustgroup.com
 atm05.com
 atm1.top
 atmastore.com
+atmexx.com
 atmsolcoin.com
 atobility.com
 atomicstays.com
