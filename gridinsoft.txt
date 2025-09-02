@@ -7803,6 +7803,7 @@ cfd.capitalgroupspain.com
 cfd.capitals-gain.com
 cfd.crystalfinanceslimited.com
 cfd.interactiveproltd.com
+cfd.luxury-trade.io
 cfd.network-capital-partners.com
 cfd.pro-interactiveltd.com
 cfd.spectre-group-limited.com
@@ -30703,6 +30704,7 @@ peregrinetravelwa.cloud.com
 perenco-energy.ltd
 perezinstitute.com
 perfecrtmoney.com
+perfect-dex.com
 perfectdid.com
 perfectftball.com
 perfectfx-trade.us
@@ -41297,6 +41299,7 @@ vacuumssale.com
 vaderfinds.store
 vaduzoverseas.com
 vaelon.help
+vaelon.net
 vaevpen.com
 vague-zorvex.com
 vahlura.com
