@@ -2661,6 +2661,7 @@ app.liveyema.com
 app.lockcoin.net
 app.lockswallet.net
 app.lucidfluencerai.com
+app.marketvovo.xyz
 app.markthal.vip
 app.mediaplayhihi.com
 app.meshchain.ai
@@ -5835,6 +5836,7 @@ bollyflix.wales
 bollyshow.shop
 bolonzi.com
 bolsadoconsorcio.com.br
+bolsillotiendaonline.com
 boltclick.click
 bom.so
 bomacademy.com
