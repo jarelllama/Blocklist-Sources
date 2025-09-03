@@ -10710,6 +10710,7 @@ dashboard.monadscore.xyz
 dashboard.myarbit.com
 dashboard.payrib.com
 dashboard.plutustradebase.com
+dashboard.pyproxy.com
 dashboard.solixdepin.net
 dashboard.synthelix.io
 dashboard.teneo.pro
