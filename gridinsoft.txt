@@ -2567,6 +2567,7 @@ api.606pub.com
 api.bettysweeps.com
 api.box
 api.getsolara.gg
+api.myablefy.com
 api.paygate.to
 api.wavebrowser.co
 apicddn.com
@@ -13043,6 +13044,7 @@ edenhoj.com
 edenmdplus.com
 edenofclothes.com
 edenrockbase.com
+edensgardenjewelry.com
 edf-noel2023.fr
 edgarlouisa.com
 edge-tv.ca
