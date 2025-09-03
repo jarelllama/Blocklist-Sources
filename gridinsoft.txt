@@ -8140,6 +8140,7 @@ chicgarments.shop
 chicgradstyles.shop
 chichaveni.com
 chichei.com
+chicherjewelry.com
 chichomefinds.shop
 chiciluxury.com
 chicisa.com
@@ -38254,6 +38255,7 @@ task.qlik-es.com
 taskadeai-data.top
 taskadeai.data.top
 taskcash.org
+taskluckboom.top
 taskly24s.com
 taskm4u.com
 taskofdeity.netlify.app
