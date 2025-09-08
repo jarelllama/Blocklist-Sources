@@ -2792,6 +2792,7 @@ app.syncconnects.com
 app.tarracos.com
 app.tb-ecosystem.com
 app.terminalwallet.net
+app.traderoomplatform.com
 app.tronassets.com
 app.tuc.global
 app.tvplayers.net
@@ -24383,6 +24384,7 @@ lidlo.shop
 lidlorg.com
 lidls-online.com
 lidlsalesun.com
+lidlshops-ovo.za.com
 lidlspecialoffer.store
 lidlstor.shop
 lidlukapp.vip
