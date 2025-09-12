@@ -12557,6 +12557,7 @@ dogdex.run
 doge-blockchain.xyz
 doge-farm.biz
 doge-giga.com
+doge-mining.top
 doge-vault.com
 doge-win.com
 dogeabs.xyz
@@ -16084,6 +16085,7 @@ finconnect.fr
 findbestes.com
 findbettertrades.com
 findbt.cc
+finddealus.com
 findefi.co
 finder.expert
 finder2loans.com
