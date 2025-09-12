@@ -5386,6 +5386,7 @@ bitcoinx.app.com
 bitcoinxact.com
 bitconemine.cc
 bitconemine.com
+bitcorate.com
 bitcordverdis.com
 bitcore360.com
 bitcotasks.com
