@@ -11451,6 +11451,7 @@ deckmaster.store
 deckshoplog.com
 declrationun.com
 decobricks.cl
+decodepro.cc
 decoinex.net
 decojtu.dwelsys.top
 decomaisonsoldes.com
@@ -34240,6 +34241,7 @@ quantumdigitalmatket.com
 quantumedgefx.com
 quantumedgeholdings.io
 quantumegdecapital.com
+quantumfinancialsystem.cloud
 quantumfinancialsystem.live
 quantumfxt.com
 quantumleap-funds.com
@@ -43422,6 +43424,7 @@ v3.paymonade.tech
 v4-soniclabs.com
 v4.freemovies.homes
 v4.pastepc.net
+v4gct.com
 v5pxfqo7w061124zh.cfd
 v5s7.xyz
 v6.voiranime.com
