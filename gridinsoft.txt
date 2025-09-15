@@ -2796,6 +2796,7 @@ app.efectywallet.com
 app.eigenzlayer.xyz
 app.essencemarkets.net
 app.evnova.ai
+app.expertoption.com
 app.fbmallblendrush.com
 app.fbmalllinkquick.com
 app.fbmallmixfast.com
@@ -10390,6 +10391,7 @@ crest-officiel.fr
 crestalum.org
 crestfargo.com
 crestprofits.com
+crestvelocity.com
 crestwavecreditunion.com
 crestwellktrade.ltd
 crestwelltradefx.com
@@ -36233,6 +36235,7 @@ runnerneed.eu
 runners-bg.club
 runnersbg.club
 runnerzone.co
+runnit.club
 runtofun.shop
 runtrackshop.com
 runwayhut.com
