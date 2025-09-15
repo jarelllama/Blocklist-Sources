@@ -201,6 +201,7 @@ swc-pay.cfd
 switchbit.top
 synox.cc
 tensorium.ai
+tofix.io
 tradeglobis.com
 trailo.top
 trongy.top
