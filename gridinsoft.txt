@@ -19980,6 +19980,7 @@ h5.lbma.cc
 h5.malcoin.ltd
 h5.mfsaotc.com
 h5.mmdvip.net
+h5.nace1.com
 h5.oke-vip.com
 h5.ownone.org
 h5.qamcoin.com
@@ -32971,6 +32972,7 @@ pinehilltrust.com
 pinequin.com
 pines-capitalltd.com
 pinetransactx.com
+pinetreepressfzco.com
 pinettradeicon.online
 pinetworkvalidator.com
 pinextrade.com
